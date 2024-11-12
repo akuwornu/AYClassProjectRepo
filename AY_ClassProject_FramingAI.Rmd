@@ -5,6 +5,7 @@ date: "2024-11-12"
 output: html_document
 ---
 
+AI & Disaster Framing through Organizational Press Releases
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
