@@ -1,0 +1,178 @@
+
+
+                                                                                                   Page 1 of 4
+      Samsara Unveils New Solutions at Beyond '24 to Transform Physical Operations with Data, Insights, and
+                         Action New offerings for assets, training, and automated w....
+
+
+
+
+    Samsara Unveils New Solutions at Beyond '24 to Transform Physical
+    Operations with Data, Insights, and Action; New offerings for assets,
+training, and automated workflows are built to empower leaders who run the
+                                    world
+                                                   Business Wire
+                                        June 27, 2024 Thursday 2:30 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1379 words
+Dateline: CHICAGO
+
+Body
+
+
+Today, at its Beyond conference, Samsara Inc . ("Samsara") (NYSE: IOT), announced new products and solutions
+built to empower the physical operations leaders who run the world. The conference, taking place June 26-28 in
+Chicago, Illinois, gathers over 2,000 innovators across the industry, including Fortune 500 companies such as DHL,
+Sysco, SLB, and more.
+
+This      press      release     features   multimedia.             View        the      full     release       here:
+https://www.businesswire.com/news/home/20240627833330/en/
+
+(Graphic: Business Wire)
+
+"Our customers keep the world running. They have large, complex operations that are asset and labor-intensive,
+and data and AI are helping them solve their unique challenges," said Sanjit Biswas, CEO and Co-Founder at
+Samsara. "AI-driven insights are transforming our customers' operations, keeping their frontline workers safe and
+saving their organizations millions of dollars. We are proud to partner with our customers to help them operate
+smarter."
+
+Serving tens of thousands of organizations across North America and Europe, the scale of Samsara's Connected
+Operations(TM) Cloud is already contributing to dramatic improvements for customers and the communities they
+serve. In one year alone, Samsara has helped prevent over 200,000 crashes, digitized 230 million workflows, and
+reduced 3 billion pounds of CO2 emissions. Today, Samsara announced new innovations that further connect every
+aspect of physical operations and fuel AI-powered insights to drive tangible results.
+
+Create better, safer jobs for frontline workers
+
+Samsara's customer feedback loop has allowed the company to maintain a rapid pace of innovation and iterate to
+meet changing customer needs. Samsara has already launched several safety products to create better, safer jobs
+for frontline workers. These include Virtual Coach, which helps drivers self-coach in the field, and new AI detections
+
+                                                                                                     Page 2 of 4
+        Samsara Unveils New Solutions at Beyond '24 to Transform Physical Operations with Data, Insights, and
+                           Action New offerings for assets, training, and automated w....
+
+currently rolling out to customers for Drowsiness, Forward Collisions, and Lane Departures, which alert drivers of
+risky behavior in the moment.
+
+Now, Samsara has launched new solutions to further this commitment to safety and efficiency:
+    •      Connected Training: Despite being one of the most dangerous industries with millions of injuries each year,
+           the transportation sector lacks modernized training methods that are customized and adaptable for their
+           unique work environments. With Connected Training, customers can have a data-driven training
+           experience designed for continuous, remote learning via the Samsara Driver App. Managers can upskill
+           their workforce by consolidating all training within the Samsara platform and connecting with existing
+           workflows for a seamless employee experience.
+    •      Connected Workflows: Last year, Samsara introduced Connected Forms to digitize paper processes for
+           physical operations. Today, the company announced a new product, Connected Workflows, which goes
+           beyond form digitization to orchestrating multi-step workflows. Connected Workflows can automatically
+           assign forms, manage approvals, and create tasks based on contextual insights, like entering a geofence
+           or detecting a vehicle crash. Now every department - from operations to HR - can automate workflows to
+           make work safer and easier for frontline employees and administrators.
+
+NexTier Completion Solutions is the second-largest provider of well completion and production services in the U.S.,
+including hydraulic fracturing, wireline operations, and oilfield logistics. As the organization experienced rapid
+growth, it began to suffer from siloed systems and operational inefficiencies. With Samsara, they found a solution
+that allowed them to improve safety performance with streamlined workflows and consolidate data into a single
+platform.
+
+"Automating critical workflows and building our safety checklist with Samsara has given us results that we could
+only dream of," said Renee Merchant, DOT Fleet Systems Lead at NexTier. "Drivers not only complete the forms
+faster, but the information is more accurate than ever before."
+
+Connect every aspect of operations and drive results that matter
+
+As sensors get more sophisticated, yet smaller and easier to install, the world of telematics has expanded. It's now
+possible to connect virtually anything to the cloud, whether it's trailers, tools, or equipment.
+
+Today, Samsara has launched the industry's first enterprise-grade Asset Tag built around this opportunity.
+Samsara's Asset Tag was designed to meet customer demand for tracking and managing small, high-value assets.
+It leverages the Samsara Network of millions of devices to help organizations minimize their downtime spent
+searching for lost or stolen items, reduce associated costs, and simplify inventory management.
+
+Samsara has also announced new next-generation Smart Trailer features to help customers run a safer, more
+efficient trailer operation. For example, Trailer Telematics will allow fleets to diagnose anti-lock braking system
+(ABS) issues and electrical power failures for the first time. As a result, they can optimize trailer maintenance, keep
+drivers safe, and maintain high Compliance, Safety, Accountability (CSA) scores. In addition, new driver efficiency
+tools from Samsara will help customers save time and reduce costs by minimizing manual errors and increasing
+operational efficiency.
+
+"We are helping our customers get data from every corner of their operations - from small assets to large
+equipment to paperless workflows. More data means new insights to help customers improve their operations," said
+Kiren Sekar, Chief Product Officer at Samsara. "Everything we announced today at Beyond will give our customers
+additional tools to make the jobs of their frontline workers better and safer."
+
+To learn more about these and other announcements made at Beyond '24, visit the Samsara blog here .
+
+Continued innovation for the future
+
+                                                                                                  Page 3 of 4
+     Samsara Unveils New Solutions at Beyond '24 to Transform Physical Operations with Data, Insights, and
+                        Action New offerings for assets, training, and automated w....
+
+Samsara's technology is used by many organizations that provide emergency response services across public
+safety, utilities, disaster recovery, and more. To ensure first responders are deployed efficiently during an
+emergency, these organizations rely on FirstNet®, Built with AT&T - the only nationwide communications network
+created with and for public safety.
+
+Samsara is now FirstNet Trusted(TM) meaning the company's Vehicle Gateway has gone through extensive
+cybersecurity testing and is certified for use on the FirstNet network. As a result, public safety customers can
+leverage near real-time routing and dispatch insights from Samsara to further inform response decisions during
+critical times, when every second counts.
+
+Customer momentum across geographies and industries
+
+Samsara also recently announced the winners of its 2024 Connected Operations Awards . These awards honor
+organizations that use data-driven insights from Samsara's platform to achieve tangible outcomes across safety,
+efficiency, sustainability, physical security, digital transformation, and more. This year's winners include: Estes ,
+Primoris Services Corporation , and The Memphis Light, Gas and Water Division , among others.
+
+Follow Beyond '24 news and developments on Samsara's LinkedIn and X pages, or by using the #SamsaraBeyond
+hashtag.
+
+About Samsara
+
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations(TM) Cloud, which is a platform that enables
+organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable
+insights and improve their operations. With tens of thousands of customers across North America and Europe,
+Samsara is a proud technology partner to the people who keep our global economy running, including the world's
+leading organizations across construction, transportation and warehousing, field services, manufacturing, retail,
+logistics, and the public sector. The company's mission is to increase the safety, efficiency, and sustainability of the
+operations that power the global economy.
+
+Samsara is a registered trademark of Samsara Inc. All other brand names, product names or trademarks belong to
+their respective holders.
+
+FirstNet and the FirstNet logo are registered trademarks and service marks of the First Responder Network
+Authority. All other marks are the property of their respective owners.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240627833330/en/
+
+
+CONTACT: Andie Rodriguez
+Samsara
+
+media@samsara.com
+
+
+http://www.businesswire.com
+
+
+
+Graphic
+
+
+(Graphic: Business Wire)
+
+                                                                                                  Page 4 of 4
+     Samsara Unveils New Solutions at Beyond '24 to Transform Physical Operations with Data, Insights, and
+                        Action New offerings for assets, training, and automated w....
+
+
+Load-Date: June 27, 2024
+
+
+  

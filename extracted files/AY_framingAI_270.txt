@@ -1,0 +1,117 @@
+
+
+                                                                                             Page 1 of 3
+         HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
+                 Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+
+
+
+
+ HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards; HYCU R-
+Cloud Continues to Drive Recognition for Its Innovative Approach to Modern
+                        And SaaS Data Protection
+                                                         GlobeNewswire
+                                               July 15, 2024 Monday 7:01 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: COMPANY ANNOUNCEMENT; PRODUCT / SERVICES ANNOUNCEMENT; PRESS RELEASES;
+CONTESTS/AWARDS
+Length: 944 words
+
+Body
+
+Boston, Massachusetts, July 15, 2024 (GLOBE NEWSWIRE) -- HYCU, Inc., a leader for modern data protection
+for on-prem, cloud services and SaaS, and one of the fastest growing companies in the industry, announced today
+that CRN®, a brand of The Channel Company, has named HYCU R-Cloud as a finalist for the 2024 CRN Tech
+Innovator Awards. HYCU is being recognized for R-Cloud in the Data Protection, Management, and Resiliency
+category.
+
+This annual award showcases innovative vendors in the IT channel across 36 distinct technology categories
+ranging from cloud to storage to networking to security. The 2024 winners were selected by a panel of CRN editors
+who reviewed hundreds of vendor entries and solution provider testimonials. Standout innovators were selected as
+finalists based on a number of criteria, including key capabilities, uniqueness, technological ingenuity, and ability to
+address customer and partner needs.
+
+HYCU R-Cloud, is a single, integrated SaaS platform that offers enterprise class automated backup, granular
+recovery, data migration, and disaster recovery across on-premises, multi-cloud platforms, cloud services, and
+SaaS applications. Delivered as a true cloud-native SaaS solution, HYCU R-Cloud is built on an agentless
+architecture, eliminating unnecessary additional hardware or software. A key component of R-Cloud is HYCU R-
+Graph that provides data estate discovery and visualization, supporting more than 70 data sources. In January
+2024, HYCU made HYCU R-Cloud easy to extend to new data sources to protect at scale and to help cover new
+data sources efficiently and easily through the HYCU Generative AI Initiative. This Initiative helped to seamlessly
+integrate generative AI technology, including Anthropics' AI assistant Claude with R-Cloud, redefining the
+development process of data protection integrations and creating an easy-to-use way to create SaaS integrations.
+
+                                                                                            Page 2 of 3
+        HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
+                Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+
+This innovation helps partners to develop and reduce the time to build new data protection modules from weeks to
+hours. This is a stark contrast in the time it may take legacy data protection providers to build and add new
+protection capabilities to data sources.
+
+“We are pleased to recognize the commitment to continuous innovation among this year’s CRN Tech Innovator
+Award finalists. Each of these vendors delivers cutting-edge technology that meets evolving customer needs and
+creates new opportunities for solution providers and the broader IT channel ecosystem,” said Jennifer Follett, VP,
+U.S. Content, and Executive Editor, CRN, The Channel company. “We look forward to future innovations from the
+recipients and to seeing how their solution provider partners use these offerings as the foundation of new, inventive
+solutions.”
+
+“As we know, the proliferation of SaaS application use and the need for modern data protection to make critical
+SaaS application data available and recoverable, has never been higher,” said Simon Taylor, Founder and CEO,
+HYCU. “We developed HYCU R-Cloud to address the data protection challenges of existing on-premises
+infrastructure to the emerging needs of Cloud Services and Platforms and SaaS application data. None of what we
+have accomplished would have been possible without a team of engineers that are immersed in multi-platform,
+database, and SaaS application backup, restoration, and availability. Thank you to CRN’s editors for the selection,
+we are excited to see R-Cloud gain the recognition it so thoroughly deserves.”
+
+The Tech Innovator Awards Finalists can be viewed online at crn.com/techinnovators. Winners will be announced
+on crn.com on August 7, 2024 and will be featured in the August issue of CRN.
+
+For more information on HYCU, visit:www.hycu.com, follow us on X (formerly Twitter), connect with us on LinkedIn,
+Facebook, Instagram, and YouTube.
+
+###About HYCU HYCU is the fastest-growing leader in the multi-cloud and SaaS data protection as a service
+industry. By bringing true SaaS-based data backup and recovery to on-premises, cloud-native and SaaS
+environments, the company provides unparalleled data protection, migration, disaster recovery, and ransomware
+protection to thousands of companies worldwide. As an award-winning and recognized visionary in the industry,
+HYCU solutions eliminate complexity, risk, and the high cost of legacy-based solutions, providing data protection
+simplicity to make the world safer. With an industry leading NPS score of 91, customers experience frictionless,
+cost-effective data protection, anywhere, everywhere. HYCU has raised $140M in VC funding to date and is based
+in Boston, Mass. Learn more at www.hycu.com.
+
+About The Channel Company The Channel Company enables breakthrough IT channel performance with our
+dominant media, engaging events, expert consulting and education, and innovative marketing services and
+platforms. As the channel catalyst, we connect and empower technology suppliers, solution providers, and end
+users. Backed by more than 40 years of unequalled channel experience, we draw from our deep knowledge to
+envision innovative new solutions for ever-evolving challenges in the technology marketplace.
+thechannelcompany.com
+
+Follow The Channel Company: LinkedIn, Facebook, and X
+
+© 2024 The Channel Company, Inc. The Channel Company logo is a registered trademark of The Channel
+Company, Inc. All other trademarks and trade names are the properties of their respective owners. All rights
+reserved.
+
+   Attachment
+
+
+    •   HYCU Named a Finalist in CRN’s 2024 Tech Innovator Awards
+Don Jennings HYCU, Inc. 617-791-1710         don.jennings@hycu.com        Kristin   DaSilva   The   Channel   Company
+kdasilva@thechannelcompany.com
+
+                                                                                           Page 3 of 3
+       HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
+               Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+
+
+Load-Date: July 15, 2024
+
+
+  

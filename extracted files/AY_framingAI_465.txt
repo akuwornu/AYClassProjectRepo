@@ -1,0 +1,298 @@
+
+
+                                                                                              Page 1 of 6
+          House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+
+
+
+   House Science, Space & Technology Committee Issues Testimony From
+                         NIST Director Locascio
+                                                     Targeted News Service
+                                             June 8, 2024 Saturday 3:47 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 2927 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
+
+Body
+
+
+The House Science, Space and Technology Committee released the following testimony by Laurie Locascio,
+director of the U.S. Department of Commerce National Institute of Standards and Technology, from a hearing dated
+May 22, 2024, entitled "Examining NIST's Priorities for 2025 and Beyond":
+
+***
+
+Chairman Lucas, Ranking Member Lofgren, and Members of the Committee, I am Laurie Locascio, Under
+Secretary of Commerce for Standards and Technology and the Director of the Department of Commerce's National
+Institute of Standards and Technology - known as NIST. Thank you for the opportunity to appear before you today
+to discuss the President's Fiscal Year (FY) 2025 budget request for NIST.
+
+Our country's prosperity depends on NIST. During the 2023 holiday shopping period known as Cyber Week,
+consumers bought $38 billion worth of retail items online. NIST protocols ensured that your home router connected
+securely to the internet, and that the internet didn't crash under high traffic. NIST cryptography standards ensured
+that credit card numbers weren't stolen in transit to the retailer.
+
+When stock trades increase, it is NIST's time service, based on the world's most precise atomic clock, that ensures
+accurate timestamps on electronic trades that often occur just microseconds apart, preventing stock market fraud
+and manipulation.
+
+Our communities and buildings like schools and hospitals are more resilient to natural hazards like tornadoes and
+hurricanes because we have learned from NIST investigations of building failures, and updated building codes.
+
+Connected to NIST's roles in the TRANQ Research Act, NIST has developed methods to help doctors and law
+enforcement professionals fight the opioid crisis by measuring, identifying, and reporting drug trends in near real-
+time and consistently finding two to five new drugs in circulation on a monthly basis, helping to prepare
+stakeholders for the next emerging threat similar to fentanyl or xylazine.
+
+                                                                                             Page 2 of 6
+         House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+We inspire trust in new technologies, the products of quintessential American innovation, so that industry and
+consumers can experience the benefits more quickly. NIST's research, measurements, and data help to keep
+people safe and healthy; make sure our communities are resilient and secure; and position our businesses for
+success in the global marketplace. NIST is the only Federal laboratory with a mission entirely focused on driving
+U.S. innovation and industrial competitiveness - and we do this through well-understood, verified measurements
+and standards that are critical for every step in the product development and commercialization cycle - from
+invention to refinement, manufacture to sales, and regulation to decommissioning.
+
+NIST collaborates with industry in this work every step of the way. By working together and asking, "What are the
+difficult measurement problems that are holding your industry back?", NIST can help entire sectors overcome
+barriers to domestic and international competitiveness. NIST's measurement and standards solutions form the
+basis for the Nation's innovation to flourish - and not just for a month, or a year, but to set up U.S. businesses for
+decades of technological leadership to ensure our economic and national security.
+
+Looking ahead to where NIST will be investing our time and resources, we know that building trust in the technology
+of the future is critical. If new technologies are not trusted, they are not adopted. If new technologies are not
+adopted, we lose out on establishing leadership in the next cutting-edge technology, and on the benefits to our
+economic and national security.
+
+We are building the Nation's trust in artificial intelligence (AI) systems through NIST's AI Risk Management
+Framework, our testing and evaluation work, and the newly launched U.S. AI Safety Institute, which I'm proud to
+say will be housed within NIST. In close collaboration with more than 200 of the leading AI companies, researchers,
+and members of civil society, we are also working to make sure that AI is safe, secure, and trustworthy. We see a
+future where AI will be used to realize huge efficiencies in R&D and manufacturing, and improve the daily lives of all
+Americans, from forecasting hurricanes, to increasing community disaster resilience, to saving more lives with
+better cancer screening and diagnosis. And we see a future where we can achieve these goals while minimizing
+potential harms from misuse of AI.
+
+Quantum computing has similar potential. The National Quantum Initiative Act of 2018 created the Federal strategy
+for advancing quantum information science and NIST is proud to be one of the key enablers of the nascent
+domestic quantum ecosystem. NIST continues to support the needs of U.S. industry in increasing the
+commercialization of quantum information science and associated supply chains. Trust in NIST's science-first
+approach and years of experience in quantum measurements help the Nation maintain its competitive edge and
+develop new technologies sustainably and responsibly, and NIST's efforts to identify and support global adoption of
+the next generation of post-quantum cryptography (PQC) standards will play a pivotal role in protecting our data
+and systems once quantum computers become powerful enough to break the conventional encryption technologies
+that secure our digital world today.
+
+Investing in NIST is an investment in the future of American innovation, industrial competitiveness, and public well-
+being. Today, I am pleased to appear before you with NIST's Fiscal Year (FY) 2025 budget request and describe
+how you can empower NIST to continue to lead U.S. science and technology innovation through dedicated
+investment in NIST measurement science, research, and standards. By fully funding NIST's budget request, we can
+continue this vital work and ensure that the U.S. is not left behind in the highly competitive global race for emerging
+technologies.
+
+***
+
+Fiscal Year 2025 Budget Request
+
+The President's budget requests a total of $1.5 billion for NIST in FY 2025 to advance U.S. innovation and industrial
+competitiveness. Through investments in research, measurements, and tools, NIST will drive discoveries and
+standards development in critical and emerging technologies; address urgent capital facility needs on the NIST
+campuses; and strengthen U.S. manufacturing and supply chains.
+
+                                                                                             Page 3 of 6
+         House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+These budget investments above base will enable NIST to meet the national need for AI research, testing, and
+standards; advance quantum information science and technology readiness; and take the first steps toward much
+needed facilities revitalization.
+
+***
+
+Scientific and Technical Research Services (STRS) ($975 million)
+
+NIST's critical science and technology programs, including core measurement capabilities, ensure the global
+system of weights and measurements is grounded on scientific and technical principles. When NIST is successful,
+the Nation is positioned to lead in critical and emerging technologies on the global stage, including in
+semiconductors, cybersecurity and privacy, advanced communications, biotechnology, artificial intelligence,
+quantum information science, and in technologies to advance electric and automated vehicles.
+
+***
+
+Meeting the National Need for Artificial Intelligence (AI) Research, Testing, and Standards
+
+On October 30, 2023, the President signed the historic Executive Order on Safe, Secure, and Trustworthy Artificial
+Intelligence, which entrusts NIST with significant responsibilities to advance the state of AI-related research and fill
+gaps in technical guidance that industry, businesses, and governments rely on. Shortly thereafter in November, the
+Vice President and Secretary of Commerce Gina M. Raimondo announced the NIST-led U.S. AI Safety Institute,
+which will play a critical role in promoting the safe development and use of trustworthy AI.
+
+The FY 2025 budget request includes $50.0 million to fully realize the goals of the AI Executive Order and the U.S.
+AI Safety Institute. NIST will conduct AI research to build the science necessary to understand safe development
+and responsible use of AI; continue efforts to establish testing infrastructure and advance methods for AI system
+evaluation; develop technical guidance to measure and manage AI risks and enable responsible innovation; and
+implement best practices and frameworks to support organizations in measuring AI risks and impacts.
+
+***
+
+Advancing Quantum Information Science and Technology Readiness
+
+Increasing investments and sustained efforts in quantum information science have resulted in the emergence of the
+quantum economy in the United States and globally. NIST experts, including our four Nobel laureates, developed
+technology and measurements that helped launch the quantum industry. As a leader in quantum research, NIST
+continues to support the U.S. quantum industry by engaging in strategic collaborations, as well as identifying and
+conducting R&D to increase U.S. leadership in this global endeavor. As other countries are rapidly investing in
+quantum technologies, NIST is requesting funding so that we can build and sustain the U.S. quantum economy as
+the best in the world for decades to come.
+
+The FY 2025 budget request includes an increase of $13.9 million above the FY 2024 enacted level for new efforts
+to advance quantum information science and technology readiness and build upon our global leadership role. With
+increased attention from international stakeholders on standardization related to quantum technology, NIST will
+proactively engage in standardization efforts to protect the integrity of the international standards ecosystem and
+ensure that resulting standards are based on sound science. NIST will support U.S. industry in moving present-day
+small-scale quantum demonstrations from the lab to the marketplace, address complex material properties that
+currently limit the performance of quantum devices, and implement and refine methods such as post-quantum
+cryptography to mitigate cybersecurity threats posed by quantum technologies.
+
+***
+
+Construction and Maintenance of Research Facilities and Infrastructure (CRF) ($311.5 million)
+
+                                                                                             Page 4 of 6
+         House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+NIST has been asked to take on an increasing number of wide-spanning responsibilities, from AI to quantum
+science and beyond. But the degraded state of our facilities is hindering our ability to meet this increasing demand.
+Without significant investment in world class research and development facilities, NIST and more importantly our
+Nation will be left behind and unable to compete with our adversaries.
+
+When they were commissioned after World War II, NIST's facilities in Gaithersburg, Maryland and Boulder,
+Colorado was considered state-of-the-art. After over 70 years, these facilities are degrading rapidly. As I said in my
+testimony last year, NIST facilities are in critical need of updating and maintenance to meet future needs in
+emerging technologies, and to provide a safe working environment for our staff.
+
+The 2023 National Academies of Science, Engineering, and Medicine (NASEM) study on the condition of NIST's
+facilities has now been supplemented by several reports on individual NIST laboratories detailing some serious
+issues. In Gaithersburg, a NIST calibration service that supports homeland security, industrial sterilization and
+disinfection, and radiation safety, is out of service because the facility lacks adequate environmentally controlled
+conditions. Roof leaks have destroyed multi-million-dollar microscopes. A laboratory in Boulder that develops
+energy-saving electronics, essential to enhancing the competitiveness of the U.S. semiconductor industry, must
+navigate power failures and power spikes that damage equipment or require lengthy restarts.
+
+Alarmingly, aging facility systems present safety concerns. NASEM estimates that "about 63% of NIST research
+facilities [are] failing to meet federally established standards for acceptable building conditions." NIST scientists not
+only need functional facilities, but also to feel safe to conduct their work.
+
+The FY 2025 budget request includes $311.5 million to address NIST facilities needs and the most critical utility
+infrastructure issues.
+
+***
+
+Construction of Research Facilities ($178.3 M)
+
+The FY 2025 budget request includes $178.3 M to modernize the Radiation Physics building to support critical
+measurements. The Radiation Physics building is a one-stop shop for reliable radiation measurements to support
+national security, healthcare, energy, and research, including ensuring the accuracy of radiation doses used in
+every mammogram conducted in the country.
+
+Congress appropriated funds for the first phase of this facility renovation, which was recently completed. However,
+the overall project is only half finished and some unique measurements and calibrations for stakeholders across the
+Nation are continually delayed, discontinued, or in physical spaces that compromise the safety of our staff. We
+need to finish the revitalization of this facility so that we can modernize the rest of the NIST campuses according to
+our long-term master plan.
+
+***
+
+Safety, Capacity, Maintenance and Major Repairs (+$45.4 M)
+
+The FY 2025 budget request includes an increase of $45.4 M above the FY 2024 enacted level, for a total of $133.2
+million, to improve safety, repair and revitalize facilities, address maintenance backlogs, and prevent further loss of
+facilities and equipment. Funds would also help to modernize IT networking infrastructure to deliver the speed,
+reliability, and capacity needed to meet future data and computing demands, particularly for AI, biotechnology,
+quantum information science, and advanced communications.
+
+***
+
+Industrial Technology Services (ITS) ($212 million)
+
+NIST's Hollings Manufacturing Extension Partnership (MEP) and Manufacturing USA are unique public-private
+programs that increase the competitiveness of U.S. manufacturers. MEP assists growth-oriented U.S.-based small
+
+                                                                                             Page 5 of 6
+         House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+and medium-sized manufacturers and about 40% of Manufacturing USA institute members are small- and medium-
+sized manufacturers. These programs help U.S. industry implement new technologies, develop robust supply
+chains, and engage underserved communities in workforce development programs.
+
+***
+
+Manufacturing Extension Partnership (MEP)
+
+The MEP Network has centers in all 50 states and in Puerto Rico. Last year, MEP centers interacted with more than
+36,000 U.S. manufacturers, leading to $16.2 billion in new and retained sales, $2.9 billion in cost savings, $4.8
+billion in new client investments, and helped create or retain more than 107,000 jobs. With the $175 million in
+funding requested, MEP will continue to help narrow the workforce gap; mitigate supply chain vulnerabilities with
+the recently established National Supply Chain Optimization and Intelligence Network; and provide critical
+cybersecurity training and both technical assistance and support for adoption of advanced manufacturing practices.
+
+***
+
+Manufacturing USA
+
+Manufacturing USA institutes bridge the gap from discovery to production and help ensure that U.S. inventions get
+out of the labs and become products manufactured by workers in the United States. In FY 2022, Manufacturing
+USA institutes worked with more than 2,500 member organizations on more than 670 applied research and
+development technology projects of high priority to industry. They engaged 106,000 workers, students, and
+educators in institute- and partner-led advanced manufacturing education and workforce programs.
+
+This year, NIST announced our intent to launch competitions for two new Manufacturing USA institutes: one under
+CHIPS for America to create the first-of-its-kind digital twin institute to lead the world in revolutionizing
+semiconductor and advanced packaging manufacturing, and another focused on the use of AI to improve resilience
+of U.S. manufacturing. The FY 2025 budget request for $37 million would help to accelerate the dissemination of
+technology and workforce skills from Manufacturing USA institutes to U.S. production via merit-based investments
+in industry testbeds across the institute network. This funding would support the new AI-focused institute and our
+current National Institute for Innovation in Manufacturing Biopharmaceuticals (NIIMBL).
+
+***
+
+Summary
+
+NIST is at an inflection point in our history. We've enabled trusted weights and measures for almost 125 years in
+every sector of our economy. We've seen our mission expand in the last 40 years to directly support the
+measurements, standards, and technology needs of small and medium manufacturers, and to channel our
+expertise to lead the Nation in advancing the measurement science and standards in cybersecurity, next-generation
+telecommunications, biotechnology, artificial intelligence, and quantum science - technologies that will define our
+position in the world for decades to come. But we need additional support to deliver on these critical roles for the
+Nation and to not cede U.S. leadership in these areas to our global competitors. We need the physical infrastructure
+to match the expertise of our world-leading scientists and engineers. And we need Congress to help us get to
+where we need to be through fully funding the President's FY 2025 budget request for NIST. I look forward to
+working with you to make that support a reality and look forward to answering your questions.
+
+***
+
+Original   text    here:   https://republicans-science.house.gov/_cache/files/7/7/776ee556-eb98-4f33-b5e1-
+a95cbefbe59e/D0A6F417DA7665C8AA55804613A4E4FB.locascio-fy-25-budget-testimony.pdf
+
+Copyright Targeted News Services
+
+MSTRUCK-8665730 MSTRUCK
+
+                                                                                             Page 6 of 6
+         House Science, Space & Technology Committee Issues Testimony From NIST Director Locascio
+
+
+Load-Date: June 8, 2024
+
+
+  

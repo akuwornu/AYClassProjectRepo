@@ -1,0 +1,1240 @@
+
+
+                                                                                                    Page 1 of 21
+                House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+
+
+
+ House Appropriations Committee Issues Report on DHS Appropriations Bill
+                              (Part 4 of 5)
+                                                     Targeted News Service
+                                              July 7, 2024 Sunday 3:43 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 10873 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
+
+Body
+
+
+WASHINGTON, July 7 -- The House Appropriations Committee issued a report (H.Rpt. 118-553) in explanation of
+the accompanying bill (H.R. 8752) making appropriations for the Department of Homeland Security for the fiscal
+ending Sept. 30, 2025. The report was advanced by Rep. Mark Amodei, R-Nevada, on June 14, 2024.
+
+***
+
+(Continued from Part 3 of 5)
+
+Post-Quantum Cryptography.--The Committee recognizes the importance of FCEB agencies building robust and
+accurate cryptographic inventories to support a post-quantum transition. The Committee encourages CISA to work
+with FCEB agencies to continue to conduct an inventory of systems that are priorities for post-quantum transition
+and update the Committee on progress made toward post-quantum encryption methods at these agencies.
+
+Red Teaming.--The Committee encourages CISA to consider ways to enhance cybersecurity penetration testing
+and red teaming activities for FCEB and SLTT agencies, as well as high priority critical infrastructure companies, to
+augment network hardening and security operations.
+
+Semiannual Cybersecurity Technology and Services Briefings.--The Committee directs CISA to continue
+semiannual briefings on the National Cybersecurity Protection System (NCPS), CDM program, and Joint
+Collaborative Environment (JCE) including information on the remaining NCPS capabilities and the new Cyber
+Analytics and Data System capabilities. The briefings shall include timelines and acquisition strategies from the
+NCPS transition to JCE as well as a full description of the CDM and JCE capabilities currently deployed; the gaps
+remaining; and funding levels for the prior fiscal year, the current fiscal year, and the budget year for each
+capability. The recommendation includes a decrease of $6,640,000 from the fiscal year 2024 enacted level, as
+requested, due to the funded decommissioning and replacement of the legacy Einstein E3A capability.
+
+                                                                                                  Page 2 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Small Manufacturing Cybersecurity Support.--The Committee encourages CISA to continue to explore opportunities
+to partner with the Under Secretary of Defense for Acquisition and Sustainment, the National Institute for Standards
+and Technology, and the Manufacturing Extension Partnership Centers, as described in House Report 117-396 and
+reiterated in House Report 118-123.
+
+State and Local Cybersecurity Grant Program (SLCGP).--The Committee encourages CISA, in coordination with
+FEMA, to consider targeted outreach to elementary and secondary schools as the Department administers the
+SLCGP.
+
+Zero Trust Architecture (ZTA).--The Committee supports CISA's efforts to guide the adoption of ZTA across FCEB
+agencies. Not later than 180 days after the date of enactment of this Act, CISA, in coordination with the Office of the
+National Cyber Director and OMB, shall brief the Committee on FCEB agency progress toward achieving the
+specific cybersecurity standards and objectives outlined in memorandum M-22-09, and efforts to engage FCEB
+agencies on leveraging the CDM program to upgrade to Zero Trust solutions.
+
+Infrastructure Security
+
+The recommendation includes $157,013,000 for the Infrastructure Security Division, a decrease of $2,116,000
+below the fiscal year 2024 enacted level.
+
+Bombing Prevention.--The recommendation includes $31,383,000 for the Office for Bombing Prevention (OBP), an
+increase of $1,074,000 above the fiscal year 2024 enacted level. Sustained OBP funding is needed to keep pace
+with evolving threats and advanced technology development. The Office plays a critical role in ensuring public
+safety and reducing the Nation's vulnerability to explosive threats by addressing the proliferation and use of
+improvised explosive devices.
+
+Bomb Disposal Technician Training and Technology Training Events (TTEs).--The Committee supports sustained
+bomb technician community TTEs. The OBP shall hold a minimum of four events to be conducted across the
+country that bring together Federal, SLTT, and private sector partners. These TTEs shall leverage existing
+partnerships between DHS, DOJ, and DOD to expedite the review and transfer of technology and information for
+public safety and military bomb technicians and validate special response unit capability assessment data. Not later
+than 120 days after the date of enactment of this Act, CISA shall brief the Committee on its efforts to conduct these
+annual TTEs across the country. This briefing shall include schedules to conduct a minimum of four TTEs and
+provide an estimate of the total program cost.
+
+Critical Infrastructure Worker Security.--The Committee encourages CISA to keep updated guidance available to
+help protect the cyber and personally identifiable information security of individuals that operate critical
+infrastructure, including election infrastructure at the SLTT level.
+
+Emergency Communications
+
+The recommendation includes $102,691,000 for the Emergency Communications Division, an increase of
+$1,126,000 above the fiscal year 2024 enacted level.
+
+First Responder Emergency Medical Communications Program (REMCDP).--The recommendation provides
+$2,000,000 for REMCDP, a decrease of $2,000,000 below the fiscal year 2024 enacted level and an increase of
+$2,000,000 above the request, for CISA to administer competitive grants for SLTT merit-based demonstration
+projects and technical assistance offerings that support the implementation of the National Emergency
+Communications Plan through innovative approaches to interoperable emergency medical communications in rural
+areas.
+
+Next Generation Network Priority Services.--The Committee is aware of proofs of concept currently supported
+through the Next Generation Network Priority Services (NGN-PS) Phase II program, including the development of
+highly customizable platforms enabling communication between disparate wireless and wired protocols. The
+
+                                                                                                  Page 3 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+recommendation includes a restoration of $3,200,000 above the fiscal year 2024 enacted level for the NGN-PS
+program to partially restore proposed cuts from CISA in fiscal year 2024.
+
+Securing Communications Networks.--CISA is urged to identify ways to encourage Federal, SLTT, and private
+sector partners to replace any technology or services provided by companies on the Federal Communications
+Commission Covered List (List of Equipment and Services Covered by section 2 of the Secure Networks Act),
+which leaves entities exposed to cyber vulnerabilities and foreign espionage.
+
+Integrated Operations
+
+The recommendation includes $243,460,000 for the Integrated Operations Division, an increase of $15,082,000
+above the fiscal year 2024 enacted level mainly due to new CIRCIA requirements and pay corrections.
+
+Regional Security Advisors.--The Committee urges CISA to fill security advisor vacancies in the ten CISA regional
+offices, as highlighted in the 2022-2026 Strategic Plan. These advisors will be in addition to the Cybersecurity State
+Coordinators established in furtherance of section 1717 of the William M. (Mac) Thornberry National Defense
+Authorization Act (Public Law 116-283) for fiscal year 2021, in order to supplement regional capability in areas of
+high demand or particular national security importance. The Committee is also aware that CISA is considering
+cross-training chemical inspectors with other security advisor skills. Within 90 days of the date of enactment of this
+Act, CISA shall brief the Committee with representatives from the regional offices on efforts to fill these vacancies
+and a plan for chemical inspector cross-training and budget implications to do so.
+
+CISA Support to Pacific Islands.--The Committee supports the work of CISA in bolstering the cyber and physical
+security of Federal, SLTT, and critical infrastructure partners in the Indo-Pacific region and encourages CISA to
+consider potential areas for growth, and resources needed to expand such Pacific Island engagement including to
+counter activities by foreign nation-state actors.
+
+Risk Management Operations
+
+The recommendation includes $130,144,000 for the Risk Management Operations Division, a decrease of
+$3,726,000 below the fiscal year 2024 enacted level mainly due to contract efficiencies and pay corrections.
+
+Digital Twin Technology.--The Committee recognizes that digital twin technology can provide real-time information
+regarding the physical and cybersecurity of important facilities, systems, and assets. The Committee encourages
+CISA to consider whether digital twin technology would improve its ability to understand, manage, and reduce risk
+to the Nation's cyber and physical infrastructure.
+
+Stakeholder Engagement and Requirements
+
+The recommendation includes $96,312,000 for the Stakeholder Engagement and Requirements Division, a
+decrease of $3,406,000 below the fiscal year 2024 enacted level.
+
+Mission Support
+
+The recommendation includes $477,853,000 for the Mission Support Division, a decrease of $653,000 below the
+fiscal year 2024 enacted level.
+
+Chief Learning Officer (CLO) Programs.--The Committee supports the CLO's efforts to work with other agencies to
+streamline cyber workforce and education programs and recognizes the value of the following programs: the CISA
+Try Cyber program, which helps provide early skill identification and the fostering of cyber career interest of critically
+needed cyber talent, and the new CISA Threat Sandbox Challenges program, which allows CISA to provide rapid
+training to future cyberspace defenders on some of the most dangerous Common Vulnerabilities and Exposures
+(CVE) identified in the CISA Known Exploited Vulnerabilities (KEV) Catalog. The Committee encourages these
+programs to incorporate the integration of artificial intelligence and machine learning tools to ensure the
+programs' continued efficacy.
+
+                                                                                                  Page 4 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS
+
+Appropriation, fiscal year 2024 ... $489,401,000
+
+Budget request, fiscal year 2025 ... 499,349,000
+
+Recommended in the bill ... 493,572,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +4,171,000
+
+Budget request, fiscal year 2025 ... -5,777,000
+
+The recommendation for Procurement, Construction, and Improvements includes $380,182,000 for the CDM
+program, $79,709,000 for the Cyber Analytics Data System (CADS), $28,681,000 for Next Generation Networks
+Priority Services, and $5,000,000 for the CyberSentry program.
+
+CyberSentry.--Not later than 90 days after the date of enactment of this Act, CISA shall transmit to the Committee a
+plan for the additional CyberSentry capacity it will achieve in fiscal year 2025.
+
+RESEARCH AND DEVELOPMENT
+
+Appropriation, fiscal year 2024 ... $793,000
+
+Budget request, fiscal year 2025 ... 2,715,000
+
+Recommended in the bill ... - - -
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -793,000
+
+Budget request, fiscal year 2025 ... -2,715,000
+
+The recommendation includes no funds for Research and Development, a decrease of $793,000 below the fiscal
+year 2024 enacted level.
+
+Federal Emergency Management Agency
+
+Appropriation, fiscal year 2024 ... $25,341,537,000
+
+Budget request, fiscal year 2025 ... 27,598,370,000
+
+Recommended in the bill ... 28,145,913,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +2,804,376,000
+
+Budget request, fiscal year 2025 ... +547,543,000
+
+Mission
+
+The Federal Emergency Management Agency (FEMA) helps build, sustain, and improve the Nation's capability to
+prepare for, protect against, respond to, recover from, and mitigate all hazards through disaster response,
+recovery, and grant programs supporting first responders, emergency management, mitigation activities, and
+preparedness.
+
+                                                                                                  Page 5 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+OPERATIONS AND SUPPORT
+
+Appropriation, fiscal year 2024 ... $1,483,990,000
+
+Budget request, fiscal year 2025 ... 1,573,442,000
+
+Recommended in the bill ... 1,551,093,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +67,103,000
+
+Budget request, fiscal year 2025 ... -22,349,000
+
+The recommendation includes the following Operations and Support decreases from the fiscal year 2024 enacted
+level: $2,181,000 for regional logisticians and planners with a climate and equity focus, $1,776,000 for equitable
+investment in risk reduction, $1,222,000 for strategies to address climate change, and $1,010,000 for headquarters
+equity positions.
+
+Mitigation
+
+Disaster Preparedness and Hazard Mitigation.--The Committee recognizes FEMA's efforts to help residents and
+communities prepare for and mitigate the impacts of disasters and natural hazards, such as earthquakes and
+extreme weather events involving hail, through its Hazard Mitigation Assistance grant programs. The Committee
+encourages FEMA to continue its work with state emergency management agencies to ensure adequate planning
+and investments to reduce the loss of life and damage to property caused by disasters.
+
+Natural Hazard Mitigation Infrastructure.--The Committee is aware that rehabilitation or establishment of natural
+infrastructure, including but not limited to marshes, wetlands, mangroves, and dunes can reduce damage from
+flooding and coastal storm surges and provide effective floodplain management. Such natural infrastructure can
+also have long-term beneficial impacts on topography, soils, water quality, wetlands, floodplains, coastal resources,
+aquatic resources, and public health and safety in coastal areas. The Committee encourages FEMA to continue to
+engage with other Federal and non-Federal stakeholders to develop and support conservation and environment-
+based flood mitigation measures and to utilize mitigation grant funds for natural infrastructure projects, consistent
+with the directive under this heading in House Report 117-87.
+
+Preparedness and Protection
+
+Planning for Animal Wellness Act Implementation.--The Planning for Animal Wellness Act (Public Law 117-212)
+requires FEMA to establish a working group of experts to review and recommend best practices and Federal
+guidance on the needs of household pets, service and assistance animals, and captive animals, as appropriate, in
+emergency and disaster preparedness, response, and recovery. FEMA shall keep the Committee apprised of its
+efforts to implement Public Law 117- 212 and any recommendations made by the working group not later than 90
+days after the date of enactment of this Act.
+
+Wireless Emergency Alerts.--The Committee reminds FEMA of the requirement under this heading in House Report
+118-123 and urges the on-time transmission of the report.
+
+Strategic Stockpiles.--FEMA, in partnership with the Department of Health and Human Services, shall provide an
+update within 90 days of the date of enactment of this Act on the coordination of Federal resources to strengthen
+the capabilities of state strategic stockpiles, minimize duplication, and respond strategically to emergencies.
+
+Response and Recovery
+
+Digital Twin Technology.--The Committee recognizes that digital twin technology can provide for sophisticated
+simulation of emergency scenarios, potentially enabling more accurate, beneficial, and cost-effective disaster
+
+                                                                                                  Page 6 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+preparedness. The Committee encourages FEMA to consider whether the technology would be beneficial for
+emergency management purposes, including planning, preparedness, and response capabilities.
+
+Innovative Technologies in Coordinated Disaster Response.-- The Committee is aware that FEMA employs
+innovative technologies, including geographic information system (GIS) tools in collaboration with nonprofit entities,
+to improve disaster response capabilities, such as urban search and rescue software platforms. The
+recommendation includes $3,000,000 for the Office of Response and Recovery, in close coordination with the U.S.
+Fire Administration, to expand upon geospatial urban search and rescue training, planning, and response efforts
+with search and rescue geospatial support technology solutions in preparation for emergency events and disaster
+responses. FEMA shall consider appropriate data exchange between these efforts and the National Emergency
+Response Information System (NERIS). Not later than 60 days after the date of enactment of this Act, FEMA shall
+brief the Committee on a spend plan for the funds and information on how FEMA plans to integrate the solution,
+where appropriate, with NERIS.
+
+Synthetic Aperture Radar (SAR) Satellite-Driven Hazard Monitoring.--The Committee recognizes that shortening
+natural disaster response times provides more timely assistance to those affected by disasters and allows
+communities to recover quicker from devastating events. The Committee understands that FEMA's used SAR
+satellite-driven hazard monitoring technology to analyze disasters such as floods and wildfires, and this data has
+specifically been proven effective in streamlining disaster declarations, improving immediate situational awareness,
+and in supporting FEMA's community engagements following disasters. The Committee encourages FEMA to
+continue the use of this SAR driven hazard monitoring technology to shorten the disaster recovery response
+timeline, increase the efficiency of the recovery process, and integrate the use of this technology across FEMA's
+resilience, response, and recovery efforts.
+
+Veterinary Emergency Teams Pilot.--Consistent with section 1218 of the Disaster Recovery Reform Act (Public
+Law 115-254), the Committee encourages FEMA to coordinate with appropriate Departments of Health and Human
+Services and Agriculture agencies to partner with accredited colleges of veterinary medicine with a history of
+disaster response deployments in order to establish one or more national veterinary emergency teams.
+
+Mission Support
+
+The recommendation includes $648,601,000 for Mission Support, an increase of $23,639,000 above the fiscal year
+2024 enacted level.
+
+PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS
+
+Appropriation, fiscal year 2024 ... $99,528,000
+
+Budget request, fiscal year 2025 ... 110,387,000
+
+Recommended in the bill ... 94,827,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -4,701,000
+
+Budget request, fiscal year 2025 ... -15,560,000
+
+The recommendation includes $94,827,000, a decrease of $4,701,000 below the fiscal year 2024 enacted level.
+
+FEDERAL ASSISTANCE
+
+Appropriation, fiscal year 2024 ... $3,497,019,369
+
+Budget request, fiscal year 2025 ... 3,522,541,000
+
+Recommended in the bill ... 3,758,992,810
+
+                                                                                                  Page 7 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +266,973,441
+
+Budget request, fiscal year 2025 ... +236,451,810
+
+A comparison of the fiscal year 2024 enacted level to the Committee recommended level by budget activity is as
+follows:
+
+***
+
+Grants
+
+The recommendation restores $330,975,000 in cuts made to grants in fiscal year 2024.
+
+Continuing Training Grants.--The recommendation includes $16,000,000 for Continuing Training Grants, including
+not less than $6,000,000 to be competitively awarded for FEMA-certified rural and tribal training, of which not less
+than $3,000,000 is for rural and not less than $3,000,000 is for tribal. The Committee also supports FEMA's use of
+Continuing Training Grants for the National Cybersecurity Preparedness Consortium.
+
+Cost-Share Analysis.--FEMA is directed to conduct an analysis of DHS grant programs and assess and provide
+recommendations on the appropriateness of adjustments to existing cost-sharing splits, or in the case that none
+exist, new cost-sharing splits that improve the effectiveness and resilience of the programs on American
+communities. FEMA shall brief the Committee on the analysis and recommendations within 210 days of the date of
+enactment of this Act, to include any legislative or regulatory action needed to carry out such recommendations.
+
+Human Remains Detection (HRD) Canine Teams.--The Committee recognizes the importance of canine teams as a
+key component of urban search and rescue task forces, including both live find and HRD canines. The Committee
+encourages FEMA to consider support of HRD canine teams through the urban search and rescue cooperative
+agreements.
+
+Nonprofit Security Grant Program.--Within 180 days of the date of enactment of this Act, FEMA is directed to submit
+a report to the Committee on the Nonprofit Security Grant Program for fiscal years 2022, 2023, and 2024. The
+report shall detail by fiscal year: the number of grant applications submitted, the total amount of grant funding
+requested, the number of grants awarded, and, for each grant award, the name of the recipient, the amount, and
+the project type. The report shall also include an analysis of the impacts of the program, including tangible results
+demonstrating how the program has improved preparedness and reduced the risk of terrorist or other extremist
+attacks.
+
+National Domestic Preparedness Consortium (NDPC).--The Committee acknowledges the positive impact of the
+NDPC on domestic preparedness by training emergency responders and event personnel against a range of
+threats. The Committee encourages FEMA to continue to consider threats inherent to large spectator sports and
+special events within the NDPC purview.
+
+Next Generation Warning System.--The Committee supports the mission of the Next Generation Warning System
+Grant Program (NGWSGP) to help public media entities replace and upgrade aging infrastructure needed to
+enhance alert, warning, and other public safety communications systems to ensure national resilience, including
+service to underserved populations and the ability to meet the evolving nature of public alerting challenges. The
+recommendation includes $40,000,000 for NGWSGP, consistent with the fiscal year 2024 enacted level.
+
+Operation Stonegarden.--The Committee strongly supports the mission of the Operation Stonegarden program to
+enhance cooperation and coordination among CBP, Federal, and SLTT law enforcement agencies to improve
+overall border security. The recommendation includes $90,000,000 for Operation Stonegarden, an increase of
+$9,000,000 above the fiscal year 2024 enacted level. The Committee reminds FEMA of the need to ensure states
+make proper and timely distributions to local governments. The Committee encourages the Department to explore
+how funding can be used by grant recipients to purchase technology such as cameras, sensors, and drones. The
+
+                                                                                                  Page 8 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Committee also encourages the Department to explore how grant funding can be used to help interdict illicit
+outbound firearms and currency.
+
+Risk MAP Urban Flood Mapping Program.--FEMA is reminded of the requirement in House Report 117-87 to brief
+the Committee within 30 days of the completion of fiscal year 2020 Urban Area Flooding Pilot activities, and to
+make related recommendations, including whether a permanent program should be established.
+
+Unmanned Aircraft Training.--The Committee supports the FAA Center of Excellence for Unmanned Aerial Systems
+(ASSURE) Unmanned Aircraft Systems (UAS) training program for first responders in a leadership role to
+understand how to manage larger-scale and more complex disasters. The Committee encourages FEMA to work
+toward the development of a framework to build workforce skills and a database of those capable of applying them
+in local, state, and national emergencies. The Committee supports FEMA's use of Continuing Training Grants for
+this purpose.
+
+School Safety.--School hardening measures are eligible activities under the Urban Area Security Initiative (UASI)
+and the State Homeland Security Program (SHSP). Funds may be used for bullet resistant doors and glass; hinge-
+locking mechanisms; immediate notification to emergency 911 systems; mechanisms that provide real time
+actionable intelligence directly to law enforcement and first responders; installation of distraction devices or other
+countermeasures administered by law enforcement; and other measures determined to provide significant
+improvement to school physical security. The Committee encourages FEMA to work with states and school districts
+to increase awareness of these funding opportunities.
+
+Shelter and Services Program (SSP).--The recommendation includes no funds for SSP for fiscal year 2025. Not
+later than 90 days after the date of enactment of this Act, FEMA, in coordination with CBP, shall make publicly
+available online and report to the Committee on the amount of SSP funding within the previous three fiscal years
+that has gone to communities delineated by border states and non-border states and the justification for such
+distribution. FEMA shall coordinate with ICE to identify entities receiving funding allocations located within
+jurisdictions that do not comply with ICE detainers to highlight in the report.
+
+State and Local Cybersecurity Grant Program (SLCGP).--The Committee encourages FEMA, in coordination with
+CISA, to consider targeted outreach to elementary and secondary schools as the Department administers the
+SLCGP.
+
+Tribal Nations Emergency Response.--The Committee is aware of the importance of communications
+interoperability during times of crisis, including for Tribal nations. The Committee encourages FEMA to consider the
+feasibility of developing an interoperable digital emergency management platform for Tribal nations.
+
+Wood Chipper Programs.--The Committee understands that wood chipper programs are an effective means of fuel
+reduction in communities under threat from wildfire because they assist residents in maintaining defensible space
+around their homes, other structures, and access routes, and enable communities to easily dispose of large
+amounts of potential fuel. The Committee encourages FEMA to continue to fund wood chipper programs in high-risk
+communities through the Fire Prevention and Safety Program.
+
+DISASTER RELIEF FUND
+
+Appropriation, fiscal year 2024 ... $20,261,000,000
+
+Budget request, fiscal year 2025 ... 22,392,000,000
+
+Recommended in the bill ... 22,741,000,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +2,480,000,000
+
+Budget request, fiscal year 2025 ... +349,000,000
+
+                                                                                                   Page 9 of 21
+               House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+The recommendation includes an increase of $2,480,000,000 above the fiscal year 2024 enacted level for the
+Disaster Relief Fund.
+
+Disaster Assistance for Persistent Poverty Counties.-- Public Law 117-103 increased the Federal cost share from
+75 percent to 90 percent for major disasters declared during calendar years 2020 and 2021. The Committee
+encourages FEMA to consider adjusting the cost share for persistent poverty counties for disasters declared during
+calendar year 2022.
+
+Emergency Housing.--The Committee recognizes the vital support FEMA provides to communities in the aftermath
+of major disasters, including sheltering and housing assistance for individuals and families displaced from their
+homes. The Committee is concerned that housing shortages may impact recovery efforts, reduce community
+resiliency, and cause long- term displacement after a major disaster. FEMA is directed to submit a report to the
+Committee within 180 days of the date of enactment of this Act that details emergency housing operations for major
+disasters over the last three years, including the type of sheltering and housing assistance provided to survivors
+and responders, the costs associated with the shelter and housing assistance, the number of individuals and
+families housed, and the duration of housing assistance.
+
+NATIONAL FLOOD INSURANCE FUND
+
+Appropriation, fiscal year 2024 ... $239,983,000
+
+Budget request, fiscal year 2025 ... 239,785,000
+
+Recommended in the bill ... 239,785,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -198,000
+
+Budget request, fiscal year 2025 ... - - -
+
+Flood Insurance Rate Maps.--FEMA is reminded of the requirement under this header in House Report 118-123.
+
+Title III--Administrative Provisions
+
+Section 301. The Committee continues a provision regarding cybersecurity threat feeds.
+
+Section 302. The Committee continues a provision limiting expenses for the administration of grants.
+
+Section 303. The Committee continues a provision specifying timeframes for grant applications and awards.
+
+Section 304. The Committee continues a provision requiring a five-day advance notification for certain grant awards
+under "Federal Emergency Management Agency--Federal Assistance".
+
+Section 305. The Committee continues a provision addressing the availability of certain grant funds for the
+installation of communications towers.
+
+Section 306. The Committee continues a provision requiring the submission of a monthly Disaster Relief Fund
+report.
+
+Section 307. The Committee continues a provision permitting waivers of certain Staffing for Adequate Fire and
+Emergency Response grant program requirements.
+
+Section 308. The Committee continues a provision providing for the receipt and expenditure of fees collected for the
+Radiological Emergency Preparedness Program, as authorized by Public Law 105-276.
+
+                                                                                                 Page 10 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Section 309. The Committee continues a provision permitting waivers of certain requirements pertaining to
+Assistance to Firefighter Grants.
+
+Section 310. The Committee continues a provision regarding the transfer of unobligated balances under the
+National Predisaster Mitigation Fund.
+
+Section 311. The Committee continues a provision regarding the transfer of unobligated balances under the Flood
+Hazard Mapping and Risk Analysis Program.
+
+TITLE IV--RESEARCH, DEVELOPMENT, TRAINING, AND SERVICES
+
+U.S. Citizenship and Immigration Services
+
+Appropriation, fiscal year 2024 ... $281,140,000
+
+Budget request, fiscal year 2025 ... 265,230,000
+
+Recommended in the bill ... 112,431,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -168,709,000
+
+Budget request, fiscal year 2025 ... -152,799,000
+
+Mission
+
+U.S. Citizenship and Immigration Services (USCIS) adjudicates and grants immigration and citizenship benefits,
+confirms eligibility for employment and public services, and promotes an awareness and understanding of
+citizenship in support of immigrant integration, while protecting the integrity of the Nation's immigration system.
+USCIS activities are primarily funded through fees collected from applicants for immigration benefits.
+
+OPERATIONS AND SUPPORT
+
+Appropriation, fiscal year 2024 ... $271,140,000
+
+Budget request, fiscal year 2025 ... 255,230,000
+
+Recommended in the bill ... 112,431,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -158,709,000
+
+Budget request, fiscal year 2025 ... -142,799,000
+
+The Committee provides $112,431,000 for Operations and Support, a decrease of $158,709,000 below the fiscal
+year 2024 enacted level. The recommended funding is exclusively for the E-Verify program. The program allows
+enrolled employers to confirm the eligibility of their employees to work in the United States.
+
+Affirmative Asylum.--USCIS is reminded of the requirement under this heading in the explanatory statement
+accompanying Public Law 118-47.
+
+Application Processing.--USCIS is directed to prioritize the timely processing of citizenship and other applications,
+with a goal of adjudicating all requests within six months of submission or referral. USCIS is directed to make
+available, on a publicly accessible website, an interactive dashboard detailing the number of forms received,
+processed, approved, denied, and pending by month, along with the average processing time and the number of
+forms pending for more than six months for all USCIS forms. USCIS shall update the Committee on the status of
+
+                                                                                                 Page 11 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+this requirement during the quarterly budget and productivity briefings required by House Report 117-396 and
+House Report 118-123. The dashboard shall be updated monthly but not later than the tenth business day following
+the end of each month and permit the downloading of the underlying data in a searchable and sortable spreadsheet
+format.
+
+Backlog Reduction and Reporting.--USCIS is directed to continue monthly reporting to the Committee on the
+application processing case backlog trends and statistics. USCIS is urged to improve the timeliness of such
+reporting due to the importance of subject matter to the mission of the agency and the need for congressional
+oversight.
+
+Budget Justification Materials.--USCIS is directed to ensure user fee budget justifications include descriptions of
+planned spending profiles, year-over-year changes, and cost assumptions. The justifications for these accounts
+should provide the same level of detail and analysis as is provided for the Department's discretionary funding
+accounts. For example, the justification shall contain detailed budget exhibits for each of the fee PPAs and fully
+describe the staffing and hiring strategy. In addition, the materials shall include the plans and budget assumptions
+for USCIS's international operations and the funding and planned outcome measures for business process
+improvements and modernization efforts.
+
+A full understanding of USCIS's budget strategy, plans, and assumptions are critical to Congress's oversight
+responsibilities--regardless of the funding source. The Committee expects these items to be addressed with the
+annual budget justification materials or that the necessary program details, funding and staffing profiles, and other
+exhibits be submitted concurrently with the delivery of the annual budget.
+
+Cost Recovery.--USCIS is urged to limit fee waivers to ensure maximum recovery of costs associated with USCIS
+services. USCIS is directed to include fee waiver data in the quarterly budget and staffing briefings. The Committee
+reminds USCIS of the directive in the explanatory statement accompanying Public Law 118-47 to provide a briefing
+on ways to improve cost recovery at the agency.
+
+Corrected Employment Documents.--The Committee encourages USCIS to take necessary steps to issue corrected
+employment authorization documents within 90 days of the date of enactment of this Act.
+
+Data on Asylum Operations.--USCIS is directed to continue to make available, on a publicly accessible website in a
+downloadable, searchable, and sortable format, the information required under this heading in the explanatory
+statement accompanying Public Law 117-328.
+
+E-Verify.--The Committee encourages USCIS to continue efforts to modernize the E-Verify program, as well as
+improvements in outreach efforts and training tools to assist employers in improving the accuracy of information
+they submit into the system.
+
+Electronic Processing.--The Committee continues the requirement for USCIS to provide a quarterly brief on its
+electronic processing efforts. The Committee supports the ongoing digitization efforts of USCIS forms and signature
+requirements to comply with the 21st Century Integrated Digital Experience Act (Public Law 115-336) and
+encourages USCIS to ensure all digitized forms are able to be worked electronically.
+
+Eliminating Confusion in Classifying Job Occupations.--The Committee directs USCIS to continue to update each of
+its online and paper forms to ensure that the Standard Occupational Classification codes are the only occupational
+codes used. USCIS shall notify the Committee once this requirement is complete.
+
+Employee Investigation.--The Committee is deeply troubled by the lack of expediency and transparency by this
+administration in investigating and making a determination regarding the employment of an individual at USCIS who
+publicly celebrated the terrorist attacks on Israel on October 7, 2023. Secretary Mayorkas confirmed the individual
+in question is on administrative leave and still being paid by the Department during a Subcommittee hearing on
+April 10, 2025. Within 30 days of the date of enactment of this Act, USCIS shall provide a thorough briefing to the
+Committee about the status and findings of the employment investigation, including results of an audit of the asylum
+cases reviewed by the employee, and any changes made or being considered to USCIS hiring practices.
+
+                                                                                                 Page 12 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Quarterly Budget and Productivity Reporting.--The Committee is very concerned by the lack of urgency in providing
+timely quarterly budget and productivity briefings and directs USCIS to ensure moving forward that the quarterly
+briefings required under this heading in House Report 117-396 are provided promptly. USCIS shall continue to
+provide these briefings in fiscal year 2025.
+
+Refugee Admissions.--USCIS shall continue to provide the information required under this heading in the
+explanatory statement accompanying Public Law 117-103, to include fiscal year 2025.
+
+Spouse Petitions.--With respect to fiance(e) or spouse petitions involving a minor party, the Committee continues to
+direct USCIS to document the age of the minor party at the time of the civil/legal marriage, along with the age
+difference between the parties, with ages given in months as well as years.
+
+FEDERAL ASSISTANCE
+
+Appropriation, fiscal year 2024 ... $10,000,000
+
+Budget request, fiscal year 2025 ... 10,000,000
+
+Recommended in the bill ... - - -
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -10,000,000
+
+Budget request, fiscal year 2025 ... -10,000,000
+
+The recommendation includes no funds for the Citizenship and Integration Grant Program, a decrease of
+$10,000,000 below the fiscal year 2024 enacted level. The Committee notes the grants provided in fiscal year 2024
+had a period of availability of two years.
+
+Not later than five business days prior to the finalization of the Notice of Funding Opportunity, USCIS shall brief the
+Committee on any changes to the execution of the program, including changes in the qualifications and
+expectations of grant recipients.
+
+Grant Reporting.--USCIS is directed to continue the requirement under this heading in the explanatory statement
+accompanying Public Law 118-47. In addition, the required report shall also include information on any accepted
+donations by the program inclusive of the amounts and donors. The Committee encourages USCIS to continue to
+keep the Committee apprised of the metrics used to evaluate this grant program.
+
+Private Donation Authority.--The Committee reminds USCIS that it continues to have the authority to accept private
+donations to support the Citizenship and Integration Grant Program.
+
+Federal Law Enforcement Training Centers
+
+Appropriation, fiscal year 2024 ... $377,200,000
+
+Budget request, fiscal year 2025 ... 363,389,000
+
+Recommended in the bill ... 366,752,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -10,448,000
+
+Budget request, fiscal year 2025 ... +3,363,000
+
+Mission
+
+                                                                                                  Page 13 of 21
+               House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+The Federal Law Enforcement Training Centers (FLETC) provide or facilitate basic and advanced law enforcement
+training for over 90 Federal agencies and numerous SLTT and international law enforcement organizations.
+
+OPERATIONS AND SUPPORT
+
+Appropriation, fiscal year 2024 ... $357,100,000
+
+Budget request, fiscal year 2025 ... 363,389,000
+
+Recommended in the bill ... 360,752,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +3,652,000
+
+Budget request, fiscal year 2025 ... -2,637,000
+
+The recommendation provides $360,752,000 for Operations and Support, an increase of $3,652,000 above the
+fiscal year 2024 enacted level.
+
+Human Trafficking Awareness Training Outreach.--The Committee recognizes that in January 2021, FLETC
+entered into a Memorandum of Understanding with the Blue Campaign, now part of the CCHT, to make the Human
+Trafficking Awareness Training program available for up to 500 SLTT agents and officers at no cost. The
+Committee encourages FLETC, in coordination with the CCHT, to increase its advertising of this critical training to
+its law enforcement partners in fiscal year 2025 and to report to the Committee on any requests for training FLETC
+was unable to fulfill due to funding constraints.
+
+SLTT Training.--The Committee reminds FLETC of the directive found in House Report 118-123 to submit a report
+on its efforts to meet the training needs of SLTT law enforcement.
+
+Use of Training Facilities.--The Director of FLETC shall schedule basic or advanced law enforcement training, or
+both, at all four training facilities to ensure they are fully utilized at the highest capacity throughout the fiscal year.
+
+PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS
+
+Appropriation, fiscal year 2024 ... $20,100,000
+
+Budget request, fiscal year 2025 ... - - -
+
+Recommended in the bill ... 6,000,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -14,100,000
+
+Budget request, fiscal year 2025 ... +6,000,000
+
+The recommendation provides $6,000,000, which includes $4,000,000 for the replacement of aged electric boilers
+and $2,000,000 for a combined heat and air project at the Glynco campus.
+
+Science and Technology Directorate
+
+Appropriation, fiscal year 2024 ... $741,634,000
+
+Budget request, fiscal year 2024 ... 836,108,000
+
+Recommended in the bill ... 744,591,000
+
+                                                                                                 Page 14 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +2,957,000
+
+Budget request, fiscal year 2025 ... -91,517,000
+
+Mission
+
+The mission of the Science and Technology Directorate (S&T) is to conduct and support research, development,
+developmental and operational testing and evaluation, and the timely transition of homeland security capabilities to
+operational end users at the Federal, state, and local levels.
+
+OPERATIONS AND SUPPORT
+
+Appropriation, fiscal year 2024 ... $369,811,000
+
+Budget request, fiscal year 2024 ... 383,485,000
+
+Recommended in the bill ... 375,238,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +5,427,000
+
+Budget request, fiscal year 2025 ... -8,247,000
+
+Redundant Research and Development Efforts.--Prior to engaging in any new or continuing funding for any existing
+research and development activities, the Department and any relevant component agencies shall first consider
+whether any existing efforts are currently or were previously funded elsewhere in the Federal Government, such as
+DOD, that would address such requirements.
+
+PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS
+
+Appropriation, fiscal year 2024 ... $61,000,000
+
+Budget request, fiscal year 2025 ... 50,270,000
+
+Recommended in the bill ... 30,000,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -31,000,000
+
+Budget request, fiscal year 2025 ... -20,270,000
+
+The recommendation provides $10,000,000 for critical improvements to S&T's laboratory facilities and $20,000,000
+for the Plum Island Closure and Support (PICS) Program.
+
+National Biodefense Analysis and Countermeasures Center (NBACC) Facility Expansion.--In 2023, S&T completed
+a scoping study for NBACC facility expansion. According to the study, the requirement for facility expansion would
+accommodate additional BSL-2 laboratories; the required mechanical support and storage space for the generation
+of data; a data center with state-of- the-art computational and network infrastructure that can support analysis,
+storage, and transfer of large data sets; and additional SCIF space required for the sensitive nature of the work
+performed. Additionally, the study identified a need to expand the facility for office/administrative space adjacent to
+the current NBACC laboratory facility. To ensure that the Committee has the full long-term plan for expansion of the
+laboratory, S&T shall provide a five-year master facility expansion plan, including year-by-year resource
+requirements, not later than 90 days after the date of enactment of this Act.
+
+                                                                                                 Page 15 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Plum Island Closure and Support (PICS) Program.--The Committee provides $20,000,000 to continue the transition,
+closure, and conveyance of all Plum Island real property and all related personal property to facilitate the transfer of
+the Plum Island Animal Disease Center (PIADC) mission to the National Bio and Agro-Defense Facility (NBAF). The
+Committee notes that the transition of PIADC science mission activities to NBAF is no longer on schedule. S&T is
+directed to continue providing semiannual briefings on the progress of these activities.
+
+RESEARCH AND DEVELOPMENT
+
+Appropriation, fiscal year 2024 ... $310,823,000
+
+Budget request, fiscal year 2025 ... 402,353,000
+
+Recommended in the bill ... 339,353,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +28,530,000
+
+Budget request, fiscal year 2025 ... -63,000,000
+
+The recommendation includes $28,530,000 over the fiscal year 2024 enacted level.
+
+Research, Development, and Innovation
+
+Advanced Sensors Technologies.--Within the funds provided, the Committee encourages work on critical research
+areas such as developing and fielding next generation first responder technology that utilizes advanced sensors
+and imager technologies.
+
+Antisemitism Research.--Within the funds provided, the Committee encourages S&T to explore new opportunities
+for researching how to combat antisemitism, including preventing violence.
+
+Binational Industrial Research and Development Homeland Security (BIRD HLS) Program.--The Committee
+continues to support the BIRD HLS program, which allows S&T to work with Israeli partners to develop innovative
+technology solutions for homeland security needs and encourages funding at the fiscal year 2024 enacted level.
+
+Chemical Security Analysis Center (CSAC).--The Committee continues to support the important work of CSAC with
+the U.S. Army's Chemical and Biological Center. Within the funds provided, S&T is encouraged to evaluate the
+cyber and physical infrastructure vulnerabilities of domestic chemical manufacturing facilities critical to military
+energetics programs.
+
+Critical Infrastructure and Cyber Attacks.--Within the funds provided, S&T is encouraged to support research to
+develop and demonstrate timely hierarchical software quality assurance and timely cyber-attack mitigation
+techniques for hardware in one or more of the following Department-designated critical infrastructure sectors:
+chemical, information technology, critical manufacturing, water and wastewater, communications, and
+transportation.
+
+Cross-Border Threat Screening and Supply Chain Defense.-- Within the funds provided, the Committee continues
+to encourage S&T to expand research and analysis on cross-border threat screening and supply chain defense in
+support of research on new technologies and capabilities, including predictive data analytics, to eliminate
+disruptions to the food and agriculture supply chain and for early detection of public health threats and biothreats.
+
+Counter Unmanned Aerial Systems (C-UAS).--Within the funds provided, the Committee encourages S&T to
+support C-UAS technology development to identify and mitigate border threats.
+
+Cybersecurity for Tourism.--Within the funds provided, the Committee urges S&T, in coordination with FLETC, to
+establish a Cybersecurity for Tourism Consortium to help align government interests in public safety and security
+with the Nation's tourism industry.
+
+                                                                                                 Page 16 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Digital Twin.--Within the funds provided, S&T is encouraged to pursue research and development related to the use
+of digital twins. Advanced modeling and simulation can improve and enhance mission effectiveness by developing
+new paradigms, tools, and simulation-enabled capabilities for DHS operations, including geospatial simulations of
+the southern border.
+
+Durable Lithium-Ion Batteries.--Within the funds provided, the Committee encourages S&T to research innovative
+technologies improving the safety, reliability, and operational durability of lithium-ion batteries utilized by DHS law
+enforcement personnel, including the development of electrolyte additives with shear thickening and ballistic
+protection capabilities.
+
+Enabling Unmanned Aerial Systems.--The Committee acknowledges the critical value in the establishment of the
+common test site for demonstration and research of UAS and is pleased that the site is also available to other
+Federal, state, and local partners. The Committee encourages S&T to continue funding this work, prioritize the use
+of the common test site to conduct on-site testing and evaluation for the Department, and facilitate a close
+collaboration with the FAA UAS Center of Excellence.
+
+Fentanyl Detection.--Within the funds provided, the Committee encourages S&T, in conjunction with CBP, to
+improve opioid and fentanyl detection. Such efforts shall include research on additional technological solutions to
+target and detect low-purity fentanyl, especially in counterfeit pressed tablets; enhance targeting of counterfeit pills
+through nonintrusive, noninvasive, and other visual screening technologies; and improve data-driven targeting to
+increase seizure rates of fentanyl and its precursors.
+
+Improving Cybersecurity.--Within the funds provided, the Committee encourages S&T to work with CISA to enhance
+cybersecurity capabilities through strategic research and development in mitigation, solution development, and
+resilience, in particular high-resolution magnification to examine emerging semiconductor technologies, aiding in
+detecting potential structural defects for improved cybersecurity.
+
+Intelligent Memory Fabric.--Innovative information technology platforms, such as those provided by Intelligent
+Memory Fabric, can help DHS develop deployable, secure, and efficient data systems. Within the amounts
+provided, the Committee encourages S&T to explore Intelligent Memory Fabric as a modular, scalable, and
+distributable technology.
+
+Maritime Domain Awareness for Coasts and Harbors.--The Committee continues to recognize the threats facing the
+U.S. borders from the sea. The Committee encourages S&T to continue to support ongoing maritime systems and
+sensor studies for the research, development, testing, and evaluation of environmentally powered unmanned
+maritime vehicles and buoys with surface and subsurface threat detection and tracking capabilities utilizing
+partnerships with academic institutions with access to established maritime test ranges and maritime support
+facilities.
+
+National Biodefense Analysis and Countermeasures Center (NBACC).--The Committee recognizes the critical work
+done by NBACC. Within the amount provided, the Committee encourages S&T to support the necessary operations
+funding, as well as continue its investments in modernizing the facility's infrastructure.
+
+Network Technology for Airports.--Within the funds provided, S&T is encouraged to support research to improve
+network technology for airports, which has the potential to increase the efficiency of airport operations and address
+economic and security challenges.
+
+Next-Generation Biosurveillance Systems.--Within funds provided, the Committee encourages S&T to advance
+research into agnostic biodetection capabilities that provide rapid screening of large volumes of individuals.
+
+Next-Generation Detection and Mitigation of Autonomous Drones.--Research and exercises using realistic threat
+replicas will improve the ability to determine how to best defeat drone threats. Within the funds provided and by
+leveraging university expertise, the Committee encourages S&T to study and mock threats and, utilizing realistic
+testing and exercises, develop defeat strategies for safe mitigation activities.
+
+                                                                                                 Page 17 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Passive Muon Tomography Systems.--Within the funds provided, the Committee urges S&T, in partnership with
+CBP, to advance the optimization of passive muon tomography systems to enhance such detection capabilities at
+the border and POEs.
+
+Partnership Intermediary Agreements.--Within the funds provided, the Committee encourages S&T to establish
+Partnership Intermediary Agreements to enable components across the Department to engage immediately on
+technology transfer and transition activities. Partnership Intermediary Agreements, as defined under section 3715 of
+title 15, United States Code, support the Department's ability to seek out, assess, and engage non-traditional small
+business vendors for the Department's development and acquisition efforts.
+
+Port and Maritime Resiliency and Security.--The Committee continues to recognize the vast data threat facing the
+U.S. maritime/port sector. Within the funds provided, the Committee encourages support for the ongoing Port and
+Maritime Resiliency and Security Testbed research program for the design and development of tactics, techniques,
+and procedures for effective threat response to critical maritime infrastructure.
+
+Quantum Computing Use-Case Identification Initiative.--The Committee supports a coordinated and focused
+research program in identifying near-term public sector use cases for quantum computing applications. The
+Committee directs S&T, in coordination with the Quantum Economic Development Consortium, Federally Funded
+Research and Development Centers, and the quantum industry, to identify public sector use cases which could
+benefit DHS and its components. S&T shall examine all quantum computing technologies including annealing, gate-
+model, and quantum-hybrid. Within 180 days of the date of enactment of this Act, S&T shall provide a briefing to the
+Committee summarizing its findings.
+
+Realistic Environments for Enterprise Team Awareness Kit.-- The Committee recognizes the significant hurdles
+surrounding large scale event security planning, especially when plans involve coordinated Federal and SLTT
+operations addressing both cyber and physical threats. The Committee encourages S&T to support the
+development of realistic live, virtual, and constructive environments for enterprise team awareness kit.
+
+Training Simulations.--Within funds provided, S&T is encouraged to work with industry to create next generation
+training simulations, such as using multi-lingual, artificial intelligence driven avatars, for DHS-specific use cases.
+High- fidelity realistic training for front-line personnel will promote the safety of the DHS workforce.
+
+Understanding Threats to Public Officials.--Within 180 days of the date of enactment of this Act, S&T shall provide a
+report on threats to public officials, including judges, school board leaders, county health officers, Members of
+Congress, military leaders, and others. The study shall examine the numbers and types of reported threats,
+estimate the number and types of unreported threats, and analyze actions taken in response to these reported
+threats at the Federal and SLTT levels.
+
+U.S.-Israel Cybersecurity Cooperation Enhancement Program.--The Committee encourages funding at the fiscal
+year 2024 enacted level for the U.S.-Israel Cybersecurity Cooperation grant program, as authorized by section
+1551 of the National Defense Authorization Act for fiscal year 2022 (Public Law 117-81), to support cybersecurity
+research and development, demonstration, and commercialization of cybersecurity technology.
+
+Voting Technologies and Election Data Security Procedures.--The Committee supports research to ensure that
+voting software and hardware is studied and vetted before being used during Federal, state, and local elections.
+Consistent with prior year direction and within the resources provided, S&T is encouraged to fund quality assurance
+and continuous evaluation research on voting technologies and election procedures in cooperation with a qualified
+organization with experience performing technical audits of statewide elections systems. In consultation and
+coordination with the Election Assistance Commission and CISA, this investment should include the development of
+new tools and training modules to enable states and localities to ensure that their election systems are secure.
+
+University Programs
+
+The recommendation provides the requested amount for University Programs. S&T's University Programs allow for
+cooperation with colleges and universities to address pressing homeland security needs. This includes $45,880,000
+
+                                                                                                 Page 18 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+for the Centers of Excellence (COE). These programs include the COE, the Workforce Development Initiatives, and
+the Minority Serving Institutions Programs. Combined, these programs promote homeland security research and
+education, train current and future students and professionals, and build a more diverse homeland security
+workforce.
+
+Centers of Excellence Program.--The COE program is the flagship research account for universities at DHS. The
+program brings together hundreds of academic institutions and private sector entities to generate basic and applied
+research that rapidly delivers innovative technologies for the homeland security community to meet imminent and
+future threats. The COE network catalyzes the development of new marketplaces for technologies geared toward
+keeping our Nation safe and secure. This level of coordination for the development of user-facing security
+technologies is not funded by any other Federal agency.
+
+Countering Weapons of Mass Destruction Office
+
+Appropriation, fiscal year 2024 ... $409,441,000
+
+Budget request, fiscal year 2025 ... 418,022,000
+
+Recommended in the bill ... 361,313,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -48,128,000
+
+Budget request, fiscal year 2025 ... -56,709,000
+
+Mission
+
+The Countering Weapons of Mass Destruction Office (CWMD) leads DHS efforts to develop and enhance programs
+and capabilities that defend against chemical, biological, radiological, and nuclear threats.
+
+OPERATIONS AND SUPPORT
+
+Appropriation, fiscal year 2024 ... $163,280,000
+
+Budget request, fiscal year 2025 ... 160,163,000
+
+Recommended in the bill ... 159,252,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -4,028,000
+
+Budget request, fiscal year 2025 ... -911,000
+
+The Committee reminds CWMD of the directive found in House Report 118-123 to provide a briefing on its plans to
+enhance SLTT communication and outreach.
+
+Radiation Portal Monitor Interference.--The Committee encourages CWMD to work in partnership with CBP to
+quickly resolve interference that may occur when NII systems are installed in close proximity to radiation portal
+monitors.
+
+PROCUREMENT, CONSTRUCTION, AND IMPROVEMENTS
+
+Appropriation, fiscal year 2024 ... $42,338,000
+
+Budget request, fiscal year 2025 ... 33,397,000
+
+                                                                                                  Page 19 of 21
+               House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Recommended in the bill ... 33,397,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -8,941,000
+
+Budget request, fiscal year 2025 ... - - -
+
+The recommendation includes $33,397,000 for Procurement, Construction, and Improvements, a decrease of
+$8,941,000 below the fiscal year 2024 enacted level.
+
+RESEARCH AND DEVELOPMENT
+
+Appropriation, fiscal year 2024 ... $60,938,000
+
+Budget request, fiscal year 2025 ... 60,938,000
+
+Recommended in the bill ... 110,938,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... +50,000,000
+
+Budget request, fiscal year 2025 ... +50,000,000
+
+Biological Detection for the 21st Century (BD21).--The Committee is disappointed that CWMD's budget submission
+continues to omit funding for the BD21 program; the program is designed to procure innovative technologies to
+improve detection capabilities of airborne bio-threats. The recommendation includes $50,000,000 to further the
+capabilities of the BD21 program to include procurement of technologies that mitigate capability vulnerabilities in the
+current BioWatch infrastructure as identified by GAO, SLTT, and other industry stakeholders. Within 90 days of the
+date of enactment of this Act, CWMD shall submit a spend plan outlining how these additional funds will be utilized,
+as well as a procurement timeline. Further, the Committee directs CWMD to consult with SLTT stakeholders to
+determine their biodetection needs and within 180 days of the date of enactment of this Act provide a report
+summarizing the results of that consultation and how those results will be used by CWMD.
+
+Antimicrobial Resistance (AMR).--AMR presents a growing threat to national security. The Committee supports the
+recommendation of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (PACCARB) to
+designate AMR as a material threat, thereby unlocking additional resources for development and stockpiling of
+critical countermeasures. Therefore, the Committee directs the Department to initiate an evaluation, assessment,
+and determination of the material threat of AMR in accordance with the March 2023 PACCARB report
+recommendation.
+
+FEDERAL ASSISTANCE
+
+Appropriation, fiscal year 2024 ... $142,885,000
+
+Budget request, fiscal year 2025 ... 163,524,000
+
+Recommended in the bill ... 57,726,000
+
+Bill compared with:
+
+Appropriation, fiscal year 2024 ... -85,159,000
+
+Budget request, fiscal year 2025 ... -105,798,000
+
+BioWatch.--The Committee, GAO, and independent organizations, such as the Bipartisan Commission on
+Biodefense, have had longstanding concerns about the security value provided by BioWatch. The current program
+
+                                                                                                 Page 20 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+is incapable of identifying biological threats in a timely and accurate manner due to a prolonged event-to-detection
+timeline. According to the Bipartisan Commission on Biodefense, hospitals receiving patients from a suspected
+incident would likely detect a biological attack well before detection through BioWatch. As a result, the
+recommendation does not include funding for the current BioWatch program and instead includes $50,000,000 for
+the BD21 program to examine follow-on capabilities. The Committee directs CWMD to terminate the BioWatch
+program.
+
+Title IV--Administrative Provisions
+
+Section 401. The Committee continues a provision allowing USCIS to acquire, operate, equip, and dispose of up to
+five vehicles under certain scenarios.
+
+Section 402. The Committee continues a provision limiting the use of A-76 competitions by USCIS.
+
+Section 403. The Committee continues a provision related to the collection and use of biometrics.
+
+Section 404. The Committee includes a new provision prohibiting funds for the rule entitled, "Procedures or
+Credible Fear Screening and Consideration of Asylum, Withholding of Removal, and CAT Protection Claims by
+Asylum Officers." Section 405. The Committee includes a new provision prohibiting funds for employment
+authorization documents for certain aliens.
+
+Section 406. The Committee includes a new provision related to the H-2B program.
+
+Section 407. The Committee includes a new provision related to USCIS official reception and representation
+expenses.
+
+Section 408. The Committee includes a new provision prohibiting the consideration of H-1B petitions from any entity
+identified under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for fiscal year
+2021.
+
+Section 409. The Committee continues a provision authorizing FLETC to distribute funds for incurred training
+expenses.
+
+Section 410. The Committee continues a provision directing the FLETC Accreditation Board to lead the Federal law
+enforcement training accreditation process to measure and assess Federal law enforcement training programs,
+facilities, and instructors.
+
+Section 411. The Committee continues a provision allowing for the acceptance of funding transfers from other
+government agencies for construction of special use facilities.
+
+Section 412. The Committee continues a provision classifying FLETC instructor staff as inherently governmental for
+certain purposes.
+
+Section 413. The Committee includes a new provision related to the H-2A program.
+
+Section 414. The Committee includes a new provision related to the USCIS Asylum Program Fee.
+
+TITLE V--GENERAL PROVISIONS
+
+(INCLUDING TRANSFERS AND RESCISSIONS OF FUNDS)
+
+Section 501. The Committee continues a provision limiting the availability of appropriations to one year unless
+otherwise expressly provided.
+
+Section 502. The Committee continues a provision providing that unexpended balances of prior year appropriations
+may be merged with new appropriation accounts and used for the same purpose, subject to reprogramming
+guidelines.
+
+                                                                                                 Page 21 of 21
+              House Appropriations Committee Issues Report on DHS Appropriations Bill (Part 4 of 5)
+
+Section 503. The Committee continues a provision related to reprogramming limitations and transfer authority.
+
+The Department must notify the Committees on Appropriations at least 30 days in advance of each reprogramming
+of funds that would: (1) reduce programs, projects, and activities, or personnel, by ten percent or more; or (2)
+increase a program, project, or activity by more than $5,000,000 or ten percent, whichever is less.
+
+The term "program, project, and activity" (PPA) is defined as each functional category listed under an account
+heading in the funding table at the back of this report, along with each funding amount designated for a particular
+purpose within the statement narrative, exclusive of simple references to increases or reductions below the budget
+request. Funding for each PPA should not be used for the purposes of any other PPA. Within 30 days of the date of
+enactment of this Act, the Department shall submit to the Committees a table delineating PPAs subject to section
+503 notification requirements.
+
+For purposes of reprogramming notifications, the creation of a new program, project, or activity is defined as any
+significant new activity that has not been explicitly justified to the Congress in budget justification material and for
+which funds have not been appropriated by the Congress.
+
+Limited transfer authority is provided to give the Department flexibility in responding to emerging requirements and
+significant changes in circumstances, but is not intended to facilitate the implementation of new programs, projects,
+or activities that were not proposed in a formal budget submission. Transfers may not reduce accounts by more
+than five percent or augment appropriations by more than ten percent. The Department must notify the Committees
+on Appropriations not fewer than 30 days in advance of any transfer. To avoid violations of the Anti-Deficiency Act,
+the Secretary shall ensure that any transfer of funds is carried out in compliance with the limitations and
+requirements of section 503(c). In particular, the Secretary should ensure that any such transfers adhere to the
+opinion of the Comptroller General's decision in the Matter of John D. Webster, Director, Financial Services, Library
+of Congress, dated November 7, 1997, with regard to the definition
+
+TARGETED NEWS SERVICE (founded 2004) features non-partisan 'edited journalism' news briefs and information
+for news organizations, public policy groups and individuals; as well as 'gathered' public policy information,
+including news releases, reports, speeches. For more information contact MYRON STRUCK, editor,
+editor@targetednews.com, Springfield, Virginia; 703/304-1897; https://targetednews.com
+
+-1741840
+
+
+Load-Date: July 7, 2024
+
+
+  

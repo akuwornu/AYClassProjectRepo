@@ -1,0 +1,127 @@
+
+
+                                                                                                     Page 1 of 3
+                    Drone Systems & Applications Issues Research Articles in January 2024 Edition
+
+
+
+
+   Drone Systems & Applications Issues Research Articles in January 2024
+                                  Edition
+                                                     Targeted News Service
+                                          September 3, 2024 Tuesday 9:10 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 625 words
+Byline: Targeted News Service
+Dateline: OTTAWA, Ontario
+
+Body
+
+
+Drone Systems and Applications, a peer-reviewed journal that says it features unoccupied vehicle systems, such as
+remotely-controlled or autonomous mobile robots, known as drones, that operate in the air, on the ground, or on or
+below the water surface, published research articles on the following topics in its 2024 edition (Vol. 12):
+
+Review
+
+* Multi-UAV networks for disaster monitoring: challenges and opportunities from a network perspective
+
+* Review of autonomous outdoor blimps and their applications
+
+* Malicious UAV detection using various modalities
+
+* UAV avionics safety, certification, accidents, redundancy, integrity, and reliability: a comprehensive review and
+future trends
+
+* A systematic review on metaheuristic approaches for autonomous path planning of unmanned aerial vehicles
+
+* A methodological approach to rock art survey and recording via drone. The application to the Rock Art of the
+Mediterranean Basin of the Iberian Peninsula assemblage
+
+Mini review
+
+* An analysis of trends in UAV swarm implementations in current research: simulation versus hardware
+
+Research Articles
+
+* Cooperative aerial search by an innovative optimized map-sharing algorithm
+
+                                                                                                       Page 2 of 3
+                  Drone Systems & Applications Issues Research Articles in January 2024 Edition
+
+* LidarBoX: a 3D-printed, open-source altimeter system to improve photogrammetric accuracy for off-the-shelf
+drones
+
+* Taiwan solar-powered UAV flight endurance record
+
+* Detecting cool-climate Riesling vineyard variation using unmanned aerial vehicles and proximal sensors
+
+* Assessing wind impact on semi-autonomous drone landings for in-contact power-line inspection
+
+* Czech society and drones: experience, norms, and concerns
+
+* Investigating archaeological remains at Stracciacappe, Rome: comparing traditional sources with UAV-based
+multispectral, thermal and microtopographic analysis
+
+* AI-based landing zone detection for vertical takeoff and land LiDAR localization and mapping pipelines
+
+* Cloud-based mathematical models for self-organizing swarms of UAVs: design and analysis
+
+* Seasonal Phragmites australis classification in Long Point National Wildlife Area wetlands using a remotely piloted
+aircraft system and random forest machine learning
+
+* An assessment of survey techniques using unmanned aerial vehicles to monitor Nile crocodiles (Crocodylus
+niloticus)
+
+* Optimising camera and flight settings for ultrafine resolution mapping of artificial night-time lights using an
+unoccupied aerial system
+
+* Terra-22: an aerial soil sampling in densely compacted agricultural fields
+
+* A critical theory of the drone in archaeology: on space, epistemology, and automation
+
+* Drone-based mixed reality: enhancing visualization for large-scale outdoor simulations with dynamic viewpoint
+adaptation using vision-based pose estimation methods
+
+* Network analysis of decentralized fault-tolerant UAV swarm coordination in critical missions
+
+* Precision pest control using purpose-built uncrewed aerial system (UAS) technology and a novel bait pod system
+
+* Towards drone-based magnetometer measurements for archaeological prospection in challenging terrain
+
+* Multi-sensor data fusion for autonomous flight of unmanned aerial vehicles in complex flight environments
+
+* Thermal-based gender recognition using drones: advancing biometric recognition in challenging outdoor
+environments
+
+* Modifying a mini drone for remote drug delivery for wildlife medicine
+
+* U-SMART: unified swarm management and resource tracking framework for unoccupied aerial vehicles
+
+* Smart data harvesting in cache-enabled MANETs: UAVs, future position prediction, and autonomous path
+planning
+
+The      January   2024    edition   of    Drone     Systems     and    Applications  can      be       viewed       at
+https://cdnsciencepub.com/toc/dsa/12. The journal is published by Canadian Science Publishing.
+
+[Category: Electronic Products]
+
+Copyright Targeted News Services
+
+                                                                                                    Page 3 of 3
+                    Drone Systems & Applications Issues Research Articles in January 2024 Edition
+
+null-8798587 T40-MgEditor
+
+
+Load-Date: September 7, 2024
+
+
+  

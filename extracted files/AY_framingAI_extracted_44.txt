@@ -1,0 +1,158 @@
+
+
+                                                                                               Page 1 of 3
+       Johns Hopkins Applied Physics Lab: From Tool to Teammate - Opening the Aperture on Human-Robot
+                                                  Teaming
+
+
+
+
+ Johns Hopkins Applied Physics Lab: From Tool to Teammate - Opening the
+                  Aperture on Human-Robot Teaming
+                                                     Targeted News Service
+                                            August 23, 2024 Friday 10:15 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1296 words
+Byline: Targeted News Service
+Dateline: LAUREL, Maryland
+
+Body
+
+
+(TNSres) -- The Johns Hopkins University Applied Physics Laboratory issued the following news release:
+
+Imagine a world where medics and soldiers are partnered with robots that can not only assist with complex tasks --
+such as transporting casualties to safety or maneuvering quickly through cities or rough terrain -- but can also
+advise on problems and adapt to new information without human intervention.
+
+To achieve this future, robots need a series of complex skills. Those skills include the ability to understand natural
+language and their surrounding environment in real time, to create and execute plans, and to evaluate their
+progress and replan as needed.
+
+Researchers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, are using generative
+artificial intelligence (GenAI) and cutting-edge scene-mapping technology to elevate robots from simple tools to
+full teammates capable of providing aid in disaster and battlefield scenarios. The team's work is funded by the
+Army Research Laboratory through the Army Artificial Intelligence Innovation Institute (A2I2) and through APL's
+Independent Research and Development (IRAD) program.
+
+"This research takes advantage of cutting-edge AI technology for a significant step forward in robotics," said Chris
+Korpela, the Robotics and Autonomy program manager within APL's Research and Exploratory Development
+Mission Area. "Fully autonomous robots will provide new and exciting capabilities in austere environments."
+
+The Current State of Robotics
+
+Today, it's possible to buy fairly advanced robots on the open market -- although they cost about the same as a
+luxury car. Out of the box, these robots do not operate on their own and must receive commands via a controller.
+There is no option to control them using spoken language, as is possible with tasks on cell phones and tablets.
+Humans must perform the basic tasks of understanding the robots' surroundings, creating an execution plan for the
+
+                                                                                              Page 2 of 3
+      Johns Hopkins Applied Physics Lab: From Tool to Teammate - Opening the Aperture on Human-Robot
+                                                 Teaming
+
+tasks the robot will perform, evaluating progress and replanning as needed -- severely limiting the level to which
+people can meaningfully team with a robot.
+
+"While they're useful for many scenarios, current robots are closer to a remote-controlled car than an autonomous
+vehicle," said Corban Rivera, a senior AI researcher at APL and principal investigator for this research. "They can
+be used as a great tool to enable certain operations, but humans can't take their hands off the wheel, so to speak."
+
+Opening Robotic Eyes
+
+An international research team with members from APL, Johns Hopkins University, University of Toronto, Universite
+de Montreal, Massachusetts Institute of Technology, Army Research Laboratory and University of Massachusetts
+Amherst created a technology that enables a more beneficial partnership to enhance robots' perception and
+understanding of their surrounding environment. This technology -- ConceptGraphs -- enables robots to have a
+near-human understanding of a 3D environment.
+
+Using the technology, robots create 3D scene graphs that compactly and efficiently represent an environment.
+Through training on image-caption pairs from large language models (LLMs) and large visual language models,
+objects in the scene are assigned tags. These tags help robots understand the meanings and uses of objects as
+well as the relationships between them.
+
+"Many robots in commercial industry are created to work in factories or distribution centers, which are pristine and
+predictable environments," Korpela said. "There are very different needs when robots walk through the woods, for
+example, where there are numerous and unpredictable obstacles in the way, from rocks on the ground to trees in
+their path."
+
+ConceptGraphs is open-vocabulary -- meaning it is not limited to the language in its training set -- which enables
+humans to give robots instructions in plain language, either in text or voice, rather than through fixed commands.
+Robots can even support multimodal queries, which combine an image and a question or instruction. For example,
+when given an image of Michael Jordan and asked to find "something he would play with," a robot was able to
+identify and find a basketball in the environment because of its training on image-caption pairs that provide context
+to images and objects.
+
+"Now, not only can the robot build up a semantic description of the world, but you can query it in natural language,"
+said Dave Handelman, a senior roboticist at APL and a collaborator on the project. "You don't have to ask it if it
+sees a car -- you can say, 'Show me everything with four wheels,' or 'Show me everything that can carry me
+places.'"
+
+In a real-world scenario, this might translate to a medic asking a robot to locate casualties on a battlefield and
+transport them to safety until the medic can attend to them. The robot would be able to not only identify casualties
+but also determine what "safety" means and how to achieve it.
+
+While ConceptGraphs resolved several challenges in human-robot teaming, significant obstacles still remained.
+Scanning and developing an understanding of the environment took a robot several minutes, and as the robot
+moved through the environment, more time was needed for additional scanning.
+
+Enter the ConceptAgent
+
+As the APL team continued innovating, they created a multi-scale model to enable real-time robotic perception and
+understanding of a 3D environment by combining two variants of large visual language models. The robot uses a
+fast variant, called Contrastive Language-Image Pre-Training (CLIP), to create an approximate 3D map and make
+headway right away on assigned tasks.
+
+Then, as time permits, the robot uses a slower but more precise variant, based on generative pre-trained
+transformer (GPT) models, to obtain a more detailed understanding of the surroundings. The interplay of the two
+large visual language models enables real-time perception and understanding.
+
+                                                                                              Page 3 of 3
+      Johns Hopkins Applied Physics Lab: From Tool to Teammate - Opening the Aperture on Human-Robot
+                                                 Teaming
+
+To enhance the robot's ability to create task execution plans, evaluate progress and replan, the researchers created
+an AI agent framework -- an autonomous system named ConceptAgent that uses an LLM as its engine to reason
+sequentially -- and gave it the ability to write and execute its own code.
+
+The agent has the ability to move, speak and interact with the world. A person can give a command to the
+ConceptAgent as if they were speaking to another person, and the robot can accomplish the task autonomously.
+When given a problem, the agent is able to reason sequentially and pivot when it hits a roadblock or new
+information is discovered.
+
+Researchers recently demonstrated this at APL by tasking a robot with identifying an injured animal and relocating it
+to an emergency sled. Given a 3D environment with two dummy geese -- with one wearing a bandage -- the robot
+was able to correctly identify the "injured goose" and accomplish the task.
+
+"We've gone from a situation where teaming with robots was very labor-intensive for humans -- the language was
+controlled by humans, the positions of key objects were given by humans and even the execution plan was created
+by humans -- to create a shared understanding of a goal and the world around us to collaborate," said Rivera. "All
+the person has to do is give a command in natural language, and the robot can do the rest."
+
+Currently, the team is exploring the use of ConceptAgent-based robots to serve as extra hands for medics in the
+field, as well as to serve as sentries for warfighters, but the sky is the limit.
+
+"We envision that, with this technology, robots will be able to help with any mission a warfighter or first responder
+may undertake," Korpela said.
+
+***
+
+Original text here: https://www.jhuapl.edu/news/news-releases/240822-human-robot-teaming
+
+[Category: Science]
+
+Copyright Targeted News Services
+
+MSTRUCK-8786100 MSTRUCK
+
+
+Load-Date: August 23, 2024
+
+
+  

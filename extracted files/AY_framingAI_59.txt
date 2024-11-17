@@ -1,0 +1,119 @@
+
+
+                                                                                                Page 1 of 3
+    Iron Mountain Leverages MongoDB to Provide Customers with Customizable Digital Experiences to Manage
+                                      Physical and Digital Information
+
+
+
+
+Iron Mountain Leverages MongoDB to Provide Customers with Customizable
+      Digital Experiences to Manage Physical and Digital Information
+                                                           PR Newswire
+                                           August 20, 2024 Tuesday 8:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1297 words
+Dateline: AUSTIN, Texas, Aug. 20, 2024
+
+Body
+
+
+PR NewswireLeader in information management services uses MongoDB Atlas and MongoDB Atlas Vector Search
+for intelligent document processing, workflow automation, and information governance capabilities on a unified
+platformAUSTIN, Texas, Aug. 20, 2024 /PRNewswire/ -- MongoDB, Inc. (NASDAQ: MDB) today at its
+MongoDB.local Austin developer conference announced that Iron Mountain (NYSE: IRM), a global leader in
+information management services, is using MongoDB as the data platform for their newIron Mountain
+InSight®Digital Experience Platform (DXP). Built on MongoDB Atlas, InSight DXP is now available for customers
+seeking a unified, customizable platform to access, manage, govern, and monetize physical and digital information.
+The platform's AI-powered self-service tools automate manual processes, enable audit-ready compliance, make
+data more quickly accessible, and get your data AI-ready.
+
+ Many organizations today—including those in regulated industries—are still reliant upon paper documents as part
+of their organizational processes. Physical assets are often unsorted, commingled, and stored for too long. On the
+other hand, digital data often has little or no indexing, making it challenging for organizations to find the information
+they need when they need it. In addition, disparate and legacy systems can obscure the ability to drive data-driven
+insights, complicate compliance reporting, and require employees to spend valuable time and resources locating
+the information they require.InSight DXP transforms the information management experience by quickly turning
+physical and digital unstructured information into structured, actionable data. Supported by MongoDB Atlas's fully
+managed suite of database and data services, InSight DXP offers pre-built, customizable solutions ranging from
+industry-specific, such as banking solutions like Digital Auto Lending and healthcare solutions like Health
+Information Exchange, to cross-industry solutions, such as Digital Human Resources and Invoice Processing. By
+leveraging MongoDB's flexible document model and scalable architecture, InSight DXP can seamlessly handle the
+diverse and complex structures of both physical and digital information across varying industries and verticals. This
+allows for rapid ingestion and processing of various data types, including text, images, and metadata."Our
+customers needed to gain control and visibility over their digital and physical assets and applications. When we
+embarked on the journey to develop a digital experience platform, we chose to include MongoDB Atlas, to take
+advantage of their scalability and reliability," said Adam Williams, Vice President of Global Platforms at Iron
+Mountain. "With InSight DXP, our customers can extract, classify, and enrich their information at scale with speed
+and accuracy to ultimately drive better internal and external customer experiences."MongoDB Atlas supports multi-
+region clusters across 118+ global regions, ensuring high availability and disaster recovery while maintaining data
+
+                                                                                               Page 2 of 3
+   Iron Mountain Leverages MongoDB to Provide Customers with Customizable Digital Experiences to Manage
+                                     Physical and Digital Information
+
+locality and regulatory compliance. This extensive coverage allows multinational corporations to provide consistent
+and reliable user experiences worldwide, reducing latency and enhancing business continuity. MongoDB Atlas also
+offers strong security defaults that enable customers to protect their workloads with minimal work required. These
+include authentication, authorization, auditing, and advanced security capabilities like end-to-end encryption.With
+the support of MongoDB Atlas and MongoDB Atlas Vector Search, Iron Mountain developed InSight DXP as a
+modular, AI-driven, low-code software-as-a-service (SaaS) platform that intakes and processes unstructured
+content, such as physical documents. Once uploaded, digitized documents integrate with key business processes
+and systems via pre-built connectors or application programming interfaces (APIs). This enables users to quickly
+design, build, and publish solutions with comprehensive physical and digital content management, intelligent
+document processing, workflow automation, and information governance capabilities. In addition to making it quick
+and simple to access information, InSight DXP includes process transparency and insightful dashboards, as well as
+customizable workflows and reporting to serve unique customer needs."Businesses undergoing digital
+transformation typically find themselves in a delicate position where they need to move quickly, but need to do so in
+a predictable, cost-effective, and secure manner. This is especially true for companies in regulated industries that
+have to adhere to strict compliance requirements," said Sahir Azam, Chief Product Officer at MongoDB. "MongoDB
+is proud to work closely with Iron Mountain, providing them with the security and flexibility they need to help their
+customers take advantage of generative AI technology to modernize their businesses."Learn more aboutIron
+Mountain Insight DXPand howMongoDBcan help you develop gen AI solutions for your business.About MongoDB
+AtlasMongoDB Atlas is the leading multi-cloud developer data platform that accelerates and simplifies building
+modern applications with a highly flexible, performant, and globally distributed operational database at its core. By
+providing an integrated set of data and application services in a unified environment, MongoDB Atlas enables
+development teams to quickly build with the security, performance, and scale modern applications require. Millions
+of developers and tens of thousands of customers across industries—including Cisco, GE Healthcare, Intuit, Toyota
+Financial Services, and Verizon—rely on MongoDB Atlas every day to innovate more quickly, efficiently, and cost-
+effectively for virtually every use case across the enterprise. To get started with MongoDB Atlas,
+visitmongodb.com/atlas.About MongoDBHeadquartered in New York, MongoDB's mission is to empower
+innovators to create, transform, and disrupt industries by unleashing the power of software and data. Built by
+developers, for developers, MongoDB's developer data platform is a database with an integrated set of related
+services that allow development teams to address the growing requirements for today's wide variety of modern
+applications, all in a unified and consistent user experience. MongoDB has tens of thousands of customers in over
+100 countries. The MongoDB database platform has been downloaded hundreds of millions of times since 2007,
+and there have been millions of builders trained through MongoDB University courses. To learn more,
+visitmongodb.com.About Iron MountainIron Mountain Incorporated (NYSE: IRM) is a global leader in information
+management services. Founded in 1951 and trusted by more than 240,000 customers worldwide, Iron Mountain
+serves to protect and elevate the power of our customers' work. Through a range of offerings including digital
+transformation, data centers, secure records storage, information management, asset lifecycle management,
+secure destruction and art storage and logistics, Iron Mountain helps businesses bring light to their dark data,
+enabling customers to unlock value and intelligence from their stored digital and physical assets at speed and with
+security, while helping them meet their environmental goals.To learn more about Iron Mountain, please
+visit:www.IronMountain.comand follow @IronMountain onX(formerly Twitter) andLinkedIn.Investor Relations
+Brian Denyeau
+ICR for MongoDB
+646-277-1251
+
+Media Relations
+Mark Wheeler
+MongoDB
+866-237-8815 x7186
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/iron-mountain-
+leverages-mongodb-to-provide-customers-with-customizable-digital-experiences-to-manage-physical-and-digital-
+information-302226329.htmlSOURCE MongoDB, Inc.
+
+                                                                                               Page 3 of 3
+   Iron Mountain Leverages MongoDB to Provide Customers with Customizable Digital Experiences to Manage
+                                     Physical and Digital Information
+
+
+Load-Date: August 20, 2024
+
+
+  

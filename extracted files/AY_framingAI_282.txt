@@ -1,0 +1,129 @@
+
+
+                                                                                                  Page 1 of 3
+    LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
+                        Advancements Spark Change LevelBlue finds 73% of healthca....
+
+
+
+
+    LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an
+    Afterthought, But Dynamic Computing Advancements Spark Change;
+      LevelBlue finds 73% of healthcare executives believe computing
+ innovation's benefits outweigh its cybersecurity risks, while more than half
+                   still remain cautious about AI adoption
+                                                   Business Wire
+                                      July 11, 2024 Thursday 12:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 931 words
+Dateline: DALLAS
+
+Body
+
+
+LevelBlue , a leading provider of managed security services, strategic consulting, and threat intelligence, today
+released its 2024 Futures Report: Cyber Resilience in Healthcare . The findings reveal how opportunities for
+technology innovation and the rapid evolution of computing have thrust healthcare organizations into a perpetual
+struggle between innovation and risk.
+
+The latest LevelBlue report found that 87% of healthcare executives anticipate that dynamic computing will enhance
+operational performance within the next three years, yet 83% acknowledge an increased exposure to risk. Another
+69% of respondents say their healthcare organizations do not specifically invest in cyber resilience beyond
+cybersecurity, inferring leadership underestimates the harm a major cyber incident, natural disaster, or other man-
+made event could pose.
+
+However, there are signs of change as 77% of healthcare leaders expect earlier involvement of cybersecurity in
+computing projects, indicating a shift towards proactive measures. An additional 54% acknowledge they are a
+cautious or late adopter of artificial intelligence (AI). This trend, coupled with the cautious adoption of AI and a
+slightly lower concern for risk, suggests a moderate level of preparedness.
+
+"Computing advanced so rapidly that many healthcare leaders now lack crucial visibility into their IT estate," said
+Theresa Lanowitz, Chief Evangelist of AT&T Cybersecurity / LevelBlue. "To overcome this challenge, healthcare
+organizations now have a big task ahead. They need to remain agile, flexible, innovative, cost-effective, and quality-
+conscious while also meeting external demands of data protection and patient safety. This report identifies key
+opportunities to overcome the obstacles in achieving both cyber resilience and innovation to thrive among today's
+dynamic computing environment."
+
+Today's healthcare organizations operate in a climate where a whole hospital system can be taken offline in only a
+few hours, compromising patient data protection and critical healthcare services. Broadscale cyber resilience is
+
+                                                                                                 Page 2 of 3
+   LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
+                       Advancements Spark Change LevelBlue finds 73% of healthca....
+
+required to effectively recover from network, system, and data interruptions that underpin healthcare delivery. This
+can include recovery from large-scale distributed denial-of-service (DDoS) attacks, business email compromise,
+and ransomware.
+
+When asked about cybersecurity planning and budgeting within healthcare organizations, the study found:
+
+- Only 38% say cybersecurity is typically included in computing planning with 51% reporting it is included in
+corporate strategy discussions.
+- 73% indicate cybersecurity budgets are reactive rather than proactive, while 42% identify compliance as the driver
+most likely to unlock the cybersecurity budget.
+- 37% are most likely to seek cybersecurity expertise for strategy and planning, but 69% are struggling to find the
+external guidance they need.
+- 76% say that measuring cybersecurity investments based on return on investment (ROI) is outdated while 59%
+reveal there's a lack of understanding about cybersecurity at the board level.
+- 62% believe cybersecurity is an afterthought in their organizations and 60% confirm efforts are often siloed,
+hindering comprehensive protection.
+- Just 46% of their organizations have a cybersecurity budget line item for every project, while 45% do not have
+standardized cybersecurity processes - risking patient data and operational integrity.
+
+Based on these findings, LevelBlue recommends five specific steps to achieve cyber resilience, regardless of the
+industry: identify the barriers to cyber resilience; be secure by design; align cyber investment with business; build a
+support ecosystem; and transform cybersecurity strategies.
+
+Download the complete findings of the 2024 LevelBlue Futures Report: Cyber Resilience in Healthcare at this link
+here to learn why balancing innovation and cyber risk are paramount in today's rapidly evolving healthcare
+environment. This report follows the May 2024 release of the core 2024 LevelBlue Futures Report found here
+
+For more information on LevelBlue and its managed security, consulting, and threat intelligence services, please
+visit www.levelblue.com
+
+Methodology
+
+The research is based on a quantitative survey that was carried out by FT Longitude in March 2024. There were a
+total of 1,050 C-suite and senior executives surveyed, across 18 countries and seven industries: energy and
+utilities, financial services, healthcare, manufacturing, retail, transportation, and US SLED (state, local government,
+and higher education). Respondents were employed in a variety of cybersecurity-related roles, with 32% working at
+C-level and the remainder employed in C-minus one positions. The total number surveyed in healthcare is 180.
+
+About LevelBlue
+
+We simplify cybersecurity through award-winning managed services, experienced strategic consulting, threat
+intelligence and renowned research. Our team is a seamless extension of yours, providing transparency and
+visibility into security posture and continuously working to strengthen it.
+
+We harness security data from numerous sources and enrich it with artificial intelligence to deliver real-time threat
+intelligence, which enables more accurate and precise decision making. With a large, always-on global presence,
+LevelBlue sets the standard for cybersecurity today and tomorrow. We easily and effectively manage risk, so you
+can focus on your business
+
+Welcome to LevelBlue. Cybersecurity. Simplified. Learn more at www.levelblue.com .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240711975035/en/
+
+                                                                                                 Page 3 of 3
+   LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
+                       Advancements Spark Change LevelBlue finds 73% of healthca....
+
+CONTACT: Media
+Jessica Bettencourt
+Inkhouse for LevelBlue
+
+LevelBlue@inkhouse.com
+(774) 451-5142
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 23, 2024
+
+
+  

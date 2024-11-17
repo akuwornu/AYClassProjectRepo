@@ -1,0 +1,89 @@
+
+
+                                                                                            Page 1 of 2
+     PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity 30TB NVMe and 24TB HDD
+                    Drives Latest Addition to PAC’s All-Flash Storage Line Excels in Pe....
+
+
+
+
+PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity
+  30TB NVMe and 24TB HDD Drives; Latest Addition to PAC’s All-Flash
+         Storage Line Excels in Performance and Cost Efficiency
+                                                         GlobeNewswire
+                                               July 16, 2024 Tuesday 7:00 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 501 words
+
+Body
+
+ALISO VIEJO, CA, July 16, 2024 (GLOBE NEWSWIRE) -- PAC Storage, a leading manufacturer and provider of
+innovative data storage solutions, today announced the launch of its cutting edge NVMe system, the PAC Storage
+NVMe 5000. This latest addition to PAC Storage's all-flash storage family delivers up to 1.3M IOPS, 50GB/s
+throughput, and 720TB NVMe capacity within a single appliance.
+
+"With the growing need for extreme I/O and throughput in AI, HPC, machine learning, database, and the latest
+video applications, PAC Storage is providing a solution that excels in both performance and cost-efficiency," said
+Rick Crane, CEO of PAC Storage. "Our systems not only offer top-tier performance and availability, but do so at
+roughly half the cost of comparable systems.”
+
+The competitively-priced PAC Storage NVMe 5000 features a dual-controller system which supports PCIe Gen5
+with up to 200GbE connectivity and runs block, file, and object storage along with cloud gateway options. Designed
+for data-intensive environments, PAC Storage NVMe 5000 excels in applications demanding high IOPS,
+exceptional throughput, and minimal latency.
+
+In conjunction with the new NVMe system, PAC Storage is also introducing high-capacity 30TB NVMe and 24TB
+HDD drives. These high-density drives maximize space by reducing an organization’s datacenter footprint. With
+these latest drives, the PAC Systems are now scalable up to 21PB, with up to 2.1PB of hybrid storage and 1.4PB of
+NVMe storage in a single appliance. PAC Storage systems exclusively use enterprise-grade, pre-certified drives,
+ensuring reliability and performance. Most systems ship within two to three weeks.
+
+                                                                                           Page 2 of 2
+    PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity 30TB NVMe and 24TB HDD
+                   Drives Latest Addition to PAC’s All-Flash Storage Line Excels in Pe....
+
+“The introduction of both the PAC Storage NVMe 5000 and the new high capacity drives demonstrates our
+commitment to offering only robust products,” said Crane. “These state-of-the-art, affordably-priced systems,
+backed by top-notch, US-based customer service, also ensure optimal ROI. Our long-standing customer base, with
+many clients returning for over a decade, speaks volumes about PAC quality and service.”
+
+
+
+About PAC Storage
+
+PAC Storage is an enterprise data storage hardware solution. Since 2005, PAC solutions have been the
+cornerstone of data centers nationwide for primary, secondary, backup, and disaster recovery. In 2017, PAC
+introduced its PS Line offering hybrid SAN and NAS, with cloud gateway options. Renowned for the best price point
+in the industry, PAC's feature-rich solutions are robust with high availability, data protection and scalability to
+petabytes of on-premise storage. PAC Storage is an affiliate of BOXX Technologies.
+
+Learn more at www.pacstorage.com.
+
+
+
+                                                                                                    #
+
+
+
+
+   Attachments
+
+
+    •   PAC Storage NVME 5000 (front)
+    •   PAC Storage NVME 5000 (rear)
+Krista Crane PAC Storage 949.360.9055     krista@pacstorage.com
+
+
+
+Load-Date: July 16, 2024
+
+
+  

@@ -1,0 +1,120 @@
+
+
+                                                                                             Page 1 of 3
+     HYCU® Named a Visionary in the 2024 Gartner ® Magic Quadrant™ for Enterprise Backup and Recovery
+                                           Software Solutions
+
+
+
+
+      HYCU® Named a Visionary in the 2024 Gartner® Magic Quadrant™ for
+            Enterprise Backup and Recovery Software Solutions
+                                                         GlobeNewswire
+                                              August 8, 2024 Thursday 8:00 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: COMPANY ANNOUNCEMENT; OTHER NEWS; RESEARCH ANALYSIS AND REPORTS; PRESS
+RELEASES
+Length: 1038 words
+
+Body
+
+Boston, Massachusetts, Aug. 08, 2024 (GLOBE NEWSWIRE) -- HYCU, Inc., a leader for modern data protection
+for on-prem, cloud services, and SaaS, and one of the fastest growing companies in the industry, today announced
+that it has been named a Visionary in the 2024 Gartner Magic Quadrant for Enterprise Backup and Recovery
+Software Solutions. The company was named a Visionary for the third consecutive year in this report.
+
+"We believe, being recognized as a Visionary in this year’s Gartner Magic Quadrant for Enterprise Backup and
+Recovery Solutions is a testament to HYCU's unwavering commitment to innovation in the rapidly evolving
+landscape of data protection," said Simon Taylor, Founder and CEO, HYCU, Inc. "We feel this recognition
+underscores the critical importance of our R-Cloud platform in addressing the complex backup and recovery needs
+across hybrid and multi-cloud and SaaS environments.”
+
+HYCU R-Cloud is an award-winning, integrated SaaS platform that offers enterprise class automated backup,
+granular recovery, data migration, and disaster recovery across on-premises, multi-cloud platforms, cloud services,
+and SaaS applications. R-Cloud is delivered as a true cloud-native SaaS solution. A key component of HYCU R-
+Cloud is HYCU R-Graph. R-Graph provides data estate discovery and visualization, supporting more than 70 data
+sources across IaaS, DBaaS, PaaS, and SaaS.
+
+“Our extensive support for cloud services, coupled with the enhanced visibility provided by R-Graph, demonstrates
+our dedication to empowering organizations to protect their entire modern data estate,” said Subbiah Sundaram
+SVP, Product, HYCU, Inc. “In addition, our use of generative AI to accelerate the development of data protection
+modules for new SaaS and PaaS workloads highlights our pioneering and forward-thinking approach. All of us at
+HYCU are excited by this acknowledgment that reaffirms our mission to provide easy-to-use, automated, and
+
+                                                                                              Page 2 of 3
+      HYCU® Named a Visionary in the 2024 Gartner ® Magic Quadrant™ for Enterprise Backup and Recovery
+                                            Software Solutions
+
+cutting-edge solutions that not only meet but anticipate the data protection challenges of today's complex and
+diverse dynamic IT landscapes."
+
+During the evaluation period, HYCU introduced several key innovations, including:
+      •   Broader Cloud Support: HYCU expanded coverage of AWS, Azure, Google Cloud, and SaaS Services
+          with the addition of instant data and configuration restores for multiple AWS Services, including Amazon
+          Aurora, AWS IAM, Amazon DynamoDB and AWS Lambda. In addition, HYCU expanded coverage for
+          Google AlloyDB, Google BigQuery, Google CloudSQL, Google Cloud AppEngine, Google Cloud Artifacts,
+          Google Cloud Functions, Google Cloud Run, as well as Azure Compute, Azure Gov Cloud, Nutanix NC2
+          on AWS, and Nutanix NC2 on Azure.
+      •   Broader SaaS Integration Support: HYCU added SaaS application support including Asana, Atlassian
+          Confluence, Atlassian Jira Service Management, Atlassian Jira Asset Management, Atlassian Jira Config
+          Management, Atlassian Jira Software, Atlassian Jira Work Management, Atlassian Product Discovery,
+          Atlassian Trello, ClickUp, Docusign, GitHub, GitLab, Google Workspace, Microsoft 365, Miro,
+          monday.com, Notion, Okta CIAM, Okta Workforce Identity Cloud, Salesforce, Typeform, Terraform, and
+          others to make it possible to protect modern applications and associated microservices from initial design
+          throughout the application lifecycle.
+      •   Advancements with HYCU R-Graph: HYCU introduced several new capabilities to R-Graph, including
+          customizable view options and insights to native application protection capabilities, supporting many of the
+          leading PaaS, IaaS, DBaaS, and SaaS data sources.
+      •   HYCU Generative AI Initiative: In January 2024, HYCU made HYCU R-Cloud easy to extend to new data
+          sources to help protect data at scale and to help cover new data sources efficiently by integrating
+          Anthropics' AI assistant Claude with R-Cloud. This initiative redefined the development process of data
+          protection integrations and allowed development partners to create SaaS integrations easily and efficiently.
+          This innovation also reduced the time to build new data protection modules from months to hours.
+
+To access a complimentary copy of the full Gartner Magic Quadrant for Enterprise Backup and Recovery Software
+Solutions, please visit here.
+
+For more information on HYCU, visit:www.hycu.com, follow us on X (formerly Twitter), connect with us on LinkedIn,
+Facebook, Instagram, and YouTube. To learn more about HYCU R-Cloud, visit tryhycu.com.
+
+Gartner, Magic Quadrant for Enterprise Backup and Recovery Software Solutions, By Michael Hoeck, Jason
+Donham, Rene Rodriguez, Chandra Mukhyala, August 5, 2024.
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and
+internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used
+herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its
+research publications, and does not advise technology users to select only those vendors with the highest ratings or
+other designation. Gartner research publications consist of the opinions of Gartner's research organization and
+should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect
+to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+###
+
+About HYCU HYCU is the fastest-growing leader in the multi-cloud and SaaS data protection as a service industry.
+By bringing true SaaS-based data backup and recovery to on-premises, cloud-native and SaaS environments, the
+company provides unparalleled data protection, migration, disaster recovery, and ransomware protection to
+thousands of companies worldwide. As an award-winning and recognized visionary in the industry, HYCU solutions
+eliminate complexity, risk, and the high cost of legacy-based solutions, providing data protection simplicity to make
+the world safer. With an industry leading NPS score of 91, customers experience frictionless, cost-effective data
+
+                                                                                            Page 3 of 3
+    HYCU® Named a Visionary in the 2024 Gartner ® Magic Quadrant™ for Enterprise Backup and Recovery
+                                          Software Solutions
+
+protection, anywhere, everywhere. HYCU has raised $140M in VC funding to date and is based in Boston, Mass.
+Learn more at www.hycu.com.
+Don Jennings HYCU, Inc. 617-791-1710 don.jennings@hycu.com
+
+
+
+Load-Date: August 8, 2024
+
+
+  

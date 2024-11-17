@@ -1,0 +1,130 @@
+
+
+                                                                                             Page 1 of 3
+      Raad Labs Announces $2.25M Funding Round led by CoinFund and Appoints T.J. Ragsdale as CEO The
+                    Montauk Climate-Incubated DePIN Startup Utilizes Blockchain Techn....
+
+
+
+
+     Raad Labs Announces $2.25M Funding Round led by CoinFund and
+    Appoints T.J. Ragsdale as CEO; The Montauk Climate-Incubated DePIN
+   Startup Utilizes Blockchain Technology to Build a Network of Distributed
+              Weather, Atmospheric, and Ground Based Sensors
+                                                   Business Wire
+                                       July 30, 2024 Tuesday 1:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 991 words
+Dateline: NEW YORK
+
+Body
+
+
+Raad Labs , a pioneering blockchain climate tech company emerging from the Montauk Climate incubator, today
+announced that it has raised a $2.25 million financing round led by CoinFund with participation from Tribe, EV3, and
+Protagonist. Raad Labs improves climate data measurement and forecasting by deploying a distributed network of
+sensors through a DePIN (Decentralized Physical Infrastructure Networks) model. The blockchain-enabled network
+monitors weather patterns, greenhouse gas emissions, wildfire risk, soil degradation, and more. By leveraging web3
+technology, Raad effectively incentivizes sensor operators to generate the high-quality data needed for high-
+accuracy environmental management.
+
+T.J. Ragsdale is announced as Raad Labs CEO and co-founder, bringing extensive experience and vision to lead
+the company in its mission to enhance global weather data density and accuracy. Prior to Raad, T.J. co-founded
+Entheos Network, a battery storage DePIN protocol.
+
+"There is a significant, unmet need for high-quality weather, air quality, and soil data that can equip businesses,
+utilities, insurers, and governments with the necessary information to prevent climate disasters cost-effectively,
+rather than responding to them at a high expense," said T.J. Ragsdale, CEO of Raad Labs. "In the U.S., wildfires
+are a major climate disaster category, causing billions of dollars in economic and human damage annually. Raad's
+distributed soil moisture and acidity sensors in high-risk zones can substantially improve wildfire risk modeling,
+arming utilities and insurers with access to structured, localized soil data, enabling them to take more effective
+preventative measures."
+
+Created by Montauk Climate and co-founded by its principals Philip Krim , Evan Caron , and Sharo Atmeh , Raad
+Labs is one of the first companies to emerge from the climate tech incubator. Montauk Climate develops companies
+in-house that focus on building a sustainable future and brings in experienced founders and operators to run them.
+
+"Raad Labs is at the forefront of an exciting transformation in how earth observation data is collected and utilized,"
+said Philip Krim, Co-Founder and CEO of Montauk Climate. "With this funding, we are poised to develop
+
+                                                                                            Page 2 of 3
+     Raad Labs Announces $2.25M Funding Round led by CoinFund and Appoints T.J. Ragsdale as CEO The
+                   Montauk Climate-Incubated DePIN Startup Utilizes Blockchain Techn....
+
+groundbreaking technology that will benefit a wide range of industries while also empowering individuals to
+contribute to and profit from the Raad Labs network."
+
+The global forecasting market, valued at $1.76 billion in 2022, is expected to reach $4.18 billion by 2030. Weather
+data is crucial for numerous sectors, including financial services, insurance, agriculture, and utilities, which rely on
+accurate monitoring, observation, modeling, and forecasting. Additionally, there is a projected $711 billion in
+economic losses due to extreme weather events over the next five years, underscoring the importance of improved
+weather data.
+
+Current applications of Raad Labs' technology include monitoring and observation, modeling and forecasting, and
+utility service delivery. Future opportunities extend to providing data sets for large language models (LLMs), AI
+applications, and methane detection.
+
+The DePIN model incentivizes the collection of more weather data by offering high-fidelity, low-cost data to
+governments and industries and supporting suppliers with passive income through its blockchain. Despite the
+presence of over 250,000 privately held weather stations in the U.S., significant gaps in weather data remain,
+posing risks to weather-dependent businesses. Raad Labs aims to bridge these gaps by leveraging the WEENie
+(Weather Enthusiast) community and expanding its supply base of weather sensors through reward-based
+tokenized initiatives.
+
+"We are thrilled to support Raad Labs in their innovative approach to weather data collection and to satisfy the
+significant unmet demand for additional weather and atmospheric data," said David Pakman, Managing Partner,
+CoinFund. "We believe this team and approach can create the leading decentralized atmospheric data collection
+network in the world."
+
+Raad Labs is backed by an advisory board of experts, including Osho Jha, CEO of dClimate and Chief Data
+Scientist at Arbol; Jason Badeaux, CEO of Daylight; and Matt Vitebsky, Former Head of Product at Accuweather.
+
+For more information, please visit https://raad.com/ .
+
+About Raad Labs
+
+Raad Labs is dedicated to revolutionizing the collection and utilization of weather data through a decentralized
+network of sensors. By leveraging web3 and blockchain technology and a DePIN model, Raad Labs aims to provide
+high-quality, cost-effective weather data to various industries while offering income opportunities for sensor
+installers.
+
+About Montauk Climate
+
+Montauk Climate is an incubator dedicated to creating technology companies that are at the forefront of climate,
+infrastructure, and energy transitions. Co-founded by industry veterans with deep expertise in finance, energy, and
+technology, Montauk Climate is bringing world-class operators and established builders to architect the next wave
+of technology companies that are building a sustainable, electrified, and digitized future. Montauk Climate leverages
+its vast network of advisors and industry insiders to boost idea generation, deal execution, and talent sourcing. For
+more information, visit https://montaukclimate.com/ .
+
+About CoinFund
+
+CoinFund is one of the world's first cryptonative investment firms and a registered investment adviser founded in
+2015. The firm champions the leaders of the new internet, powered by foresight as active investors to achieve
+extraordinary outcomes. CoinFund invests in seed, venture, and liquid opportunities within the blockchain sector
+with a focus on digital assets, decentralization technologies, and key enabling infrastructure. For more information,
+visit www.coinfund.io , LinkedIn or join us on X.
+
+                                                                                           Page 3 of 3
+    Raad Labs Announces $2.25M Funding Round led by CoinFund and Appoints T.J. Ragsdale as CEO The
+                  Montauk Climate-Incubated DePIN Startup Utilizes Blockchain Techn....
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240730466375/en/
+
+
+CONTACT: Moxie Communications Group
+
+montauk@moxiegrouppr.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 30, 2024
+
+
+  

@@ -1,0 +1,406 @@
+
+
+                                                                                                  Page 1 of 7
+              Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+
+
+
+      Senate Budget Committee Issues Testimony From Princeton University
+                             Assistant Professor
+                                                     Targeted News Service
+                                             August 16, 2024 Friday 9:47 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 3743 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
+
+Body
+
+
+The Senate Budget Committee released the following testimony by Jesse D. Jenkins, assistant professor at
+Princeton University, from a July 31, 2024, hearing entitled "Charging Ahead: The Future of Electric Vehicles":
+
+***
+
+1. Introduction
+
+I would like to thank Chairman Whitehouse, Ranking Member Grassley, and the members of the Committee for the
+opportunity to testify before this committee.
+
+My name is Jesse Jenkins. I am an expert on energy systems engineering and climate policy and an assistant
+professor at Princeton University with a joint appointment in the Department of Mechanical and Aerospace
+Engineering and the Andlinger Center for Energy and Environment. I am also an affiliated faculty at the Center for
+Policy Research in Energy and Environment at Princeton's School of Public and International Affairs and at the
+High Meadows Environment Institute.
+
+I lead the Princeton ZERO Lab (Zero-carbon Energy systems Research and Optimization Laboratory), which
+focuses on improving and applying optimization-based energy systems models to evaluate and optimize low-carbon
+energy technologies, guide investment and research in innovative energy technologies, and generate insights to
+improve energy and climate policy and planning decisions.
+
+I received a PhD in Engineering Systems and S.M. in Technology and Policy from the Massachusetts Institute of
+Technology and a B.S. in Computer and Information Science from the University of Oregon. I have served
+previously as a postdoctoral Environmental Fellow at the Harvard Kennedy School and the Harvard University
+Center for the Environment, a researcher at the MIT Energy Initiative, a research fellow at Argonne National
+Laboratory, the Director of Energy and Climate Policy at the Breakthrough Institute, and a Policy and Research
+Associate at Renewable Northwest.
+
+                                                                                                Page 2 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+I have published (https://scholar.google.com/citations?user=iCJvalsAAAAJ&hl=en) 37 peer reviewed journal articles
+as well as multiple working papers, technical reports, and policy briefs. I am one of the principle investigators of the
+Princeton Net-Zero America study (https://www.princeton.edu/news/2020/12/15/big-affordable-effort-needed-
+america-reach-net-zero-emissions-2050-princeton-study), served as a member of the National Academies of
+Science Engineering and Medicine (NASEM) Committee on Accelerating Decarbonization of the U.S. Energy
+System (https://www.nap.edu/resource/25932/interactive/), and currently lead the REPEAT Project
+(https://repeatproject.org/), which provides regular, timely, and independent environmental and economic evaluation
+of federal energy and climate policies as they're proposed and enacted.
+
+Since 2012, I have also provided decision support, analytics, and policy advisory services to various non-profit and
+for-profit clients working to accelerate the deployment of clean energy. I am currently a technical and scientific
+advisor to Energy Impact Partners and MUUS Climate Partners, which are both venture capital firms investing in
+early-stage climate technology companies. Please note that I also serve on the advisory boards of Eavor
+Technologies Inc., Rondo Energy, and Dig Energy, and I have a significant financial interest in each company. A full
+list of past consulting clients can be found on my LinkedIn profile. Finally, I serve as co-host of the podcast Shift
+Key on the shift away from fossil fuels, published by Heatmap News.
+
+All views expressed in this testimony are my own, and I am not speaking as an official representative of Princeton
+University or any of my co-authors or consulting clients.
+
+2. A rapidly evolving sector
+
+The United States is now in the early stages of a momentous transition in the automotive sector. Over the last
+decade, improvements in lithium-ion battery technology and electric motors have made long-range, highly-capable
+and increasingly-affordable electric vehicles a reality (Figures 1 and 2).
+
+It is important to recall how rapidly the electric vehicle sector is evolving. The first true massmarket electric vehicle,
+the Tesla Model 3 sedan, was launched just seven years ago. Over that time, the cost of lithium-ion battery packs
+has been cut in half, while the energy stored per kilogram has nearly doubled.1 Tesla's Model Y crossover was only
+released in 2020. Just four years later, Tesla delivered 1.2 million Model Ys, making it the world's best-selling
+vehicle last year.2 Not the world's best-selling electric vehicle (though it also held that title), but the best-selling
+vehicle in the world, period.
+
+***
+
+Figure 1. Battery Cost and Energy Density Since 1990
+
+Figure 2. Average EV Range Approaches 300 Miles in U.S
+
+***
+
+Today, Tesla is no longer (virtually) alone in the market. There are now more than 40 fully electric car or truck
+models to choose from in the U.S. (and many more plug-in hybrid electric models) produced by virtually every major
+automaker.3 Over 1.1 million battery electric vehicles (BEVs) were delivered to U.S. consumers in 2023, alongside
+over 183,000 plug-in hybrid electric vehicles (PHEVs).4 By the end of 2023, almost one in ten light duty vehicles
+sold in the U.S. had a plug (including both BEVs and PHEVs; Figure3).5
+
+Worldwide, nearly one in five new cars and trucks were electric in 2023, with almost 14 million EVs sold, while in
+China, the world's largest automotive market, plug-in vehicles took 38% of the market last year.6
+
+1 RMI, "The Rise of Batteries in Six Charts and Not Too Many Numbers," https://rmi.org/the-rise-of-batteries-in-six-
+charts-and-not-too-many-numbers/
+
+2 Will Rimell, "Tesla Model Y becomes first EV to top global sales charts," Autocar.co.uk, January 25, 2024,
+https://www.autocar.co.uk/car-news/new-cars/tesla-model-y-becomes-first-ev-topglobal-sales-charts
+
+                                                                                                Page 3 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+3 CNET, "Every EV Available in 2024, Ranked by Range," https://www.cnet.com/home/electric-vehicles/every-ev-
+available-ranked-by-range/
+
+4 Statistics are for light duty cars and trucks (medium and heavy vehicle sales are not included in this figure).
+Argonne National Laboratory, "LDV Total Sales of PEV and HEV by Month (updated through June 2024),"
+https://www.anl.gov/sites/www/files/2024-07/Total%20Sales%20for%20Website_June%202024.pdf
+
+5 Ibid.
+
+6    International   Energy     Agency,     "Global    EV     Outlook      2024:      Trends     in    electric    cars,"
+https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars F
+
+***
+
+3. Why electrification is important
+
+The transition to electric vehicles is a central pillar in the United States' efforts to both cut greenhouse gas
+emissions and reduce our vulnerability to shocks in global oil markets.
+
+Today, the United States is producing more oil than any country in the history of the world (including at any point
+during the previous administration).7 And yet, the U.S. economy remains dangerously exposed to the volatility of
+global oil prices. The decisions of a dictator to invade a neighbor or a disaster on the other side of the world can
+send the cost of filling the tank in Denver or Des Moines soaring almost overnight and tip the whole U.S. economy
+towards recession. Every $10 per barrel increase in the price of oil is a $210 million per day tax on American
+households and businesses,8 and soaring energy costs are a primary driver of inflation. We simply cannot drill our
+way to energy security. But we can electrify. By severing our reliance on gasoline and diesel to fuel our cars and
+trucks, we can finally secure America's independence from global oil shocks.
+
+Electrifying transportation is also critical to meeting national climate objectives. Switching to electric vehicles and
+cleaning up our grid is the critical 'one-two punch' that will decarbonize transportation. President Biden established
+a target to cut U.S. greenhouse gas emissions to half of peak levels by 2030. To reach this goal, electric vehicle
+sales should make up about 50% of the light duty vehicle market by that date, up about five-fold from today.9 Yet
+over the past nine months, sales of plug-in vehicles in the United States have plateaued, driving a growing gap
+between current trends and U.S. climate targets. Let's dive into the numbers...
+
+4. Recent trends in the U.S. EV market
+
+Electric vehicle sales growth accelerated through the 3rd quarter of 2023, regularly exhibiting year-on-year growth
+rates of roughly 40-60%. Beginning in the 4th quarter of 2023, however, growth in EV sales stalled, a trend that has
+continued through the first half of this year (see Figure 3).
+
+At the current pace, sales of fully electric vehicles are basically flat in 2024 (up only 2% year to date) while sales of
+plug-in vehicles (including PHEVs) are up 9% year-on-year (see Figure 4). That is a remarkable collapse from
+2023, which saw EV sales grow by more than 50% for the year (notwithstanding the slowdown in the fourth
+quarter).10
+
+7       Energy     Information      Administration,   "U.S.    Field   Production                of     Crude       Oil,"
+https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mcrfpus2&f=m
+
+8 The U.S. consumes about 21 million barrels of petroleum products per day. Energy Information Administration,
+"U.S. Weekly Product Supplied" https://www.eia.gov/dnav/pet/pet_cons_wpsup_k_w.htm
+
+9            REPEAT               Project,        Net-Zero           Pathway           scenario.          See
+https://repeatproject.org/results?comparison=benchmark&state=national&categories=transportation&subcategories
+=equipment-sales-lightduty-autos,equipment-sales-light-duty-trucks&page=1&limit=25
+
+                                                                                                Page 4 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+10 Argonne National Laboratory, "LDV Total Sales of PEV and HEV by Month (updated through June 2024),"
+https://www.anl.gov/sites/www/files/202407/Total%20Sales%20for%20Website_June%202024.pdf
+
+***
+
+New technologies typically follow an S-shaped adoption curve, with an early phase of exponential growth that
+eventually gives way to a linear phase after early adopters are exhausted (see Figure 6). Experts thus expected a
+slow-down in 2024 sales growth. But this collapse is atypically fast: Bloomberg NEF projected 20% annual growth
+in EV sales in 2024 while our most recent REPEAT Project scenarios expected 30-40% growth, rates that are now
+nearly impossible to reach this year (Figure 4).
+
+***
+
+Figure 3. Quarterly U.S. Battery Electric and Plug-in Hybrid Electric Vehicle Sales
+
+***
+
+Looking behind the headlines, it is clear that the story is mostly about Tesla. The EV market leader has stumbled:
+over the first half of 2024, Tesla sales contracted by 13% year-on-year, while sales of all other plug-in vehicles are -
+actually up a healthy 31% (see Figure 4).
+
+***
+
+Figure 4. Comparison of Actual vs Projected Year-on-Year Growth Rates for 2024 U.S. Battery Electric and Plug-in
+Hybrid Electric Vehicle Sales
+
+***
+
+Tesla currently has an aging and comparatively limited product line-up. The company depends on the Model 3 and
+Y to drive volume sales, with these two models historically accounting for about 95% of Tesla's deliveries in recent
+quarters.11 While the Model 3 went through a modest update earlier this year, the Model Y has not been
+substantially redesigned since its release in 2020. Instead of refreshing their top-selling models or producing a
+cheaper compact EV, Tesla devoted most of its product development efforts over the past several years to the
+Cybertruck, which launched at the end of 2023. While the distinctive vehicle has quickly become the top-selling
+electric truck in the market, 12 the Cybertruck currently retails for over $100,000 and is selling at an annualized
+pace of less than 50,000 units (as of May 2024). Meanwhile, Tesla has used substantial price reductions (beginning
+in 2023) to sustain sales of the Model 3 and Y (see Figure 5), which have nevertheless been stagnant over this
+period.
+
+As Tesla still represents over half of the total U.S. market for fully electric vehicles and 41% of the market for plug-in
+vehicles, it is difficult for the U.S. market overall to rapidly expand when Tesla is flat or declining.
+
+Figure 5. Tesla Prices Now Compete with the Average New Car
+
+***
+
+11 @TroyTeslike, "Tesla Production & Delivery History, created by @TroyTeslike, last updated on 18 July 2024,"
+https://docs.google.com/spreadsheets/d/1wiNeeKfpT73YIhpgdaqvCe1wyMue5wX0STSpcy-
+C6IY/edit?gid=327884293#gid=327884293
+
+12 Owen Bellwood, "The Tesla Cybertruck has dethroned Ford's F-150 Lightning as the best-selling electric truck,"
+Quartz, July 17, 2024 https://qz.com/tesla-cybertruck-ford-f150-lightningelectric-trucks-1851596485
+
+***
+
+Figure 6. Historical vs Projected Battery Electric and Plug-in Hybrid Electric Vehicle Sales Shares
+
+                                                                                                Page 5 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+***
+
+5. Addressing barriers to EV adoption and the outlook ahead
+
+Taking a step back, consumer surveys find that about half of U.S. vehicle buyers are considering buying an EV
+within the next 12 months, indicating substantial consumer interest and potential for market growth.13
+
+Cost and charging-related concerns remain the most commonly cited barriers to consumer adoption.14 Both trends
+are improving, thanks to both market competition and investment and supportive policy.
+
+Today, outside the luxury vehicle segment (which is already at price parity), EVs in the massmarket compact SUV
+and mid-size car segments are still roughly $10,000 more expensive to purchase than comparable internal
+combustion vehicles (before any applicable tax credits or state incentives).15
+
+Looking forward, battery prices continue to decline and competition is driving automakers to focus relentlessly on
+lowering the cost of manufacturing.16 New more affordable EV models in the small crossover segment are also
+coming to market, like the new 2024 Hyundai Kona EV (which starts at ~$32k), the 2024 Chevy Equinox EV
+(starting MSRP ~$35k) and 2025 Volvo EX30 (starting at ~$36k).
+
+13 Cox Automotive, "2024 Cox Automotive Path to EV Adoption Study - Summary," May 2024
+https://www.coxautoinc.com/wp-content/uploads/2024/05/2024-Path-to-EV-Adoption-StudySummary.pdf
+
+14 Ibid.
+
+15 The Toyota RAV4 and Honda CRV retail for ~$30,000-$41,000, while the electric Mustang Mach-E, Hyundai
+Ioniq 5 and Tesla Model Y are priced at roughly ~$42,000-$62,000 (though the entry level EV trims generally come
+with more premium features than the entry trims of comparable ICE vehicles). Similarly, a Toyota Camry or Honda
+Accord retails for ~$28,000-40,000 while a Tesla Model 3 or Hyundai Ioniq 6 is priced at ~$39,000-$56,000. See
+Edmunds,       "Big    Gap      Remains      in    Average     Price     of    Electric     vs.    Gas      Car,"
+https://www.edmunds.com/carbuying/average-price-electric-car-vs-gas-car.html
+
+16 See e.g. Abhirup Roy and Nora Eckert, "Ford asks suppliers to cut costs in push to turn EV business profitable,
+memo says," Reuters, May 16, 2024, https://www.reuters.com/business/autostransportation/ford-asks-suppliers-
+cut-costs-push-turn-ev-business-profitable-memo-says-2024-05-16
+
+***
+
+Public charger networks are also expanding, helping address anxiety about charger access and electric vehicle
+range. The U.S. added about 700 new public fast-charging stations in the 2nd Quarter of 2024, an increase of 9% in
+three months, bringing the total to nearly 9,000 sites. The number of public fast-charging stations in the U.S. could
+outnumber gas stations by 2032 or sooner, according to Bloomberg.17 The industry's convergence on the North
+American Charger Standard (NACS) will also ensure that EV owners have access to the broadest possible network
+of public fast-chargers. Companies will invest a collective $6.1 billion on North American charging infrastructure this
+year, nearly double their 2023 investment18--and federal funds are helping pave the way.
+
+The most important thing Congress can do now for the EV sector is to provide policy certainty and continuity. By
+providing continuity and avoiding abrupt changes in policy conditions, Congress can create the right conditions for
+America's dynamic automotive sector to invest, compete, and meet consumers' needs.
+
+6. Is the U.S. grid ready for EVs?
+
+All those EVs and chargers mean more demand for electricity, raising the question: is the U.S. grid prepared to
+handle millions of new EVs?
+
+To address this question, we need to take it in two parts and consider contributions of EVs to total electricity
+consumption and peak electricity demand.
+
+                                                                                                Page 6 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+First, it is important to note that even as EV sales shares increase, the stock of EVs on American roads lags behind
+sales. Only a portion of the overall U.S. automotive fleet turns over each year, with about 15-17 million vehicles sold
+each year and a total fleet of just over 280 million vehicles.19 So while nearly 10% of new vehicles sold in recent
+months were plug-in vehicles, only about 1% of the on-road fleet of light duty vehicles are electric today. Even if
+100% of new vehicles sold were electric tomorrow, it would take about 15 years before the entire fleet of U.S.
+vehicles is electrified--and it will take considerably longer than that given current trends. We thus have some time to
+prepare America's electricity infrastructure, markets, and regulation for widespread EV adoption--but we best not
+waste it.
+
+REPEAT Project's 2024 Current Policies scenario -- which most closely matches (yet still exceeds) current EV
+market trends -- expects EVs to consume about 322 terawatt-hours (TWh) of electricity by 2030 and 723 TWh by
+2035, equivalent to about 8% and 17% of total U.S. electricity use today (Figure 7).20 Putting it another way, by
+2035, electric vehicles could consume nearly as much electricity as is produced today by the nation's entire fleet of
+nuclear power plants or all non-hydro renewables combined.
+
+17 At the current pace, public fast-charging sites will outnumber gas stations in eight years, but the pace of charger
+deployment is expected to accelerate.
+
+18 Kyle Stock, "US Public EV Chargers Set to Surpass Gas Stations in Eight Years," Bloomberg, July 18, 2024,
+https://www.bloomberg.com/news/articles/2024-07-18/when-will-the-us-havemore-public-ev-chargers-than-gas-
+stations
+
+19 Statista, "Number of motor vehicles registered in the United States from                         1990   to   2022,"
+https://www.statista.com/statistics/183505/number-of-vehicles-in-the-united-states-since-1990/
+
+20 REPEAT Project 2024 annual update (forthcoming), "Current Policies - Conservative" scenario.
+
+***
+
+While a lot of attention has recently been paid to increasing demand from data centers and AI, electric vehicles are
+actually likely to be a larger driver of electricity demand growth over the coming decade.
+
+***
+
+Figure 7. Projected Electricity Demand From Battery Electric and Plug-In Hybrid
+
+Electric Vehicles vs Current U.S. Electricity Generation
+
+***
+
+To ensure that EVs deliver the greatest emissions reductions, the U.S. needs to add substantial new clean
+electricity generating capacity. Sustaining existing federal policies to support renewable electricity deployment and
+retain (and uprate) nuclear power plants are thus paramount, as are efforts to reform permitting and accelerate the
+construction of U.S. high voltage transmission networks.
+
+It is important to note though that even when consuming today's average U.S. electricity mix, EVs produce about
+80% less greenhouse gas emissions than a comparable gasoline vehicle and about 60% less than a comparable
+hybrid21 -- and the mix of new generation added to the U.S. grid will be much cleaner than today's supply.
+According to the Energy Information Administration (EIA), 99% of new capacity expected to come online in the U.S.
+over the next 12 months will be zero emissions generation or battery storage.22
+
+Beyond contributions to overall electricity use, EV chargers also represent large new instantaneous power demands
+that could contribute to stress on local and national grid infrastructure. Coming home and plugging an EV into a
+typical Level 2 EV charger is like flipping the switch on a dozen or more window mounted air conditioners -- or
+enough to roughly double or more the peak demand of a typical U.S. household. Poorly timed charging could
+therefore put considerable strain on local grid equipment, particularly at the distribution level.
+
+                                                                                                Page 7 of 7
+            Senate Budget Committee Issues Testimony From Princeton University Assistant Professor
+
+Fortunately, it should be possible to avoid charging EVs during periods of peak grid stress. An EV with ~300 miles
+range has enough charge for a whole week's worth of average household driving, giving EV owners considerable
+flexibility to decide not just what time of day but what day of the week to charge their vehicles. Assuming only a
+modest level of flexible charging, REPEAT Project scenarios thus expect EVs to contribute 4% of peak U.S.
+
+21 Argonne National Laboratory, "Emissions from Electric Vehicles," https://afdc.energy.gov/vehicles/electric-
+emissions
+
+22       Energy       Information        Administration,   Electric     Power         Monthly        Table      6.1
+https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_6_01 322
+
+***
+
+...electricity demand in 2030 and 7% in 2035 (vs ~8% and 13% of total annual electricity consumption,
+respectively). Electric vehicles contribute ~41 gigawatts (GW) to a peak demand of 922 GW in 2030 and ~66 GW to
+a peak demand of 975 GW in 2035 in this scenario.23 For comparison, the U.S. has ~506 GW of natural gas
+generating capacity today and is expected to add nearly 17 GW of new battery storage capacity to the grid in the
+next 12 months alone.24 Broader use of managed charging could further reduce (and nearly eliminate) the
+contribution of electric vehicles to peak grid use.
+
+It is thus critical to provide incentives for EV owners to participate in managed charging programs or "smart
+charging" programs that smooth out the aggregate demand EV chargers put on the grid at any one time. By
+charging during periods when distribution networks have ample spare capacity and electricity prices are lower, EV
+owners should also enjoy significantly lower costs to fuel their vehicles.
+
+The technology is available today to coordinate EV charging and avoid stressing our grid infrastructure; all that is
+missing are appropriate regulatory reforms to retail rate design, demand response aggregation, and distribution
+utility remuneration. While these reforms are the domain of state utility regulators, Congress could consider
+measures to incentivize states to undertake these reforms, expand knowledge on best practices across the country,
+and establish appropriate technical standards for smart charging.
+
+23 REPEAT Project 2024 annual update (forthcoming), "Current Policies - Conservative" scenario.
+
+24       Energy       Information        Administration,   Electric     Power         Monthly        Table      6.1
+https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_6_01
+
+***
+
+Original                                              text                                                    here:
+https://www.budget.senate.gov/imo/media/doc/drjessejenkinstestimonysenatebudgetcommittee.pdf
+
+Copyright Targeted News Services
+
+MSTRUCK-8777077 MSTRUCK
+
+
+Load-Date: August 16, 2024
+
+
+  

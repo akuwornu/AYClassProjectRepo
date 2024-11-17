@@ -1,0 +1,150 @@
+
+
+                                                                                                     Page 1 of 3
+                Eindhoven University of Technology: Why Smart Robots Should Be as Lazy as Possible
+
+
+
+
+ Eindhoven University of Technology: Why Smart Robots Should Be as Lazy
+                               as Possible
+                                                     Targeted News Service
+                                            July 11, 2024 Thursday 8:40 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1044 words
+Byline: Targeted News Service
+Dateline: EINDHOVEN, The Netherlands
+
+Body
+
+
+(TNSres) -- Eindhoven University of Technology issued the following news:
+
+***
+
+Alongside Rene van de Molengraft, Professor of Lazy Robotics and founder of Tech United, we dive into the
+technology behind the RoboCup.
+
+***
+
+The European Championship is still in full swing but, at TU Eindhoven, they are already hard at work on the next
+'soccer tournament', the RoboCup 2024 from July 17-21 in Eindhoven. This is the world championship for robotics
+and involves fully autonomous robots that play soccer matches, perform household tasks or locate difficult-to-reach
+places as part of rescue work.
+
+Thousands of people are expected to visit Eindhoven for RoboCup 2024, the world's largest competition in robotics
+and AI. The best teams from around the world will compete for the world title in various robot competitions.
+
+Alongside Rene van de Molengraft, Professor of Robotics and co-founder of the successful TU/e team (and current
+robot soccer world champion) Tech United, we look ahead to the robot soccer tournament.
+
+A conversation about the latest wonders we can see there, the challenges on the way to achieving the grand goal of
+defeating human soccer players by 2050, and why soccer robots - and robots in general - perform even better when
+they are lazy.
+
+Tech United team
+
+                                                                                                         Page 2 of 3
+              Eindhoven University of Technology: Why Smart Robots Should Be as Lazy as Possible
+
+The soccer robots of TU Eindhoven's team, Tech United, compete in the Middle Size League (MSL), the most
+spectacular robot soccer. Their healthcare robot, HERO, takes part in the @Home league.
+
+Soccer robots are attracting a lot of attention, especially in the MSL. Using a real soccer ball, they play five-on-five
+matches in two 15-minute halves on an 18 x 12-meter field. They are programmed in advance but, once the whistle
+blows, they play soccer completely autonomously and humans are simply spectators.
+
+They look like a sort of moving traffic cone on three omni wheels. These wheels cannot steer but can passively roll
+sideways. Thanks to these wheels, the robots are highly maneuverable and reliable.
+
+The latest wonders
+
+RoboCup primarily serves to stimulate the development of technology in mechatronics, computer science,
+electronics and AI, among other fields, with competition as the drive. After each tournament, the knowledge and
+progress are therefore shared with all participants. So, Tech United will have to come up with something new this
+year to go for its eighth (!) world title.
+
+"We're introducing two new elements this year," says Van de Molengraft. "The first improvement concerns the
+wheels. This year, we have a player with three steerable wheels. This allows the robot to accelerate and brake
+much faster. For now, it will be used as a substitute to see if the robot can handle an entire tournament."
+
+"The other improvement is invisible as it relates to the software. We have completely recreated old code from the
+very beginning and have adapted it to the rest of the code. This code improves the robots' movements and
+therefore basically all soccer actions."
+
+Defeating human soccer players
+
+Every few years, the RoboCup organization, in which Van de Molengraft is closely involved, draws up new rules for
+the various leagues. In doing so, they encourage innovations to get closer to the dot on the horizon: defeating a
+human soccer team by 2050. What will the next challenge be on the way to 2050?
+
+"I'm thinking of the switch from wheels to legs. We will have to do that because we really cannot compete against
+humans using wheels yet. For that, we need to allow games with multi-legged robots in the MSL. That would be an
+enormous new challenge for Tech United," he explains.
+
+"Of course, you will then see a huge drop-off in match results," says Van de Molengraft. "But eventually, the robots
+on legs are going to win out over those on wheels. I'm really looking forward to that!"
+
+Practical challenges
+
+In addition to the soccer leagues, the RoboCup has other categories in which to compete, such as autonomous
+healthcare robots and rescue robots. For example, Tech United is participating in the @Home league with their
+healthcare robot HERO.
+
+Within this competition, the focus lies in the development of robots that can provide service and assistance in home
+or care situations. In the future, the hope is that this will enable elderly people to live at home for longer, for
+example. Here too, the team is mainly a spectator during the matches.
+
+"You can see that highly practical challenges are at the center of the other leagues, such as picking up a cup of tea.
+The care robot has to know how big the cup is and how full it is, but also what material such a cup is made of. A
+plastic cup is easily crushed, resulting in hot tea everywhere. I see significant progress there, although the step to
+practice is still sizeable."
+
+"It's a different story for rescue robots. Robots are already being deployed in rescue work in which humans are
+difficult to reach or where it is too dangerous. Examples include the disaster at Fukushima or the earthquakes in
+Turkey and Syria."
+
+                                                                                                                Page 3 of 3
+               Eindhoven University of Technology: Why Smart Robots Should Be as Lazy as Possible
+
+"It's really great to see rescue robots finding living people in incredibly difficult conditions, albeit usually still requiring
+a human operator to remotely control the robot."
+
+At the heart of the research
+
+The TU/e team Tech United has been around for almost twenty years now. Van de Molengraft was involved in the
+foundation of the RoboCup soccer team, taking inspiration from Philips' then-successful team. A little later, in 2009,
+followed the start of research into autonomous robotics at TU/e with the RoboEarth project, which had European
+funding.
+
+"After that, we started carrying out more and more robotics projects and became a real research group. In 2019, as
+principal investigator, I was able to start my own robotics group," he says.
+
+"We began with five people and are now a real section with about fifty employees and a number of robotics courses
+in the Mechanical Engineering bachelor's program. And, starting next academic year, we will also have our own
+Robotics master's track."
+
+All of that research directly benefits the Tech United team as, in addition to students, the team consists of PhD
+candidates and staff.
+
+***
+
+Original text here: https://www.tue.nl/en/news-and-events/news-overview/10-07-2024-why-smart-robots-should-be-
+as-lazy-as-possible
+
+Copyright Targeted News Services
+
+MSTRUCK-8716605 MSTRUCK
+
+
+Load-Date: July 11, 2024
+
+
+  

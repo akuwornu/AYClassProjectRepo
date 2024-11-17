@@ -1,0 +1,142 @@
+
+
+                                                                                               Page 1 of 3
+     InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
+                      Enterprise-Grade Node Management Services to End Users Node....
+
+
+
+
+InfStones Launches Node-as-a-Service (NaaS) Product to Jumpstart DePIN
+Development while Delivering Enterprise-Grade Node Management Services
+ to End Users; Node-as-a-Service enables DePIN end users to set up their
+                         own nodes hassle free
+                                                         GlobeNewswire
+                                               July 22, 2024 Monday 3:58 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: PRESS RELEASES
+Length: 1178 words
+
+Body
+
+
+DALLAS. TX, July 22, 2024 (GLOBE NEWSWIRE) -- InfStones, a leading global blockchain infrastructure
+provider, today announced the successful launch of its Node-as-a-Service (NaaS) product, empowering emerging
+protocols to jumpstart their DePIN projects while making sophisticated blockchain node operations accessible to
+mainstream users.
+
+Decentralized Physical Infrastructure Networks (DePINs) are one of the fastest growing sectors in the industry due
+to their ability to capture the value of real-world data and resources from a traditional physical infrastructure and
+decentralize their control and ownership for a variety of use cases. Now, with InfStones’ innovative NaaS product,
+designed to empower DePIN development, end users can easily set up their own nodes on a user-friendly platform
+with just a few clicks and enjoy the same professional, hassle-free services offered to large institutions.
+
+Since 2018, InfStones has been renowned for providing enterprise-grade node management services to industry-
+leading institutions such as Binance, CoinList, and BitGo. By vastly lowering the technology barrier for individual
+users to launch their own nodes on other protocols, InfStones’ NaaS product is accelerating the adoption of new
+blockchain platforms and propelling the DePIN revolution.
+
+InfStones’ Node-as-a-Service Product: One-stop dApp for DePIN Node Lifecycle
+
+InfStones’ NaaS product enables end users to join and actively engage with innumerable DePIN communities,
+allowing them to shape their futures and ensure their longevity while earning passive rewards. At the same time,
+
+                                                                                              Page 2 of 3
+    InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
+                     Enterprise-Grade Node Management Services to End Users Node....
+
+DePIN protocols can leverage the expansive market reach of InfStones’ NaaS product to rapidly source node
+operators and increase adoption and engagement on their network, thereby accelerating the buildout of highly
+scalable and decentralized infrastructure-as-a-service platforms.
+
+For many DePIN projects, high upfront costs and complex node management have created significant barriers to
+mass adoption. InfStones’ NaaS product solves this problem by providing end users with an intuitive dApp solution
+similar to other popular Web3 dApps. When users use InfStones’ dApp, their experience is as simple and consistent
+as using Uniswap or Lido. By simply connecting a wallet, users can begin operating a node with just a few clicks,
+reducing time and resource investment to a minimum.
+
+
+
+Behind the easy-to-use interface is InfStones’ industry-leading node management infrastructure, secured with 24/7
+monitoring, disaster recovery, and AI-automated maintenance. InfStones’ robust node infrastructure has an
+impeccable six-year track record and serves as the backbone for over 80 blockchain protocols and some of the
+largest institutions in the industry, guaranteeing their uptime and safeguarding daily operations.
+
+InfStones’ NaaS Product Brings Scaled Adoption to Aethir and Others
+
+Aethir is a transformative cloud computing platform that optimizes the use of enterprise-grade GPUs through a
+decentralized, scalable framework. In Aethir’s recent Node Sale, InfStones was selected as an official NaaS partner
+and has since originated over 35% of the total Checker Nodes sold on the Aethir network, making InfStones one of
+the largest node service providers on Aethir. As one of the first and most successful Node Sales, Aethir sold over
+74,000 Checker Node licenses, attracting a broad user base.
+
+By partnering with InfStones’ Node-as-a-Service product, Aethir has successfully converted over 26,000 of its
+Checker Node license holders into long-term node operators. This has increased mass adoption and stability on its
+network, helping Aethir achieve its vision of building a distributed cloud network and empowering node operators to
+shape the future of Aethir.
+
+Daniel Wang, Aethir Co-founder and CEO, said, "Partnering with InfStones has been crucial to our recent Aethir
+Checker Node success. As our official partner, InfStones surpassed our expectations, deploying over 26,000 of our
+network nodes and rapidly scaling Aethir's adoption, helping us move closer to full decentralization. This is a
+testament to InfStones' service quality, long standing reputation, and broad market access."
+
+In addition to Aethir, other groundbreaking DePIN projects such as CARV and Lumoz have also chosen InfStones
+as their official NaaS provider. In these collaborations, DePIN pioneers at the intersection of gaming, AI, and
+ modular computing are trusting InfStones to provide the scalability and security needed in their Web3
+infrastructure.
+
+Delivering Enterprise-grade Node Services to DePIN End Users
+
+InfStones' excellent track record and trust from major institutions highlight the reliability and quality of its enterprise-
+level node services. With the launch of its NaaS product, InfStones now offers the same enterprise-grade services
+for DePIN end-users in a comprehensive one-stop platform, providing a smooth self-service node experience
+without sacrificing reliability.
+
+Dr. Zhenwu Shi, Founder and CEO of InfStones, said, "The launch of our innovative Node-as-a-Service product
+marks an important milestone for us. For the past six years, we have already earned widespread recognition from
+leading blockchain protocols and institutions for securing their network nodes. Now, we are offering DePIN end
+users the same enterprise-grade tools deployed for institutions, allowing users to engage with the DePIN
+community of their choice with a simple, intuitive UI and worry-free service. Our NaaS product will massively
+expand our market reach and further strengthen our ability to partner with protocols to rapidly scale their networks,
+unlocking new possibilities and enriching the Web3 ecosystem."
+
+                                                                                              Page 3 of 3
+    InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
+                     Enterprise-Grade Node Management Services to End Users Node....
+
+About InfStones
+
+InfStones is an advanced, enterprise-grade Platform as a Service (PaaS) blockchain infrastructure provider trusted
+by the top blockchain companies in the world. InfStones' AI-based infrastructure provides developers worldwide
+with a rugged, powerful node management platform alongside an easy-to-use API. Supporting over 80 blockchains,
+InfStones gives developers all the control they need - reliability, speed, efficiency, security, and scalability - for
+cross-chain DeFi, NFT, GameFi, and decentralized application development. InfStones is trusted by the biggest
+blockchain companies in the world including Binance, CoinList, BitGo, OKX, Chainlink, Polygon, Harmony, and
+KuCoin, among over a hundred other customers. InfStones is dedicated to empowering the evolution of a better
+world through limitless Web3 innovation.
+
+Visit: www.infstones.com
+
+About Aethir
+
+Aethir is revolutionizing DePIN with its advanced, distributed enterprise-grade GPU-based compute infrastructure
+tailored for AI and gaming. Backed by leading Web3 investors like Framework Ventures, Merit Circle, Hashkey,
+Animoca Brands, Sanctor Capital, Infinity Ventures Crypto (IVC), and others, with over $32 M in funds raised for the
+ecosystem, Aethir is paving the way for the future of decentralized computing.
+
+Media Contact: infstones@transformgroup.com
+InfStones   infstones at transformgroup.com
+
+
+
+Load-Date: July 22, 2024
+
+
+  

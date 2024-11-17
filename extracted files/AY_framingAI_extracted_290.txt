@@ -1,0 +1,127 @@
+
+
+                                                                                                      Page 1 of 3
+                                   Operational Resilience Testing for DORA Compliance
+
+
+
+
+                    Operational Resilience Testing for DORA Compliance
+                                                     Targeted News Service
+                                            July 11, 2024 Thursday 8:40 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 857 words
+Byline: Targeted News Service
+Dateline: LONDON, England
+
+Body
+
+
+UK Finance, which monitors the banking and finance industry, issued the following news release:
+
+Operational Resilience (OpRes) testing aims to ensure that financial institutions can continue their critical
+operations throughout severe disruptions.
+
+The opinions expressed here are those of the authors. They do not necessarily reflect the views or positions of UK
+Finance or its members.
+
+The goal of OpRes is to maintain service delivery and minimise the potential negative impacts on the organisation
+itself, the financial system, its customers, and the broader economy by identifying weaknesses, evaluating their
+impact, and implementing necessary improvements. The sector's reliance on technology and third-party services
+requires the testing of IT systems, business processes, and third-party dependencies.
+
+Key Components
+
+OpRes testing under DORA encompasses an array of activities designed to assess and strengthen the ability of
+financial entities to endure and recover from disruptions. Tests are to be carried out annually and following any
+significant changes to the IT environment. Institutions must document test outcomes, implement corrective actions,
+and report significant incidents.
+
+Key components of operational resilience testing include:
+
+1. Scenario Analysis and Testing: These realistic scenarios should encompass a wide range of potential threats,
+including cyberattacks, data breaches, system failures, loss of staff, and natural disasters. Scenario testing helps
+organisations understand the effectiveness of their response strategies and the robustness of their systems and
+staff.
+
+                                                                                                          Page 2 of 3
+                                Operational Resilience Testing for DORA Compliance
+
+2. Penetration Testing: Penetration tests are crucial for identifying security vulnerabilities. These tests simulate
+attacks on the organisation's IT infrastructure to uncover weaknesses that can be exploited. This proactive
+approach enables organisations to fix vulnerabilities before they can be exploited.
+
+3. Business Continuity and Disaster Recovery (BC/DR) Testing: BC/DR testing ensures that organisations have
+effective plans in place to continue operations during and after a disruption. This includes testing backup systems,
+data recovery procedures, and communication protocols. Regular testing helps ensure that recovery plans are
+current and effective, and that roles and responsibilities are understood and reiterated.
+
+4. Third-Party Risk Management: It's essential to assess third-party resilience as well, even if they themselves are
+not governed by the DORA. This involves evaluating their operational resilience programs and ensuring they can
+meet their obligations during disruptions. Regular audits and contractual agreements with third-party providers are
+part of this process. Testing may also highlight a concentrated or distributed third-party risk, encouraging
+organisations to re-evaluate their vendor distribution ratios.
+
+Implementing Effective Testing Strategies
+
+Once an organisation has defined its testing strategy, defining what it plans to test, how often, and how far, it can
+then consider more advanced testing strategies, including:
+
+* Integrate Testing into Routine Operations: embed resilience testing into regular IT and operational processes to
+ensure resilience is continually assessed and improved.
+
+* Leverage Advanced Technologies: utilise technologies such as AI and ML for advanced threat modelling and
+simulation to enable more accurate identification of potential vulnerabilities.
+
+* Continuous Improvement: implement a feedback loop where test outcomes and results are used to continuously
+refine and improve resilience strategies.
+
+DORA Compliance Reporting
+
+Under Article 19, DORA mandates that institutions report significant incidents to the competent authority, and
+provide detailed post-incident reviews.[1]
+
+Institutions must document the outcomes of their testing, including objectives, methodologies, and findings, and
+take corrective actions to address identified issues. These records must be readily available for regulatory audits,
+as well as for reports following significant ICT-related incidents. Reports ensure that regulators have visibility of the
+financial service's operational resilience posture, and can take pre-emptive measures to mitigate systemic risks.
+
+Summary - Benefits of Compliance
+
+DORA compliance enhances an organisation's overall resilience, reduces the risk of operational disruptions, and
+builds trust with stakeholders. By adhering to DORA, financial institutions contribute to the stability and integrity of
+the broader financial system.
+
+Operational resilience testing is a fundamental aspect of DORA compliance. It enables organisations to proactively
+manage and mitigate risks, ensure the continuity of critical services, and safeguard against a wide range of
+operational disruptions, thereby securing the system's trust and stability.
+
+Read       more      about     Preparing    for      DORA                        (https://responsiv.co.uk/preparing-for-
+dora/?utm_source=UK+Finance&utm_medium=OpRes+Blog) compliance.
+
+***
+
+Original   text     here:    https://www.ukfinance.org.uk/news-and-insight/blog/operational-resilience-testing-dora-
+compliance
+
+                                                                                      Page 3 of 3
+                                 Operational Resilience Testing for DORA Compliance
+
+[Category: Financial Services]
+
+Copyright Targeted News Services
+
+MSTRUCK-8716486 MSTRUCK
+
+
+Load-Date: July 11, 2024
+
+
+  

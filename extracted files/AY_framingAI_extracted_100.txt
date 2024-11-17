@@ -1,0 +1,106 @@
+
+
+                                                                                               Page 1 of 2
+    Sidus Space Secures Contract with Xiomas Technologies to Supply FeatherEdge Computing System for Fire
+                         Detection via High-Altitude Infrared Imaging FeatherEdge C....
+
+
+
+
+    Sidus Space Secures Contract with Xiomas Technologies to Supply
+FeatherEdge Computing System for Fire Detection via High-Altitude Infrared
+ Imaging; FeatherEdge Computing System to Enhance Rapid Fire Detection
+                Capabilities in Collaborative NASA Project
+                                                     Business Wire
+                                       August 13, 2024 Tuesday 12:30 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 835 words
+Dateline: CAPE CANAVERAL, Fla.
+
+Body
+
+
+Sidus Space (NASDAQ: SIDU) (the "Company" or "Sidus"), a provider of end-to-end precision Space Infrastructure
+solutions that include satellite Data-as-a-Service on its proprietary on-orbit platform, announces the sale of its
+FeatherEdge onboard computing system to Xiomas Technologies as part of a groundbreaking project aimed at
+revolutionizing fire detection. This collaborative effort, involving Sidus Space, Xiomas Technologies, NASA, and
+Harvard University, will demonstrate rapid fire detection capabilities using a stratospheric balloon platform.
+
+The FeatherEdge system, purchased by Xiomas Technologies, will be pivotal in processing high-resolution thermal
+images captured by Xiomas' advanced infrared sensor. FeatherEdge will perform critical edge computing tasks,
+compressing raw data into smaller, actionable analytics for efficient transmission to ground stations to demonstrate
+the ability to deliver crucial information quickly even when bandwidth might be limited.
+
+The FeatherEdge system will generate essential data, including the location, size, and intensity of detected heat
+signatures, which will be packaged into compact packets for near real-time transmission. The stratospheric balloon
+is scheduled for launch in October 2024, marking a significant advancement in the development of rapid-fire
+detection technologies.
+
+"This sale underscores our commitment to leveraging space-based technologies for critical Earth applications," said
+Carol Craig, CEO of Sidus Space. "By integrating FeatherEdge with Xiomas' infrared sensor, we're not just selling a
+product; we're providing a solution that could significantly enhance fire detection capabilities for firefighting agencies
+and disaster response teams globally. We're excited about the potential this project has to open new doors within
+NASA and the broader fire prevention community."
+
+This project highlights the advanced capabilities of Sidus Space's technology and positions the company for future
+opportunities in both governmental and commercial sectors. By showcasing the efficiency and effectiveness of
+Sidus' low-latency data processing capabilities, this mission sets the stage for further integration of similar
+technologies in upcoming space missions.
+
+                                                                                              Page 2 of 2
+   Sidus Space Secures Contract with Xiomas Technologies to Supply FeatherEdge Computing System for Fire
+                        Detection via High-Altitude Infrared Imaging FeatherEdge C....
+
+About Sidus Space
+
+Sidus Space (NASDAQ: SIDU) is a multi-faceted Space Infrastructure-as-a-Service satellite company focused on
+mission-critical hardware manufacturing; multi-disciplinary engineering services; satellite design, production, launch
+planning, mission operations; and in-orbit support. The Company is in Cape Canaveral, Florida, where it operates
+from a 35,000-square-foot manufacturing, assembly, integration, and testing facility focused on vertically integrated
+Space-as-a-Service solutions including end-to-end satellite support.
+
+Sidus Space has a mission of Bringing Space Down to Earth(TM) and a vision of enabling space flight heritage
+status for new technologies while delivering data and predictive analytics to domestic and global customers. More
+than just a "Satellite-as-a-Service" provider, Sidus Space products and services are offered through its several
+business units: Space-as-a-Service, Space-Based Data Solutions, AI/ML Products and Services, Mission Planning
+and Management Operations, 3D Printing and Products and Services, Satellite Manufacturing and Payload
+Integration, and Space and Defense Hardware Manufacturing. Sidus Space is ISO 9001:2015, AS9100 Rev. D
+certified, and ITAR registered.
+
+Forward-Looking Statements
+
+Statements in this press release about future expectations, plans and prospects, as well as any other statements
+regarding matters that are not historical facts, may constitute 'forward-looking statements' within the meaning of The
+Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements
+relating to the expected trading commencement and closing dates. The words 'anticipate,' 'believe,' 'continue,'
+'could,' 'estimate,' 'expect,' 'intend,' 'may,' 'plan,' 'potential,' 'predict,' 'project,' 'should,' 'target,' 'will,' 'would' and
+similar expressions are intended to identify forward-looking statements, although not all forward-looking statements
+contain these identifying words. Actual results may differ materially from those indicated by such forward-looking
+statements as a result of various important factors, including: the uncertainties related to market conditions and
+other factors described more fully in the section entitled 'Risk Factors' in Sidus Space's Annual Report on Form 10-
+K for the year ended December 31, 2023, and other periodic reports filed with the Securities and Exchange
+Commission. Any forward-looking statements contained in this press release speak only as of the date hereof, and
+Sidus Space, Inc. specifically disclaims any obligation to update any forward-looking statement, whether as a result
+of new information, future events or otherwise.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240813334396/en/
+
+
+CONTACT: Investor Relations
+
+investorrelations@sidusspace.com Media Inquiries
+
+press@sidusspace.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: August 13, 2024
+
+
+  

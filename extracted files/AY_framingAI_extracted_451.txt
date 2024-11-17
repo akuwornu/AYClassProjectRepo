@@ -1,0 +1,393 @@
+
+
+                                                                                             Page 1 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+
+
+
+      Senate Health, Education, Labor and Pensions Subcommittee on
+ Employment and Workplace Safety Hearing; "Digging Deeper: Building Our
+ Critical Minerals Workforce."; Testimony by Gracelin Baskaran, Center for
+             Strategic and International Studies, Washington, DC
+                                           Congressional Documents and Publications
+                                                             June 12, 2024
+
+
+
+Copyright 2024 Federal Information and News Dispatch, Inc.
+
+Section: U.S. SENATE DOCUMENTS
+Length: 4420 words
+
+Body
+
+
+Chairman Hickenlooper, Ranking Member Braun, and distinguished Members of the Subcommittee, I am honored
+to share my views with you on this important topic. CSIS does not take policy positions, so the views represented in
+this testimony are my own and not those of my employer. In my testimony, I would like to reflect on how the
+workforce became a key impediment to reducing our reliance on China for key minerals required for national,
+economic and energy security. I will then look at potential solutions: how the United States can make existing tools,
+such as the Fulbright program, National Science Foundation, and the Infrastructure Investment and Jobs Act, better
+fit for supporting our minerals security needs, how we can support partnerships between mining companies and
+universities to attract young talent, and how we can leverage our military academies to help meet our workforce
+needs.
+
+My name is Dr. Gracelin Baskaran. I am the Director of the Project on Critical Minerals Security at the Center for
+Strategic and International Studies (CSIS). I started in the mining industry 11 years ago, when the U.S. State
+Department awarded me a Fulbright Fellowship. Through my Fulbright, I spent a year in South Africa's platinum
+belt, including time in the mines, and saw the long-term value of the sector - both economically and technologically.
+I went on to do a PhD at the University of Cambridge on the platinum sector and later co-authored a book on
+leveraging mining, oil and gas for economic transformation amidst decarbonization. My career, which has taken me
+from the depths of mines in South Africa, such as Twickenham and Mogalakwena, to the halls of Washington DC,
+began with the Fulbright.
+
+At CSIS, I now work to increase our economic and national security by reducing vulnerability in our supply chains
+for critical minerals. My work informs the White House National Security Council, State Department, Department of
+Energy, Development Finance Corporation, US Embassies globally, and bipartisan and bicameral members of
+Congress. My work also takes me to resource-rich jurisdictions around the world, where I work with industry players
+from 8 of the biggest Western mining companies by market capitalization, government officials from the United
+States, Middle East, Africa and Latin America, and members of civil society to understand how we can effectively
+
+                                                                                             Page 2 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+build minerals security. This has given me perspectives that reflect the realities on the ground both domestically and
+internationally.
+
+Background
+
+Minerals are important for national, economic and energy security. Their strategic value to the United States
+motivated an active minerals policy in the 20th century. In 1910, the United States Department of Interior created
+the United States Bureau of Mines with the goal of overseeing domestic mining activities and securing a sufficient
+mineral supply. The Bureau supported scientific studies and knowledge sharing about mineral resource extraction,
+processing, utilization, and health and safety standards. In 1996, Congress voted to close the Bureau and
+decentralize some of its responsibilities amongst several other departments. A Department of Interior report
+published in 2023 noted that, "At the end of the 20th century, the United States lost its position as the global leader
+in mining, both in terms of total production and the development of cutting-edge mining technology." n1
+
+Over the last three decades, China has become a dominant player in the supply chains of minerals key to national
+and energy security. Even if it is a marginal producer directly, China finances and imports from the rest of the world
+to control 65 percent to 90 percent of global supply of key metals. n2 This concentration is the result of decades of
+industrial strategy and foreign policy from Beijing. It is also a strategic challenge for the United States, given the
+importance of strengthening national security and meeting energy needs while geopolitical tensions between the
+two countries rise. China has developed a robust workforce that has allowed it to develop an absolute advantage in
+these supply chains.
+
+Rare earth elements, nickel, lithium, germanium and gallium are critical inputs for defense systems, including
+precision guided munitions, strategic nuclear applications and several missile classes, lasers that serve as range
+fingers and target designators, military information communication technology, modern naval missiles, weapon
+systems, tanks, and radar modules. They are the backbone of national security. Copper, lithium, nickel,
+manganese, cobalt, graphite, zinc, and rare earth elements are necessary for meeting our global decarbonization
+goals by manufacturing and deploying offshore and onshore wind, stationary and electric vehicle batteries, solar
+photovoltaics (PV), nuclear power and natural gas.
+
+The United States, and much of the globe, is most reliant on China for its critical minerals supply. n3 Of the 50
+minerals included in the 2022 Final List of Critical Minerals produced by the USGS, the United States had larger
+than a 50 percent reliance on imports for 31 n4, n5 and was wholly important reliant for 12. The United States is
+wholly reliant on China for 9 of them. n6 China has already demonstrated a willingness to use export controls or
+quotas on critical minerals as a geopolitical tool.
+
+The United States needs a strategy for reducing dependency and strengthening mineral supply. The last two
+administrations have set out to improve supply through better exploration, production, recycling, and reprocessing
+of critical minerals. In 2017, President Donald Trump issued Executive order 13817, to facilitate better management
+of critical minerals to strengthen energy security and executive prosperity. An output of this was an inter-agency
+report from the Secretaries of Commerce, Defense, Interior and Energy and the U.S. Trade Representative on
+critical minerals. One of the six calls to action in the report was to, "Enhance International Trade and Cooperation
+Related to Critical Minerals: [Identify] options for accessing and developing critical minerals through investment and
+trade with America's allies, discusses areas for international collaboration and cooperation." n7 In 2021, President
+Biden issued Executive Order 14017 which ordered a review of vulnerability in the US critical mineral and material
+supply chain. Subsequently, a supply chain assessment was released by the administration that found over-reliance
+on foreign sources and adversarial nations for critical minerals and materials posed national and economic security
+threats. The White House published its "Plan to Revitalize American Manufacturing and Secure Critical Supply
+Chains" in 2022, where it announced plans to increase domestic processing capacity of rare earth minerals, copper,
+nickel, lithium, and cobalt.
+
+The Defense Logistics Agency (DLA) has a stockpile of 47 commodities worth more than $1.5 billion. The stockpile
+was first established after World War 1. In February 2022, Congress authorized $1 billion for the National Defense
+
+                                                                                             Page 3 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+Stockpile to acquire strategic and critical materials to increase its buffer in the event of crises and disruptions in
+supply chains. n8
+
+Over the last few years, Congress also passed the Infrastructure Investment and Jobs Act (IIJA), the CHIPS and
+Science Act, and the Inflation Reduction Act (IRA), which authorized and provided over $8.5 billion in funding for
+critical minerals activities. n9 Specifically, the IRA seeks to prioritize domestic production of minerals. The Clean
+Vehicle Tax Credit and the Advanced Manufacturing Production Tax Credit of 2022 extend tax credits only to
+vehicles that meet threshold requirements for critical materials sourced domestically and from countries with which
+the United States has a free trade agreement. These tax credits and spending programs are uncoordinated and
+mostly focused on domestic mining and processing.
+
+However, the domestic-only approach to critical minerals cannot work. Geologically, a significant share of the
+minerals we need are not located in the United States or economically recoverable here. The United States has
+less than 1 percent of the world's nickel, cobalt, and graphite, 1.3 percent of the world's rare earths, and 1.5 percent
+of the world's manganese, which is a non-substitutable metal required for all steel production.
+
+The United States ability to build both its domestic and international capacity in mining will require a skilled
+workforce, which we have a significant deficit for. A recent McKinsey survey revealed that 71 percent of mining
+leaders stated that human capital shortages are preventing them from reaching their production targets and
+strategic goals. n10 We need mining engineers, geologists and geoscientists, metallurgists, geophysicists,
+economists, and senior management that we can deploy domestically and internationally. An analysis from CSIS
+notes:
+
+"More than half the current domestic mining workforce will need to be retired and replaced by 2029 (roughly
+221,000 workers). This number stands in stark contrast to the total of just 327 degrees awarded in 2020 in mining
+and mineral engineering and a 39 percent net drop in graduations in the United States since 2016. University
+programs tasked with creating this workforce have also been decreasing, with the number of mining and mineral
+engineering programs in the United States dropping from 25 in 1982 to 15 in 2023. This is in stark contrast to
+China, which has over 38 mineral processing schools and upwards of 44 mining engineering programs. Central
+South University, China's largest mineral processing program, has 1,000 undergraduates and 500 graduate
+students alone ready to accomplish China's mineral ambitions." n11
+
+As the graph below shows, without this, we will not be able to meet future minerals demand, which will grow
+significantly over the next 30 years, largely driven by clean energy technology. In 2020, the world needed
+approximately 8 million metric tons of minerals for the deployment of clean energy technologies - electric vehicles,
+electricity networks, solar and wind technology, battery storage, low-carbon power generation and hydrogen. In
+2030 - just six years from now - we will need roughly 50 million metric tons - over a six-fold increase. In 2040, this
+increases to about 105 million metric tons - a thirteen-fold increase from 2020. And by 2050, we will need about 150
+million tons - nearly a 19-fold increase. Training a workforce to meet future demand is imperative and it requires
+efforts that begin as soon as possible.
+
+Addressing the Workforce Shortage
+
+Repurposing Existing Instruments to Build the Mining Workforce
+
+The Department of Interior report published in 2023 noted that, "A lack of educational programs for building
+expertise in mining and mining oversight and a lack of interest in mining among the cohort of students who will
+become the managers of tomorrow compound a shortage of properly trained workers." n12
+
+My dad is the Chair of the Geology Department at Wayne State University in Detroit. As I've built my own career in
+the mining industry, we have discussed how geology, environmental science and engineering graduates in the
+United States are not moving to the mining sector. The United States needs to support embedding mining
+workstreams into geology and engineering programs. The need to build a mining workforce is a more recent priority
+- so few programs have historical depth here. Catching up in this area will require a significant increase in capacity
+
+                                                                                             Page 4 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+building and financing. This is for two reasons. First, academic programs largely succeed or fail based on available
+funding - particularly for research and scholarships. Second, there is often a lack of expertise to build these
+programs. This will require bringing in both skilled industry experts and faculty from mining programs around the
+world to cross-pollinate knowledge and build these programs - in particular Australia and Canada have deep
+academic expertise in the mining sector. The 2024 QS World University Rankings for mineral and mineral
+engineering show that one out of the top 12 programs in the world are American - Colorado School of Mines. Of the
+other 11, there are four in Australia and Canada and one in Russia, Chile and Saudi Arabia. n13
+
+A key solution to achieving these two goals is to make existing mechanisms better fit for mining workforce
+development. With that in mind, I can make three suggestions:
+
+The first is creating a dedicated Fulbright program for mining, minerals processing, and recycling. There are already
+a number of Fulbright programs - the Fulbright Arctic Initiative, the Fulbright Hays Program for K-14 teachers and
+administrators, Fulbright United States Scholar program for United States scholars and artists, Fulbright European
+Union Scholar-in-Residence (EUSIR) Program to strengthen United States expertise in European Affairs, and
+Fulbright Specialist Program to send U.S. faculty abroad to serve as expert consults and do faculty development,
+amongst others. A Fulbright program for mining to bring mining experts and faculty to the United States and send
+undergraduate and graduate students to top mining institutions abroad offers a real opportunity to both establish
+and expand mining programs in the United States and allow our students, particularly in STEM-related mining
+fields, to develop the necessary skills and knowledge to enter the modern minerals workforce.
+
+The second is increasing targeted funding to the National Science Foundation (NSF) for mining-related research
+and capacity building. The NSF is an independent federal agency that supports science and engineering in all 50
+U.S. states and U.S. territories. In 2023, the NSF's enacted budget was $9.9 billion, and they supported over 2,000
+organizations in every state and US territory.
+
+* The NSF has 15 focus areas - ranging from the arctic and Antarctic to astronomy and biology. Chemicals and
+materials are perhaps the closest to the mining sector - but it's still not fit to building mining expertise. The objective
+of this effort is "breakthroughs in chemistry and materials science that enhance nearly every aspect of daily life,
+from pharmaceuticals to plastics, environmental cleanup to battling pandemics." Mining is notably absent. n14
+
+* The NSF also has 11 technology focus areas - ranging from artificial intelligence to biotechnology and
+cyberinfrastructure. n15 Advanced materials are closest to the mining industry and the institution notes that "NSF
+invests in the discovery of new materials and processing methods that can unlock innovations across a wide range
+of sectors -- such as medicine, agriculture, electronics, manufacturing, energy and national security." Mining is
+inadequate in this program.
+
+* Mining remains vastly underfunded by the NSF - just 9 of 815 - or 1.1 percent of active grant opportunities are for
+minerals.
+
+The CHIPS Act of 2022 (Section 10359) authorized funds for the NSF to increase its work on critical minerals
+mining and development. n16 It includes provisions for institutions of higher education or nonprofits to offer training
+and research opportunities to undergraduate and graduate students, preparing the next generation of mining
+engineers and researchers. Funding for these programs has not been appropriated and could be included in the
+appropriations legislation for fiscal year 2025.
+
+And third, widen the sectoral scope of section 40211 of the IIJA which mandated that the Department of Energy
+create a 21st Century Energy Workforce Advisory Board to evaluate the requirements of the domestic energy
+workforce. The Board has also been mandated to develop strategies to provide opportunities for students to qualify
+to work in the energy sector and identify avenues for the Department of Energy to work with federal agencies and
+nongovernmental organizations to drive. n17 It is crucial for this program to go beyond an energy workforce and
+examine the needs of the mining workforce since the mining sector is essential for the implementation of nearly all
+new energy technologies. Without upstream support, the downstream renewable energy development will be
+impossible.
+
+                                                                                             Page 5 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+Partnerships Between Mining Companies and Universities
+
+According to the Bureau of Labor Statistics, the median age of a worker in the United States mining industry is 42,
+which underscores the need to attract younger generations. n18 There needs to be a fundamental rebranding of the
+mining industry. The report published by the United States Department of the Interior - Recommendations to
+Improve Mining on Public Lands - in 2023 notes that "The mining industry is having difficulty attracting young
+professionals and building a workforce. One major obstacle appears to be the negative public perception of the
+industry." n19 There are two key areas for rebranding.
+
+The first is that the industry is that the industry is tech-based. The modern mining industry is no longer one that
+uses picks and wheelbarrows - it runs on satellite imaging, artificial intelligence, advanced analytics, automation,
+robotics, and manufacturing 4.0. I've been to various mines that are entirely run out of what resembles a mission
+control room - blasting, production, and transportation of minerals.
+
+Second, significant advances have been made in further improving the environmental and social impacts of mining.
+Responsible mining is a core focus area for nearly all Western companies. The mining industry has a goal of zero
+fatalities and zero injuries, amongst a range of other Environmental, Social and Governance targets. In the United
+States, injuries in mines have been reduced by 58 percent over the last 15 years while fatalities have decreased by
+55 percent during that same time window. n20 Globally, institutions like the International Council of Minerals and
+Metals (ICMM), a key industry association for responsible mining, have worked with their members to improve
+human rights, health and safety, environmental performance, conservation of biodiversity, and social performance.
+Earlier this year, the ICMM, Mining Association of Canada, World Gold Council and Copper Mark launched a
+process to create a consolidated global standard for responsible mining.
+
+This means that mining is more technology-based and responsible than ever before. From a financial perspective,
+there is incentive for young people to go into mining. The average annual salary for a miner in 2023 was $94,848 -
+which is well above the United States average wage of $72,609. This means that the average worker in the mining
+industry makes 31 percent more than the national average. n21 Furthermore, as the shortage of workforce grows,
+supply and demand dynamics should drive wages up further.
+
+It is in the interest of mining companies to build their workforce, particularly with young people. Establishing a
+federal program to coordinate collaboration between mining companies and universities to strengthen the
+development of the mining workforce, particularly in STEM fields, enhance research and promote innovation in the
+industry.
+
+Mining companies can provide curriculum support to reflect the latest industry trends and technological
+advancements and experts working in the mining sector can deliver guest lectures and conduct workshops to give
+students field experience and share practical knowledge. Mining firms can also provide internships and co-op
+programs so students can get paid hands-on experience ahead of graduation, for an easier and more experienced
+transition to the workforce.
+
+Another key avenue of support for the mining sector is by providing scholarships to students. This has long been
+used in other mining jurisdictions. For example, in South Africa, where I worked for seven years, companies like
+Anglo American have financed many students over the years on the condition that they come back and work for the
+company after graduation. This is particularly useful to encourage socioeconomically disadvantaged students - who
+are often underrepresented in the industry - to enter the field, thereby supporting diversity efforts.
+
+Leveraging U.S. Military Academies to Build Tomorrow's Leaders
+
+The primary purpose of U.S. military institutions including the United States Military Academy, United States Naval
+Academy, United States Air Force Academy, and United States Coast Guard, amongst other institutions is to build
+future military leaders. Academy-trained engineers built the railroads and bridges for westwards expansion and
+were instrumental in the Industrial Revolution. It's time to enable them to answer the call for another national
+security challenge.
+
+                                                                                             Page 6 of 7
+   Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                          "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+I was privileged to speak at West Point on critical minerals in February 2024. Lieutenant General Jonathan Braga -
+who is serving as the commanding general of the United States Army Special Operations Command - provided the
+keynote for the event. The interest from cadets afterward was clear. They are our future leaders - they will go on to
+be political leaders, cabinet members, ambassadors, and even mining executives that can advance United States
+mineral interests.
+
+Mining executives have a key role to play in advancing strategic mining objectives, including talent development
+and pursuing national security goals. They require an understanding of engineering, diplomacy and strategy. There
+is a clear need to develop a workforce that is capable of leading mining companies. There are only two American
+CEOs of large market cap mining companies that I'm aware of - Richard Adkerson at Freeport McMoRan and Bob
+Wilt, an American West Point graduate and Army veteran from the Gulf War. After a long career at Alcoa, an
+American company, Bob is now the CEO at Ma'aden, one of the fastest growing mining companies in the world.
+The experience he gained in engineering, diplomacy and strategy at both West Point and his subsequent military
+career has been valuable. Scaling up the number of American mining executives is critical if we are to build U.S.
+leadership in the mining sector - and our military academies are an excellent place to do this.
+
+At CSIS, we are planning the first national security and critical minerals summit, which will be held in October. Our
+speakers will include many West Point alumni - former U.S. cabinet members, ambassadors and a mining
+executive. Our goals are two-fold. The first is to give cadets much needed exposure to the importance of critical
+minerals and what careers in the mining industry look like. The second is to give faculty more exposure to critical
+minerals issues, which the United States has disregarded for the last 30 years. Upscaling support to initiatives like
+this is key.
+
+Conclusion
+
+The future of meeting American minerals security needs will require both domestic and international mining given
+the distribution of resources. In my conversations with industry, workforce shortages are universally cited as
+limitation. The United States may have closed its Bureau of Mines in 1996 - but investing in workforce development
+must be a priority to reduce our reliance on China. Without an adequate supply of mining engineers, geologists and
+geoscientists, metallurgists, geophysicists, economists, and senior management that we can deploy domestically
+and internationally, China will continue to have the upper hand, leaving our national, economic and energy security
+highly vulnerable to disruption.
+
+n1 US Department of the Interior. Recommendations to Improve Mining on Public Lands. September 2023.
+
+n2 Baskaran, G. What China's Ban on Rare Earths Processing Technology Exports Means. Center for Strategic
+and International Studies. January 8, 2024.
+
+n3 Stanford University. Assessing the U.S.-China Competition for Minerals Crucial to the Development of Emerging
+Technologies. October 1, 2023.
+
+n4 National Mining Association. U.S. Reaches Highest Recorded Mineral Import Reliance. January 31, 2023.
+
+n5 This includes 14 lanthanides, which are part of the rare earth elements group.
+
+n6 Department of the Interior. Recommendations to Improve Mining on Public Lands. September 2023.
+
+n7 US Department of Commerce. A Federal Strategy to Ensure Secure and Reliable Supplies of Critical Minerals.
+
+n8 Barna, S., Hastings, A. and Pearce, M. 2023 NDAA Provides New Opportunities for Industry. National Defense
+Magazine. February 7, 2023.
+
+n9 Broberg, D. and Jacobs, J. Expanding Domestic Critical Mineral Supply Chains. Bipartisan Policy Center. March
+15, 2023.
+
+                                                                                            Page 7 of 7
+  Senate Health, Education, Labor and Pensions Subcommittee on Employment and Workplace Safety Hearing
+                         "Digging Deeper: Building Our Critical Minerals Workforce."....
+
+n10 Has mining lost its luster? Why talent is moving elsewhere and how to bring them back. February 14, 2023.
+
+n11 Hale, T. The United States Needs More than Mining Engineers to Solve Its Critical Mineral Challenges. May 8,
+2023.
+
+n12 US Department of the Interior. Recommendations to Improve Mining on Public Lands. September 2023.
+
+n13     QS    World    University   Rankings     by    Subject    2024:    Mineral   and   Mining      Engineering.
+https://www.topuniversities.com/university-subject-rankings/mineral-mining-engineering
+
+n14 The full list of focus areas include the arctic and Antarctic to astronomy and chemistry and materials,
+computing, diversity in STEM, earth and environment, education and training, engineering, facilities and
+infrastructure, mathematics, people and society, physics, research partnerships and interdisciplinary convergence
+and transformative research.
+
+n15 The full list of the NSF's 11 technology focus areas is advanced manufacturing, advanced materials, artificial
+intelligence, biotechnology, communications and wireless, cyberinfrastructure and advanced computing,
+cybersecurity, disaster risk and resilience, energy technology, quantum information science and technology,
+semiconductors and microcolonies
+
+n16 H.R.4346 - Chips and Science Act. https://www.congress.gov/bill/117th-congress/house-bill/4346
+
+n17 Energy and Minerals Provisions in the Infrastructure Investment and Jobs Act (P.L. 117-58). Congressional
+Research Service. https://crsreports.congress.gov/product/pdf/R/R47034
+
+n18 Labor Force Statistics from the Current Population Survey. https://www.bls.gov/cps/cpsaat18b.htm
+
+n19 United States Department of the Interior. Recommendations to Improve Mining on Public Lands. September
+2023.
+
+n20 National Mining Association. Improving Mine Safety and Health. https://nma.org/category/safety-and-health/
+
+n21 National Mining Association. Annual Mining Wages vs. All Industries, 2023. https://nma.org/wp-
+content/uploads/2023/06/annual_mining_wages_state_23-1.pdf
+
+Read      this   original      document       at:    https://www.help.senate.gov/download/06/12/2024/baskaran-
+testimony?download=1
+
+
+Load-Date: June 14, 2024
+
+
+  

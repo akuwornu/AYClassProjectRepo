@@ -1,0 +1,77 @@
+
+
+                                                                                                        Page 1 of 2
+                             Connectria Begins Accepting Clients at Singapore Data Centers
+
+
+
+
+           Connectria Begins Accepting Clients at Singapore Data Centers
+                                                           PR Newswire
+                                           July 10, 2024 Wednesday 8:00 PM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 794 words
+Dateline: SINGAPORE, July 10, 2024
+
+Body
+
+
+PR NewswireConnectria expands to Asia Pacific to boost cloud adoption and modernization SINGAPORE, July 10,
+2024 /PRNewswire/ -- Connectria, a global leader in IBM Power Systems cloud services, an AWS Premier Tier
+Services Partner, and now a LightEdge company, announced today that it is now accepting clients at its two new
+data centers in Singapore.
+
+ Connectria notes that the facilities are designed to bolster cloud adoption and modernization for IBM i and AIX
+systems, offering seamless integration of public cloud with traditional IT environments. These new facilities will help
+to meet the region's increasing demand for IBM infrastructure modernization and hybrid cloud adoption.AWS hybrid
+connectivity solutionshelp businesses securely and efficiently move workloads from on premises systems to the
+cloud while managing data across multiple environments and ensuring business continuity.Singapore continues to
+be one of the fastest growing data center hubs in the Asia-Pacific region. In May, Singapore's Infocomm Media
+Development Authority (IMDA) announced plans to unlock 300MW of additional data center capacity in the near
+term. "Our expansion into the Asia-Pacific market, alongside our strong partnership with AWS, will significantly
+boost cloud adoption and modernization for IBM i and AIX systems customers across the region," statedTroy
+Mitchell, VP of Channel & Alliancesat Connectria. "We are thrilled to offer these essential IBM services, including
+low-latency connectivity of under 2ms to all three AWS Availability Zones in the Singapore region.""By building in
+the cloud, customers inherit resilient, secure, and highly available infrastructure that maximizes uptime for their
+most essential applications and data," saidChris Casey, Director, Partner Management, Asia Pacific & Japan,
+AWS. "AWS and Connectria are enabling the seamless integration of AWS cloud native services with their
+business-critical applications running on IBM Power to improve availability and resilience while accelerating
+innovation for our customers."Connectria's deployment of IBM Power10 P10 and higher systems in a tested and
+proven architecture enables the scale, availability, and resiliency demanded by the world's largest enterprise
+companies including banking, insurance, and manufacturing.Ryan Pelerin, Chief Commercial Officer at
+LightEdge, said the company's seamless integration of IBM Power with AWS provides many advantages, "By
+offering direct AWS hybrid connectivity for IBM i and AIX systems, customers can enjoy the reliability of IBM Power
+with the agility of AWS. This enables customers to boost critical applications with native AWS services, such as
+advanced data analytics, AI/ML, IoT, and more, which can accelerate cloud innovation with meaningful business
+outcomes."The two data centers, which are located in Singapore (ap-southeast-1), leverage the latest IBM Power10
+hardware, and are strategically equipped to enable businesses to harness the full spectrum of benefits offered by
+both AWS and IBM Power. The data centers will also enable inner region Disaster Recovery-as-a-Service (DRaaS)
+with low latency connectivity to the AWS Asia Pacific (Singapore) Region. By connecting IBM Power workloads to
+
+                                                                                                        Page 2 of 2
+                           Connectria Begins Accepting Clients at Singapore Data Centers
+
+AWS, customers can more nimbly manage or augment mission-critical applications with native AWS services for
+advanced data analytics, AI/ML, IoT, and more to add new capabilities, improve resiliency, and accelerate cloud
+innovation.To help customers ensure quick and successful deployments, Connectria can also provide migration
+services and IBM Power hybrid cloud resources in an infrastructure as a service (IaaS) model, or fully managed
+with support for both IBM Power and AWS. For customers in highly regulated industries like financial services,
+Connectria's data centers and managed services are compliant with critical frameworks such as PCI DSS; SOC 1,
+2, and 3; and HIPAA/HITRUST.About ConnectriaConnectria is one of the world's largest cloud hosting and
+managed services providers for IBM Power Systems, as well as an AWS Premier Tier Services Partner. Connectria
+delivers an extensive portfolio of managed and professional services with more than 25 years of experience
+supporting mission critical IT infrastructure that businesses rely on every day.Connectria is now a part of LightEdge,
+following the acquisition in April 2024. The combined company is now one of the only secure and compliant
+infrastructure providers in the country offering both hybrid colocation and tailored multi-cloud solutions.Learn more
+athttps://www.connectria.com/. View original content to download multimedia:https://www.prnewswire.com/news-
+releases/connectria-begins-accepting-clients-at-singapore-data-centers-302193572.htmlSOURCE Connectria
+
+
+Load-Date: July 10, 2024
+
+
+  

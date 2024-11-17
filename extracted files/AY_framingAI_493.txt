@@ -1,0 +1,106 @@
+
+
+                                                                                                  Page 1 of 2
+       University of Melbourne : New Landslide Forecasting System Helping Researchers Save Lives in Nepal
+
+
+
+
+       University of Melbourne: New Landslide Forecasting System Helping
+                         Researchers Save Lives in Nepal
+                                                     Targeted News Service
+                                            June 4, 2024 Tuesday 10:17 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 742 words
+Byline: Targeted News Service
+Dateline: MELBOURNE, Australia
+
+Body
+
+
+(TNSres) -- The University of Melbourne issued the following news:
+
+University of Melbourne researchers are helping villagers in Nepal predict when treacherous landslides are about to
+overwhelm their homes.
+
+Scientists from the University of Melbourne, Tribhuvan University in Nepal and the University of Florence have
+teamed up with the Government of Nepal and Australia's Department of Foreign Affairs and Trade to deliver a new
+state-of-the-art artificial intelligence system that can analyse the significant amount of data needed to identify
+when rain-soaked ground is about to give-way.
+
+The forecasting system, called SAFE-RISCCS, continuously analyses satellite images of Earth taken by NASA, the
+European Space Agency and the Japan Aerospace Exploration Agency. Feeding SAFE-RISCCS forecasts' into
+Landslide Early Warning Systems will protect people living in the shadow of landslides, ensuring alerts will be far
+more accurate, either days or even weeks in advance.
+
+University of Melbourne scientist Professor Antoinette Tordesillas, who is leading the project, said about 59 per cent
+of Nepal was prone to landslides and had one of the world's highest deaths per capita due to landslides.
+
+"More than 80 per cent of the land in Nepal is on a slope and much of the country was destabilised during the 2015
+Gorkha earthquake. With the monsoons due in June, we are helping policymakers and risk managers better
+prepare for future monsoons when increasingly frequent and heavy rains are expected to trigger more devastating
+landslides," Professor Tordesillas said.
+
+"Climate change and growing human activities pose a significant threat to communities in Nepal. Women, children,
+the elderly, and the disabled are especially vulnerable during disasters. Early warning systems are crucial because
+they give public officials more lead time to better plan, prepare and protect communities before the hazard strikes,"
+she said.
+
+                                                                                                 Page 2 of 2
+      University of Melbourne : New Landslide Forecasting System Helping Researchers Save Lives in Nepal
+
+"It's like watching the water wash away sandcastles at the beach; one minute a village is there and the next it is
+gone. Ground motion holds clues to when a slope is about to slide. Our job is to help develop reliable early warning
+systems through better forecasting tools that can read these clues and predict landslide hazards as early as
+possible."
+
+The SAFE-RISCCS platform uses images from space, combined with a new open-access artificial intelligence
+tool invented at the University of Melbourne, to combine rain measurements and ever-changing ground motion data
+to continuously monitor and forecast the risk of a landslide at any one time in any one place.
+
+SAFE-RISCCS will be rolled out in two high-risk regions in partnership with Nepal's National Disaster Risk
+Reduction and Management Authority, as part of a new Landslide Early Warning System being developed in Nepal.
+
+On 25 April 2015 the 7.8 magnitude Gorkha earthquake struck Nepal near the capital Kathmandu, triggering
+avalanches on Mt Everest and in the Langtang Valley and about 45,000 other landslides that destroyed parts of the
+city and wiped out thousands of villages.
+
+Professor Basanta Adhikari from Tribhuvan University said continuous monitoring of deformations in the surface
+was vital in protecting the people of Nepal.
+
+"The increasing occurrences of landslides in the Nepal Himalayas, driven by the coupling effect of seismotectonic
+activities and climate change alongside human-made factors such as haphazard road construction, highlight the
+vulnerability of mountain communities," Professor Adhikari said.
+
+Professor Emanuele Intrieri from Florence University said raising awareness was the most effective way to reduce
+risk.
+
+"Recent developments in remote sensing allow us to monitor ground displacements from satellites with increasing
+sensitivity. Raising people's awareness about the risk affecting the area they are living in remains the most cost-
+effective solution to reduce the exposure," Professor Intrieri said.
+
+"Nepal is only one of several regions in the Asia-Pacific at risk of worsening natural disasters associated with
+climate change. By improving early landslide prediction globally, we reduce the risk of catastrophic events and so
+protect human life, people's livelihoods, critical infrastructure and the environment," Professor Tordesillas said.
+
+***
+
+Original text here: https://www.unimelb.edu.au/newsroom/news/2024/june/new-landslide-forecasting-system-
+helping-researchers-save-lives-in-nepal
+
+Copyright Targeted News Services
+
+MSTRUCK-8656343 MSTRUCK
+
+
+Load-Date: June 4, 2024
+
+
+  

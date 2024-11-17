@@ -1,0 +1,104 @@
+
+
+                                                                                                  Page 1 of 2
+            Oracle Strengthens Saudi Arabia 's AI Economy with Opening of Second Public Cloud Region
+
+
+
+
+    Oracle Strengthens Saudi Arabia's AI Economy with Opening of Second
+                            Public Cloud Region
+                                                           PR Newswire
+                                            August 6, 2024 Tuesday 8:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1267 words
+Dateline: AUSTIN, Texas and RIYADH, Kingdom of Saudi Arabia, Aug. 6, 2024
+
+Body
+
+
+PR NewswireNew public cloud region in Riyadh is Oracle's second cloud region in Saudi Arabia and part of
+Oracle's US $1.5 billion investment to boost the country's cloud capacity in line with Saudi Vision 2030Saudi
+organizations can take advantage of Oracle Cloud Infrastructure's high performance and built-in security, powerful
+data, distributed cloud, and disaster recovery capabilitiesto help accelerate AI innovation and enhance business
+resilienceOracle's footprint expands to eight cloud regions in the Middle East and North Africa – one of the fastest
+expansions by any hyperscaler in the regionAUSTIN, Texas and RIYADH, Kingdom of Saudi Arabia, Aug. 6, 2024
+/PRNewswire/ -- To meet the rapidly growing demand for its AI and cloud services, Oracle today announced the
+opening of its second public cloud region in Saudi Arabia. The new Riyadh cloud region will help public and private
+sector organizations migrate all types of workloads toOracle Cloud Infrastructure(OCI), giving them access to a
+wide range of cloud services to modernize their applications and innovate with data, analytics, and AI. Center3 is
+the host partner for the new Oracle Cloud Riyadh Region.
+
+ Part of Oracle'sdistributed cloudstrategy and Oracle'sUS $1.5 billion investmentto expand cloud infrastructure
+capabilities in the Kingdom, the new region will help boost the Kingdom's AI economy, which is expected to
+reach$135.2 billion by 2030. The Oracle Cloud Riyadh Region joins the existing Oracle Cloud Jeddah Region and
+the planned Oracle Cloud Region in NEOM to extend Oracle's footprint in Saudi Arabia. Oracle is the only
+hyperscaler capable of delivering AI and a full suite of 100+ cloud services across dedicated, public, and hybrid
+cloud environments, anywhere in the world. This includesOracle Autonomous Database,HeatWave MySQL
+Database Service,Oracle Container Engine for Kubernetes,Oracle Cloud VMware Solution,OCI Generative AI
+service,OCI AI Infrastructure, andOCI Supercluster."The opening of Oracle's new cloud region in Riyadh reflects
+the Kingdom's continuous efforts in boosting the digital economy based on modern technologies and innovation,"
+said His Excellency Eng. Haytham Alohali, vice minister, the Ministry of Communications and Information
+Technology. "This step will significantly enable international and local companies to achieve innovation and
+promote the adoption of AI and cloud computing technologies in various sectors, which enhances Saudi Arabia's
+competitiveness at the regional and international level.""With the rapid expansion of our cloud footprint in Saudi
+Arabia, Oracle is committed to helping the country achieve its goal of developing one of the strongest digital
+economies in the world," said Richard Smith, executive vice president and general manager, EMEA Cloud
+Infrastructure, Oracle. "As part of our wider investment in cloud capabilities in Saudi Arabia, the Oracle Cloud
+Riyadh Region will help accelerate adoption of cloud and AI technologies to boost innovation across all sectors of
+the Saudi economy, while helping organizations addressing local data hosting requirements."OCI Provides
+
+                                                                                                 Page 2 of 2
+           Oracle Strengthens Saudi Arabia 's AI Economy with Opening of Second Public Cloud Region
+
+Customers and Partners with a Resilient and Scalable Cloud FoundationWith the Oracle Cloud Riyadh Region
+adding to the existing Oracle Cloud Jeddah Region, customers and partners can gain low-latency access to cloud
+services to help them derive better value from their data. Customers can also leverage high availability and backup
+and disaster recovery capabilities across the two regions in Saudi Arabia to enhance business continuity and help
+address local regulations and requirements for local data hosting. In addition, OCI's sovereign AI capabilities
+provide customers with increased control over where they locate their data and computing infrastructure and how
+they manage it. As a result, customers can make use of AI capabilities designed with the requirements of digital
+sovereignty frameworks in mind.OCI's unique cloud architecture enables Oracle to launch dedicated cloud regions
+with hyperscale cloud services inside customer data centers, and deploy more public cloud regions faster by
+starting with an optimal footprint and scaling as needed. This approach helps meet the needs of all countries and
+markets without compromising cloud capabilities, while also providing the consistent performance, SLAs, and global
+pricing for which OCI has become known.Partners and Analysts Welcome the New Public Cloud Region"We
+are thrilled to collaborate with Oracle as they expand their cloud infrastructure in Saudi Arabia with the new Riyadh
+cloud region," said Fahad Alhajeri, chief executive officer, center3. "This strategic initiative delivers on our shared
+vision of fostering technological innovation and advancing the digital economy of the Kingdom. Oracle's cloud
+regions in Saudi Arabia will play an important role in enhancing data sovereignty, driving digital transformation, and
+empowering businesses across the country to achieve greater agility and growth.""Oracle's continued expansion of
+its cloud footprint in Saudi Arabia is vital as companies increasingly leverage AI and GenAI capabilities," said Jyoti
+Lalchandani, regional managing director, Middle East, Türkiye, Africa & India, IDC. "Local cloud infrastructure helps
+organizations ensure faster data processing, enhanced security, and their compliance with national regulations,
+helping them innovate more efficiently and effectively. This strategic move not only supports the Kingdom's vision to
+leverage artificial intelligence to drive digital transformation, but also empowers companies to harness the full
+potential of AI, driving competitive advantage and creating local value and growth in the Kingdom."About Oracle
+Distributed CloudOracle's distributed cloud delivers the benefits of cloud with greater control and flexibility.
+Oracle's distributed cloud lineup includes:Public cloud: Hyperscale public cloud regions serve any size of
+organization, including those requiring strict EU sovereignty controls. See the full list of regions here.Dedicated
+cloud: Customers can run all OCI cloud services in their own data centers with OCI Dedicated Region, while
+partners can resell OCI cloud services and customize the experience using Oracle Alloy. Oracle also operates
+separate U.S., UK, and Australian Government Clouds, and Isolated Cloud Regions for U.S. national security
+purposes. Each of these products provide a full cloud and AI stack that customers can deploy as a Sovereign
+Cloud.Hybrid cloud: OCI delivers key cloud services on-premises via Oracle Exadata Cloud@Customer and
+Compute Cloud@Customer and is already managing deployments in over 60 countries.Multicloud: Options
+including Oracle Database@Azure, HeatWave MySQL on AWS and Microsoft Azure, Oracle Interconnect for
+Microsoft Azure, and Oracle Interconnect for Google Cloud allow customers to combine key capabilities from across
+clouds.Additional ResourcesLearn more about the Oracle Cloud RegionsLearn more about Oracle Cloud
+InfrastructureAbout OracleOracle offers integrated suites of applications plus secure, autonomous infrastructure in
+the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us
+atwww.oracle.com.TrademarksOracle, Java, MySQL and NetSuite are registered trademarks of Oracle
+Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. View original
+content to download multimedia:https://www.prnewswire.com/news-releases/oracle-strengthens-saudi-arabias-ai-
+economy-with-opening-of-second-public-cloud-region-302215035.htmlSOURCE Oracle
+
+
+Load-Date: August 6, 2024
+
+
+  

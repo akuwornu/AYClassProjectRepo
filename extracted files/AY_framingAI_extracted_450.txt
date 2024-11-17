@@ -1,0 +1,90 @@
+
+
+                                                                                                      Page 1 of 2
+                          Cirata Adds Support for IBM ® General Parallel File System (GPFS™)
+
+
+
+
+       Cirata Adds Support for IBM® General Parallel File System (GPFS™)
+                                                           PR Newswire
+                                           June 12, 2024 Wednesday 8:15 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1038 words
+Dateline: SAN RAMON, Calif., June 12, 2024
+
+Body
+
+
+PR NewswireCirata Data Migrator Reduces Replication and Migration Latency and Enhances Performance and
+Scale for GPFS-Resident Data Assets Migrating to the CloudSAN RAMON, Calif., June 12, 2024 /PRNewswire-
+PRWeb/ --Cirata, the company that automates Hadoop data transfer and integration to modern cloud analytics and
+AI platforms, today announced new support for IBM® General Parallel File System (GPFS™), a cluster file system
+used as storage for IBM Spectrum Scale data lakes. The new Live GPFS support, which is included in the recent
+release of Cirata Data Migrator 2.5, dramatically reduces latency between storage changes and replication or
+migration outcomes while also enhancing the performance and scale of GPFS-resident data assets migrating to the
+cloud."Cirata Data Migrator gives organizations leveraging GPFS-resident data assets the confidence that they can
+flexibly migrate and replicate data with high performance and control to nearly any target, anywhere."According to
+Gartner®, "81% of respondents in organizations using public cloud said their organizations were using more than
+one cloud service provider (CSP)." "As the number of CSPs an organization uses increases, the complexity of
+managing them also increases. This can have negative consequences, such as performance issues associated
+with data latency, unplanned cost overruns or data egress fees, and difficulties with data integration."1Cirata Data
+Migrator lowers data latency while enhancing data migration performance for better data integration outcomes.
+
+The new Cirata Live GPFS capability initiates data transfer from a source GPFS file system as changes occur,
+without disruption to the storage environment. Ideally suited for cloud migrations, disaster recovery processes and
+continuous data migration use cases, Cirata Data Migrator with Live GPFS not only improves migration scale and
+performance but also supports fine-grained control and audit logging for assured compliance in increasingly
+multicloud data management environments."Modern multicloud workloads require high performance access to a
+common set of data to support scale-out storage and high availability. This is performed by IBM GPFS with great
+efficiency," said Paul Scott-Murphy, Chief Technology Officer, Cirata. "By supporting this valued IBM GPFS
+capability as a Live source, Cirata Data Migrator gives organizations leveraging GPFS-resident data assets the
+confidence that they can flexibly migrate and replicate data with high performance and control to nearly any target,
+anywhere."Cirata Data Migrator with Live GPFS delivers the following benefits:Reduces latency: By taking action
+immediately after change, Cirata Data Migrator minimizes the latency between source storage modifications and
+the actions to transfer or modify content at the targets. This can minimize recovery point objectives (RPO), and
+assist in architecting solutions with zero recovery time objectives (RTO).Improves scale: Cirata Data Migrator
+avoids the need to repeatedly scan a source file system to identify change when Live migration is in effect. This is
+particularly beneficial for systems with very large numbers of storage items, allowing vastly more scalable outcomes
+and minimizing the overhead imposed on storage.Enhances performance: By avoiding the need to repeatedly scan
+
+                                                                                                         Page 2 of 2
+                       Cirata Adds Support for IBM ® General Parallel File System (GPFS™)
+
+source storage, Cirata Data Migrator with Live GPFS avoids an entire class of overhead that solutions relying on
+scheduled jobs incur. The result is higher performance, and reduced computational overheads.Enables finer
+control: Cirata Data Migrator offers fine-grained control of which data assets participate in migration. The Live
+GPFS feature incorporates these mechanisms natively, so that techniques like path mapping and pattern-based
+exclusion of file system content are incorporated into the core processing performed during data transfer, exposing
+all of the fine-grained selectivity directly to users if wanted.Delivers auditable, accurate outcomes: Every action
+taken in response to changing source data is logged in auditable form, complementing the detailed reporting
+already available from migration verification to help ensure that migration outcomes are complete and
+accurate.Cirata Data Migrator is a fully automated solution that automates Hadoop data transfer and integration and
+moves on-premises HDFS data, Hive metadata, local filesystem, or cloud data sources to any cloud or on-premises
+environment, even while those datasets are under active change. Cirata Data Migrator requires zero changes to
+applications or business operations and moves data of any scale without production system downtime, business
+disruption, and with zero risk of data loss. Migration targets supported include the Hadoop Distributed File System,
+Alibaba Cloud Object Storage Service, Amazon S3, Azure Data Lake Storage Gen 2, Google Cloud Storage, IBM
+Cloud Object Storage and Oracle Object Store.Cirata Data Migrator 2.5 is available now including Live GPFS
+support. For more information, visithttps://cirata.com/products/data-migrator-for-hadoop.1 Gartner, How to Optimize
+for Multicloud Data Management Deployments, Masud Miraz, Adam Ronthal, 13 May 2024. GARTNER is a
+registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used
+herein with permission. All rights reserved.About CirataCirata, accelerates data-driven revenue growth by
+automating Hadoop data transfer and integration to modern cloud analytics and AI platforms without downtime or
+disruption. With Cirata, data leaders can leverage the power of AI and analytics across their entire enterprise data
+estate to freely choose analytics technologies, avoid vendor, platform, or cloud lock-in while making AI and
+analytics faster, cheaper, and more flexible. Cirata's portfolio of products and technology solutions make strategic
+adoption of modern data analytics efficient and automated. For more information about Cirata,
+visitwww.cirata.comMedia ContactErin Jones, Cirata, 1 704.664.2170, ,https://cirata.com/ View original content to
+download         multimedia:https://www.prweb.com/releases/cirata-adds-support-for-ibm-general-parallel-file-system-
+gpfs-302169845.htmlSOURCE Cirata
+
+
+Load-Date: July 15, 2024
+
+
+  

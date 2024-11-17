@@ -1,0 +1,124 @@
+
+
+                                                                                                  Page 1 of 3
+     Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
+                            latest release of the Reltio Connected Data Platform exp....
+
+
+
+
+    Reltio's Newest Innovations Empower Data Leaders with Premier Data
+   Unification and AI Capabilities; The latest release of the Reltio Connected
+    Data Platform expands GenAI capabilities, adds Product and Supplier
+         velocity packs, enhances audience-segmentation capabilities
+                                                    Business Wire
+                                        June 17, 2024 Monday 1:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1025 words
+Dateline: REDWOOD SHORES, Calif.
+
+Body
+
+Reltio ®, a leader in data unification and management solutions, announced today the latest release of the Reltio
+Connected Data Platform, which further empowers data leaders by enhancing its AI-powered platform and
+offerings: Reltio Customer 360 Data Product(TM), Reltio Multidomain MDM, and Reltio Entity Resolution.
+
+Reltio's feature-rich release includes new velocity packs, additional audience-segmentation capabilities for
+Customer 360 Data Product, premium business continuity service featuring cross-regional disaster recovery and
+enhanced data resiliency, and expanded generative artificial intelligence (GenAI) and machine learning (ML)
+capabilities.
+
+"Trusted data is the cornerstone of successful business transformation and AI, which is why we are excited to
+deliver market-leading products that revolutionize data unification and management," said Manish Sood, CEO and
+Founder of Reltio. "Our customers rely on us to deliver consistently reliable data in milliseconds and at scale for
+their business-critical operations. This newest version of our platform is rich in features and benefits to help boost
+performance, speed, and ease of use. It also provides even more value through our greater use of GenAI, so our
+customers can more quickly extract valuable insights and gain a competitive edge through analytics, machine
+learning, and data science."
+
+The latest enhancements include a variety of new features and benefits:
+    •     New audience segmentation and activation capabilities within the Reltio Customer 360 Data Product
+          provide sales, service, and marketing teams access to the right data at the right time.
+         •     Users can more easily create, manage, and activate trusted and dynamic customer data segments
+               with a new audience segmentation user interface and enhanced GenAI-driven skills for data
+               exploration.
+         •     Using the Reltio Intelligent Assistant (RIA)(TM), a GenAI-powered conversational assistant, users can
+               explore customer data and create granular, dynamically updated segments.
+
+                                                                                                 Page 2 of 3
+    Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
+                           latest release of the Reltio Connected Data Platform exp....
+
+    •   New velocity packs deployed via the Reltio Multidomain MDM product help users jumpstart their master
+        data management journeys. Like all Reltio velocity packs, these new entrants include industry-specific data
+        models and prebuilt components so users can implement a modern data management program and
+        quickly experience value.
+        •      Reltio for Supplier accelerates unifying and standardizing supplier data across the enterprise, helping
+               companies optimize supply chain performance and reduce compliance risk. It includes an out-of-the-
+               box data model and a preconfigured user interface, match rules, and pre-built integrations and
+               mappings for rapid time-to-value and lower data error risk. Its prebuilt components replace extensive
+               manual effort and configuration for getting started.
+        •      Reltio for Product makes it easier for users to manage inventory effectively and boost product sales. It
+               includes a prebuilt data model and prebuilt configurations, a preconfigured user interface, and match
+               rules for rapid time-to-value and lower error risk. Users of this velocity pack can accelerate their
+               product innovation and fine-tune their sales strategies based on understanding how various products
+               are performing in the market. Reltio has enhanced the ability to create a wizard-like experience for
+               creating new profiles and support conditional attributes, which make creating and updating product
+               information easier and ensure data quality.
+    •   Reltio Business Critical Edition is a premium business-continuity offering for Reltio Multidomain MDM and
+        Reltio 360 Data Product customers that addresses the need for continuously available, trusted, real-time
+        data serving mission-critical business operations so companies can avoid outages and data loss. It offers
+        multi-zone, mirrored tenants with "hot" standby disaster recovery configurations for enterprises with strict
+        uptime and data resiliency requirements, and enables cross-region failover. It provides recovery-time
+        objectives of less than 4 hours and recovery-point objectives of less than 5 minutes. In addition, Business
+        Critical Edition includes capabilities like AWS PrivateLink for secure data transfer over a virtual private
+        cloud (VPC) and Reltio Shield for data encryption using customer-specific keys.
+
+"This release is a testament to our commitment to driving innovation and delivering value to our customers," said
+Venki Subramanian, SVP of Product Management. "Our enhanced generative AI capabilities and new user
+experience for segmentation empower enterprises to create dynamically managed customer segments with ease.
+The addition of Reltio's premium business continuity offering with cross-regional disaster recovery ensures that our
+customers can maintain real-time data integrity, even in the face of unexpected challenges."
+
+"To fuel the rise of generative AI we're seeing a tremendous growth in the importance of clean, accurate, and
+unified real-time data," said Stewart Bond, Vice President of Data Intelligence and Integration Software Research at
+IDC. "Better data intelligence is not only foundational for modern data environments, it truly is also an imperative."
+
+The new and enhanced features are available now.
+
+About Reltio
+
+At Reltio, we believe data should accelerate the speed of business and fuel success. Our AI-powered data
+unification and management offerings deliver unified, trusted data where and when it's needed, so that enterprises
+can be responsive to changing business needs. Powered by the Reltio Connected Data Platform, our solutions-360
+Data Products, Multidomain Master Data Management (MDM), and Entity Resolution-unify disparate data sources
+in real-time, creating a single, trusted source of truth. Leading enterprise brands across multiple industries around
+the globe rely on our award-winning data unification and management capabilities to improve efficiency, manage
+risk, and drive growth. Visit us at Reltio.com .
+
+"Reltio" is a registered trademark, and "Reltio Customer 360 Data Product" and "Reltio Intelligent Assistant" are
+trademarks of Reltio, Inc. All Rights Reserved.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240617821716/en/
+
+                                                                                                 Page 3 of 3
+    Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
+                           latest release of the Reltio Connected Data Platform exp....
+
+CONTACT: Alan Ryan
+Allison Worldwide for Reltio
+
+Reltio@allisonworldwide.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: June 17, 2024
+
+
+  

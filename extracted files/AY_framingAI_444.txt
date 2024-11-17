@@ -1,0 +1,96 @@
+
+
+                                                                                               Page 1 of 2
+    Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's BVLOS Connectivity Solution to
+                         Achieve Precise Data Collection in its Oil & Gas Pipeline....
+
+
+
+
+ Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's
+ BVLOS Connectivity Solution to Achieve Precise Data Collection in its Oil &
+              Gas Pipeline Inspections over Difficult Terrain
+                                                           PR Newswire
+                                            June 13, 2024 Thursday 3:41 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1023 words
+Dateline: OR YEHUDA, Israel, June 13, 2024
+
+Body
+
+
+PR NewswireOR YEHUDA, Israel, June 13, 2024 /PRNewswire/ -- Leading manufacturer of unmanned aerial
+vehicles Event 38 and AviSight, a provider of critical infrastructure inspections, announced the use of Elsight's
+(ASX: ELS) Halo, an AI-based UAV connectivity solution, to enable beyond the visual-line-of-sight (BVLOS)
+inspections with precise data collection in extensive oil & gas pipeline inspections over difficult terrain.At the heart of
+this collaboration is Elsight's Halo, a lightweight, highly reliable communications system. Halo's AI-based software
+aggregates multiple IP links to a secure bond using public and private cellular, satellite, and RF technologies
+ensuring uninterrupted drone communications even in the most challenging environments. Whether it's disaster
+response, surveillance, deliveries or lengthy remote inspections, UAV (uncrewed aerial vehicle) flights powered by
+the Elsight Halo complete the mission with continuous transmission of high-bandwidth video and data to the
+command-and-control center (C2).When facing the operational and economic challenges of data collection from
+major pipelines, AviSight's CEO, Suzanne Herring, was quite rigorous in her selection of the optimal VTOL drone
+and the BVLOS connectivity solution for these missions and required connectivity with the highest bandwidth,
+lowest latency, highest redundancy, and of course, the most reliable link."AviSight's reputation is dependent on our
+ability to provide accurate, timely and consistently critical infrastructure inspections through the use of unmanned
+ariel systems in a cost-effective manner.
+
+In a technology market that is rapidly developing, it is essential to remain innovative in our systems methodology
+while also embodying the challenges of an efficient execution of the mission. With C2 linkage being a primary
+priority for our BVLOS missions, it was essential to find a partner with the capabilities to maintain communications
+throughout our volatile terrains. Elsight has provided us with the ability to maintain C2 through vast wetlands,
+mountainous regions, and remote areas. While Event 38's E455 has given us the ability to fly extensive linear
+inspections efficiently and more cost effectively," said CEO of AviSight, Suzanne Herring."We sought the right
+combination to maintain command and control over more than 2,000 miles of pipeline inspections in a variety of
+terrains. Event 38 and Elsight enabled us to overcome terrain and distance challenges and provide precise data to
+our customers ensuring their regulatory compliance," added Herring.Event 38 Unmanned Systems latest VTOL, the
+E455 is a premier fixed wing, vertical takeoff and landing (VTOL) drone. At 55lbs, the E455 offers a 2.5-hour flight
+endurance on battery power alone. The E455 is designed to carry a diverse range of payloads, including mapping
+
+                                                                                              Page 2 of 2
+   Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's BVLOS Connectivity Solution to
+                        Achieve Precise Data Collection in its Oil & Gas Pipeline....
+
+sensors, LiDAR, and EO/IR surveillance sensors, meeting the strict demands of various applications such as
+lengthy pipeline inspections."The high bandwidth and low power usage of the Elsight Halo paired with the E455
+open endless possibilities of inspections over long distances and rugged terrain that were not possible previously,"
+said Jeff Taylor, CEO of Event 38 Unmanned Systems. "Our E455 VTOL was able to get closer to the pipelines
+with the help of Elsight.""Working with Event 38 and AviSight has been very fulfilling from both technological and
+business perspectives. Our Halo was designed for mission-critical goals, particularly, in difficult situations," said
+Yoav Amitai, CEO of Elsight. "Elsight optimizes the use of drones in many industries with reliable BVLOS
+connectivity for operational effectiveness. At the same time, we enable industry growth by using only one operator
+to control a drone fleet from remote locations anywhere. This is how we see our Halo as a market catalyst for
+drones in pipelines, and inspections in many industries, in which removing the human element delivers better and
+safer results."About AviSightAviSight provides industrial inspections of critical infrastructure and advanced data
+solutions for regulatory compliance, asset management, and predictive maintenance. We work with fortune one
+hundred partners in all verticals of critical infrastructure including Power, Gas, Oil, Telecom, and Transportation.
+Our mission is to create a generational paradigm shift in data collection and actionability that increases safety
+exponentially while achieving significant cost savings for our clients. We have been working with our partners and
+customers on legislative activity and regulatory expansion to ensure the ability to create BVLOS programs that will
+help take inspections into the 21st century.www.avisight.comAbout Event 38 Unmanned SystemsEstablished in
+2011 and with customers all over the world, Event 38 Unmanned Systems is a leading provider of Unmanned
+Aircraft Systems (UAS). Our customers use their drones in diverse fields including Security, Surveying, and
+Environmental Conservation. Our hybrid fixed wing VTOL aircraft offer an extended endurance capability for
+covering dozens of miles or hundreds of acres. With a variety of payload options and customizable solutions
+available, our aircraft collect thermal, multispectral and high-resolution imagery and with centimeter-level
+geotagging accuracy.www.event38.comAbout ElsightElsight (ASX: ELS) Elsight delivers Connection Confidence
+with proprietary bonding connectivity that incorporates both software and hardware elements to deliver reliable,
+secure, high bandwidth communications - even in the most challenging areas for stationary, portable, or actively
+mobile situational requirements. Elsight provides robust, secured connectivity to unmanned aerial and ground
+systems manufacturers, operators, and integrators globally.www.elsight.comContact:
+Susan Becker
+Marketing Director
+Elsight
+ View original content:https://www.prnewswire.com/news-releases/event-38-unmanned-systems-teams-up-with-
+avisight-in-selecting-elsights-bvlos-connectivity-solution-to-achieve-precise-data-collection-in-its-oil--gas-pipeline-
+inspections-over-difficult-terrain-302171791.htmlSOURCE Elsight Ltd
+
+
+Load-Date: July 15, 2024
+
+
+  

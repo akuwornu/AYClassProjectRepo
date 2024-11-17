@@ -1,0 +1,705 @@
+
+
+                                                                                               Page 1 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+
+
+
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets
+                        Institute Executive Director Lynn
+                                                     Targeted News Service
+                                            June 18, 2024 Tuesday 8:50 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 7064 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
+
+Body
+
+
+The Senate Judiciary Subcommittee on Competition Policy, Antitrust, and Consumer Rights released the following
+testimony by Open Markets Institute Executive Director Barry C. Lynn from a June 5, 2024, hearing entitled
+"Strengthening U.S. Economic Leadership: The Role of Competition in Enhancing Economic Resiliency":
+
+***
+
+INTRODUCTION:
+
+Extreme concentration of industrial and computing capacity poses a wide variety of grave threats to the United
+States and the American people. These include:
+
+* Cascading catastrophic collapse of essential production and distribution systems.
+
+* Sudden catastrophic failure of vital communications and information systems.
+
+* Political coercion of the United States by strategic rivals able to threaten the cutoff of vital goods and services.
+
+* Persistent systemic inflation that harms the economic wellbeing of the American people.
+
+* Long-term systemic shortages of vital goods, including drugs.
+
+* Inability to produce weapons, munitions, and launch vehicles at a reasonable cost and in a timely manner.
+
+* Unsafe products and services, as we have seen with airliners, baby formula, and packaged food.
+
+* The slowing or even paralysis of technological innovation.
+
+                                                                                               Page 2 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+I know this issue well. I first began to study the structure of supply chains, as a business journalist, in 1994. I first
+focused on the dangers posed by extreme chokepointing of capacity in 1999 and published a mainstream article on
+the problem in 2002. A decade later In 2009, I began to study the structure, behavior, and systemic effects of
+dominant online platforms.
+
+The concentration we see today - in terms both of degree and character - is unprecedented in history. From 1776 to
+1981, U.S. policy aimed to protect the liberty of the individual, democratic institutions, the security and
+independence of the nation, and technological advance. Americans did so by setting bright-line rules that limited
+concentrations of capacity and control and strictly ensured the neutrality of powerful sellers of services and
+industrial goods. One result of this policy was a wide distribution of capacity that ensured the physical resiliency of
+key systems.
+
+But in the 1980s and 1990s, both Democratic and Republican officials embraced an overtly promonopoly ideology.
+They said concentration of control and capacity was more "efficient." They imposed this vision on antitrust, trade,
+banking, defense, and communications.
+
+Overall, the results have proven disastrous for liberty, democracy, innovation, and the prosperity of the American
+people. Specific to today's hearing, these policies also destroyed the resiliency and stability of many vital systems,
+in ways that today expose the American people to existential economic and political threats.
+
+The good news is that the Administration and Congress have taken dramatic steps to address the crisis. This
+includes President Biden's restoration of America's traditional competition policies, as well as his executive order in
+July 2021 that every department and agency target industrial and digital chokepoints. It includes Congress's brave
+and visionary votes to use public funds to promote private capitalistic competition in the semiconductor, automobile,
+and nextgeneration energy industries. And it includes the administration's far-reaching effort to use trade policy to
+protect the skills and wellbeing of America's working people while also bringing the world's democracies into closer
+cooperation to fight the industrial and security threats posed by Russia and China.
+
+But the administration and Congress must do much more, and swiftly. The United States still lacks any real plan to
+break dangerous chokepoints in the chemical and pharmaceutical industries, in data storage and computing
+capacities, in electronics components and materials, in the building of ships and aircraft, and many other key
+sectors.
+
+To this end, the Open Market Institute recommends the following immediate actions: - Establish a hierarchy of
+threats, to strategically guide action and investment.
+
+* Continue to use public investment to address the most immediate threats.
+
+* Work with G7 allies and other close industrial partners to fully map both threats and strengths.
+
+* Ensure the US and all our NATO allies agree on how to address China's chokepoint power. This means dealing
+with Germany's reckless policies.
+
+* Target concentrations of capacity and control in Cloud storage, computing services, and AI, including by
+abandoning falsifying policy frameworks such as "trade in data."
+
+One of the most important actions Congress can take today is to require the antitrust agencies to acknowledge the
+role that competition law and enforcement play in engineering how complex systems are physically structured. And
+consequently, to finish the job of establishing true bright-line rules designed to all but automatically prevent
+dangerous concentrations of industrial and computing capacity, thereby ensuring the resiliency and stability of all
+essential production and communications systems.
+
+CONTENTS:
+
+I) BUILT FOR RESILIENCE - How America's Traditional Antimonopoly Policies Ensured the Safety and Stability of
+Domestic and International Industrial Structures.
+
+                                                                                               Page 3 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+II) BUILT TO BREAK - How Pro-Monopoly Thinking Destroyed the Resiliency of Vital Systems and Undermined
+American Security.
+
+III) TOWARDS A NEW RESILIENCY - The U.S. and Allies Waken to the Crisis.
+
+IV) FINISHING THE JOB - The Next Stage in Rebuilding a Resilient System.
+
+V) APPENDIXES
+
+Appendix #1 - How Concentration Threatens Supply Chain Resiliency (Slide)
+
+Appendix #2 - Principles to Guide Efforts to Restore Industrial System Resiliency Appendix #3 - Additional Reading
+- Books, Articles, Speeches
+
+Appendix #4 - A Partial List of Events that Triggered Industrial Shutdowns
+
+655 15th St., NW, Washington, DC 20005 | info@openmarketsinstitute.org 5
+
+I) BUILT FOR RESILIENCE - How America's Traditional Antimonopoly Policies
+
+Ensured the Safety and Stability of Domestic and International Industrial Structures.
+
+The first step in understanding the nature and source of today's supply chain crises is to recognize that the
+structures of the production systems on which America relies today differ radically from those that served our nation
+in the past.
+
+From the Founding of the nation right until the last years of the 20th century, most production of products and
+components was widely distributed in multiple locations around the world.
+
+First, production was compartmentalized within the borders of the nation-state. In the case of products such as
+automobiles, electronics, metals, and chemicals, for instance, every industrial nation largely produced what it
+consumed, and then competed with other industrial nations to sell finished goods to smaller nations, and to less
+industrialized nations.
+
+Second, within most industrialized nations, manufacture of products such as automobiles, electronics, metals, and
+chemicals was separated into multiple vertically integrated corporations. In the United States, for instance,
+antimonopoly practice aimed to ensure that at least four corporations competed to make any particular product.
+Much the same was true of Japan and of Europe as a whole.
+
+Within corporations, production was then often further compartmentalized by the distribution of the capacity to
+manufacture of key components and end products among two or more different factories.
+
+As a result, for most of the 20th century, when something went wrong in one factory or one industrial region
+somewhere in the world, the overall effects of the disruption were limited - at most - to only one company within one
+country. As important, the wide distribution of capacity limited the ability of any one nation to coerce another nation
+through threats to cut off the supply of any vital good. Further, the widespread distribution of manufacturing capacity
+and skills that existed then meant that when one company experienced a major supply disruption, it could turn to its
+competitors for help in keeping its own assembly lines moving and in repairing whatever damage it had suffered.
+
+This structure was no accident. On the contrary it was the direct result of highly intentional and public political
+decisions that date back to the founding of the United States.
+
+Three decisions were key to establishing the foundations of the industrial system that served Americans so well
+over the first 200 years of our nation's history.
+
+First was never to depend on any single foreign nation for all or even most of any good essential to the security of
+the United States or of individual Americans. We see this in the justifications for rebellion against the British East
+
+                                                                                               Page 4 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+India Corporation's trading monopoly, a main goal of the Declaration of Independence. We see these same ideas
+made even more clear in the War of 1812, when the American people fought a second war to ensure their complete
+independence from the British imperial trading system of the 19th century.
+
+Second was never to accept any similar concentration of control over vital production within the U.S. domestic
+economy. Here again, a prime goal was to ensure the security of the nation by breaking all dangerous chokepoints
+on vital industrial and transportation capacities. But we also see a second equally important goal - which is the
+protection of democracy and individual liberty from all concentrations of industrial and economic power and control.
+
+Third was to impose non-discrimination rules on any corporation that succeeded in capturing a dominant position
+over the provision of a vital product, material, or service. Americans applied such rules to all essential
+communications platforms and networks, to all essential transportation systems including those that served only
+particular localities and regions, and to both large manufacturers and the retailers and trading companies that
+distributed and sold their products.
+
+Domestically, to achieve these aims, the American people established the world's first modern, integrated
+antimonopoly regime to structure markets, control the power of corporations, maintain a universal distribution of
+property and education, and ensure that competition within society was not destructive in nature but helped us to
+achieve fundamental social, political, and economic goals. We see this dramatically in the design of the Constitution
+itself, the greatest antimonopoly document in human history. We also see this clearly in the extremely close public
+control 19th century America held over all corporations and all financial and banking activities within the borders of
+our nation.
+
+Although this system of antimonopoly control broke down late in the 19th century, by early in the 20th century, the
+American people were well on their way to updating and adapting their traditional principles and goals for the
+industrial age. The administrations of Woodrow Wilson, Franklin Roosevelt, and Dwight Eisenhower played
+especially important roles in updating U.S. antimonopoly law and enforcement, as did key leaders from both parties
+in Congress.
+
+Through the heart of the 20th century, the American people fully understood that our antimonopoly political and
+legal regime was comprised of far more than our antitrust laws. Just as was true in the first century of the Republic,
+the American people understood that regulation of trade, communications, corporate governance, patent rights,
+banking and finance, commodities markets, and the production and distribution of energy must all be designed to
+reinforce one another in ways that empower us to achieve our aims. Practically this meant establishing various
+forms of antimonopoly regulatory and enforcement authority in almost every department and agency of government
+- including the departments of the Treasury, Transportation, and Agriculture, and the Federal Reserve.
+
+Of great importance as well, the American people established clear and simple "bright-line" rules to govern the
+structure of markets and the structure and behavior of all corporations. A prime goal in doing so was to ensure that
+no enterprise or financial institution was ever "too big to fail" and that every entrepreneur enjoyed full freedom to fail
+in their efforts, without posing any sort of threat to any larger system.
+
+One result of this approach to structuring markets and corporations was a great degree of competition over pricing
+and the quality of products and services, which helped both to drive down costs and to drive technological
+innovation forward. A second result was a natural robustness and resiliency within all the industrial, financial,
+transportation, and energy systems structured along these lines.
+
+This robustness and resiliency were not simply a happy byproduct of some abstract belief in the value of
+competition. On the contrary, just as was true in the founding era of the nation, this industrial robustness and
+resiliency was very much an intended outcome of how Congress and the Executive designed these systems in the
+20th century. In part, this is because a key lesson that emerged from both world wars was the imperative need to
+ensure that no foreign or private power ever held chokepoint control over any essential industrial, transportation, or
+communications system.
+
+                                                                                               Page 5 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+Indeed, the United States government during these years developed a keen understanding of how to exploit any
+such chokepoints in enemy nations. U.S. strategic bombing doctrine in the Second World War, for instance,
+focused on identifying and destroying such chokepoints to paralyze the ability of enemy nations to build and deploy
+weapons. Perhaps the most famous example was the bombing raids on Germany's ball-bearing industry, highly
+concentrated in a single facility in the city of Schweinfort.
+
+During the Cold War, the threat of nuclear conflict strongly reinforced the imperative to ensure that all of our
+essential industrial, financial, and communications systems were structured in ways that distributed risk widely and
+safely. The Pentagon, for instance, in the 1950s played a major role in forcing defense and electronics corporations
+to distribute their industrial capacities away from traditional industrial zones in the Northeast and Midwest, into
+southern and western states beyond the range of Soviet bombers.
+
+Similarly, the Pentagon played a key role in applying such thinking to communications systems, in the original
+conception and design of the internet. The Pentagon aimed to ensure that the system was engineered to route
+information around any disruption. This resulted in design rules that ensured there were no physical or ownership
+chokepoints to exploit.
+
+The U.S. government after the Second World War also worked to break dangerous concentrations of industrial
+capacity and control within the borders of former adversaries. For instance, immediately after Germany's surrender
+in May 1945, President Harry Truman ordered the U.S. military to "effect a dispersion of ownership and control of
+German industry." The U.S. government also used the August 1945 Potsdam agreement with the Soviet Union and
+Britain to demand the elimination of all "cartels, syndicates, trusts and other monopolistic arrangements" in
+Germany. The Truman Administration also imposed a similar set of orders in occupied Japan.
+
+The U.S. government also strove to ensure that the rules of international trading systems were designed to prevent
+a re-concentration of these capacities. For instance, the Truman Administration used the Marshall Plan to support
+creation of the European Coal and Steel agreement, which brought key European industries under the joint control
+of France, the Netherlands, Germany, Italy and others. The Coal and Steel agreement also established Europe's
+first common antitrust regime, designed to prevent the concentration of any crossborder private control over these
+vital industries. Ultimately, the agreement served as the foundation for today's European Union. It also provided a
+model for the liberal international trading system established by the United States and its allies in the 1950s and
+1960s to the democratic peoples of the world - as well as private executives and investors - with a simple set of
+rules to guide international economic cooperation.
+
+II) BUILT TO BREAK - How Pro-Monopoly Thinking Destroyed the Resiliency of Vital Systems and Undermined
+American Security.
+
+When the Reagan administration began to overthrow America's 200-year-old antimonopoly regime in the early
+1980s, it is unlikely that any officials involved in the effort imagined that one result would be to severely compromise
+America's national security by creating dangerous chokepoints, including within the borders of foreign adversaries.
+
+On the contrary, the Reagan Administration continued to use blunt trade power to block a mid1980s effort by the
+Japanese government - in tandem with Japanese electronics manufacturers - to monopolize control over the
+production of the hardware in personal computers. This included imposing tariffs and import quotas, subsidizing
+next-generation technologies in the United States, and pressuring U.S. importers to diversify their sourcing of
+components by buying from non-Japanese manufacturers in South Korea, Taiwan, Singapore, and Europe.
+
+Unfortunately, the Reagan administration's success in imposing an anti-democratic and promonopoly competition
+regime to promote the concentration of power and control in the hands of the few marked the beginning of the
+larger political and policy revolution that ultimately destroyed key aspects of America's traditional industrial and
+economic security.
+
+Over the course of the 1980s and 1990s, the Reagan, Bush, Clinton, and Bush administrations radically altered
+every key component of America's traditional competition regime to favor consolidation of wealth, power, and
+
+                                                                                               Page 6 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+control in the hands of the few. In doing so, they cleared the way for the radical chokepointing of industrial capacity
+and control that today so threatens our security - as a nation and as individuals.
+
+Six radical changes in U.S. regulation of industrial competition stand out:
+
+1) The 1981 adoption of the "consumer welfare" efficiency test for antitrust enforcement. This changed the goal of
+competition law and enforcement from protecting the brightline rules established by Congress to protect liberty and
+democracy to instead promoting "productive efficiency" based on the theory this would drive down prices. One
+immediate result was concentration of key domestic capacity and control into duopoly and sometimes straight
+monopoly structures. A second result was to begin to drive extreme international concentration of certain capacities,
+as demonstrated by GE's sale of the U.S. television industry to France's Thompson electronics.
+
+2) The abandonment of the simple "Rule of Four" approach to regulating industrial concentration that guided U.S.
+antimonopoly enforcement practice for most of the 20th century, in favor of a practice of using simple economic
+models to measure the relative efficiency of different levels of concentrated power. One result was to eliminate the
+engineering-based premises that underlay America's traditional competition and trade regimes, in ways that
+ultimately helped to blind enforcers, executives, and investors to the dangers posed by concentration of capacity
+and hence risk.
+
+3) The 1994 signing of the Uruguay Round of the General Agreement on Tariffs and Trade (GATT). This agreement
+- especially as put into effect through the World Trade Organization beginning in 1995 - cleared the way for nations
+and corporations to use mercantilist means to concentrate capacity and control over key links in international
+production systems within their own borders.
+
+4) The abandonment of America's traditional practice of imposing non-discrimination rules on the corporations that
+control essential communications, transportation, production, and distribution capacities and infrastructures.
+
+5) The embrace of "shareholder" control over America's industrial corporations, through such actions as the Clinton
+Administration's embrace of replacing executive salaries with stock options.
+
+6) The concentration of power in ever fewer and bigger private equity funds such as Blackstone Group, through
+such actions as the 1996 National Securities Markets Improvement Act, which eliminated limits on how much
+money any one hedge fund could pool from institutional investors.
+
+These and other changes in competition policy cleared the way for the most powerful actors in our political
+economy to concentrate control over key industrial capacities, and then to stripmine those assets by outsourcing
+that capacity, offshoring that capacity, and in some cases simply liquidating that capacity. Worse, these same
+changes simultaneously eliminated much of our common social capacity to identify and understand the risks posed
+by such extreme concentration of capacity and control. They did so in part by fundamentally altering the nature of
+ownership and control through the de facto pooling of production capacities that previously had been highly
+compartmentalized, and hence the socialization of the resulting risk itself.
+
+None of these threats and harms should have come as a surprise. I myself wrote extensively of the dangers posed
+to the American people's ability to design and produce airliners, in a discussion of the effects of Boeing's new
+monopsony power over suppliers in in my 2005 book End of the Line: The Rise and Coming Fall of the Global
+Corporation. Then in January 2010 I provided a broader and more fully integrated critique of this same
+phenomenon, in my book Cornered: The New Monopoly Capitalism and the Economics of Destruction.
+
+The first proof that the new structure of industrial production had become physically unsafe came on September 21,
+1999, when a 7.5-magnitude earthquake struck Taiwan. Within days, computer assembly plants around the world,
+including in California and Texas, began to shut down. In the weeks to come, Americans learned that a corporation
+named Taiwan Semiconductor Manufacturing Corporation, backed directly by the Taiwanese government, had
+concentrated almost all the global capacity to produce certain forms of semiconductors in a few foundries located in
+the city of Hsinchu.
+
+                                                                                               Page 7 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+The 1999 earthquake, in other words, proved that the compartmentalization of production that had protected the
+American people from the collapse of industrial capacities had begun to break down in fundamentally important
+ways. Rather than dampen the effects of a localized shock such as an earthquake, the structure of the new system
+built by the monopolists served both to transmit and amplify the shock.
+
+As Appendix #2 shows, we have had many other warnings in the years since, due to the fact that U.S.
+antimonopoly and trade regulators - viewing the world through the pro-monopoly framework introduced in the 1980s
+and 1990s - allowed a few corporations to place many or all keystone capacities in a single geographic location,
+sometimes a single facility. This is true both of industrial components such as chemicals, materials, electronics
+components, and certain assembly operations. It is also increasingly true of the data storage and computing
+capacities on which the modern world depends.
+
+As a result, we now live in a world where even relative minor everyday disruptions such as a fire or earthquake can
+trigger a regional or even global collapse of industrial, financial, and communications systems. Increasingly, this is
+true even when the disruptions affect the production only of a single product. Consider, for instance, the 2022 crash
+of baby formula production, or the recent collapse of the systems we rely on for medical masks, testing chemicals,
+and the iodine solutions required for CT scanners and fluoroscopes.1 In other instances, such as with
+semiconductors and container shipping, the disruptions can trigger cascading effects through multiple industries at
+the same time.
+
+More terrifying yet, it is not at all hard to image events - such as disruptions to normal trading between China and
+the United States, or simply between China and Taiwan, that would result in a sudden widescale cascading
+collapse of most of our key industrial and financial systems.
+
+Such a disruption does not require China to launch an invasion of Taiwan or even to impose a blockade. China
+needs simply shut its own borders to disrupt the supply of essential goods and services in almost every nation of
+the world, including the United States and our closest allies.
+
+Two decades ago, advocates for the unfettered "globalization" of such industrial capacities argued that the resulting
+system of extreme interdependence would lessen the likelihood of conflict. Unfortunately, as Vladimir Putin's
+exploitation of Germany's dependency on Russia for its supply of natural gas and petroleum makes clear,
+asymmetrical interdependence can actually increase the likelihood of adventurism and even war, by tempting one
+party to exploit another's dependence to achieve some economic and/or political aim.
+
+Finally, the U.S. Department of Defense in recent years has recognized that concentration of industrial capacity and
+control poses a number of threats to the industrial systems we rely on for production of weapons and other defense-
+related materials. In a series of reports, the Pentagon "cites dozens of examples in which the vitality and resiliency
+of the U.S. industrial base" has been "acutely affected" by "extreme consolidation of supply chains in areas like
+aircraft, ground vehicles, machine tools, missiles, and printed circuit boards, and the risk of dependence on sole
+source vendors in many others."2
+
+As the Pentagon put it in one report, "the number of cases, typically three to seven levels from the top of the supply
+chain, where there is just one--often fragile--supplier is staggering." This represents a significant deterioration from
+just a decade ago when three to five suppliers existed for the same component, let alone several decades ago,
+when the U.S. military generally enjoyed dozens of suppliers for each such item.
+
+III) TOWARDS A NEW RESILIENCY - The U.S. and Allies Waken to the Crisis.
+
+Since President Biden took office in January 2021, his administration, the U.S. Congress, and key U.S. allies have
+taken a series of unprecedented actions both to better understand the magnitude and nature of these threats and to
+directly address them, sometimes with dramatic success. These include:
+
+1) A Broad Reassessment of Goals, Philosophy, and Means. In his first year in office, President Biden ordered his
+administration to establish new overarching goals for political economic regulation, most notably including the
+resiliency and stability of complex domestic and international industrial systems. The President in July 2021 also
+
+                                                                                               Page 8 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+condemned the pro-monopoly competition policy philosophy introduced by presidents Reagan and Clinton in the
+strongest of terms, in a wide-ranging Executive Order on Competition. Finally, the President also instructed his
+administration to use every department and agency of government to achieve these ends, in what has been termed
+a "Whole of Government" approach to battling the systemic, economic, and political threats posed by concentration
+of capacity and control.
+
+2) Investment in New Capacity. The Biden Administration and Congress have supported this effort in sometimes
+spectacular fashion. This includes by passing the CHIPS and Science Act and the Inflation Reduction Act, which
+have made hundreds of billions of dollars available to support the building of new industrial capacities in the United
+States, in ways that directly target some of the most dangerous industrial chokepoints threatening American
+security and prosperity. Properly understood, CHIPS and IRA are two of the most important antimonopoly actions
+by the U.S. Congress in history. They demonstrate that, as Brian Deese, former director of the National Economic
+Council, put it in 2022, the U.S. government has succeeded in establishing a "modern American industrial strategy"
+designed to tackle some of the most dangers concentrations of capacity and power.3
+
+3) A New Vision for International Trade and Production. The Biden Administration has also sketched out the most
+far-reaching and strategic rethinking of trade policy since the Truman Administration at the end of the Second World
+War. The vision goes far beyond the simple anti-internationalism of the previous administration to establish a broad
+and strategic plan for protecting the interests of American workers and communities, targeting chokepoints that
+threaten the security of the United States and the stability of international systems, increasing smart cooperation
+with America's closest democratic allies, and eliminating the concentrations of capacity and control that limit
+industrial innovation. The first important description of this policy was put forth by National Security Advisor Jake
+Sullivan in a speech on April 27, 2023. The second was shared by U.S. Trade Representative Katherine Tai in a
+speech at an event hosted by the Open Markets Institute on June 15, 2023. Both speeches focused closely on the
+need to rebuild trade systems in ways that ensure resiliency and stability. Amb. Tai's speech, meanwhile, detailed
+the fundamental intersection between domestic competition policy and international trade policy.
+
+4) A New Vision to Regulating Information and Communications Infrastructure. The Biden Administration, as part of
+the broad reconceptualization of competition and trade policy, has also begun to sketch out a new vision for how to
+regulate both domestic and international communications systems. Importantly, this includes a careful reappraisal
+of whether trade policies established over the last 30 years should be updated to account for the recent evolution in
+thinking about the nature of these corporations, as well as the purpose of these regulatory regimes.
+
+5) A New Map of the Problem: The Biden Administration has taken a great leap forward in closely studying the
+effects of the supply chain disruptions of the last two years. The administration has, for instance, organized deep
+integrated studies of the structure of supply chain fragility generally, the structures of the semiconductor and battery
+industries specifically, and all links in the container transportation system, including ocean carriers, ports, railroads,
+and trucking. In addition, and of fundamental importance, the U.S. Congress has also dramatically improved its
+work on these issues, hosting hearings on supply chain fragility, the concentration of capacity and control within the
+semiconductor industry, and the concentration of pharmaceutical ingredients in China, among other topics. During
+this same period, key U.S. allies in Europe and Asia have made similar advances in mapping the chokepoints and
+in developing plans to effectively distribute capacity.
+
+IV) FINISHING THE JOB - The Next Stage in Rebuilding a Resilient System.
+
+Despite this long list of successes, the administration and Congress must do much more, and swiftly. The United
+States still lacks any real plan to break dangerous chokepoints in the chemical and pharmaceutical industries, in
+data storage and computing capacities, in electronics components and materials, in the building of ships and
+aircraft, and many other key sectors.
+
+To this end, the Open Market Institute recommends the following immediate actions:
+
+A) Establish a hierarchy of threats, to strategically guide action and investment. Such a hierarchy will help
+policymakers, Congress, and enforcement agencies focus limited resources on the biggest and most immediate
+threats, and on the solutions that deliver the greatest near-term advances.
+
+                                                                                               Page 9 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+B) Work with G7 allies and other close industrial partners to combine our individual national assessments of threats
+and strengths into a common document that will help us develop our strategic plan of action.
+
+C) Speed the use of public investment to address the most immediately threatening industrial chokepoints.
+Specifically, Congress should target the offshore concentration of vital capacity in the chemical and pharmaceutical
+industries, in electronics components and materials, and in the building of ships and heavy industrial equipment.
+Congress should also target domestic concentration of vital capacity in data storage and computing capacities, as
+well as in aircraft manufacturing.
+
+D) Work with NATO allies to develop and enforce common policies to target China's chokepoint power. Most
+immediately, this means helping the German government
+
+block plans by some of Germany's largest industrial corporations - including the chemical giant BASF - to move
+additional keystone production capacities to China.
+
+E) Target concentrations of capacity and control in cloud storage and computing services.
+
+As a recent report for the Carnegie Endowment made clear, "national governments' core interest in cloud
+computing... is to reduce the likelihood of a systemic failure that has a cascading impact on critical functions or
+national security." The rapid development of advanced AI technologies is only increasing the need to act.4
+
+F) Restore traditional approaches to regulating international communications systems. This should include
+abandonment of falsifying policy frameworks that call for liberalization of cross-border "trade" in data, and that
+instead view international communications platforms as essential forms of infrastructure.
+
+G) Enlist the World Bank, the International Monetary Fund, and the Organisation for Economic Cooperation and
+Development in efforts to map, understand, and counter extreme and dangerous concentrations of industrial and
+communications capacity.
+
+APPENDIX #1
+
+How Concentration Threatens Supply Chain Resiliency - Study by Japan's Ministry of Economy, Trade, and
+Industry (METI)
+
+APPENDIX #2
+
+Principles to Guide Efforts to Restore Industrial System Resiliency
+
+To the extent that we can distill a few simple principles and rules from our research and writing on a wide variety of
+shocks during the last two decades, we have found that:
+
+*The basic problem lies in the structure of the system, not the shock. As Charles Perrow put it in his classic study of
+how to design safe systems, accidents are "normal." The challenge, therefore, is not to build systems that depend
+on human beings preventing all disruptions, but to design systems that are able to absorb any shock.
+
+* "Just-in-time" manufacturing and distribution is not the problem. But such practices can accelerate the shock and
+the speed at which any disruption affects the public and forces the government to act.
+
+* Our challenge is to engineer resiliency. Competition law and enforcement are a critical part of the toolkit people
+use to physically structure complex systems to ensure their resiliency and security. We should therefore apply
+bright-line rules to all essential production and communications systems.
+
+* We can make our industrial systems almost perfectly resilient. There is never a reason for any industrial system to
+depend on single points of failure. We can structure and link these machines in whichever way we choose. Fragility
+is proof of bad engineering, hence of poor legal and regulatory design decisions.
+
+                                                                                             Page 10 of 12
+     Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+* We can structure these systems to promote peace and cooperation among peoples in different nations, and in
+ways that promote broad prosperity.
+
+* Local systems of distribution can be just as fragile as national and international systems. A well-designed
+international system will tend to provide the greatest degree of resiliency and security.
+
+* Bright-line rules help prevent concentration of political power and control. As Locke put it more than three
+centuries ago, "[F]reedom of men under government is to have a standing rule to live by, common to every one of
+that society, and made by the legislative power erected in it." Such a rule protects the individual business and
+person from being "subject to the inconstant, uncertain, arbitrary will of another man."5
+
+APPENDIX #3
+
+Additional Reading - Books, Speeches, Articles
+
+* "Remarks by Ambassador Katherine Tai at the Open Markets Institute," National Press Club, June 15, 2023.
+
+* "Remarks by National Security Advisor Jake Sullivan on Renewing American Economic Leadership," Brookings
+Institution, April 27, 2023
+
+* OECD-Open Markets Conference, "Shock Proof: Building Resilient Systems in the 21st Century," April 24, 2020.
+
+* End of the Line: The Rise and Coming Fall of the Global Corporation, Barry Lynn, Doubleday, New York, August
+2005.
+
+* Cornered: The New Monopoly Capitalism and the Economics of Destruction, Barry Lynn, Wiley, 2010.
+
+* The Resilient Enterprise: Overcoming Vulnerability for Competitive Advantage, Yossi Sheffi, MIT Press, 2005.
+
+* The Power of Resilience: How the Best Companies Manage the Unexpected, Yossi Sheffi, MIT Press, 2015.
+
+* Normal Accidents: Living With High-Risk Technologies, Charles Perrow, Princeton, 1999.
+
+* Breakthrough Supply Chains: How Companies and Nations Can Thrive and Prosper in an Uncertain World,"
+Christopher Gopal, et. al., Chicago, McGraw Hill, 2023.
+
+* "Manufacturing and Liberty," Barry Lynn, Washington Monthly, January 2023
+
+* "Antimonopoly Power," Barry Lynn, Foreign Affairs, July/August 2022
+
+* "To Fix the Supply Chain Mess, Take on Wall Street," Garphil Julien, Washington Monthly, December 2021.
+
+* "Building Food Systems Resiliency Through Different Business Scales and Forms," an Open Markets Institute
+Report, Claire Kelloway (lead reporter), June 2021.
+
+* "How the United States marched the semiconductor industry into its trade war with China," Chad P. Bown,
+Peterson Institute for International Economics, December 2020.
+
+* "Systemic Supply Chain Risk," Yossi Sheffi and Barry C. Lynn, The Bridge, Fall 2014. The first article in which an
+engineer recognized the systemic nature of international production arrangements and the potential for cascading
+crashes.
+
+* "The New China Syndrome: American Business Meets Its New Master," Barry Lynn, Harper's, November 2015.
+
+* "New York's Looming Food Disaster," Sidhartha Mahanta, Atlantic City Lab, October 21, 2013.
+
+* "A Year After Sandy, Food and Fuel Supplies are as Vulnerable as Ever," Sidhartha Mahanta, Reuters, October
+28, 2013.
+
+                                                                                              Page 11 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+* "How Detroit Went Bottom-Up: Outsourcing Has Made the Automotive Industry So CoDependent and Fragile that
+One Company's Downfall is Every Company's Concern," Barry Lynn, The American Prospect, September 2009.
+
+* "New York's Looming Food Disaster," Sidhartha Mahanta, Atlantic City Lab, October 21, 2013.
+
+* "A Year After Sandy, Food and Fuel Supplies are as Vulnerable as Ever," Sidhartha Mahanta, Reuters, October
+28, 2013.
+
+* "Built to Break: The International System of Bottlenecks in the Era of Monopoly," Barry Lynn, Challenge Magazine,
+March/April 2011.
+
+* "War, Trade, and Utopia," Barry Lynn, The National Interest, Winter 2006.
+
+* "The Fragility That Threatens," Barry Lynn, Financial Times, October 17, 2005.
+
+*"Preparing for the Next Pandemic," Michael T. Osterholm, Foreign Affairs, July/August 2005.
+
+* "Unmade in America: The True Cost of a Global Supply Chain," Barry Lynn, Harper's, June 2002.
+
+* Gideon Rachman, "How America is Reshaping the Global Economy," Financial Times, June 5, 2023
+
+* Greg Ip, "Biden's Trade Challenge: Kicking the China Dependency Habit," Wall Street Journal, June 22, 2023
+
+* David Lynch, "Biden's Course on US Trade Breaks with Clinton and Obama," The Washington Post, August 27,
+2023.
+
+*Rana Foroohar, "America is Telling a Very Different Story on Trade," Financial Times, June 17, 2023
+
+APPENDIX #4
+
+A PARTIAL LIST OF EVENTS THAT TRIGGERED INDUSTRIAL SHUTDOWNS
+
+* Great Jiji Earthquake in Taiwan, September 21, 1999.
+
+* September 11, 2001 attacks on the World Trade Center and Pentagon.
+
+* SARS Epidemic of 2003.
+
+* Loss of half of U.S. seasonal flu vaccine production capacity in 2004.
+
+* Niigata earthquake in 2007.
+
+* Melamine pet food recall of 2007.
+
+* Wall Street crash of 2008 and effect on international production systems.
+
+* Bailout of General Motors and Chrysler in 2009.
+
+* Iceland volcano explosion of 2010.
+
+* China embargo of rare earth shipments to Japan in September 2010.
+
+* Tohoku triple disaster of March 2011.
+
+* Floods in Thailand in July 2011.
+
+* Chinese Vitamin C cartel in 2013.
+
+* U.S. sanctions Chinese electronics corporation ZTE, April 2018.
+
+                                                                                              Page 12 of 12
+      Senate Judiciary Subcommittee Issues Testimony From Open Markets Institute Executive Director Lynn
+
+* U.S. sanctions Chinese electronics corporation Huawei, Fall 2018
+
+* Collapse of supplies for Covid tests, facemasks, and PPE, 2020.
+
+* Semiconductor shortage begins to affect manufacturing, June 2020.
+
+* Port of Los Angeles/Long Beach begins to shut down, February 2021.
+
+* Colonial Pipeline ransomware attack, May 2021.
+
+* Stranding of the Ever Given Container ship in the Suez Canal, June 2021
+
+* Union Pacific and BNSF report congestion in Chicago, June 2021.
+
+* Baby formula shortage worsens after Abbott plant shut down, Feb. 2022.
+
+* Ukraine war creates shortage of fertilizer, cooking oils, and grains, Feb. 2022.
+
+* U.S. supply of CT scan material cut off by China plant closure, May 2022.
+
+1 Christopher Rowland, "Covid shutdowns in China are delaying medical scans in the U.S.," Washington Post, May
+11, 2022.
+
+2 Asher Schecter, "Pentagon Report Points to Two Major Risks to National Security: Consolidation and
+Shareholder Capitalism," ProMarket, January 25, 2021. 3 Brian Deese, Remarks on a Modern American Industrial
+Strategy, the White House, April 20, 2022.
+
+4 Ariel Levite and John Pendleton, "Cloud Reassurance Project: Interim Report: The universal adoption of
+cloudcentric operating models is bringing enormous benefits to every sector of the global economy, yet the ubiquity
+of dependence on common technologies and service providers also creates a new potential for systemic risk."
+Carnegie Endowment, June 2023.
+
+5 SEE ALSO: Friedrich Hayek, "The Constitution of Liberty" (1960). "Being made impersonal and dependent upon
+general, abstract rules, whose effect on particular individuals cannot be foreseen at the time they are laid down,
+even the coercive acts of government become data on which the individual can base his own plans. Coercion
+according to known rules, which is generally the result of circumstances in which the person to be coerced has
+placed himself, then becomes an instrument assisting the individuals in the pursuit of their own ends and not a
+means to be used for the ends of others.
+
+***
+
+Original text here: https://www.judiciary.senate.gov/imo/media/doc/2024-06-05_pm_-_testimony_-_lynn.pdf
+
+Copyright Targeted News Services
+
+MSTRUCK-8680562 MSTRUCK
+
+
+Load-Date: June 18, 2024
+
+
+  

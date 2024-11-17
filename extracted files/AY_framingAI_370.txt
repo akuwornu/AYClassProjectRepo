@@ -1,0 +1,100 @@
+
+
+                                                                                            Page 1 of 2
+   CME Group and Google Cloud Announce New Chicago Area Private Cloud Region and Co-location Facility for
+                                        CME Group's Markets
+
+
+
+
+  CME Group and Google Cloud Announce New Chicago Area Private Cloud
+         Region and Co-location Facility for CME Group's Markets
+                                                           PR Newswire
+                                           June 26, 2024 Wednesday 8:00 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 1165 words
+Dateline: CHICAGO and SUNNYVALE, Calif., June 26, 2024
+
+Body
+
+
+PR NewswireKey milestone paves the way for CME Group to migrate to Google Cloud's industry-first specialized
+platform for capital marketsCHICAGO and SUNNYVALE, Calif., June 26, 2024 /PRNewswire/ -- Reaching a
+significant milestone in the companies' transformational partnership, CME Group and Google Cloud today
+announced plans to build a new private Google Cloud region, and a co-location facility, in Aurora, Illinois.The
+private Google Cloud region will host Google Cloud's new, industry-first specialized platform designed to support
+global trading of CME Group's futures and options markets, and offer derivatives traders cloud-based, ultra-low-
+latency networking, and high-performance computing.Locating the platform in the new private Google Cloud region
+in the Chicago area will allow CME Group's clients to utilize existing connectivity options and access points to other
+global markets. Additionally, CME Group's clients can choose between self-managed infrastructure in the co-
+location facility or Google Cloud's specialized infrastructure-as-a-service offering, both with equal network latency to
+the exchange.The new specialized platform will enable a number of benefits for CME Group's clients, including
+expanded flexibility, strengthened operational efficiencies, and increased access to cloud services, and artificial
+intelligence (AI) capabilities, all of which will deepen the value proposition for market users around the globe. For
+example, CME Group clients will be enabled to rapidly experiment, test, and deploy new strategies without
+impacting their production trading environments."This is a significant step forward in our partnership with Google
+Cloud that is revolutionizing our industry," said CME Group Chairman and Chief Executive Officer Terry Duffy.
+
+"Located within close proximity to our current data center campus, and with disaster recovery facilities in Dallas,
+Texas, Google Cloud's new specialized platform will extend the benefits we can provide to our clients through next-
+generation cloud technology, expanded access and efficiencies, a broader range of customized connectivity
+options, and faster product development, with minimal disruption to their current operations." In addition to the
+capabilities offered through the new platform, market participants that migrate to the cloud can benefit from Google
+Cloud's global network and innovative AI and data capabilities. With Google Cloud's data cloud products like
+BigQuery and AlloyDB, and its AI and machine learning platform, Vertex AI, financial institutions will be able to
+experiment with new modeling techniques such as time-series forecasting and simplify access to insights with
+generative AI. All of this is backed by Google Cloud's expanding number of regions, planet-scale network, and AI-
+powered security."Our latest milestone with CME Group builds on our shared goal to accelerate CME's move to the
+cloud and innovate capital markets infrastructure worldwide," said Thomas Kurian, CEO, Google Cloud. "Through
+our collaboration, we're harnessing the best of cloud computing, data analytics, and AI, while respecting the
+
+                                                                                           Page 2 of 2
+  CME Group and Google Cloud Announce New Chicago Area Private Cloud Region and Co-location Facility for
+                                       CME Group's Markets
+
+existing custom hardware requirements of market participants to bring low latency, deterministic, and scalable
+trading environments to CME Group customers and the broader financial markets."Development of the specialized
+platform is underway, starting with key capabilities available for customer testing in the Dallas Google Cloud region,
+which will eventually become the disaster recovery facility. Construction of the private Google Cloud region in
+Aurora is scheduled to begin this year. CME Group expects to provide clients with at least 18 months advance
+notice before CME Group markets move to the new platform. CME Group cash markets will continue to operate in
+their current facilities as they do today.Since announcing their partnership in 2021, CME Group and Google Cloud
+continue to execute on key initiatives, including recent enhancements to CME Group's cloud-based data platform
+and migration of critical clearing applications to the cloud. Both firms are focused on delivering significant benefits to
+all market participants by expanding access, creating real-time, customer-centric data and analytics capabilities,
+bringing new products and services to market, and increasing efficiencies.About CME GroupAs the world's leading
+derivatives marketplace, CME Group (www.cmegroup.com) enables clients to trade futures, options, cash and OTC
+markets, optimize portfolios, and analyze data – empowering market participants worldwide to efficiently manage
+risk and capture opportunities. CME Group exchanges offer the widest range of global benchmark products across
+all major asset classes based oninterest rates,equity indexes,foreign exchange,energy,agricultural
+productsandmetals. The company offers futures and options on futures trading through theCME Globexplatform,
+fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates one
+of the world's leading central counterparty clearing providers, CME Clearing. CME Group, the Globe logo, CME,
+Chicago Mercantile Exchange, Globex, and E-mini are trademarks of Chicago Mercantile Exchange Inc. CBOT and
+Chicago Board of Trade are trademarks of Board of Trade of the City of Chicago, Inc. NYMEX, New York
+Mercantile Exchange and ClearPort are trademarks of New York Mercantile Exchange, Inc. COMEX is a trademark
+of Commodity Exchange, Inc. BrokerTec is a trademark of BrokerTec Americas LLC and EBS is a trademark of
+EBS Group LTD. The S&P 500 Index is a product of S&P Dow Jones Indices LLC ("S&P DJI"). "S&P®", "S&P
+500®", "SPY®", "SPX®", US 500 and The 500 are trademarks of Standard & Poor's Financial Services LLC; Dow
+Jones®, DJIA® and Dow Jones Industrial Average are service and/or trademarks of Dow Jones Trademark
+Holdings LLC. These trademarks have been licensed for use by Chicago Mercantile Exchange Inc. Futures
+contracts based on the S&P 500 Index are not sponsored, endorsed, marketed, or promoted by S&P DJI, and S&P
+DJI makes no representation regarding the advisability of investing in such products. All other trademarks are the
+property of their respective owners.About Google CloudGoogle Cloud is the new way to the cloud, providing AI,
+infrastructure, developer, data, security, and collaboration tools built for today and tomorrow. Google Cloud offers a
+powerful, fully integrated and optimized AI stack with its own planet-scale infrastructure, custom-built chips,
+generative AI models and development platform, as well as AI-powered applications, to help organizations
+transform. Customers in more than 200 countries and territories turn to Google Cloud as their trusted technology
+partner.CME-G View original content:https://www.prnewswire.com/news-releases/cme-group-and-google-cloud-
+announce-new-chicago-area-private-cloud-region-and-co-location-facility-for-cme-groups-markets-
+302182615.htmlSOURCE CME Group; Google Cloud
+
+
+Load-Date: July 15, 2024
+
+
+  

@@ -1,0 +1,122 @@
+
+
+                                                                                                        Page 1 of 3
+                         Rice engineers develop AI system for real-time sensing of flooded roads
+
+
+
+
+   Rice engineers develop AI system for real-time sensing of flooded roads
+                                                     Targeted News Service
+                                           August 26, 2024 Monday 3:47 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 926 words
+Byline: Targeted News Service
+Dateline: HOUSTON, Texas
+
+Body
+
+
+Rice University issued the following news release:
+
+Rice engineers Pranavesh Panakkal (left) and Jamie Padgett (right) analyze a map of road links in the Houston
+area. (Photos by Jeff Fitlow)Roadway-related incidents are a leading cause of flood fatalities nationwide, but limited
+flood-reporting tools make it difficult to evaluate road conditions in real time.
+
+Existing tools traffic cameras, water-level sensors and even social media data can provide observations of flooding,
+but they are often not primarily designed for sensing flood conditions on roads and do not work in conjunction. A
+network of sensors could improve situational flood level awareness; however, they are expensive to operate at
+scale.
+
+Engineers at Rice University have developed a possible solution to this problem: an automated data fusion
+framework called OpenSafe Fusion. Short for Open Source Situational Awareness Framework for Mobility using
+Data Fusion, OpenSafe Fusion leverages existing individual reporting mechanisms and public data sources to
+sense quickly evolving road conditions during urban flooding events, which are becoming increasingly frequent.
+
+PadgettJamie Padgett, Rice's Stanley C. Moore Professor in Engineering and chair of the Department of Civil and
+Environmental Engineering, together with Pranavesh Panakkal, a postdoctoral researcher in civil and environmental
+engineering, analyzed data from nine sources in Houston before developing the comprehensive framework for the
+automated data system in their research study titled "More eyes on the road: Sensing flooded roads by fusing real-
+time observations from public data sources," published in the journal Reliability Engineering & System Safety.
+
+"While sources directly observing flooded roads are limited, urban centers are replete with sources directly or
+indirectly observing flooding or road conditions," Padgett said.
+
+Padgett and Panakkal hypothesized that an automated system combining insights from these real-time sources
+could potentially revolutionize flood situational awareness without significant investment in new sensors.
+
+                                                                                                         Page 2 of 3
+                      Rice engineers develop AI system for real-time sensing of flooded roads
+
+"This study offers communities a pathway to equitably sense and respond to urban stressors such as flooding using
+existing data sources," Padgett said. "It builds off of and is inspired by our longtime collaboration with colleagues in
+the SSPEED Center at Rice, who have been developing state-of-the-art flood alert systems. Here we focus on flood
+impacts on transportation infrastructure and focus on understanding how other data sources can complement
+information from flood models, especially with respect to impact on roadways and safe mobility."
+
+The framework uses data from sources like traffic alerts, cameras and even traffic speed, and leverages machine
+learning and data fusion to predict whether a road is flooded or not.
+
+The value of such data sources was evident during Hurricane Harvey in 2017 as many people in Houston including
+emergency responders resorted to manually examining data sources to infer probable road conditions to overcome
+the lack of reliable real-time road condition data.
+
+To test the OpenSafe Fusion process, the researchers used historical flooding data observed during Harvey to
+recreate the scenario in the framework, consisting of around 62,000 roads in the Houston region.
+
+Panakkal"The model was able to observe around 37,000 road links, which is around 60% of the network that we
+considered, and that is a significant improvement," Panakkal said.
+
+Other data sources that could be used in the framework include: water-level sensors, citizen portals, crowdsourcing,
+social media, flood models and a factor the study refers to as "human-in-the-loop."
+
+This last source is especially important, Panakkal says, as the human element of OpenSafe Fusion allows for
+responsible artificial intelligence (AI) usage.
+
+"We do not want a system that is fully automated and without any human control," Panakkal said. "The model may
+make a wrong prediction, which could endanger community members who decide to risk travel based on this
+prediction. So we designed safeguards based on responsible AI usage. This need for responsible AI in such tools is
+still an open area for further work, and we hope to dig deeper as we test our methods in the future."
+
+The study also considered flooding impacts on community access to critical facilities such as hospitals and dialysis
+centers during a natural disaster.
+
+"This gives community members or emergency responders an understanding of which roads are flooded and how
+to safely navigate to a location," Panakkal said.
+
+Padgett says the researchers hope to pursue extensive testing, validation and exploration of how communities with
+different scales and resource availability could use this framework to better sense road conditions during a flood.
+
+"Considering climate change impacts and climate-exacerbated weather events, the frequency and intensity of flood
+events could increase in the future, so we need a solution to better respond to flood events and their impacts on
+infrastructure," Padgett said.
+
+The study was supported by the National Science Foundation (1951821, 2227467) and the National Academies of
+Science, Engineering and Medicine's Gulf Research Program (2000013194). The content in this press release is
+solely the responsibility of the authors and does not necessarily represent the official views of the supporting
+entities.
+
+***
+
+Original text here: https://news.rice.edu/news/2024/rice-engineers-develop-ai-system-real-time-sensing-flooded-
+roads
+
+Copyright Targeted News Services
+
+MSTRUCK-8789034 MSTRUCK
+
+                                                                                              Page 3 of 3
+                    Rice engineers develop AI system for real-time sensing of flooded roads
+
+
+Load-Date: August 26, 2024
+
+
+  

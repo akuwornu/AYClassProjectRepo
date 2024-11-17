@@ -1,0 +1,108 @@
+
+
+                                                                                                       Page 1 of 2
+                                              Putting Cyber Powers on the Table
+
+
+
+
+                                    Putting Cyber Powers on the Table
+                                                     Targeted News Service
+                                             June 17, 2024 Monday 9:30 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 760 words
+Byline: Targeted News Service
+Dateline: BEDFORD PARK, Australia
+
+Body
+
+
+(TNSres) -- Flinders University issued the following news:
+
+Strong network cybersecurity has never been more important, with the potential for 'deep-fake signals' and other
+technologies to interfere with aviation and transport systems and cause inconvenience, even danger to citizens who
+rely on critical infrastructure including water and power supplies.
+
+To build the next generation of specialist IT professionals, Flinders University experts in Network and Cybersecurity
+Systems have set up 'real world' testbeds including a 'Smart City' to show how AI, remote internet and Cloud
+systems may be used by hostile players to exploit weaknesses in vital transport and power supplies.
+
+"With all of these emerging technologies, we need to be able to find weaknesses in our industrial, network and
+infrastructure systems to anticipate how they might be hacked," says Flinders University Associate Professor
+Alireza Jolfaei, an expert in cyber-physical systems security.
+
+"We always need to find new methods for security-aware modelling, analysis and design of safety-critical cyber-
+physical systems in the presence of many kinds of cyber-adversaries, including ageing infrastructure systems and
+software vulnerabilities."
+
+Professor Sam Drake, a co-director of the Centre for Defence Electromagnetic Research and Training at Flinders,
+adds that deep-fake signals from remote locations can interfere with GPS, aviation and shipping communications.
+
+"As technologies become ever-more sophisticated, we need to constantly monitor the potential for interference in
+critical systems to find possible weaknesses and mitigate risk," says Professor Drake.
+
+"As well as experience in technologies such as cloud, Internet of Things, AI and blockchain, the testbeds aim to
+give hands-on training in security analysis, threat detection and mitigation strategies for addressing hardware and
+software misconfigurations and how they relates to everyday systems."
+
+                                                                                                        Page 2 of 2
+                                          Putting Cyber Powers on the Table
+
+Senior Lecturer Dr Saeed Ur Rehman, an expert in wireless communication security, emphasises the dual nature of
+convenience and risk inherent in the pervasive integration of wireless devices.
+
+"The ubiquitous integration of low-cost wireless devices facilitates our lives, but on the other hand, it poses a
+significant security threat. For instance, a low-cost wireless device such as a wireless security camera connected to
+home WiFi can serve as a gateway for hackers, compromising the privacy of home network and potentially
+triggering cascading attacks."
+
+Flinders Associate Professor Elena Snitnikova says the new Urban Table testbed gives a practical insights into the
+complex real-life potential for big breakdowns in critical infrastructure systems, including hostile cyber-attacks, and
+training in preparing for incidence response, disaster recovery and "business continuity management and
+governance".
+
+The testbed model includes software and hardware systems linking a large metropolitan hospital, electrical
+substation and backup power generation and traffic intersections.
+
+Dr Fabiana Santana, Flinders University Pro Vice-Chancellor (Research Enterprise and Infrastructure), opened a
+special event at Flinders University's Tonsley campus this month.
+
+The 'Australia-Korea Protection of Critical Infrastructure and Systems of National Significance' project aims to
+collaborate and encourage the most pressing cybersecurity problems facing emerging critical technologies.
+
+"Protecting our critical infrastructure is key to securing our way of life," says Dr Santana.
+
+"The innovative tech testbeds at Tonsley will strengthen Flinders' research in cybersecurity, AI, connectivity, and
+cloud, helping our teams contribute to the security and resilience of critical infrastructure nationwide."
+
+She says Flinders and other research tackling 'real-world' problems will encourage bilateral relationships and
+facilitate joint ventures in the Indo-Pacific region.
+
+Another workshop is planned for Seoul, Korea later this year to further investigate emerging critical cybersecurity
+technologies including artificial intelligence, next-gen telecom systems and the Internet of Things. Industry
+partners at this month's Tonsley event included Fortinet and Cybenus, as well as representatives from Incheon
+National University, Korea and DefenceSA.
+
+Acknowledgements: The project is supported by an Australian Government Department of Foreign Affairs and
+Trade Australia-Korea Foundation grant.
+
+***
+
+Original text here: https://news.flinders.edu.au/blog/2024/06/17/putting-cyber-powers-on-the-table/
+
+Copyright Targeted News Services
+
+MSTRUCK-8679538 MSTRUCK
+
+
+Load-Date: June 17, 2024
+
+
+  

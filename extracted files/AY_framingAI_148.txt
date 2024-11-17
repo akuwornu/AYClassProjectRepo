@@ -1,0 +1,211 @@
+
+
+                                                                                                Page 1 of 4
+       World Bank : 'Assessing Power System Disruptions and Associated Economic Impacts From Increasing
+                       Extreme Heat Events in Southeast Europe Using an Idealized Desi....
+
+
+
+
+       World Bank: 'Assessing Power System Disruptions and Associated
+      Economic Impacts From Increasing Extreme Heat Events in Southeast
+                Europe Using an Idealized Design Methodology'
+                                                     Targeted News Service
+                                            August 3, 2024 Saturday 7:40 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 2088 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
+
+Body
+
+
+The World Bank issued the following policy research working paper (No. WPS10858) entitled "Assessing Power
+System Disruptions and Associated Economic Impacts from Increasing Extreme Heat Events in Southeast Europe
+Using an Idealized Design Methodology."
+
+Here are excerpts:
+
+***
+
+Abstract
+
+As the world endeavors to decarbonize and shift toward sustainable energy sources, power systems will become
+increasingly dependent on weather conditions. This dependence creates the challenge of managing fluctuations in
+both power supply and demand (particularly for cooling), which can jeopardize system reliability, particularly during
+extreme weather events. To what extent will the increases in peak cooling demands manifest more frequent power
+system disruptions, posing risks to human health and economic activity? This paper focuses on urban centers in
+Southeast Europe and utilizes state-of-the-art climate simulations to estimate changes in the magnitude of extreme
+heat events. It also estimates the frequency of potential associated power system disruptions and their ensuing
+impacts on economic activity by assuming an idealized design methodology.
+
+The analysis reveals that between 2021 and 2070, urban centers in Southeast Europe may be at risk of an
+estimated four to nine power system disruptions per decade due to increasing trends in extreme heat events. These
+disruptions have the potential to incur annual economic costs of up to tens of millions of dollars in some cities. The
+projected disruptions highlight the challenges of adapting power systems to climate change, even with idealized
+regular redesign and maintenance efforts. To mitigate power system fragility during heat waves, the paper
+
+                                                                                               Page 2 of 4
+      World Bank : 'Assessing Power System Disruptions and Associated Economic Impacts From Increasing
+                      Extreme Heat Events in Southeast Europe Using an Idealized Desi....
+
+recommends implementing measures such as securing reserve power capacity, promoting urban cooling through
+greening initiatives, adopting demand-side management with smart-grid infrastructure, and increasing the
+deployment of solar power, which typically has high generation potential during heat waves.
+
+This paper is a product of the Urban, Disaster Risk Management, Resilience and Land Global Practice. It is part of
+a larger effort by the World Bank to provide open access to its research and make a contribution to development
+policy discussions around the world. Policy Research Working Papers are also posted on the Web at
+http://www.worldbank.org/prwp. The authors may be contacted at david.f@climate.ai, reisenberg1@worldbank.org,
+and lbonnafous@worldbank.org
+
+The Policy Research Working Paper Series disseminates the findings of work in progress to encourage the
+exchange of ideas about development issues. An objective of the series is to get the findings out quickly, even if the
+presentations are less than fully polished. The papers carry the names of the authors and should be cited
+accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely those of the authors.
+They do not necessarily represent the views of the International Bank for Reconstruction and Development/World
+Bank and its affiliated organizations, or those of the Executive Directors of the World Bank or the governments they
+represent.
+
+Introduction
+
+As efforts to decarbonize progress, it is vital to ensure the reliability of power systems within the context of the
+challenges of phasing out fossil fuels, aging transmission and distribution infrastructure, and increasing weather-
+induced fluctuations on energy supply (i.e., wind, solar, and hydro-power) and demand (i.e., heating and cooling
+demand). Even without these increasing challenges, the economic costs of unreliable critical infrastructure are
+already costly, particularly in less developed countries. A 2019 World Bank report estimated that the cost of
+unreliable infrastructure in 137 low- and middle-income countries (a cohort of countries that represents about 80
+percent of the GDP of all low- and middle-income countries) was nearly $300 billion a year (about 1.5% of GDP),
+with over half of that cost associated with electricity outages and the subsequent losses to sales and the costs of
+self-generated electricity (Rentschler et al. 2019). A 2019 survey found that power outages in a typical month in
+Kosovo, North Macedonia, Albania, and Serbia were estimated to occur about 8, 5, 4, and 2 times each month,
+respectively (Dalloshi et al. n.d.).
+
+Extreme demand for cooling is among the many reasons why power systems can fail to maintain reliable supply.
+High temperatures heat the land surface and infrastructure, trigger the usage of air conditioning where available,
+and cause some of the highest electricity demand spikes that systems experience (Franco et al. 2007, Waite et al.
+2017). As such, periods of elevated electricity demand driven by hot temperatures are critical times for electrical
+grids and can lead to soaring energy prices and, most critically, power outages or rolling blackouts (Hatvani-Kovacs
+et al. 2016). Examples include the blackouts triggered in California in July 2018 when spikes in electricity demand
+during a heat wave could not be met by the power system (Khan 2018). The July heat wave of 1995 was an even
+more dire example, where power failures were partially to blame in the deaths of over 800 people in the United
+States (Changnon et al. 1996). Furthermore, anthropogenic warming is expected to exacerbate these power system
+reliability issues (Allen et al. 2016, Li et al. 2012, Franco et al. 2007, Miller et al. 2008) via rising temperatures, and
+the anticipated increased adoption of air conditioning will lead to more energy systems being stressed during hot
+times (Waite et al. 2017).
+
+In addition to climate change's effects of exacerbating the magnitude of extreme heat, the trend of increasing
+urbanization can also increase the magnitude of extreme cooling demand events for two reasons. First is the well-
+known phenomenon of urban heat islands, whereby urban environments become substantially hotter than the
+neighboring lands due to the increased absorption of energy (in the form of solar radiation) and reduced cooling
+through evapotranspiration. Second, higher population density centralizes the demand for cooling during extreme
+heat events in locations where air conditioning is available, thereby eliminating the natural process of smoothing
+demand spikes via more spatially distributed demand nodes that are unlikely to all peak in cooling demands
+simultaneously.
+
+                                                                                                Page 3 of 4
+       World Bank : 'Assessing Power System Disruptions and Associated Economic Impacts From Increasing
+                       Extreme Heat Events in Southeast Europe Using an Idealized Desi....
+
+Having established that the costs of power system blackouts are considerable, and that anthropogenic warming is
+increasing the magnitude and frequency of heat waves, the goal of this paper is to use the latest generation of
+climate projections to estimate the propensity of urban power systems to eclipse their design capacity as a result of
+extreme cooling demands into the 21st century in major urban centers globally, with a special focus on the urban
+centers of Southeast Europe (Figure 1). Secondarily, this paper provides estimates of the economic costs
+associated with these urban power system disruptions. Lastly, this paper discusses the implications of increasing
+extreme heat events on critical power (and energy) system infrastructure and what adaptive responses can help
+ensure system reliability into the coming decades.
+
+Urban Centers of Southeast Europe
+
+Power system disruptions can be particularly salient in urban areas because of the high population density, the
+potential for cascading failures due to interconnected and interdependent systems, and the concentration of
+economic and industrial activities in and around urban centers. Higher population densities mean that more humans
+are impacted by power system disruptions. The interconnected and interdependent nature of many critical systems
+in urban settings, such as transportation and water systems, mean that power system interruptions can spark
+cascading failures and disruptions to multiple systems. Lastly, due to the high concentration of businesses and
+industries that rely on a stable power supply to operate in and around urban centers, urban power system
+disruptions can result in substantial lost revenue, reduced productivity, and increased costs for businesses.
+
+Figure 1: (a) Global map with the Southeast Europe region highlighted with a green rectangle; (b) the urban centers
+included in the Southeast Europe regional analysis.
+
+Power system disruptions can be especially difficult to prevent and respond to in cities in Southeast Europe due
+primarily to aging infrastructure that has resulted from a lack of investment. Many cities in Southeast Europe have
+not seen significant investment in their power infrastructure in recent years (Vasquez et al. 2018), which has led to
+aging power infrastructure (e.g., power lines and transformers) that is more prone to failure and more difficult to
+maintain, which in turn increases the likelihood and severity of power system disruptions.
+
+Methodology
+
+The goal of this paper is to estimate the trends in the occurrence of potential power system disruptions due to
+power demand exceeding power supply during extreme heat waves. To accomplish this, we estimate the power
+demands and power supply capacities using a variety of datasets and methods outlined below. We provide a set of
+rough estimates of the economic impacts of these projected power system disruptions using a variety of datasets
+and methods.
+
+Data
+
+We use the following data sources for the analysis underlying this paper.
+
+* Historical temperature reanalysis data: Near-surface temperature (2 meters above the surface) at a spatial
+resolution of 0.25 deg by 0.25 deg and a temporal resolution of hourly is acquired from the ERA-5 reanalysis
+dataset (Hersbach 2018). We derive estimates for the maximum and minimum temperatures at the daily level by
+taking the maximum and minimum of the hourly values for each day.
+
+* Future temperature projections from climate model simulation data: Maximum and minimum hourly temperatures
+over the previous 24 hours are acquired from Earth system model simulations from the Coupled Model
+Intercomparison Project, phase 6 (CMIP6). We consider three shared socioeconomic pathways, namely SSP1
+(Sustainability, taking the green road), SSP2 (middle of the road), and SSP5 (fossil-fueled development). SSP2
+currently appears to be the most likely scenario from an emissions perspective (Pielke Jr et al. 2022). And while
+SSP1 and SSP5 currently appear to be unlikely, understanding climate projections under these relatively extreme
+scenarios provides us with a view of the full range of possibilities. Moving forward, we refer to these scenarios as
+"low emissions" (SSP1), "middle of the road emissions" (SSP2), and "high emissions" (SSP5). We consider
+
+                                                                                               Page 4 of 4
+      World Bank : 'Assessing Power System Disruptions and Associated Economic Impacts From Increasing
+                      Extreme Heat Events in Southeast Europe Using an Idealized Desi....
+
+projections from the following global climate models: AWI-CM-1-1-MR, EC-Earth3-VegLR, FGOALS-g3, GFDL-
+ESM4, INM-CM4-8, INM-CM5-0, IPSL-CM6A-LR, KACE-10-G, MIROC6, MPI-ESM1-2-HR, MPI-ESM1-2-LR, MRI-
+ESM2-0, and NESM3 since each of these models has less than 2% missing daily values, over the full simulation
+period of 1979 to 2100, for each of the three socioeconomic scenarios considered here.
+
+* Economic data: Gross domestic product (GDP) estimates, based on purchasing power parity, at a resolution of 30
+seconds in both latitude and longitude (i.e., a spatial resolution of just under 1 km in the region of Southeast
+Europe) from Kummu et al. (2018). We use estimates from the year 2015 since these are the most recent available
+estimates.
+
+Quantile Delta Mapping Post-Processing for CMIP6 Simulations
+
+We post-process the Earth system model simulations using a quantile mapping method, which corrects systematic
+distributional biases in climate model output data by removing historical biases relative to observations. Specifically,
+we apply the Quantile Delta Mapping (QDM) method (Cannon et al. 2015) in order to preserve the trends in the
+climate model simulations in such a way as to ensure that the climate sensitivity (i.e., the temperature response to
+greenhouse gas forcing) of the model is not affected by bias correction. QDM adjusts the distribution of simulated
+climate data to more closely match the distribution of observed (or reanalysis) climate data, while preserving the
+magnitude of the trends in each of the quantiles. Quantile Delta Mapping is described in detail, including
+presentation of the underlying equations, in the Supplementary Material.
+
+***
+
+The                       report                     is                    posted                   at:
+https://documents1.worldbank.org/curated/en/099423207222420953/pdf/IDU1166500ae1c95e149071addf107c246
+c2c9dc.pdf
+
+Copyright Targeted News Services
+
+null-8759826 MSTRUCK
+
+
+Load-Date: August 4, 2024
+
+
+  

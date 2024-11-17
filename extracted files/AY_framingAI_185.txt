@@ -1,0 +1,214 @@
+
+
+                                                                                                        Page 1 of 4
+                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+
+
+
+
+                              JUL. 30TH, 2024 JULY DIGITAL MATTERS
+                                                States News Service
+                                               July 30, 2024 Tuesday
+
+
+
+Copyright 2024 States News Service
+
+Length: 2197 words
+Byline: States News Service
+Dateline: WASHINGTON
+
+Body
+
+
+The following information was released by New America:
+
+This month's Digital Mattersour monthly round-up of news, research, events, and notable uses of techexplores
+different tools governments are harnessing to build inclusive and accessible digital solutions and human-centered
+outcomes.
+
+In this issue, we dive into some of the innovative approaches, from local initiatives to large-scale government digital
+public infrastructure (DPI) projects, that are using inclusive design to strengthen trust in government solutions. We
+also open our aperture to take a closer look at what can be learned from other countries' digital transformation
+efforts. We wrap up with summaries from two notable panel events covering technology as a means to advance
+inclusive economic opportunity.
+
+But first, three big things we have been tracking this month.
+
+Switzerland now requires all government software to be open source. The country is leading the way for a "public
+money, public code" approach to government operations. A new lawFederal Law on the Use of Electronic Means
+for the Fulfillment of Government Tasks (EMBAG)stipulates that public bodies must disclose the source code of
+software developed by them, unless third-party rights or security concerns prevent it. This milestone represents the
+culmination of a long effort by Swiss authorities to promote FOSS (free and open source software). "Open by
+default" is a movement that has been gaining some traction in government tech circles, but there is a lot more work
+to be done.
+
+Earlier this month, The White House announced commitments from across the technological ecosystem, including
+nearly $100 million to advance public interest technology. The White House Office of Science and Technology
+Policy (OSTP) convened leaders to celebrate the important role of government technologists, and to highlight
+efforts to build a robust, inclusive technology landscape that works for everyone in America.
+
+CrowdStrike and Microsoft outages created disruptions around the globe as a software update inadvertently created
+an IT meltdown on July 19. Much has been written about the incident and repercussions ranging from flight
+cancellations, to online banking interruptions, and halting noncritical surgeries at hospitals. Emergency services
+were also impacted in several states and 911 responses needed to be managed with analog solutionsin this
+
+                                                                                                           Page 2 of 4
+                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+
+instance, manual responses were completely doable. However, there is a larger issue at play. Critical infrastructure
+providers need to architect systems with a clear understanding of the necessary measures required during
+disruptions. Similarly, users of systems must have alternative plans in place in the event that services are impacted.
+
+How integral is inclusive design in the trust and use of digital solutions?
+
+We start with how a local social network in Vermont is fostering civic engagement and why bringing
+underrepresented communities into the innovation landscape is crucial. We then take a look at how "cautious" steps
+leading to the IRS Direct File pilot, "boring" designs of government websites, and the implementation of Human-
+Centered Design created better, more user-friendly experiences when accessing public services.
+
+Podcast: How did Vermont's favorite civic social network turn into a climate disaster response network overnight?
+Michael Wood-Lewis Tells Us About His Local Good Web , Initiative for Digital Public Infrastructure at UMass
+Amherst (June 26, 2024)
+
+UMass Amherst's Initiative for Digital Public Infrastructure hosted a podcast with Michael Wood-Lewis, co-Founder
+of a Vermont-based online community bulletin called Front Porch Forum (FPF). Wood-Lewis started a precursor of
+FPF in 2000, which was based on email exchanges between neighbors, and eventually transformed it into a
+business in 2006. The network has been custom-made to meet the unique needs and experiences of Vermonters.
+Users can access the online social network to review local restaurants, ask for rides to the airport, share upcoming
+events, and more. Wood-Lewis emphasizes that everything FPF offers could work on big tech offerings like Yelp,
+Uber, or Facebook, but unlike large platforms, FPF focuses on hyperlocal interactions and encouraging inclusivity.
+Wood-Lewis hopes that FPF will ultimately allow Vermonters to enhance their social capital and help build
+community.
+
+You can find more about how Vermont residents are using Front Porch Forum here.
+
+Bringing Communities In, Achieving AI for All , by Shobita Parthasarathy and Jared Katzman, Issues in Science and
+Technology (Summer 2024)
+
+Many novel tools, such as facial recognition technologies, have created real harm and magnified structural
+inequalities. Harmful deployments deepen distrust in the promises of science and government. The authors argue,
+in order to combat inequality resulting from technology and promote a more just society, better solutions lie in an
+inclusive innovation ecosystem. To this end, they find that researchers, universities, and the tech industry should
+actively seek out partnerships with struggling communities to carefully understand what they need from AI.
+
+How the IRS's 'cautious' approach with Direct File prevented its 'failure' , by Matt Bracken, FedScoop (July 11,
+2024)
+
+The IRS is working hard to expand their Direct File pilot program to enable taxpayers across the US to file their
+taxes electronically, directly, and for free. Expanding the service to a broader audience has required careful,
+deliberate planning. The IRS team has taken a "cautious" approach to the roll out and focused on "executional
+certainty." How have they done this? The team set relatively simple goals in the beginning by only allowing a limited
+cohort of volunteers and government employees to test it. The team also recognized when to abandon parts of the
+process that weren't effective, which author Matt Bracken considers a win from a product development perspective.
+
+Merici Vinton, the first official user of the pilot, said that maintaining the trust of users "is what drove the decisions
+on how we proceeded." By keeping trust at the forefront, the IRS hopes to change how the agency's services are
+perceived and create a smoother process for frustrated taxpayers.
+
+Inside the US government's brilliantly boring websites , by Jon Keegan, MIT Technology Review (June 26, 2024)
+
+Who knew there was a story behind the US government's official web design system and custom typeface? There
+are about 26,000 federal websites in the US. Before the standard that we see today, each of these sites had
+varying fonts, logos, and designs that often made it difficult for people to access government services. The less
+than smooth launch of Healthcare.gov in 2013 prompted President Obama to create two new teams to address this
+
+                                                                                                        Page 3 of 4
+                                    JUL. 30TH, 2024 JULY DIGITAL MATTERS
+
+issue and help improve government tech18F housed in the General Services Administration and the US Digital
+Service. These teams aimed to fix technical problems, build products, and deliver better government services
+through technology and design. In 2015, they built a US Web Design System (USWDS) in order to improve
+accessibility and a consistent user experience across government websites. The USWDS included a style guide
+and collection of user interface components and design patterns.
+
+When websites are buggy, not mobile-friendly, or confusing to navigate, people may not be able access services
+properly. This can, in turn, lead to a declining trust in the provision of these services and paint a negative
+impression on the government's use of resources. The creation of USWDS serves as an example of how consistent
+and user-friendly design can help rebuild public trust in government.
+
+Can Human-Centered Design Help Rebuild Trust in Government? , by Adam Stone, Government Technology
+(July/August 2024 Issue)
+
+Another tool that is helping to rebuild trust in government is human-centered design (HCD)a design framework that
+looks to understand people and their processes, to uncover root problems, and to develop iterative solutions. This
+article shares success stories of how different government agencies are practicing HCD and even features New
+America's Tara McGuinness, founder of New Practice Lab. "The stakes are very high, and using practices of
+human-centered design is one way to help governments walk in the shoes of those people they serve," she said. "It
+can be an effective way of helping governments get closer to the people they're serving, in order to improve their
+services." HCD empowers government to see issues through the eyes of constituents, leading to more responsive
+and effective solutions.
+
+What lessons can be learned from bold transformation initiatives overseas?
+
+There's a lot to learn from other countries in their efforts toward digital transformation. We explore the different
+approaches that countries are embracing with the next articles and events. For example, how UK's Policy Lab is
+using ethnography in policy design and how Pakistan's digital ID system is bolstering financial inclusion initiatives.
+Last, we conclude with notable events from this past month, with the Center for Strategic and International Studies'
+panel on DPI in the Global South and Brookings' discussion on technology for inclusive prosperity.
+
+Launching a new film: 10 years of ethnography in government , by Kyna Gourley and Vanessa Lefton, UK Policy
+Lab (July 16, 2024)
+
+UK's Policy Lab launched a mini-film to showcase how they have pioneered the use of ethnographic research in
+policymaking over the last 10 years. Policy Lab was established in 2014 and has managed more than 250
+innovation projects in the UK's most critical policy areas. Policy Lab's unconventional approach utilizes
+ethnography, a social research method that involves spending time with people and understanding their lived
+experiences. This type of research offers powerful and enriching insights into the impact of policy on everyday
+people, thereby bringing people to the heart of policy making.
+
+Digital public infrastructure is transforming lives in Pakistan. Here's how , by Tariq Malik and Prerna Saxena, World
+Economic Forum (July 12, 2024)
+
+Pakistan has shown an appetite for financial inclusion initiatives. The government established the National
+Database and Registration Authority (NADRA) to overhaul the identity system of a country with over 240 million
+citizens. The Computerized National Identity Card (CNIC) is now a standard feature in every adult Pakistani's life,
+allowing citizens to perform a number of tasks like opening a bank account, acquiring a driver's license, or filing for
+social protection.
+
+Pakistan's progress is rooted in recent challenges. Within days of initiating the lockdown for COVID-19, Pakistan's
+federal authorities announced that the government would issue unconditional cash transfer of 12,000 Pakistani
+rupeesenough to purchase approximately three months' worth of foodto 12 million vulnerable households. This
+initiative required cross-sector collaboration with private-sector banks and small businesses to establish more than
+18,000 cash distribution points at banks, shops, parks, and public buildings around the country. The digital ID
+
+                                                                                                        Page 4 of 4
+                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+
+infrastructure from NADRA facilitated the quick crisis response, serving as an example of how the government can
+leverage technology to enhance public service delivery.
+
+Event: Approaches to Digital Public Infrastructure in the Global South , Center for Strategic and International
+Studies (June 28, 2024)
+
+The Center for Strategic and International Studies (CSIS) hosted an online event late last month on the different
+approaches that countries in the Global South are taking to advance DPI. Speakers from Brazil, Ukraine, India, and
+Zambia illustrated the unique policy lenses that their countries have taken to develop digital IDs, payment systems,
+and applications that allow for ease of public service delivery. Notable examples included Ukraine's Diia platform,
+Brazil's Pix instant payment ecosystem, Zambia's ZamPortal data sharing registry, and India's DigiLocker document
+storage initiative.
+
+Event: Putting technology to work for inclusive prosperity - Challenges for public policy , Brookings Institution (July
+15, 2024)
+
+On July 15, 2024, Global Economy and Development at Brookings convened a panel of experts to discuss ideas
+and actions to manage digital transformation and the latest advancements in AI. The diverse panel spanned
+academia, the policymaking community, international organizations, and the tech industry, to share perspectives on
+the critical question of how to be more intentional about harnessing the potential of rapidly evolving technologies to
+support broader economic and social goals, rather than the narrow interests of a select few.
+
+On the horizon
+
+Global DPI Summit 2024 (October 1-3, 2024)
+
+Looking ahead, the Global DPI Summit is taking place in Cairo, Egypt on October 1-3, 2024. The Summit brings
+together DPI stakeholders from around the world. It will spotlight the progress countries are marking toward DPI as
+well as technologies, policy frameworks, and implementation models that are reshaping public infrastructure.
+
+Special thanks to Daniela Flores for pulling together the July edition of Digital Matters.
+
+
+Load-Date: July 31, 2024
+
+
+  

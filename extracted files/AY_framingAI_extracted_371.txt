@@ -1,0 +1,70 @@
+
+
+                                                                                                      Page 1 of 2
+                                               ePlus Announces Azure Recover
+
+
+
+
+                                      ePlus Announces Azure Recover
+                                                           PR Newswire
+                                           June 26, 2024 Wednesday 8:30 AM EST
+
+
+
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
+
+Length: 653 words
+Dateline: HERNDON, Va., June 26, 2024
+
+Body
+
+
+PR NewswireePlus Disaster Recovery-as-a-Service (DRaaS) offering, powered by Azure Site Recovery, protects
+workloads living on-premises, in Azure, or in other cloudsHERNDON, Va., June 26, 2024 /PRNewswire/ -- ePlus
+inc. (NASDAQ NGS:PLUS–news) today announced the launch of Azure Recover, a fully-managed DRaaS solution.
+Powered by Azure Site Recovery, ePlus Azure Recover helps organizations safeguard their critical services with
+geographic resilience to provide confident recovery in the event of disaster.
+
+ The new offering includes:Fully-automated monthly testingFailover event support and ongoing operational support
+post-failoverContinuous recovery validation"We are pleased to offer ePlus Azure Recover, which enables our
+customers to shrink recovery time objectives and provide the data protection necessary to maintain compliance,
+garner brand trust, and keep their business running when unforeseen events occur," said Justin Mescher, vice
+president of artificial intelligence, cloud, and data center solutions at ePlus. "By leveraging a proven disaster
+recovery operating model that revolves around continuous, automated testing and validation, ePlus Azure Recover
+provides peace of mind that their critical workloads will perform with the same security and performance they
+expect, even when unexpected circumstances arise."More information about ePlus Azure Recover for Disaster
+Recovery-as-a-Service       can    be    found    athttps://discover.eplus.com/onepager/eplus-azure-recover/.About
+ePlusinc.ePlus has an unwavering and relentless focus on leveraging technology to create inspired and
+transformative business outcomes for its customers. Offering a robust portfolio of solutions, as well as a broad
+range of consultative and managed services across the technology spectrum, ePlus has proudly achieved more
+than 30 years of success, carrying customers forward through adversity, rapidly changing environments, and other
+obstacles. ePlus is a trusted advisor, bringing expertise, credentials, talent and a thorough understanding of
+innovative technologies, spanning security, cloud, data center, networking, collaboration and emerging solutions, to
+organizations across all industry segments. With complete lifecycle management services and flexible payment
+solutions, ePlus' more than 1,900 associates are focused on cultivating positive customer experiences and are
+dedicated to their craft, harnessing new knowledge while applying decades of proven experience. ePlus is
+headquartered in Virginia, with locations in the United States, UK, Europe, and Asia–Pacific. For more information,
+visitwww.eplus.com, call 888-482-1122, or email . Connect with ePlus onLinkedIn,X,Facebook, andInstagram.
+ePlus, Where Technology Means More®.ePlus®, Where Technology Means More®, and ePlus products
+referenced herein are either registered trademarks or trademarks of ePlus inc. in the United States and/or other
+countries. The names of other companies, products, and services mentioned herein may be the trademarks of their
+respective owners.Forward-Looking StatementsThis press release contains information about management's
+view of ePlus' future expectations, plans and prospects that are not historical facts and may be deemed to be
+
+                                                                                                        Page 2 of 2
+                                          ePlus Announces Azure Recover
+
+"forward-looking statements." Actual and anticipated future results may vary materially due to certain risks and
+uncertainties. Certain risks and uncertainties that may affect such "forward-looking statements" are detailed in our
+reports filed with the Securities and Exchange Commission, especially under the heading "Risk Factors". All
+information set forth in this press release is current as of the date of this release and ePlus expressly disclaims any
+duty or obligation to update this information, except as may be required by law. View original content to download
+multimedia:https://www.prnewswire.com/news-releases/eplus-announces-azure-recover-302182810.htmlSOURCE
+EPLUS INC.
+
+
+Load-Date: July 15, 2024
+
+
+  

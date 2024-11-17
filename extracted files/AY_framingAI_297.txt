@@ -1,0 +1,141 @@
+
+
+                                                                                                  Page 1 of 3
+    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
+                           private and hybrid clouds by tackling complexity, secu....
+
+
+
+
+       Firms Invest in Management, Resilience for Hybrid Clouds; Platform
+      innovations help companies build better private and hybrid clouds by
+     tackling complexity, security threats, downtime, ISG Provider Lens(TM)
+                                    report says
+                                                    Business Wire
+                                       July 10, 2024 Wednesday 2:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1104 words
+Dateline: STAMFORD, Conn.
+
+Body
+
+
+More enterprises are implementing hybrid cloud management platforms as they diversify their IT environments to
+overcome the limits of relying solely on public clouds, according to a new research report published today by
+Information Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm.
+
+The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report finds that
+organizations want the flexibility, scalability and agility of cloud computing while addressing their unique operational,
+regulatory and security challenges. In many cases, intelligently planned hybrid cloud platforms help them control
+expenses, data residency and compliance.
+
+"Companies that are worried about the economy want to get more out of their IT investments," said Anay Nawathe,
+ISG cloud delivery lead. "With strong management, private and hybrid cloud infrastructures can maximize
+operational efficiency and financial resilience."
+
+Along with these benefits, hybrid clouds bring more complexity, especially with the need for resource coordination
+across platforms and smooth data flow between on-premises and cloud infrastructure, ISG says. This requires
+specialized tools and skills, so enterprises are implementing hybrid cloud management platforms that let them get
+the most out of each cloud environment and minimize performance bottlenecks.
+
+Organizations are also under pressure to make IT infrastructure more resilient, increasing the demand for backup
+and disaster recovery platforms, the report says. These create copies of critical data and systems so operations
+can quickly resume after a cyberattack or natural disaster. Scalable, secure and cost-effective resiliency solutions
+are becoming as crucial as primary on-premises and public cloud infrastructure.
+
+AI and ML play growing roles in both cloud management and resilience platforms, ISG says. Companies are
+embracing AI and ML cloud management tools that use data from various sources to predict downtime and initiate
+self-healing tools, enhancing reliability. Such technologies are also being used to automate backup and recovery
+platforms, some of which use algorithms to identify and respond to anomalies or threats in real time.
+
+                                                                                                  Page 2 of 3
+    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
+                           private and hybrid clouds by tackling complexity, secu....
+
+"Faster response and recovery to a disruption minimizes any loss of revenue and productivity, while at the same
+time improving customer satisfaction," said Jan Erik Aase, partner and global leader, ISG Provider Lens Research.
+"Vendors are helping enterprises achieve these gains through AI and automation."
+
+Companies are also tightening control over data in both cloud management and resilience platforms using privacy-
+enhancing features, the report says. These include access controls and encryption key management that allow
+them to define and enforce granular access policies.
+
+The report also explores other trends affecting private and hybrid cloud infrastructure, including the growing
+popularity of AI for IT operations (AIOps) for orchestration and FinOps for cost containment.
+
+For more insights into the private and hybrid cloud challenges enterprises face, including the complexity of
+managing hybrid clouds and the rising incidence of cyberattacks and natural disasters, along with ISG's advice for
+addressing these issues, see the ISG Provider Lens(TM) Focal Points briefing here .
+
+The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report evaluates the
+capabilities of 38 providers across two quadrants: Hybrid Cloud Management Platforms and Resiliency Platforms.
+
+The report names HPE (Zerto) and VMware as Leaders in both quadrants. It names BMC Software, Cohesity,
+Commvault, Dell Technologies, Flexera, HCL Software, Morpheus Data, Rubrik, ServiceNow, Veeam and Veritas
+as Leaders in one quadrant each.
+
+In addition, CloudBolt Software is named as a Rising Star - a company with a "promising portfolio" and "high future
+potential" by ISG's definition - in one quadrant.
+
+In the area of customer experience, Green is named the global ISG CX Star Performer for 2024 among
+private/hybrid cloud service providers. Green earned the highest customer satisfaction scores in ISG's Voice of the
+Customer survey, part of the ISG Star of Excellence(TM) program , the premier quality recognition for the
+technology and business services industry.
+
+A customized version of the report is available from Morpheus .
+
+The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report is available to
+subscribers or for one-time purchase on this webpage .
+
+About ISG Provider Lens(TM) Research
+
+The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
+empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
+advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
+appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
+recommendations to ISG's enterprise clients. The research currently covers providers offering their services
+globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
+Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
+more information about ISG Provider Lens research, please visit this webpage .
+
+About ISG
+
+ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
+business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
+committed to helping corporations, public sector organizations, and service and technology providers achieve
+operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
+automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
+services; strategy and operations design; change management; market intelligence and technology research and
+
+                                                                                                  Page 3 of 3
+    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
+                           private and hybrid clouds by tackling complexity, secu....
+
+analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,600 digital-ready
+professionals operating in more than 20 countries-a global team known for its innovative thinking, market influence,
+deep industry and technology expertise, and world-class research and analytical capabilities based on the
+industry's most comprehensive marketplace data. For more information, visit www.isg-one.com .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240710037163/en/
+
+
+CONTACT: Press Contacts:Will Thoretz, ISG
++1 203 517 3119
+
+will.thoretz@isg-one.com Julianna Sheridan, Matter Communications for ISG
++1 978-518-4520
+
+isg@matternow.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 23, 2024
+
+
+  

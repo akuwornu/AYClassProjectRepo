@@ -1,0 +1,139 @@
+
+
+                                                                                                   Page 1 of 3
+   AI-based Small Molecule Therapeutics Pioneer Athos Therapeutics Selects Vultr for Secure AI Training in the
+                            Cloud Athos accelerates the development of precision....
+
+
+
+
+ AI-based Small Molecule Therapeutics Pioneer Athos Therapeutics Selects
+Vultr for Secure AI Training in the Cloud; Athos accelerates the development
+ of precision therapeutics for patients with immune-mediated diseases and
+           cancer by scaling its autonomous AI analytical platform
+                                                    Business Wire
+                                        June 18, 2024 Tuesday 1:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1202 words
+Dateline: WEST PALM BEACH, Fla.
+
+Body
+
+Vultr , the world's largest, privately-held cloud computing platform, today announced that Athos Therapeutics, Inc.
+("Athos"), a clinical-stage biotechnology company, has chosen Vultr Cloud GPU to run its AI model training, tuning,
+and inference. Powered by NVIDIA HGX H100 systems and running on Dell Technologies' PowerEdge XE9680
+servers, Vultr now offers Athos the needed security and confidentiality for their intellectual property, omics* data,
+and proprietary AI algorithms.
+
+Led by one of the founders of Kite Pharma, the medicinal chemist behind two multi-billion-dollar FDA-approved
+drugs, and the discoverer of the miR-124 drug target currently in a Phase III IBD trial, Athos is a pioneer of artificial
+intelligence (AI) and machine learning (ML)-based precision small-molecule therapeutics for patients with immune-
+mediated diseases and cancer. Today, Athos aims to untangle the complexity of autoimmune and cancer biology by
+evaluating diseases at the molecular level. To achieve this, the company has partnered with premier global
+hospitals around the nation - including the Cleveland Clinic, Lahey Hospital & Medical Center, and the University of
+Ioannina Medical School - to perform multi-omics analysis of more than 25,000 human patients. Athos has also
+partnered with Caltech to perform spectrometry-based proteomics using cultured cells and biopsies from archived
+and de-identified patient samples.
+
+To accelerate the development of precision therapeutics, Athos needed a cost-effective, flexible, and high-
+performance cloud infrastructure that would allow the rapid scaling of omics data and proprietary AI algorithms
+without compromising security and confidentiality. Training algorithms with public cloud providers became
+prohibitively expensive and came with limited engineering support. This led Athos to select Vultr for reliable, secure,
+and compliant access to NVIDIA GPUs to train AI algorithms. With Vultr, Athos' fully autonomous AI analytical
+platform, including the Athos data lake and a cutting-edge integrative deep machine learning engine, can
+seamlessly train large datasets, with the guarantee that all AI training data is bound by local data sovereignty, data
+residency, and privacy regulations.
+
+"Enabling the next wave of innovators is core to our mission of democratizing access to high-performance cloud
+compute," said Amit Rai, General Manager of AI and Enterprise Cloud, Vultr. "And for a company like Athos, which
+operates in a highly regulated industry, security and compliance are top considerations for maintaining operational
+
+                                                                                                   Page 2 of 3
+   AI-based Small Molecule Therapeutics Pioneer Athos Therapeutics Selects Vultr for Secure AI Training in the
+                            Cloud Athos accelerates the development of precision....
+
+excellence. We are proud to be working with Athos, providing the scalable, performant, safe, and secure
+infrastructure that will underpin their platform, as the company continues to scale and deliver life-changing
+therapeutics for patients around the world."
+
+"Breakthrough medical research requires dynamic, reliable computing power," said Travis Vigil, senior vice
+president, ISG Product Management, Dell Technologies. "With Vultr's cloud platform running on Dell PowerEdge
+XE9680 servers, we're helping enable Athos to run AI workloads at scale securely and pioneer precision small
+molecule therapeutics that could improve countless lives."
+
+By choosing the Vultr AI cloud platform, Athos can easily train, tune, monitor, and manage a vast array of AI
+algorithms, in addition to benefiting from:
+    •   Scalable and agile cloud GPU resources - adapt to the growing data needs, remove the complexities of
+        managing GPUs, and lower AI infrastructure long-term costs.
+    •   User-friendly interface - enable seamless interactions with Vultr's computational resources, accelerate
+        algorithm training, and eliminate the need for deep technical GPU configuration or provisioning expertise.
+    •   Continuous monitoring and management - optimize resources, increase hardware utility rates, and
+        enhance efficiencies.
+    •   Unmatched security, confidentiality, and data sovereignty - meet diverse global risk and compliance needs,
+        crucial for Athos omics data and proprietary AI algorithms.
+    •   24/7 support - provide always-on disaster recovery, engineering support, and maintenance, crucial for
+        recovering Athos' omics data and AI algorithm checkpoints in case of hardware or software failures.
+
+"Athos is on a mission to provide novel precision therapeutics for patients with autoimmune diseases and cancer,"
+said Dimitrios Iliopoulos, PhD, MBA, President & CEO of Athos. "We are excited to collaborate with Vultr and Dell to
+empower our AI computational team to achieve this goal by leveraging the power of NVIDIA H100 GPUs at scale.
+With Vultr's support, we have been able to minimize downtime and maximize productivity throughout the business."
+
+Learn more about how to get started with Vultr here .
+
+*Omics refers to a field of study in biology focusing on the roles, relationships, and actions of various types of
+molecules that make up the cells of an organism. Omics includes various sub-disciplines, concentrating on different
+aspects of biological functions such as genomics, metabolomics, proteomics, transcriptomics, epigenomics,
+lipidomics, glycomics, and phenomics.
+
+About Athos
+
+At Athos, we untangle the complexity of autoimmune and cancer biology by evaluating diseases at the molecular
+level. The Athos drug development platform begins with the interrogation of tens of thousands of high-quality patient
+samples and data sourced from premier global hospital systems. We then develop precision, first-in-class,
+therapeutics by implementing a systems biology approach and stratifying patients into specific molecular subtypes.
+Athos identifies novel drug targets (hubs) by integrating clinical and molecular datasets into the biological network
+of a disease (the disease interactome) and matches them to its small molecule computational and medicinal
+chemistry platforms. Our fully autonomous AI/ML analytical platform includes the Athos data lake, singular well-
+established omics workflows, and an integrative deep machine learning engine. The co-founders of Athos include
+one of the founders of Kite Pharma (acquired for $12B), the medicinal chemist behind two multi-billion-dollar FDA-
+approved drugs (Xtandi & Erleada), and the discoverer of the miR-124 drug target, currently in a Phase III IBD trial.
+Along with ATH-063, the Company's lead drug compound for Inflammatory Bowel Disease, the Athos pipeline
+includes small molecule approaches for various autoimmune diseases and cancer.
+
+Additional information about Athos Therapeutics can be found at https://athostx.com/
+
+                                                                                                   Page 3 of 3
+   AI-based Small Molecule Therapeutics Pioneer Athos Therapeutics Selects Vultr for Secure AI Training in the
+                            Cloud Athos accelerates the development of precision....
+
+Contact: info@athostx.com
+
+About Constant and Vultr
+
+Constant, the creator and parent company of Vultr, is on a mission to make high-performance cloud computing
+easy to use, affordable, and locally accessible for businesses and developers worldwide. Vultr has served over 1.5
+million customers across 185 countries with flexible, scalable, global Cloud Compute, Cloud GPU, Bare Metal, and
+Cloud Storage solutions. Founded by David Aninowsky and completely bootstrapped, Vultr has become the world's
+largest privately-held cloud computing company without ever raising equity financing. Learn more at:
+www.vultr. com .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240618408290/en/
+
+
+CONTACT: Janabeth Ward
+
+vultrpr@scratchmm.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: June 18, 2024
+
+
+  

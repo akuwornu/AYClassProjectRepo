@@ -1,0 +1,212 @@
+
+
+                                                                                                    Page 1 of 4
+      Red Hat Simplifies Workload Diversity Across the Hybrid Cloud With Latest Version of Red Hat OpenShift
+
+
+
+
+ Red Hat Simplifies Workload Diversity Across the Hybrid Cloud With Latest
+                       Version of Red Hat OpenShift
+                                                     Targeted News Service
+                                           July 17, 2024 Wednesday 7:00 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1676 words
+Byline: Targeted News Service
+Dateline: RALEIGH, North Carolina
+
+Body
+
+
+Red Hat, a provider of open source software solutions, issued the following news release OpenShift:
+
+***
+
+Red Hat OpenShift 4.16 adds new capabilities in support of virtualized workloads and edge deployments to further
+extend consistency across applications, from AI-enabled to traditional
+
+***
+
+Red Hat, Inc., the world's leading provider of open source solutions, today introduced new capabilities and
+enhancements for Red Hat OpenShift, the industry's leading hybrid cloud application platform powered by
+Kubernetes, as well as the general availability of Red Hat Advanced Cluster Security Cloud Service. The new
+features, delivered with the general availability of Red Hat OpenShift 4.16, are designed to help organizations more
+easily develop, connect and enhance the security of diverse workloads for a more consistent experience across
+applications and environments.
+
+Delivering better experiences and driving customer satisfaction are at the center of most organization's IT goals. To
+do so, they frequently look to intelligent apps, including both AI-enabled applications and edge applications, that
+allow for insights to be delivered more quickly wherever they are needed. The technology decisions made today
+around these applications and more are often in support of setting organizations up for an AI and edge-focused
+future. However, it's not as simple as purely adopting the latest AI technology, as those systems and platforms also
+need to run in harmony with critical traditional applications and infrastructure like virtualized environments.
+
+The latest enhancements to Red Hat OpenShift are designed to help organizations connect their disparate, diverse
+workloads and create a more consistent management and deployment experience, wherever an application lives
+across the hybrid cloud and regardless of whether the application is a traditional workhorse or built to harness AI
+innovation.
+
+                                                                                                   Page 2 of 4
+     Red Hat Simplifies Workload Diversity Across the Hybrid Cloud With Latest Version of Red Hat OpenShift
+
+A modern option for virtualization
+
+As the virtualization landscape continues to evolve, many organizations are looking to migrate existing virtualized
+workloads to a platform that can run virtual machines (VMs) side-by-side with modern containerized applications
+and serverless functions with the ability to modernize those VM-based applications when needed. Red Hat is now
+offering directly and through its partners a Virtualization Migration Assessment that will take organizations through a
+risk assessment methodology to help determine the best path forward for migration away from a legacy
+virtualization solution.
+
+The latest enhancements in Red Hat OpenShift for virtualization use cases help further simplify migrating and
+modernizing virtualized workloads. New features include:
+
+Metro disaster recovery provides regional disaster recovery for virtual machines (VMs) that use storage deployed
+on Red Hat OpenShift Data Foundation in conjunction with Red Hat Advanced Cluster Management for Kubernetes
+for management.
+
+Hot-add CPU provides users the ability to add additional vCPU resources to a running VM in a declarative manner
+for improved memory density with safe memory overcommit, and enables users to more easily scale up VMs with
+CPU hotplug.
+
+Multi-cluster virtualization monitoring with Red Hat Advanced Cluster Management enables users to view all VMs
+across multiple Red Hat OpenShift clusters as well as collect and more quickly build reports for the VMs.
+
+Improving the customer experience at the edge
+
+Minimizing service downtime is paramount to delivering a quality experience for customers and is particularly
+important for those applications at the edge. To enhance service quality at the edge, Red Hat OpenShift 4.16,
+introduces a "shift left" approach with image-based updates (IBU) for single node OpenShift. Single node OpenShift
+users can now shift a large portion of the update process to a pre-production environment, which reduces the time
+spent updating at the production site. Additionally, if an update fails or the application doesn't return to a functioning
+state, it can be rolled back to the pre-update state. This helps to restore service as quickly as possible, regardless
+of whether the update is successful or not.
+
+Additionally, the OpenShift-based Appliance Builder is now available as a technology preview to Red Hat partners
+seeking to build turnkey, customized appliances with self-contained Red Hat OpenShift instances. The OpenShift-
+based Appliance Builder is a container-based utility that builds a disk image that includes the Agent-based Installer,
+which is used to install multiple Red Hat OpenShift clusters. This makes it easier to install Red Hat OpenShift at
+remote edge sites at scale, as it can be done with limited or no connectivity and without the need for an external
+registry.
+
+Scaling workload security across the hybrid cloud
+
+According to Red Hat's 2024 State of Kubernetes Security Report, security issues continue to impact business
+outcomes, with 67% of respondents indicating that their companies delayed or slowed application development as a
+result of rising concerns. Additionally, the complexity of container-based Kubernetes environments is also a factor
+that some organizations still struggle with.
+
+Helping organizations take a security-forward approach to building, deploying and maintaining cloud-native
+applications at scale, Red Hat Advanced Cluster Security Cloud Service is now generally available. Red Hat
+Advanced Cluster Security Cloud Service is a fully managed Kubernetes-native security cloud service that supports
+both Red Hat OpenShift as well as non-Red Hat Kubernetes platforms, including Amazon Elastic Kubernetes
+Service (EKS), Google Kubernetes Engine (GKE) and Microsoft Azure Kubernetes Service (AKS). With Red Hat
+Advanced Cluster Security Cloud Service, organizations can start securing workloads within minutes while scaling
+more easily across clouds and geographies without the additional overhead or complexities.
+
+Availability
+
+                                                                                                    Page 3 of 4
+      Red Hat Simplifies Workload Diversity Across the Hybrid Cloud With Latest Version of Red Hat OpenShift
+
+Red Hat OpenShift 4.16 is now generally available. More information, including how to update to the latest version,
+is available here. Red Hat Advanced Cluster Security Cloud Service graduates from limited availability to general
+availability. More information is available here and you can try a no-cost 60 day trial here.
+
+Supporting Quotes
+
+Mike Barrett, vice president and general manager, Hybrid Cloud Platforms, Red Hat
+
+"Being able to more quickly modernize both infrastructure and applications are crucial capabilities to better support
+customer needs -- but this can't be done overnight. As organizations make technology decisions in support of their
+AI strategies, both for today and tomorrow, they need platforms that set them up for future success while also
+balancing the demands of their legacy applications and environments. With Red Hat OpenShift 4.16, organizations
+can focus on both incremental improvements and modernization. Red Hat OpenShift helps customers prepare their
+infrastructure for the demands of AI while managing and maintaining traditional, mission-critical applications and
+infrastructure like virtualized environments, all from a single platform."
+
+***
+
+Additional Resources
+
+* Learn more about Red Hat OpenShift 4.16
+
+* Read the blog on Red Hat Advanced Cluster Security Cloud Service
+
+* Learn more about Red Hat Device Edge
+
+***
+
+Connect with Red Hat
+
+* Learn more about Red Hat (https://red.ht/IOS5vm)
+
+* Get more news in the Red Hat newsroom (https://red.ht/1qeXuma)
+
+* Read the Red Hat blog (https://red.ht/1zzgkXp)
+
+* Follow Red Hat on Twitter (https://bit.ly/2FVq6ik)
+
+* Join Red Hat on Facebook (https://on.fb.me/JVGXMi)
+
+* Watch Red Hat videos on YouTube (https://bit.ly/JEkzvc)
+
+* Follow Red Hat on LinkedIn (https://linkd.in/1AlOAXq)
+
+***
+
+ABOUT RED HAT
+
+Red Hat is the world's leading provider of enterprise open source software solutions, using a community-powered
+approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red
+Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on
+our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning
+support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner
+to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can
+help organizations prepare for the digital future.
+
+***
+
+                                                                                                    Page 4 of 4
+      Red Hat Simplifies Workload Diversity Across the Hybrid Cloud With Latest Version of Red Hat OpenShift
+
+FORWARD-LOOKING STATEMENTS
+
+Except for the historical information and discussions contained herein, statements contained in this press release
+may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of
+1995. Forward-looking statements are based on the company's current assumptions regarding future business and
+financial performance. These statements involve a number of risks, uncertainties and other factors that could cause
+actual results to differ materially. Any forward-looking statement in this press release speaks only as of the date on
+which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-
+looking statements.
+
+Red Hat, Red Hat Enterprise Linux, the Red Hat logo, JBoss, Ansible, Ceph, CloudForms, Gluster and OpenShift
+are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the U.S. and other countries.
+Linux(R) is the registered trademark of Linus Torvalds in the U.S. and other countries. The OpenStack Word Mark
+is either a registered trademark/service mark or trademark/service mark of the OpenStack Foundation, in the United
+States and other countries, and is used with the OpenStack Foundation's permission. Red Hat is not affiliated with,
+endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.
+
+***
+
+Original text and links presented by source here: https://www.redhat.com/en/about/press-releases/red-hat-
+simplifies-workload-diversity-across-hybrid-cloud-latest-version-red-hat-openshift
+
+[Category: Computer TechnologyBiz]
+
+Copyright Targeted News Services
+
+MSTRUCK-8727265 MSTRUCK
+
+
+Load-Date: July 18, 2024
+
+
+  

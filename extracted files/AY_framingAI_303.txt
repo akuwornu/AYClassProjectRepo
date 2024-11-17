@@ -1,0 +1,125 @@
+
+
+                                                                                                         Page 1 of 3
+                              Big Tech is stress testing the grid. It doesn't have to be a disaster.
+
+
+
+
+         Big Tech is stress testing the grid. It doesn't have to be a disaster.
+                                                          Energywire
+                                                     July 9, 2024 Tuesday
+
+
+
+Copyright 2024 Politico LLC All Rights Reserved
+
+Section: TODAY'S STORIES; Vol. 10; No. 9
+Length: 1641 words
+
+Body
+
+
+By Jason Plautz America's digital economy is turning electricity into a growth industry after years of flat demand.
+Evidence of what's coming is all around us. Nvidia, the dominant maker of high-end artificial intelligence chips, is
+pressing its cloud-computing customers , which include Amazon, Google, Microsoft and Meta, on where they will
+find the power needed to run servers in the age of generative AI. Microsoft has agreed to buy more than 10
+gigawatts of renewable energy - roughly the equivalent of 10 large nuclear reactors - to power data centers in the
+United States and Europe. And energy demand in West Texas could double because of the influx of data centers
+and cryptocurrency miners hoping to generate electricity from natural gas produced nearby.
+
+The digital revolution has the potential to overwhelm utilities and regional power grid operators tasked with
+managing electricity flows. According to McKinsey , data center load is forecast to climb from 19,000 megawatts in
+2023 to 35,000 MW by the end of the decade. That's the same as plugging more than 11 million homes into the
+power grid. But interviews by POLITICO's E&E News show electricity growth could cut a few different ways.
+Technology giants at the top of the Fortune 500 aren't the only ones driving eye-popping projections. They're just
+the first swell in a wave of future demand from electric vehicles, electric heating and the surge in American
+manufacturing. Taken together, the trends could upend U.S. targets for slashing carbon pollution if electric utilities
+fire up old coal plants or build on their natural gas-fired generation. Virginia, a hot spot for data center growth, has
+become a closely watched test case, with fears that dominant utilities could slow their energy transition plans to
+meet demand. Matt Gardner, vice president for electric transmission at Dominion Energy, said at a White House
+event in May that the utility expects its overall demand to double in 15 years. "That's quite a challenge," Gardner
+said. But experts also said the transition to high-powered computing is at an early stage. It's an opportunity for
+electricity companies and tech giants to learn - before they settle into steeper growth curves. "It shouldn't be that
+hard to absorb on the grid, especially with the amount of generation going online," said Arman Shehabi, a staff
+scientist at the Lawrence Berkeley National Laboratory. "They're giving some utilities strain, but there are new
+sources of electricity out there. And there's an opportunity to be more creative in how that growth is built out." At
+data centers, vast rooms of computer servers need to be kept cool to prevent hardware from shutting down. An
+estimated 40 percent of their electricity demand is for air conditioning. According to the Department of Energy , data
+centers consume from 10 to 50 times more per unit of floor space than a commercial office building. And they
+typically need to be online all the time. That makes it harder to shift consumption away from peak periods of
+demand. T. Bruce Tsuchida, a wholesale power markets analyst for the Brattle Group, said the "lumpy" load from
+data centers is making it harder to forecast just how much power those sites will use, and when. A report co-
+authored by Tsuchida said utilities should improve their forecasting with an expected growth rate of 9 percent in
+
+                                                                                                        Page 2 of 3
+                         Big Tech is stress testing the grid. It doesn't have to be a disaster.
+
+data center load through 2030. "One of the key things we want to get across is that this is real, this is happening,"
+Tsuchida said. "Don't assume it's all going to be hunky dory. It's time to think about how to adapt your planning."
+Finding flexibility Those forecasts aren't as simple as matching up a megawatt of new data center load with a
+megawatt of new generation. Environmentalists have warned that doing that at a time when electricity load is
+growing could lead to more fossil fuel plants on the grid, jeopardizing climate goals. "The opportunity lies in being
+more collaborative and more forward-thinking about what large loads can do to support the grid," said Alexandra
+Gorin, a lead analyst of utility reliability for the clean energy think tank RMI. "This isn't about one company or one
+facility. Are there collective actions we could take to mitigate the pressure on grid capacity?" What flexibility looks
+like is still taking shape. Data centers aren't typically good candidates for demand response programs, where a
+large load center (or a collection of households) turns down electricity use temporarily when the grid is particularly
+stressed. Cryptocurrency mines - which run banks of computers to validate digital currency transactions - have
+touted their ability to turn down during heat waves or peak demand periods, but their operations are less
+fundamental to the tech economy. Not every data center functions the same way. A March report from Sidewalk
+Infrastructure Partners , the infrastructure spinoff from Google parent company Alphabet, found that under certain
+applications, data centers can "provide large-scale flexibility to the grid." Planned properly, the report said, data
+centers could help shave peak load, soak up excess wind and solar power, and utilize existing transmission that
+might otherwise be stranded. "One of the interesting elements about artificial intelligence is that certain AI
+computer loads are more flexible and can be orchestrated," said Sayles Braga, a senior partner at Sidewalk
+Infrastructure Partners. "You have to take a full systems approach and recognize that different data center design
+and different assets on site will interact with the grid differently." Even a center that demands power 99.9 percent of
+the time, Braga said, can be flexible for that remaining 0.1 percent - a slight decrease in demand that could be
+scheduled to coincide with a summer evening when utilities are feeling a crunch. And for tech companies with a
+national or international footprint, demand can even be distributed to focus the most intensive computer use in
+areas where there is cheaper and cleaner electricity available. Google has piloted a demand response program that
+shifts non-urgent tasks away from data centers when called on by electricity providers. For example, Google
+scheduled power reductions in the evening hours between December 2022 and March 2023 in European countries
+during natural gas shortages and lowered consumption in U.S. states during extreme weather events. "While we
+recognize that grid planning and management is ultimately the role of utilities and grid operators, the data center
+industry is committed to leaning in as an engaged partner," said Josh Levi, president of the Data Center Coalition.
+"Collectively, we can meet the moment and ensure a clean, reliable, affordable, and resilient electric system that
+supports the digitization of our economy, widespread vehicle and building electrification, the onshoring of advanced
+manufacturing and other 21st century economic drivers." An opportunity for insight Clean energy advocates also
+fear that utilities might delay the retirement of fossil fuel plants - or even add new ones to the grid - to meet the
+needs of data centers and other new users. The Energy Information Administration estimates that nearly 17,000
+MW of new gas plants will be built by 2027, although not all of those plants may come to fruition. That comes even
+as some companies are pledging to run their operations only with clean energy. Google says it has a goal to run its
+data centers on carbon-free electricity by 2030, while Amazon has a net-zero goal by 2040. That's led to tech
+companies being some of the biggest initiators of clean energy purchasing. In May, Microsoft partnered with
+investment group Brookfield Renewable Partners on a deal to supply that by 2025, it will support enough wind and
+solar projects to add 9,800 MW of renewable power to the grid across 24 states and 74 countries. An agreement
+between Georgia Power, state officials and the Clean Energy Buyers Association this year will create a new clean
+energy program that allows large-load customers such as tech companies to bring third-party clean-energy projects
+to the grid, helping to offset their potential impact by adding new generation. "This particular program allows
+companies to procure energy that's beyond renewables," said Priya Barua, the senior director of market and policy
+innovation at CEBA, a group that includes more than 400 companies committed to buying clean power. "It could be
+storage or geothermal or modular nuclear. Having this shared arrangement with the utility means there can be
+efficiencies and potentially eliminate the need for peaker plants that tend to be natural gas." Buying clean power,
+however, does not necessarily ease the impacts to the grid. With nearly round-the-clock needs, data centers can't
+rely solely on wind and solar power. Sidewalk Infrastructure Partners' Braga said that pairing data centers with
+batteries for backup power can both reduce their carbon footprint and offer a new resource for the grid, but that the
+technology and interaction with the grid are still developing. Shehabi of the Berkeley lab - who is working on a
+report on data center use for Congress - said that there are still potential efficiencies to be found as data centers
+develop. Previous waves of tech growth, he said, ultimately did not crash the grid because companies found ways
+
+                                                                                                         Page 3 of 3
+                         Big Tech is stress testing the grid. It doesn't have to be a disaster.
+
+to operate with less power or because innovations such as cloud computing made the industry more efficient. Still,
+he said, it's important to bring on data centers responsibly before more sectors electrify and demand skyrockets.
+"Data centers are a good first partner for dealing with the growth in generation and transmission. There's more
+flexibility there than in any other growth in the future," he said. "This is a great initial run to see how the grid can
+handle growth."
+
+
+Load-Date: August 6, 2024
+
+
+  

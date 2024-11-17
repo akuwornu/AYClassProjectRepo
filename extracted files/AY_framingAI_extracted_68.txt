@@ -1,0 +1,144 @@
+
+
+                                                                                                        Page 1 of 3
+                            Intermap Wins Phase Two of Prime Contract with the U.S. Air Force
+
+
+
+
+        Intermap Wins Phase Two of Prime Contract with the U.S. Air Force
+                                                         GlobeNewswire
+                                              August 19, 2024 Monday 4:30 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: BUSINESS CONTRACTS; PRODUCT / SERVICES ANNOUNCEMENT
+Length: 1531 words
+
+Body
+
+
+Phase two revenue is 5x the size of phase one
+
+The U.S. Department of Defense leverages Intermap’s commercial R&D
+
+Operating in GPS-denied environments is mission critical
+
+Utilizing Intermap’s proprietary data and technology to achieve assured positioning, navigation, and timing for air,
+ground, space, near-space and airborne systems without GPS
+
+DENVER, Aug. 19, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
+(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today
+announced it won a second phase in its prime contract with the U.S. Air Force to support its development of
+navigation solutions for GPS-denied environments. This program highlights another example of the U.S.
+Department of Defense (DOD) leveraging Intermap’s commercial research and development.
+
+Intermap is a pioneer and leads the industry in collecting, building and utilizing global-scale and highly precise, raw
+data, sourced from across the electromagnetic spectrum and extended to gridded or meshed 3D elevation models.
+Intermap is the only company with a global archive of precise, multi-frequency, multi-look SAR that is collected in
+slant-range and co-registered in real-time with proprietary, complex algorithms. The Air Force will leverage this
+unique capability and extensive archive, which is the world’s largest, to advance its next generation of positioning,
+navigation and timing (PNT) systems. Further to the announcement on December 20, 2021, under this prime
+contract, Intermap will provide relevant data, operational experience, applied technology, low-latency collection and
+processing capabilities, engineering and scientific support.
+
+                                                                                                       Page 2 of 3
+                        Intermap Wins Phase Two of Prime Contract with the U.S. Air Force
+
+Phase two of this prime contract is 5x the revenue of phase one. Intermap is developing plans now for a future
+phase that will be materially larger than phase two and may lead to graduating these mission-critical capabilities to
+a program of record, such as Advanced Battlefield Management Systems (ABMS). Further to the announcement on
+September 29, 2022, Intermap is a team member on ABMS.
+
+“As recent experience deploying Western weapons platforms in large-scale battlefield environments confirms,
+adversary    electronic  warfare     capabilities  increasingly   interfere  with   GPS,    challenging dynamic
+maneuver, communications, navigation, ISR, missile early warning and tracking superiority,” said Patrick A. Blott,
+Intermap Chairman and CEO. “In these GPS-denied environments, battlefield performance of terrestrial, airborne
+and space platforms require precise PNT to enable multidomain operations. Intermap is working on this problem by
+leveraging several technological capabilities under multiple announced DOD and commercial contracts for GPS-
+denied environments, including with the U.S. Air Force, NASA Artemis III, and an undisclosed commercial satellite
+communications company.”
+
+On July 10, 2024, at a change of command ceremony at the National Museum of the United States Air Force in
+Dayton, Ohio, the incoming and outgoing commanders of the Air Force Research Laboratory (AFRL) spoke about
+the group’s objectives. “I believe the mission of AFRL has never been more critical,” said Brig. Gen. Jason E.
+Bartolomei, Commander, Air Force Research Laboratory, Air Force Materiel Command, Wright-Patterson Air Force
+Base, Ohio, and the Technology Executive Officer supporting the U.S. Air Force and U.S. Space Force. “The future
+of the fight depends on our innovations, technical wizardry, and our role to support and integrate within the air and
+space domains. Like the past, our success depends on the brilliant, patriotic, hardworking, faithful men and women
+from all ranks and all walks of life banding together to deliver game-changing technology.”
+
+“AFRL is trying to build that affordable, competitive, continuous pipeline of technologies that we can then put into
+programs of record and field,” said General Duke Z. Richardson, AFRL’s previous Commander.
+
+Learn more about Intermap’s contract vehicles at intermap.com/contract-vehicles.
+
+Communications SecurityCertain proprietary data, technical information, software and scientific approaches
+provided by Intermap under the contract represent critical technology as defined by the DOD and is released by
+Intermap on the condition it will not be released to another nation and will be used for military purposes only with
+specific authority from the DOD in compliance with Intermap’s end user license agreement. The technology is
+restricted for DOD use only as Controlled Unclassified Information (CUI) whose export is restricted by the Arms
+Export Control Act (Title 22), Export Administration Act (Title 50), DODI 5520 Safeguarding Controlled Unclassified
+Information, International Traffic in Arms Regulation (ITAR), under which unauthorized disclosure is subject to sever
+criminal penalties. Intermap is subject to Communications Security (COMSEC) review.
+
+Intermap Reader AdvisoryThis material is based upon work supported by the Air Force Research Laboratory under
+Contract No. FA865124CB011. Any opinions, findings, and conclusions or recommendations expressed in this
+material are those of the author(s) and do not necessarily reflect the views of the Air Force Research Laboratory.
+
+Certain information provided in this news release, including reference to revenue growth, constitutes forward-
+looking statements. The words "anticipate", "expect", "project", "estimate", "forecast", “will be”, “will consider”,
+“intends” and similar expressions are intended to identify such forward-looking statements. Although Intermap
+believes that these statements are based on information and assumptions which are current, reasonable and
+complete, these statements are necessarily subject to a variety of known and unknown risks and uncertainties.
+Intermap’s forward-looking statements are subject to risks and uncertainties pertaining to, among other things, cash
+available to fund operations, availability of capital, revenue fluctuations, nature of government contracts, economic
+conditions, loss of key customers, retention and availability of executive talent, competing technologies, common
+share price volatility, loss of proprietary information, software functionality, internet and system infrastructure
+functionality, information technology security, breakdown of strategic alliances, and international and political
+considerations, as well as those risks and uncertainties discussed Intermap’s Annual Information Form and other
+securities filings. While the Company makes these forward-looking statements in good faith, should one or more of
+these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary
+
+                                                                                                      Page 3 of 3
+                       Intermap Wins Phase Two of Prime Contract with the U.S. Air Force
+
+significantly from those expected. Accordingly, no assurances can be given that any of the events anticipated by the
+forward-looking statements will transpire or occur, or if any of them do so, what benefits that the Company will
+derive therefrom. All subsequent forward-looking statements, whether written or oral, attributable to Intermap or
+persons acting on its behalf are expressly qualified in their entirety by these cautionary statements. The forward-
+looking statements contained in this news release are made as at the date of this news release and the Company
+does not undertake any obligation to update publicly or to revise any of the forward-looking statements made
+herein, whether as a result of new information, future events or otherwise, except as may be required by applicable
+securities law.
+
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
+terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
+patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
+datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
+elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
+and machine learning, providing customers with critical information to understand their terrain environment. By
+leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
+Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
+enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
+Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
+wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
+telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
+transportation.
+
+For more information, please visit www.intermap.com or contact:Jennifer BakkenExecutive Vice President and
+CFOCFO@intermap.com +1 (303) 708-0955
+
+Sean PeasgoodInvestor RelationsSean@SophicCapital.com +1 (647) 260-9266
+
+
+Load-Date: August 19, 2024
+
+
+  
