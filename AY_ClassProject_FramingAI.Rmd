@@ -6,26 +6,48 @@ output: html_document
 ---
 
 AI & Disaster Framing through Organizational Press Releases
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+#Loading relevant packages and libraries
+```{r}
+# Install the striprtf package (if not installed)
+install.packages("striprtf")
+# Install the readtext package (if not installed)
+install.packages("readtext")
+# Load the library
+library(readtext)
+# Load the library
+library(striprtf)
+
 ```
 
-## R Markdown
+##Loading articles for study
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+```{r}
+# Read and extract plain text from the .rtf file
+file_path <- "C:/Users/elikp/OneDrive/Desktop/My_R_Class/AYClassProjectRepo/FramingAI_data/data_one/framingAI (1).RTF"
+#writeLines writes this text to a text file
+writeLines(text, "C:/Users/elikp/OneDrive/Desktop/My_R_Class/AYClassProjectRepo/FramingAI_data/data_one/framingAI (1).txt")
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+text_data <- readLines(file_path)%>% strip_rtf()
+# View the plain text content
+print(text_data)
 ```
 
-## Including Plots
+##
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r}
+
+
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+# Install the striprtf package (if not installed)
+install.packages("striprtf")
+
+# Load the library
+library(striprtf)
+
