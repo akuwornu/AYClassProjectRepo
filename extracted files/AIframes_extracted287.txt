@@ -1,0 +1,173 @@
+
+
+                                                                                                          Page 1 of 4
+                     Can AI Help Fight Climate Breakdown? A Conversation With MIT 's Priya Donti
+
+
+
+
+    Can AI Help Fight Climate Breakdown? A Conversation With MIT's Priya
+                                    Donti
+                                                             Eco Watch
+                                             July 11, 2024 Thursday 4:30 AM GMT
+
+
+
+Copyright 2024 Eco Watch Provided by Syndigate Media Inc. All Rights Reserved
+
+
+
+
+Length: 1587 words
+
+Body
+
+
+Can AI be used productively for the greater good? More specifically, can AI be used for the urgent goal of
+improving the Earth's climate and reducing carbon dioxide emissions? Might AI help slow down, or even stop, some
+of the climate catastrophes that are already under way?
+
+EcoWatch spoke with Priya Donti, the co-founder and chair of Climate Change AI, a non-profit dedicated to
+exploring the intersection of climate change and machine learning.
+
+Where would you say AI is right now in relation to climate change?
+
+AI is being used in all sorts of ways, from helping us to better forecast wind and solar on power grids, to monitoring
+greenhouse gas emissions from space, to helping us optimize heating and cooling systems and buildings to be
+more efficient, and to helping us accelerate the discovery of next-generation batteries.
+
+I'll point specifically to the use of AI for climate modeling and weather forecasting. We've started to see some
+powerful approximate models for weather and climate forecasting that are scalable, that run very much more
+efficiently than their physics-informed counterparts. And I think we've also started to see a lot more
+commercialization or deployment of some of these techniques in the wild. You see a lot more startups that are
+doing building-energy optimization using AI and machine learning, or insurance companies that are assessing by
+using AI to understand climate risks.
+
+I would say the general understanding of where AI can be impactfully used for this is still lower than I think it should
+be.
+
+Right now, is AI having any impact on these older oil or fossil fuel companies that are still extracting oil, which might
+be argued are the major problem when it comes to climate change? And what about other industries?
+
+                                                                                                           Page 2 of 4
+                   Can AI Help Fight Climate Breakdown? A Conversation With MIT 's Priya Donti
+
+I think it was back in 2020 that Greenpeace released their Oil in the Cloud report, which talked about ways that AI
+was being used to facilitate extraction, exploration, extraction, process optimization, and advertising. And I think
+their estimate at the time was that AI would generate $425 billion of revenue for the oil and gas industry by 2025. I
+haven't seen sort of the retroactive assessment of those numbers, but that's a big one.
+
+AI is also used for targeted advertising of on-demand delivery, all these things that really increase the amount of
+societal consumption without necessarily always making us happier but in ways that certainly increase emissions.
+AI shapes how we consume information online and so has implications for how we're consuming climate
+information or misinformation and the generation of that information as well.
+
+And AI is also a key driver of technologies like autonomous vehicles, which are not often thought of in the context of
+climate, but depending on how they go, could be good or bad for the transition of the transportation sector.
+
+Would you say it's still early times in terms of AI impact?
+
+It is, and I think that right now, a lot of the debate is around the fact that it also has its own carbon and hardware
+footprint. And that's real as well. That's something we absolutely should be paying attention to.
+
+Give us a rundown of some of the sectors where AI is most effective in climate change right now.
+
+AI is being used across virtually every single sector in climate action. AI is being used for things like forecasting
+solar and wind on power grids. There's some research at this point on how you actually use AI to better optimize
+the power grid itself to accommodate the fact that lots of variable renewables are coming in.
+
+AI is being used in the buildings and city planning sector, not just for things like energy efficient heating and cooling,
+but also speeding up simulation models that are showing how wind is flowing through the cities. You can
+understand the energy efficiency characteristics of the overall city and as a result plan the city overall better.
+
+In the agricultural sector, there's a lot of work using AI for large-scale crop yield monitoring and crop-type mapping
+in order to understand what is being grown where, what are the yields looking like, and how does that shape
+agricultural policy to better adapt to the effects of climate change. And there are also applications of AI for precision
+agriculture to try to both increase productivity of agriculture, but also, depending on how it's deployed, reduce its
+impacts.
+
+In the climate science space, there's a lot of work trying to basically approximate all or parts of climate models using
+machine learning to help them run faster, which allows you to try out more scenarios and hopefully get a finer-
+grained understanding of what's going on. And on the disaster response side of things, the UN satellite centers are
+already using AI to do real-time flood mapping in order to understand from satellite imagery the extent of flood and
+how they can best respond real-time.
+
+Is there an example where AI is responsible for reducing emissions at all?
+
+DeepMind famously had an article come out that said, we're optimizing Google's data center using AI, and this is
+how much energy we were able to save by turning on and off the cooling system. Building heating and cooling
+optimization is an example I gave in a way that has a direct impact on reducing greenhouse gas emissions.
+
+How about concrete making, a huge emitter of emissions, or other industries in need of climate modernization?
+
+With concrete, with batteries, with electro fuels, the general thing that happens is that you have people who are
+trying to figure out how to synthesize this new thing, and they must try to figure out what thing I'm going to
+synthesize, what experiment am I going to run. It's going take some time to do that. Where AI and machine learning
+have been used there is to analyze the outcomes of past experiments and more intelligently suggest which
+experiments to try next to try to reduce the number of design cycles it takes to create a better battery, or cement,
+whatever.
+
+What is the barrier to implementation of a change like that from the point of view of business owners?
+
+                                                                                                            Page 3 of 4
+                   Can AI Help Fight Climate Breakdown? A Conversation With MIT 's Priya Donti
+
+I think it's this coupling of technologies with business models, right? So even if you have a technology, who is
+selling it? What's your pathway to deployment? Is it only a new building that you can do, or is it compatible with
+retrofitting an old building? I think some of these commercial and deployment-oriented aspects need to be ironed
+out.
+
+What are some recent success stories with your nonprofit in the climate change space?
+
+Our summer school last year had 10,000 people registered for it. In terms of specific projects, we have, for
+example, entities working on projects as wide-ranging as working with the government of Fiji directly to improve
+their flood forecasting, to a future project that is developing better and more localized sensing for the Ghanian
+power grid to identify places where there are large inefficiencies, which can then be reduced, which means saving
+emissions there.
+
+How does AI dovetail with actual legislation to reduce emissions?
+
+I think the biggest way AI can play a role is facilitating information transparency. A commonly cited example is in the
+UN climate negotiations. Different countries will submit their own emissions inventories that they have compiled
+domestically in order to enter the conversation. And, you know, I think many countries are doing this honestly. But
+of course, they may be limited by certain tools in terms of gathering these inventories faithfully.
+
+In principle there is an incentive to not truthfully report your emissions because of course that has different
+implications for how your progress is tracked.
+
+Initiatives like Climate Trace are trying to come up with an independent third-party estimate of greenhouse gas
+emissions using satellite imagery on-the-ground data in a publicly available and publicly auditable way. And the way
+you do that at scale is by leveraging AI for large-scale data analysis. I think this information transparency angle is
+important for policy.
+
+I have a lot of skepticism towards AI and climate change.
+
+I think a healthy amount of skepticism is warranted. AI is not a silver bullet. It's not magically going to create this
+scenario where all of a sudden, it's like, we're saved, we don't have to make hard choices, nothing like that. But
+there are certain situations where a climate-related workflow is facilitated by being able to analyze data at scale or
+to have a more precise forecast or to optimize a system more efficiently. AI can play a role in those kinds of
+solutions.
+
+AI is a support. The reason I work on AI for climate is I think it's a really powerful tool. Addressing climate change
+requires us to leverage all the approaches and tools we have at our disposal in the ways where they're best suited
+to just make it all work and move forward quickly. And AI is among that set of tools. I don't think AI necessarily
+deserves to be put on a pedestal above other tools. It's a support alongside everything else.
+
+People will ask things like: Can I just put all of the world's data into an AI algorithm and have it spit out what policy I
+should do? Policies involve value judgments, hard tradeoffs. You're not just going to get away with putting data into
+an algorithm. There's no objective answer to these things.
+
+Priya Donti is an assistant professor and the Silverman (1968) Family Career Development Professor at MIT EECS
+and LIDS. She is the co-founder and executive director of Climate Change AI.
+
+The post Can AI Help Fight Climate Breakdown? A Conversation With MIT's Priya Donti appeared first on
+EcoWatch.
+
+
+Load-Date: July 11, 2024
+
+                                                                                                Page 4 of 4
+                  Can AI Help Fight Climate Breakdown? A Conversation With MIT 's Priya Donti
+
+
+

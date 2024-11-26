@@ -1,0 +1,136 @@
+
+
+                                                                                                  Page 1 of 3
+     Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
+                          Subscriber Experience Eight new concepts at the Fiber Br....
+
+
+
+
+ Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband's
+Ability to Advance Connectivity, Subscriber Experience; Eight new concepts
+at the Fiber Broadband Association's annual conference will help accelerate
+          fiber's future applications throughout the Connected Home
+                                                   Business Wire
+                                      July 10, 2024 Wednesday 1:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1125 words
+Dateline: WASHINGTON
+
+Body
+
+
+The Fiber Broadband Association (FBA) today announced the Proof of Concept (PoC) demonstrations planned for
+Fiber Connect 2024 , July 28-31, in Nashville, Tenn. Seventeen companies will participate in eight PoC
+demonstrations that showcase how Connected Home innovations and services improve subscriber experience by
+leveraging the capacity, scale, latency, and/or security that only fiber broadband provides.
+
+"These concepts will demonstrate the power of the fiber broadband ecosystem on the subscriber experience and
+fiber's ability to support disruption, change market dynamics, and push the boundaries of possibilities," said Evann
+Freeman, Fiber Broadband Association Board Member and Conference Committee Chair, and Vice President of
+Government & Community Relations at EPB of Chattanooga. "Our industry has some of the brightest minds at work
+to solve the connectivity challenges ahead as we look to connect every household in America, push past current
+technology limitations, and open up new frontiers with AI, Machine Learning, Quantum Networking, and many other
+exciting innovations."
+
+Fiber Connect 2024 PoCs will be collaborative projects involving at least one member company of FBA or
+Broadband Forum (BBF), and many will leverage one of two BBF Connected Home specifications: BBF.247 GPON
+ONU , which focuses on multi-vendor interoperability between OLTs (Optical Line Terminals) and ONUs (Optical
+Network Units), or BBF.369 User Services Platform (USP), which represents a fully realized managed services
+ecosystem for adding value to the connected home. PoCs can also demonstrate one or more services and
+applications outside of these specifications, if they do not apply, that support the conference theme of "Accelerating
+our Fiber Future" and could include innovative IoT, Artificial Intelligence, security, and other Smart Home or
+connectivity options.
+
+"We are delighted to take part in the Fiber Connect PoC presentations and demonstrate how our standards enable
+seamless smart home services and subscriber management beyond the fiber connection point," said Ken Pyle,
+Director of Marketing at Broadband Forum. "These cutting-edge demonstrations will bring together key players from
+across the industry and highlight the importance of interoperability and standardization in creating a customer-
+centric ecosystem, while improving operational efficiency, time-to-market for new applications, and opening up
+business opportunities for service providers."
+
+                                                                                                 Page 2 of 3
+    Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
+                         Subscriber Experience Eight new concepts at the Fiber Br....
+
+The 2024 Proof of Concept demonstrations include:
+   •    Empowering Connectivity: Collaborative Approach to Overcoming Broadband Challenges in Unserved and
+        Underserved Communities - presented by Ciena, Heights Telecom, Cambridge Industries Group Inc, and
+        Axiros
+       •    This PoC implements a secure, flexible, and cost-effective broadband network to provide rural
+            connectivity while enabling network operators to deliver service differentiation and monetize their fiber
+            investment, generate more significant revenue, and form the basis for long-term financial success.
+   •    B2C Value-Added Services Automation to Maximize CSP Fiber Investments - presented by Incognito,
+        Harmonic, KAON Broadband
+       •    This PoC leverages network automation to reduce OPEX and uses standards and open APIs to reduce
+            IT costs and expedite time to market for new CSP products.
+   •    Fiber Optic Sensing in Telecom Applications - presented by Fiber Optic Sensing Association (FOSA), Luna
+        Innovations, and Underline Infrastructure
+       •    This PoC enables network operators to monitor physical cable plant to detect threats, prevent damage,
+            pinpoint and categorize events, and more.
+   •    Corteca Cloud as a USP-Based, Multi-Vendor Wi-Fi Management + Device Management Solution -
+        presented by Nokia and Singel
+       •    This PoC presents a multi-vendor management platform that supports device management, application
+            management, and Wi-Fi management of a 3rd party Wi-Fi access point in a mesh network.
+   •    Empowering Interoperability to Accelerate Fiber to the Home and Deliver Service Excellence - presented
+        by Calix and Zyxel Communications
+       •    This PoC simplifies integration between systems, devices, and managed services for the connected
+            home, dramatically improving operational efficiency and speed to market.
+   •    Wholesale Open Access for FTTH Networks - presented by Nokia and Condor Technologies
+       •    This PoC presents an enhanced wholesale API and UI for FTTH networks that give VNO tenants
+            autonomy and flexibility and gives operators the ability to increase take rate and ROI of their fiber
+            investment, attract more VNOs, and increase wholesale revenues by 23%.
+   •    Empowering Connectivity: Enhancing Short-Term Rentals with Flexible Internet Packages - presented by
+        CompaxDigital
+       •    This PoC demonstrates a flexible billing and customer management approach that makes it easy to
+            add additional services so short-term rental providers can increase revenue while enhancing customer
+            satisfaction.
+   •    Free Space Optical Communication - presented by Taara
+       •    This PoC showcases the role of wireless optical communication (WOC) technology in helping bridge
+            middle mile gaps in broadband infrastructure and highlights three use cases: fiber backup, high-
+            capacity backhaul at temporary or seasonal event venues, and disaster relief.
+
+PoCs will be presented in the Fiber Connect 2024 Expo Hall, July 29-30, and evaluated by leading industry
+analysts. Awards will be presented in the following categories: Most Innovative PoC, Best Community Impact, and
+Game Changer.
+
+To learn more about Fiber Connect 2024, visit the conference website here or subscribe to FBA's Fiber Forward
+Weekly newsletter here to stay updated on conference news and more.
+
+About the Fiber Broadband Association
+
+                                                                                                 Page 3 of 3
+    Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
+                         Subscriber Experience Eight new concepts at the Fiber Br....
+
+The Fiber Broadband Association is the largest and only trade association that represents the complete fiber
+ecosystem of service providers, manufacturers, industry experts, and deployment specialists dedicated to the
+advancement of fiber broadband deployment and the pursuit of a world where communications are limitless,
+advancing quality of life and digital equity anywhere and everywhere. The Fiber Broadband Association helps
+providers, communities, and policymakers make informed decisions about how, where, and why to build better fiber
+broadband networks. Since 2001, these companies, organizations, and members have worked with communities
+and consumers in mind to build the critical infrastructure that provides the economic and societal benefits that only
+fiber can deliver. The Fiber Broadband Association is part of the Fibre Council Global Alliance, which is a platform
+of six global FTTH Councils in North America, LATAM, Europe, MEA, APAC, and South Africa. Learn more at
+fiberbroadband.org .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240710172607/en/
+
+
+CONTACT: Autumn Minnich
+Connect2 Communications for the Fiber Broadband Association
+
+FBA@connect2comm.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 10, 2024
+
+
+  

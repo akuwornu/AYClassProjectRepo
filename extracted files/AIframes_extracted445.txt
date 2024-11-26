@@ -1,0 +1,103 @@
+
+
+                                                                                                  Page 1 of 2
+    Backblaze Partners with Coalition to Elevate Cyber Risk Protection and Compliance Cloud backup innovator
+                           and cyber insurance company close gaps in business cont....
+
+
+
+
+   Backblaze Partners with Coalition to Elevate Cyber Risk Protection and
+  Compliance; Cloud backup innovator and cyber insurance company close
+    gaps in business continuity planning by adding Backblaze Computer
+     Backup to the Coalition Control® cyber risk management platform
+                                                         GlobeNewswire
+                                              June 13, 2024 Thursday 6:00 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: BUSINESS CONTRACTS; PARTNERSHIPS; PRODUCT / SERVICES ANNOUNCEMENT
+Length: 880 words
+
+Body
+
+
+SAN MATEO, Calif., June 13, 2024 (GLOBE NEWSWIRE) -- Backblaze, Inc. (Nasdaq: BLZE), the cloud storage
+innovator providing a modern alternative to traditional cloud providers, today announced a new partnership with
+Active Cyber Insurance provider Coalition to help businesses proactively reduce their cyber risk. The partnership
+provides Coalition’s customers with direct access to Backblaze Computer Backup, an enterprise-grade, unlimited,
+and automatic endpoint backup solution, via the Coalition Control® cyber risk management platform.
+
+Many businesses have gaps in their cyber security posture that disqualify them from cyber insurance coverage,
+especially when it comes to immutable, off-site backups. With ransomware continuing to rise over 15% (FY '22 to
+FY ’23) and the average ransomware demand increasing to nearly $1.4m, cyber insurance has become
+increasingly important for risk mitigation. Businesses of all sizes need access to reliable backups to gain adequate
+coverage and better secure their most valuable data. “Adding Backblaze’s industry-leading cloud backup as the
+recommended backup solution in Coalition Control will help our customers improve their business continuity plans
+and cyber incident remediation through reliable data backups,” said John Roberts, General Manager, Security, at
+Coalition. “Backblaze’s accessible solution delivers businesses a win-win with increased compliance and enhanced
+incident preparedness.”
+
+Backblaze Computer Backup combines simplicity—including preconfigured installers for faster “time to security,”
+backing up all user data by default, and predictable pricing for unlimited capacity—with available enterprise
+administration features that businesses need to protect business-critical data across hundreds or thousands of
+workstations—including fine-grained access controls, OIDC authentication support tools like for Azure AD and Okta,
+
+                                                                                                 Page 2 of 2
+   Backblaze Partners with Coalition to Elevate Cyber Risk Protection and Compliance Cloud backup innovator
+                          and cyber insurance company close gaps in business cont....
+
+and advanced backup lockdown and recovery settings.“Partnering with Coalition means we can take another step
+forward in making data protection and disaster recovery accessible to businesses of any size,” said Elton Carneiro,
+Senior Director, Partnerships, at Backblaze. “We are excited to work with experts in cyber insurance to play our part
+in bolstering protection against threats and shoring up compliance.”
+
+Coalition supplies policyholders in the United States, Canada, Australia, and the United Kingdom with access to
+industry-leading cyber security tools through its cyber risk management platform, Coalition Control®. Insurance
+products offered by Coalition help over 80,000 customers face rapidly evolving digital risk with comprehensive
+cyber insurance coverage.
+
+About Backblaze
+
+Backblaze is the cloud storage innovator providing a modern alternative to traditional cloud providers. We deliver
+high-performance, secure cloud object storage that customers use to develop applications, manage media, secure
+backups, build AI workflows, protect from ransomware, and more. Backblaze helps businesses break free from the
+walled gardens that traditional providers lock customers into, enabling them to use their data in open cloud
+workflows with the providers they prefer at a fraction of the cost. Headquartered in San Mateo, CA, Backblaze
+(NASDAQ: BLZE) was founded in 2007 and serves over 500,000 customers in 175 countries around the world. For
+more information, please go to www.backblaze.com.
+
+About Coalition
+
+Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. By
+combining comprehensive insurance coverage and cybersecurity tools, Coalition helps businesses manage and
+mitigate potential cyber-attacks. Leveraging its relationships with leading global insurers and capacity providers,
+including Coalition Insurance Company, Coalition offers Active Insurance products to businesses in the U.S., the
+U.K., Canada, and Australia. Policyholders can receive automated cyber alerts and access expert advice and global
+third-party risk management tools through Coalition's holistic cyber risk management platform, Coalition Control®.
+
+Insurance products are offered by Coalition Insurance Solutions Inc. (“CIS”), a licensed insurance producer and
+surplus lines broker with its principal place of business in San Francisco, CA (Cal. license #0L76155), acting on
+behalf of a number of unaffiliated insurance companies and available on an admitted basis through certain carriers.
+Insurance products offered through CIS and CIC may not be available in all states. CIS may receive compensation
+from an insurer or other intermediary in connection with the sale of insurance. All decisions regarding any insurance
+products referenced herein, including approval for coverage, premium, commission, and fees, will be made solely
+by the insurer underwriting the insurance under the insurer’s then-current criteria. All insurance products are
+governed by the terms, conditions, limitations, and exclusions set forth in the applicable insurance policy. Please
+see a copy of your policy for the full terms, conditions, and exclusions. Copyright © 2024. All rights reserved.
+Coalition and the Coalition logo are trademarks of Coalition, Inc. or its affiliates.
+
+Press Contact
+
+Jeanette FosterCommunications Manager, Backblaze jfoster@backblaze.com
+
+
+Load-Date: June 13, 2024
+
+
+  

@@ -1,0 +1,176 @@
+
+
+                                                                                                         Page 1 of 4
+                                     AI Copilots Set to Engage the Future of Air Combat
+
+
+
+
+                      AI Copilots Set to Engage the Future of Air Combat
+                                                     Targeted News Service
+                                          June 19, 2024 Wednesday 5:17 PM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1451 words
+Byline: Targeted News Service
+Dateline: LAUREL, Maryland
+
+Body
+
+
+(TNSres) -- The Johns Hopkins University Applied Physics Laboratory issued the following news release:
+
+The future of military conflict is inseparable from the development of artificial intelligence (AI). The battlefield of
+the future will be redefined by the fielding of intelligent autonomous systems operating at machine speed and with
+machine precision. As the National Security Commission on Artificial Intelligence stated bluntly in its 2021 final
+report: "Defending against AI-capable adversaries operating at machine speeds without employing AI is an
+invitation to disaster."
+
+"We need to keep human warfighters in control of the future battle, and that means investing in efforts to catalyze
+human decision-making with the advanced computing power of AI," said Tom Urban, who supervises the Intelligent
+Combat Platforms Group at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. "APL is
+involved in a number of efforts to do that by providing humans with intelligent virtual assistants."
+
+Building on more than a decade of pushing the boundaries of what AI can do in air combat, APL engineers and air
+combat specialists have made significant progress in creating a copilot that will grant the power, speed and
+precision of machine computation to human fighter pilots.
+
+A Software Wingman
+
+Most work in this domain, like the XQ-58A Valkyrie, the Air Force's experimental pilotless aircraft, is focused on
+creating advanced autonomous fighter aircraft. Researchers at APL, however, have their sights set on augmenting
+human decision-making with the computational power of AI. Rather than seeking to replace pilots, APL researchers
+aim to help them succeed by enhancing and complementing their abilities, intuition and experience with machine
+speed and precision.
+
+To that end, the team has created -- over three years of painstaking development -- an AI teammate dubbed VIPR.
+Short for Virtual Intelligent Peer-Reasoning agent, VIPR serves a pilot in three critical capacities: as a situationally
+aware peer, a performant wingman and a cognitive support assistant.
+
+                                                                                                          Page 2 of 4
+                                 AI Copilots Set to Engage the Future of Air Combat
+
+John Winder, a computer scientist in APL's Force Projection Sector who co-leads the project with Urban, likens
+VIPR to R2-D2, the pilot-assisting droid from "Star Wars."
+
+"It can hang back and provide support by maintaining situational awareness, tracking blind spots and alerting the
+pilot when needed, or it can step up and play the role of the pilot, flying the plane and taking actions to save the life
+of its human pilot," he said.
+
+Tracking Cognitive Blind Spots
+
+Another way to think about VIPR is as an extremely advanced GPS and navigation assistant, there to help the
+driver overcome blind spots. But where a driver's blind spots are visual, the fighter pilot's blind spots are primarily
+cognitive.
+
+"Fighter pilots are, by nature, very confident people," said Winder. "That's a professional necessity and an asset,
+but it can also lead to a kind of tunnel vision that might prevent them from taking on critical new information in the
+heat of combat."
+
+One of VIPR's most important functions, therefore, is to actively track the cognitive state of the pilot. It has to
+understand the pilot's intentions, know what the pilot knows and reason about what the pilot understands, so that it
+recognizes when the AI and the pilot are no longer on the same page.
+
+"Besides looking 'outward' to track and predict adversary threats, VIPR also has to look 'inward' to understand the
+human pilot's intentions, objectives and modes of behavior, all on a second-by-second basis," Winder said. "And
+when the pilot has missed something critical during combat, VIPR has to inform them of that in a timely, actionable
+manner to help them survive the engagement."
+
+The VIPR prototype is capable of doing all of this in an interactive real-time simulation, responding to the pilot's
+voice commands, switching roles between full pilot and copilot fluidly and seamlessly -- and if that weren't enough,
+it can also pilot multiple autonomous squad mates, or collaborative combat aircraft. In this mode, the human pilot
+can act like the quarterback on a football team, directing the objectives of a VIPR-controlled team.
+
+After three years of development, the APL team is preparing to more formally evaluate its AI prototype with human
+pilots. But anecdotally, at least, the initial response has been promising.
+
+"We have some former pilots on our team, and they've all walked away from engaging in the simulation with smiles
+on their faces," Winder said. "And as a non-pilot myself, when I engage in the simulation scenario unassisted, I
+survive for maybe eight seconds. With VIPR, I'm able to survive and win.
+
+"Obviously, we have much more rigorous testing to do before this can be fielded, but we're optimistic based on what
+we've seen so far."
+
+New Challenges, New Technology
+
+Developing VIPR has taken a concerted effort on the part of APL scientists and engineers, necessitating multiple
+major breakthroughs in AI and machine learning techniques.
+
+Three particularly significant advances are crucial to understanding what makes VIPR unique.
+
+The first was the creation of recurrent conditional variational autoencoders (RCVAEs) -- essentially, machine
+learning models capable of encoding the (often implicit) observations, beliefs and decisions of a human pilot.
+RCVAEs are multimodal and probabilistic, meaning they have to infer and incorporate multiple variables from a
+variety of data sources and make decisions based on intelligent approximations, all at lightning speed. This
+breakthrough is what enables VIPR to develop something like an "intuitive," structured understanding of the pilot's
+intentions and beliefs.
+
+                                                                                                       Page 3 of 4
+                                AI Copilots Set to Engage the Future of Air Combat
+
+The second was applying graph neural networks (GNNs) to the problem of modeling adversary behavior. GNNs are
+a type of neural network that can be directly applied to graphs to predict the future states of anything that can be
+depicted on a graph -- analogous to how a large language model can be used to predict and generate text. The
+application of GNNs is what allows VIPR to predict complex adversary behaviors and coordinated maneuvers with
+high fidelity in a 3D space.
+
+Notably, these first two breakthroughs have general applicability beyond the problem space of air combat, and are
+already being leveraged for other efforts at APL.
+
+The third critical enabler was the development of a novel, advanced neural network known as a State-Time
+Attention Network (STAN) for deep multi-agent reinforcement learning. Based on the same Transformer
+architecture used by ChatGPT -- GPT stands for "generative pretrained transformer" -- and many other generative
+AI tools, STAN enables VIPR to scale its "awareness" to a variable number of entities and to learn a wider variety of
+multi-task behaviors.
+
+"Neural networks generally assume a fixed-size input and can't handle a dynamically changing set of observed
+variables. With STAN, VIPR can rapidly adapt to new scenarios it has never seen before as well as switch smoothly
+among several tasks. STAN is a novel APL contribution, and one that's truly necessary to advance the state of the
+art in the space of AI decision-making," Winder said.
+
+A History of Pushing the Boundaries
+
+VIPR -- and the larger internally funded effort that produced it, known as Beyond Human Reasoning -- is the latest
+in a long line of APL innovations in AI for air combat, going back more than a decade. This history includes serving
+as technical lead and host of the AlphaDogfight Trials, in which AI agents went head-to-head with human F-16
+pilots; building the Colosseum, a virtual environment to support the Air Force Research Laboratory's Golden Horde
+program to create the next generation of autonomous weapons systems; and supporting the Defense Advanced
+Research Projects Agency's Air Combat Evolution program by developing infrastructure and autonomous solutions
+to enable AI agents to control a full-scale fighter jet.
+
+More broadly, APL is engaged in a number of efforts to promote seamless teaming and collaboration with AI-
+enabled systems at every level of the battle -- from individual soldiers to battlefield commanders and decision-
+makers.
+
+This work was made possible in part by APL's Innovation program, and in particular Project Catalyst, an initiative
+that allows staff members to compete for significant funding, sometimes over a period of years, to test critical
+assumptions, investigate phenomena and push the boundaries of our current knowledge.
+
+***
+
+REPORT: https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf
+
+***
+
+Original text here: https://www.jhuapl.edu/news/news-releases/240618-ai-copilot-future-air-combat
+
+[Category: Science]
+
+Copyright Targeted News Services
+
+MSTRUCK-8682720 MSTRUCK
+
+
+Load-Date: June 19, 2024
+
+                                                                       Page 4 of 4
+                  AI Copilots Set to Engage the Future of Air Combat
+
+
+

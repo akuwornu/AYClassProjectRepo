@@ -1,0 +1,141 @@
+
+
+                                                                                               Page 1 of 3
+    ISG to Evaluate Managed Network Services Providers Upcoming ISG Provider Lens(TM) study will evaluate
+                         providers helping enterprises improve the overall performa....
+
+
+
+
+   ISG to Evaluate Managed Network Services Providers; Upcoming ISG
+Provider Lens(TM) study will evaluate providers helping enterprises improve
+       the overall performance of their IT infrastructure and systems
+                                                 Business Wire
+                                       July 9, 2024 Tuesday 3:00 PM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1120 words
+Dateline: STAMFORD, Conn.
+
+Body
+
+Information Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm, has
+launched a research study evaluating providers of managed network services, including those that integrate AI and
+automation to manage increasingly complex networks.
+
+The study results will be published in a comprehensive series of ISG Provider Lens(TM) reports, called Managed
+Network Services 2024, scheduled to be released in December. Three regional reports will evaluate services
+including wide area networks (WANs), local area networks (LANs), direct internet access (DIA), voice over internet
+protocol (VoIP) and virtual private networks (VPNs), together with the provisioning of network-as-a-service (NaaS)
+offerings.
+
+Enterprise buyers will be able to use information from the reports to evaluate their current vendor relationships,
+potential new engagements and available offerings, while ISG advisors use the information to recommend providers
+to the firm's buy-side clients.
+
+Enterprises are seeking support from managed network services (MNS) providers to take over their existing
+network operations while transforming them into strong, flexible and advanced enterprise infrastructures. Advances
+in network function virtualization (NFV) and AI-based technologies and the widespread use of diverse mobile,
+branch and edge devices are further boosting the growth of the MNS market, ISG says.
+
+"Experienced managed network services providers are using AI-based solutions and automation tools to enhance
+network monitoring, troubleshooting and optimization," said Heiko Henkes, managing director of ISG Provider Lens
+Research. "They, along with network operators, also offer advanced networks through as-a-service models,
+allowing enterprises to consume capacity as needed in a highly flexible manner."
+
+For the study, ISG has distributed surveys to nearly 130 providers of managed network services. Working in
+collaboration with ISG's global advisors, the research team will produce three quadrants representing the services
+and solutions the typical enterprise is buying based on ISG's experience working with its clients. The three
+quadrants are:
+
+                                                                                               Page 2 of 3
+    ISG to Evaluate Managed Network Services Providers Upcoming ISG Provider Lens(TM) study will evaluate
+                         providers helping enterprises improve the overall performa....
+
+    •   Managed Network Services, evaluating providers helping enterprises evaluate, plan, upgrade and
+        provision network services, including multiprotocol label switching (MPLS)/IP WAN or LAN services, fully
+        managed WLAN and branch installations, edge points of presence (PoPs), managed firewalls and security.
+        Services include setting up, replacing or upgrading installations; managing and monitoring remote
+        operations, and undertaking fault diagnosis, configuration management, update and patch management
+        and disaster recovery.
+    •   Managed DIA, VPN and VoIP Services, covering service providers that offer fully managed DIA, VPN and
+        VoIP services, either bundled or as individual offerings. DIA offers dedicated links to internet service
+        providers to ensure high-quality and reliable connectivity; VoIP, when paired with high-speed broadband
+        and 5G networks, offers more stable connections for calls and high-quality video conferences, and VPN
+        offers secure and efficient connectivity for enterprises and their remote workforces.
+    •   Network-as-a-Service (NaaS) Offerings, examining providers of NaaS, which combines flexible cloud
+        computing with modern security models such as zero trust network access (ZTNA) to deliver advanced
+        network and security solutions to enterprises. NaaS allows on-demand provisioning through a pay-as-you-
+        go model, effectively meeting the evolving demands of SaaS and various cloud platforms, including edge
+        computing.
+
+Geographically focused reports from the study will cover the global managed network services market and examine
+offerings available in the U.S., Europe and Asia Pacific (which for this report covers Australia, New Zealand,
+Southeast Asia and India). ISG analysts Kenn Walters (U.S. and Europe) and Yash Jethani (Asia Pacific) will serve
+as authors of the reports.
+
+A list of identified providers and vendors and further details on the study are available in this digital brochure .
+Companies not listed as managed services providers can contact ISG and ask to be included in the study.
+
+All 2024 ISG Provider Lens(TM) evaluations feature expanded customer experience (CX) data that measures
+actual enterprise experience with specific provider services and solutions, based on ISG's continuous CX research.
+Enterprise customers wishing to share their experience about a specific provider or vendor are encouraged to
+register here to receive a personalized survey URL. Participants will receive a copy of this report in return for their
+feedback.
+
+About ISG Provider Lens(TM) Research
+
+The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
+empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
+advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
+appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
+recommendations to ISG's enterprise clients. The research currently covers providers offering their services
+globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
+Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
+more information about ISG Provider Lens research, please visit this webpage .
+
+About ISG
+
+ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
+business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
+committed to helping corporations, public sector organizations, and service and technology providers achieve
+operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
+automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
+services; strategy and operations design; change management; market intelligence and technology research and
+analysis. Founded in 2006, and based in Stamford, Conn., ISG employs 1,600 digital-ready professionals operating
+in more than 20 countries-a global team known for its innovative thinking, market influence, deep industry and
+
+                                                                                              Page 3 of 3
+   ISG to Evaluate Managed Network Services Providers Upcoming ISG Provider Lens(TM) study will evaluate
+                        providers helping enterprises improve the overall performa....
+
+technology expertise, and world-class research and analytical capabilities based on the industry's most
+comprehensive marketplace data. For more information, visit www.isg-one.com .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240709397381/en/
+
+
+CONTACT: Press:
+
+Will Thoretz, ISG
++1 203 517 3119
+
+will.thoretz@isg-one.com
+
+
+Julianna Sheridan, Matter Communications for ISG
++1 978-518-4520
+
+isg@matternow.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 23, 2024
+
+
+  

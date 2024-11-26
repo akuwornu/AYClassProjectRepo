@@ -1,0 +1,146 @@
+
+
+                                                                                               Page 1 of 3
+              UNSW Researchers to Develop Immersive Fireground Training With Fire and Rescue NSW
+
+
+
+
+UNSW Researchers to Develop Immersive Fireground Training With Fire and
+                            Rescue NSW
+                                                     Targeted News Service
+                                             July 30, 2024 Tuesday 7:30 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 968 words
+Byline: Targeted News Service
+Dateline: SYDNEY, Australia
+
+Body
+
+
+(TNSres) -- The University of New South Wales issued the following news:
+
+By Samantha Dunn
+
+Cutting-edge immersive disaster simulation and training systems will be created for NSW's firefighters.
+
+Fire and Rescue NSW (FRNSW) have entered into a five-year agreement with researchers from UNSW's iCinema
+Research Centre to create a fully immersive bushfire visualisation system to allow fire and rescue personnel to
+experience the behaviour of fires in virtual scenarios.
+
+UNSW has invested more than $35 million in multiple artificial intelligence (AI) powered immersive simulation
+systems, which researchers will now customise to create trailblazing education and training experiences for
+FRNSW.
+
+The project has leveraged large-scale Australian Research Council (ARC) funding in creative visualisation since
+2002, most recently a Laureate Fellowship, to explore unpredictable fire scenarios.
+
+Under the partnership, the University is providing FRNSW with a 3D Immersive Cinema worth $250,000 that will
+allow firefighters and incident commanders to fully immerse and interact in simulated emergency scenarios.
+
+The project team will install the iFire system at FRNSW Emergency Training Academy Orchard Hills' premises.
+
+NSW Minister for Emergency Services the Hon. Jihad Dib said the partnership allowed for an innovative approach
+to response training and preparedness.
+
+"FRNSW is leading the way in the education and training space by exploring opportunities that overcome the
+challenges of distance," Minister Dib said.
+
+                                                                                             Page 2 of 3
+            UNSW Researchers to Develop Immersive Fireground Training With Fire and Rescue NSW
+
+"This technology can effectively put our firefighters in the centre of a simulated fireground or other emergency,
+allowing them to develop important incident response skills and prepare for the real thing."
+
+Vice-Chancellor and President of UNSW Sydney, Professor Attila Brungs said UNSW was proud to be partnering
+with FRNSW in this innovative use of immersive technology.
+
+"The collaboration between UNSW and FRNSW to develop iFire to create immersive training modules is set to
+enhance the skills of our first responders, which will be of great benefit to our communities," Prof. Brungs said.
+
+"We also look forward to the progress this frontline research will bring to firefighting techniques and emergency
+decision making."
+
+FRNSW Commissioner Jeremy Fewtrell AFSM said the partnership cemented FRNSW as an industry leader in the
+applied research space.
+
+"The technology has been successfully utilised in underground mining applications, and we intend to use it to better
+understand the dangers of bushfires and urban incidents," Commissioner Fewtrell said.
+
+"The technology will also allow our people to practice their incident command and response when it comes to large-
+scale emergencies."
+
+What does iFire do?
+
+Building on technology that translates Data61's SPARK simulation system and the WRF_SFIRE system, iFire
+creates immersive 3D environments using visualisations developed by UNSW's Scientia Professor Dennis Del
+Favero, ARC Laureate Fellow and Executive Director of the iCinema Research Centre.
+
+The project recreates three real-world case studies: a pine-plantation fire, a grass fire, and the unprecedented and
+unpredictable 2020 US Bridger Foothills Fire.
+
+"In each of these scenarios, users will be able to adjust variables to experience in real-time the influence of
+changes in factors for wind speed, fuel load and temperature on the behaviour of fire," said Prof. Del Favero.
+
+Immersive training saves lives and reduces injury
+
+The collaboration builds on the award-winning iCASTS mine immersive training system, developed with the NSW
+Government, mining unions and Mines Rescue, that saved lives and reduced serious injury by 65% across
+Australian mine sites by exposing miners and planners to known underground threats.
+
+Using AI, iFire establishes the next generation in immersive visualisation by enabling incident commanders and
+firefighters to engage with unanticipated fireground threats.
+
+"The system allows groups of commanders and firefighters to immerse themselves in high-fidelity real-world fire
+landscapes using the film industry standard UNREAL visualisation engine," said Prof. Del Favero.
+
+"By changing environmental variables in the virtual scenario, such as the rise in temperatures brought on by global
+warming, they can experience the look and feel of extreme fires and more effectively prepare for their unpredictable
+and life-threatening behaviour."
+
+Looking to the future
+
+As it is developed further, the iFire system will ultimately enable firefighters on any screen device in any location to
+sensorially experience the look and feel of a possible near-future scenario as if they are present.
+
+"Importantly, this will allow firefighters, for the very first time, to interactively anticipate, practice and implement
+preparedness as a team-based experience, to minimise immediate risk and optimise strategic resilience," said Prof.
+Del Favero.
+
+                                                                                            Page 3 of 3
+           UNSW Researchers to Develop Immersive Fireground Training With Fire and Rescue NSW
+
+***
+
+The iCinema Research Centre focuses on the development of creative AI visualisation to experientially address
+unpredictable scenarios such as extreme fires and floods.
+
+Prof. Del Favero and colleagues have just published the book Climate Disaster Preparedness: Reimaging Extreme
+Events through Art and Technology, which explores best practices in digital arts, intelligent systems and climate
+science to address global climate challenges. The book is open access and is available at Climate Disaster
+Preparedness:       Reimagining    Extreme    Events    through    Art   and    Technology       |   SpringerLink:
+https://link.springer.com/book/10.1007/978-3-031-56114-6
+
+***
+
+Original text here: https://www.unsw.edu.au/newsroom/news/2024/07/unsw-researchers-to-develop-immersive-
+fireground-training-with-fire-and-rescue-nsw
+
+Contact: Louise Templeton, Corporate Communications Officer, +61413495994, louise.templeton@unsw.edu.au
+
+Copyright Targeted News Services
+
+MSTRUCK-8749439 MSTRUCK
+
+
+Load-Date: July 30, 2024
+
+
+  

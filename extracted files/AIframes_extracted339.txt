@@ -1,0 +1,172 @@
+
+
+                                                                                             Page 1 of 4
+    HAProxy ’s Next-Gen Security and Automation Drives New Category Leadership in G2 Summer 2024 Grid®
+                       Reports G2’s top-ranked load balancer also recognized as a le....
+
+
+
+
+     HAProxy’s Next-Gen Security and Automation Drives New Category
+     Leadership in G2 Summer 2024 Grid® Reports; G2’s top-ranked load
+  balancer also recognized as a leading solution for API Management, DDoS
+                   Protection, and Web Application Firewall
+                                                         GlobeNewswire
+                                                July 2, 2024 Tuesday 5:20 AM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: CONTESTS/AWARDS
+Length: 1265 words
+
+Body
+
+NEWTON, Mass., July 02, 2024 (GLOBE NEWSWIRE) -- HAProxy Technologies, the company behind the world’s
+fastest and most widely used software load balancer, has been named a Leader in 18 G2 Summer 2024 Grid®
+Reports. While maintaining overall leadership in Load Balancing and Container Networking, as established in
+previous quarters, HAProxy also claimed a Leader position in API Management, DDoS Protection, DevOps, Web
+Application Firewall (WAF), and Web Security.
+
+Along with an incredible Satisfaction Score of 98 and a host of badges, including Best Results, Best Relationship,
+and Best Usability, HAProxy gained recognition for its expanding solutions that meet the security and automation
+needs of modern enterprises. Building on its reputation as a trusted software load balancer, HAProxy is established
+in the G2 Summer 2024 Grid® Reports as an application delivery platform enabling multi-layered security,
+scalability, and simplicity for mission-critical applications.
+
+G2 product ratings are based on customer and user reviews and aggregated data from online sources. In the
+Momentum Grid® Report, the Satisfaction Score is affected by several factors, including customer satisfaction with
+end user-focused and administration-specific product attributes, popularity and statistical significance of reviews,
+and timeliness and quality of reviews.
+
+“Our leadership across numerous new G2 categories clearly demonstrates our innovation in security and
+automation,” said Dujko Radovnikovic, CEO, HAProxy Technologies. “HAProxy has long been the undisputed top-
+ranked load balancer, renowned for its exceptional performance, reliability, and flexibility. Today, it's undeniable that
+
+                                                                                            Page 2 of 4
+   HAProxy ’s Next-Gen Security and Automation Drives New Category Leadership in G2 Summer 2024 Grid®
+                      Reports G2’s top-ranked load balancer also recognized as a le....
+
+our platform provides a complete high-performance solution to the complex and diverse challenges of modern app
+delivery.”
+
+The company is also featured in 13 reports in the Enterprise market segment, demonstrating that HAProxy is
+increasingly trusted by the world’s leading companies and cloud providers to provide security, flexibility, and
+efficiency in the most demanding environments.
+
+Exceptional user reviews and diverse solutions drive multi-category success in G2's Grid® Reports
+
+G2 awarded HAProxy 47 badges, including naming HAProxy a Leader in 18 Summer 2024 Grid® Reports:
+    •   Grid® Report for API Management
+    •   Grid® Report for Container Networking
+    •   Grid® Report for DDoS Protection
+    •   Grid® Report for DevOps
+    •   Grid® Report for Load Balancing
+    •   Grid® Report for Web Security
+    •   Momentum Grid® Report for API Management
+    •   Momentum Grid® Report for Container Networking
+    •   Momentum Grid® Report for DDoS Protection
+    •   Momentum Grid® Report for Load Balancing
+    •   Momentum Grid® Report for Web Application Firewall (WAF)
+    •   Enterprise Grid® Report for DevOps
+    •   Mid-Market Grid® Report for Load Balancing
+    •   Mid-Market EMEA Regional Grid® Report for API Management
+    •   EMEA Regional Grid® Report for API Management
+    •   EMEA Regional Grid® Report for Load Balancing
+    •   Europe Regional Grid® Report for API Management
+    •   Europe Regional Grid® Report for Load Balancing
+
+The Leader designation signifies that HAProxy has earned best-in-class ratings from verified customers for both
+user satisfaction scores and market presence.
+
+An enterprise user gave HAProxy five stars and wrote, “Blazing fast! Security you can take to the bank! …
+[HAProxy] is essential to how we manage connectivity both internally and from our clients.”
+
+“HAProxy has been an invaluable addition to our technology stack, from scaling out capacity for our applications to
+simplifying disaster recovery operations,” said another five-star review from an Infrastructure and Security
+Manager.
+
+A Systems Engineer also gave HAProxy five stars and wrote, “As a long-time Linux user, setting up HAProxy to suit
+my needs is incredibly easy, and the versatility and speed of it makes it perfect for our needs… It does the job [of]
+multiple applications.”
+
+Enterprises trust HAProxy for application security and automation
+
+                                                                                            Page 3 of 4
+   HAProxy ’s Next-Gen Security and Automation Drives New Category Leadership in G2 Summer 2024 Grid®
+                      Reports G2’s top-ranked load balancer also recognized as a le....
+
+HAProxy Technologies’ leadership of the API Management, DDoS Protection, DevOps, Web Application Firewall
+(WAF), and Web Security categories confirms the company’s position as a leading security and automation
+solutions provider for applications and APIs. Recent milestones have supported HAProxy Technologies’ successful
+expansion into these critical markets.
+
+Security
+
+HAProxy’s resilient, high-performance architecture and robust, peer-reviewed open source codebase make it one of
+the most trustable layers in an application delivery stack. In October 2023, we announced that HAProxy is Not
+Affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487). In April 2024, we also announced that HAProxy is
+Resilient to the HTTP/2 CONTINUATION Flood.
+
+In May 2024, we announced the release of HAProxy Enterprise 2.9 – a milestone release that defined a new
+security standard for application delivery with next-generation WAF and bot management capabilities that provide
+advanced security, high performance, and simple management.
+
+HAProxy Technologies presented the security features of HAProxy Enterprise 2.9 at RSA Conference 2024 with the
+live session "Don’t let bots get you down: better bot management for stronger enterprise security" presented by
+Nenad Merdanovic, Principal Solutions Architect and the on-demand session "Beating the Top 3 Challenges Facing
+the Critical WAF Security Layer" presented by Jakub Suchy, Director, Solutions Engineering.
+
+Automation
+
+In November 2023, we announced the release of HAProxy Fusion 1.2 with Service Discovery for Kubernetes and
+Consul. HAProxy Fusion links to the Kubernetes API, which lets HAProxy Enterprise dynamically update service
+configurations. This combination enables automated external load balancing for on-premises Kubernetes and multi-
+cluster routing for Kubernetes in public clouds.
+
+HAProxy Technologies presented the infrastructure automation capabilities of HAProxy Fusion at AWS re:Invent
+2023. In the live session “Scalable load balancing and security made simple on AWS”, Jakub Suchy highlighted the
+challenges that arise with high-scale load balancing on AWS, including increasing costs, latency issues, and the
+complexity of managing sprawl. Our solution: consolidating multiple layers into a single high-performance load
+balancing layer, enhanced by centralized management, monitoring, and automation with HAProxy Fusion.
+
+Earlier this month, HAProxy Technologies sponsored the France API 2024 event and demonstrated our API
+gateway and AI/ML gateway solutions and how to automate HAProxy infrastructure using HAProxy Fusion’s
+centralized API.
+
+See HAProxy Technologies at Black Hat USA 2024
+
+HAProxy Technologies will attend Black Hat USA 2024 in Las Vegas, Nevada to showcase our latest security and
+automation capabilities. Join us at our booth #2718 on August 6-10 or schedule a meeting with us.
+
+About HAProxy Technologies
+
+HAProxy Technologies is the company behind HAProxy, the world’s fastest and most widely used software load
+balancer. Rapidly deploy HAProxy products to deliver websites and applications with the utmost performance,
+observability, and security at any scale and in any environment. HAProxy Technologies is headquartered in
+Waltham, MA, with multiple offices across the US and Europe. Learn more at HAProxy.com.
+
+Media Contact:
+
+Deb Randel, VP MarketingHAProxy Technologies, LLCdrandel@haproxy.com (614) 204-4643
+
+                                                                                            Page 4 of 4
+   HAProxy ’s Next-Gen Security and Automation Drives New Category Leadership in G2 Summer 2024 Grid®
+                      Reports G2’s top-ranked load balancer also recognized as a le....
+
+A         photo        accompanying        this      announcement         is       available              at
+https://www.globenewswire.com/NewsRoom/AttachmentNg/42e22cf9-d49b-4c9d-9a67-e555edb36f07
+
+G2 Summer 2024 Momentum Grid® Report for Load Balancing
+
+HAProxy Next-Gen Security and Automation Drives New Category Leadership in G2 Summer 2024 Grid® Reports
+
+
+Load-Date: July 2, 2024
+
+
+  

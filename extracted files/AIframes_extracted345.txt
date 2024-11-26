@@ -1,0 +1,150 @@
+
+
+                                                                                                  Page 1 of 3
+          WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+
+
+
+
+      WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for
+                         Improved Satellite Services
+                                                         GlobeNewswire
+                                               July 1, 2024 Monday 10:00 PM PT
+
+
+
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+
+
+
+
+Section: COMPANY ANNOUNCEMENT
+Length: 1501 words
+
+Body
+
+
+WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+
+Will test the node operations from the new WISeSat Satellite to be launched with SpaceX at Vandenberg Space
+Force Base in October this year.
+
+Geneva, Switzerland – July 2, 2024: WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ:
+WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, today announced
+its subsidiary WISeSat.Space’s (“Company”) innovative project to bring blockchain technology to space, aimed at
+improving various aspects of the satellite industry, including logistics, insurance, government regulations, and data
+security. The Company expects to test operations of the blockchain nodes from the new WISeSat Satellite to be
+launched with SpaceX later this year.
+
+WISeSat.Space's project to operate blockchain nodes from space is set to transform the satellite value chain,
+bringing unprecedented levels of transparency, trust, and efficiency. From logistics and insurance to governmental
+functions and financial inclusion, the integration of blockchain and satellite technology holds immense potential. As
+this innovative approach continues to develop, it promises to unlock new opportunities and drive significant
+advancements across multiple industries, paving the way for a more connected and efficient world.
+
+By using blockchain technology, WISeSat.Space is set to make satellite operations more reliable and accessible.
+For example, one of the key uses of blockchain in satellite operations is smart contracts. These are self-executing
+agreements where the terms are written into code and help automate processes like launching and operating
+satellites, therefore reducing the need for middlemen and cutting down on human errors. This makes the entire
+process more efficient and cost-effective. Blockchain will also provide a clear and unchangeable record of
+
+                                                                                                 Page 2 of 3
+         WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+
+transactions. This is expected to be especially useful for insurance companies, as it will ensure accurate and
+verifiable information to assess risks and process claims fairly and quickly.
+
+Using blockchain nodes in space will also significantly improve cybersecurity. Space-based nodes will be harder to
+attack than those on Earth, making the blockchain network more secure. This extra layer of protection will ensure
+that sensitive information remains safe. Moreover, space-based nodes will help decentralize the blockchain
+network. Traditional networks often rely on nodes in specific locations, which can create vulnerabilities.
+
+By adding space-based nodes, WISeSat.Space will make the network more distributed and resilient, reducing the
+risk of failures. Operating blockchain nodes in space will also help reduce energy costs. Traditional data centers
+use a lot of electricity for computing and cooling. In space, the naturally cold environment reduces the need for
+cooling, which lowers energy consumption and makes the blockchain network more environmentally friendly.
+
+Blockchain's transparency and traceability are expected to be beneficial for government functions related to
+satellites. For instance, the licensing process for launching a satellite can be streamlined using blockchain, ensuring
+all necessary approvals are met efficiently. Blockchain can also be used to monitor space operations, providing a
+clear and tamper-proof record of activities, which is crucial for regulatory oversight. Integrating blockchain with
+satellites will turn them into "smart emancipated devices."
+
+These satellites can operate independently using smart contracts to execute tasks without constant human
+intervention. This automation will make satellite operations more efficient and reduce the risk of human error.
+Satellites will also play a crucial role in distributing blockchain information. They will act as nodes in a decentralized
+blockchain network, ensuring data is distributed and synchronized globally. This is particularly important in remote
+areas where traditional internet infrastructure is lacking. By using satellite connectivity, blockchain networks can
+reach more people, promoting greater participation in the digital economy.
+
+One of the most significant benefits of combining blockchain and satellite technology is promoting financial inclusion
+in developing regions, such as Africa. Satellites can reach remote and underserved areas, providing connectivity
+where traditional infrastructure is lacking. By integrating blockchain with satellite communications, unbanked
+populations can gain access to financial services, enabling them to participate in the global economy. This can lead
+to improved economic opportunities and a reduction in poverty levels.
+
+With enhanced cybersecurity, true decentralization, and reduced energy costs, the future of blockchain in space
+looks exceptionally promising.
+
+About WISeSat.Space
+
+WISeSat AG is pioneering a transformative approach to IoT connectivity and climate change monitoring through its
+innovative satellite constellation. By providing cost-effective, secure, and global IoT connectivity, WISeSat is
+enabling a wide range of applications that support environmental monitoring, disaster management, and
+sustainable practices. The integration of satellite data with advanced climate models holds great promise for
+enhancing our understanding of climate change and developing effective strategies to combat its impacts. As the
+world continues to grapple with the challenges of climate change, initiatives like WISeSat's IoT satellite constellation
+are essential for creating a more resilient and sustainable future.
+
+About WISeKEY:
+
+WISeKey International Holding Ltd (“WISeKey”, SIX: WIHN; Nasdaq: WKEY) is a global leader in cybersecurity,
+digital identity, and IoT solutions platform. It operates as a Swiss-based holding company through several
+operational subsidiaries, each dedicated to specific aspects of its technology portfolio. The subsidiaries include (i)
+SEALSQ Corp (Nasdaq: LAES), which focuses on semiconductors, PKI, and post-quantum technology products, (ii)
+WISeKey SA which specializes in RoT and PKI solutions for secure authentication and identification in IoT,
+Blockchain, and AI, (iii) WISeSat AG which focuses on space technology for secure satellite communication,
+specifically for IoT applications, and (iv) WISe.ART Corp which focuses on trusted blockchain NFTs and operates
+the WISe.ART marketplace for secure NFT transactions.
+
+                                                                                                 Page 3 of 3
+         WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+
+Each subsidiary contributes to WISeKey’s mission of securing the internet while focusing on their respective areas
+of research and expertise. Their technologies seamlessly integrate into the comprehensive WISeKey platform.
+WISeKey secures digital identity ecosystems for individuals and objects using Blockchain, AI, and IoT technologies.
+With over 1.6 billion microchips deployed across various IoT sectors, WISeKey plays a vital role in securing the
+Internet of Everything. The company’s semiconductors generate valuable Big Data that, when analyzed with AI,
+enable predictive equipment failure prevention. Trusted by the OISTE/WISeKey cryptographic Root of Trust,
+WISeKey provides secure authentication and identification for IoT, Blockchain, and AI applications. The WISeKey
+Root of Trust ensures the integrity of online transactions between objects and people.
+
+For more information on WISeKey’s strategic direction and its subsidiary companies, please visit
+www.wisekey.com.
+
+Press and Investor Contacts:
+
+         WISeKey International Holding Ltd Company     WISeKey Investor Relations (US) The Equity Group Inc.Lena
+         Contact: Carlos MoreiraChairman &             CatiTel: +1 212 836-9611 / lcati@equityny.comKatie
+         CEOTel: +41 22 594 3000info@wisekey.com       MurphyTel: +1 212 836-9612 / kmurphy@equityny.com
+
+
+Disclaimer:This communication expressly or implicitly contains certain forward-looking statements concerning
+WISeKey International Holding Ltd and its business. Such statements involve certain known and unknown risks,
+uncertainties and other factors, which could cause the actual results, financial condition, performance or
+achievements of WISeKey International Holding Ltd to be materially different from any future results, performance
+or achievements expressed or implied by such forward-looking statements. WISeKey International Holding Ltd is
+providing this communication as of this date and does not undertake to update any forward-looking statements
+contained herein as a result of new information, future events or otherwise.
+
+This press release does not constitute an offer to sell, or a solicitation of an offer to buy, any securities, and it does
+not constitute an offering prospectus within the meaning of the Swiss Financial Services Act (“FinSA”), the FInSa's
+predecessor legislation or advertising within the meaning of the FinSA. Investors must rely on their own evaluation
+of WISeKey and its securities, including the merits and risks involved. Nothing contained herein is, or shall be relied
+on as, a promise or representation as to the future performance of WISeKey.
+
+
+Load-Date: July 2, 2024
+
+
+  

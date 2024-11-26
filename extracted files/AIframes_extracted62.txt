@@ -1,0 +1,190 @@
+
+
+                                                                                                    Page 1 of 4
+                 Network International Slashes Fraud Rates in MEA With Cloud-Hosted FICO Solution
+
+
+
+
+ Network International Slashes Fraud Rates in MEA With Cloud-Hosted FICO
+                                  Solution
+                                                     Targeted News Service
+                                           August 20, 2024 Tuesday 8:10 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
+
+
+
+
+Length: 1325 words
+Byline: Targeted News Service
+Dateline: SAN JOSE, California
+
+Body
+
+
+FICO, an analytics software company, issued the following news:
+
+***
+
+Digital commerce solution provider deploys industry-leading FICO(R) Falcon(R) Fraud Manager across MEA to help
+drive down fraud losses; Network International wins 2024 FICO Decision Award for Cloud Deployment
+
+Highlights:
+
+* Network International LLC (NI), headquartered in Dubai, has helped banks in the Middle East and Africa prevent
+fraud using an on-prem and cloud-hosted version of the industry leading FICO(R) Falcon(R) Fraud Manager
+
+* More than 40 financial institutions in United Arab Emirates, Saudi Arabia, Egypt and South Africa are using the
+solution to help protect 20+ million customers, reducing fraud basis points of sales by 82% in 2022
+
+* Network International has won a 2024 FICO(R) Decision Award for Cloud Deployment.
+
+***
+
+Global analytics software leader FICO announced today that Network International LLC (NI), headquartered in
+Dubai, has helped banks in the Middle East and Africa help prevent fraud using a cloud-hosted version of the
+industry-leading FICO(R) Falcon(R) Fraud Manager. More than 40 financial institutions in United Arab Emirates,
+Saudi Arabia, Egypt and South Africa are using the solution to protect 20+ million customers, processing more than
+180 million transactions, representing USD18 billion in value.Collectively, NI and FICO Falcon Fraud Manager have
+reduced fraud basis points of sales by 82% in 2022, and increased fraud detection rates by 25%. Network
+International has won a 2024 FICO(R) Decision Award for Cloud Deployment.
+
+                                                                                                        Page 2 of 4
+               Network International Slashes Fraud Rates in MEA With Cloud-Hosted FICO Solution
+
+More information: https://www.fico.com/en/products/fico-falcon-fraud-manager
+
+"Considering the continuously evolving nature of fraud and increased regulatory scrutiny on issuers, it is imperative
+for banks to establish a robust strategy, processes, technology, and resources to prevent financial and reputational
+losses," said Arindam Chatterjee, group head, Safety and Security Solutions at Network International. "But
+deploying an on-premises fraud management solution is complex, challenging, time-consuming, and costly. FICO
+Falcon Fraud Manager, which we host as a service, has successfully resolved a complex puzzle for banks and
+payment service providers that have entrusted NI with the end-to-end responsibility of managing fraud across
+payment channels on their behalf."
+
+NI adopted FICO Falcon Fraud Manager to address their customers' unmet need to use a single platform for
+preventing and detecting fraud across both card (debit, credit and prepaid) and non-card (retail banking, corporate
+banking, alliance banking and others) product portfolios. FICO Falcon Fraud Manager at NI gives customers
+complete flexibility in choosing the channels they want to integrate, deploying the solution in phases and scaling
+their operations according to business requirements, fraud perception and regulatory priorities. It enables
+organizations to address fraud comprehensively with a 360 customer view using a unified platform featuring
+advanced AI and machine learning models for all payment and service channels.
+
+"Because it's a hosted service, institutions in any country can use it regardless of the size of their customer base or
+economy, without concerns about the substantial capex of on-premises deployment and onsite support," said
+Chatterjee. "NI-hosted FICO Falcon Fraud Manager suits the requirements equally well for a new bank, small bank,
+mid-sized bank or a large multi-national bank. We can deploy it faster than an on-premises solution for a customer,
+and reduce their capital expenditure, resource and training costs. They get effective fraud management from day
+one."
+
+In addition to managing the anti-fraud application, environment, network and integrations with client's payment
+systems, NI also provides continuous analytics and rule management services, and 24/7/365 fraud monitoring
+operations carried out by a dedicated team work on case investigations and disposition.
+
+***
+
+Deploying Across the Middle East and Africa
+
+In some countries with stringent data residency requirements imposed by central banks and regulators, such as the
+Saudi Central Bank, banks cannot process their data outside their country borders. In response, NI adopted a
+customer-centric approach and established FICO Falcon Fraud Manager instances as close to the clients as
+possible, in UAE, Saudi Arabia, Egypt, and South Africa. These deployments leveraged FICO Falcon Fraud
+Manager's native capabilities, including:
+
+* Infrastructure flexibility: on-premises or cloud-agnostic deployments
+
+* Modular architecture
+
+* Containerised components
+
+* Scalability encompassing both vertical and horizontal expansion
+
+* API-based interfaces
+
+* Cross-data centre replication between production and disaster recovery
+
+Because of these capabilities, the NI technology teams could effectively replicate one successful FICO Falcon
+Fraud Manager deployment across other key regions with substantial growth potential. These regions
+predominantly serve developing economies during the transition from cash-based transactions to digital payment
+systems.
+
+                                                                                                        Page 3 of 4
+                Network International Slashes Fraud Rates in MEA With Cloud-Hosted FICO Solution
+
+***
+
+Lower Fraud Losses and Higher Detection Rate
+
+"To date, with a review rate of just 1.13%, we have saved an impressive amount of fraud losses, aggregating to
+USD9.7 million, which has provided 7.45X ROI to our clients in the current financial year alone," said Chatterjee.
+
+One of those clients is a small-sized yet fast-growing UAE-based bank that deploys FICO Falcon Fraud Manager at
+an enterprise level to monitor transaction fraud across cards, retail banking, channels and corporate banking
+accounts. After implementing FICO Falcon Fraud Manager real-time transaction fraud prevention technology, the
+bank has a fraud detection rate of over 90%, more than three times as high as when they first started leveraging the
+solution.
+
+"FICO Falcon Fraud Manager is far and away the industry leader in fraud detection, protecting more than 4 billion
+payment accounts worldwide," said Nikhil Behl, EVP for software at FICO. "We applaud Network International's
+achievements in bringing this powerful solution to firms of all sizes across the region. They are helping to keep their
+customer's customers safe from all kinds of fraud. Bravo!"
+
+"The judging panel was impressed by the expansive scale of Network International's deployment of FICO Falcon
+Fraud Manager," added Eric Kavanagh, CEO Bloor Group and host of InsideAnalysis, who was one of the FICO
+Decisions Awards judges. "By providing fraud prevention-as-a-service to the region, they demonstrated a
+groundbreaking approach to threat detection. This innovative business model, democratizing advanced technology
+for a diverse range of organizations, stood out as a testament to their vision and execution, making Network
+International's achievement truly impressive."
+
+***
+
+About the FICO(R) Decisions Awards
+
+The FICO Decisions Awards recognize organizations that are achieving remarkable success using FICO solutions.
+A panel of independent judges with deep industry expertise evaluates nominations based on measurable
+improvement in key metrics; demonstrated use of best practices; project scale, depth and breadth; and innovative
+uses of technology. The 2024 judges are:
+
+* Andrew Birmingham, editor, Mi3
+
+* Eric Kavanagh, CEO Bloor Group and host, InsideAnalysis
+
+* Elizabeth Lumley, deputy editor, The Banker
+
+* Paul Mah, senior editor, CDO Trends
+
+* Laura Martins, editor, IT Forum
+
+* Paul Robinson, VP credit management at Canadian Tire Bank (Previous Winner)
+
+* Shiv Sehgal, EVP audience analytics at RSG Media (Previous Winner)
+
+* Nick Vitchev, director at Chartis
+
+The winners of the FICO Decisions Awards were spotlighted at FICO(R) World 2024, held in April 2024 in San
+Diego, California.
+
+***
+
+Original text here: https://www.fico.com/en/newsroom/network-international-slashes-fraud-rates-mea-cloud-hosted-
+fico-solution
+
+                                                                                                 Page 4 of 4
+              Network International Slashes Fraud Rates in MEA With Cloud-Hosted FICO Solution
+
+[Category: Computer TechnologyBiz]
+
+Contact: Wendy Harrison, ficoteam@harrisonsadler.com
+
+Copyright Targeted News Services
+
+MSTRUCK-8780715 MSTRUCK
+
+
+Load-Date: August 20, 2024
+
+
+  

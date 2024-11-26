@@ -1,0 +1,107 @@
+
+
+                                                                                 Page 1 of 2
+              CMU , PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE CHALLENGE
+
+
+
+
+     CMU, PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE
+                            CHALLENGE
+                                                  States News Service
+                                                August 6, 2024 Tuesday
+
+
+
+Copyright 2024 States News Service
+
+Length: 901 words
+Byline: States News Service
+Dateline: PITTSBURGH, PA
+
+Body
+
+
+The following information was released by Carnegie Mellon University:
+
+Team Chiron to use robotics, AI, sensors to detect severe injuries in mass casualty events
+
+By: Marylee Williams Email
+
+Every second matters to emergency medical teams as they approach a mass casualty event and identify who
+needs immediate treatment. Breakthroughs in medical triage using robotics, artificial intelligence, drones and
+advanced sensing could save lives by directing medical personnel to people most in need of treatment.
+
+Team Chiron hopes to make those breakthroughs happen.
+
+The team, comprising researchers from Carnegie Mellon University and the University of Pittsburgh, is developing
+noninvasive, remote-detection systems for injury assessment as part of the Defense Advanced Research Projects
+Agency's (DARPA) three-year, $7 million DARPA Triage Challenge(opens in new window). Team Chiron will use an
+aerial drone and several ground robots equipped with multimodal sensor packs to evaluate the severity of injuries
+on mannequins and human actors.
+
+"A critical outcome of this challenge is to infer lifesaving interventions from injury patterns and globally integrate that
+data with responders for transportation and sustainment response execution," said Kimberly Elenberg(opens in new
+window), the team's principal investigator and a principal project scientist in the Robotics Institute(opens in new
+window) (RI) in CMU's School of Computer Science(opens in new window).
+
+DARPA is hosting the challenge to push advancements in medical triage. Teams from across the world are building
+robotic systems that can detect injuries in a mass casualty event and determine their severity using data captured
+by sensors on autonomous systems. The teams will be scored on the percentage of casualties identified, the
+accuracy in reporting casualty locations and casualty injury classification, the time to complete these casualty
+assessments, and more.
+
+                                                                               Page 2 of 2
+            CMU , PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE CHALLENGE
+
+The DARPA Triage Challenge consists of three rounds of competition in three categories: systems, virtual or data.
+Team Chiron is one of 15 teams competing in the systems category. The first-place team in the final round of
+competition in the systems category will win $1.5 million. Millions more in prize money and funding will be awarded
+to teams during the three-year challenge.
+
+Team Chiron tested their robotic system in June to gather data and prepare for the challenge's first competition in
+late September. During the test, robots and drones performed tasks assessing the medical status of casualties in a
+simulated environment. They measured vital signs such as heart and respiratory rate, and used thermal cameras to
+detect body heat. The team tested network reliability through the transmission of data to DARPA's central command
+unit. Overall, these tests aimed to improve the efficiency, accuracy and reliability of medical triage and disaster
+response.
+
+During a test, Team Chiron's robots and drones performed tasks to assess the medical status of casualties in a
+simulated environment.
+
+In the first competition, members of the team will control aerial and ground robots that survey the scene of a mass
+casualty event. In the second- and third-year challenges, the robots must act autonomously. Throughout the
+competition, Team Chiron will benefit from CMU's prior participation in the DARPA Subterranean Challenge(opens
+in new window), where CMU made autonomous robots that mapped and searched underground environments such
+as mines, cave networks and urban infrastructure, said John Galeotti(opens in new window), a senior systems
+scientist in the RI.
+
+"Right now, we're focused on how to use sensors and AI to estimate these physiological signs of trauma in a
+noncontact way," Galeotti said. "Normally, if a field medic, an EMT or a nurse were there, some of the first things
+they would do is walk up to the patient and take their pulse, touching them. There are a lot of things they would do
+that are hands-on. We can't do any of that.
+
+"One of the biggest parts of this challenge is how we decide what state the casualties are in when we can't get any
+closer than a meter away," he continued. "We and the other teams are focusing heavily on that problem in year
+one, and there is still a lot to be done."
+
+Each team is tackling research questions about how to best use robotics, AI and other technologies to assess and
+identify the severity of injuries. At the end of the three-year competition, Galeotti said, researchers will know how to
+better tackle the problems of medical triage.
+
+"Whether or not we've solved all the problems, we will hopefully have proven technologies that can solve several of
+the problems," he said. "We're hopeful that, as a tangible outcome of this competition, we begin to see the transition
+of the technologies out of academia into commercially available products that ultimately play a role in saving
+people's lives."
+
+Along with Elenberg and Galeotti, RI members of Team Chiron include Sebastian Scherer(opens in new window),
+an associate research professor; Artur Dubrawski(opens in new window), the Alumni Research Professor of
+Computer Science; Laszlo Jeni(opens in new window), an assistant research professor; and Srinivasa
+Narasimhan(opens in new window), the U.A. and Helen Whitaker Professor of Robotics. The team also includes Dr.
+Leonard Weiss, an associate professor in the Emergency Medicine Department at the Pitt School of Medicine.
+
+
+Load-Date: August 9, 2024
+
+
+  

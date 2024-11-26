@@ -1,0 +1,180 @@
+
+
+                                                                                                    Page 1 of 4
+   BG Titan Group and Veea Inc. Form a Strategic Partnership to Bring Internet Connectivity and Acutely Needed
+                             Services to Underserved Communities in North Africa
+
+
+
+
+BG Titan Group and Veea Inc. Form a Strategic Partnership to Bring Internet
+Connectivity and Acutely Needed Services to Underserved Communities in
+                              North Africa
+                                                     Business Wire
+                                        July 11, 2024 Thursday 10:00 AM GMT
+
+
+
+Copyright 2024 Business Wire, Inc.
+
+Length: 1732 words
+Dateline: NEW YORK & SAN DIEGO
+
+Body
+
+BG Titan Group ("BGT"), a leader in infrastructure development projects, and Veea Inc. ("VEEA"), a first-to-market
+pioneer in hyperconverged multiaccess networks, incorporating and edge-to-cloud computing and Edge AI, today
+announced a strategic partnership aimed at driving broadband inclusion and community development across North
+African countries. The parties entered into a Cooperation Agreement earlier this year in support of their joint market
+development and network roll-out activities that were initiated in 2023 in other regions. This collaboration extends
+the proven strengths of both companies to address the critical need for reliable Internet access in remote and
+underserved areas of North Africa through local and regional service providers offering value-added services with a
+focus on addressing food security challenges in the region.
+
+Illuminating the Path to Digital Inclusion
+
+In an era where Internet access is the key to the advancement of those who are disadvantaged socially and
+economically, BGT and Veea are committed to bringing digital equity to North Africa, while offering a plethora of
+solutions to the underserved communities in the region. This partnership will focus on implementing Veea's virtual
+Trusted Broadband Access (vTBA) platform, designed to provide cost-effective, secure, high-quality Internet access
+and other edge solutions to communities that have traditionally been left behind in the digital revolution.
+
+Veea Edge Platform can extend AI technologies, based on Large Language Models (LLMs) such as OpenAI
+ChatGPT, Google Bard, Meta Llama and others, that are rapidly pervading the educational, healthcare and many
+other sectors in the urban centers, to the underserved communities cost effectively, which hold even a greater
+promise for enhancing the quality of distance learning and training, telehealth, virtual agents for agricultural and first
+responders use cases, and many others. Moreover, Edge AI deployed locally in the rural areas brings intelligence
+to VeeaHub's Internet of Things (IoT) applications delivered through VeeaHub's embedded IoT gateway, which has
+a vast array of use cases such as precision agriculture, water and air quality management, optimization of energy
+consumption, public safety, and environmental monitoring.
+
+"Our collaboration goes beyond mere infrastructure deployment," said Aymen Boughanmi, CEO of BGT. "Each
+VeeaHub we install is a catalyst for change, a beacon of opportunity in areas long overlooked by technological
+progress."
+
+                                                                                                   Page 2 of 4
+  BG Titan Group and Veea Inc. Form a Strategic Partnership to Bring Internet Connectivity and Acutely Needed
+                            Services to Underserved Communities in North Africa
+
+Empowering Communities with Connectivity
+
+1. Broadband Equity and Inclusion: The partnership aims to drive broadband equity by providing affordable and
+accessible Internet service to diverse populations, particularly in rural and underserved areas, ensuring that all
+communities have the opportunity to participate in the digital economy. Local ISPs can extend their coverage areas
+through deployment of Veea Edge Platform products, which offer seamless and cost-effective connectivity solutions
+over cellular-like managed Wi-Fi. This will enable ISPs to extend their services without the heavy investment
+typically required for traditional cellular infrastructure, while provisioning edge-managed value-added services for a
+range of applications such as:
+    •   Remote access to education, healthcare, and training
+    •   Regenerative precision agriculture and smart farming
+    •   Streaming or cached content for entertainment and gaming
+    •   Industrial and enterprise use cases of IoT
+
+2. Enhancing Educational Connectivity: Recognizing the transformative power of education, the partnership will
+prioritize Internet connecting for educational institutions in remote areas transforming rural schools into digital
+learning hubs. Schools will receive quality, reliable Internet access - enabling students and teachers to utilize online
+learning resources real-time or through cached educational content on VeeaHub units locally, while connecting with
+the educational centers at all levels of education in urban centers. Distance learning is made more effective with the
+application of LLMs by adapting the content to the current cognitive needs of students individually in the smaller
+communities.
+
+3. Telehealth and Telemedicine Services: Veea and BGT have been collaborating on the development of telehealth
+and telemedicine services for several regions. The use of technology in healthcare delivery can assist healthcare
+systems, organizations, and providers in expanding access to and improving the quality, safety, and effectiveness
+of rural healthcare. Telehealth can reduce challenges patients encounter, such as transportation issues related to
+traveling for specialty care. In rural areas, where access to specialists is limited, LLM-based AI can act as a virtual
+consultant, aiding local healthcare professionals in making more accurate and timely decisions. Machine learning
+algorithms based on the data collected and processed locally can also assist in early detection of diseases,
+pandemics and community health assessments related to environmental pollutants by analyzing patterns in patient
+data, enabling proactive and preventive interventions.
+
+4. Addressing Food Safety and Security Challenges: With the world's population outpacing its food production, food
+security has become a matter of national security for many countries, especially in North African countries due to
+extreme weather events like heat waves, floods, wildfires and severe storms. It is also expected that extreme
+hydrological variability will disproportionately impact North Africa, putting further stress on limited water resources.
+Veea Edge Platform uniquely offers regional water distribution and irrigation management capabilities along with
+precision agriculture solutions that can substantially increase the yield of various crops by enabling data-driven
+farming with data from sensors, soil probes, drone and satellite imagery, and micro weather stations along with
+deep learning and AI at the edge.
+
+5. Environmental Monitoring and Disaster Response: In a region prone to extreme weather events, data processed
+from various sensors in VeeaHub's edge applications can monitor air quality, predict sandstorms, and alert
+communities to impending natural disasters. In such scenarios, Veea Edge Platform offers a local communication
+network for coordinating emergency responses and saving lives while offering the network coverage and the edge
+applications for monitoring, reporting and verification of regional sustainability goals.
+
+This partnership between BGT and Veea is more than a business venture - it is clarion call for change, a testament
+to the transformative power of technology when guided by compassion and insight. The partnership intends to
+facilitate AI-driven local digital marketplaces with a unique blockchain for secure financial transactions with access
+to microloans and digital banking services. Small businesses in rural areas will be able to reach global markets,
+artisans can showcase their work internationally, and entrepreneurs can access resources previously out of reach.
+
+                                                                                                   Page 3 of 4
+  BG Titan Group and Veea Inc. Form a Strategic Partnership to Bring Internet Connectivity and Acutely Needed
+                            Services to Underserved Communities in North Africa
+
+The Parties are engaged in further partnering discussions with ISPs, a number of regional and international
+agencies, sovereign funds, and foundations on a range of projects in North Africa.
+
+"Veea Edge Platform is the Swiss Army knife of digital transformation," explains Allen Salmasi, CEO of Veea. "It's
+not just about providing internet access. We deploy a mesh network of VeeaHub smart computing devices that
+bring the power of edge computing with edge applications, IoT integration, and AI directly to unserved communities
+that have been unable to benefit from the rapid technological advancements realized by those with broadband
+access."
+
+"This collaboration sets a new standard for the infrastructure development of a profitable realization of social and
+public safety services, business productivity and regional sustainability objectives," stated Aymen Boughanmi. "The
+rapid technological advancements, supported by a wealth of AI models at the edge, will bridge dreams and
+aspirations of those living in unserved and underserved communities to an era of unprecedented opportunity and
+growth."
+
+About BG Titan Group
+
+BGT is a global leader in infrastructure development, specializing in large-scale projects that drive economic growth
+and community development. With a presence in multiple regions, BGT is committed to delivering innovative
+solutions that address critical infrastructure needs.
+
+About Veea Inc.
+
+Veea® makes living and working at the edge simpler and more secure. Veea has unified computing,
+communications, storage services and security solutions through fully integrated, easy to deploy and maintain edge
+computing products. VeeaHub smart computing hub devices, of the full-stack Veea Edge Platform, integrate
+multiprotocol communications with advanced networking for applications running in Secured DockerTM containers
+on a networking and computing mesh network with cloud management of devices, applications and value-added
+services at the edge. It extends the wide area optical fiber, cellular and satellite networks, with managed Wi-Fi and
+IoT devices, sensors and machines, as a direct extension of ISPs' services on local area networks.
+
+The multi-tenant distributed computing platform also enables monitoring, command and control of resources, assets
+and the endpoints with advanced networking for IoT applications on a wide area-basis for both the consumer and
+the enterprise markets. Veea Developer Portal and development tools provide for rapid development of edge
+applications that are more responsive, maintain data privacy, and run more securely at the edge, optionally, with
+Edge AI. VeeaHub's virtualized software environment provides a secure service access edge device with Zero
+Trust Network Access (ZTNA) for edge services.
+
+Veea Edge platform offers a broad range of solutions cost-effectively for underserved communities, enterprises and
+service providers for B2B and B2B2C use cases and value-added services. Veea works with and supplies to
+enterprise customers, service providers, channel partners, system integrators, and government agencies. Veea was
+formed in 2014 and is headquartered in New York City. For more information, visit veea.com and follow us on X and
+LinkedIn.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240711385594/en/
+
+
+CONTACT: Media Contact:Veea Inc.
+James Christopherson
+Sterling Communications for Veea
+
+veea@sterlingpr.com
+
+                                                                                                   Page 4 of 4
+  BG Titan Group and Veea Inc. Form a Strategic Partnership to Bring Internet Connectivity and Acutely Needed
+                            Services to Underserved Communities in North Africa
+
+
+http://www.businesswire.com
+
+
+Load-Date: July 11, 2024
+
+
+  

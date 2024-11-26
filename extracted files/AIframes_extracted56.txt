@@ -1,0 +1,281 @@
+
+
+                                                                                                          Page 1 of 5
+                                          THE STATE OF THE SUPERCOMPUTERS
+
+
+
+
+                               THE STATE OF THE SUPERCOMPUTERS
+                                                      US Fed News
+                                         August 21, 2024 Wednesday 12:31 PM EST
+
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+
+
+Length: 3028 words
+
+Body
+
+
+AUSTIN, Texas, Aug. 21 -- The University of Texas at Austin issued the following news release:
+
+Inside a large building on UT's J.J. Pickle Research Campus - once in the boonies north of Austin but now flanked
+by the upscale Domain development and Q2 Stadium - is a room about the size of a grocery store in a mid-sized
+town. In that room, where every aisle feels like the frozen aisle, sits row after row of racks, 7 feet tall, each holding
+stacks of black central processing units. It is tempting to write that these CPUs are quietly figuring out the secrets of
+the universe, but quiet they are not. All conversations in this room must be shouted, as the whirring of thousands of
+fans make it as loud as a sawmill. They are on the job around the clock, no bathroom breaks, no weekends, no
+holidays.
+
+This is the Data Center, the roaring heart of UT's Texas Advanced Computing Center, which for 23 years has been
+at the forefront of high-powered computing and a jewel in the crown of The University of Texas at Austin.
+
+"Supercomputer" is an informal term, but it's "a good Texas concept": our computer is bigger than yours, muses
+Dan Stanzione, TACC's executive director and associate vice president for research at UT Austin for the past
+decade. Almost every supercomputer today is built as an amalgam of standard servers, and it is when servers are
+clustered together that they become supercomputers.
+
+Supercomputing at the University dates back to the late 1960s, with mainframes on the main campus. The center
+that became UT's Oden Institute for Computational Engineering and Sciences, a big contributor, was started in
+1973 by Tinsley Oden, a core contributor to the methods at the heart of computational science and engineering. In
+the mid-1980s, Hans Mark, who had started the supercomputing program at NASA, became UT System chancellor
+and took a keen interest in its advancement. But funding withered through the 1990s. Everything was rebooted, so
+to speak, when TACC was founded in 2001, "with about 12 staffers and a hand-me-down supercomputer," recalls
+Stanzione, who was recruited to TACC a few years later by Jay Boisseau to be his associate director.
+
+One of several TACC buildings on UT's J.J. Pickle Research Campus in north Austin
+
+TACC operates three big platforms, named Frontera, Stampede3 and Lonestar6, in addition to a few experimental
+systems, many storage systems and visualization hardware. In a given year, Frontera, the biggest computer, will
+
+                                                                                                          Page 2 of 5
+                                     THE STATE OF THE SUPERCOMPUTERS
+
+work on about 100 large projects. Other machines, such as Stampede3, will support several thousand smaller
+projects annually.
+
+Stanzione, an affable South Carolina native who grew up in New Jersey and whose path to Texas led through
+Clemson and Arizona State, explains that computing speed has increased by a factor of 1,000 every 10 to 12 years
+since the late 1980s. In 1988, a gigaFLOPS - 1 billion floating-point operations per second - was achieved. The first
+teraFLOPS was reached in 1998. A petaFLOPS (1 quadrillion) happened in 2008. An exaFLOPS (1 quintillion) was
+reached in 2022. Next up is the zetaFLOPS, which might be reached in fewer than 10 years.
+
+Stanzione says that over the last 70 to 80 years, this increase could be attributed roughly in thirds: a third physics, a
+third architecture (how the circuits and computers were built) and a third algorithms (how the software was written).
+But those are now changing as we bump up against the limits of physics.
+
+"Now, we're in a phase where physics is providing less of a boost than it did in the 1990s, when we just bought
+faster chips." There was a time when making the transistor smaller would roughly double the performance, but now
+chips have become so small that the gates of the newest transistors are only 10 atoms wide, which results in more
+leakage of electrical current. "They're so small that the power goes up and the performance and speed doesn't
+necessarily go up," he says. The ability to keep the power constant ended in 2007.
+
+Powering the Processors
+
+The average American home runs on about 1,200 watts. TACC, by comparison, typically requires about 6
+megawatts, with a maximum capacity of 9 megawatts. (A megawatt is 1 million watts, or 1,000 kilowatts.) Frontera,
+TACC's biggest machine, alone uses up to 4.5 megawatts, and TACC uses the amount of power equivalent of
+about 5,000 homes.
+
+"The turbines at Mansfield Dam, full power, are 30 megawatt turbines, so we could use a third of the capacity of the
+dam just in the Data Center now," Stanzione says, with a blend of astonishment, swagger and concern. "We're
+going to add another 15 megawatts of power in the new data center that we're building out because the next
+machine will be 10 megawatts."
+
+To mitigate the energy used by these hungry machines, TACC uses wind credits to buy much of its power from the
+City of Austin. A hydrogen fuel cell nearby on the Pickle Campus also supplies power, so we "have a fair mix of
+renewables, and what we do but for the most part we buy our power off the grid," Stanzione says.
+
+TACC's new data center under construction in Round Rock will be powered completely by wind credits. Round
+Rock, where I-35 crosses SH-45, has become a hotspot for data centers because that is where fiber-optic lines,
+which run along I-35, enter a deregulated part of Central Texas. (Austin is regulated, but Round Rock, Pflugerville,
+Taylor and Manor are not, offering competitive utility prices).
+
+The Quest for Cooling
+
+The first thing you notice upon entering the Data Center is that it is cold. But the faster the machines, the more
+power they require, the more cooling they require. TACC once air-cooled the machines at 64.5 degrees. But you
+can only pull through so much before you start having "indoor hurricanes," says Stanzione. "We were having 30-
+mile-an-hour wind speeds." Spreading the servers out would help the heat dissipate but would require longer cables
+between them. And even though the servers are communicating at the speed of light, as pulses shoot down a fiber-
+optic cable, "which is about a foot per nanosecond (one-billionth of a second) or, in good Texas-speak, 30
+nanoseconds per first down. If we spread them out, then we're taking these very expensive computers and making
+them wait," he says. Those billionths of a second add up.
+
+TACC's Sean Hempel runs new cable on the Frontera supercomputer during an expansion that contributed to
+urgent computing capabilities, which was being used for the COVID-19 crisis and a record hurricane season. Photo
+courtesy of TACC
+
+                                                                                                         Page 3 of 5
+                                     THE STATE OF THE SUPERCOMPUTERS
+
+In 2019, when its fastest computer was using 60,000 watts per rack, they switched to liquid cooling, in which a
+coolant is piped over the face of the chip. Horizon, the next system, will use 140,000 watts per cabinet of GPUs
+(graphics processing unit). Now they have switched to other ways of transferring heat off the surface area of the
+processor: immersion cooling. It looks like science fiction to submerge computers in liquid, but it is not water. It is
+mineral oil.
+
+The People Behind the Processing
+
+TACC requires 200 staffers. Many work on the user support and software side, visualization and AI. The core team
+that staffs the Data Center numbers 25, with at least one person there around the clock to watch for problems.
+There are people who "turn wrenches," replacing parts and building out the hardware. Others mind the operating
+systems and security. Still others work on applications and scheduling and support code tuning. Almost half of the
+staff are Ph.D.-level research scientists.
+
+Much of the staff is divided into support teams for projects within a given domain, such as the life sciences team,
+because they "just speak a different language," says Stanzione. "I could have a physicist support a chemist or a
+material scientist or an aerospace engineer because the math is all shared. If you speak differential equations you
+can work in those spaces, but when you start talking genome-wide association studies, there's a whole different
+vernacular." Besides the life sciences team, there is an AI data team, a visualization group and experts who build
+out interfaces like gateways and portals.
+
+As for the users, scientists from some 450 institutions worldwide use TACC machines. The center is primarily
+funded by the National Science Foundation, which supports open science anywhere in the United States. Some
+350 universities in the U.S. use TACC, but since science is often global, it is often the case that a U.S. project lead
+will have collaborators overseas. Many foreign collaborators are in Europe and Japan. Because TACC is funded
+mostly by the NSF, scientists in certain countries are not allowed to use TACC machines.
+
+Stanzione says the diverse nature of supercomputing is what attracts many to the field. "I'm an electrical engineer
+by training, but I get to play all kinds of scientists during a regular day. As we say, we do astronomy to zoology."
+Traditionally, supercomputers have been used most in materials engineering and chemistry. But as the acquisition
+of digital data has gotten cheaper in recent decades, TACC has seen an influx of life sciences work. "Genomics,
+proteomics, the imagery from MRI, FMRI, cryoEM (cryogenic electron microscopy) - all of these techniques that
+create huge amounts of digital data increasingly cheaply means you need big computers to process and analyze it,"
+says Stanzione.
+
+The upshot of all this data flowing in for about the last seven years has been the emergence of AI to build statistical
+models to analyze it. "That's fundamentally what AI is," says Stanzione. "That's probably the most exciting trend of
+the last few years: taking all the science we've done and bringing AI into how that works."
+
+"We're actually replacing parts of physics with what we're calling surrogate models so we can do a faster scan in a
+space of parameters, simulate a possible hurricane, simulate every possible molecule for drug discovery. We
+scanned billions of molecules for interactions with COVID, every possible compound, and we used AI to accelerate
+that."
+
+Stanzione says that the machines ramp up for every big natural disaster. "If there's a hurricane in the gulf, odds are
+we're taking tens of thousands of cores offline to devote it to hurricane forecasting. This time of year we have a
+project with our neighbors up in Oklahoma who are doing storm chasing. We run fast forecasts of severe storms so
+they can send the tornado chasers out in the right direction at 4 o'clock every morning. In response to earthquakes,
+we do a lot of work around the infrastructure in response to natural hazards." New earthquake-resistant building
+codes are the result of simulation data.
+
+I'm an electrical engineer by training, but I get to play all kinds of scientists during a regular day. As we say, we do
+astronomy to zoology."
+
+Dan Stanzione
+
+                                                                                                         Page 4 of 5
+                                     THE STATE OF THE SUPERCOMPUTERS
+
+TACC systems have been used in work resulting in several Nobel Prizes. TACC machines were among the ones
+responsible for analyzing the data leading to the 2015 discovery by LIGO (Laser Interferometer Gravitational-Wave
+Observatory) of gravitational waves, created by the collision of two black holes. The existence of gravitational
+waves was predicted by Albert Einstein in 1916.
+
+John Fonner (left) and Nick Thorne of TACC discuss a chassis on the Lonestar6 supercomputer that hosts graphics
+processing units to support machine learning workflows and other GPU-enabled applications. Photo courtesy of
+TACC
+
+TACC also provided resources to the Large Hadron Collider in Switzerland, which in 2012 discovered the
+subatomic particle known as the Higgs boson, which confirmed the existence of the Higgs field. "Almost every day,
+there was data coming off the colliders to look at," Stanzione recalls.
+
+"Some days I get to be a biologist. Some days I'm a natural-hazards engineer. Some days we're talking about
+astrophysics. Some days we're discovering new materials for better batteries."
+
+Video screens show a sample of work TACC machines are doing: a study of the containment of plasma for fusion,
+what happened after the Japanese earthquake and tsunami of 2011, a binary star merger, a simulation of a meteor
+hitting in the ocean off Seattle, severe storm formations, ocean currents around the Horn of Africa, a DNA helix in a
+drug discovery application, some of the first data from the James Webb Space Telescope being worked on at UT,
+stitching together the color graphic and all the images. "We have an endless variety of stuff that we get to do."
+
+As data has gotten cheaper, the social sciences now are moving in. "We have people instrumenting dancers with
+sensors all over their bodies who we store data for, things we never did 20 years ago. Between the things that we
+can model physically, the things where we can process a bunch of data or statistically model through AI, there's
+probably not a department at the University that doesn't have a tie to high-performance computing as their data or
+computations get bigger."
+
+A New Chapter
+
+In July, the National Science Foundation announced that, after many years of funding TACC's supercomputers one
+system at a time, TACC would become a Leadership-Class Computing Facility. Stanzione calls it "a huge step
+forward for the NSF and computing," and says they have been in the formal planning process for this for seven
+years and informally involved for 25 or 30 years. Moving TACC to what the NSF, in its understated way, terms "the
+major facilities account" puts it in an elite club of institutions such as the aforementioned Large Hadron Collider,
+LIGO and several enormous telescopes, "things that run over decades."
+
+"From a scientific-capability perspective, we're jumping an order of magnitude up in the size of computers we're
+going to have, the size of the storage systems and additional staffing." TACC is building a new data center in
+Round Rock just to house its next supercomputer, Horizon. The new data center, which the federal government is
+paying to customize, will be managed by a private data center company. TACC will remain on the Pickle Campus.
+
+Aside from a quantum leap in capability, there is also a consistency and sustainability aspect to the new NSF
+designation. Individual computers built with grant funding have a useful life of four to five years. "It's like buying a
+laptop - they age out," Stanzione explains. "If you're partnering with one of these big telescopes like the Vera Rubin
+Observatory that's going to operate for 30 years, there's a huge risk for them if their data-processing plan relies on
+us and we have a four-year grant to run a machine. Now, we're going to decade-scale operational plans with
+occasional refreshes to the hardware of the machine, which means we can be a more reliable partner for the other
+large things going on in science."
+
+Ecological work requires observations over decades. Astronomy work requires data to persist for a long time. In a
+show of leadership in that area, TACC recently sent a team to Puerto Rico to retrieve data from the Arecibo
+Observatory, long the world's largest single-aperture telescope, before it shuts down. They came back with pallets
+of tapes with petabytes of data that have been collected since 1964 there. "If you're making a billion-dollar
+
+                                                                                                        Page 5 of 5
+                                    THE STATE OF THE SUPERCOMPUTERS
+
+investment in an instrument, you're going to want to have both the processing capability and the data sustainability
+around that instrument," Stanzione says.
+
+Now, we're going to decade-scale operational plans with occasional refreshes to the hardware of the machine,
+which means we can be a more reliable partner..."
+
+Dan Stanzione
+
+"For me, the first-order exciting thing is big new computers. That's what drives us to do stuff. But for the national
+scientific enterprise, it's consistent, sustainable data."
+
+UT Users and AI
+
+TACC of course has had long relationships with many UT faculty. "A lot of our users go back decades to our
+founding 23 years ago and even before," he says, "but I'm not sure everybody [at UT] knows we're here, or they
+see us as the NSF facility for the national community." But TACC does have a role in supporting UT Austin and the
+UT System.
+
+"I'd encourage researchers, when you get to the point where you're yelling at your laptop because you can't fit stuff
+in Excel anymore, or you've got a machine in the corner with a sign on it that says 'Nobody touch this because it's
+going to be running for the next three months to get this computation done,' you should give us a call." What we
+were funded to do and the reason we exist is to help you do your science at a larger scale and faster than you're
+doing it now."
+
+One area where TACC has seen explosive growth is in the AI community. They have frequent contact with UT
+faculty in computer science, but AI is popping up all over campus. There are applications in the business school
+and the medical school, for instance, which are not TACC's traditional users.
+
+Addressing AI within the context of supercomputing is basically redundant. "AI and the supercomputing
+infrastructures have converged. We've been building a lot of human expertise supporting and scaling large AI runs,
+and now with the new facility will be building out more capacity to permanently host AI models for inference, so you
+can build a reliable service to tag an image or identify a molecule or get an AI inference on the most likely track of
+our hurricane or things like that."
+
+In some sense the tale has wagged the dog, says Stanzione. "The corporate drivers for AI are stealing a lot of our
+people, making it harder to get the chips and pieces that used to be almost exclusively our provenance." Now,
+Microsoft is making investments at "unthinkable scales," tens of billions of dollars, as are many other players, he
+says, noting $300 billion in infrastructure globally this year. "But we are where a lot of these techniques came from,
+and we look forward to partnering with more AI users around the campus as we both understand what it can do,
+how to use it responsibly and how to minimize the energy it takes to run these big models. These are all core
+concerns for us, and that's probably going to be a big growth area for us in years to come." For any query with
+respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+
+Load-Date: August 27, 2024
+
+
+  
