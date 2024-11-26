@@ -96,7 +96,7 @@ library(flextable)
 
 ```{r}
 #reading PDF file and converting it into text. 
-text <- pdf_text("../AYClassProjectRepo/AY_framingAI.PDF")
+text <- pdf_text("https://github.com/akuwornu/AYClassProjectRepo/blob/main/AY_framingAI.PDF")
 writeLines(text, "../AYClassProjectRepo/AY_framingAI.text")
 file_path <- "../AYClassProjectRepo/AY_framingAI.text"
 text_data <- readLines(file_path)
