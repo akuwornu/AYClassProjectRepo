@@ -306,40 +306,7 @@ ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
        y = "Count of terms")
 ```
 
+# Prof. Rob, I'm still working on this assignment. I wanted to submit this as a way of progress while I finalize it. 
 
-#Create ggplot chart showing the distribution of the data over time
-
-#Import the excel file
-```{r}
-library(tidyverse)
-AI_excel  <- rio::import("/Users/taufiqahmad/Desktop/Code/FramingAI/data/AI_disaster. R.XLSX") %>%
-  janitor::clean_names()
-head(AI_excel)
-```
-
-#I am presenting ggplot from one month data. 
-
-```{r}
-data1 <- AI_excel |> 
-  janitor::clean_names() |> 
-  mutate(published_date_bak = published_date) |> 
-  separate(published_date, into = c("date", "year_day"), sep = ", ", extra = "merge", fill = "right") |> 
-  group_by(date) |> 
-  count(date) 
- 
-
-library(ggplot2)
-
-# Plotting the data
-ggplot(data1, aes(x =  date, y = n)) +
-  geom_line(color = "blue", size = 1) +
-  geom_point(color = "red", size = 2) +
-  labs(
-    title = "Count of Press Releases Over Time",
-    x = "Published Date",
-    y = "Number of Press Releases"
-  ) +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
