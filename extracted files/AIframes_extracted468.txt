@@ -1,148 +1,272 @@
 
 
-                                                                                                       Page 1 of 3
-          5 things to know for June 7: Presidential race, Hunter Biden, Extreme heat, Ukraine , Cargo ships
+                                                                                                 Page 1 of 5
+       House Appropriations Subcommittee on Legislative Branch Hearing "FY2025 Request for the Library of
+                         Congress and the Architect of the Capitol." Testimony by Robe....
 
 
 
 
- 5 things to know for June 7: Presidential race, Hunter Biden, Extreme heat,
-                            Ukraine, Cargo ships
-                                                        CNN Wire
-                                             June 7, 2024 Friday 10:59 AM GMT
+     House Appropriations Subcommittee on Legislative Branch Hearing;
+     "FY2025 Request for the Library of Congress and the Architect of the
+    Capitol."; Testimony by Robert Newlen, Interim Director, Congressional
+                     Research Service, Library of Congress
+                                           Congressional Documents and Publications
+                                                             April 16, 2024
 
 
 
-Copyright 2024 Cable News Network All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 1118 words
-Byline: By Alexandra Banner, CNN
-Dateline: (CNN)
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 3007 words
 
 Body
 
 
-        (CNN) - Tokyo's government is launching its own dating app as Japan's fertility rate plunges to a record
-low. The nation of nearly 124 million people only recorded around 727,000 births last year, new data shows.
+Thank you for the opportunity to present the fiscal 2025 budget request on behalf of the Congressional Research
+Service (CRS). In addition to outlining CRS's budget requirements for the upcoming fiscal year, my testimony will
+provide an overview of several noteworthy CRS accomplishments in its support for Congress during fiscal 2023,
+and update you on the Service's progress with respect to several strategic initiatives.
 
-Here's what else you need to know to Get Up to Speed and On with Your Day.
+FISCAL 2025 BUDGET REQUEST AND PROGRAM INCREASES
 
-1. Presidential race
+CRS's budget request for fiscal 2025 is 145.485 million dollars, an increase of 9.405 million dollars (or 6.9 percent)
+over the amount appropriated for fiscal 2024. The requested increase includes 6.579 million dollars for mandatory
+pay related and price level increases. It also includes a programmatic increase to support continued enhancement
+of the Service's quantitative data analysis capabilities and the integration of artificial intelligence technology into
+CRS's workflow. As in previous fiscal years, staff pay and benefits account for approximately 90 percent of the
+amount requested by CRS.
 
-President Joe Biden is set to present a case for democracy today in a speech at Pointe du Hoc, a clifftop in
-Normandy, France, stormed by US Army Rangers on D-Day. It is the same spot where Ronald Reagan delivered a
-speech 40 years ago and issued warnings against isolationism in the face of tyranny. Analysts say Biden will imply
-that former President Donald Trump - with his "America First" foreign policy, attacks on the integrity of the free and
-fair 2020 election and use of extreme anti-immigrant rhetoric that echoes that of the Nazis - is summoning the same
-forces that triggered a global war. Meanwhile, Trump is back on the campaign trail after a guilty verdict was
-delivered in his criminal hush money case. Trump on Thursday said he will announce his 2024 running mate at the
-Republican convention next month.
+Bolstering Quantitative Data Analysis Capabilities
 
-2. Hunter Biden
+CRS's requested program increase for fiscal 2025 includes approximately 3.5 million dollars and 1 FTE to enhance
+the Service's capability to perform quantitative data analysis and policy simulation, including the modeling of "big
+data" sets, for congressional clients. In recent years, CRS has observed growing demand from Members and
+Committees, to provide this type of analytical support. In the Joint Explanatory Statement accompanying the
+Consolidated Appropriations Act, 2023, Congress encouraged CRS "to explore ways to expand its ability to perform
+quantitative analysis of research data...." and directed the Service to "engage with an external entity to produce a
+report detailing the feasibility of CRS engaging in the analysis and modeling of big data sets by highlighting the
+information technology infrastructure, staffing, and analytical support required to establish and maintain such a
+capability." While CRS has conducted some limited quantitative analysis and policy simulation, currently it lacks the
+capacity to provide this service on a broader scale. In response to the direction provided in the Joint Statement,
+CRS contracted with a company in fiscal 2022, to conduct a study identifying the IT infrastructure, staffing, and
 
-President Biden said in an interview Thursday he would not pardon his son, Hunter Biden, if he's found guilty of
-criminal federal gun charges. He also affirmed he would accept the outcome of the trial, currently underway in
-Delaware. The president's son is accused of illegally purchasing the gun while abusing or being addicted to drugs,
-a violation of federal law. Hallie Biden - the widow of Hunter Biden's late brother, Beau - testified Thursday about
-her romantic relationship with Hunter, the couple's drug use and finding the gun at the center of the case. Once she
-left the stand, a trio of witnesses testified about the series of events that led police to recover the ditched weapon.
+                                                                                                Page 2 of 5
+      House Appropriations Subcommittee on Legislative Branch Hearing "FY2025 Request for the Library of
+                        Congress and the Architect of the Capitol." Testimony by Robe....
 
-3. Extreme heat
+analytical support required to establish and maintain a greater data analytics capability. In September 2023, CRS
+procured a vendor to pilot a small set of cloud based quantitative data models consistent with the recommendations
+in the study. Enhancing this area of its service offerings, would enable CRS to provide congressional requestors
+with a more granular view of the impact of legislative proposals on various demographic groups, as well as the
+interaction of such policies with other programs.
 
-Heat advisories are in effect for more than 25 million people in California, Nevada, Arizona, Utah and New Mexico
-as temperatures soar across parts of the US. Driving this prolonged, unseasonable heat is a robust heat dome - a
+CRS is also exploring opportunities to integrate artificial intelligence (AI) applications into the day-to-day work of
+the Service. The Service established an Artificial Intelligence Working Group (AIWG) to make recommendations
+to CRS leadership on best practices and operational processes necessary for the adoption of AI technologies.
+CRS's adoption of AI technology promises to create efficiencies in the development and publication of its products
+for Congress.
 
-                                                                                                      Page 2 of 3
-         5 things to know for June 7: Presidential race, Hunter Biden, Extreme heat, Ukraine , Cargo ships
+CRS would utilize 2.826 million dollars of the requested amount to set up and maintain a secure cloud computing
+environment, and to contract personnel (data scientists, programmers, and digital interface designers) to develop
+and maintain data analysis models and projects in that environment. The funds would also be used to invest in the
+software, modeling tools, and training necessary to develop these capabilities. An additional 643 thousand dollars is
+requested on behalf of the Library's Office of the Chief Information Officer (OCIO) to hire 1 FTE to design and
+support the systems needed to implement the program.
 
-large area of high pressure that parks over an area, traps air and heats it with abundant sunshine for days or
-weeks. Several temperature records were broken Thursday across states including California, Arizona and Nevada.
-Las Vegas reached 111 degrees, topping the record of 110 degrees set in 2010. In California, a high of 122
-degrees in Death Valley broke a record set in 1996. Phoenix also set a record high of 113 degrees, with more triple-
-digit temperatures expected today.
+In addition to the initiatives outlined above, CRS's priorities for fiscal 2025 include hosting a successful New
+Member Seminar in January 2025 for the newly elected Members of the 119th Congress; continuing efforts to
+strengthen the diversity and inclusiveness of its workforce and working environment; and supporting continuous
+integration and development of a modernized IT infrastructure. As always, CRS will focus primarily on the delivery
+of timely, authoritative products, services and programming tailored to meet the needs of the 119th Congress.
 
-4. Ukraine
+STRATEGIC INITIATIVES
 
-Ukrainian President Volodymyr Zelensky drew parallels between World War II and his country's battle against
-Russia in an address to French lawmakers today. "Hitler crossed red line after red line, Putin does the same," he
-said, adding that Ukrainians were the heirs of the Allied fighters of World War II. Zelensky's speech was greeted
-rapturously by the French National Assembly, with lawmakers giving him a standing ovation. His remarks came just
-hours after Russia attacked Ukraine's critical infrastructure overnight, targeting at least nine regions including the
-capital Kyiv, Ukrainian authorities said. For months, Russia has targeted Ukraine's power grid to deprive its citizens
-of electricity, heat, water and other essential services.
+The program increases requested by CRS are key components of the Service's broader initiative to explore
+innovative approaches to enhance its products and services and to ensure that Congress has access to the highest
+quality research, analysis, information, and expertise available. The following is a brief summary of CRS's progress
+in achieving these important objectives.
 
-5. Cargo ships
+Interactive Graphics and Other Visually-Based Products
 
-An "out of control" cargo ship prompted the temporary closure of a major bridge in Charleston, South Carolina, this
-week. An investigation is underway to determine what caused a crew to lose control of the ship on Wednesday near
-the Arthur Ravenel Jr. Bridge. The incident came over two months after the massive Dali cargo ship lost power and
-crashed into Baltimore's Francis Scott Key Bridge, destroying the 1.6-mile span and killing six construction workers.
-The Port of Baltimore shipping channel could fully reopen this weekend after painstaking operations to remove
-debris, officials said. The disaster spurred increased scrutiny of bridges across the US that could be at risk of
-collapse as infrastructure ages and cargo ships grow in size.
+CRS is developing new, visually-based products through the efforts of its Data Visualization and GIS Section, within
+the Office of Publishing (PUB), and under the guidance and oversight of the Interactive Graphics Working Group
+(IGWG). During the past year, the IGWG has worked to streamline the production of such products, address
+technical issues that arise, facilitate innovation in interactive displays, and expand interactive visual options. In
+addition, the Group has explored adaptation of content into interactive infographics within the CRS Insight product
+line; acquired additional libraries to support more options for creating interactive graphic formats; and worked
+closely with OCIO to ensure that CRS's IT infrastructure is more compatible with its interactive graphic needs.
 
-BREAKFAST BROWSE
+As of March 2024, CRS's product line includes 44 Infographics and 25 interactive graphics. CRS is also working on
+the prototype of a new "storymap" product, a next-generation storytelling platform that puts together multiple visual
+elements to create a narrative. These innovative products present exciting possibilities for CRS to present its
+research, analysis, and information to Congress in new, accessible, and user-friendly formats.
 
-Pat Sajak will host 'Wheel of Fortune' for the final time todayIt's Pat's final spin. Sajak will host his last episode
-of "Wheel" today after more than 40 years and 8,000 episodes on the game show.
+Workforce Recruitment and Retention
 
-SpaceX launches mega Starship on its fourth test flightElon Musk's SpaceX completed an unmanned test flight
-of the most powerful rocket ever built. Read about the milestones achieved during the latest flight.
+CRS continues to recruit, retain, and professionally develop a diverse, highly skilled workforce. During fiscal 2023,
+CRS developed 100 recruitment plans for merit selection positions, and attended over 20 recruiting events, many of
+which were sponsored by minority-serving institutions and organizations with a focus on underrepresented groups.
+Attendance at these events provided an opportunity to engage with a variety of prospective candidates, to increase
+awareness of CRS's brand as well as available employment and internship opportunities. The Service also
 
-USA scores major win against Pakistan at Men's T20 Cricket World CupThe victory was the biggest in USA
-Cricket history - and possibly one of the most shocking upsets in the sport of cricket.
+                                                                                                Page 3 of 5
+      House Appropriations Subcommittee on Legislative Branch Hearing "FY2025 Request for the Library of
+                        Congress and the Architect of the Capitol." Testimony by Robe....
 
-Netflix to fight $170 million damages claim over 'Baby Reindeer'A Scottish woman alleges she was defamed
-by the global hit show "Baby Reindeer." She's now seeking damages from Netflix totaling $170 million.
+supported several paid summer internship opportunities through the Student Diversity and Inclusion Internship
+Program. Updates on diversity and inclusion efforts are communicated to staff through messages from leadership,
+CRS's staff newsletter, and the Service's internal Diversity and Inclusion website.
 
-'House of the Dragon' braces for war in its fiery second seasonThe "Game of Thrones" prequel will soon begin
-its second season on HBO, which, like CNN, is a unit of Warner Bros. Discovery. Read more about the storyline
-here.
+Exploring Artificial Intelligence Applications
 
-QUIZ TIME
+Under the guidance of the CRS AIWG (noted above), CRS has initiated a number of AI related activities including:
+the launch of an Artificial Intelligence Research Portal to provide resources for CRS staff related to the field of AI;
+evaluation of new, generative AI components of a commercial legal research database; the development of an
+internal inventory of potential use cases for incorporating AI into the work of the Service; and the issuance of
+guidance to CRS staff prohibiting the use of Chat GPT or other AI tools in their work for Congress without prior CRS
+or Library approval.
 
-World War II veterans were honored on the 80th anniversary of D-Day this week. Where is the site of the famous
-landings?A. Okinawa, JapanB. Normandy, FranceC. Pearl Harbor, HawaiiD. Monte Cassino, Italy
+In collaboration with the Library's OCIO, CRS is also exploring the utilization of automated processes to expedite
+drafting, reviewing, and publishing of bill summaries and the assignment of geographic and organizational subject
+terms. These activities involve the evaluation of models and methods using generative AI, traditional AI/Machine
+Learning, and Natural Language Processing tools, and assessment to identify baseline expectations for acceptable
+accuracy rates, objectivity, and performance standards for machine-generated summaries and subject terms.
 
-Take me to the quiz!
+IT Modernization/Integrated Research and Information Systems (IRIS)
 
-Last week, 29% of readers who took the quiz got eight or more questions right. How will you fare?
+CRS continues to work with the Library's Office of the Chief Information Officer (OCIO) to modernize its IT
+infrastructure with the deployment of new tools and software to enhance support to congressional stakeholders.
+The Integrated Research and Information System (IRIS) initiative is a multi-year effort to update the Service's
+mission-specific information technology to provide CRS staff with the best resources to create and deliver products
+and services to Congress.
 
-TODAY'S NUMBER
+Several applications have been successfully deployed to CRS users. The Minerva request management application
+was released to users in the fourth quarter of fiscal 2023; updates and enhancements continue monthly. In addition,
+the Text Analysis Program (TAP) for supporting bill summaries and bill comparisons was released in the second
+quarter of fiscal 2024. CRS and OCIO are continuing to execute several additional work streams to include
+CRS.gov website redesign with an enhanced taxonomy and new search capability, authoring and document
+management, and content management. CRS anticipates a release of the newly redesigned CRS.gov website that
+includes an enhanced taxonomy and a new search capability early in the fourth quarter.
 
-                                                                                                      Page 3 of 3
-         5 things to know for June 7: Presidential race, Hunter Biden, Extreme heat, Ukraine , Cargo ships
+Technical solutions have been designed and adapted to maintain alignment with Library of Congress and
+Legislative Branch cloud strategies. Projects are currently proceeding consistent with contractual requirements,
+schedules, and resources. Solutions are being informed by both internal CRS staff as well as congressional
+stakeholders. These efforts are essential to modernizing CRS mission-critical applications, to achieve the Library's
+"digital first" strategy and meet the growing needs of the Congress, in the areas of information research, policy and
+data analysis, content creation, and product delivery.
 
-$1.5 billionThat's how much Alex Jones owes in damages over his lies about the 2012 Sandy Hook school
-massacre. The right-wing conspiracy theorist on Thursday agreed to liquidate his assets to pay the families of
-Sandy Hook victims, who have not seen a penny from Jones since he was found liable in 2022 for defamation and
-emotional distress. Jones baselessly peddled lies on his Infowars site that the mass shooting was staged, and the
-families and first responders were "crisis actors."
+Congress.gov
 
-TODAY'S QUOTE
+The United States House of Representatives and Senate produce, and own, the data that is accessible to Members
+of Congress, legislative agencies, and the general public from Congress.gov. This fiscal year marks an historic,
+behind-the-scenes accomplishment for authoritative information provided by our data partners. First generation, 30-
+40-year-old out-of-date systems and workflows are being retired.
 
-"Nice to be attached to the big city in the sky."
+The Library, including CRS, has worked closely with House and Senate data owners to incorporate data standards
+and best practices into the new systems and workflows that produce data for Congress.gov. Along with the Library,
+CRS is deeply appreciative for our data partners' initiatives to improve data quality by standardizing formats for
+legislative documents. The United States Legislative Markup, or USLM, is a legislative branch-wide standard that is
+integral to editing and publishing interoperability within the legislative ecosystem. Modernizing behind-the-scenes
 
-- NASA astronaut Butch Wilmore, after Boeing's historic Starliner mission safely docked with the International
-Space Station on Thursday. With the arrival of two new astronauts, there are now nine people working and living on
-the ISS.
+                                                                                                Page 4 of 5
+      House Appropriations Subcommittee on Legislative Branch Hearing "FY2025 Request for the Library of
+                        Congress and the Architect of the Capitol." Testimony by Robe....
 
-TODAY'S WEATHER
+workflows advances our legislative data partnerships in support of better tracking legislative information and
+Member contributions through Congress.gov.
 
-Check your local forecast here&gt;&gt;&gt;
+We are preparing for the future, and continue to bring historical materials into Congress.gov. To date, researchers
+can access more than 3.2 million historical and contemporary items from Congress.gov. We remain committed to
+working with our data partners, including the House Clerk, to continually improve accuracy, timeliness, and
+completeness of legislative information available from Congress.gov-the official website for U.S. federal legislative
+information.
 
-AND FINALLY ...
+CONAN Modernization
 
-Saturday is World Ocean DayWatch this video to see how researchers are mapping Australia's kelp forests with
-artificial intelligence to restore underwater ecosystems. Also, check out these tips to learn how you can make a
-difference on World Ocean Day.
+Known officially as the "Constitution of the United States of America: Analysis and Interpretation," CONAN serves
+as the official record for Congress of the U.S. Constitution's interpretation. In 2019, CRS collaborated with OCIO
+and the Law Library to introduce a website for CONAN: constitution.congress.gov. The site features hundreds of
+pages of updated constitutional analysis and content. During fiscal year 2023, CRS legal staff continued to provide
+comprehensive analysis of the Supreme Court's jurisprudence as it relates to every provision of the U.S.
+Constitution, including the implications of recently decided cases. To make CONAN more accessible to online
+users, new and existing content has been drafted and revised in the form of short, granular essays that focus on
+specific, discrete topics. CRS legal staff have also begun the organizational work to begin preparing the printed
+pocket parts to the decennial 2022 edition of CONAN, unless a legislative fix obviates the need to continue to
+produce hardbound and print publications of CONAN. Since the launch of the public website in 2019, CONAN
+online has received more than fifty million views and has served as a valuable reference source for Congress and
+the public.
 
-        By Alexandra Banner, CNN
+CRS has requested a legislative change to eliminate the requirement to produce the hardbound version of CONAN,
+which is quickly outdated, and rely exclusively on the CONAN website, which provides timely updates.
 
-TM & © 2024 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+Knowledge Management
+
+CRS continues to develop and implement strategies to capture, manage, preserve, and distribute institutional
+knowledge that it relies upon to provide exceptional service to Congress. CRS staff utilize the Research Portal,
+which is available on the Service's intranet, as a hub for digital resources. It provides staff with quick and easy
+access to information needed to research, analyze, and advise on legislative issues. By the end of fiscal 2023, CRS
+staff had access to 46 research portal sites. The Service sponsored multiple activities to facilitate the sharing of
+information, knowledge, and best practices and enable staff to learn from one another's experiences including
+quarterly Knowledge Cafe's, an annual Summer Series on emerging technologies, and communities of practice
+such as the SharePoint Users Group. In addition, CRS continued its efforts to improve its onboarding and
+offboarding procedures to ensure the timely transfer of knowledge held by senior analysts, attorneys, and
+information professionals.
+
+Access to Executive Branch Information
+
+In addition to the legislative change regarding CONAN (see above), CRS has requested a legislative change to
+improve access to executive branch information, which will enable the Service to respond to requests from and
+provide products to Members and their staff in a more timely and authoritative manner.
+
+SERVICE TO CONGRESS
+
+As in previous years, CRS provided support to almost every Member and committee office in fiscal 2023. CRS
+experts responded to over 76,000 congressional requests; prepared nearly 1,200 new products; and updated over
+1,800 existing products. The Service posted 117 new videos to CRS.gov and published 36 podcasts on a variety of
+topics including: the Metaverse, judicial conduct, the executive budget process, federal research and development
+(RandD) funding, defense topics, the role of the federal government in redistricting, and Medicare drug prices.
+
+                                                                                                Page 5 of 5
+      House Appropriations Subcommittee on Legislative Branch Hearing "FY2025 Request for the Library of
+                        Congress and the Architect of the Capitol." Testimony by Robe....
+
+In fiscal 2023, CRS experts provided extensive support to Members, committees, and congressional staff on a wide
+range of legal and public policy issues including: defense budgets and operations; energy supply and security;
+regulation of the financial sector; border security and immigration; tax and fiscal policy; the war in Ukraine; and US-
+China relations. CRS legislative attorneys advised congressional clients on the implications of recent Supreme
+Court opinions; and on legal questions associated with the termination of the COVID-19 public health emergency
+declarations; federal antitrust enforcement actions against large technology companies, social media regulation;
+and intellectual property and privacy concerns raised by artificial intelligence technology. In addition, CRS
+analysts and attorneys provided testimony before congressional committees on issues related to federal
+contracting; social security; strategic competition in the arctic; congressional oversight; and seating a delegate of
+the Cherokee Nation in the House of Representatives. CRS also continued to provide guidance on questions
+regarding legislative and budget process, congressional oversight, and the annual appropriations bills.
+
+During fiscal 2023, CRS hosted a variety of seminars and programs for Members and staff including its annual
+Issues and Policies seminar; a Legislative and Budget Process Institute; a series on legal research; and the
+biennially scheduled Federal Law Update series. The Service also conducted sessions on FEMA disaster
+assistance; cybersecurity and infrastructure security; and seminar series on issues related to financial services;
+disruptive technology; COVID 19; and defense. In addition, CRS successfully launched its Congressional Legal
+Education Forum (CLEF), a program that provides congressional staff a foundational legal education in matters
+relevant to Congress's legislative and oversight functions. In total, CRS conducted over 300 seminars that were
+attended by approximately 13,000 congressional participants.
+
+CONCLUSION
+
+Mr. Chairman, Ranking Member Espaillat, and Members of the Subcommittee, the initiatives noted in today's
+testimony, reflect CRS's ongoing commitment to enhance its product and service offerings to meet Congress's
+diverse and evolving needs and to do so as comprehensively and efficiently as possible. CRS values its role as
+Congress's trusted resource and is committed to providing exceptional research, analysis, and information to meet
+the needs of every Member and committee. On behalf of my colleagues at CRS, I would like to express my
+appreciation to the Committee for your continued support and for your consideration of CRS's fiscal 2025 request.
+
+Read this original document at: http://docs.house.gov/meetings/AP/AP24/20240416/117120/HHRG-118-AP24-
+Wstate-NewlenR-20240416.pdf
 
 
-Load-Date: July 27, 2024
+Load-Date: April 17, 2024
 
 
   

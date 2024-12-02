@@ -1,500 +1,899 @@
 
 
-                                                                                Page 1 of 9
-           FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                                 CONFERENCE ON CYBER SECURITY
+                                                                                                  Page 1 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
 
 
 
 
-   FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT
-          THE 2024 BOSTON CONFERENCE ON CYBER SECURITY
-                                                States News Service
-                                              June 5, 2024 Wednesday
+          G7 Italy 2024 Foreign Ministers' Statement on Addressing Global
+                   Challenges, Fostering Partnerships (Part 1 of 2)
+                                                     Targeted News Service
+                                              April 19, 2024 Friday 4:17 AM EST
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 4226 words
-Byline: States News Service
+
+
+
+Length: 10388 words
+Byline: Targeted News Service
 Dateline: WASHINGTON
 
 Body
 
 
-The following information was released by the FBI:
+The U.S. State Department posted the following statement by the foreign ministers of Canada, France, Germany,
+Italy, Japan, United Kingdom and the U.S. and the High Representative of the European Union:
+
+***
 
-Good morning. My name is Bryan Vorndran, and I'm the assistant director of the FBI's Cyber Division.
+The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy,
+Japan, the United Kingdom and the United States of America and the High Representative of the European Union.
 
-Director Wray and Deputy Director Abbate extend their regrets for not being able to make today's important event.
+I. INTRODUCTION
+
+As the international community faces multiple crises we, the G7 Foreign Ministers of Canada, France, Germany,
+Italy, Japan, the United Kingdom and the United States of America, and the High Representative of the European
+Union, renew our commitment to upholding the rule of law, humanitarian principles and international law, including
+the Charter of the United Nations, and to protecting human rights and dignity for all individuals.
+
+We reiterate the need to take collective action to preserve peace and stability and to address global challenges
+such as climate change, pollution, biodiversity loss, global health, education, gender inequality, poverty, food
+insecurity and malnutrition, violent extremism and terrorism, information integrity and a digital transition that
+respects, protects, and promotes human rights and fundamental freedoms.
 
-I want to begin by briefly discussing how FBI executes its strategy to disrupt our cyber adversaries.
+We affirm our commitment to free societies and democratic principles, where all persons can freely exercise their
+rights and freedoms. Human rights are universal, indivisible, interdependent and interrelated.
 
-First, given FBI's history, it should not be surprising that one of our core focuses is investigating and attributing
-cyber activity to disrupt cybercriminals and raise their cost to operate. Bottom line, we want to punish cybercriminals
-and take them off of the playing field.
+We reaffirm our commitment to the 2030 Agenda for Sustainable Development (2030 Agenda) and to re-energize
+efforts towards the achievement of the Sustainable Development Goals (SDGs), as multidimensional crises, and
+particularly the pandemic and ongoing major conflicts, have set back progress towards their achievement.
+
+                                                                                                  Page 2 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
 
-Next, we must gather and operationalize domestic intelligence to bolster victim recovery and support operational
-activity, or, as we say, we must pressure the common threats we face. We pressure these common threats by
-initiating joint and sequenced operations and on network operations to fight back against cyber adversaries from a
-domestic position and as a foothold for USIC [U.S. Intelligence Community] partners to engage. It's an all-tools/all-
-partners approach.
+We will continue to work in close cooperation with our partners and with relevant multilateral fora such as the G20.
+Global challenges require solidarity and a cohesive international response, looking for shared solutions for peace,
+stability, and development, leaving no one behind.
+
+II. FOSTERING PARTNERSHIP WITH THE MEDITERRANEAN AND AFRICA
 
-When I say all-partners, I mean it. We look to partner with domestic and global partners in both the public and
-private sectors. This is how we have the most significant impact on our adversaries.
+We will continue to deepen the partnership with African countries and regional organizations, including the African
+union (AU). We welcome the AU participation in the G20 as a permanent member and reiterate our support for the
+G20 Compact with Africa. The G7-Africa partnership is guided by the objectives of the AU Agenda 2063, the 2030
+Agenda for Sustainable Development and the Paris Agreement.
+
+The consequences of the Russian aggression and its weaponization of food supplies and energy resources have
+affected notably many vulnerable countries, particularly in Africa. In this perspective, Russia's war is proving not just
+a war against Ukraine but against the world's poorest and most vulnerable.
 
-And the final way we execute the FBI's cyber strategy is perhaps the most important one: victim engagement. We
-must provide rapid, comprehensive threat response and victim support in the wake of significant cyber intrusions,
-so, what authorities allow us to do our work.
+We reiterate our strong partnership for just, green transitions to net zero emissions as core to sustainable
+development, and we are ready to inject new momentum into the pursuit of Sustainable Development Goals
+(SDGs). Together with the entire international community and stakeholders beyond government, we need to
+urgently work in partnership to accelerate progress towards the 2030 Agenda and SDGs, consistent with the
+unanimous commitment reaffirmed at the UN General Assembly last September.
 
-Briefly:
+Debt vulnerabilities are a significant challenge. We fully support the G20's effort to improve the implementation of
+the "Common Framework" in a predictable, timely, orderly, and coordinated manner, providing clarity to
+participants. We recognize the importance of effective and long-term solutions, promoting coordination between
+official bilateral and private creditors. We call upon Multilateral Development Banks and development finance
+institutions to continue to play a key role to foster sustainable development through increased financing, policy
+advice and technical assistance for the benefit of developing countries, particularly the poorer and more fragile
+countries across the continent. In particular central to economic development is ensuring access to sustainable and
+resilient food systems, health care and health security, and clean, affordable, reliable, sustainable and modern
+energy for all.
 
-We have Title 18 authority to investigate computer intrusions.
+We reiterate our commitment to supporting African governments as they address conditions leading to terrorism,
+violent extremism, and instability, while respecting human rights and the rule of law. Development and democracy
+are mutually reinforcing, and we underscore the importance of free and fair elections to meet the citizens' needs
+and expectations.
 
-                                                                              Page 2 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
+We are concerned about the activities of the Kremlin-backed Wagner Group and other emerging Russia-backed
+forces, which are producing a destabilizing impact, notably in North Africa, Central Africa, and the Sahel. We call for
+accountability of all those responsible for human rights abuses.
 
-We have specific authorities within Rule 41, which governs search and seizure, allowing [the] FBI to seize malware
-covertly installed on U.S. infrastructure by our adversaries.
+1. Libya
 
-We have specific counterintelligence authorities allowing [the] FBI to be integrally involved in any nation-state
-campaigns targeting U.S.-based organizations.
-
-And, then, we have FISA [Foreign Intelligence Surveillance Act] authority, including Title 1, Title 3, and Section
-702.FISA Title I and Title III govern FBI's activities inside the United States, and FISA Section 702 governs [the]
-FBI's collection outside the United States. These authorities logically create two halves, the cybercriminal and
-national security investigations.
-
-Almost all of the criminals developing sophisticated malware to enable ransomware attacks are based in Russian-
-speaking countries and operate as organized crime syndicates, similar to traditional organized crime elements.
-They're entrepreneurial and have successfully lowered barriers to entry through ransomware-as-a-service. There
-are four key services to this business model: infrastructure, communications, malware, and currency.
-
-Specific to the malware key service, highly skilled malware coders are developing more-and-more sophisticated
-malware. Their affiliate model allows less technically skilled criminals who are obscured from the enterprise leaders
-to deploy highly sophisticated malware for their personal gain, while paying a percentage of their proceeds to the
-highly skilled malware coders.
-
-Any organization's goal should be to prevent these attacks, and prevention efforts should be commensurate with
-acceptable downtime. If acceptable downtime is one day, increasing prevention effort should be a high priority.
-Without effective steps taken in advance of the breach, an organization can find themselves wholly reliant on the
-honesty and integrity of bad actors to give them their data back.
-
-Let's talk about target identification.
-
-Ransomware actors evaluate three key things.
-
-First, who is easily targetable?
-
-Second, who is likely to pay based on brand damage?
-
-Finally, who will pay the most?
-
-Put in more industry standard terms: who doesn't have good net defense, has a high willingness to pay, and will
-suffer the most economic impact from the encryption of key systems?
-
-Ransomware attacks are almost always coupled with data theftwhich we refer to as "double extortion"or data theft
-and harassment of the victims and company officials, called "triple extortion."
-
-Let me make one additional note: When companies are extorted and choose to pay to prevent the leak of data, you
-are paying to prevent the release of data right nownot in the future. Even if you get the data back from the criminals,
-you should assume it may one day be released, or you may one day be extorted again for the same data.
-
-And when we are pursuing cybercriminal finances, infrastructure, and actors, one area we are specifically focused
-on is disrupting key services.
-
-One of the big developments from specialization is that malicious coders can write malware and then just sell
-access to other criminals who want to use it to attack or infect victims' computer systems.
-
-By going after this key service, we can have a massive impact on cybercrime.
-
-Just a week ago, our field offices in Charlotte, Indianapolis, Jacksonville, Los Angeles, and Cleveland worked with
-the Defense Criminal Investigative Service and U.S. Secret Servicealong with international partners from Denmark,
-
-                                                                              Page 3 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-France, Germany, and the Netherlandsto conduct a technical operation against four groups who offer malware as a
-service, in the first such operation ever conducted.
-
-That operation, Endgame, defeated multiple malware variants, took down more than 100 servers, and dismantled
-the infrastructure for four key pieces of global malware, which had been responsible for hundreds of millions of
-dollars in damages and had even compromised the critical-care online system a hospital needed to keep patients
-alive.
-
-Additionally, the five nations who conducted the technical operation worked with law enforcement in Portugal,
-Ukraine, and the U.K. [United Kingdom]as well as with Europol and Eurojustto arrest and interview suspects,
-conduct searches, and seize or take down servers all over the world.
-
-We're still gathering information from that operation, but it is already a huge success, just in removing the malware
-that those groups were selling to other criminals.
-
-And let's not forget about the Warzone Remote Access Trojan which was investigated by the FBI Boston Field
-Office, with support from the United States Attorney's Office here in Boston. The Warzone RATthe industry
-acronym for Remote Access Trojanprovided cybercriminals the ability to browse victim file systems, take
-screenshots, record keystrokes, steal victim usernames and passwords, and watch victims through their web
-cameras, all without the victims' knowledge or permission.
-
-In February, 2024, the FBI Boston Cyber Task Force conducted a joint sequenced operation with authorities in
-Nigeria and Malta that included five lines of effort:
-
-The seizure of four domains;
-
-The destruction on infrastructure which facilitated Warzone's operations;
-
-The tracing and seizure of cryptocurrency;
-
-The covert purchase of the malware; and
-
-The arrest, conviction, and sentencing of the primary subject in Nigeria.
-
-This year, FBI also conducted a complex operation against LockBita huge operation that functioned with a
-ransomware-as-a-service model.
-
-LockBit was set up by a Russian coder named Dimitri Khoroshev.
-
-He maintains the image of a shadowy hacker, using online aliases like "Putinkrab," "Nerowolfe," and
-"LockBitsupp."But, really, he is a criminal, more caught up in the bureaucracy of managing his company than in any
-covert activities.
-
-Essentially, he licenses LockBit ransomware, allowing hundreds of affiliate criminal groups to run shakedowns.
-
-In exchange for the use of his software, he gets a 20% cut of whatever ransoms they collect from innocent people
-and companies around the world.
-
-To help his affiliates succeed, he provides them assistance through hosting and storage, by estimating optimal
-ransom demands, and by laundering cryptocurrency.
-
-He even offers discounts for high-volume customers.
-
-These LockBit scams run the way local thugs used to demand protection money from storefront businesses.LockBit
-affiliates steal your data, lock it down, and demand a payment to return your access to it.Then, if you pay the
-
-                                                                              Page 4 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-ransom, they return your access to your data.But they also keep a copy, and sometimes they demand a second
-payment to stop them from releasing your personal or proprietary information online.
-
-Since September 2019, Khoroshev has leased-out his virus and enabled his affiliates to extort people all over the
-world.
-
-They have used LockBit ransomware to attack people and organizations in financial services, food and agriculture,
-education, energy, government and emergency services, healthcare, manufacturing, and transportation.
-
-By 2022, LockBit was the most-deployed ransomware variant in the world.
-
-It was used by hundreds of unconnected affiliates and has been responsible for over 1,800 attacks in the U.S. and
-more than 2,400 attacks globally, causing billions of dollars in damages to victims.
-
-Disrupting LockBit and its affiliates became a global effort, involving FBI work with agencies from 10 other
-countries, particularly the British National Crime Agency, over more than three years.
-
-In February, we announced the results of a major technical operation to disrupt and seize infrastructure, as well as
-to impose sanctions on LockBit and its affiliates.
-
-We determined that LockBit and its affiliates were still holding data they told LockBit victims they had deletedafter
-receiving ransom payments.
-
-Khoroshev then tried to get us to go easy on him by turning on his competitors, naming other ransomware-as-a-
-service operators.
-
-So, it really is like dealing with organized crime gangs, where the boss rolls over and asks for leniency.
-
-We will not go easy on him.
-
-Last month, the Justice Department unsealed charges against him and six co-conspirators for fraud, extortion, and
-other crimes.
-
-In total, that included 26 charges against Khoroshev. FBI will undoubtedly continue our pursuit of bringing him to
-justice here in the United States.
-
-Additionally, from our ongoing disruption of LockBit, we now have over 7,000 decryption keys and can help victims
-reclaim their data and get back online.
-
-We are reaching out to known LockBit victims and encouraging anyone who suspects they were a victim to visit our
-Internet Crime Complaint Center at ic3.gov.
-
-I want to briefly touch on some reflections about the cybercriminal ecosystem.
-
-Doing the basics well in a repeatable fashion is the most important thing you can do.
-
-Well-established cybersecurity practicesincluding MFA [multi-factor authentication] and password management,
-effective logging and log management, vulnerability and patch management, and maintaining air-gapped,
-encrypted, and current backupshave to be done in a repeatable fashion by your entire organization.
-
-Next, you need to plan well. And I'll spend some time here.
-
-These plans should cover business continuity, crisis management, disaster recovery, and computer intrusion
-incident response.
-
-                                                                              Page 5 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-It is very important these plans are not developed and exercised in isolation. It's also important for the plans to be
-exercised at the operational, executive, and board levels.
-
-The goal of your exercises should be to:
-
-Develop synergy amongst decision makers; and
-
-Refine your decision-making process.
-
-Based on our experience, there are three key areas of focus for your exercises.
-
-First, communications. Internal and external communications protocols (and decision making) should be the
-number-one focus area for all of your exercises.
-
-The second goal is related to a ransomware attack and focuses on the pay/no-pay decision. If you suffer a
-ransomware attack, does your organization and its board have clear expectations about when you will and won't
-pay the ransom based on organizational impact (e.g. downtime)?
-
-The third goal of your exercises is determining whether you will or won't share with the U.S. government. This is
-likely to be the most-debated topic during your exercises. And, even if there is an agreement to share, the second
-point of evaluation will be: What do we want to share?
-
-Again, the most well-prepared organizations have worked through multiple scenarios and have scripted their
-decisions based on a host of variables. Having an information-sharing plan included in your incident-response plan
-can help you prepare to engage the USG [U.S. government] when the time comes. It is important your inside and
-outside counsel contribute to that plan.
-
-And one final note about the relationships you'll need prior to an intrusion: Assuming you will retain outside counsel,
-what is the threshold for engaging outside counsel? What guidance have you agreed to with counsel about
-information sharing? Have you discussed what reports counsel will direct third-party incident response to draft
-(internal-eyes-only, privilege, non-privilege)?
-
-Who will you retain as third-party incident response, and what is the threshold for calling them? Do they know what
-reports they will be asked to write for the victim?
-
-The same questions apply for your insurance provider and negotiators.
-
-Specific to insurance providers, the gold standard is this: Your retained counsel must know what's in your insurance
-policy prior to an intrusion. This will ensure efficiency in decision-making during a time of crisis. And from an FBI
-perspective, we're looking right now at how we more holistically engage the insurance industry to ensure we're
-being a force multiplier benefiting victims.
-
-With initial access brokers, criminals have the flexibility to lease as much power as they need for their crimes and to
-hold onto them as long as they need them.
-
-Another business model for bots is to string them together into a massive and powerful botnet and then sell use of
-it.
-
-Just last week, the FBIworking with partners in Thailand, Singapore, and Germanydisrupted the world's largest
-botnet and residential proxy service: 911 S5.This botnet had victimized more than 19 million IP addresses in nearly
-200 countries, including at least 600,000 in the U.S. alone.It was used to commit cyberattacks, large-scale fraud,
-child exploitation, harassment, bomb threats, and export violations.
-
-911 S5 allegedly enabled cybercriminals to bypass financial-fraud detection systems and steal billions of dollars
-from financial institutions, credit-card issuers, and federal lending programs.Most of the fraud enabled by the botnet
-came in the form of phony pandemic relief fund applications, taking advantage of government services at a time
-
-                                                                              Page 6 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-when the most vulnerable among us needed that assistance the most.That included more than half-a-million
-fraudulent unemployment applications and more then 47,000 fraudulent applications to the Economic Injury
-Disaster Loan program.
-
-Our international technical operation seized the botnet's domains and $29 million dollars in
-cryptocurrency.Additionally, the U.S. Treasury imposed sanctions, and the botnet's administrator, YunHe Wang,
-was arrested overseas.
-
-When we talk about targeting by nation-states, our collective goal should focus on early detection, containment, and
-eviction.
-
-China is the most prolific threat. Other active nation-state actors include Russia, Iran, and North Korea.
-
-For private sector companies, the state-sponsored threat encompasses corporate espionage, destructive attacks,
-influence operations, and intelligence collectioneither through direct adversarial action or through collateral
-collection.
-
-As we saw in SolarWinds, the Russian SVR [Russia's foreign intelligence service] surgically targeted a handful of
-U.S. government agencies through a sophisticated software-based supply-chain compromise and, in doing so,
-compromised an additional 18,000 companies, all of whom were rendered vulnerable.
-
-I want to briefly touch on 3rd party applications and the outsized risk they pose to sectors or industries.
-
-Imagine, for a moment, an entire sector or industry uses a niche, but common, third-party application to facilitate its
-business.This common third-party application is depicted by the red box on the screen.
-
-From an adversary's perspective, targeting this application can allow criminals or a nation-state to have an outsized
-impact throughout an entire sector or industry.
-
-This is why, within sectors and industries, we must use the term peer instead of competitor.In cyber, if you are
-being targeted, so are your sector and industry peers. Information sharing with your peers is absolutely critical for
-entire sectors and industries to be more resilient to cyber threats.
-
-Okay, let's get back to the threats themselves.
-
-Theft of intellectual property [IP] or personally identifiable information [PII], specifically by China, remains highly
-probable.China then takes this IP or information and attempts to monetize it.We remain deeply concerned about the
-monetization of stolen IP for China's economic gain.
-
-We could provide hundreds of examples, but one discussed openly is China's attempted theft of COVID[-19]
-vaccine research from multiple U.S. universities.The same is true in other areas of emerging technology and
-research, including artificial intelligence and machine learning, quantum computing and communications, clean
-energy, etc.
-
-We also remain very concerned about the skills being developed by Chinese state-affiliated proxies and actors and
-their moonlighting for personal gain.
-
-When actors are uncontrolled, they operate with fewer constraints and will undoubtedly seek to profit personally
-from their off-the-record work.
-
-We saw China-sponsored hackers compromise United States state.gov domains for various reasons, including
-profit. To effectuate this monetary gain, these China-sponsored hackers used stolen PII.
-
-Next, "hack and dumps." This is a term you don't hear too much about but it's our adversaries' intent to compromise
-your network, acquire sensitive personal information, and then dump it onto the internet. This is often in an effort to
-promote competitive advantage.
-
-                                                                              Page 7 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-A simple question for you to ask your team is this: How long would it take for your organization to know there is
-sensitive informationor disinformationon the internet about your organization that could influence others' view of our
-reputation, or directly impact the short- or long-term valuation of our company?
-
-We should also assess internally if we have the ability to detect when sensitive information is removed from our
-networks.
-
-Lastly, access in furtherance of attacks. In military circles, this is referred to as prepping the battlefield. It involves
-pre-positioning tools and capabilities to maximize advantage should a need for a future attack arise or should [a]
-specific red line be crossed. This access is generally very difficult to detect as the adversary sits dormant after initial
-exploit, which emphasizes the importance of penetration-testing and threat-hunting work.
-
-This is a really important conversation for companies who sit within critical infrastructure sectors, and the goal is
-simple: early detection and eviction. It's the never-ending game of cat and mouse.
-
-However, while cybercriminals' ecosystem and business models have changed and continue changing, and while
-our approach to disruption has changed with them, that does not mean the hostile nation-state threat from cyber
-has lessened in any waynor that our efforts to disrupt hostile-government operations have slowed.
-
-For instance, in January, the FBI Field Office here in Boston led Operation Dying Ember, an international effort
-against Russian military intelligence: the GRU.This is the same Russian agency behind NotPetya, and the same
-one that attacked the Ukrainian electric grid in 2015, attacked the Winter Olympics and Paralympics in 2018, and
-conducted attacks against the country of Georgia in 2019.
-
-Often, sophisticated actors like the GRU will use the same sort of botnets that criminals use, aiming to cover their
-tracks.
-
-By weaponizing common devices and technologies, the Russian government continues to blur the line between
-criminal activity and their operations.
-
-In this case, the GRU was taking advantage of a botnet to target the U.S. government, cleared defense contractors,
-NATO allies, and the Ukrainian aid shipment network.
-
-Our court-authorized technical operation kicked the GRU off more than 1,000 home and small-business routers
-belonging to unwitting victims all over the worldincluding here in Massachusetts.
-
-A computer scientist and a case agent here in the FBI Boston Field Office worked together to figure out how to
-remediate the routersto get GRU malware off of them and to prevent reinfections.We removed surreptitiously
-installed malware from more than 400 routers here in the United States and hardened them against GRU re-
-attacks, and our international counterparts did so for about twice as many overseas.
-
-This was an operation we could not have accomplished without corporate partners, particularly Microsoft and the
-Shadowserver Foundation.
-
-By killing the GRU's access to a botnet they were using to run cyber operations around the world, we both helped to
-protect unwitting businesses and individuals and put a dent in Russia's cyber-enabled intelligence operations.
-
-As the Russian government continues to be reckless in cyberspace, the Chinese government can only be
-characterized as relentless.
-
-The Chinese government has the largest cyber program in the world, and it continues to use sophisticated tools to
-gain access to places they should not be.
-
-You may have heard about a group of China-sponsored hackers known as Volt Typhoon.
-
-                                                                              Page 8 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-We found persistent Chinese-government access inside our critical telecommunications, energy, water, and other
-infrastructure sectors.
-
-They were hiding inside our networks using tactics known as living off the land, essentially exploiting built-in tools
-that already exist on victim networks to get their sinister job donetools that network defenders expect to see in use,
-so they do not raise suspicions.
-
-Volt Typhoon also operated botnets to further conceal their malicious activity and the fact that the intrusion was
-coming from China.
-
-All this, with the goal of giving the Chinese government the ability to wait for just the right moment to deal a
-devastating blow.
-
-When Volt Typhoon's malware was discovered in critical infrastructure, we joined our U.S. and international
-partnersbeginning last spring, and again this Februaryto first author a series of joint cybersecurity advisories about
-what we saw, effectively calling out the hackers and sharing technical information victims can use to protect
-themselves.
-
-And then, we followed up those warnings with action aimed at the hackers.&#8239;Working with our partners in the
-private sector, the FBI was able to identify the threat vector and lead a multi-agency, court-authorized operation to
-not only remove Volt Typhoon's malware from the routers it had infected throughout the U.S., but also to sever their
-connection to that network of routers and prevent their reinfection.
-
-And while the recent Volt Typhoon story understandably caused a stir because of the sheer magnitude of the
-operation, the fact is the Chinese government's targeting of our critical infrastructure is both broad and unrelenting.
-
-So, what about the future?
-
-For China, this has beenand remainssimple math: What do American organizations possess that the Chinese
-want?
-
-You do not have to look further than China's 14th Five-Year Plan published in English on the internet. Why is it
-published in English? so they can use every vector and sympathetic party to steal to support their growth.
-
-The Chinese want intellectual property associated with information technology, biotechnology, new energy, new
-materials, high-end equipment, new energy vehicles, quantum, environmental protection, aerospace, and marine
-equipmentthose are areas of extreme focus.
-
-[The] FBI is also very focused on current SVR [Russian foreign intelligence service] activity and the ransomware
-affiliate group referred to as Scattered Spider.
-
-And other current focus areas include artificial intelligence, machine learning, and doing everything we can to
-ensure the 2024 election is secure.
-
-As I close here today, I want to reflect on a few things.
-
-All threats evolve, and our collective strategies need to evolve with them.
-
-The FBI had its most prolific year ever in terms of disruptions of cyber adversaries in 2023, something we're
-exceptionally proud of.
-
-But we should all remember we face extremely capable adversaries in China, Russia, Iran, North Korea, and with
-Russian-based cybercriminals who have safe-haven status in Russia.
-
-We should also remember that 85-90% of the most powerful cyber-threat intelligence lies in the hands of those
-other than the United States government, which brings me to a final point about partnerships: Not one of our pastor
-
-                                                                              Page 9 of 9
-         FBI CYBER ASSISTANT DIRECTOR BRYAN VORNDRAN'S REMARKS AT THE 2024 BOSTON
-                               CONFERENCE ON CYBER SECURITY
-
-futuredisruptions is possible without exceptional partnerships. We have to realize, and execute upon this theme,
-that we are in this together. We are stronger together.
-
-My ask of each of you today is this: Please be an ambassador for this message. We need everyoneprivate industry,
-nonprofits, academia, the U.S. governmentin the boat, rowing in the same direction.This is how we will be most
-effective.
-
-And while not a Celtics fanas I'm from PhiladelphiaI can absolutely appreciate a great sports town, and Boston is
-certainly that.
-
-It's my understanding the Celtics have a win song.So, as a fellow sports fan, I hope they play All I Do Is Win by DJ
-Khaled in Boston at least four times between now and June 23.
-
-Thank you for your time today.
-
-
-Load-Date: June 5, 2024
+We will continue to help Libya put an end to its protracted internecine conflict, also fueled by foreign forces, fighters
+and mercenaries, in order to build a more peaceful and prosperous future and support its stability, independence,
+territorial integrity and national unity. The political stalemate leaves Libya extremely vulnerable to third state actors
+pursuing control over Libya's security, politics and economy, sowing instability throughout the country and wider
+region.
+
+We therefore call on all Libyan political actors to engage in meaningful dialogue in order to break the current
+impasse and move towards a credible roadmap to free, fair and inclusive national presidential and parliamentary
+elections without delay. The international community must also be united in the pursuit of these goals.
+
+We take note with regret of the recent announcement by UN Special Representative of the Secretary General,
+Abdoulaye Bathily, regarding his decision to resign. We thank him for his dedicated service and renew our full
+
+                                                                                                  Page 3 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+support to the United Nations and the key role it continues to play in Libya. We call on the Secretary General of the
+United Nations to appoint his successor without delay.
+
+2. Sahel
+
+We express our grave concern for the deterioration of the security situation in the Sahel, compounded by the
+backsliding of the principles of constitutional rule of law, democracy and good governance and regression in the
+regional cooperation frameworks.
+
+Such an increasingly precarious and unpredictable political scenario requires renewed efforts by all relevant actors
+and stakeholders in reconfiguring international and regional responses to the challenge of growing political tension,
+confrontation, and instability in the Sahel.
+
+We are also deeply concerned by the spread of terrorist threats and activities, leading to conflict and causing
+widespread misery and displacement of the civilian population. We are appalled by the grave human rights
+violations committed by multiple parties, including Russian proxies in the region.
+
+We look forward to strengthening further our cooperation with the African Union, regional organizations and the UN
+in fostering stability, security, good governance and development in the Sahel, preventing a "spill-over" of insecurity
+towards the Gulf of Guinea and North Africa, as well as irregular migration flows towards North Africa, Europe and
+the Western Hemisphere.
+
+We congratulate Mauritania on its taking over the rotating Presidency of the African Union and we commend its
+commitment to the rule of law, good governance, refugee inclusion and constitutional values. We stand ready to
+assist States of the Sahel in accelerating the pace of the transition towards the return of the constitutional order.
+
+3. Horn of Africa
+
+We reaffirm our strong commitment to promoting peace, security, and stability in the Horn of Africa. We continue to
+provide humanitarian support to those most affected by food insecurity, widespread poverty, armed violence, the
+impact of extreme weather events and displacement.
+
+We express our concern regarding the Memorandum of Understanding between Ethiopia and the Somaliland region
+of Somalia announced in January 2024. We encourage both the Ethiopian and the Federal Government of Somalia
+to keep all channels of dialogue open to prevent further escalation, working with regional partners, in the framework
+of the African Union and through bilateral contacts, in accordance with international law and the principles of
+sovereignty and territorial integrity as enshrined in the UN Charter.
+
+4. Somalia
+
+We commend the important progress in the institutional, macroeconomic and security sector in Somalia. We
+encourage the Somali Authorities to continue to make meaningful progress in the fight against Al Shabaab and in
+the consolidation of the institutional framework, including completion of a transparent and inclusive constitutional
+reform process.
+
+The process of transitioning security responsibilities to the Somali security forces needs to be closely followed,
+especially in view of the termination of the mandate of the African Union Transitional Mission (ATMIS) in Somalia at
+the end of 2024. We welcome planning underway by Somalia and the African Union for a multinational mission to
+follow ATMIS to help maintain stability while Somalia continues to develop its security capabilities.
+
+5. Ethiopia
+
+While we welcome developments in the implementation of the cessation of hostilities agreement between the
+Government of Ethiopia and the Tigray People's Liberation Front, we express concern for the persistent and violent
+
+                                                                                                  Page 4 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+tensions in many areas of the country, as well as reports of human rights violations and abuses, the severe
+economic crisis and widening food insecurity
+
+We encourage further and lasting developments in the protection of human rights, protection of civilians, political
+dialogue to resolve tensions, reconciliation and national dialogue, transitional justice and accountability for crimes
+committed during the conflict.
+
+We call for a similar commitment by those involved in conflicts in other regions of Ethiopia to pursue peace through
+dialogue.
+
+We underscore the importance of delivering peace dividend quickly for conflict-affected populations through
+recovery and reconstruction support, disarmament, demobilization, and reintegration of ex-combatants, and
+implementation of durable solutions for Internally Displaced People (IDPs).
+
+6. Sudan
+
+We strongly condemn the ongoing fighting between the Sudanese Armed Forces and the Rapid Support Forces in
+Sudan, where the humanitarian situation continues to deteriorate more than one year into the war. We especially
+note the impact of the crisis on women and girls, and condemn the ongoing atrocities being committed by both
+sides of the conflict, including using rape and other forms of gender-based violence including conflict-related sexual
+violence. We are concerned by the increasing numbers of displaced people.
+
+Obstruction of humanitarian access by the Sudanese Armed Forces and rapid Support Forces is resulting in the
+starvation of the Sudanese people. We urge both the Sudanese Armed Forces and the Rapid Support Forces to
+agree and implement a lasting ceasefire without pre-conditions and to establish safe and stable humanitarian cross
+border and cross line access channels, including from multiple points of entry to the most devastated areas of
+Sudan. We urge all actors to return to negotiations and to engage in a national dialogue inclusive of women and the
+composite Sudanese civil society and aimed at re-establishing civilian and representative institutions. An active
+African role and the continued support of the international community remain essential to help Sudan to restore the
+democratic transition process.
+
+We commend the outcomes of the Paris Conference for Sudan and the Neighbouring countries during which over 2
+billion Euros have been pledged to support civilian population in Sudan and those who sought refuge in
+neighbouring countries in 2024.
+
+7. Democratic Republic of the Congo
+
+We strongly condemn the resumption of attacks by the March 23 Movement (M23) in the east of the Democratic
+Republic of the Congo (DRC). We are very concerned by the worsening of the humanitarian situation, and the
+increasing serious human rights violations and abuses the population is being subjected to. We also condemn all
+armed groups operating in the country. We demand the immediate cessation of hostilities and of any further
+advances by the M23 and its withdrawal from all occupied areas as agreed through the African Union-endorsed
+Luanda process. We demand all armed groups to cease hostilities, withdraw from the areas they are controlling and
+disarm.
+
+We expressed deep concern at the reports of the Group of Experts on the DRC on foreign military support for M23
+and direct military interventions on DRC territory. We condemn any such support provided to M23 and any other
+armed group operating in the DRC and demand its cessation and the immediate withdrawal of any unauthorized
+foreign military presence from the DRC. We also condemn support, notably provided by military forces, to certain
+armed groups such as the Democratic Liberation Forces of Rwanda (FDLR), and demand the cessation of such
+support.
+
+We stress that any violations of the UN arms embargo is unacceptable and urge all States to stop any support to
+these armed groups.
+
+                                                                                                  Page 5 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+We remain committed to the Luanda and Nairobi processes to reach a negotiated diplomatic solution to the conflict.
+We encourage an effective Disarmament, Demobilization, Community Recovery, and Stabilization programme and
+the meaningful participation of women and youth in all their diversity. We also stand ready to work with the nations
+of the Great Lakes region to address the root causes of the cycles of violence in eastern DRC in a manner that
+takes into account the concerns and interests of the whole region, including by promoting accountability for all
+actors responsible for violations and abuses of human rights and international humanitarian law.
+
+III. ADDRESSING IRREGULAR MIGRATION, FOSTERING HOPE AND OPPORTUNITY
+
+We recognize that forced displacement and irregular migration have to be addressed in an integrated,
+comprehensive, and balanced manner, in a spirit of joint responsibility and commitment, and in accordance with
+international law and in full respect of human rights.
+
+We will support our partners in addressing the root causes of instability in Africa and other regions and countries of
+origin, while promoting a cycle of growth grounded in the huge potential of the Continent, particularly in view of the
+just and clean transition and growth in access to electricity, offering alternative solutions to irregular migration.
+Collectively, we will address migration drivers including through: better leveraging and coordinating our
+development and climate finance; supporting fragile and conflict afflicted states; and strengthening international
+capacity to address climate change, conflict, learning poverty and other drivers of migration. We are ready to build
+synergies among initiatives from all partners and institutions. We will also continue to support African countries
+hosting large number of displaced populations.
+
+We acknowledge that climate change is a risk multiplier already having a strong impact on human mobility. We see
+the need to further strengthen disaster risk reduction, adaptation, and resilience measures to counteract the drivers
+of involuntary displacement in the context of climate change.
+
+Human traffickers and people smugglers must be stopped from continuing their nefarious activities and we need to
+disrupt their business models. We recognize that women and girls are especially impacted by human trafficking,
+particularly trafficking for sexual exploitation. The UN and its Agencies have a role to play in this respect. Countries
+of origin, transit and destination must work together to stop migrant smuggling and human trafficking and uphold the
+dignity and worth of the human person - in line with the UN Charter.
+
+We will work towards reducing irregular migration and envisioning regular, safe and orderly migration on the basis
+of relevant national sovereign regulations. We are committed to find ways to better address challenges posed by
+irregular migration, within the framework of our international obligations. We will enhance cooperation against
+migrant smuggling and human trafficking. In this respect, we acknowledge the "Rome Process" started in July 2023
+with an International Conference on Migration and Development" with the dual objective of fighting human
+traffickers and smugglers and supporting economic development. We also acknowledge the "Mattei Plan for Africa"
+launched by Italy. We also recall the Los Angeles Declaration on Migration and protection and the multilateral legal
+framework on migration and refugee protection. Legal migration pathways can contribute to economic growth and
+decent work in line with international standards in countries of origin and destination.
+
+We need to inject consistency and coherence in our investment in areas of shared priority for Africa, including food
+security, nutrition, sustainable rural development, energy transition, sustainable, inclusive, resilient, and quality
+infrastructure development, bridging digital divides, education, training and skilling, gender equality and good
+governance. Based on a mutually beneficial exchange, approaching issues on an equal footing, and ensuring
+alignment with Africa's needs and priorities as identified by the African Union, African Governments and their
+peoples, we must step up efforts to achieve concrete sustainable development outcomes, contribute to the
+stabilization of areas of crisis, fight fundamentalism and address the root causes of irregular migration flows.
+
+IV. PROMOTING A FREE AND OPEN INDO-PACIFIC, MANAGING ENGAGEMENT IN ASIA
+
+The Indo-Pacific region is a key engine for global growth, with more than half of the world's population. We reiterate
+commitment to a free and open Indo-Pacific, based on the rule of law, which is inclusive, prosperous, secure,
+
+                                                                                                  Page 6 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+grounded on respect for international law, notably the UN Convention on the Law of the Sea and the principles of
+territorial integrity, sovereignty, peaceful resolution of disputes, fundamental freedoms, and human rights. We
+underscore that peace and stability of the region also contributes to prosperity and development of the entire
+international community. Developments in that region can directly affect Euro-Atlantic security.
+
+We reaffirm individual initiatives of the G7 members and welcome those of our partners, such as ASEAN, IORA,
+Australia, Republic of Korea, India and other South Asian as well as Pacific Island countries, to enhance their
+engagement in the region. We underscore our commitment to further strengthening our coordination among the G7.
+In this context, we reaffirm the importance of working together with all regional partners.
+
+We reaffirm our thorough support to ASEAN centrality and unity, as well as to initiatives aimed at fostering regional
+cooperation in line with the ASEAN Outlook on the Indo-Pacific.
+
+We underscore our commitment to further strengthen our partnership with the Pacific Island countries, by
+supporting their needs and efforts in the implementation of the Pacific Islands Forum's 2050 Strategy for the Blue
+Pacific Continent. We look forward to the 4th International Conference on Small Island Developing States under the
+theme "Charting the course towards resilient prosperity" (St. John's, Antigua and Barbuda 27th-30th May 2024). We
+will broaden our support to civil society, private sector, and academia's plans for the promotion of a free and open
+Indo-Pacific.
+
+8. China
+
+We recognize the importance of constructive and stable relations with China. We reaffirm the need to engage
+candidly with and express our concerns directly to China. China is a key interlocutor in addressing global
+challenges, and we stand ready to cooperate with China on areas of common interest.
+
+We reaffirm our interest in a balanced and reciprocal collaboration with China aimed at promoting global economic
+growth, with a view to enabling sustainable and fair economic relations and strengthening the international trading
+system. Our policy approaches are not designed to harm China, nor do we seek to thwart China's economic
+progress and development. However, we are concerned that China's non-market policies and practices are leading
+to harmful overcapacity that undermines our workers, industries, and economic resilience. A growing China that
+plays by international rules would be of global interest. We are not decoupling or turning inwards.
+
+We reiterate the importance of ensuring a level playing field and a transparent, predictable, and fair business
+environment. Respect for the rules-based multilateral trading system based on market principles needs to be the
+hallmark of our relations, to protect our workers and companies from unfair and non-market policies and practices,
+including forced technology transfer or illegitimate data disclosure, which distort the global economy and undermine
+fair competition. We will protect our workers and business communities from unfair practices, including those that
+lead to overcapacity, create supply chain vulnerabilities and increase exposure to economic coercion, as we
+recognize that economic resilience requires de-risking and diversification where necessary.
+
+We reaffirm the need to uphold the principles of the UN Charter in their entirety. In this respect, we call on China to
+press Russia to stop its military aggression. We express our strong concern about transfers to Russia from
+business in China of dual-use materials and components for weapons and equipment for military production.
+
+We are seriously concerned about the situation in the East and South China Seas and reiterate our strong
+opposition to any unilateral attempts to change the status quo by force or coercion. We continue to oppose China's
+dangerous use of coast guard and maritime militia in the South China Sea and its repeated obstruction of countries'
+high seas freedom of navigation and we express serious concern about the increasing use of dangerous
+maneuvers and water cannons against Philippines vessels in this regard. There is no legal basis for China's
+expansive maritime claims in the South China Sea, and we oppose China's militarization, coercive and intimidation
+activities in the South China Sea. We re-emphasize the universal and unified character of the United Nations
+Convention on the Law of the Sea (UNCLOS) and reaffirm UNCLOS's important role in setting out the legal
+framework that governs all activities in the oceans and the seas. We reiterate that the award rendered by the
+
+                                                                                                  Page 7 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+Arbitral Tribunal on July 12, 2016, is a significant milestone, which is legally binding upon the parties to those
+proceedings and a useful basis for peacefully resolving disputes between the parties.
+
+We restate the importance of peace and stability across the Taiwan Strait as indispensable to security and
+prosperity for the whole international community and we call for peaceful resolution of cross-Strait issues. We
+support Taiwan's meaningful participation in international organizations, including in the World Health Assembly
+and WHO technical meetings, as a member where statehood is not a prerequisite and as an observer or guest
+where it is. There is no change in the basic position of the G7 members on Taiwan, including stated one China
+policies.
+
+We remain concerned about the human rights situation in China, including in Xinjiang and Tibet. We express our
+concerns about the deterioration of pluralism and civil and political rights in Hong Kong since the 2020 National
+Security Law. We reemphasize these concerns following the recent passage of the Safeguarding National Security
+Ordinance under Article 23 of the Basic Law, which will further erode autonomy, human rights, and fundamental
+freedoms in Hong Kong. The new law will make it harder to live, work and do business in Hong Kong and
+undermine the ability of Hong Kong people to maintain free and open exchanges with the wider world. We reiterate
+our call on China to uphold its commitments under the Sino-British Joint Declaration and the Basic Law, which
+enshrine rights and freedoms and a high degree of autonomy for Hong Kong. Furthermore, we urge China and the
+Hong Kong authorities to act in accordance with their international commitments and applicable legal obligations.
+
+We call on China not to conduct or condone activities aimed at undermining the security and safety of our
+communities and the integrity of our democratic institutions, and to act in strict accordance with its obligations under
+the Vienna Convention on Diplomatic Relations and the Vienna Convention on Consular Relations. We encourage
+China to uphold its commitments to act responsibly in cyber space.
+
+9. North Korea
+
+We reiterate our strong condemnation of North Korea's escalatory development of its unlawful weapons of mass
+destruction (WMD) and ballistic missile programmes. We further reiterate our call for the complete denuclearization
+of the Korean Peninsula and demand that North Korea abandon all its nuclear weapons, existing nuclear programs,
+and any other WMD and ballistic missile programmes in a complete, verifiable, and irreversible manner in
+accordance with all relevant UN Security Council resolutions. We urge North Korea to return to, and fully comply
+with, the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and IAEA safeguards and to sign and ratify the
+Comprehensive Nuclear-Test-Ban Treaty (CTBT). We reiterate that North Korea cannot have the status of a
+nuclear-weapon state in accordance with the NPT. We urge North Korea not to conduct any further nuclear tests.
+We urge all UN member states to implement all relevant UNSCRs fully and effectively and demand Security Council
+members to follow through on their commitments. We urge North Korea to cease activities that generate revenue
+for its unlawful ballistic missile and WMD programmes, including malicious cyber activities.
+
+In this context, we condemn in the strongest possible terms the increasing military cooperation between North
+Korea and Russia, including North Korea's export and Russia's procurement of North Korean ballistic missiles in
+violation of UNSC resolutions, as well as Russia's use of these missiles against Ukraine. We are also deeply
+concerned about the potential for any transfer of nuclear or ballistic missiles-related technology to North Korea, in
+violation of the relevant UNSC resolutions. Russia's veto of the UN Security Council resolution to renew the
+mandate of the UNSCR 1718 Committee Panel of Experts makes it easier for North Korea to evade the UN
+sanctions that Russia had previously voted for. We urge Russia and North Korea to immediately cease all such
+activities and abide by relevant UNSCRs. We reiterate our commitment to counter sanctions evasion and
+strengthen enforcement. We will increase efforts to maintain the Panel of Experts.
+
+We strongly condemn North Korea's systematic human rights violations and abuses and its choice to prioritize its
+unlawful weapons development programs over the welfare of the people in North Korea. We call upon North Korea
+to resolve the abductions issue immediately and to meaningfully engage with the UN human rights system. We take
+note of the progressive re-opening of North Korea's borders and call upon North Korea to take this opportunity to
+
+                                                                                                  Page 8 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+re-engage with the international community including through the return of all diplomatic and humanitarian
+personnel to North Korea.
+
+We are disappointed by North Korea's continued rejection of dialogue and call on North Korea to accept repeated
+offers of dialogue, in order to enhance regional peace and security.
+
+10. Myanmar
+
+We reiterate our strong condemnation of the military coup in Myanmar and reaffirm our support and solidarity with
+the people of Myanmar in their quest for peace, freedom, and democracy. The continuing attacks by the military
+destroying civilian infrastructure (including homes, schools, places of worship and hospitals), the repeated and
+serious violations of human rights and the alarming humanitarian situation - which particularly affect those in most
+vulnerable situations, including children, women and members of minority religious and ethnic groups - are
+unacceptable. We also condemn the recent implementation of the 2010 conscription law by the military regime. The
+forced recruitment of young people can only lead to further violence and trigger a massive exodus to neighboring
+countries.
+
+We urge the Myanmar military to immediately cease any violence, release all prisoners arbitrarily detained - starting
+from the democratically elected leaders- and establish an inclusive dialogue with all stakeholders, in view of
+restoring the path towards a meaningful and durable democratic process. We also reiterate our call on the Myanmar
+military to respect human rights and international humanitarian law, to desist from any form of forced labour and to
+allow prompt, safe and unhindered humanitarian access to all displaced persons and people in need.
+
+We continue to support ASEAN's efforts to promote a credible and inclusive process to achieve the swift
+implementation of the Five-Point Consensus. We highlight the importance of a comprehensive implementation of
+United Nations Security Council resolution 2669 (2022) and support the UN's further engagement in the crisis,
+including through the leadership of the newly appointed UN Special Envoy on Myanmar and through the
+designation of a Resident Coordinator in country. Accountability for serious crimes committed in Myanmar remains
+essential.
+
+We reiterate our call on all States to prevent or to cease the flow of arms and other dual-use materiel, including jet
+fuel, into Myanmar. We stress the need to create conditions for the voluntary, safe, dignified, and sustainable return
+of all Rohingya refugees and displaced persons and justice and accountability for atrocities committed against
+Rohingya and other ethnic communities.
+
+V. ADDRESSING GLOBAL CHALLENGES
+
+11. Development Finance and Infrastructure
+
+We reaffirm our commitment to promoting sustainable, resilient, inclusive, and quality infrastructure as a key
+element for achieving sustainable development by addressing the infrastructure investment gap in low- and middle-
+income countries. The G7 Partnership for Global Infrastructure and Investment and initiatives such as the EU
+Global Gateway offer a framework we will use to promote our vision of sustainable and economically viable
+infrastructure, underpinned by transparent project selection, procurement and finance.
+
+We reaffirm our commitment to advancing high standards for quality infrastructure as a means to spur sustainable
+and inclusive economic development.
+
+We intend to work together to accelerate progress towards the commitment to mobilize up to 600 billion USD by
+2027 by enhancing the strategic dimension of the Partnership for the Global Infrastructure and Investment We
+propose to act in close cooperation with partner countries, multilateral development banks and development finance
+institutions, including through de-risking, co-financing initiatives and enhanced coordination mechanisms, including
+at country/regional level, to further promote the development of a pipeline of bankable projects in close cooperation
+with the private sector, as well as to reinforce project preparation.
+
+                                                                                                  Page 9 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+Infrastructure development should also encompass a wide range of initiatives (i.e. on regulatory frameworks, jobs
+market, energy access, training and research and health systems) to support partners in order to offer opportunities
+to the most marginalized and vulnerable and with a view to strengthening social cohesion and inclusion.
+
+We will promote a transformative shift towards quality investment, in key areas that drive inclusive and sustainable
+development and resilience, including food security, climate and clean energy, biodiversity and reducing pollution,
+connectivity including ICT and transport networks, global supply chain resilience, health and education, and
+mainstreaming gender equality. We will prioritize efforts to deepen partnerships with Africa and based on the
+continent's investment needs, consistent with the goal of accelerating progress towards the SDGs, through
+concrete deliverables, such as ongoing work along the Lobito Corridor. Given its global mandate, G7 countries will
+also continue to deploy investment while bringing forward the Partnership for Global Infrastructure and Investment
+global strategy in other strategic regions, such as work on the Luzon Economic Corridor.
+
+Recognizing the insufficient progress towards the 2030 Agenda and the urgency to address the financing gaps in
+the context of a growing number of low-income countries and middle-income countries facing higher risk of debt
+distress and constrained fiscal space to invest in their own development and futures, we will work together with our
+partners and with international finance institutions to create the conditions to scale up long-term financing for the
+countries in need. In that regard, we welcome the launch of infrastructure certification schemes, such as the Blue
+Dot Network and the Finance to Accelerate the Sustainable Transition Infrastructure initiatives, which aim to
+mobilize increased private investment in emerging markets. We will strive to enhance the development finance
+toolkit, to mobilize additional financing from international financial institutions, bilateral partners and the private
+sector to more effectively reduce poverty and protect the planet.
+
+12. Food Security and Nutrition Security
+
+We express concern about rising food insecurity and malnutrition stemming from the combined impact of climate
+change, loss and degradation of ecosystems, the growing number of conflicts, inflationary pressures, and the
+reduced fiscal space in many developing economies. We are committed to addressing, with partners, the worsening
+hunger crisis affecting parts of Africa. Strengthening the resilience of agri-food systems is necessary to effectively
+address food insecurity and malnutrition. That makes internationally coordinated action more urgent than ever.
+Ensuring food and nutrition security remains a challenge for the international community and affected countries,
+especially in known hunger hotspots in Africa and beyond, that are vulnerable to climate and conflict-related
+shocks.
+
+We reaffirm our intention to increase investments to build more resilient and sustainable food systems, to help
+mitigate against future food shocks and diversify food supply chains. To that end, we reaffirm our commitment to
+contributing to sustainable and resilient food systems transformation, in the spirit of the Roadmap for Global Food
+Security-Call to Action and the UN Secretary General's Call to Action for Accelerated Food Systems
+Transformation, issued at the UN Food Systems Summit +2 held in July 2023 in Rome. We recall the Hiroshima
+Action Statement for Resilient Global Food Security, issued by G7 Leaders and invited countries. We also reaffirm
+our support for the G20 Matera Declaration on Food Security, Nutrition and Food Systems and the G7 Global
+Alliance for Food Security. We acknowledge the importance of supporting fertilizer use efficiency and value chains,
+including local fertilizer production. The G7 is committed to the success of the next Nutrition for Growth Summit in
+2025.
+
+We also reaffirm our commitment to work with the Rome-based agencies FAO, IFAD and WFP. We recognize the
+role of the Committee on World Food Security as an inclusive and multi-stakeholder platform to work together on
+food security and nutrition.
+
+In continuity with the UAE Leaders Declaration on Sustainable Agriculture, Resilient Food Systems, and Climate
+Action, endorsed at the COP28 by 159 Countries, including all the G7, we will enhance our efforts to address the
+food security-climate change nexus in a coherent and pragmatic manner, including through initiatives like the Vision
+for Adapted Crops and Soils (VACS).
+
+                                                                                                Page 10 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+We stress the need for better coordination of international initiatives and projects aimed at countering food
+insecurity and malnutrition in order to maximize the delivery and impact of already existing resources. We continue
+to need innovative financial solutions for food systems, especially involving responsible private investment.
+
+13. Economic Resilience and Economic Security
+
+Economic resilience and economic security are critical for the proper functioning of the G7 and wider global
+economies. We will foster cooperation in accordance with the G7 Leaders' Statement on economic Security issued
+at Hiroshima last year. To this end, we remain committed to making global supply chains more resilient and reliable
+especially for critical products and technologies.
+
+We will continue to co-ordinate work on de-risking, diversification and reduction of critical dependencies and
+systemic vulnerabilities, actively engaging the private sector.
+
+We emphasize the importance of honoring international norms and obligations to safeguard global economic
+security and resilience and reaffirm our commitment to building global economic resilience and responding to
+harmful practices that undermine the rules-based multilateral trading system with the WTO at its core. We will
+continue working within the G7 and with trusted partners towards resilient supply chains, built in a transparent,
+diversified, secure, sustainable, trustworthy, and reliable manner.
+
+We reiterate our concern about increasing threats to economic security for all global economies, notably economic
+coercion, and comprehensive strategies that use non-market policies and practices, as well as other practices in the
+pursuit of market dominance that lead to harmful overcapacity and supply chain concentration, thereby creating
+vulnerabilities and dependencies. We remain committed to enhancing our coordination and cooperation within the
+G7, while at the same time engaging other interested international partners about joining our efforts. We will
+continue work, principally through the Coordination Platform on Economic Coercion to improve our assessment,
+preparedness, deterrence, and response to economic coercion, in accordance with our respective legal systems
+and in conformity with international law.
+
+We acknowledge the key role of semiconductors as a critical part of supply chain resilience and economic security.
+To that end, we welcome the establishment by the G7 Industry, Technology and Digital Ministers of a
+semiconductors Point of Contact (PoC) Group dedicated to facilitating information exchange and sharing best
+practices among G7 members.
+
+14. Climate, Energy Security and Environment
+
+We are facing the unprecedented triple global crises of climate change, biodiversity loss and pollution that are
+mutually reinforcing and intrinsically linked, as well as an ongoing global energy crisis, health threats, and
+environmental damage, including those caused or exacerbated by Russia's war of aggression against Ukraine.
+
+The international community needs to come together and act decisively, irrespective of geographic or political
+divides, taking concrete steps collectively to achieve the global target to limit warming to 1.5 degrees Celsius above
+pre-industrial levels and achieve global net zero (CHG) emissions by 2050.
+
+To this end, we reaffirm our commitment, and we reiterate the call on all countries to contribute to global efforts to
+accelerate the transition away from fossil fuels in energy systems, in a just, orderly, sustainable and equitable
+manner, accelerating action in this critical decade so as to achieve net zero by 2050 in keeping with the science
+and to accelerate low and zero-emission technologies.
+
+We recognize the primary need to accelerate the transition to net-zero emissions by 2050, while ensuring policies to
+diversify energy sources and supplies to address potential security risks to energy systems, in a manner consistent
+with our climate and sustainability goals.
+
+We are determined to promote energy efficiency as the "first fuel", and fast-track clean, safe, and sustainable
+energy development and deployment, while reducing our dependency on fossil fuels. Moreover, actions must be
+
+                                                                                                Page 11 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+taken to increase access to electricity and clean cooking as well as to accelerate sustainable, just and inclusive
+clean energy transitions in emerging and developing countries and to continue efforts to swiftly implement the Just
+Energy Transition Partnerships.
+
+We are determined to promote affordable, reliable, sustainable and modern energy in Africa. With this objective,
+under the Italian Presidency we look forward to continuing discussions on how the G7 can concretely advance and
+contribute to Africa's industrial advancement and to its sustainable, resilient, and inclusive growth.
+
+The connection between climate, environment and energy is critical to making progress towards our climate change
+and environmental goals while implementing economically sustainable, just, and rapid transitions. Seizing the
+opportunities presented by innovative technological solutions and the alignment of global financial flows to support
+the goals of the Paris Agreement and the Kunming-Montreal Global Biodiversity Framework will be critical to
+ensuring prosperity and environmental sustainability, while simultaneously fostering development and poverty
+alleviation, especially in developing countries.
+
+We underline the G7 role in advancing implementation of the CMA5 global effort to triple renewable energy capacity
+globally and double the global average annual rate of energy efficiency improvements, globally by 2030,
+considering national circumstances, and welcome the consensus reached at CMA5 calling on all Parties to
+contribute to its achievement.
+
+We need to play a key role in defining secure, sustainable, and affordable energy systems, ensuring just and
+inclusive clean energy transitions. We therefore commit to achieving concrete steps forward in strategic areas.
+Among these, we recognize the key role of renewables, including from sustainable biological origin, nuclear energy
+for those who opt to use it, including advanced and small modular reactors, energy efficiency, methane emissions
+reduction in line with the Global Methane Pledge, industrial de-carbonization, most innovative technologies such as
+renewable and zero-emission hydrogen, and carbon management technologies. We will pursue secure, resilient,
+affordable and sustainable supply chains for critical minerals and raw materials, including through the Minerals
+Security Partnership (MSP) and MSP Forum, and pursue implementation of the Five Point Plan for Critical Minerals
+Security adopted by G7 Climate Energy and Environment Ministers. We also underline the opportunities offered by
+circular economy, including recycling and resource efficiency, as well as innovative technologies. Investing in
+innovation should also help us in addressing the key topic of reducing GHG emissions in heavy-emitting sectors
+and promoting the development of a circular economy.
+
+Leveraging private sector financing as well as innovative financing mechanisms are important steps to support
+energy transitions in developing countries, increase resources for adaptation and resilience and enable actions for
+responding to loss and damage to assist developing countries that are particularly vulnerable to the adverse effects
+of climate change, especially SIDS and LDCs.
+
+The transition to a net zero-emissions, sustainable, climate resilient and nature positive, pollution free and circular
+economy will necessarily need to involve all the members of society, to ensure just and inclusive transitions, leaving
+no one behind. Women, youth, and Indigenous Peoples s tend to bear the brunt of climate change-related
+disasters. In this context, we place particular emphasis on need to empower these societal sectors and include
+them in efforts to address climate change and environmental degradation. We highlight the importance of nature-
+based solutions in this context. Plastic pollution is a global problem that requires urgent attention. We look forward
+to an ambitious and effective global agreement to end plastic pollution.
+
+Biodiversity loss is an equally serious threat. Climate, biodiversity, and human health are interrelated and
+interdependent. We recall our commitment to implement the Kunming-Montreal Global Biodiversity Framework fully
+and swiftly and to achieve each of its goals and targets, which is the landmark plan to halt and reverse biodiversity
+loss by 2030. We also underline the G7 role in advancing implementation of the CMA5 global effort halting and
+reversing deforestation and forest degradation by 2030.
+
+We will work to mobilise nature finance from all relevant sources and to align financial and fiscal flows, as
+appropriate, including international development assistance, with the GBF. We also call on Multilateral
+
+                                                                                                Page 12 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+Development Banks (MDBs) to increase and report nature finance by CBD COP16. We welcome the Global
+Stocktake Decision's recognition of the importance of nature for achieving the Paris Agreement temperature goal,
+including through halting, and reversing deforestation and forest degradation by 2030.
+
+Given the risk of a global water crisis and continued lack of universal access to water and sanitation, we call for
+stronger collaboration at multilateral level in line with the UNEA-6 Resolution on Water. We welcome the UN
+System-wide Strategy on Water and Sanitation and are committed to the implementation of the Water Action
+Agenda as a key outcome of the UN Water Conference 2023. We also call for prompt appointment of a UN Special
+Envoy on Water.
+
+15. Global Health
+
+Global health is a pre-requisite for sustainable development. Building on the lessons learned during the COVID -19
+pandemic, we will continue to promote global health, knowing that health emergencies are a global challenge that
+need a global response.
+
+We support a reform of the Global Health Architecture fostering a more coordinated approach, strengthening
+Pandemic Prevention Preparedness and Response (PPR) including sustainable financing for capacity
+strengthening and for health emergency response, especially through the Pandemic Fund. We recognize the
+importance and reiterate our commitment to reaching a successful, equitable outcome of the ongoing negotiations
+for a new WHO convention, agreement, or other international instrument on pandemic PPR and targeted
+amendments to the International Health Regulations 2005 (IHR 2005) by May 2024. Completing the negotiations in
+time is critical to leverage political attention, strengthen future pandemic responses and improve equity.
+
+We commit to redouble our efforts to advance universal health coverage, including by supporting countries to
+restore access to essential health services and reduce mortality rates to be better than pre-pandemic levels by
+2025. We also reaffirm our commitment to invest in resilient health systems, primary health care service delivery,
+and a skilled health workforce - including through the WHO Academy - as essential to reclaiming lost ground due to
+COVID-19 and promoting Universal Health Coverage as essential elements of pandemic preparedness.
+
+We acknowledge that climate change, biodiversity loss and pollution are having a dramatic impact on global health
+and both noncommunicable and infectious disease threats. We are therefore addressing these challenges in a
+coherent and strategic manner, through the "One Health" approach that recognizes that the health of people is
+linked to the health of animals, plants and our shared environment.
+
+In this framework, we reaffirm that antimicrobial resistance is a key priority, and we will work closely for a successful
+upcoming UN High Level Meeting on AMR in September 2024.
+
+16. Gender Equality
+
+We reiterate our commitment to give a new impetus to gender equality. We recall the Beijing Declaration and
+Platform for Action and the outcome documents of its review conferences and confirm our determination to deliver
+on the 2030 Agenda relevant Sustainable Development Goals.
+
+We reaffirm the G7's continued global leadership on gender equality and the promotion and protection of the rights
+of women and girls in all their diversity as well as LGBTQIA+ persons. We express our strong concern over the
+global rollback of all women's and girls' rights, including sexual and reproductive health and rights, and the
+disproportionate impact of conflict and crisis on them.
+
+Gender equality and women's empowerment is a fundamental pre-requisite to eradicate poverty, to stimulate
+prosperity and sustainable and inclusive growth, and to build peaceful, just, and inclusive societies. We recognize
+that unpaid care and domestic work are major obstacles to the full, equal, and meaningful participation of women
+and negatively impact women's economic empowerment by impairing their ability to work full-time or in leadership
+
+                                                                                                Page 13 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+positions. We reaffirm the significant value of the World Bank Invest in Childcare initiative and aim by 2035 to
+support 200 million more women to join the workforce by investing in efforts to close the global childcare gap.
+
+We must pursue gender equality as a cross cutting priority to promote and protect the rights of women and girls and
+members of minority groups, including their ability to exercise their human rights, by ensuring freedom from all
+forms of discrimination and gender-based violence. We need to strengthen their economic security and
+empowerment by increasing and addressing barriers to their participation and building their resilience against the
+impacts of climate change, including by advancing their access to jobs in green and blue industries critical to our
+future and the future of our planet. We will promote comprehensive sexual and reproductive health and rights
+(SRHR, including at the UN General Assembly and Summit of the Future.
+
+Women and girls are disproportionately affected by conflicts and crises which can exacerbate existing gender
+inequalities and expose women and girls, to heightened risks of violence, exploitation, and discrimination. The
+involvement of women and girls in all areas related to the prevention, management and resolution of conflicts as
+well as disaster risk reduction is crucial to creating and ensuring sustainable and inclusive peace and address the
+root causes of conflicts. In line with UNSCR 1325 and subsequent Resolutions on Women Peace and Security
+(WPS), we underscore the importance of women's full, equal, and meaningful participation and leadership in all
+areas of policy decision-making spaces and tangible implementation, and through women's civil society
+organizations, non-government partners, and throughout the political, security and development spheres. We
+remain committed to protecting women and girls from sexual and gender-based violence before, during, and after
+conflicts, ensuring accountability for perpetrators, and providing support and services to survivors.
+
+17. Disaster and Risk Reduction
+
+We reaffirm our commitment to strengthen and accelerate the implementation of the Sendai Framework for
+Disaster Risk Reduction and the "Early Warning for All" Initiative by scaling up international cooperation.
+
+We acknowledge the interrelated causes and effects of disasters, particularly climate change-induced disasters, on
+different aspects, including peace and stability, local, regional, and international security, health, education, gender
+equality, and vulnerability. We renew our commitment to act ahead of disasters by working across the
+Humanitarian, Development Peace Nexus. Our aim is to reduce risks, anticipate and prepare for disasters,
+minimize the impacts of disasters on communities and infrastructure in order not to hamper development progress.
+
+We stress the importance of the outcome of COP28 in terms of operationalizing new funding arrangements to
+respond to loss and damage, including the fund. We welcome the pledges to the fund that have already been made
+and we encourage further support, to be provided on a voluntary basis and from a wide variety of funding sources.
+This is part of our wider commitment to assist those developing countries that are particularly vulnerable to the
+adverse effects of climate change.
+
+19. Global Governance
+
+We reiterate the significance of maintaining and strengthening the free and open international order based on the
+rule of law, respecting the UN Charter, and the paramount importance of international and multilateral cooperation
+in promoting peace, stability, and prosperity. We share the UN Secretary General's ambition for inclusive,
+networked, and effective multilateralism, as outlined in the "Our Common Agenda" Report. We look forward to the
+UN Summit of the Future as an opportunity to accelerate these efforts, to tackle global challenges and accelerate
+progress on the SDGs.
+
+To restore a sense of common purpose among UN Members States and to make international and multilateral
+cooperation stronger, more effective, more inclusive, more democratic, more efficient and more transparent, we
+commit to actively contribute to the Summit of the Future as an opportunity to foster dialogue and to find shared
+solutions to common problems. Human rights as one of the founding pillars of the UN system will be our common
+compass throughout the Pact for the Future. We welcome the latest report of the UN Secretary General on human
+
+                                                                                                Page 14 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+security. We are committed to working with all UN Member States to strengthen the roles of the UNSG as well as
+the UNGA. We also recommit to the reform of the UNSC.
+
+We reaffirm the need for strengthened international financial institutions and underscore the role of multilateral
+developments banks (MDBs) in the SDGs achievement, including in crisis affected contexts. We support the
+ongoing efforts for MDBs reform, including the World Bank Group (WBG) evolution roadmap, to better address
+global challenges. In this respect, we look forward to the WBG and International Monetary Fund annual meetings.
+
+We stress the key role of MDBs in addressing global challenges such as climate change, pandemics, and fragility
+and conflict, which are critical to achieving poverty reduction and sustainable development that is inclusive and
+resilient.
+
+19. Conflict Prevention and Management, Support to UN Peace Operations
+
+We renew our commitment to strengthening peacebuilding and conflict prevention efforts to address increasingly
+complex and interconnected security challenges. We need to build resilient societies, uphold human rights, support
+good governance, and invest in people to achieve sustainable peace. We condemn sexual and gender-based
+violence, especially when related to armed conflict situations.
+
+We highly value the role of the UN and support an integrated approach to peacebuilding and peacekeeping. We
+support the Peacebuilding Commission in its role as a convener of relevant stakeholders and an advisory body to
+other UN organs and we support the Peacebuilding Fund as a critical tool to help to ensure adequate financing for
+conflict prevention and peacebuilding.
+
+We reaffirm that the UN peacekeeping operations and special political missions are valuable tools to prevent
+escalation and the recurrence of conflicts and to protect civilians where mandated to do so.
+
+We further reaffirm our general support for the UN Secretary General's ''New Agenda for Peace'', "Action for
+Peacekeeping" and "Action for Peacekeeping Plus" to reform and strengthen such operations, based on a conflict
+prevention approach to crises. We will enhance capabilities and work to ensure the safety and security of those
+deployed, for example through the UN Triangular Partnership Programme.
+
+We underscore the importance of strengthening the global implementation of the Women, Peace and Security
+(WPS), Youth, Peace and Security (YPS) and Children and Armed Conflict (CAAC) agendas.
+
+20. A Global Resilient Cyberspace, Artificial Intelligence
+
+We reiterate our commitment to an open, interoperable, reliable, and secure cyberspace. We highly value the role
+of the Ise-Shima Cyber Group to define common ground.
+
+While relying on the leadership of governments and international organizations, we recognize the importance of the
+multistakeholder model, with the invaluable contribution of the private sector in promoting technological
+development and of civil society in advancing a common understanding of threats and providing solutions to
+improve cybersecurity.
+
+As the international community is increasingly confronted with disruptive activities carried out through Information
+and Communications Technology (ICT) systems, we reiterate that international law, including international
+humanitarian law and international human rights law, apply in cyberspace. We call for the full implementation of
+existing norms of responsible State behavior in cyberspace, and we encourage States to deepen their
+understanding of how international law applies to cyberspace.
+
+We condemn malicious cyber activity, and we will continue to work together at the national level and in multilateral
+fora to increase accountability in cyberspace. We will increase our cooperation against malicious cyber activities,
+including state-sponsored ones. We are determined to protect our democratic systems and critical infrastructures
+from malicious cyber threats. We express our concern for the increasing number of ransomware attacks ,
+
+                                                                                                Page 15 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+particularly targeting hospitals and healthcare facilities, and in this regard we recall relevant norms of responsible
+state behavior in cyberspace, which emphasize states' commitment to not knowingly allow their territory to be used
+for internationally wrongful acts using ICT and to respond to appropriate requests to mitigate malicious ICT activity
+emanating from their territory aimed at the critical infrastructure of another state. We welcome significant
+international initiatives, such as the Counter Ransomware Initiative and the Pall Mall Process, which contribute to
+increase awareness and improve oversight coordination.
+
+We urge countries to enact legislation in line with the provisions of the Convention on Cybercrime of the Council of
+Europe (Budapest Convention) and engage in accession to the treaty. We also urge countries to fully utilize the UN
+Convention against Transnational Organized Crime as a tool to combat cybercrime.
+
+We call on the international community to be guided by the framework of responsible state behavior in cyberspace
+to reduce risks to international peace and stability and make cyberspace a less contested domain. We underline the
+importance of confidence building measures, international cooperation, and capacity building. We affirm our support
+for the "Programme of action to advance responsible State behavior in the use of ICTs in the context of
+international security", as the permanent and action-oriented mechanism to hold discussions on cybersecurity at the
+UN from 2025 onward.
+
+We reaffirm the G7 support to Ukraine's cyber resilience, and we welcome multilateral initiatives aimed at providing
+assistance, such as the Tallinn Mechanism.
+
+We will continue to coordinate and, where possible, unite our efforts to assist countries to improve their capacity to
+address the multiple challenges of cybersecurity and resilience. Exchanging information on respective national
+projects may help identify best practices. We will be inspired by a demand driven approach and aim to fully
+integrate cybersecurity into digital development, as highlighted by the Accra Call for Cyber Resilient Development.
+To this end, we will continue to cooperate where it is relevant with International Financial Institutions, for instance
+the World Bank, and the private sector.
+
+Malicious cyber activities are disrupting critical services in G7 countries - including hospitals, energy companies and
+water companies - and costing our economies billions of dollars in disruptions. We commit to taking concrete steps
+to improve our collective cyber resilience.
+
+Considering the key and complementary role played by high-level policy makers and the National Agencies for
+Cybersecurity in ensuring a safe cyberspace and in fostering international collaboration at a policy and technical
+level, we also welcome the first meeting at G7 level, scheduled in Rome on 16-17 May, and we look forward to the
+outcome of their discussions. We resolve to keep analyzing the multifaceted applications of artificial intelligence
+and other new and emerging technologies, in such a way as to strike an effective balance between the
+advantageous uses for people and the need to mitigate the potential negative impacts in certain domains, including
+cyberspace. With this regard, we acknowledge the importance of advancing our efforts to ensure safe, secure and
+trustworthy AI, which is human-centric and human rights-based, including through advancing the outcomes of the
+Hiroshima AI Process, and foster interoperability between AI governance frameworks to support our common
+vision.
+
+As new technologies are defining the future of our societies, we endorse the UN General Assembly resolution
+"Seizing the Opportunities for Safe, Secure and Trustworthy Artificial Intelligence Systems for Sustainable
+Development" that was adopted by consensus and co-sponsored by 123 countries. We will also endeavor to
+provide contributions to the Global Digital Compact and WSIS+20 Review and the UN Pact for the Future, in order
+to protect an open, free, secure and inclusive Internet for future generations, governed through multi-stakeholder
+processes, and by protecting the ability for all to share information and communicate freely and securely, making
+sure the voices of younger generations, emerging economies and developing countries are properly heard.
+
+We recognize the nexus between AI and cybersecurity, and we commit to countering the risks posed to
+cybersecurity by AI. We also underscore the importance of ensuring the cybersecurity of AI systems and note the
+publication of the Guidelines for secure AI system development.
+
+                                                                                                Page 16 of 16
+  G7 Italy 2024 Foreign Ministers' Statement on Addressing Global Challenges, Fostering Partnerships (Part 1 of
+                                                       2)
+
+(Continues with Part 2 of 2)
+
+***
+
+Original    text    here:    https://www.state.gov/g7-italy-2024-foreign-ministers-statement-on-addressing-global-
+challenges-fostering-partnerships/
+
+Copyright Targeted News Services
+
+T40-MgEditor-8586685 T40-MgEditor
+
+
+Load-Date: April 22, 2024
 
 
   

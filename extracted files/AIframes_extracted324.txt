@@ -1,68 +1,182 @@
 
 
-                                                                                                         Page 1 of 2
-                             Thomas R. Weaver's sci-fi thriller 'Artificial Wisdom' is a smash hit!
+                                                                                                        Page 1 of 4
+                Telestream Introduces AI-Powered Tools for Rapid Content Delivery at NAB Show 2024
 
 
 
 
-        Thomas R. Weaver's sci-fi thriller 'Artificial Wisdom' is a smash hit!
-                                                     Massachusetts Newswire
-                                                     July 4, 2024 6:30 AM EST
+ Telestream Introduces AI-Powered Tools for Rapid Content Delivery at NAB
+                               Show 2024
+                                                    Business Wire
+                                       March 19, 2024 Tuesday 2:01 PM GMT
 
 
 
-Copyright 2024 Massachusetts Newswire, distributed by Contify.com All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-
-
-
-Length: 321 words
-Byline: Terry Windall -
+Length: 1710 words
+Dateline: NEVADA CITY, Calif.
 
 Body
 
+As media proliferates across a growing number of platforms - including OTT streaming services, social media video
+channels, direct-to-consumer offerings, interactive content experiences, and traditional linear TV - the media and
+entertainment industry faces unprecedented broadcast and video production challenges, pushing traditional media
+processing to its limits. Addressing these challenges requires solutions capable of handling this new landscape of
+media ingest and delivery, which includes managing diverse formats, ensuring compatibility across numerous
+platforms, and meeting varying standards for quality and accessibility, all while streamlining the process to
+accommodate the accelerated production and distribution timelines demanded by today's content-hungry
+audiences.
 
-'Artificial Wisdom' is a science fiction thriller set in the not-so-distant future of 2050
+At NAB Show 2024 in West Hall (#W1501), Telestream will introduce a new AI-powered suite of media processing
+tools engineered to transform how media professionals ingest, enhance, and deliver content, optimizing every step
+for speed, quality, and efficiency across the media production lifecycle.
 
-SURREY, U.K. /Massachusetts Newswire - National News/ - Chainmaker Press novel "Artificial Wisdom" (ISBN
-978-1739434366) is selling out internationally. Originally released in the UK, "Artificial Wisdom" by Thomas R.
-Weaver recently celebrated its US debut this spring. The third print has once again sold out with a fourth print on
-the way. The Amazon bestselling novel is topping charts for the publisher after significant interest on TikTok, and
-has over 1.1K reviews on Goodreads.
+Navigating the Remote Production Challenge
 
-Artificial Wisdom is a science fiction thriller set in the not-so-distant future of 2050. A heat wave has killed 400
-million people in the Persian Gulf. But was the disaster natural? Or was it genocide? While a former US President
-campaigns against the world's first AI politician, someone is trying to sway the outcome of the election. Journalist
-Marcus Tully must convince the world to face the truth and make hard choices about the future of the species. But
-will humanity ultimately choose salvation over freedom, whatever the cost?
+The industry's shift to remote production presents significant challenges for media companies, particularly in
+accessing high-resolution, mezzanine content. Telestream's GLIM as a Service, a new cloud-based solution,
+addresses this challenge by offering instant playback of content in any format through a web browser. This service
+streamlines remote content access, eliminating the need for extensive downloads or specialized playback
+hardware. By enabling quicker access and simplifying the production process, GLIM as a Service not only
+accelerates production workflows but also significantly reduces operational costs by eliminating the reliance on
+physical hardware and streamlining content review and approval processes.
 
-Foreword called the novel, "a timely science fiction novel in which the truth is difficult to find and easy to
-manipulate."
+Transforming Live Capture in the Cloud
 
-Lovereading called the writing "clipped, to the point, and immediately arresting - this takes a page-turning murder
-mystery into fresh territory, with a future-world fans of political sci-fi will be totally drawn into, and of-the-moment
-ethical issues everyone can relate to."
+As the demand for live content intensifies, media companies are under mounting pressure not only to quickly
+capture and process live feeds for quick broadcasting, but also to navigate the complexity of setting up and
+maintaining live capture systems within distributed and remote work environments. Telestream is introducing a new
+cloud-based Live Capture as a Service offering that is designed to simplify the live capture of content from any
+location in real-time, allowing production teams to bypass the traditional hurdles of remote setup and maintenance.
+With this solution, media companies can overcome the limitations of traditional physical infrastructure, facilitating a
+faster transition from live capture to broadcast and optimizing production workflows. This new flexibility not only
 
-Best Thriller Books called the book a "jaw-dropping debut that feels like a blaring wake-up call - thinking of the
-future as Weaver writes it fills me with awe as much as dread."
+                                                                                                        Page 2 of 4
+              Telestream Introduces AI-Powered Tools for Rapid Content Delivery at NAB Show 2024
 
-Exciting new titles under the Chainmaker Press label on their way in the near future. The fourth print of "Artificial
-Wisdom" will be available where all books are sold.
+accelerates content delivery but also empowers companies to capture and monetize additional content, unhindered
+by the physical constraints of onsite infrastructure.
 
-MEDIA ONLY CONTACT:
+Telestream Chief Product Officer Mike Gilson highlights the benefits of this new solution: "The growing need for live
+content underscores the urgency for faster, more flexible production processes. Live Capture as a Service
+transforms live content capture by providing cloud-based, instant access, freeing media companies from the
+limitations of physical infrastructure. This breakthrough not only streamlines production but also opens up
+opportunities for media companies to capture and monetize more content, meeting audience demand for high-
+quality, timely media experiences more efficiently."
 
-Ed Bajek
+Elevating Quality Control with Qualify QC
 
-                                                                                                   Page 2 of 2
-                          Thomas R. Weaver's sci-fi thriller 'Artificial Wisdom' is a smash hit!
+Delivering high-quality content that adheres to stringent standards and formats is increasingly challenging for
+content distributors. Telestream is excited to unveil updates to Qualify QC to address these challenges.
 
-1 (201) 560-3831
+What's New:
+    •   IMF Compliance: Enhanced with Netflix Photon support, ensuring Interoperable Master Format (IMF)
+        packages meet critical industry standards.
+    •   Harding FPA Test: Incorporates detection capabilities for potentially epileptic content, prioritizing viewer
+        safety.
+    •   DolbyE Presence and Dolby Vision Validation: Verifies the inclusion of DolbyE audio and the accuracy of
+        Dolby Vision metadata, guaranteeing top-notch audiovisual experiences.
+    •   Rude Word Detection: A new tool to screen and flag unsuitable language, ensuring content suitability for all
+        audiences.
 
-Ed@bajekpublisherservices.com
+These enhancements to Qualify QC reflect Telestream's commitment to advancing quality control processes,
+making it simpler for media professionals to deliver content that is not only compliant but also of the highest quality
+and viewer experience.
+
+New AI-Powered Tools Eliminate Bottlenecks and Accelerate Media Processing Workflows
+
+In today's multi-platform media environment, the rapid delivery of high-quality content across various platforms is a
+necessity. However, media companies are encountering significant challenges that impede their ability to process
+media swiftly and meet the demands for quick content turnaround. Cumbersome manual workflows are fraught with
+errors and inefficiencies, dragging down production speed. Achieving consistent quality across extensive content
+volumes presents a formidable task, further compounded by the time-intensive nature of creating and synchronizing
+captions and subtitles. Such delays in content release limit accessibility and global reach at a time when instant
+access is paramount. Moreover, a general reluctance to embrace advanced technologies, often perceived as overly
+complex, means missed opportunities for streamlining operations, leaving media entities struggling to keep pace
+with today's accelerated media consumption rates.
+
+In direct response to these industry-wide bottlenecks, Telestream is excited to announce a suite of innovative AI-
+powered media processing tools, marking a significant advancement in the production and distribution of media
+content. These solutions are designed to empower production teams, enabling them to produce and distribute high-
+quality content more efficiently and swiftly than ever before, aligning perfectly with the demands for fast turnaround
+times across diverse platforms.
+    •   Automated Workflow Creation: By leveraging artificial intelligence, Telestream's Vantage Workflow
+        Designer automates the configuration of media processing workflows. This drastically reduces manual
+        interventions, streamlines operations, and minimizes errors, significantly speeding up the production cycle.
+    •   Intelligent Quality Control (QC): Telestream's AI-driven QC tools automate the process of ensuring
+        consistent content quality across large volumes of media. This automation supports the delivery of high-
+
+                                                                                                        Page 3 of 4
+              Telestream Introduces AI-Powered Tools for Rapid Content Delivery at NAB Show 2024
+
+        quality content at the speed demanded by multiple platforms, eliminating the scalability challenges of
+        manual QC.
+    •   Efficient Captioning and Subtitling: The integration of AI also extends to captioning and subtitling
+        processes, making them faster and more efficient. This not only enhances content accessibility and global
+        reach but also ensures that content can be quickly turned around to meet the immediate needs of a diverse
+        and widespread audience.
+    •   Simplified Adoption and Integration: Understanding the industry's hesitation towards complex technology
+        adoption, Telestream has focused on making its advanced AI solutions accessible and easy to integrate.
+        This approach lowers the barrier to adopting these technologies, enabling media entities to adapt and
+        innovate quickly.
+
+"I'm excited to announce the launch of our new AI-powered media processing tools. These new solutions tackle the
+industry's critical bottlenecks head-on, enabling faster, more efficient content production and distribution. When
+designing these products, we set out to create a new standard for speed and quality. This is a game-changer for
+media companies striving to keep pace with the rapid consumption rates of modern audiences," said Chief Product
+Officer Mike Gilson.
+
+Addressing Emerging Protocols: The Inspect Monitoring Platform for ST 2110, SRT, and NDI
+
+Telestream is introducing the Inspect Monitoring Platform, a comprehensive monitoring solution crafted for ST
+2110, SRT, and NDI protocols. The platform offers a comprehensive solution for continuous media stream integrity
+monitoring, in-depth issue analysis, and strategic optimization of broadcasting and streaming operations. This
+integrated approach enables production companies to detect, diagnose, and optimize high-quality content delivery
+across all platforms and protocols, underscoring Telestream's commitment to excellence in safeguarding media
+assets from ingest through delivery.
+
+Overcoming Media Storage Challenges: Introducing Hybrid Content Management Solutions With DIVA 9
+
+As the media industry transitions to cloud storage, organizations have to navigate the complexities of integrating
+cloud solutions with existing infrastructures, all while safeguarding their assets and ensuring operational continuity.
+By adopting a hybrid storage strategy, these organizations can strike a balance between ensuring seamless access
+to content, optimizing storage costs, and implementing robust disaster recovery protocols. The challenge lies in
+executing this balance effectively.
+
+DIVA 9 addresses these critical pain points associated with moving content to the cloud by offering a seamless,
+hybrid content management solution. It facilitates the smart transition of media assets between on-premises and
+cloud environments, leveraging intelligent media storage policies, advanced Elasticsearch search functions, and
+comprehensive integrations with MAM, automation, and other cloud systems. This approach ensures the secure
+and scalable storage of valuable content and significantly improves accessibility and cost-effectiveness.
+
+"These innovations reflect Telestream's commitment to empowering production teams with the tools they need to
+deliver exceptional media experiences efficiently and cost-effectively, anywhere in the world. We can't wait to show
+our customers and NAB attendees what we've been up to," says Mike Gilson.
+
+For more information about Telestream products and services at NAB Show 2024, please visit:
+www.telestream.net/nab .
+
+Notes to editors
+
+To arrange a briefing with             a   Telestream     spokesperson      during   the    show,    please    contact
+telestream@platformcomms.com
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240319026253/en/
+
+                                                                                                  Page 4 of 4
+             Telestream Introduces AI-Powered Tools for Rapid Content Delivery at NAB Show 2024
+
+CONTACT: Reece Hainesborough
+
+reece@platformcomms.com
 
 
-Load-Date: July 5, 2024
+http://www.businesswire.com
+
+
+Load-Date: March 19, 2024
 
 
   

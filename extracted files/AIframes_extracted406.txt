@@ -1,127 +1,383 @@
 
 
-                                                                                                        Page 1 of 3
-                        Oracle to Invest More Than $1 Billion in AI and Cloud Computing in Spain
+                                                                                                   Page 1 of 7
+                                         TIP SHEET NUMBER 7 APRIL 5, 2024
 
 
 
 
-   Oracle to Invest More Than $1 Billion in AI and Cloud Computing in Spain
-                                                           PR Newswire
-                                           June 20, 2024 Thursday 12:00 PM EST
+                                     TIP SHEET NUMBER 7 APRIL 5, 2024
+                                                  States News Service
+                                                  April 5, 2024 Friday
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 States News Service
 
-Length: 1662 words
-Dateline: MADRID and AUSTIN, Texas, June 20, 2024
+Length: 3251 words
+Byline: States News Service
+Dateline: WASHINGTON, DC
 
 Body
 
 
-PR NewswireOracle plans to open a third cloud region to help Spain's financial sector and other key industries
-increase resilience and take advantage of Oracle Cloud Infrastructure's high performance and built-in security,
-powerful data and AI, and distributed cloud capabilitiesTelefonicaEspañato be the host partner for the
-regionMADRID and AUSTIN, Texas, June 20, 2024 /PRNewswire/ -- To meet the rapidly growing demand for its AI
-and cloud services in Spain, Oracle today announced plans to invest more than US $1 billion to open a third cloud
-region in Madrid and drive AI skills development across the country. The new public cloud region will enable Oracle
-customers and partners across all industries in Spain, including its prominent financial services sector, to migrate
-mission-critical workloads from their data centers toOracle Cloud Infrastructure(OCI) while helping them address
-regulations like the Digital Operational Resilience Act (DORA) and the European Outsourcing Guidelines (EBA,
-EIOPA, ESMA). TelefonicaEspañawill be the host partner for the planned cloud region.
+The following information was released by the United States Census Bureau:
 
- The upcoming cloud region in Madrid will help public and private sector organizations migrate all types of
-workloads to the cloud, modernize their applications, and innovate with data, analytics, and AI. Oracle is the only
-hyperscaler capable of delivering AI and a full suite of 100+ cloud services across dedicated, public, and hybrid
-cloud environments, anywhere in the world. This includesOracle Autonomous Database,MySQL HeatWave
-Database Service,Oracle Container Engine for Kubernetes,Oracle Cloud VMware Solution,OCI Generative AI
-service, andOCI AI Infrastructure."The opening of the third Oracle cloud region in Spain is excellent news for our
-country," said José Luis Escrivá, minister for digital transformation and public administration, Government of Spain.
-"The investment announced by Oracle provides a significant boost that will help Spanish enterprises and public
-sector organizations innovate with AI and continue advancing on the path of digital transformation.""It is great news
-that major technology multinationals such as Oracle are announcing this level of investment in the Region of
-Madrid," said Miguel López-Valverde, councillor for digitalisation, Government of the Region of Madrid. "We are
-convinced of the importance of public-private collaboration in this area, and of facilitating the development of cloud
-infrastructure in our region. Over the next three years, the region of Madrid is expected to receive investments of
-more than six billion Euros from the cloud industry, which is critical to helping us build a digital economy capable of
-creating high-quality jobs, attracting investment, and retaining talent."Oracle also offers a separateEU Sovereign
-Cloudwith one region in Madrid to help public and private sector customers with data and applications that are
-sensitive, regulated, or of strategic regional importance, move to the cloud. The Oracle EU Sovereign Cloud in
-Madrid is operated by EU-based personnel and supports workloads that fall under EU guidelines and requirements
-for sovereignty and data privacy."Spanish enterprises and public sector organizations are rapidly embracing the
-cloud to gain access to the latest digital technologies such as AI, and the upcoming public cloud in Madrid will help
+Upcoming
 
-                                                                                                          Page 2 of 3
-                      Oracle to Invest More Than $1 Billion in AI and Cloud Computing in Spain
+2024 Product Calendar
 
-them address data residency requirements as well as regulations in key sectors such as financial services," said
-Albert Triola, country leader, Oracle Spain. "With our plans to invest an additional $1B in Spain over the next 10
-years, we are reaffirming our commitment to helping Spanish organizations of all sizes and industries – including
-those across Spain's small and medium-sized enterprises and the financial services industry – accelerate their
-adoption of cloud technologies to boost business performance and resilience."OCI Provides Customers and
-Partners with a Resilient and Scalable Cloud FoundationWith the upcoming new region adding to the existing
-Oracle Cloud Region in Madrid, customers and partners can gain additional low-latency access to cloud services to
-help them derive better value from their data. Customers can also leverage high availability and disaster recovery
-capabilities to enhance business continuity and help address Spain's and the EU's regulations and requirements for
-data residency, in addition to industry-specific requirements and regulations such as the Digital Operational
-Resilience Act (DORA) in the financial services sector. Financial services organizations face unique regulatory
-requirements due to the fact that their workloads are inherently sensitive, and Oracle has developed capabilities
-and practices to help customers in the financial services sector address requirements for DORA and other key
-industry regulations. As part of continuing efforts to help financial services customers perform their due diligence,
-Oracle developed theAdvisory: Oracle Cloud Services and the European Outsourcing Guidelines (EBA, EIOPA,
-ESMA)to enable customers to evaluate OCI in the context of their regulatory outsourcing guidance. In addition,
-Oracle Cloud Regions – including the existing region and upcoming region in Madrid, as well as the EU Sovereign
-Cloud Region in Madrid – offer backup and disaster recovery solutions to help address customers' need for data
-availability and resilience.In addition, OCI's sovereign AI capabilities provide customers with increased control over
-where they locate their data and computing infrastructure and how they manage it. As a result, customers can
-achieve AI sovereignty by gaining the assurance that their use of AI is aligned with data sovereignty
-frameworks.OCI's unique cloud architecture enables Oracle to deploy dedicated cloud regions with hyperscale
-cloud services inside customer data centers and deploy more public cloud regions faster by starting with an optimal
-footprint and scaling as needed. This approach helps meet the needs of all countries and markets without
-compromising cloud capabilities, while also providing the consistent performance, SLAs, and global pricing for
-which OCI has become known.Leading Organizations in Spain Welcome the Upcoming Public Cloud
-Region"Our partnership with Oracle has been paying off for decades. We have a stronger position in the market,
-combining the best capabilities of both companies," said Sergio Sánchez, operations, network and IT director,
-Telefónica España. "On the one hand, we continue to migrate part of our mission-critical infrastructure to Oracle's
-cloud to be more agile in delivering innovative products and services to our customers around the world. On the
-other hand, this is the third cloud region for which we have been trusted as a host partner, again positioning us as a
-leader in the data center industry.""We rely on Oracle to migrate our critical workloads to Oracle Cloud
-Infrastructure while complying with local regulatory requirements. OCI provides us with a robust and secure cloud
-infrastructure," said Enríque Rodríguez, director of technology services, Banco Sabadell. "The arrival of the third
-Oracle Cloud Region in Spain will open significant opportunities for us in terms of utilizing new technologies such as
-AI across different areas of our business.""Naturgy is migrating a large part of its critical data infrastructure to OCI,
-which we selected for its scalability, performance, and price competitiveness," said Rafael Blesa, general manager
-of information systems, Naturgy. "The upcoming arrival of Oracle's third cloud region in Spain is great news as it will
-allow us to migrate low-latency and critical infrastructure support systems to the cloud while improving their security
-and resilience.""The world's digital transformation is now unstoppable, and organizations everywhere need to adapt
-to remain relevant and competitive," said Ravin Dhalani, CIO, MASORANGE. "Cloud technologies play a critical
-role in the telecommunications industry, enabling vendors to meet demand for high-speed services while enhancing
-operational efficiency and productivity. We are excited about Oracle's upcoming third cloud region in Spain, which
-will help us advance our innovation on OCI."About Oracle Distributed CloudOracle's distributed cloud delivers the
-benefits of cloud with greater control and flexibility. Oracle's distributed cloud lineup includes:Public cloud:
-Hyperscale public cloud regions serve any size of organization, including those requiring strict EU sovereignty
-controls. See the full list of regions here.Dedicated cloud: Customers can run all OCI cloud services in their own
-data centers with OCI Dedicated Region, while partners can resell OCI cloud services and customize the
-experience using Oracle Alloy. Oracle also operates separate U.S., UK, and Australian Government Clouds, and
-Isolated Cloud Regions for U.S. national security purposes. Each of these products provide a full cloud and AI stack
-that customers can deploy as a Sovereign Cloud.Hybrid cloud: OCI delivers key cloud services on-premises via
-Oracle Exadata Cloud@Customer and Compute Cloud@Customer and is already managing deployments in over
-60 countries.Multicloud: Options including Oracle Database@Azure, MySQL HeatWave on AWS and Microsoft
+The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
+scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
+updated as needed throughout the year.
 
-                                                                                                  Page 3 of 3
-                    Oracle to Invest More Than $1 Billion in AI and Cloud Computing in Spain
+2030 Census Preparation
 
-Azure, Oracle Interconnect for Microsoft Azure, and Oracle Interconnect for Google Cloud allow customers to
-combine key capabilities from across clouds.About OracleOracle offers integrated suites of applications plus
-secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please
-visit us atwww.oracle.com.TrademarksOracle, Java, MySQL and NetSuite are registered trademarks of Oracle
-Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. View original
-content to download multimedia:https://www.prnewswire.com/news-releases/oracle-to-invest-more-than-1-billion-in-
-ai-and-cloud-computing-in-spain-302178126.htmlSOURCE Oracle
+Initial Strategies for 2030 Census Preparations
+
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in April.)
+
+2020 Census
+
+Census Bureau to Release Estimates of State and County Undercounts and Overcounts for Young Children in the
+2020 Census
+
+The U.S. Census Bureau is set to release the Demographic Analysis estimates of state and county net coverage
+error for children ages 0 to 4 in the 2020 Census. This is the first time the Census Bureau is releasing these
+experimental Demographic Analysis estimates designed to help gauge the accuracy of the 2020 Census count of
+the nation's youngest children. (Scheduled for release April 11.)
+
+American Community Survey
+
+2025 American Community Survey (ACS) and Puerto Rico Community Survey (PRCS) Federal Register Notice
+
+                                                                                                      Page 2 of 7
+                                      TIP SHEET NUMBER 7 APRIL 5, 2024
+
+The Census Bureau is inviting a final round of public feedback on the proposed content for the 2025 American
+Community Survey (ACS) and Puerto Rico Community Survey (PRCS) through a Federal Register notice (FRN).
+The FRN gives the public 30 days to provide comments. The public may submit comments through
+
+. Once comments are reviewed, the Census Bureau will submit the final content recommendations to the Office of
+Management and Budget. As explained in a Director's Blog released in February, the proposed 2025 ACS and
+PRCS content does not include any changes to the existing disability questions.
+
+New Report on the Nation's Foreign-Born Population
+
+The U.S. Census Bureau is scheduled to release new data products highlighting select demographic and
+socioeconomic characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report
+compares 2010 and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing
+composition of the foreign-born population in the United States. The Highlights of the Foreign-Born Population data
+visualization displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of
+geography, including national, state and county. (Scheduled for release April 9.)
+
+Demographic
+
+New 2022 Congressional Election Voting Report
+
+The U.S. Census Bureau will release a new report, Voting and Registration in the Election of November 2022,
+based on data from the 2022 Current Population Survey (CPS) Voting and Registration Supplement. The report
+highlights patterns in voter turnout over time among the citizen voting-age population (CVAP) and explores
+demographic groups over- and under-represented in the 2022 congressional elections compared to the CVAP as a
+whole. (Tentatively scheduled for release in April.)
+
+Parental Mortality Brief
+
+The U.S. Census Bureau will be releasing a new research brief on parental mortality based on the 2022 Survey of
+Income and Program Participation (SIPP). This report presents national level statistics for the percentage of people
+who lost a mother or father and how these estimates varied by age and race/ethnicity. (Tentatively scheduled for
+release in April.)
+
+Census Bureau Releases New U.S. Population Estimates by Age and Sex
+
+The U.S. Census Bureau is set to release a downloadable file containing estimates of the nation's resident
+population by sex and single year of age as of July 1, 2023. In the coming months, the Census Bureau will release
+additional population estimates for cities as well as population estimates by age, sex, race and Hispanic origin for
+the nation, states, metropolitan and micropolitan statistical areas, and counties. (Scheduled for release April 11.)
+
+Household Pulse Survey
+
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
+with data dissemination, including detailed data tables and public-use files, on a monthly basis. (Scheduled for
+release April 18.)
+
+Economic
+
+2022 Annual Capital Expenditures for Robotic Equipment
+
+                                                                                                      Page 3 of 7
+                                      TIP SHEET NUMBER 7 APRIL 5, 2024
+
+The Census Bureau will release new Annual Capital Expenditures Survey (ACES) estimates. ACES estimates by
+business type add details to national-level estimates of investment in machinery and equipment. The estimates
+reflect data defined by 2017 North American Industry Classification System (NAICS) industries in which the robotic
+investment was made. (Scheduled for release April 10.)
+
+2024 American Association of Geographers (AAG) Annual Meeting
+
+Researchers from the U.S. Census Bureau will participate in the 2024 American Association of Geographers (AAG)
+Annual Meeting beginning April 16. The AAG is a scientific and educational society founded in 1904 to contribute to
+the advancement of geography. The annual meeting features presentations by geographers and those in related
+professions on theory, methods and practice of the discipline.
+
+" Mom and Pop Shops Lead Job Recovery from Economic Downturn after Covid-19 "
+
+The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership, in collaboration with the Council
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes Bryce
+Hill as he presents, "Mom and Pop Shops Lead Job Recovery from Economic Downturn after COVID-19." The
+Census Bureau's Quarterly Workforce Indicators (QWI) dataset indicates small businesses with fewer than 50
+employees created the majority of new jobs in the state of Illinois. Despite obstacles from the pandemic and
+government policies, Hill shares insights on how small businesses thrived in new jobs, employment and payroll.
+(Scheduled for release April 17.)
+
+Using Census Data: A Case Study and Data Tools Walk Through
+
+Join us for the Exploring Census Data webinar series on Using Census Data: A Case Study and Data Tools Walk
+Through. In this session, Census Bureau subject matter experts will dive into different ways to use and access
+Census data through case studies with real-world applications including examples of how Census data is used to
+make business decisions. The session includes a live demonstration on how to find key data and will offer
+resources connected to the statistics. There will be an opportunity to engage with our experts through live chat and
+the QandA segment of the webinar. This webinar is part 1 of 6 in a series to help data users discover Census data
+related to people, places and the economy. (Scheduled for release April 18.)
+
+Census Business Builder Version 5.5
+
+The U.S. Census Bureau will release version 5.5 of the Census Business Builder (CBB) tool. This update will
+introduce a new supply chain view in the CBB dashboard, which will allow users to report on the economic impact
+of FEMA declared disasters areas by NAICS code at Ports of Entry to the U.S. Version 5.5 will also include a
+cartographic representation of supply chain data, as well as enhancements to reports and the latest data available.
+More information on Census Business Builder is available online. (Scheduled for release in April 19.)
+
+Census Bureau to Release Public Use File Microdata on Nation's Vehicle Inventory and Use
+
+The U.S. Census Bureau is scheduled release the Vehicle Inventory and Use Survey (VIUS) 2021 Public Use File
+on the Microdata Access Tool (MDAT) website. The VIUS is a joint partnership with the U.S. Department of
+Transportation, Bureau of Transportation Statistics and Federal Highway Administration; the U.S. Department of
+Energy; and the U.S. Census Bureau. (Scheduled for release April 23.)
+
+Annual Survey of School System Finances
+
+The U.S. Census Bureau will release new 2022 Annual Survey of School System Finances tables. The tables will
+provide new data on current spending per pupil as well as data on revenues, expenditures, debt and assets for
+public elementary-secondary education (pre-K through 12th grade) in all 50 states and the District of Columbia.
+(Scheduled for release April 25.)
+
+2022 Individual State Descriptions report
+
+                                                                                                        Page 4 of 7
+                                        TIP SHEET NUMBER 7 APRIL 5, 2024
+
+The Census Bureau will release the 2022 Individual State Descriptions (ISD) report. The report summarizes legal
+organization of U.S. state and local governments for each state and the District of Columbia. Descriptions cover
+local government types according to the U.S. Census Bureau's classification structure, which are County,
+Municipal, Township, School District, and Special District governments.
+
+Related products include 2022 Census of Governments - Organization data (released in 2023) which provide official
+counts of in-scope U.S. governments by type, state, population-size groups, function, and school systems.
+(Scheduled for release April 30.)
+
+Business Trends and Outlook Survey
+
+The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
+experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+released on March 28, 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
+
+Monthly Business Formation Statistics
+
+Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
+business formations monthly. The data are available at the state, regional and national levels and by industry sector
+at the national level. The next monthly BFS will be released April 11 and will include March 2024 data. Business
+Formation Statistics - Release Schedule (census.gov).
+
+Recently Released
+
+(Released since March 22, 2024)
+
+Census Bureau Statement on Updated Race and Ethnicity Standards March 28
+
+The U.S. Office of Management and Budget (OMB) published the results of their Statistical Policy Directive No. 15
+(SPD 15) review and issued updated standards for maintaining, collecting and presenting race and ethnicity data.
+Spanish
+
+Puerto Rico Enhancements to the Address Geocoding Tool March 25
+
+The U.S. Census Bureau released an upgraded Census Geocoder web application that allows users to include an
+urbanizacin when inputting an address. This will help geocoding of addresses in Puerto Rico that reference the
+urbanizaciones. This upgrade to functionality for Puerto Rico will enhance the user experience and increase
+geocoding rates in Puerto Rico. The Census Geocoder is an address lookup tool that allows businesses,
+governments and other data users the ability to match addresses to geographic locations and entities with those
+addresses efficiently and accurately. Initially released in 2013, this latest update continues to provide users with an
+intuitive, efficient and accurate application for geocoding addresses and location coordinates. Users may access
+the Census Geocoder at https://geocoding.geo.census.gov/.
+
+Demographic
+
+New 2020 Census Brief on Households and Families March 25
+
+The U.S. Census Bureau released a Households and Families: 2020 brief that provides relationship to the
+householder and household type data from the 2020 Census. The brief combines information from four previously
+released America Counts stories: Share of U.S. Coupled Households Declined in 2020; Married Couple
+
+                                                                                                     Page 5 of 7
+                                     TIP SHEET NUMBER 7 APRIL 5, 2024
+
+Households Made Up Most of Family Households; Home Alone: More Than A Quarter of All Households Have One
+Person; and Several Generations Under One Roof. Data in the brief come from the 2020 Census Demographic and
+Housing Characteristics File.
+
+Economic
+
+Census Bureau Releases BTOS Data With Artificial Intelligence Survey March 28
+
+The U.S. Census Bureau released data from the Business Trends and Outlook Survey (BTOS) and a new
+supplement measuring artificial intelligence (AI). The BTOS measures business conditions and projections on an
+ongoing basis. The supplemental questions are designed to provide insight into how widespread AI use is by
+businesses, the specific types of AI that businesses are using, how that use is impacting their employment, and
+how AI is changing the organization of their business. Businesses were asked about both current and future use of
+AI. Content from the AI supplement is only available in this cycle. In addition, the Census Bureau today also
+released new research on this topic.
+
+Commodity Flow Survey Expanded Hazardous Materials Supplement April 5
+
+The U.S. Census Bureau released a new experimental data product, the Commodity Flow Survey Expanded
+Hazardous Materials (EHM) Supplement. The EHM is a supplemental set of questions about the packaging of
+hazardous materials that were added to the first and fourth quarters of the 2022 Commodity Flow Survey (CFS).
+Data were collected for the Pipeline and Hazardous Materials Safety Administration (PHMSA). The EHM includes
+annual data for 2021 and 2022.
+
+Facts for Features
+
+Asian-American and Pacific Islander Heritage Month: May 2024 March 26
+
+This month-long observance of Asian-Americans and Pacific Islanders started more than 25 years ago. We
+celebrate their growing contributions to our nation with a host of demographic and economic statistical information
+about the Asian and Native Hawaiian and Other Pacific Islander populations.
+
+Women's History Month: March 2024 March 6
+
+The roots of National Women's History Month go back to March 8, 1857, when women from various New York City
+factories staged a protest over poor working conditions. The first Women's Day celebration in the United States was
+in 1909, also in New York City, but Congress did not establish National Women's History Week until 1981 to be
+commemorated annually the second week of March. In 1987, Congress expanded the week to a month.
+
+Irish-American Heritage Month (March) and St. Patrick's Day (March 17) February 27
+
+You may not find a pot of gold at the end of this edition of Facts for Features, but you will find it useful and
+informative. It is filled with statistical information from the Census Bureau's demographic and economic subject
+areas on the nation's Irish-American population and other facets of this celebration of all things Irish.
+
+America Counts: Stories Behind the Numbers
+
+America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
+such as families, housing, employment, business, education, the economy, emergency preparedness and the
+population. New stories include:
+
+How Parents Coped with the Infant Formula Shortage (April 2)
+
+Batter Up! America's Pastime Is Back (March 28)
+
+The Share of Coupled Households in Your County and the Nation (March 26)
+
+                                                                                                        Page 6 of 7
+                                      TIP SHEET NUMBER 7 APRIL 5, 2024
+
+College Hoops Craze Captivates the Nation (March 22)
+
+Blogs
+
+Global Reach Blog: A Guide to Report Exporting Gold Written by Sabah Raheem, Survey Statistician, International
+Trade Indicator Micro Analysis Branch, U.S. Census Bureau April 2
+
+Data is essential in estimating the U.S. GDP, but what happens when it is corrupted or manipulated? The
+consequences could be disastrous, especially for something as valuable and influential as gold. Did you know that
+misclassifying gold can lead to an error in the Automated Export System (AES)? So, what's the right way to classify
+gold? The short answer: by its weight, shape, and purity level. In this blog, I will explain the existing primary gold
+classifications and common mistakes that exporters make when classifying gold.
+
+Resources
+
+Emergency Management/Disaster Resources When major disasters strike, visit our Emergency Management
+webpage for demographic and economic data on impacted areas. Each disaster will include data from our key
+emergency management tools: OnTheMap for Emergency Management, Community Resilience Estimates, Census
+Business Builder: Regional Analyst Edition, and other useful resources.
+
+Learn What Surveys Are Being Conducted in Your Community Discover which of the U.S. Census Bureau's 130-
+plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving from
+the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
+
+Atlanta
+
+Chicago
+
+Denver
+
+Los Angeles
+
+New York
+
+Philadelphia
+
+All Surveys
+
+Data Tools
+
+Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
+
+EDA (Economic Development Administration)-Census Poverty Status Viewer This interactive tool measures high
+poverty areas and persistent poverty counties using data from the American Community Survey, SAIPE, and
+decennial census.
+
+International Database (IDB) Find demographic indicators, population pyramids, and source information for
+countries and areas of the world with a population of 5,000 or more.
+
+My Congressional District Access selected statistics about your Congressional district collected through the
+American Community Survey (ACS) and County Business Patterns (CBP).
+
+Training Opportunities
+
+                                                                                                     Page 7 of 7
+                                      TIP SHEET NUMBER 7 APRIL 5, 2024
+
+Census Bureau Training Opportunities Webinars are available on a regular basis to help the public access and use
+Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level. Descriptions of upcoming sessions are available on our Census Academy webpage. Login details are
+provided at least one week before a webinar.
+
+Credit Insurance as a Risk Mitigation Tool for International Trade (Wednesday, April 10, 3-4 p.m. EDT)
+
+What are Public Use Microdata Areas (PUMAs)? (Thursday, April 11, 2-3 p.m. EDT)
+
+Mom and Pop Shops Lead Job Recovery from Economic Downturn after Covid (Wednesday, April 17, 1:30-2:30
+p.m. EDT)
+
+Using Census Data: A Case Study and Data Tools Walk Through (Thursday, April 18, 2-3 p.m. EDT)
+
+Using CBP Non-Employer Statistics (NES) to Evaluate Change (Thursday, April 25, 2-3 p.m. EDT)
+
+Using Census Data: A Case Study and Data Tools Walk Through (Thursday, April 18, 2-3 p.m. EDT)
+
+Estimados y Proyecciones de la Poblacin de Puerto Rico (Tuesday, April 30, 11:30-12:30 p.m. EDT)
+
+Archived Training Resources Visit the Census Bureau's Educational Re
 
 
-Load-Date: July 15, 2024
+Load-Date: April 6, 2024
 
 
   

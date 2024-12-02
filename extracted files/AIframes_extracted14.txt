@@ -1,102 +1,263 @@
 
 
-                                                                                                        Page 1 of 2
-                          USPTO ISSUES TRADEMARK: AUGMENTED AMBIENT ASSISTANT
+                                                                                                         Page 1 of 5
+                     American Oversight: News Roundup - Why Trump's Trial Shouldn't Be Delayed
 
 
 
 
-        USPTO ISSUES TRADEMARK: AUGMENTED AMBIENT ASSISTANT
-                                                       US Fed News
-                                           August 31, 2024 Saturday 12:39 PM EST
+     American Oversight: News Roundup - Why Trump's Trial Shouldn't Be
+                                 Delayed
+                                                     Targeted News Service
+                                           January 6, 2024 Saturday 4:47 PM EST
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
 
-Length: 1170 words
-Dateline: ALEXANDRIA, Va.
+Length: 1774 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-ALEXANDRIA, Va., Aug. 27 -- The trademark AUGMENTED AMBIENT ASSISTANT (Serial No. 98333847) was
-published on Aug. 27, 2024, by USPTO in the Principal Register.
+American Oversight issued the following news:
 
-Owner(s): Vuaant, Inc. d/b/a Care.AI; 7300 Sandlake Commons Blvd., Suite 327 Orlando, Florida 32819 Mark
-Information: Standard Character Claim - Yes. The mark consists of standard characters without claim to any
-particular font style, size, or color. Mark Drawing Type - 4 - STANDARD CHARACTER MARK Goods and Services:
-US Class(es):21, 23, 26, 36, 38 Downloadable and recorded computer software for controlling and managing
-patient medical information; downloadable and recorded computer software for collection and management of data
-in the field of mobile computing and operating platforms comprised of electronic data transceivers, wireless
-networks and gateways; Downloadable computer software featuring artificial intelligence for monitoring patients,
-workers, visitors, and facilities in the field of healthcare; Downloadable and recorded Software as a Medical Device
-(SaMD) for use as a medical instrument for monitoring, receiving, processing, transmitting, and displaying data;
-Downloadable and recorded software for collaboration between healthcare providers and patients, namely, software
-for controlling and managing patient medical information; Downloadable computer software for enabling users to
-enter, access, track, monitor and generate health and medical information and reports; Software as a Medical
-Device (SaMD), downloadable, for controlling and managing patient medical information; Downloadable computer
-software for accessing, reading, and tracking information in the field of healthcare; Downloadable computer
-software using artificial intelligence for monitoring patients, workers, visitors, and facilities in the field of
-healthcare; Downloadable software in the nature of a mobile application for monitoring patients, workers, visitors,
-and facilities in the field of healthcare; Downloadable software in the nature of a mobile application for controlling
-and managing patient medical information; Downloadable mobile applications for retrieving and displaying health
-information; Downloadable mobile applications for verifying and displaying identity and health information;
-Computer hardware and recorded software for operating medical imaging apparatus sold as a unit; Computer
-hardware and recorded software sold as a unit for use with medical patient monitoring equipment, for receiving,
-processing, transmitting and displaying data; Computer monitors; Video monitors; Voice display monitors; Remote
-video monitoring system consisting primarily of a camera and video monitor for recording and transmitting images
-to a remote location; Touchscreen monitors; Downloadable facilities management software to control building
-environment, access and security systems; Electronic video surveillance products, namely, electronic components
+Former President Trump has consistently sought to delay or evade accountability for his actions -- including his
+effort to overturn the 2020 election.
 
-                                                                                                        Page 2 of 2
-                      USPTO ISSUES TRADEMARK: AUGMENTED AMBIENT ASSISTANT
+In an effort to postpone trial in his federal election interference case until after this year's election, Trump's legal
+team appealed a recent ruling that he is not entitled to immunity from criminal prosecution. But a brief filed by
+American Oversight last week has -- as many legal observers and experts have noted -- the potential to derail that
+delay tactic.
 
-of security systems; Hospital automation systems comprised of computer hardware, wireless and wired controllers,
-and downloadable software for automating hospital operations and patient monitoring, namely, software for
-receiving, processing, transmitting and displaying data US Class(es):26, 39, 44 Medical imaging apparatus for
-diagnosing medical conditions incorporating recorded operating system software; Medical imaging apparatus for
-diagnosing medical conditions and monitoring patients incorporating recorded operating system software; Medical
-apparatus and instruments for monitoring blood oxygen saturation, blood gas concentrations, vital signs and
-respiratory events; Medical devices for monitoring blood oxygen saturation, blood gas concentrations and vital
-signs; Wearable monitors used to measure biometric data for medical use; Computer displays and computer
-monitors and controllers therefor used in direct association with medical diagnosis apparatus during the process of
-diagnosis of a condition in an individual; Patient monitors for critical care; Health monitors comprising sensor that
-monitor the health of patients; Portable medical devices with sensors to monitor the physical movements of a
-patient wearing or carrying the device US Class(es):100, 103, 106 Installation, maintenance and repair of computer
-hardware; Installation, maintenance and repair of telecommunications apparatus and instruments; Technical
-consulting in the field of artificial intelligence (AI) hardware customization US Class(es):100, 101 Providing
-temporary use of non-downloadable cloud-based software for controlling and managing patient medical information;
-Providing temporary use of non-downloadable cloud-based software for monitoring patients, workers, visitors, and
-facilities in the field of healthcare; Providing temporary use of non-downloadable cloud-based software for medical
-instrument for monitoring, receiving, processing, transmitting, and displaying data; Providing temporary use of non-
-downloadable cloud-based software for use with medical patient monitoring equipment, for receiving, processing,
-transmitting and displaying data; Providing temporary use of non-downloadable cloud-based software that enables
-users to enter, access, track, monitor and generate health and medical information and reports; Providing
-temporary use of non-downloadable cloud-based software for accessing, reading, and tracking information in the
-field of healthcare; Providing temporary use of on-line non-downloadable software and applications using artificial
-intelligence for monitoring patients, workers, visitors, and facilities in the field of healthcare; Providing temporary
-use of non-downloadable cloud-based software for managing patient information; Providing an interactive web site
-featuring technology that enables users to enter, access, track, monitor and generate health and medical
-information and reports; IT integration services; Technical support services, namely, remote and on-site
-infrastructure management services for monitoring, administration and management of public and private cloud
-computing IT and application systems; Computer technical support services, namely, 24/7 service desk or help
-desk services for IT infrastructure, operating systems, database systems, and web applications; Computer services,
-namely, remote and on-site management of the information technology (IT) cloud computing systems of others;
-Computer services, namely, remote and on-site management of the information technology (IT) cloud computing
-systems of others comprised of managing network and internet connectivity; Maintenance of computer software;
-Installation, maintenance and repair of computer software; Computer software installation and maintenance; Data
-security consultancy; Computer security consultancy; Cloud storage services for electronic data; Temporary
-electronic storage of information and data; Computer disaster recovery planning For any query with respect to this
-article or any other content requirement, please contact Editor at
+Late last month, we filed an amicus brief that argues that the Court of Appeals for the D.C. Circuit lacks jurisdiction
+to hear Trump's immunity appeal until after he is tried by a jury, convicted, and sentenced.
 
-contentservices@htdigital.in
+* Supreme Court precedent prohibits a criminal defendant from immediately appealing an order denying immunity
+unless the claim is based on "an explicit statutory or constitutional guarantee" that the defendant doesn't have to go
+to trial.
+
+* Trump's claims rest on no such explicit guarantee. And this week, in a reply brief that mentioned us, Trump still
+failed to identify any provision that expressly immunizes him from facing trial.
+
+* The case should be sent back to the trial court, the stay should be lifted, and the matter should immediately
+proceed to trial.
+
+* "This is a perfect example of the adage 'Justice delayed is justice denied,'" said American Oversight Executive
+Director Heather Sawyer. "The American people should have the benefit of a jury verdict on Trump's guilt before
+they choose the next president of the United States."
+
+                                                                                                        Page 2 of 5
+                  American Oversight: News Roundup - Why Trump's Trial Shouldn't Be Delayed
+
+Oral arguments on the appeal are scheduled for this Tuesday, Jan. 9, and Trump will reportedly appear in court.
+Earlier this week, the court ordered lawyers to be prepared to discuss amicus briefs filed in the case, bringing major
+attention to our argument.
+
+The timing is especially significant given that it's been three years since the violent and heavily armed mob of
+Trump supporters stormed the U.S. Capitol on Jan. 6, 2021.
+
+* State and federal prosecutors are continuing their effort to hold Trump and his allies accountable for their actions
+that day: As of December, about 1,240 people had been arrested in connection to the attack, the New York Times
+reported.
+
+* But a recent Washington Post/University of Maryland poll has found that today, "Republicans are more
+sympathetic to those who stormed the U.S. Capitol and more likely to absolve Donald Trump of responsibility for the
+attack than they were in 2021."
+
+* State officials continue to weigh the question of whether Trump should be allowed on the 2024 ballot because of
+his role in the insurrection. Last week, Maine joined Colorado in finding Trump ineligible for the state's primary
+ballot, while officials in California and Michigan recently decided that Trump may appear.
+
+* On Wednesday, Trump asked the U.S. Supreme Court to overturn the ruling barring him from appearing on the
+Colorado ballot.
+
+On the Records
+
+Foreign and Taxpayer Spending at Trump's Properties
+
+A new report released by the House Oversight Committee shows that Trump's businesses received at least $7.8
+million from officials and governments of 20 countries during his presidency. The report confirms what we've long
+known: Trump's businesses got a huge boost from his time in office.
+
+Our investigations uncovered numerous examples of taxpayer money going to his private businesses:
+
+* Last year, we obtained records showing that the Defense Department spent nearly $1 million at Trump properties
+between July 2017 and November 2019, including more than $270,000 at Trump National Doral Miami.
+
+* In 2021, we obtained records from the Pentagon detailing a number of trips taken by cabinet and White House
+officials on military airplanes during the first year of the Trump administration, including several visits to Trump's
+Mar-a-Lago club in Florida.
+
+* Justice Department officials spent more than $5,700 at Trump's Doral and Soho properties in 2018, according to
+records we uncovered.
+
+* DHS and Pentagon employees spent more than $5,500 at Trump properties between 2017 and early 2019,
+including a roughly $1,600 dinner that DHS official Miles Taylor had with a foreign government representative at a
+restaurant at the Trump International Hotel.
+
+* "Is this a meeting I should attend?" Trump's ambassador to Canada Kelly Craft asked a staffer in a November
+2018 email we obtained. "If so, I would prefer the TRUMP HOTEL."
+
+* Woody Johnson, Trump's billionaire ambassador to the U.K., paid pound sterling1,143 (about $1,500) for a single
+day of activities at Trump's golf course in Scotland in July 2018.
+
+Three Years Since Jan. 6
+
+The evidence uncovered over the past three years has shown that the storming of the Capitol was a culmination of
+Trump and his closest allies' larger scheme to cling to power. Here are some of our major findings about the effort
+to overturn his election loss.
+
+                                                                                                        Page 3 of 5
+                   American Oversight: News Roundup - Why Trump's Trial Shouldn't Be Delayed
+
+* We obtained DOJ call logs, Secret Service timelines, and more records that shed light on the events of Jan. 6 and
+the surrounding days, and the government's response. We created a detailed and comprehensive timeline of that
+day and related public records.
+
+* Trump Justice Department official Jeffrey Clark was willing to bolster Trump's baseless claims of widespread voter
+fraud and to help him use the DOJ to overturn the election. We obtained emails Clark sent in the final days of the
+administration -- including an email to the acting attorney general alluding to his actions as something on which
+"reasonable minds can differ."
+
+* We uncovered whistleblower complaints from the Department of Defense's Office of the Inspector General in
+which federal employees reported coworkers they believed participated in the insurrection and preceding rallies.
+
+* Through litigation, we discovered that the Defense Department and the Army had wiped the phones of top officials
+at the end of the Trump administration -- including texts from Jan. 6, 2021. In response, the Pentagon announced a
+new policy regarding preserving texts.
+
+* Trump and some of his associates are facing multiple criminal charges related to their election interference. We
+compiled a guide to public records we've obtained that shed light on the activities and communications of Trump's
+co-conspirators and co-defendants, including Rudy Giuliani, John Eastman, Sidney Powell, Jeffrey Clark, Mark
+Meadows, and more.
+
+Other Stories We're Following
+
+Election Denial and Threats to Democracy
+
+* True the Vote wins intimidation case over Georgia voter challenges (Atlanta Journal-Constitution)
+
+* A right-wing tale of Michigan election fraud had it all -- except proof (Washington Post)
+
+* As social media guardrails fade and AI deepfakes go mainstream, experts warn of impact on elections
+(Associated Press)
+
+Voting Rights
+
+* Wisconsin Supreme Court rules legislative maps unconstitutional, orders new boundaries for 2024 vote
+(Milwaukee Journal Sentinel)
+
+* Republican lawmakers ask Wisconsin Supreme Court to reconsider redistricting ruling (Wisconsin Examiner)
+
+* Heated election year might bring more changes to Georgia voting laws (Atlanta Journal-Constitution)
+
+* Federal judge approves Georgia's Republican-drawn congressional districts (Washington Post)
+
+* Texas Republicans want to hand count 2024 primary ballots. Experts say it's 'a recipe for disaster.' (Votebeat)
+
+In the States
+
+* Wisconsin leader pivots, says impeachment of state Supreme Court justice over redistricting unlikely (Associated
+Press)
+
+* Wisconsin Assembly's top Republican wants to review diversity positions across state agencies (Associated
+Press)
+
+* Bomb threats lead to brief lockdowns and the evacuation of multiple state capitols (Associated Press)
+
+* Who investigates the sheriff? In Mississippi, often no one (New York Times)
+
+LGBTQ Rights
+
+                                                                                                       Page 4 of 5
+                  American Oversight: News Roundup - Why Trump's Trial Shouldn't Be Delayed
+
+* Ohio governor blocks bill banning transition care for minors (New York Times)
+
+* Seattle Children's Hospital sues Texas Attorney General over trans patient records (Texas Tribune)
+
+* HHS extends Nebraska's emergency regs on gender-affirming care through March (Nebraska Examiner)
+
+* Families with trans kids flee to Colorado as other states ban gender-affirming care (Colorado Public Radio)
+
+* Judge temporarily blocks enforcement of Idaho law on gender-affirming care for transgender youth (Idaho Capital
+Sun)
+
+* New Hampshire House passes bill to ban gender-affirming care for minors, sending bill to Senate (New
+Hampshire Bulletin)
+
+Abortion and Reproductive Rights
+
+* Abortion debate creates 'new era' for state supreme court races in 2024, with big spending expected (Associated
+Press)
+
+* Arguments over abortion-rights initiative set for February before Florida Supreme Court (Florida Phoenix)
+
+* Florida abortion amendment gets enough signatures for 2024 ballot (Tampa Bay Times)
+
+* In Texas case, federal appeals panel says emergency care abortions not required by 1986 law (Associated Press)
+
+* Texas doctors do not need to perform emergency abortions, court rules (Washington Post)
+
+Threats to Education
+
+* How a conservative group's videos gained a foothold in classrooms with help from Republican officials (NBC
+News)
+
+* Laws on book challenges, 'indoctrination' create culture of fear in Arkansas school libraries (Arkansas Advocate)
+
+* Judge blocks most of an Iowa law banning some school library books and discussion of LGBTQ+ issues
+(Associated Press)
+
+* Home-schoolers dismantled state oversight. Now they fear pushback (Washington Post)
+
+Government Transparency and Public Records Law
+
+* State health department's top attorney retires amid ties to deleted foster care email scandal (West Virginia Watch)
+
+* Disney says in lawsuit that DeSantis-appointed government is failing to release public records (Associated Press)
+
+* After USA Today investigation, military finally releases internal extremism report (USA Today)
+
+* Attorney general: KY corrections department is improperly delaying release of records (Lexington Herald Leader)
+
+Immigration
+
+* Justice Department sues Texas over law that would let police arrest migrants who enter US illegally (Associated
+Press)
+
+* U.S. citizens have been accidentally caught up in the Texas crackdown on migrants (NPR)
+
+* Texas is sending asylum seekers to major cities by bus with little notice. These mayors want to pump the brakes
+(CNN)
+
+                                                                                                   Page 5 of 5
+                    American Oversight: News Roundup - Why Trump's Trial Shouldn't Be Delayed
+
+Jan. 6 Investigations
+
+* Congressman told to hand over hundreds of texts and emails to FBI in 2020 election probe (Associated Press)
+
+* Trump wants judge in January 6 case to hold special counsel Jack Smith in contempt (CNN)
+
+***
+
+Original text here: https://www.americanoversight.org/news-roundup-why-trumps-trial-shouldnt-be-delayed
+
+[Category: Government/Public Administration]
+
+Copyright Targeted News Services
+
+MSTRUCK-8433214 MSTRUCK
 
 
-Load-Date: August 31, 2024
+Load-Date: January 6, 2024
 
 
   

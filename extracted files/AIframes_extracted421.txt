@@ -1,124 +1,105 @@
 
 
-                                                                                                  Page 1 of 3
-     Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
-                            latest release of the Reltio Connected Data Platform exp....
+                                                                                      Page 1 of 3
+   AI-Media, NAB 2024 무대 통해 향상된 기능의 Lexi Tool Kit 공개 AI 기반 캡션 솔루션의 글로벌 선두주자, NAB
+                          Show 2024에서 LEXI DR(Disaster Recovery)과 LEXI Recorded을 공개
 
 
 
 
-    Reltio's Newest Innovations Empower Data Leaders with Premier Data
-   Unification and AI Capabilities; The latest release of the Reltio Connected
-    Data Platform expands GenAI capabilities, adds Product and Supplier
-         velocity packs, enhances audience-segmentation capabilities
-                                                    Business Wire
-                                        June 17, 2024 Monday 1:00 PM GMT
+  AI-Media, NAB 2024 무대 통해 향상된 기능의 Lexi Tool Kit 공개; AI 기반 캡션
+솔루션의 글로벌 선두주자, NAB Show 2024에서 LEXI DR(Disaster Recovery)과
+                                                 LEXI Recorded을 공개
+                                             GlobeNewswireGlobeNewswire Korean
+                                               April 9, 2024 Tuesday 11:24 AM PT
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved All Rights Reserved
 
-Length: 1025 words
-Dateline: REDWOOD SHORES, Calif.
+
+
+
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 482 words
 
 Body
 
-Reltio ®, a leader in data unification and management solutions, announced today the latest release of the Reltio
-Connected Data Platform, which further empowers data leaders by enhancing its AI-powered platform and
-offerings: Reltio Customer 360 Data Product(TM), Reltio Multidomain MDM, and Reltio Entity Resolution.
 
-Reltio's feature-rich release includes new velocity packs, additional audience-segmentation capabilities for
-Customer 360 Data Product, premium business continuity service featuring cross-regional disaster recovery and
-enhanced data resiliency, and expanded generative artificial intelligence (GenAI) and machine learning (ML)
-capabilities.
+뉴욕, April 10, 2024 (GLOBE NEWSWIRE) -- AI기반 캡션 솔루션의 선두 주자인 AI-Media가 오는 4월 14일부터
+17일까지 나흘간 미국 라스베이거스에서 열리는 NAB Show 2024 무대를 통해 두 가지 신제품을 공개할 예정이다.
+방송업계를 대상으로 첨단 혁신제품을 선보이는 것으로 정평이 나 있는 AI-Media의 최신제품은 LEXI DR (Disaster
+Recovery, 재해 복구)와 LEXI Recorded로 캡션 솔루션 시장에 혁신적 변화를 야기할 것으로 보인다.
 
-"Trusted data is the cornerstone of successful business transformation and AI, which is why we are excited to
-deliver market-leading products that revolutionize data unification and management," said Manish Sood, CEO and
-Founder of Reltio. "Our customers rely on us to deliver consistently reliable data in milliseconds and at scale for
-their business-critical operations. This newest version of our platform is rich in features and benefits to help boost
-performance, speed, and ease of use. It also provides even more value through our greater use of GenAI, so our
-customers can more quickly extract valuable insights and gain a competitive edge through analytics, machine
-learning, and data science."
+AI-Media는 LEXI 라인업을 비롯해 IP 및 SDI 인코더 제품군 등 다양한 제품들에 대한 업데이트 공개는 물론
+클라우드 환경이나 연결에 장애가 있는 여건에서도 차질 없이 캡션 전송을 보장하는 획기적인 솔루션인 LEXI DR
+제품을 선보이게 된다. 방송업체들은 LEXI DR 제품을 이용해 원활한 자막 워크플로우 통합, 온프레미스 이중화
+서버, 가상 머신 또는 하드웨어를 통한 탄력적인 설정 옵션 기능을 이용할 수 있어 서비스 중단 가능성은 최소화시킨
+자막 기능을 항시 방송으로 내보낼 수 있다는 장점이 있다. 이 솔루션은 99.99%의 캡션 가동 시간과 LEXI DR 장치당
+최대 10개의 인스턴스 사용이 가능한 확장성, 강력한 암호화 및 보안 조치 등을 통해 데이터의 안전한 보호가
+가능하다. LEXI DR은 방송업계를 대상으로 안정적이면도 유연하고 안전한 캡션 솔루션 제공에 전념하는 AI-
+Media의 철학을 잘 보여준다.
 
-The latest enhancements include a variety of new features and benefits:
-    •     New audience segmentation and activation capabilities within the Reltio Customer 360 Data Product
-          provide sales, service, and marketing teams access to the right data at the right time.
-         •     Users can more easily create, manage, and activate trusted and dynamic customer data segments
-               with a new audience segmentation user interface and enhanced GenAI-driven skills for data
-               exploration.
-         •     Using the Reltio Intelligent Assistant (RIA)(TM), a GenAI-powered conversational assistant, users can
-               explore customer data and create granular, dynamically updated segments.
+                                                                                    Page 2 of 3
+  AI-Media, NAB 2024 무대 통해 향상된 기능의 Lexi Tool Kit 공개 AI 기반 캡션 솔루션의 글로벌 선두주자, NAB
+                        Show 2024에서 LEXI DR(Disaster Recovery)과 LEXI Recorded을 공개
 
-                                                                                                 Page 2 of 3
-    Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
-                           latest release of the Reltio Connected Data Platform exp....
+AI-Media가 선보이는 또 다른 제품인 LEXI Recorded는 녹화된 콘텐츠의 캡션 프로세스를 보다 간소하게 처리할 수
+있도록 제작되었다. 전례 없는 처리 속도와 비용 효율성이 두드러져 시간에 민감한 뉴스 클립이나 하이라이트,
+프로모션 콘텐츠에 활용하기에 적합하다. LEXI Recorded는 대량 처리, 98% 이상의 정확도, 유연한 파일 출력 유형,
+다국어 옵션 등의 기능을 갖고 있으며 캡션 워크플로에 통합이 가능해 미디어 관리 시스템을 벗어나지 않고도 파일
+캡션이 가능하다. 방송업체들은 LEXI Recorded를 통해 녹화된 콘텐츠를 보다 용이하면서도 정확한 형태로
+신속하면서도 저렴하게 제공할 수 있게 되었다.
 
-    •   New velocity packs deployed via the Reltio Multidomain MDM product help users jumpstart their master
-        data management journeys. Like all Reltio velocity packs, these new entrants include industry-specific data
-        models and prebuilt components so users can implement a modern data management program and
-        quickly experience value.
-        •      Reltio for Supplier accelerates unifying and standardizing supplier data across the enterprise, helping
-               companies optimize supply chain performance and reduce compliance risk. It includes an out-of-the-
-               box data model and a preconfigured user interface, match rules, and pre-built integrations and
-               mappings for rapid time-to-value and lower data error risk. Its prebuilt components replace extensive
-               manual effort and configuration for getting started.
-        •      Reltio for Product makes it easier for users to manage inventory effectively and boost product sales. It
-               includes a prebuilt data model and prebuilt configurations, a preconfigured user interface, and match
-               rules for rapid time-to-value and lower error risk. Users of this velocity pack can accelerate their
-               product innovation and fine-tune their sales strategies based on understanding how various products
-               are performing in the market. Reltio has enhanced the ability to create a wizard-like experience for
-               creating new profiles and support conditional attributes, which make creating and updating product
-               information easier and ensure data quality.
-    •   Reltio Business Critical Edition is a premium business-continuity offering for Reltio Multidomain MDM and
-        Reltio 360 Data Product customers that addresses the need for continuously available, trusted, real-time
-        data serving mission-critical business operations so companies can avoid outages and data loss. It offers
-        multi-zone, mirrored tenants with "hot" standby disaster recovery configurations for enterprises with strict
-        uptime and data resiliency requirements, and enables cross-region failover. It provides recovery-time
-        objectives of less than 4 hours and recovery-point objectives of less than 5 minutes. In addition, Business
-        Critical Edition includes capabilities like AWS PrivateLink for secure data transfer over a virtual private
-        cloud (VPC) and Reltio Shield for data encryption using customer-specific keys.
+AI-Media의 영업부문 최고책임자인 James Ward는 "AI-Media는 진화를 거듭하는 고객 니즈 충족을 위해 혁신의
+한계에 도전하고 있다"라고 강조했다. 그는 이어 "NAB Show 2024 무대에서 LEXI Recorded와 LEXI DR 제품 공개를
+앞두고 있어 기대감이 매우 크다. 이를 통해 캡션 기술의 우수성을 이루기 위해 부단히 노력하는 우리의 모습을
+보여줄 수 있어 기쁜 마음이다. LEXI DR은 완전한 캡션 자동화 실현을 위한 궁극적인 구성 요소에 해당한다. 캡션
+프로세스의 자동화를 완성하게 되는 것이다. 기존에는 사람이 직접 개입해 백업 역할을 했지만 LEXI DR은 수동적
+방식의 관리가 필요 없어 이 같은 과정을 혁신적으로 개선하게 되었다."라고 설명했다.
 
-"This release is a testament to our commitment to driving innovation and delivering value to our customers," said
-Venki Subramanian, SVP of Product Management. "Our enhanced generative AI capabilities and new user
-experience for segmentation empower enterprises to create dynamically managed customer segments with ease.
-The addition of Reltio's premium business continuity offering with cross-regional disaster recovery ensures that our
-customers can maintain real-time data integrity, even in the face of unexpected challenges."
+AI-Media는 신제품 공개와 함께 NAB 부스 무대에 'Innovation Station (혁신 스테이션)'이라는 코너를 마련해
+방문객들이 회사 제품 로드맵에 포함된 흥미로운 신기술을 탐색해 볼 수 있는 공간도 마련하게 된다. 프리뷰를
+통해선 맞춤형 사전으로도 불리는 토픽 모델 제작에 적용되는 생성형 AI의 발전상도 선보이게 된다. 이 같은 토픽
+모델은 테마나 토픽, 주제 등에 따라 문맥상 관련성이 있는 단어나 발음을 제시해 정확도를 높이게 된다. 아울러
+말하기 자막이나 더빙, 자동화된 오디오 설명과 같은 혁신적인 기능도 프리뷰에 포함되어 있다. AI-Media는 수십
+년에 걸친 방송 경험을 활용해 다양한 워크플로와 비디오 표준, 여러 지역에 걸쳐 캡션 솔루션이 차질 없이 이용
+가능하도록 지원하고 있다. 캡션 업계를 선도하는 혁신기업 AI-Media는 전 세계에 걸쳐 접근성이 강화된 미디어의
+미래를 만들기 위해 전념하고 있다.
 
-"To fuel the rise of generative AI we're seeing a tremendous growth in the importance of clean, accurate, and
-unified real-time data," said Stewart Bond, Vice President of Data Intelligence and Integration Software Research at
-IDC. "Better data intelligence is not only foundational for modern data environments, it truly is also an imperative."
+AI-Media와 혁신적인 캡션 솔루션에 대한 추가 정보는 여기를 참조하세요:
 
-The new and enhanced features are available now.
+AI-Media: AI-Media.tv
 
-About Reltio
+LEXI DR (Disaster Recovery): https://hubs.ly/Q02rWtMD0
 
-At Reltio, we believe data should accelerate the speed of business and fuel success. Our AI-powered data
-unification and management offerings deliver unified, trusted data where and when it's needed, so that enterprises
-can be responsive to changing business needs. Powered by the Reltio Connected Data Platform, our solutions-360
-Data Products, Multidomain Master Data Management (MDM), and Entity Resolution-unify disparate data sources
-in real-time, creating a single, trusted source of truth. Leading enterprise brands across multiple industries around
-the globe rely on our award-winning data unification and management capabilities to improve efficiency, manage
-risk, and drive growth. Visit us at Reltio.com .
+LEXI Recorded: https://hubs.ly/Q02rWtLS0
 
-"Reltio" is a registered trademark, and "Reltio Customer 360 Data Product" and "Reltio Intelligent Assistant" are
-trademarks of Reltio, Inc. All Rights Reserved.
+AI-Media 소개:
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240617821716/en/
+2003년 호주에서 설립된 AI-미디어(AI-Media)(ASX: AIM)는 혁신적인 캡션 워크플로 솔루션을 전문으로 하는 테크
+기업이다. AI-미디어는 전 세계 도처의 다양한 고객들과 시장을 대상으로 높은 품질의 AI 기반 라이브 및 녹화
+캡션기능과 번역, 기타 솔루션을 제공한다. AI-미디어는 2024년 2월 업계 최초로 AI 구동방식의 캡션 제품인 ‘LEXI’가
+인간이 처리하게 되는 기존의 방식보다 우수하다는 것을 입증하는 획기적인 데이터를 공개했다. 이 같은 이정표를
+통해 라이브 및 녹화 캡션 워크플로 솔루션 분야에서 최고의 AI 기술 리더로서 AI-미디어의 입지를 더욱 공고히
+다지게 됐다. AI-미디어는 업계에서 쌓은 풍부한 경험과 정교한 AI 기술력을 활용해 프로세스 간소화와 단순화를
+구현하는 솔루션 개발을 위해 노력하고 있으며, 전 세계 주요 방송사와 기업, 정부기관 등이 콘텐츠 제공에 있어 차질
+없이 접근성과 포용성을 확보할 수 있도록 지원해 나가고 있다. AI-미디어(ASX: AIM)는 2020년 9월 15일
+호주증권거래소 첫 거래가 개시됐다. AI-미디어에 대한 더 자세한 내용은 공식 홈페이지에 확인할 수 있다.
 
-                                                                                                 Page 3 of 3
-    Reltio 's Newest Innovations Empower Data Leaders with Premier Data Unification and AI Capabilities The
-                           latest release of the Reltio Connected Data Platform exp....
+                                                                                           Page 3 of 3
+    AI-Media, NAB 2024 무대 통해 향상된 기능의 Lexi Tool Kit 공개 AI 기반 캡션 솔루션의 글로벌 선두주자, NAB
+                     Show 2024에서 LEXI DR(Disaster Recovery)과 LEXI Recorded을 공개
 
-CONTACT: Alan Ryan
-Allison Worldwide for Reltio
+본       보도자료와              관련된   사진자료는          하단의        링크를        통해       확인이           가능합니다
+https://www.globenewswire.com/NewsRoom/AttachmentNg/0fde5af3-8765-4882-abaa-03746dcde8af
 
-Reltio@allisonworldwide.com
+언론 연락처 정보: Fiona Habben – Fiona.habben@ai-media.tv
 
 
-http://www.businesswire.com
 
 
-Load-Date: June 17, 2024
+Load-Date: April 9, 2024
 
 
   

@@ -1,58 +1,62 @@
 
 
-                                                                                                          Page 1 of 2
-                       Acterys Adds New AI-Driven Business Planning Features in Latest Release
+                                                                             Page 1 of 2
+        THE 8TH JAPAN-NORWAY JOINT COMMITTEE MEETING ON COOPERATION IN SCIENCE AND
+                                       TECHNOLOGY
 
 
 
 
- Acterys Adds New AI-Driven Business Planning Features in Latest Release
-                                                           PR Newswire
-                                           August 1, 2024 Thursday 12:13 PM EST
+THE 8TH JAPAN-NORWAY JOINT COMMITTEE MEETING ON COOPERATION
+                 IN SCIENCE AND TECHNOLOGY
+                                               States News Service
+                                           February 7, 2024 Wednesday
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 States News Service
 
-Length: 470 words
-Dateline: CHICAGO, Aug. 1, 2024
+Length: 316 words
+Byline: States News Service
+Dateline: TOKYO, Japan
 
 Body
 
 
-PR NewswireActerys 24.1 Offers Planning and Solution Deployment at Unprecedented SpeedsCHICAGO, Aug. 1,
-2024 /PRNewswire-PRWeb/ -- Acterys, a leading provider of AI-driven business planning and intelligence solutions,
-has released Acterys 24.1, which combines the power of AI with the robust functionality of Power BI and Excel to
-set new standards in speed, efficiency, and security.This innovation is not just an evolution; it's a revolution, crafted
-at the intersection of the latest AI breakthroughs, and Microsoft Excel and Power BI technology."Today marks a
-monumental chapter in our journey at Acterys, as we unveil groundbreaking advancements in business intelligence
-and planning," said Acterys CEO Martin Kratky. "This innovation is not just an evolution; it's a revolution, crafted at
-the intersection of the latest AI breakthroughs, and Microsoft Excel and Power BI technology. "New features in this
-release include:
+The following information was released by the Ministry of Foreign Affairs of Japan:
 
-The Smart XL Visual for Power BI seamlessly integrates Excel's full functionality into Power BI, allowing users to
-work within the familiar Excel interface directly in Power BI. This integration enables real-time data updates and
-advanced analytics without switching platforms.The Acterys Booster Engine uses AI algorithms to enhance parallel
-processing capabilities and API writeback performance, allowing users to execute complex computations and data
-transformations up to five times faster, delivering quicker insights for business planning and analytics processes at
-scale.Acterys' new AI capabilities augment planning operations with artificial intelligence and machine learning
-through deep integration of Microsoft Copilot and Acterys AI engine, which is capable of dramatically speeding up
-your data prep, quality, and analysis processes.Acterys 24.1 also provides enhanced security features, including
-Microsoft Entra ID automation, SOC2 Type 1 and 2 compliance, multi-factor authentication, plus business-continuity
-and disaster-recovery plans. These measures provide a secure and resilient environment for all business planning
-needs.To learn more about Acterys, including Acterys 24.1, visithttps://acterys.com/.About ActerysActerys is a
-global provider of corporate performance management solutions. With the groundbreaking xP&A Suite, Acterys is
-reshaping the way businesses approach planning, forecasting and operational analysis. Companies across sectors
-rely on the Acterys platform to make strategic decisions and ensure the long-term viability of their enterprises. For
-more information about Acterys and its CPM software, please visithttps://acterys.com.Media ContactMike Zack,
-Acterys, 1 1 775-871-1988, , Acterys.com View original content:https://www.prweb.com/releases/acterys-adds-
-new-ai-driven-business-planning-features-in-latest-release-302211974.htmlSOURCE Acterys
+The 8th Japan-Norway Joint Committee Meeting on Cooperation in Science and Technology took place in Tokyo on
+February 7, 2024.
+
+The Joint Committee Meeting was co-chaired by Ms. KAJI Misako, Ambassador for Science and Technology
+Cooperation of the Ministry of Foreign Affairs of Japan and Ms. Anne Line WOLD, Director General of the
+Department for Higher Education, Research and International Affairs, Ministry of Education and Research of
+Norway. Attendees included H.E. Ms. Kristin IGULM, Ambassador Extraordinary and Plenipotentiary of the
+Kingdom of Norway, and a range of representatives from the relevant ministries and agencies of both countries.
+
+During the meeting, both sides shared the recent developments of policies on national science, technology and
+innovation and green transformation, responsible international academic collaboration etc., and exchanged views
+on the current situation of collaborative activities. The committee also discussed the situation of bilateral
+cooperation and future directions in some of the priority areas identified at the previous committee meetings,
+including health, care, and welfare technology, polar research, and marine research, as well as emerging areas
+such as AI and disaster risk reduction.
+
+(Reference) The Japan-Norway Joint Committee Meeting on Science and Technology Cooperation
+
+The Japan-Norway Science and Technology Cooperation Agreement was signed in May 2003. Article 5 stipulates
+the establishment of a joint committee meeting as an intergovernmental framework to exchange views on scientific
+and technological policy issues related to the implementation of the agreement and to review the cooperative
+activities and accomplishments under the agreement.
+
+Based on this agreement, the joint committee meeting has been held alternately in Japan and Norway.
 
 
-Load-Date: August 1, 2024
+Load-Date: February 7, 2024
 
-                                                                                            Page 2 of 2
-                  Acterys Adds New AI-Driven Business Planning Features in Latest Release
+                                                                          Page 2 of 2
+     THE 8TH JAPAN-NORWAY JOINT COMMITTEE MEETING ON COOPERATION IN SCIENCE AND
+                                    TECHNOLOGY
+
 
 
 

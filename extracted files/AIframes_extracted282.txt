@@ -1,129 +1,1251 @@
 
 
-                                                                                                  Page 1 of 3
-    LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
-                        Advancements Spark Change LevelBlue finds 73% of healthca....
+                                                                                                       Page 1 of 21
+                                     DEPARTMENT PRESS BRIEFING MARCH 11, 2024
 
 
 
 
-    LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an
-    Afterthought, But Dynamic Computing Advancements Spark Change;
-      LevelBlue finds 73% of healthcare executives believe computing
- innovation's benefits outweigh its cybersecurity risks, while more than half
-                   still remain cautious about AI adoption
-                                                   Business Wire
-                                      July 11, 2024 Thursday 12:00 PM GMT
+                       DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+                                                 States News Service
+                                               March 11, 2024 Monday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 931 words
-Dateline: DALLAS
+Length: 10752 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-LevelBlue , a leading provider of managed security services, strategic consulting, and threat intelligence, today
-released its 2024 Futures Report: Cyber Resilience in Healthcare . The findings reveal how opportunities for
-technology innovation and the rapid evolution of computing have thrust healthcare organizations into a perpetual
-struggle between innovation and risk.
+The following information was released by the U.S. Department of State:
 
-The latest LevelBlue report found that 87% of healthcare executives anticipate that dynamic computing will enhance
-operational performance within the next three years, yet 83% acknowledge an increased exposure to risk. Another
-69% of respondents say their healthcare organizations do not specifically invest in cyber resilience beyond
-cybersecurity, inferring leadership underestimates the harm a major cyber incident, natural disaster, or other man-
-made event could pose.
+MR MILLER: Good afternoon, everyone. We have a couple of guests today who are going to give opening
+comments. Deputy Secretary of State for Management and Resources Rich Verma will start, followed by Deputy
+Administrator of USAID for Management and Resources Paloma Adams-Allen. They will give opening comments,
+they'll be happy to take a few questions, and then we'll resume the usual briefing after they finish.
 
-However, there are signs of change as 77% of healthcare leaders expect earlier involvement of cybersecurity in
-computing projects, indicating a shift towards proactive measures. An additional 54% acknowledge they are a
-cautious or late adopter of artificial intelligence (AI). This trend, coupled with the cautious adoption of AI and a
-slightly lower concern for risk, suggests a moderate level of preparedness.
+With that.
 
-"Computing advanced so rapidly that many healthcare leaders now lack crucial visibility into their IT estate," said
-Theresa Lanowitz, Chief Evangelist of AT&T Cybersecurity / LevelBlue. "To overcome this challenge, healthcare
-organizations now have a big task ahead. They need to remain agile, flexible, innovative, cost-effective, and quality-
-conscious while also meeting external demands of data protection and patient safety. This report identifies key
-opportunities to overcome the obstacles in achieving both cyber resilience and innovation to thrive among today's
-dynamic computing environment."
+DEPUTY SECRETARY VERMA: Thank you. Matt, thank you. Good afternoon, everyone. Nice to see you, and I
+want to thank my friend and colleague, USAID Deputy Administrator for Management and Resources Paloma
+Adams-Allen, for being here with us today. I also want to thank our Director of Bureau of Planning and Resources
+Doug Pitkin and our new Director of Foreign Assistance Tracy Carson, as well our USAID Budget Lead Roman
+Napoli, for being with us here as we walk through our FY25 budget with all of you.
 
-Today's healthcare organizations operate in a climate where a whole hospital system can be taken offline in only a
-few hours, compromising patient data protection and critical healthcare services. Broadscale cyber resilience is
+The budget request we are sending to Congress today will allow the Department of State and USAID to continue
+advancing the Biden administration's vision of a free, open, secure, and prosperous world while delivering on issues
+that matter most to the lives and livelihoods of the American people. The President's FY25 budget request includes
+58.8 billion for the State Department and USAID. This is a $718 million or 1 percent increase above FY23. We are
+grateful for Congress' partnership in resourcing State and USAID to meet the many challenges that we face today.
 
-                                                                                                 Page 2 of 3
-   LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
-                       Advancements Spark Change LevelBlue finds 73% of healthca....
+U.S. diplomacy and development are more essential than ever to ensure American security and prosperity to solve
+global challenges and uphold universal values. Over the past year, the United States, with our friends and
+colleagues and allies around the world, have faced a range of significant challenges from the conflict in the Middle
+East, to Russia's ongoing brutal war against Ukraine, to historic levels of irregular migration and forced
+displacement, to unprecedented and growing global humanitarian needs.
 
-required to effectively recover from network, system, and data interruptions that underpin healthcare delivery. This
-can include recovery from large-scale distributed denial-of-service (DDoS) attacks, business email compromise,
-and ransomware.
+Our budget request invests in the personnel, the programs, and assistance that the State Department and USAID
+need as we stand at the front lines of these issues. Just allow me to outline some of our highest-priority areas in the
+request.
 
-When asked about cybersecurity planning and budgeting within healthcare organizations, the study found:
+                                                                                                       Page 2 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
 
-- Only 38% say cybersecurity is typically included in computing planning with 51% reporting it is included in
-corporate strategy discussions.
-- 73% indicate cybersecurity budgets are reactive rather than proactive, while 42% identify compliance as the driver
-most likely to unlock the cybersecurity budget.
-- 37% are most likely to seek cybersecurity expertise for strategy and planning, but 69% are struggling to find the
-external guidance they need.
-- 76% say that measuring cybersecurity investments based on return on investment (ROI) is outdated while 59%
-reveal there's a lack of understanding about cybersecurity at the board level.
-- 62% believe cybersecurity is an afterthought in their organizations and 60% confirm efforts are often siloed,
-hindering comprehensive protection.
-- Just 46% of their organizations have a cybersecurity budget line item for every project, while 45% do not have
-standardized cybersecurity processes - risking patient data and operational integrity.
+First, we must employ all the tools at our disposal to outcompete China wherever possible. The FY25 request will
+allow us to continue to invest in the foundations of our strength at home aligned with likeminded partners to
+strengthen our shared interests and address the challenges posed by the PRC and harness those assets to
+compete with the PRC and defend our interests. We are aligning our foreign assistance to advance U.S. values by
+building a network of likeminded allies and partners both globally and with concerted focus on the Indo-Pacific as a
+region of vital importance to the U.S. and global security and prosperity.
 
-Based on these findings, LevelBlue recommends five specific steps to achieve cyber resilience, regardless of the
-industry: identify the barriers to cyber resilience; be secure by design; align cyber investment with business; build a
-support ecosystem; and transform cybersecurity strategies.
+The $4 billion discretionary request across foreign assistance and diplomatic engagement for the Indo-Pacific
+Strategy represents our ironclad commitment to advancing an affirmative vision of U.S. values for the region. While
+many aspects of the discretionary request help advance this goal, discretionary resources alone cannot meet this
+need. It is imperative to our national security that we also have mandatory, reliable funding to outcompete China,
+and that is why the request also includes $4 billion over five years in mandatory funding to enable the United States
+to invest in new ways to outcompete China and focus on new and critical investments split between two important
+funds.
 
-Download the complete findings of the 2024 LevelBlue Futures Report: Cyber Resilience in Healthcare at this link
-here to learn why balancing innovation and cyber risk are paramount in today's rapidly evolving healthcare
-environment. This report follows the May 2024 release of the core 2024 LevelBlue Futures Report found here
+We are requesting $2 billion to create a new international infrastructure fund which will outcompete China by
+providing a credible, reliable alternative to PRC options while also expanding markets and opportunities for U.S.
+businesses. This fund will support transformative, quality, and sustainable hard infrastructure projects. Additionally,
+we are seeking $2 billion to make game-changing investments in the Indo-Pacific to strengthen partner economies,
+improve good governance and the rule of law, bolster connectivity between partner countries, and support their
+efforts, including through multilateral fora, in building resilience and pushing back against predatory efforts.
 
-For more information on LevelBlue and its managed security, consulting, and threat intelligence services, please
-visit www.levelblue.com
+Our second key priority in this request is ensuring Russia's war in Ukraine remains a strategic failure. We are
+requesting 482 million, which would sustain crucial support for Ukraine in its resolute defense of its people and
+independence from Russia. Our request also provides the resources needed to deliver critical economic
+development and humanitarian assistance to Ukraine's brave and resilient citizens.
 
-Methodology
+Let me be clear, though. These funds are in addition to the October 2023 National Security Supplemental Request.
+The FY25 resources start re-establishing a base budget for core and enduring programs for Ukraine but cannot
+replace the funds requested as part of the supplemental.
 
-The research is based on a quantitative survey that was carried out by FT Longitude in March 2024. There were a
-total of 1,050 C-suite and senior executives surveyed, across 18 countries and seven industries: energy and
-utilities, financial services, healthcare, manufacturing, retail, transportation, and US SLED (state, local government,
-and higher education). Respondents were employed in a variety of cybersecurity-related roles, with 32% working at
-C-level and the remainder employed in C-minus one positions. The total number surveyed in healthcare is 180.
+Third, advancing peace and security in the Middle East remains a top priority for us, including working with our
+partners to end the conflict between Israel and Hamas and deliver lifesaving assistance to Palestinians. The
+President's request of 7.6 billion maintains our longstanding investments to support key partners in the Middle East
+and North Africa and their security against growing violence by extremists and Iran-linked malign actors. The funds
+would unlock resources to partner with citizens of the region, foster economic growth, and advance good
+governance and respect for human rights.
 
-About LevelBlue
+Fourth, delivering solutions to shared global challenges such as irregular migration and forced displacement,
+countering synthetic drugs, a rapidly changing climate, and growing humanitarian crises. Now, to do this we are
+mobilizing resources to promote economic prosperity, grow energy sectors, strengthen health systems, invest in
+food security, and to mitigate the impacts of the climate crisis. Our partnerships are crucial to tackling these global
+challenges, and ones that affect our own hemisphere, including irregular migration, forced displacement, and the
+illegal synthetic drug crisis in the United States. These additional resources will allow us to work together with key
+allies and partners on these challenges and towards a free, open, and secure, prosperous world.
 
-We simplify cybersecurity through award-winning managed services, experienced strategic consulting, threat
-intelligence and renowned research. Our team is a seamless extension of yours, providing transparency and
-visibility into security posture and continuously working to strengthen it.
+Fifth, we will continue to work continue our work to ensure U.S. interests and values are protected in the digital and
+emerging technology sector, including through the CHIPS Act. We are grateful to Congress for providing 500 million
+over five years to work with our partners and allies to secure and expand our critical semiconductor supply chains
+and promote the adoption of trustworthy telecommunication technologies.
 
-We harness security data from numerous sources and enrich it with artificial intelligence to deliver real-time threat
-intelligence, which enables more accurate and precise decision making. With a large, always-on global presence,
-LevelBlue sets the standard for cybersecurity today and tomorrow. We easily and effectively manage risk, so you
-can focus on your business
+Now, success in all of these policy areas is not possible if we do not have the people, the platforms, and the tools to
+achieve these objectives while being responsible stewards of taxpayer resources. So to that end, with FY25 funds,
+we must also continue the Secretary of State's ambitious agenda to modernize American diplomacy, to ensure we
+are equipped to seize the opportunities of the 21st century. These resources will strengthen the department by
 
-Welcome to LevelBlue. Cybersecurity. Simplified. Learn more at www.levelblue.com .
+                                                                                                          Page 3 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240711975035/en/
+improving the morale, recruitment, and retention of our global workforce, which spans the Foreign Service, the Civil
+Service, and our locally employed staff at embassies around the world.
 
-                                                                                                 Page 3 of 3
-   LevelBlue Report Finds Healthcare Leaders View Cybersecurity as an Afterthought, But Dynamic Computing
-                       Advancements Spark Change LevelBlue finds 73% of healthca....
+And to meet these global challenges and to fulfill the President's priorities, we need a growing workforce
+empowered by more training and greater flexibility. Our request expands State's and USAID's workforce by
+establishing nearly 350 new positions, and also filling 200 of State's existing Foreign Service vacancies. We will
+focus on expanding our engagement in the Indo-Pacific region, increasing professional development and training
+options, and establishing a new diplomatic reserve auxiliary corps to meet future crises. We will also continue to
+advance diversity, equity, inclusion, and accessibility initiatives, to include broader recruitment and retention. We've
+requested 5.6 billion to keep our people, our buildings, and information around the globe safe and secure, including
+for an expanded presence in the Indo-Pacific, in Libya, and the Eastern Caribbean.
 
-CONTACT: Media
-Jessica Bettencourt
-Inkhouse for LevelBlue
+In addition, the United States multilateral contributions are indispensable to shaping international institutions and
+partnerships critical to our national security interests. Therefore, our request includes 1.7 billion for contributions to
+international organizations such as the UN, WHO, NATO, and UNESCO, as well as 1.2 billion for contributions to
+UN international peacekeeping.
 
-LevelBlue@inkhouse.com
-(774) 451-5142
+Finally, I would also like to emphasize what we are doing to provide better services to the American people. Our
+request will enhance the department's consular services for passports, visas, and U.S. citizen services overseas.
+Increased staffing and IT capacity will reduce wait times and improve customer service that many Americans and
+visitors to the United States count on.
+
+Now, as I said at the outset, this budget will advance the Biden administration's vision of a free, open, secure, and
+prosperous world, but it also delivers on issues that matter to the lives and livelihoods of Americans. Better, faster,
+and more convenient services from our consular services is one area. But so is reducing the flow of fentanyl,
+promoting greater economic opportunity, ensuring global health security, and creating jobs. And these are all other
+examples of how the department will deliver on things that matter most to Americans.
+
+Now, with that, let me hand the floor to Deputy Administrator Paloma Adams-Allen, who will address the key USAID
+elements of the FY25 budget request, and then we would look forward to a few of your questions as well. Paloma.
+
+MS ADAMS-ALLEN: Thank you, Rich. Thanks so much, Rich. Thank you, Matt. Good morning. Good afternoon. As
+Rich has just described, we really find ourselves at another decisive juncture, where U.S. leadership on the global
+stage is critical for continued growth and prosperity here at home, for our national security, and for extending the
+reach of dignity around the world.
+
+The President's FY25 budget request calls for 28 billion for USAID, a request that reflects our commitment to
+responding to the historic conflict and climate-driven disasters that continue to wreak havoc globally, while also
+advancing longer-term development objectives like strengthening democracy, global economic resilience, and our
+systems for the response and prevention of climate and health shocks. This request also assumes the appropriation
+of the critical humanitarian and economic support funds we've been fighting for in the National Security
+Supplemental. So before I take questions alongside Rich, I just wanted to highlight a few of the areas that are
+critical for USAID.
+
+On the humanitarian assistance front: In the last three years alone, due to natural disasters and ongoing conflicts in
+the Middle East, Eastern Europe, and beyond, the number of people in need of assistance has grown to 300 million,
+an increase of 64 million from 2021. For the U.S. to continue to lead, to support our partners and allies, and to save
+lives amidst some of the world's toughest challenges, this year's budget requests 6.3 billion for USAID's
+humanitarian assistance efforts, which cover an average of 75 crises per year, including ongoing emergencies in
+Gaza, Haiti, and Afghanistan. It also includes 1.1 billion for USAID's Feed the Future programs to address the
+global food crisis driven by climate-induced shocks and exacerbated by Russia's war in Ukraine.
+
+Ukraine's long-term economic stability depends on its ability to continue generating revenue, so this year's request
+includes 321 million to bolster its economy, including building up its energy infrastructure and increasing agricultural
+
+                                                                                                       Page 4 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+exports. It also includes funding to continue the support that the government provides in terms of basic social
+services as well as the Ukrainian people's work to strengthen democracy.
+
+In terms of our economic and democracy-strengthening priorities, we know that leveraging private sector capital
+and business expertise is critical to closing the gap between the current levels of development assistance and the
+increasing need. So we're requesting 50 billion for USAID's EDGE Fund, which is already generating partnerships
+and attracting the additional resources needed to promote sustainable business practices, market-based
+innovations, and inclusive entrepreneurship. And we're asking for another 50 million to boost the economic
+resilience of countries facing mounting debt, slowing growth, high inflation, declining investment, and widening
+inequality, all of which we know can undermine democratic gains.
+
+To meet the urgency and magnitude of the digital threats to development progress, the request includes 94 million
+to scale USAID's digital, cyber, and emerging technology programming, including our work to build and strengthen
+open, inclusive, and secure digital ecosystems, and leverage proven technology for better development outcomes.
+
+To meet our commitment to tackle the global climate crisis, this year's budget requests 2.8 billion for USAID-
+managed climate programs that lay the foundation for the modernization and expansion of the energy infrastructure
+needed to power schools, hospitals, and economic growth. We will also continue to increase food and water
+security by providing people with access to lifesaving early warning systems and more resilient agriculture and
+conservation practices.
+
+To reaffirm the U.S. global health leadership, the budget request includes 4 billion for USAID-managed accounts to
+prevent child and maternal deaths, bolster nutrition, control the HIV/AIDS epidemic, protect the global health
+workforce through the President's Global Health Worker initiative, and it includes 650 million for USAID to sustain
+global health security programs to help detect, respond to, and prevent future infectious disease threats.
+
+And last but not least, as Rich noted, we're supporting our people. Beyond our critical programmatic funding, this
+request also reflects our commitment to strengthening and investing in our global workforce. With our $2.2 billion
+request, we are prioritizing the recruitment, retention, and training of the personnel with the skills and experience
+needed in a modern development and humanitarian enterprise. So an additional 145 positions will help us grow our
+ranks of career humanitarians, contracting and AI specialists, economists, engineers, and others. And it will position
+us to better address the compensation and other concerns of our local staff who serve our missions overseas,
+ensuring that we live up to our values but are also able to compete for much-needed talent.
+
+So, to wrap up, from day one the Biden-Harris administration of the Biden-Harris administration, the United States
+has confronted and led the world to respond to complex threats and the most pressing global challenges of the day.
+We look forward to continuing this work with the support of the American people. Thank you.
+
+MR MILLER: Okay. Take a few questions. Matt.
+
+QUESTION: Thanks. I guess these are to both of you, and I don't know, Rich, do we call you ambassador or a
+deputy secretary?
+
+DEPUTY SECRETARY VERMA: Whatever you want.
+
+QUESTION: What do you prefer?
+
+DEPUTY SECRETARY VERMA: Rich is great. (Laughter.)
+
+QUESTION: Okay. I have a couple, but I think they'll be really quick. And the reason that I have a couple is
+because we have not actually seen the Function 150 justification. We've only seen a couple fact sheets that were
+sent out.
+
+DEPUTY SECRETARY VERMA: I think it came out just
+
+QUESTION: Well, I haven't seen it. It's not been in my email, so anyway but I think these will be real quick.
+
+                                                                                                               Page 5 of 21
+                                  DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+Ukraine in the 2025 budget, you said 482 million. Is that correct?
+
+DEPUTY SECRETARY VERMA: Correct.
+
+QUESTION: And then and but that's on top of what is in the supplemental, which has not yet been approved
+already.
+
+DEPUTY SECRETARY VERMA: That's correct.
+
+QUESTION: Which is how much is that? That's part of the 60 billion?
+
+MS ADAMS-ALLEN: It is 16.3 billion.
+
+QUESTION: 16.3?
+
+DEPUTY SECRETARY VERMA: Yes.
+
+QUESTION: Okay. So of the all right. And then okay, I just wanted to make sure that was right.
+
+DEPUTY SECRETARY VERMA: And Matt, just maybe I'll just make the point that I made that this base budget in
+FY25 is not a substitute for that supplemental, and that supplemental is growing more and more important every
+day.
+
+QUESTION: Right. Okay. And then also part of that supplemental is some stuff for the Middle East, but in the 2025
+request, you have 7.6 billion, right? Is it correct that about half of that, roughly a little less than half, 3.3 billion is for
+Israel alone?
+
+DEPUTY SECRETARY VERMA: Correct. Yes.
+
+QUESTION: And then on Taiwan, you mentioned the Indo-Pacific, you say in one of these fact sheets that we got a
+little while ago, it says that you're making a historic investment in Taiwan's military.
+
+DEPUTY SECRETARY VERMA: Think it's $100 million in security assistance.
+
+QUESTION: Yeah, but you know what? I've seen individual arms sales to Taiwan that you guys have put out to
+TECRO that are more than 100 million, so I don't understand how this is historic. Can you explain that?
+
+And then I've got one last one which is about embassies and consulates. I don't know if you want to take those.
+
+DEPUTY SECRETARY VERMA: Happy to take that. Look, we break out Taiwan for the first time and have a
+specific line item for it. It reaffirms our commitment to security assistance for Taiwan and to a free and open Indo-
+Pacific. I think it's very clear. I think it stands on its own.
+
+QUESTION: Okay. But, I mean, it is not in itself historic because the size of it is not historic. I mean, you guys have
+sold them
+
+DEPUTY SECRETARY VERMA: I think yeah, here's what I would say
+
+QUESTION: You guys have there have been many, numerous, transfers to the Taiwanese over the years that have
+exceeded 100 million at a time.
+
+DEPUTY SECRETARY VERMA: That's true. That's true, and we're very proud of the longstanding security
+assistance we've provided. I'd also say take a look at our Indo-Pacific Strategy more broadly and the new kind of
+funding requests that have gone in, including mandatory spending and new accounts.
+
+QUESTION: Okay. Last one and this is just on you said 5.6 billion for supporting the staff or and improving and
+expanding the diplomatic presence abroad. Does that include funding for the new embassy in the Seychelles, which
+I know that you were there to announce? The Maldives, which former Secretary Pompeo was there to announce?
+
+                                                                                                     Page 6 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+And is there any funding for the consulate in Western Sahara that was announced by the previous administration?
+And is there any funding for a consulate in Jerusalem?
+
+DEPUTY SECRETARY VERMA: So I was in Seychelles. I was also in Maldives, so glad to see the progress there.
+And we are kind of Doug, why don't you jump up? Yeah.
+
+MR PITKIN: On Western Sahara Western Sahara, not at this time. I think that some of the planning is still ongoing
+for the appropriate presence, given the security conditions. And then at this point no additional funding for
+Jerusalem at this point, but that still remains in a planning stage.
+
+QUESTION: All right. Then you mentioned Libya and the eastern Caribbean, so in Libya where? Back in Tripoli?
+
+MR PITKIN: Libya
+
+QUESTION: Because you had an embassy that you closed down. I mean, it was in a hotel room, basically, but it
+was an embassy.
+
+MR PITKIN: We're in active negotiations for an interim facility that would provide appropriate security and staffing
+support adjacent to other international
+
+QUESTION: In Tripoli?
+
+MR PITKIN: Yeah. Yeah.
+
+QUESTION: All right. And then you mentioned, Rich, the eastern Caribbean.
+
+MR PITKIN: Eastern Caribbean. That planning is still going on, but several islands
+
+QUESTION: For where?
+
+MR PITKIN: The Secretary has not made a final determination on which specific islands. That planning is ongoing,
+but would enable two very small, focused posts.
+
+DEPUTY SECRETARY VERMA: This would build on the Vice President's trip where she made the initial
+announcement, and the planning actually does continue. And I think what you'll see is a very strategic focus on key
+areas where we believe having a diplomatic presence is important the Indo-Pacific, eastern Caribbean, coming
+back to Libya so these are again, I think, reflective of the need to be where the greatest kind of urgency and some
+of our crises are, but also just to kind of regularize our diplomatic presence in places.
+
+QUESTION: Thank you.
+
+DEPUTY SECRETARY VERMA: Paloma, you want to add anything?
+
+MS ADAMS-ALLEN: No, I'm good.
+
+DEPUTY SECRETARY VERMA: Okay.
+
+MR MILLER: Humeyra.
+
+QUESTION: Hi, thank you very much.
+
+DEPUTY SECRETARY VERMA: Thank you.
+
+QUESTION: Can I follow up super quickly on Western Sahara? I think, if I got it right, you said there's still ongoing
+for the appropriate presence given the security conditions. Do you have at all a timeline on when you might move
+on opening this consulate in Western Sahara?
+
+MR PITKIN: I think we'd have to come back on the specifics for that, so we can follow up.
+
+                                                                                                         Page 7 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+QUESTION: You don't have any timeline?
+
+MR PITKIN: Not at this point.
+
+QUESTION: But you have can you confirm you have the political will to open it within this administration?
+
+MR PITKIN: All those elements are part of the decision process, both the political will, the security, the appropriate
+resources. So at this point I think we'd have to take that for the a more specific timeline.
+
+QUESTION: Okay, understand. Thank you. And I just want to ask something about UNRWA, and please correct me
+if I missed it somewhere, but in the bullet points that are sent out and in the fact sheet, I did not see any funding for
+UNRWA. I do believe it falls under State Department/USAID. So does that I mean, is it somewhere that's hidden or
+we don't we haven't seen or
+
+DEPUTY SECRETARY VERMA: No, it's not hidden. We have as has been discussed here, I think, multiple times,
+we have a pause on our funding
+
+QUESTION: Right.
+
+DEPUTY SECRETARY VERMA: to UNRWA until the investigation is complete. That doesn't mean we are not
+providing funding for Gaza, for the West Bank, for the humanitarian needs, and there's a significant commitment in
+here. But until that particular investigation concludes itself, we're going to look to other organizations as we do
+today: World Food Program, UNICEF, other outlets.
+
+QUESTION: Right. And so it's it would be wrong to say that U.S. has written off the possibility to resume funding for
+UNRWA.
+
+DEPUTY SECRETARY VERMA: I think what I would say is there is a pause pending the outcome of the
+investigation.
+
+QUESTION: And you said there is significant commitment for Palestinian people. I've seen 3.3 for Israel. Does that
+number include for West Bank or Gaza?
+
+DEPUTY SECRETARY VERMA: No, there's an additional amount of funding. I think it's around Tracy, do you want
+to take that? Yeah.
+
+MS CARSON: There's 10.3 billion in humanitarian assistance, and those are the sources we would use to support
+Palestinian refugees.
+
+QUESTION: Okay. And in terms of the agencies, the WFP, did you say?
+
+DEPUTY SECRETARY VERMA: Yeah, I think look, we work with a range of partner agencies, and that's what we
+do today to deliver the assistance, and we'll continue to do that.
+
+QUESTION: Thank you.
+
+MS ADAMS-ALLEN: Thank you. No, that's it.
+
+DEPUTY SECRETARY VERMA: Okay.
+
+MR MILLER: Alex, go ahead.
+
+QUESTION: Thank you so much. I appreciate that. A couple of questions, if I may. On Eurasia Central Asia and
+Europe what I have written there, line 199 you mentioned some portion will go to Armenia's economic and
+democratic resilience. Can you just give us the numbers? How much of that portion will go to
+
+DEPUTY SECRETARY VERMA: Sorry, you said on Armenia?
+
+                                                                                                       Page 8 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MS ADAMS-ALLEN: Armenia.
+
+QUESTION: Yes.
+
+DEPUTY SECRETARY VERMA: Okay. You got it.
+
+MS CARSON: I'll get back to you on that.
+
+DEPUTY SECRETARY VERMA: In one we have it broken out, but we'll make sure we get that to you.
+
+QUESTION: I appreciate it. On democracy programming, I didn't see any funding for a summit, democratic
+democracy summit for 2025. Do you guys not expect a summit for 2025?
+
+DEPUTY SECRETARY VERMA: Again, if
+
+MS CARSON: There is. There's $3 billion in democracy, and of that we're assuming roughly $345 million will
+support the work that we've been doing related to the democracy summit.
+
+QUESTION: In the summit. Yeah. And finally, well, Madam Deputy Administrator, can you speak to how much past
+couple of months impacted the capabilities in terms of delivery of humanitarian assistance in Ukraine? I see funding
+for upcoming year, but if you don't if you don't have a lot of partners who will help you in Ukraine to deliver that
+assistance, do you how much past couple of months have impacted your capabilities?
+
+MS ADAMS-ALLEN: So we're still providing assistance in Ukraine. We provided about 14.6 up to 14.6 thousand
+million folks. So we still have ongoing funding. The challenge will be if we don't get the supplemental funding, that's
+where we will have to cut off 400 or so health centers that are providing support, food assistance that's going out to
+folks. So we are currently providing assistance, but that is ramping down, and that's why we need the supplemental.
+
+Roman, do you have a figure in terms of numbers of folks who have received assistance? Sorry for
+
+MR NAPOLI: Tracy might, I think.
+
+MS CARSON: I'll get back.
+
+MR NAPOLI: Yeah.
+
+MS ADAMS-ALLEN: Yeah.
+
+MR MILLER: Okay.
+
+MR NAPOLI: Go ahead.
+
+MR MILLER: We'll take one
+
+MS ADAMS-ALLEN: So
+
+MR MILLER: Oh, sorry.
+
+MS ADAMS-ALLEN: That continues our issue, and this is why the supplemental is so urgent.
+
+MS CARSON: I'll just answer your Armenia question. The budget assumes $52 million for Armenia.
+
+QUESTION: Thanks.
+
+MR MILLER: One more from Nike, and then we'll wrap, and I'll take questions.
+
+QUESTION: Thank you. This question is to follow and to clarify to both of you. The fact sheet mentioned "100.0
+million for an historic investment in Taiwan's security including new bilateral Foreign Military Financing request, to
+
+                                                                                                       Page 9 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+strengthen deterrence and maintain peace and stability across the Taiwan Strait." Can we please have a
+breakdown? Does that include a permanent training mission by the U.S. Special Forces, troops in Taiwan, Republic
+of China? Thank you.
+
+DEPUTY SECRETARY VERMA: I don't I don't believe so. I think this is the traditional security assistance. There's
+also IMET assistance. And again, you have to read that together with the totality of our assistance in the Indo-
+Pacific Strategy and the new mandatory funding we've also added. So I think that's how I would describe that
+particular
+
+MS CARSON: Yeah, it's Foreign Military Financing grant-based assistance that we would provide to Taiwan.
+
+DEPUTY SECRETARY VERMA: Yeah.
+
+MR MILLER: Okay.
+
+DEPUTY SECRETARY VERMA: Okay.
+
+MR MILLER: Thank you both.
+
+DEPUTY SECRETARY VERMA: Thank you.
+
+MS ADAMS-ALLEN: Thank you.
+
+DEPUTY SECRETARY VERMA: Thank you, Matt. Thanks, everybody.
+
+MS ADAMS-ALLEN: Thanks, everyone.
+
+QUESTION: Thank you.
+
+MS ADAMS-ALLEN: Thank you.
+
+QUESTION: Thank you.
+
+MR MILLER: Okay. Just get situated here. All right. Who wants to go first? I don't know if I have to call on Matt first
+and if he's already a first question, or I go to somebody else.
+
+QUESTION: You can go to someone else. I want to
+
+MR MILLER: It doesn't matter. I just want to I just want to follow the rules, formal or informal.
+
+QUESTION: I don't think there are any rules. I think you can you can go to someone
+
+MR MILLER: So we'll go to somebody who hasn't asked
+
+QUESTION: I wanted to ask about Haiti.
+
+QUESTION: I mean, I also wanted to ask about Haiti.
+
+MR MILLER: We'll go to somebody who hasn't asked a question.
+
+QUESTION: What can you tell us about the expectations for the meeting in Jamaica today?
+
+MR MILLER: So the Secretary is in Kingston, Jamaica today to attend the CARICOM High-Level Meeting on Haiti to
+advance a compromise on the to the ongoing political stalemate threatening the country's citizens and security. The
+proposal that is on the table that CARICOM has developed over the past several days in consultation with Haitian
+stakeholders, in consultation with the United States, would expedite a political transition through the creation of a
+broad-based, independent presidential college to steer the country towards the deployment of a Multinational
+
+                                                                                                         Page 10 of 21
+                                 DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+Security Support Mission and free and fair elections, and that's what I expect the Secretary will be discussing with
+his colleagues.
+
+QUESTION: Will Prime Minister Henry have any presence there, virtually or other?
+
+MR MILLER: I am not aware of any, but as always, I will defer to him speak to his travels.
+
+QUESTION: And is it your understanding he's still in Puerto Rico?
+
+MR MILLER: Again, I'm going to defer to him to speak to his travels.
+
+QUESTION: And then can you tell us any more about the decision to evacuate some embassy personnel over the
+weekend?
+
+MR MILLER: So as you may aware, we have been on ordered departure status since last July, where we have
+ordered a certain number of embassy personnel to leave. Since we went to that status last July, there have been
+embassy personnel that have left at different times, and at times we have moved additional personnel in. So we had
+a number of embassy personnel that left over the weekend. We had additional security forces that deployed to the
+mission because of the security situation there. And we'll continue to assess the situation and what make whatever
+appropriate decisions we need to protect our staff and personnel there.
+
+Camilla.
+
+QUESTION: Can you get can you say anything further about any American passport holders in Haiti, if there's any
+American citizens reaching out to the embassy hoping for assistance, given the the precariousness of flights in and
+out of Haiti and things that are developing quickly?
+
+MR MILLER: So yeah, so we are in contact with a number of American citizens in Haiti. I do want to reiterate that
+we have had a Level 4 travel alert for Haiti for more than four years now, making very clear to American citizens
+that, number one, they should not travel to Haiti, that it is not safe to travel to Haiti; and number two, that they are if
+they're in Haiti, they should leave as soon as it's safe for them to do so. Now, obviously, that's a warning that has
+been in place for four years. It's not safe for a number of them to leave right now, and they're not able to leave right
+now because the airport has been damaged and commercial carriers have suspended flights.
+
+So what we are asking U.S. citizens to do today is to register through our crisis intake form, which you can get to
+through the embassy's website, and we will communicate with them the best information we have when we have it.
+
+Said oh, Humeyra, go ahead. I will let's
+
+QUESTION: If it's on Haiti
+
+MR MILLER: Let's finish up on Haiti.
+
+QUESTION: Mine is about Palestine yeah.
+
+MR MILLER: Yeah, we'll finish up on Haiti and then go yeah, Nike.
+
+QUESTION: MSS the United States has placed $200 million assistance to the Multinational Security Support
+Mission to Haiti. Can you provide more details on MSS? What are the exact plans? And is the United States able to
+execute the assistance under current security circumstance?
+
+MR MILLER: So we are committed to the success of the MSS. You have seen not only the United States commit
+money to the MSS, but also the Secretary has met with his foreign counterparts to seek to raise funds from
+additional countries to fund the MSS. Secretary spoke to the president of Kenya on Friday to discuss the
+deployment of the MSS, and we continue to look to expedite that mission as soon as possible. And so that's
+something we're in the in conversation with the Government of Kenya about, and something we're in conversation
+
+                                                                                                      Page 11 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+with other countries around the world. And I can assure you that the United States will do its part to fund that
+important mission.
+
+QUESTION: Can I please follow up?
+
+MR MILLER: Sure.
+
+QUESTION: No offense here, but just for example, it's fair to assume the Kenya forces do not speak Creole. So my
+question is: How are they going to communicate with the Haitians National Police? How are they going to tell who is
+good cop, who is bad cop? And same thing goes with other multinational forces.
+
+MR MILLER: So I will defer ultimately to the Government of Kenya to speak to how that mission will operate. We
+are there in a support function by with providing them financial assistance and providing them logistic support. But
+obviously, there are translators that you can bring to bear, there are other resources you can bring to bear to work
+through those issues, and it's something that we will look to do in the coming weeks.
+
+QUESTION: The bureau State Department's Bureau for INL used to have a some teams on the ground to help with
+Haitian police National Police forces to fight drugs, illegal I mean, illegal drugs and crimes, and to help maintain
+security. Are they still there on the ground, or where are they when this violence happened?
+
+MR MILLER: I'll have to take that back and follow up. I'm happy to look into it and follow up with you. Anything else
+on Haiti before we move on? Hands go up; hands go down.
+
+Go ahead, Tom. (Laughter.)
+
+QUESTION: We're okay to move on now? Why is the United States building a port off the coast Gaza when there's
+a perfectly good one that
+
+MR MILLER: Wait, I thought we let me just I thought we were still on Haiti. Nothing else on Haiti?
+
+QUESTION: We're still on Haiti?
+
+MR MILLER: Okay, we are moving on. Yeah, let me just let me just I'll come to you
+
+QUESTION: Yeah, no, that's fine. It's fine.
+
+MR MILLER: Let me just let me just make let me I want to close out Haiti before we move on.
+
+QUESTION: Yeah, yeah.
+
+MR MILLER: Go ahead.
+
+QUESTION: Thank you. So what's going to happen with U.S. citizens who are still in Haiti? Are there any
+evacuation plans? And then second, how does this affect the southern border in terms of migrants and also drugs?
+
+MR MILLER: So I had spoke to the question with respect to American citizens a moment ago, which is that they
+should register with our crisis intake form. We will provide them information to the extent that we are able to do so
+at the airport is currently has been damaged, and the commercial carriers have suspended flights. And I just want to
+reiterate that we have made very clear for more than four years that United States citizens should not travel to Haiti.
+
+With respect to the question about the border, I would defer ultimately to other agencies to speak to this.
+
+Now, Haiti or something else?
+
+QUESTION: No Gaza.
+
+MR MILLER: I promised Tom I'd come to him first, and then I'll
+
+                                                                                                       Page 12 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+QUESTION: Thanks. Why is the United States building a port off the coast of Gaza when there's a perfectly good
+one about a 30-mile drive further north, in fact a major international container port?
+
+MR MILLER: So we are looking to build or looking to or exploring a maritime option to get humanitarian assistance
+into Gaza because the other options have not proven sufficient so far, is the bottom-line answer to that question.
+
+So we are have provided air drops. We've been providing those over the past a little over a week to get emergency
+assistance in, and we are exploring a maritime option to get additional assistance in. But I should be clear and
+you've heard me say this and others in the administration say that that there it is no substitute for assistance
+continuing to come in over land. And so we'll continue to push for it to come over land. Now, whether that comes
+through Ashdod Port and then travels over land, or it comes through Jordan, or comes from Egypt, ultimately
+doesn't actually matter. It matters how it gets it matters that it gets into Gaza, whether it comes through a port or
+another means.
+
+So we're going to push to see the land routes expanded. What we are doing is to supplement that, not replace it.
+
+QUESTION: But, I mean, it's turned what is a political issue into a logistical one. This is not about trying to get into
+some remote region of the world with a natural disaster. This is a place that is very easily accessible. And you
+talked about the current situation you haven't been able to get to sufficiently. That means you haven't been able to
+persuade the Israelis to let enough aid in over land and to secure its distribution. So why is that still a problem?
+
+MR MILLER: So I will say that, first of all, we have seen some modest improvements in the humanitarian situation
+and the distribution of aid over the past few days. We've seen trucks able to move around the southern part of Gaza
+with more freedom than they were able to do, say, a week or 10 days ago. We've seen additional trucks move to
+the north of Gaza from the south. We saw for the first time flour released from Ashdod and make its way into Gaza,
+something we have been supporting for some time. And we saw the Government of Israel agree to open additional
+crossings.
+
+So yes, they need to do more. We've seen an improvement but we think they need to continue to do more, and so
+that's what we're going to continue to push them to do.
+
+QUESTION: I mean, it does just come back to this fundamental point about leverage. And when you're providing
+the amount of military aid that you are providing, in fact, there's a the 1961 Foreign Assistance Act says that
+humanitarian aid should not be blocked by countries that are recipients of military aid from the United States. And it
+would seem extraordinary still that leverage cannot be brought to bear when the UN is now saying malnutrition is so
+severe, they're quoting that 25 people have died now.
+
+MR MILLER: Well, first of all, it is the intervention of the United States that has led humanitarian assistance to go
+into Gaza in the first place. Secretary Blinken has engaged on this consistently in his meetings and his phone calls
+with leaders of the Government of Israel. The President of the United States has been involved in this. The
+President of the United States traveled to Israel and cemented a deal that Secretary Blinken initially reached to
+allow Rafah to open in the first place; and it was our intervention that allowed that got Kerem Shalom to open; and it
+is our intervention that has led to the Government of Israel agree to agree to open additional crossings into Gaza.
+
+So it is the work of the United States that has led to an improvement in the humanitarian assistance situation. Now,
+that improvement hasn't been enough, and that's why we continue to engage consistently at the highest levels of
+the Government of Israel, and that's why the President continues to speak out on this and that's why the Secretary
+continues to speak out on this, and that's what we'll continue that's what we will keep doing.
+
+QUESTION: Matthew?
+
+MR MILLER: Humeyra, go ahead.
+
+QUESTION: Thank you, Matt. Has the Israeli Government presented Biden administration with a humanitarian
+and/or military plan for Rafah?
+
+                                                                                                    Page 13 of 21
+                                  DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: They have not.
+
+QUESTION: What is your latest assessment, based on your conversations with them, whether or not they would go
+ahead without the humanitarian plan?
+
+MR MILLER: So I won't speak to the conversations that we have had with them, but we have made clear, both in
+those private conversations and as you have heard us say publicly a number of times, that it is our judgment that
+they cannot, should not, go into Rafah without a humanitarian assistance plan that is credible and that they can
+actually implement.
+
+QUESTION: Right. And Netanyahu, we've heard him say multiple times, I think, over the past couple of days that
+the Rafah operation will happen one way or the other. And the President said in the MSNBC interview that Rafah is
+a red line, although he then quickly said he will continue to support Israel. So I guess I'm asking, what is the U.S.
+prepared to do when and if Israel goes ahead with the Rafah offensive?
+
+MR MILLER: So the "if" there I think you know triggered my answer that I'm not going to
+
+QUESTION: But it's not it's not
+
+MR MILLER: Well, you no, no, no, hold up. Well, you said that
+
+QUESTION: What
+
+MR MILLER: But the no, because the "if" I
+
+QUESTION: But the prime minister said that.
+
+QUESTION: I think the well, no. Here's the here's what I'm going to say. The "if," I think, does make it a
+hypothetical, because we have said what we need to see to be able to support a Rafah operation, and that is a
+credible and implementable humanitarian assistance plan. The Government of Israel has said that they will
+implement a humanitarian assistance plan. They haven't just said that to us; they have said that publicly. We
+haven't seen such a plan yet. So I think before we either pass judgment on whether this is possible or whether any
+such plan is credible and can be implemented, and whether we talk about what we would do next, I think let's wait
+and see what it is that they come up with.
+
+QUESTION: (Off-mike.)
+
+MR MILLER: Said, go ahead.
+
+QUESTION: Thank you. Yeah, just a couple of things on the Rafah thing because we're talking about 1.4 million
+people. It's a lot of people. It's crowded and so on. And, in fact, the Israelis have been bombing it, so they're
+reducing the area in which people can live. So what, in your view or in your discussion what methods, what
+methodology is Israel will Israel use to basically move these people and get them out of harm's way?
+
+MR MILLER: So, Said, I can't
+
+QUESTION: What is conceivable?
+
+MR MILLER: Sorry. I can't answer that question because I haven't seen the plan. It is incumbent upon them, not us,
+to develop that plan. We will wait and look at it and pass judgment on it when we see it.
+
+QUESTION: But can you see that you can actually move that many number of people to
+
+MR MILLER: I
+
+QUESTION: let's say either south or north and so on?
+
+                                                                                                          Page 14 of 21
+                                 DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: I think I want to
+
+QUESTION: Will they be allowed to go north?
+
+MR MILLER: I think I want to wait and see what any plan looks like before I pass judgment on it
+
+QUESTION: (Off-mike.)
+
+MR MILLER: which should be obvious.
+
+QUESTION: Yeah, one more question. Now, isn't doesn't U.S. law call for stopping shipments of arms to a country
+that prevents the distribution of American aid, humanitarian aid, as we have seen with the flour?
+
+MR MILLER: So that is the law and we have seen the Government of Israel take steps to allow humanitarian
+assistance in, including to allow humanitarian assistance in. Now, they haven't done enough
+
+QUESTION: Right.
+
+MR MILLER: but we've seen them take steps. And because it's our judgment that they haven't done enough, that's
+why we're pushing them to do more.
+
+QUESTION: But they are still holding flour that you guys have sent to Gaza.
+
+MR MILLER: No, that's not accurate.
+
+QUESTION: That's not okay.
+
+QUESTION: Can I follow up on Gaza?
+
+QUESTION: All right, let me just follow up on a couple of things.
+
+MR MILLER: Just hold on. Let me just one at a time.
+
+QUESTION: On UNRWA, I wanted to ask about UNRWA. Now, today I think Canada and Sweden said that they
+will resume aid to UNRWA. They basically they paused because of the very same reason, so they must be
+convinced that the evidence is enough, sufficient to allow the resumption of aid. Why not with the United States?
+
+MR MILLER: So every country has to make its own determination. But again, we've laid out a very clear standard
+that we're going to apply, which is we are going to await the outcome of the investigations that the United Nations is
+conducting. I think it's important to remember, Said, it's not Israel that's conducting this investigation, it's not another
+body. It's the United Nations itself, which of course administers all of this aid, that is conducting the investigation.
+
+Despite the number of times you have asked me this, we are going to wait until the outcome of that investigation
+before making any determinations, which I think is obviously the appropriate step to take.
+
+QUESTION: I fully understand, but it's the same set of evidence and the same set of investigators and the same set
+of investigations that other countries are privy to, like you are.
+
+MR MILLER: It's
+
+QUESTION: If they can arrive
+
+MR MILLER: I don't hold on. Said, I don't believe anyone is privy to the outcome of this investigation because it's
+not been completed, let alone briefed to us yet or to any other country, for that matter.
+
+QUESTION: I just am saying they're not different sets of investigations. It's the same investigations.
+
+MR MILLER: Correct. And every country will have to make its own determinations.
+
+                                                                                                     Page 15 of 21
+                                 DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+QUESTION: And one last thing. Have you are you aware that UNRWA reports says that Israel coerced some
+agency employees to falsely admit Hamas links? Were you aware of
+
+MR MILLER: I have seen those reports. I don't have any independent
+
+QUESTION: You haven't
+
+MR MILLER: I don't have any independent ability to assess them.
+
+Michel, go ahead.
+
+QUESTION: Do you still expect a truce to be announced during Ramadan, and is there any progress in the talks
+that the U.S. is doing?
+
+MR MILLER: So I am not going to make any forecasts one way or the other. We continue to believe that an
+agreement to achieve a ceasefire and secure the release of hostages is important. We're continuing to work on it,
+we're continuing to pursue it, but I wouldn't want to offer any kind of assessment.
+
+Go ahead.
+
+QUESTION: Thank you, Matt. Can you just like I'm trying to understand when President Biden said that entering
+Rafah is a red line, and the same time he will say we're going to keep sending weapons and support Israel. I mean,
+just in English wording, how does it work? Red line, don't enter Rafah; and the same time we're going to give you
+weapons if you enter Rafah or not. Is that right?
+
+MR MILLER: So I think the President's remarks were very clear. But again, as I said, with respect to Rafah, let's just
+wait and see what the plan that Israel develops looks like before we pass any judgment either on whether it's
+credible, whether it can be implemented, or what the United States will and will not do. But as the President said in
+that interview and as you've heard the Secretary say and me and others from the administration say a number of
+times, we support Israel's right to continue to defend itself, and that's what we'll that will be our policy.
+
+QUESTION: And so what about did you watch the report on CNN inside Gaza hospital and see the starvation of
+children? Images we used to see in Uganda, some images we see in African countries like 20 years ago, now we're
+seeing it in 2024. Kids are starving to death.
+
+MR MILLER: So I didn't see that specific report, but obviously we've seen multiple reports of incredibly dire
+humanitarian conditions on the ground in Gaza. And that's why we not only have been pushing the Government of
+Israel to do more and as I've said, we've seen some modest improvements but not enough but it's why the United
+States has air dropped its own humanitarian assistance in and is working on a maritime option to get assistance in.
+
+Go ahead.
+
+QUESTION: A last question. Just last
+
+MR MILLER: Last one. Last one, then I'm going to go to go ahead.
+
+QUESTION: So basically, we experienced like dramatically the changing of tone of this administration. I mean, from
+this podium, Israel has a right to defend itself. People are dying day after day. Today the tonality changed. We saw
+the primary election. Some voters decided to stay uncommitted votes. President Biden in his speech changes
+tonality toward the what's happening in Gaza. Who is going to hold accountability for all the crimes that Israel
+committed for the past five months?
+
+MR MILLER: So first of all, I don't think that's an
+
+QUESTION: Do you still think it's
+
+                                                                                                    Page 16 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: Let me just say I don't think that's an accurate assessment of the situation. We have made our
+judgments based on the facts on the ground, and that is what has driven our policy and what will continue to drive
+our to
+
+QUESTION: (Off-mike.)
+
+MR MILLER: Hold on. I said I was going to go to Matt next. Matt, go ahead.
+
+QUESTION: I just want to ask one brief thing about what you said in response there. You said let's wait until we've
+seen the plan before we pass judgment on whether it is credible or implementable, correct?
+
+MR MILLER: Correct. Correct.
+
+QUESTION: So does that does that mean that you are going to pass judgment on the plan when you see it?
+
+MR MILLER: I would expect that
+
+QUESTION: So when when the Israelis so when the Israelis put out the plan, we'll get the U.S. perspective?
+
+MR MILLER: I would expect that
+
+QUESTION: Judgment up, down? Needs improvement?
+
+MR MILLER: I'm not going to say exactly the outcome, but I would expect that ultimately we will have a view on that
+plan, yes.
+
+QUESTION: Well, ultimately.
+
+MR MILLER: But I mean
+
+QUESTION: After they finish, after they if they're done?
+
+MR MILLER: We are waiting to be briefed on that plan, but yes, we will obviously have a view on what it looks like.
+
+QUESTION: Okay. So if you don't like it or if you do like it, we can expect to hear?
+
+MR MILLER: I'm going to wait to see what it looks like, but I am sure that
+
+QUESTION: But you're going to say
+
+MR MILLER: Hold on. Hold on, Matt. Just to say I am
+
+QUESTION: You're going to pass judgment on it?
+
+MR MILLER: I am sure that I will be here and you will have questions, and I will answer those questions about the
+plan.
+
+QUESTION: All right.
+
+QUESTION: Matt, sorry. Just on that.
+
+QUESTION: Can I
+
+MR MILLER: Whoa, whoa, everyone. I'll get to you. Go ahead.
+
+QUESTION: Just on that
+
+MR MILLER: Humeyra, then and then Nadia third.
+
+                                                                                                    Page 17 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+QUESTION: Can I
+
+MR MILLER: Nadia, I'm going to get to you.
+
+QUESTION: All right.
+
+MR MILLER: Go ahead.
+
+QUESTION: You seem to be putting a lot of hope on that plan, but do you does the administration have any
+indication or any knowledge that the plan is being indeed developed?
+
+MR MILLER: The Government of Israel has said privately to us that they're developing such a plan, and they
+
+QUESTION: Have they said so in recent days?
+
+MR MILLER: Hold on. And they have said publicly that they are developing a plan.
+
+QUESTION: Right, that was a little while ago. Like, I mean, this moves really, really fast, and we have seen
+Netanyahu sort of say things that they're going to go ahead with Rafah regardless.
+
+MR MILLER: I cannot speak
+
+QUESTION: So do you still you're still certain they're developing this plan?
+
+MR MILLER: I cannot speak for any government but my own, and I can tell you that they have told us that privately
+and they have said it publicly.
+
+QUESTION: And just one last thing, because I think I'm just going through your answer to Tom's question. You talk
+about how U.S. has pushed a lot Israel on the humanitarian aid and made progress even though incremental or sort
+of bigger in some other things. But what he was asking you I think was specifically related to 1961 Foreign
+Assistance Act that says humanitarian aid should not be blocked by countries that are recipients of military aid from
+the United States. So we have heard you a lot from this podium saying Israel should do more. So based on that,
+does the United States consider Israel to be impeding the flow of U.S. aid into Gaza or not?
+
+MR MILLER: That is not a judgment that we have made.
+
+Go ahead.
+
+QUESTION: Thank you. Thank you, Matt. Two questions on Turkish foreign minister's Fidan's meeting with
+Secretary Blinken last week. First, the joint statement mentions a commitment to a result-oriented and a positive
+bilateral agenda. I was wondering if you could elaborate more on the specific areas of positive agenda between the
+two countries.
+
+MR MILLER: So we continue to work closely with Turkiye on a number of issues. They're an important NATO Ally.
+We have worked with them on the Black Sea Grain Initiative and ensuring that Ukraine can continue to export grain
+through the Black Sea, and have worked with them on a number of regional security matters both in Europe and in
+the Middle East. And as you know, we have discussed with them post-conflict governance and issues related to
+Gaza.
+
+QUESTION: Thank you. And on the fight against terrorism, the according to the joint statement, the two countries
+relaunched counterterrorism consultations to expand fight against terrorism. What steps will be taken in this regard?
+And additionally, what are the steps that the U.S. plan to take in order to overcome disagreements with Turkiye
+regarding its approach to defeating ISIS or Daesh in Syria, as Turkiye sees the U.S. support to YPG as the biggest
+obstacle to relations?
+
+MR MILLER: So I don't have any additional steps with regard to your first question to announce other than that we
+will be working with our Turkish allies on this question very intently over the coming weeks and months. And when it
+
+                                                                                                       Page 18 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+comes to disagreements that we have with the Government of Turkiye, we will raise them directly and candidly, as
+we have done on a number of occasions, and seek to work through those.
+
+QUESTION: And was that discussed during the meetings, the U.S. support to YPG in Syria?
+
+MR MILLER: I don't have any readout on the meetings other than the one that we put out on Friday.
+
+I promised Nadia I'd go and she's going to really get angry at me if I don't, if I break that promise. (Laughter.) She's
+already interrupting like everybody else, so
+
+QUESTION: Okay. Okay, thank you. So in addition to the questions asked by my colleagues, I have two more. So
+the President said that he we cannot afford to have 30,000 more Palestinian dead, indicating a red line if Israel
+carries on with the plan to go to Rafah. So 60,000 Palestinian dead is a red line and 30,000 was not a red line?
+
+MR MILLER: So you are hold on.
+
+QUESTION: And if your answer just one second. If your answer is we don't want to see any civilian Palestinians
+dead, which is the usual answer you give us, what did you do in the last five month to make sure that Israel avoid
+killing civilians, which we know as a fact 70 percent are women and children?
+
+MR MILLER: So first of all, I think you're completely distorting the President's remarks. That was not what he said.
+It's not the intention of his remarks and I don't think is a fair reading of his remarks. What he was saying is
+consistent with what we have always said, which is we don't want to see a single civilian die in this conflict.
+
+Now, as we have talked about at length both in this room and in other rooms here in Washington, from other
+podiums and in other forums from on behalf of the United States, this is a difficult situation precisely because of the
+way Hamas chose to conduct this war. Hamas launched this war on October 7th, went into Israel, then immediately
+fled back into Gaza, and not only hid behind hostages that they took Israeli citizens, but hid behind Palestinian
+civilians. And so Hamas bears a great deal of responsibility for putting civilians in harm's way.
+
+But that said, when you ask what it is that we have done, we have consistently engaged with the Government of
+Israel to encourage them to take steps to minimize civilian casualties. That has been the hallmark of our
+engagement with the Government of Israel since day one. But just the very tragic fact of the matter is that they are
+engaging in an urban environment where Hamas hides its tunnels under schools, under mosques, under apartment
+buildings. We see Hamas leaders embed themselves in apartment buildings with civilians, including children,
+including women. And so it is a very difficult situation.
+
+And that is so I will say finally that because of that incredible human toll and because of the incredibly dire
+humanitarian situation in Gaza, it is why we have been so intensely engaged on trying to achieve a ceasefire that
+would see a cessation of hostilities, an alleviation of suffering of the Palestinian people, and an increase in
+humanitarian assistance coming in.
+
+QUESTION: Okay. But Hamas is not your ally, is not your partner. You designate it as a terrorist organization. I'm
+asking on the other side, which is you share the same value with them, which is Israel. So my question to you is not
+about Hamas and how the war was started, because we passed that stage.
+
+MR MILLER: No, no, but
+
+QUESTION: Not to take away from what happened on October 7th. But my point to you is: What the does this
+administration do
+
+MR MILLER: yeah.
+
+QUESTION: to use the leverage that Israel that you have over Israel to make sure that no more civilians are dead?
+
+                                                                                                        Page 19 of 21
+                                DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: But but Nadia, my point is you can't answer the question about Israel's conduct without giving an
+accurate assessment of the situation that they are in of trying to conduct legitimate military and counter-terrorism
+operations against an enemy that has sworn the destruction of Israel sworn that they would destroy Israel and kill
+Israeli civilians and hides behind civilians. So this isn't a situation a traditional battle situation where Hamas troops
+are out in a field or deployed in a military garrison sometime and you conduct a you can conduct a military operation
+where you have a simple target and you know there's going to be no civilian harm. That's just not the situation that
+Israel faces in Gaza because of the way Hamas is has decided to quite cowardly hide behind civilians.
+
+So we will continue to press Israel to do everything it can to minimize civilian casualties, and everything I have said
+about the situation that they face doesn't in a bit minimize their responsibility to do so. And that's why we'll continue
+to engage with them.
+
+QUESTION: Is
+
+QUESTION: Okay. Yes
+
+MR MILLER: Hold on, hold on I'm going to move on, only because we've
+
+QUESTION: No, just just
+
+MR MILLER: Hold on. We've been here an hour already, and I've got other people I have to get to before we break.
+
+QUESTION: Matt, there's a video
+
+MR MILLER: So go ahead.
+
+QUESTION: that shows how Israel
+
+MR MILLER: I as I've said, we've been here an hour and I've got other people I got to get to before I cut this short.
+Go ahead.
+
+QUESTION: Thank you. Thank you, Matt. Two questions China and North Korea. Chinese Foreign Minister Wang
+Yi said at a press conference that U.S. and South Korea are more responsible for causing security anxiety to North
+Korea by mentioning the war on Korean Peninsula. How do you react to Wang Yi's statement that the U.S. and
+South Korea are responsible?
+
+MR MILLER: So obviously we don't agree with that comment. It is the it is North Korea's repeated reckless and
+provocative acts that have brought instability and continue to bring instability to the Korean Peninsula, and it's why
+we stand with our South Korean allies.
+
+QUESTION: Second question. And the the Chinese Government is forcibly sending North Korean defectors back to
+North Korea. What message is the United States taking in response to this?
+
+MR MILLER: Let me take that back and get you an answer.
+
+QUESTION: Thank you.
+
+MR MILLER: Go ahead. Guita, I'll come to you next. Behind and then
+
+QUESTION: Thank you, Matt. Ramadan Kareem; today is the first day of the Ramadan.
+
+QUESTION: Yes, it's holy month for the Muslim.
+
+QUESTION: The Bangladesh Anti-Corruption Commission attorney accused and sought legal action against the
+U.S. ambassador to Bangladesh, Peter Haas, for his comments in favor of Nobel Laureate Professor Muhammud
+Yunus. As you're aware, the ruling regime is harassing Professor Yunus in a political manner and worldwide
+criticism is mounting against the regime's action. Could you please share your thoughts?
+
+                                                                                                     Page 20 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: So we are aware of the comments in question. You have heard me speak before about the U.S.
+Government's concerns surrounding the cases against Muhammad Yunus, including that they could represent a
+potential misuse of Bangladesh's laws to harass and intimidate the doctor. Ambassador Haas simply reiterated
+those comments, acting in his capacity as the U.S. Government's highest ranking representative in Bangladesh.
+
+QUESTION: One more, Matt. According to media reports, the "India out" campaign is growing larger in the region.
+Following the one-sided sham elections in Bangladesh, people are promoting a boycott of goods made in
+neighboring India, suspecting Indian authorities of covertly wanting to keep Sheikh Hasina in power. How do you
+read this situation?
+
+MR MILLER: So we are aware of the reports of this campaign. I'm obviously not going to comment on any individual
+consumers' decisions, whether it's in Bangladesh or anywhere around the world. But we value our relationship with
+both Bangladesh and India. We will continue to work with both countries' governments to pursue our shared
+interests, including to ensure a free, open, secure, and prosperous Indo-Pacific region.
+
+QUESTION: Thank you.
+
+MR MILLER: Guita, go ahead.
+
+QUESTION: Thank you, Matt. A lawsuit filed in Iran against the U.S. Government and a U.S.-based Iranian
+opposition group headed by Jamshid Sharmahd has ended, and the verdict is a the payment of almost $2.5 billion
+in damages to the plaintiffs. Now, the incident it was a bombing; it happened in 2008. Over 2,000 200 people were
+killed or wounded. And as you recall, Mr. Sharmahd is a dual citizen who is still in prison in Iran. I was wondering I
+know it wasn't during the Biden administration's time, but does the U.S. Government in general back any opposition
+groups, any dissident groups living outside of Iran or their country of origin, and condone violent approach to a
+struggle for democracy?
+
+MR MILLER: So ultimately it is we back the Iranian people in their expression of their democratic legitimate
+democratic political aspirations, and we will continue to do that. We don't endorse violence in any instance.
+
+QUESTION: How do you see the trials recently that Iranian judiciaries just putting on trials against bringing lawsuits
+against the U.S. Government? See, they're asking also for reparations in each of them. When the Iranian
+Government or even the plaintiffs don't have any way of collecting, then what do you think these trials are for?
+
+MR MILLER: So I think we it is safe to say that we have long had concerns about the rule of law in Iran, including
+the independence of its judiciary system.
+
+QUESTION: Matt?
+
+MR MILLER: Go ahead. Alex, you've already had one. I'm not sure I'm going to get back to you today. Go ahead.
+Yeah, go ahead.
+
+QUESTION: Oh.
+
+MR MILLER: Yeah.
+
+QUESTION: So India today has tested the a missile with the MRV technology. Since India is such an important
+partner in the Indo-Pacific, what does this really mean for the stability of the region?
+
+MR MILLER: So let me take that question and come back to you.
+
+Go ahead.
+
+QUESTION: Thank you, Matt. I'm going back to the question about your meetings with Turkish counterparts. Have
+you raised the concern your concern about the Turkish military operation in Kurdistan region of Iraq and also
+northwest Syria?
+
+                                                                                                     Page 21 of 21
+                               DEPARTMENT PRESS BRIEFING MARCH 11, 2024
+
+MR MILLER: Again, I don't have any comments other than that we put out about that meeting other than we put out
+in the readout. Other than that, I'll keep the diplomatic conversations private.
+
+QUESTION: One more question on the on Iraq. Is there any unannounced truce between you and the Iraqi militia
+groups through Iraqi Government, which they stopped the attacks on your forces in Iraq?
+
+MR MILLER: Certainly we welcome any decrease in hostilities against our forces. We have made clear that the
+attacks on our forces were unacceptable and that we would take action to defend U.S. interests and U.S.
+personnel, and we will continue to do so if appropriate.
+
+Go ahead, and then we'll wrap there.
+
+QUESTION: So I'm sure you've seen that Pope Francis has called on Ukraine to have the courage to raise a white
+flag and negotiate with Russia. I'm curious about your response to that.
+
+MR MILLER: Sorry. So I have seen that the Vatican has subsequently clarified those comments. Obviously, we
+support Ukraine's right to defend itself. We have said time and time again that nothing about Ukraine without
+Ukraine. We support its peace formula, and we would support its efforts to peacefully end this war, but that requires
+Vladimir Putin to stop attacking, to stop trying to take and claim and hold Ukrainian territory, and to agree to
+negotiations and he has so far not been willing to do so.
+
+QUESTION: And
+
+QUESTION: A follow-up?
+
+MR MILLER: Go ahead.
+
+QUESTION: one thing that ahead of his White House meeting Polish President Duda said in a Washington Post op-
+ed, that he will propose that NATO should raise the pledge of defense spending, the minimum defense spending
+from 3 2 to 3 percent. Would the U.S. support that?
+
+MR MILLER: I think the first step is to get every country meeting the 2 percent threshold, and we've seen
+improvement in that where nearly two-thirds of them now are, but I think that's the first step before we start talking
+about additional proposals.
+
+QUESTION: Just a follow-up?
+
+MR MILLER: And then I'm going to wrap for today because I've got to run. Thanks, everyone.
+
+QUESTION: Thank you, Matt.
 
 
-http://www.businesswire.com
-
-
-Load-Date: July 23, 2024
+Load-Date: March 13, 2024
 
 
   

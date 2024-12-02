@@ -1,120 +1,132 @@
 
 
-                                                                                                   Page 1 of 3
-         Rep. Kaptur Introduces Resolution to Support Designation of National Senior Fraud Awareness Day
+                                                                                                  Page 1 of 3
+      Zayo Unveils Next-Level Infrastructure Upgrades-Powering High-Bandwidth Connectivity for Technology
+                                        Evolution, Today and for the Future
 
 
 
 
-      Rep. Kaptur Introduces Resolution to Support Designation of National
-                          Senior Fraud Awareness Day
-                                                     Targeted News Service
-                                              June 21, 2024 Friday 9:00 AM EST
+ Zayo Unveils Next-Level Infrastructure Upgrades-Powering High-Bandwidth
+      Connectivity for Technology Evolution, Today and for the Future
+                                                   Business Wire
+                                      April 3, 2024 Wednesday 1:00 PM GMT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-
-
-
-Length: 770 words
-Byline: by MYRA TUGADE, Targeted News Service
-Dateline: WASHINGTON
+Length: 813 words
+Dateline: DENVER
 
 Body
 
 
-WASHINGTON, June 21 -- Rep. Marcy Kaptur, D-Ohio, introduced a resolution on May 15, 2024. The text of the
-resolution was released on June 20.
+Zayo Group , a leading global provider of fiber network infrastructure, today announced its latest round of critical
+infrastructure upgrades, including its newest long-haul dark fiber route connecting Columbus to Pittsburgh and a
+highly sought-after 400G-enabled wavelength route connecting Washington, D.C. and Atlanta. Zayo is also
+expanding its leading IP network with the addition of 27 critical IP points of presence (PoPs) and 400G peering
+locations across North America.
 
-H. Res. 1229. A resolution supporting the designation of May 15, 2024, as ``National Senior Fraud Awareness Day''
-to raise awareness about the increasing number of fraudulent scams targeted at seniors in the United States, to
-encourage the implementation of policies to prevent those scams from happening, and to improve protections from
-those scams for seniors; to the Committee on Energy and Commerce.
+This      press      release     features   multimedia.             View       the      full      release      here:
+https://www.businesswire.com/news/home/20240403730832/en/
 
-The resolution is cosponsored by Reps. Brian Fitzpatrick, R-Pa., Grace F. Napolitano, D-Calif., and Chris Smith, R-
-N.J.
+Zayo's North American 400G Capabilities (Graphic: Business Wire)
 
-***
+"While technology innovations like AI and next-gen cloud surge ahead, continued investment in network
+infrastructure to support this demand is critical. As the largest independent network, Zayo is in a prime position to
+bring network infrastructure up to par with today's innovation, and ensure we and our customers are ready for
+what's next," said Bill Long, Chief Product & Strategy Officer at Zayo. "Our latest infrastructure expansions
+demonstrate our continuous efforts to provide our customers with unique, diverse, low-latency routes - where they
+need it today and where we know they'll need it tomorrow."
 
-Supporting the designation of May 15, 2024, as "National Senior Fraud Awareness Day" to raise awareness about
-the increasing number of fraudulent scams targeted at seniors in the United States, to encourage the
-implementation of policies to prevent those scams from happening, and to improve protections from those scams
-for seniors.
+What's New:
 
-Whereas millions of individuals age 65 or older (referred to in this preamble as "seniors") in the United States are
-targeted by scams each year, including vacation scams, Social Security impersonation scams and Internal
-Revenue Service impersonation scams, other government agency impersonation scams, veterans benefits scams,
-health and benefits scams, sweepstakes scams, romance scams, computer tech support scams, grandparent and
-person-in-need scams, debt collection scams, home improvement scams, fraudulent investment schemes, pet
-scams, job opportunity scams, timeshare exit scams, and identity theft;
+Carrier-Diverse 400G Leadership
 
-                                                                                                  Page 2 of 3
-        Rep. Kaptur Introduces Resolution to Support Designation of National Senior Fraud Awareness Day
+Zayo has acquired a new unique, physically diverse, and ultra-low-latency route between D.C. and Atlanta,
+providing the most direct connectivity between the two major markets and key economic hubs.
 
-Whereas other types of fraud perpetrated against seniors include Medicare impersonation fraud, health care fraud,
-health insurance fraud, counterfeit prescription drug fraud, funeral and cemetery fraud, "anti-aging" product fraud,
-telemarketing fraud, charity and disaster scams, internet fraud, and cyberattacks;
+With low latency and complete route diversity from other heavily trafficked routes between the markets, the new
+route from Zayo creates diversity not available anywhere else. The route also connects with Zayo's unique financial
+routes and southern rail routes, enabling North-to-South and coast-to-coast connectivity and resiliency.
 
-Whereas the Government Accountability Office has estimated that seniors lose a staggering $2,900,000,000 each
-year to an ever-growing array of financial exploitation schemes and scams;
+Zayo has also added four additional routes to its 400G network-currently the largest 400G network in North
+America-in key markets including:
 
-Whereas, since 2013, the Fraud Hotline of the Special Committee on Aging of the Senate has received more than
-10,000 complaints reporting possible scams from individuals in all 50 States, the District of Columbia, and the
-Commonwealth of Puerto Rico;
+                                                                                                    Page 2 of 3
+        Zayo Unveils Next-Level Infrastructure Upgrades-Powering High-Bandwidth Connectivity for Technology
+                                          Evolution, Today and for the Future
 
-Whereas the ease with which criminals contact seniors through the internet and telephone increases as more
-creative schemes emerge and scammers employ new technologies, such as artificial intelligence and "spoofing"
-of caller ID information, to fraudulently gain the trust of seniors;
+    •     Indianapolis to Columbus
+    •     Cut Bank, Mont. to Calgary
+    •     New Orleans to Ponchatoula, La.
+    •     Grand Rapids, Mich. to Lansing, Mich.
 
-Whereas, according to the Consumer Sentinel Network Data Book 2023 released by the Federal Trade
-Commission, individuals age 60 or older reported losing almost $2,000,000,000 to fraud in 2023, with a median loss
-for victims age 80 or older of $1,450, more than 3 times the median amount lost by those victims between the ages
-of 50 and 59;
+Why it Matters: As data-intensive next-generation technologies continue to grow, so does the need for bandwidth.
+The deployment of 400G is essential for delivering a network that is future-ready to handle this growth. With the
+expansion of its 400G network, Zayo is focused on delivering modernized capabilities and access to carrier-diverse
+routes that allow customers to innovate with the low latency, high availability, disaster resiliency, and performance
+they need.
 
-Whereas senior fraud is underreported by victims due to shame, stigma, and lack of information about where to
-report fraud; and
+Long-Haul Diversity and Scalability
 
-Whereas May 15, 2024, is an appropriate day to establish as "National Senior Fraud Awareness Day": Now,
-therefore, be it
+Zayo has built a fully unique long-haul dark fiber route connecting Columbus to Pittsburgh. The route is carrier-
+diverse, 100% underground, and built with a high fiber count for maximum scalability and uptime availability.
 
-Resolved, That the House of Representatives--
+Why it Matters: As growing economic hubs, Pittsburgh and Columbus house critical industries like tech,
+government, and an emerging data center community that require route diversity and low latency to maintain the
+critical aspects of their business. Zayo's new route provides the most modern and robust long-haul infrastructure to
+support the current connectivity needs and ensure they're able to scale as these markets continue to grow.
 
-(1) supports the designation of "National Senior Fraud Awareness Day";
+Strengthening IP Core
 
-(2) recognizes National Senior Fraud Awareness Day as an opportunity to raise awareness about the barrage of
-scams that individuals age 65 or older (referred to in this resolution as "seniors") in the United States face in
-person, by mail, on the phone, via text message, and online;
+Zayo has added sixteen new North American IP PoPs, including in key locations across California, Colorado,
+Maryland, New Jersey, Ohio and Ontario. In addition, the company has eleven new 400G IP peering locations set
+for rollout in 2024, including across strategic markets and data center hubs like Toronto, Seattle, Phoenix, Dallas,
+and Chicago.
 
-(3) recognizes that law enforcement agencies, consumer protection groups, area agencies on aging, and financial
-institutions all play vital roles in--
+Why it matters: The rapid growth of technologies like AI has made fast and scalable access to capacity a hot
+commodity. The addition of new IP PoPs and peering locations to Zayo's tier-1 IP network guarantees scalable and
+dependable capacity availability. Built on Zayo's wholly-owned fiber backbone, Zayo's IP network also ensures
+enhanced reliability and performance with reduced latency to support the high-speed connectivity these applications
+require.
 
-(A) preventing the proliferation of scams targeting seniors in the United States; and
+To learn more about Zayo's latest network expansion and its global network capabilities, please visit
+https://www.zayo.com/resources/global-network-capabilities/ .
 
-(B) educating seniors about those scams;
+About Zayo
 
-(4) encourages--
+For more than 17 years, Zayo has empowered some of the world's largest and most innovative companies to
+connect what's next for their business. Zayo's future-ready network spans over 17.5 million fiber miles and 144,000
+route miles. Zayo's tailored connectivity and edge solutions enable carriers, cloud providers, data centers, schools,
+and enterprises to deliver exceptional experiences, from edge to core to cloud. Discover how Zayo connects what's
+next at www.zayo.com and follow us on LinkedIn and Twitter .
 
-(A) the implementation of policies to prevent scams targeting seniors; and
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240403730832/en/
 
-(B) the improvement of efforts to protect seniors from those scams; and
 
-(5) honors the commitment and dedication of the individuals and organizations that work tirelessly to fight against
-scams targeting seniors.
+CONTACT: Kayla Bodel
+Walker Sands for Zayo Group
 
-TARGETED NEWS SERVICE (founded 2004) features non-partisan 'edited journalism' news briefs and information
-for news organizations, public policy groups and individuals; as well as 'gathered' public policy information,
-including news releases, reports, speeches. For more information contact MYRON STRUCK, editor,
-editor@targetednews.com, Springfield, Virginia; 703/304-1897; https://targetednews.com
-
-T55-MyraT 240621-1741519
+press@zayo.com
 
                                                                                                  Page 3 of 3
-       Rep. Kaptur Introduces Resolution to Support Designation of National Senior Fraud Awareness Day
+     Zayo Unveils Next-Level Infrastructure Upgrades-Powering High-Bandwidth Connectivity for Technology
+                                       Evolution, Today and for the Future
 
 
-Load-Date: June 21, 2024
+http://www.businesswire.com
+
+
+
+Graphic
+
+
+Zayo's North American 400G Capabilities (Graphic: Business Wire)
+
+
+Load-Date: April 3, 2024
 
 
   

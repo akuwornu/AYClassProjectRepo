@@ -1,93 +1,308 @@
 
 
-                                                                                                 Page 1 of 2
-     LabTrace Completes the First Study Using its Blockchain-Based Data Authentication System, Designed to
-                                     Ensure Data Integrity in Clinical Trials
+                                                                                                       Page 1 of 6
+                                               Draganfly Reports its 2023 Results
 
 
 
 
-    LabTrace Completes the First Study Using its Blockchain-Based Data
-  Authentication System, Designed to Ensure Data Integrity in Clinical Trials
-                                                           PR Newswire
-                                            June 27, 2024 Thursday 3:00 AM EST
+                                     Draganfly Reports its 2023 Results
+                                                         GlobeNewswire
+                                            March 27, 2024 Wednesday 1:45 PM PT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 1040 words
-Dateline: LONDON, June 27, 2024
+
+
+
+Section: PRESS RELEASES
+Length: 2968 words
 
 Body
 
+Saskatoon, SK., March 27, 2024 (GLOBE NEWSWIRE) -- Draganfly Inc. (NASDAQ: DPRO) (CSE: DPRO) (FSE:
+3U8) (“Draganfly” or the “Company”), an award-winning, industry-leading drone solutions and systems developer, is
+pleased to announce its fourth quarter and fiscal 2023 financial results. Revenue for the fourth quarter and the year
+was dictated by the shift to larger in-house capacity and drone production capabilities.
 
-PR NewswireParkinson's disease research, sponsored by King's College London, verifies clinical observation data
-using the Algorand blockchainLONDON, June 27, 2024 /PRNewswire/ --LabTrace, a blockchain authentication
-system for data integrity and ownership certification, today announces the completion of the first experimental
-medicine study (ref ID:NCT03782753) to utilize its on-chain notarization tool, a novel solution to proving the
-provenance of medical research data. The study, sponsored by King's College London (KCL), involved patients with
-Parkinson's disease. By utilizing the Algorand blockchain, LabTrace has introduced unprecedented transparency,
-accountability and security in the verification of scientific research data.
+The financial year 2023 was a transition year for Draganfly as 2023 marked new production capacity coming online
+along with the commercialization of its flagship Commander 3XL and Heavy Lift Drone platforms.
 
- There is growing concern that the exponential expansion of digital data in healthcare and medical research is being
-accompanied by a growing incidence of scientific fraud. According toThe Guardian,in 2023 "the annual number of
-papers retracted by research journals topped 10,000 for the first time," and "most analysts believe this figure is only
-the tip of an iceberg of scientific fraud." One reason cited for the increase in falsified data is the pressure to
-generate successful, high-impact results, which afford the researchers more recognition and career advancement
-opportunities."Progress in science and medicine is critically dependent on the quality of the data collected in our
-research studies, and we take that responsibility very seriously," said professor Steve Williams, director of the
-Centre of Neuroimaging Science at King's College London and principal study investigator. "The integrity of
-research data is the bedrock of medical breakthroughs and LabTrace's blockchain-based system gives us the level
-of transparency we need to trust, track and authenticate our data."LabTrace's blockchain-based data authentication
-system offers a unique and transparent solution to:Certify authorship and data provenanceEstablish and record a
-researcher's ownership rights to data and discoveriesSecurely timestamp and log trial data, original works, ideas,
-and inventions in an auditable fashionSupport drug approvals and patent applicationsProtect against intellectual
-property and data theftIt achieves this by attaching unique Content IDs (CIDs), which follow IPFS standards, to all
-recorded data. Each CID file receives on-chain notarization by authorized parties–with user permissions defined
-and controlled by an Algorand smart contract (ie Role-Based Access Control). KCL implemented LabTrace as an
-additional layer of immutable record-keeping and to demonstrate a viable path forward for maintaining the integrity
-of digital medical data.After surveying the blockchain landscape, LabTrace determined that Algorand, a leading
-Layer-1 solution known for its high-performance and reliability, was best suited to meet the rigorous requirements of
-the biotech and pharmaceutical industries. Specific advantages of Algorand are:Its Layer-1 smart contract
-programmability, which enables role-based access controlHigh processing throughput of 10,000 transactions (or
+Key Financial Highlights for 2023:
+    •     Total revenue for the year ended December 31, 2023, was $6,554,842. Product sales decreased $263,339
+          in 2023 as compared to 2022, while services revenue decreased $786,878. This is largely due to product
+          line transition and a focus on building new and increased production capabilities
+    •     Gross Profit was $2,064,114, an increase of $1,273,439 or up 161.1% from the prior year. As a percentage
+          of sales, gross margin increased from 10.4% in 2022 to 31.5% in 2023. This year’s gross profit included a
+          one-time non-cash write-down of inventory of $331,671 while last year’s gross profit included a non-cash
+          downward adjustment of $1,976,514. Excluding these adjustments, gross profit decreased by $371,404
+          year over year. As a percentage of sales, adjusted gross margin increased from 36.4% in 2022 to 36.5% in
+          2023.
+    •     The Company recorded a comprehensive loss including all non-cash items of $23,709,851 compared to a
+          comprehensive loss of $27,305,305 in 2022. The comprehensive loss for the year ended December 31,
+          2023, includes non-cash changes comprised of a gain in fair value of derivative liability from warrants of
+          $211,110, an expense for impairment of notes receivable of $101,351, a write-down of inventory of
+          $331,671, and an expense for goodwill and intangibles impairment of $87,415 and would otherwise have
+          been a comprehensive loss of $23,400,524 compared to a comprehensive loss of $24,067,180 excluding
 
-                                                                                                 Page 2 of 2
-     LabTrace Completes the First Study Using its Blockchain-Based Data Authentication System, Designed to
-                                     Ensure Data Integrity in Clinical Trials
+                                                                                                        Page 2 of 6
+                                        Draganfly Reports its 2023 Results
 
-on-chain records) per secondHigh certainty and instant transaction finality, which provides an immediate and
-immutable warrant of information recorded to the ledger.Timestamps and notarizations that certify the trial findings
-can be viewedhere."This is an important achievement for our company, as it shows that our solution can be readily
-adopted in experimental medicine studies, managing data of any type," said Federico Turkheimer, professor at
-King's College London and director of LabTrace. "We believe we have built a solution to enable full data traceability
-in clinical trials and boost scientific reproducibility in medical research.""With AI expanding the scope and
-sophistication of potential data manipulation and fraud, it is more important than ever that researchers, regulators,
-and the public have trusted sources of data," said Eric Wragge, global head of business development and capital
-markets for the Algorand Foundation. "Accurate data is the bedrock of scientific progress everywhere, and we are
-honored that Algorand is the blockchain upon which the Labtrace solution has been built."About
-LabTraceLabTrace believes that certified and verifiable data are the core for a trustworthy digital society. The
-company is on a mission to enable full data traceability in clinical trials and boost scientific reproducibility in medical
-research. To further this goal, LabTrace has built a blockchain-based system for the secure, GDPR compliant,
-immutable notarisation of digital data. For more information, visitwww.labtrace.io.About Algorand
-FoundationAlgorand's mission is to power a world where information has integrity and innovative ideas can scale.
-The Algorand Foundation supports Algorand's rapidly growing ecosystem by providing a best-in-class developer
-environment, supporting key infrastructure and setting technical standards, offering comprehensive support to
-builders and entrepreneurs, and providing the infrastructure for decentralized governance.Founded by Turing
-Award-winning cryptographer Silvio Micali in 2019, Algorand has grown into a vibrant ecosystem of developers,
-entrepreneurs, and enterprise partners that benefit from institutional-grade certainty and resilience, while features
-like low fees, instant finality, and a minimal carbon footprint also appeal to the protocol's millions of retail users.
-Builders of all kinds can use common programming languages like Python to develop advanced apps and protocols
-that solve important problems at a global scale: instant payments in war and disaster zones, self-sovereign identity
-for the disenfranchised, supply-chain traceability for global commerce, permissionless protocols addressing
-financial inclusion, and the creation of entirely new markets through tokenization, to name a few. To learn more and
-start your journey on Algorand, visitalgorand.foundation.                     View original content to download
-multimedia:https://www.prnewswire.com/news-releases/labtrace-completes-the-first-study-using-its-blockchain-
-based-data-authentication-system-designed-to-ensure-data-integrity-in-clinical-trials-302184067.htmlSOURCE
-Algorand Foundation
+        non-cash items in the same period last year. Cash used in operating activities decreased by $1,304,184
+        year over year.
+   •    The Company’s cash balance on December 31, 2023, was $3,093,612.
+
+Key Financial and Operational Highlights for Q4 2023 and Early 2024:
+   •    Revenue for Q4 2023 was $916,299 compared to $1,314,162 for Q4 2022 largely due to a decrease in Q4
+        product sales relating to product line transition and new customer category integration requirements along
+        with slightly lower services sales.
+   •    Gross Profit was $258,879 for Q4 2023 compared to -$1,665,971 in Q4 2022 representing an increase of
+        $1,924,850 year over year. Gross profit for Q4 2023 would have been $382,303 if it wasn’t for a one time
+        non-cash write down of inventory of $123,424 while Q4 2022 would have been $310,543 not including a
+        one-time non-cash write down of inventory for $1,976,514. Hence, gross profit on an adjusted basis was up
+        23.1% year over year. Gross profit as a percentage of sales for Q4 2023 was 28.3% but on an adjusted
+        basis was 41.7%.
+   •    The Company recorded a comprehensive loss including non-cash items for Q4 2023 of $4,191,796
+        compared to a comprehensive loss of $16,660,602 for the same period in 2022. A 69.3% improvement
+        over 2022. The comprehensive loss for the fourth quarter of 2023 includes non-cash changes comprised of
+        a gain in fair value derivative liability of $153,798 as well as a one time write down of inventory of
+        $123,424, and would otherwise be a comprehensive loss of $4,222,170 compared to a comprehensive loss
+        of $7,482,545 excluding non-cash items in the same period last year. The decrease in loss was primarily
+        due to lower professional fees, wages, and share based compensation charges.
+   •    The Company received a Transport Canada Special Flight Operations Certificate (SFOC) for its Heavy Lift
+        Drone to support advanced flight testing above 55lbs/25KG MTOW. This will allow the highly specialized
+        development of advanced delivery, industrial, and defense applications. The Heavy Lift Flight Testing
+        SFOC allows Draganfly to conduct these specialized and advanced operations utilizing the Heavy Lift
+        within an approved flight test area. This development also enables the Company to initiate direct
+        application and use-case testing. Draganfly can enhance and optimize highly specialized operational and
+        maintenance manuals and Standard Operating Procedures for various conditions and scenarios.
+   •    The Company addressed United Nations Experts speaking on emerging technologies for disaster risk
+        reduction organized by the World Meteorological Organization (WMO), the International
+        Telecommunication Union (ITU), and the United Nations Convention to Combat Desertification (UNCCD)
+        as part of ITU’s webinar series on digital transformation. It focused on the transformative ability of cutting-
+        edge technologies such as Artificial Intelligence (AI), the Internet of Things (IoT), Unmanned Aerial
+        Vehicles (UAVs), digital twin, and the Metaverse and their use in disaster management. This event
+        explored how these technological innovations can effectively mitigate and respond to natural hazards and
+        disasters.
+   •    The Company showcased the Commander 3XL and new military special-purpose capabilities at Modern
+        Warfare Week in Fayetteville, NC. The event is a premier gathering for the Special Operations Forces
+        (SOF) community, providing a platform for education and collaboration on the evolving landscape of
+        warfare. 800 select military and government representatives are anticipated to attend. The Global Special
+        Operations Foundation (GSOF) and the United States Army Special Operations Command (USASOC)
+        jointly sponsor the event.
+   •    Draganfly announced the closing of a US$3.5 million underwritten offering, with the Company planning to
+        allocate the net proceeds towards general corporate purposes. These purposes included funding its
+        capabilities to meet the demand for its new products, supporting growth initiatives, covering working capital
+        requirements, continuing the development and marketing of the Company's core product, potential
+        acquisitions, and research and development efforts.
+   •    Draganfly announced record third-quarter results for 2023, recording revenue of $2,138,017, which marked
+        a 14.0% increase from the same period the previous year. The revenue for Q3 of 2023 comprised product
+
+                                                                                                                       Page 3 of 6
+                                             Draganfly Reports its 2023 Results
+
+        sales amounting to $1,653,111 and drone services totalling $484,906. This performance was compared to
+        the Q3 revenue in 2022, which stood at $1,876,221, consisting of $1,359,986 from product sales and
+        $516,235 from drone services, highlighting the Company's growth and expansion in its market segments.
+
+Draganfly will hold a shareholder update call on March 27, 2024, at 2:30 p.m. PDT / 5:30 p.m. EDT. Registration for
+the call can be done here.
+
+Selected financial information is outlined below and should be read with Draganfly’s consolidated financial
+statements for the quarter ended December 31, 2023 and associated management discussion and analysis, which
+will be available under the Company's profile on SEDAR+ at www.sedarplus.ca and filed on EDGAR.
+                                   For the year      2023       2022       2021
+                                   ended
+                                   December 31,
+          Total revenues           $                 6,554,8    $          7,605,0       $         7,053,9
+                                                     42                    59                      65
+          Gross Profit (as a       31.5              %          10.4       %             37.5      %
+          % of revenues) (1)
+          Net (loss) income        (23,611,810       )          (27,654    )             (16,202   )
+                                                                ,364                     ,972
+          Net (loss) income
+          per share ($)
+          Basic                    (0.56             )          (0.82      )             (0.58     )
+          Diluted                  (0.56             )          (0.82      )             (0.58     )
+          Comprehensive            (23,709,851       )          (27,305    )             (16,399   )
+          (loss) income                                         ,305                     ,137
+          Comprehensive
+          (loss) income per
+          share ($)
+          Basic                    (0.56             )          (0.81      )             (0.59     )
+          Diluted                  (0.56             )          (0.81      )             (0.59     )
+          Change in cash           $                 (4,801,    )          $             (15,180   )         $ 21,093,2
+          and cash                                   169                                 ,932                  97
+          equivalents
+
+(1) Gross Profit (as a % of revenues) would have been 36.5% (2022 – 36.4%; 2021 – 37.5%) not including a non-
+cash write down of inventory for $331,671 (2022 - $1,976,514; 2021 - $nil)).
+                                                 As at          December 31, 2023        December 31, 2022
+        Total assets                             $              8,330,292                $                    14,638,533
+        Working capital                          (717,017       )                        10,168,800
+        Total non-current liabilities            523,584        249,740
+        Shareholders? equity                     $              407,716                  $                    11,040,881
+        Number of shares outstanding             49,229,563     34,270,579
+
+Shareholders’ equity and working capital as at December 31, 2023, includes a fair value of derivative liability of
+$4,196,125 ($57,314 – 2022) and would otherwise be $4,603,841 ($11,098,195 – 2022) and $3,479,108
+($10,226,114 - 2022) respectively.
+                               2023        2023          2022
+                               Q4          Q3            Q4
+          Revenue              $           916,29        $       2,138,0       $         1,314,1
+                                           9                     18                      62
+          Cost of goods        $           (657,42       )       $             (1,243,   )             $     (2,980,     )
+          sold(2)(4)                       0                                   334                           133
+          Gross                $           258,87        $       894,68        $         (1,665,       )
+          profit(3)(5)                     9                     3                       971
+          Gross margin ?       28.3        %             41.8    %             -126.8    %
+          percentage
+
+                                                                                                          Page 4 of 6
+                                        Draganfly Reports its 2023 Results
+
+          Operating           $      (3,482,   )        $         (6,356,    )        $         (7,342,     )
+          expenses                   141                          138                           669
+          Operating           $      (3,223,   )        $         (5,461,    )        $         (9,008,     )
+          income (loss)              262                          456                           640
+          Operating loss      $      (0.08     )        $         (0.13      )        $         (0.26       )
+          per share - basic
+          Operating loss      $      (0.08     )        $         (0.13      )        $         (0.26       )
+          per share -
+          diluted
+          Other income        $      (965,07   )        $         14,569     $        (7,575,   )
+          (expense)^                 2                                                889
+          Change in fair      $      153,79    $        -         $          334,01
+          value of                   8                                       6
+          derivative
+          liability (1)
+          Other               $      (3,461    )        $         (83,363    )        $         (76,073     )
+          comprehensive
+          income (loss)
+          Comprehensive       $      (4,191,   )        $         (5,530,    )        $         (16,660     )
+          income (loss)              796                          248                           ,602
+          Comprehensive       $      (0.10     )        $         (0.13      )        $         (0.49       )
+          income (loss)
+          per share - basic
+          Comprehensive       $      (0.10     )        $         (0.13      )        $         (0.49       )
+          income (loss)
+          per share -
+          diluted
+
+(1) Included in other income (expense).(2) Cost of goods sold includes non-cash inventory write-downs of $8,600 in
+Q3/23 and $123,454 in Q4/23 and would have been $1,234,734 in Q3/23 and $533,996 in Q4/23 before these
+write-downs(3) Gross profit would have been $903,283 in Q3/23 and $382,303 in Q4/23 without the write-downs(4)
+Cost of goods sold in Q4/22 would have been $1,003,619 not including a non-cash write-down of inventory for
+$1,976,514.(5) Gross profit would have been $310,543 in Q4/22 not including a non-cash write-down of inventory
+for $1,976,514.
+
+^ The other income (expense) and comprehensive loss for the fourth quarter of 2023 includes non-cash changes
+comprised of a fair value derivative liability gain of $153,798 and would otherwise be another expense of
+$1,118,870 and comprehensive loss of $4,345,594, respectively
+
+As previously disclosed, on September 22, 2023, the Company received a letter from the Listing Qualifications
+Department of the Nasdaq Stock Market (“Nasdaq”) notifying the Company of its noncompliance with Nasdaq
+Listing Rule 5550(a)(2) (the “Rule”) by failing to maintain a minimum bid price for the Company’s common shares of
+at least $1.00 per share for 30 consecutive business days. The Company was allowed an initial 180-day grace
+period, or until March 20, 2024, (the “Compliance Period”), to regain compliance with the Rule. To regain
+compliance with the Rule the closing bid price of the Company’s common shares needed to be at least $1.00 per
+share for a minimum of ten consecutive business days during the Compliance Period.
+
+On March 21, 2024, the Company received notification that it had failed to regain compliance with the Rule and is
+not eligible for a second 180 day compliance period because of its failure to comply with the $5 million minimum
+stockholders’ equity initial listing requirement for the period ended September 30, 2023. Unless the Company timely
+requests a hearing before an independent Nasdaq Hearings Panel (the “Panel”), the Company’s securities will be
+subject to delisting. Accordingly, the Company will request a hearing before the Panel. The hearing request will
+automatically stay any suspension or delisting action pending the hearing and the expiration of any additional
+extension period granted by the Panel following the hearing. In that regard, pursuant to the Nasdaq Listing Rules,
+the Panel has the discretion to grant an additional extension period that can expire as late as September 17, 2024.
+At the hearing, the Company will be asked to provide a plan to regain compliance to the Panel. The Company
+
+                                                                                                           Page 5 of 6
+                                          Draganfly Reports its 2023 Results
+
+intends to present a plan to regain compliance with the Rule and request the continued listing of its common shares
+on Nasdaq pending such compliance. However, there can be no assurance that the Panel will grant the Company’s
+request or that the Company will ultimately regain compliance with all applicable requirements for continued listing
+on Nasdaq.
+
+About Draganfly
+
+Draganfly Inc. (NASDAQ: DPRO; CSE: DPRO; FSE: 3U8) is the creator of quality, cutting-edge drone solutions,
+software, and AI systems that revolutionize how organizations can do business and service their stakeholders.
+Recognized as being at the forefront of technology for over 24 years, Draganfly is an award-winning industry leader
+serving the public safety, agriculture, industrial inspections, security, mapping, and surveying markets. Draganfly is
+a company driven by passion, ingenuity, and the need to provide efficient solutions and first-class services to its
+customers around the world with the goal of saving time, money, and lives.
+
+For more information on Draganfly, please visit us at www.draganfly.com.For additional investor information,
+visit https://www.thecse.com/en/listings/technology/draganfly-inc, https://www.nasdaq.com/market-
+activity/stocks/dpro, or https://www.boerse-frankfurt.de/aktie/draganfly-inc.
+
+Media ContactArian Hopkinsemail: media@draganfly.com
+
+Company ContactEmail: info@draganfly.com
+
+Note Regarding Non-GAAP Measures
+
+In this press release, we describe certain income and expense items that are unusual or non-recurring. There are
+terms not defined by International Financial Reporting Standards (IFRS). Our usage of these terms may vary from
+the usage adopted by other companies. Specifically, gross profit and gross margin are undefined terms by IFRS
+that may be referenced herein. We provide this detail so that readers have a better understanding of the significant
+events and transactions that have had an impact on our results.
+
+Throughout this release, reference is made to “gross profit,” and “gross margin,” which are non-IFRS measures.
+Management believes that gross profit, defined as revenue less operating expenses, is a useful supplemental
+measure of operations. Gross profit helps provide an understanding on the level of costs needed to create revenue.
+Gross margin illustrates the gross profit as a percentage of revenue. Readers are cautioned that these non-IFRS
+measures may not be comparable to similar measures used by other companies. Readers are also cautioned not to
+view these non-IFRS financial measures as an alternative to financial measures calculated in accordance with
+International Financial Reporting Standards (“IFRS”). For more information with respect to financial measures which
+have not been defined by GAAP, including reconciliations to the closest comparable GAAP measure, see the "Non-
+GAAP Measures and Additional GAAP Measures" section of the Company’s most recent MD&A which is available
+on SEDAR.
+
+Forward-Looking Statements
+
+This release contains certain “forward-looking statements” and certain “forward-looking information” as defined
+under applicable securities laws. Forward-looking statements and information can generally be identified by the use
+of forward-looking terminology such as “may”, “will”, “expect”, “intend”, “estimate”, “anticipate”, “believe”, “continue”,
+“plans” or similar terminology. Forward-looking statements and information are based on forecasts of future results,
+estimates of amounts not yet determinable and assumptions that, while believed by management to be reasonable,
+are inherently subject to significant business, economic and competitive uncertainties and contingencies. These
+statements include, but may not be limited to statements regarding; the impact of the Company receiving the SFOC
+for its Heavy Lift Drone; expected attendance and the impact of the Company showcasing the Commander 3XL at
+Modern Warfare Week; the expected use of proceeds in connection with the US$3.5 million underwritten offering;
+statements regarding the Nasdaq delisting process, including the Company’s intention to request a hearing, the
+results of any such hearing, and the Company’s ability to present a plan to regain compliance with the Rule; and
+building technologies, production lines and production capabilities. Forward-looking statements and information are
+
+                                                                                                         Page 6 of 6
+                                         Draganfly Reports its 2023 Results
+
+subject to various known and unknown risks and uncertainties, many of which are beyond the ability of the
+Company to control or predict, that may cause the Company’s actual results, performance or achievements to be
+materially different from those expressed or implied thereby, and are developed based on assumptions about such
+risks, uncertainties and other factors set out here-in, including but not limited to: the potential impact of epidemics,
+pandemics or other public health crises on the Company’s business, operations and financial condition, the
+successful integration of technology, the inherent risks involved in the general securities markets; uncertainties
+relating to the availability and costs of financing needed in the future; the inherent uncertainty of cost estimates and
+the potential for unexpected costs and expenses, currency fluctuations; uncertainty regarding the Nasdaq hearing
+process, regulatory restrictions, liability, competition, loss of key employees and other related risks and
+uncertainties disclosed under the heading “Risk Factors“ in the Company’s most recent filings filed with securities
+regulators in Canada on the SEDAR website at www.sedar.com and with the U.S. Securities and Exchange
+Commission on the EDGAR website at www.sec.gov. The Company undertakes no obligation to update forward-
+looking information except as required by applicable law. Such forward-looking information represents
+management’s best judgment based on information currently available. No forward-looking statement can be
+guaranteed and actual future results may vary materially. Accordingly, readers are advised not to place undue
+reliance on forward-looking statements or information.
 
 
-Load-Date: July 15, 2024
+
+
+Load-Date: March 27, 2024
 
 
   

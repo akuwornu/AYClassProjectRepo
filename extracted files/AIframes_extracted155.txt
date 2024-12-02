@@ -1,104 +1,165 @@
 
 
-                                                                                                    Page 1 of 2
-   Advanced Info Service Selects Oracle Alloy to Build Thailand 's First Locally Owned and Operated Hyperscale
-                                                       Cloud
+                                                                                                Page 1 of 4
+   Acronis End-of-Year Cyberthreats Report Uncovers 222% Surge in Email Attacks During 2023 Biannual report
+                          reveals malware data gathered from July – December; hig....
 
 
 
 
- Advanced Info Service Selects Oracle Alloy to Build Thailand's First Locally
-                  Owned and Operated Hyperscale Cloud
-                                                           PR Newswire
-                                            August 1, 2024 Thursday 1:00 AM EST
+   Acronis End-of-Year Cyberthreats Report Uncovers 222% Surge in Email
+   Attacks During 2023; Biannual report reveals malware data gathered from
+    July – December; highlights the rise of generative AI systems to create
+                      malware and orchestrate attacks
+                                                         GlobeNewswire
+                                           February 7, 2024 Wednesday 5:00 AM PT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 1249 words
-Dateline: AUSTIN, Texas and BANGKOK, Aug. 1, 2024
+
+
+
+Section: ECONOMIC RESEARCH AND REPORTS
+Length: 1377 words
 
 Body
 
+SCHAFFHAUSEN, Switzerland, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Acronis, a global leader in cyber
+protection, today released the findings of its benchmarked cyberthreats report for the second half of 2023. Titled
+“Acronis Cyberthreats Report, H2 2023: Alarming rise in cyberattacks, SMBs and MSPs in the crosshairs,” the
+report provides an in-depth analysis and prescriptive outlook on key security issues and prevalent cyberthreats
+worldwide. By leveraging data collected from over 1,000,000 unique endpoints across 15 key countries, the findings
+conclude that AI-enhanced phishing affected over 90% of organizations and contributed to a 222% surge in email
+attacks in 2023 as compared to the second half of 2022.
 
-PR NewswireAdvanced Info Service (AIS) Cloud will offer more than 100 Oracle Cloud Infrastructure services and
-help organizations address relevant regulatory and data sovereignty requirementsAUSTIN, Texas and BANGKOK,
-Aug. 1, 2024 /PRNewswire/ --Advanced Info Service (AIS), one of Thailand's largest mobile network operators,
-today announced plans to deployOracle Alloyand launch AIS Cloud, the country's first locally owned and operated
-hyperscale cloud. Oracle Alloy will provide AIS' customers and all enterprises in Thailand, including the public
-sector, access to more than 100Oracle Cloud Infrastructure(OCI) services, including the latest artificial
-intelligence (AI) capabilities. Oracle is the only hyperscaler capable of delivering AI and a full suite of 100+ cloud
-services across dedicated, public, and hybrid cloud environments, anywhere in the world.
+Ransomware variants and the number of new groups continue to decrease, yet the most renowned families of the
+attack vector are still causing companies across the globe to lose data and money. The report sheds light on the
+lack of strong security solutions which should be detecting the exploitation of zero-day vulnerabilities. To add,
+organizations are falling victim to attacks due to the delay in patching vulnerable software which allows threat actors
+to gain domain administrative rights, uninstall security tools and infiltrate sensitive information. Behavior-based
+detection and exploit prevention technology can prevent most of these attacks. This, paired with proper data
+backup, following the 3-2-1 rule, is necessary to create a last line of defense.
 
- AIS has established a proven track record of providing mobile network services to more than 45 million subscribers
-across Thailand. To build on this success and capitalize on the business opportunities, scale, and performance of
-the cloud, while innovating at the speed of hyperscale cloud providers, AIS selected Oracle Alloy. AIS Cloud will
-help AIS' customers address data residency and sovereignty requirements such as Thailand's Personal Data
-Protection (PDPA) Act and the Cybersecurity Act. AIS Cloud will be the only hyperscale cloud in Thailand, providing
-business resilience with in-country disaster recovery capabilities."For over 34 years, AIS has continuously
-developed digital technology infrastructure to provide customers in Thailand with a superior digital experience," said
-Somchai Lertsutiwong, chief executive officer, AIS. "This is coupled with leveraging our network's potential by
-collaborating with various partners to connect and support public and private sector organizations in achieving
-effective digital transformation. This enhances the capability and elevates the ability to create business growth,
-leading to sustainable competitive advantages for the country.""Cloud technology plays a pivotal role in supporting
-the IT infrastructure modernization and innovation for organizations in Thailand, and Oracle Alloy has made it
-possible for AIS to become a locally owned and operated hyperscale cloud provider in the country," Somchai
-Lertsutiwong added. "This strategic collaboration between Oracle and AIS will not only accelerate AIS'
-transformation from a 'Telco to a Techco' but also unlock the immense potential for digital transformation and AI
-innovation for all organizations. AIS Cloud, powered by Oracle Cloud Infrastructure, will be key to transforming the
-core operations of businesses to capitalize on the market opportunities and create differentiation to take on the
-competition. This will significantly contribute to increasing the competitive advantage of Thai organizations,
-attracting investments, and supporting Thailand's economic engine for sustainable growth."AIS Cloud will be
-deployed in two AIS data centres located in Thailand and will be operated by AIS who will deliver cloud services to
+“There’s a disturbing trend being recognized globally where bad actors continue to leverage ChatGPT and similar
+generative AI systems to increase cyberattack efficiency, create malicious code, and automate attacks,” said
+Candid Wüest, Acronis VP of Product Management. “Now, more than ever, corporations need to prioritize
+comprehensive cyber protection solutions to ensure business continuity.”
 
-                                                                                                   Page 2 of 2
-  Advanced Info Service Selects Oracle Alloy to Build Thailand 's First Locally Owned and Operated Hyperscale
-                                                      Cloud
+                                                                                               Page 2 of 4
+  Acronis End-of-Year Cyberthreats Report Uncovers 222% Surge in Email Attacks During 2023 Biannual report
+                         reveals malware data gathered from July – December; hig....
 
-its customers including local support, providing them with a local cloud solution to meet regulatory requirements.
-Customer information will also be housed within Thailand to help customers address data sovereignty and
-regulatory requirements across industries. With Oracle Alloy, AIS will be able to extend 100+ OCI services to public
-and private sector organizations, as well as its managed service partners. This will allow customers to repatriate
-their existing cloud environments from overseas back to Thailand or move and modernize from on-premises to AIS
-Cloud deployed in AIS data centres in Thailand."Providing our partners and customers with more choice has always
-been our priority," said Garrett Ilg, executive vice president and general manager, Japan & Asia Pacific, Oracle.
-"Thailand is a strategic market for Oracle and the Oracle Alloy collaboration with AIS will serve as an industry
-gamechanger for the country. It empowers AIS to become a hyperscale cloud provider, enabling them to build new
-services faster while delivering sovereign cloud and AI capabilities for its Thai customers. With its local expertise
-and deep market knowledge, AIS is strongly positioned to deliver tailored customer experiences by addressing
-specific customer needs related to where the workloads reside and how their cloud is operated.""IDC forecasts
-spending on sovereign cloud to increase at 31.5 percent compound annual growth rate (CAGR) in APEJ," said
-Daphne Chung, Research Director, Cloud Services and Software Research, IDC Asia/Pacific. "The APEJ Cloud
-Survey 2023 showed that 19 percent of APEJ organizations expect to increase their spending on sovereign cloud in
-the near future as a component of organizations' hybrid cloud strategy driven by compliance and regulations as well
-as the need for greater operational resiliency."Oracle's Distributed Cloud Delivers the Benefits of Cloud with
-Greater Control and FlexibilityOracle's distributed cloud lineup supports:Public cloud: Hyperscale public cloud
-regions serve any size of organization, including those requiring strict EU sovereignty controls. See the full list of
-regions here.Dedicated cloud: Customers can run all OCI cloud services in their own data centers with OCI
-Dedicated Region, while partners can resell OCI cloud services and customize the experience using Oracle Alloy.
-Oracle also operates separate U.S., UK, and Australian Government Clouds, and Isolated Cloud Regions for U.S.
-national security purposes. Each of these products provide a full cloud and AI stack that customers can deploy as a
-Sovereign Cloud.Hybrid cloud: OCI delivers key cloud services on-premises via Oracle Exadata Cloud@Customer
-and Compute Cloud@Customer and is already managing deployments in over 60 countries.Multicloud: Options
-including Oracle Database@Azure, HeatWave MySQL on AWS and Microsoft Azure, Oracle Interconnect for
-Microsoft Azure, and Oracle Interconnect for Google Cloud allow customers to combine key capabilities from across
-clouds.About AISAdvanced Info Service Public Company Limited (AIS), is a digital infrastructure service provider
-driving Thailand's digital transformation through four business groups, serving a customer base of over 49.8 million.
-These include mobile phone services on the 5G network with the highest frequency band of 1460 MHz, catering to
-over 45 million users; Broadband internet services under the AIS 3BB FIBRE3 with over 4.8 million users; corporate
-customer services; and digital service businesses. All of these are in line with the vision of becoming a leading
-telecommunications and smart technology organization – Cognitive Tech-Co, supporting the strength of the digital
-economy and elevating the quality of life for Thai people. Meet us atwww.ais.th(as of March 2024).About
-OracleOracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud.
-For more information about Oracle (NYSE: ORCL), please visit us atwww.oracle.com.TrademarksOracle, Java,
-MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—
-ushering      in   the    new     era   of    cloud    computing.       View    original   content    to   download
-multimedia:https://www.prnewswire.com/news-releases/advanced-info-service-selects-oracle-alloy-to-build-
-thailands-first-locally-owned-and-operated-hyperscale-cloud-302211855.htmlSOURCE Oracle
+As a channel-first organization, Acronis’ focus is to protect its dedicated partners, managed service providers
+(MSPs) and managed security service providers (MSSPs). These IT resources are allies to businesses who seek
+robust IT infrastructure and sound cybersecurity but because they centralize services to numerous businesses,
+from SMBs to large corporations; the scaling efficiencies that make them a business asset also make them a single
+point of failure where cybercriminals can exploit multiple entities through a single attack.
+
+The report notes how more advanced tactics like supply chain attacks, AI-driven attacks and state-sponsored
+incursions are likely to intensify. MSPs should brace themselves for threats unique to their operations, including
+"island hopping," in which attackers use an MSP's infrastructure to attack clients, as well as "credential stuffing,"
+which exploits an MSP's broad access to systems. To address this concern, Acronis offers training and certification
+programs through the MSP Academy for those interested in enhancing their cybersecurity skills and knowledge.
+
+Key findings and themes from the report include:
+
+Global threat landscape
+    •   Singapore, Spain, and Brazil emerged as the most targeted focus countries for malware attacks in Q4
+        2023.
+    •   Acronis blocked nearly 28 million URLs at the endpoint in Q4 2023, reflecting a 36% decrease compared to
+        Q4 2022.
+    •   33.4% of received emails were identified as spam, with 1.5% containing malware or phishing links.
+    •   The average lifespan of a malware sample in the wild is 2.1 days.
+    •   In Q4 2023, 1,353 ransomware cases were explicitly mentioned, with notable contributions from LockBit,
+        Play, ALPHV and the active Toufan group.
+
+Cybersecurity trends – from July – December 2023
+    •   Ransomware remains a major threat to large and medium-sized businesses, impacting critical sectors such
+        as government and health care.
+    •   Data stealers are the second most prevalent threat, contributing to most data breaches.
+    •   The use of generative AI systems, including ChatGPT, for launching cyberattacks and creating malicious
+        content is on the rise.
+
+Ransomware Trends
+    •   Known ransomware gangs in 2023 include LockBit, Cl0P, BlackCat / ALPHV, Play, and 8Base.
+    •   The ALPHV gang, whom the FBI targeted in December 2023, breached over 1,000 entities, demanded
+        over $500 million, and received over $300 million in ransom payments.
+    •   Regardless of a decrease in ransomware variants, businesses continue to suffer data and financial losses.
+
+Attacks on MSPs are increasing
+    •   Attacks on managed service providers (MSPs) continue, with a recent high-profile breach affecting multiple
+        U.S. (United States) government agencies.
+    •   Microsoft cloud email account vulnerabilities led to the compromise of 60,000 emails from 10 U.S. State
+        Department accounts.
+
+Phishing and email Attacks remain the main vectors of infection
+    •   The total number of email-based attacks detected in 2023 increased by 222%.
+    •   Organizations experienced a 54% increase in the number of attacks per organization.
+
+                                                                                               Page 3 of 4
+  Acronis End-of-Year Cyberthreats Report Uncovers 222% Surge in Email Attacks During 2023 Biannual report
+                         reveals malware data gathered from July – December; hig....
+
+    •   91.1% of organizations faced AI-enhanced phishing attacks.
+
+The AI menace — Cybercriminals embrace malicious AI-based tools for corporate attacks
+    •   Cybercriminals are leveraging malicious AI tools, including WormGPT, FraudGPT, DarkBERT, DarkBART
+        and ChaosGPT.
+    •   The public release of ChatGPT has increased the use of generative AI for cyberattacks.
+
+"The Acronis Cyberthreats Report H2 2023 highlights the continued threats faced by businesses of all sizes
+worldwide,” said Michael Suby, Research VP, IDC. “Unfortunately, bad actors continue to profit from these activities
+and are leveraging AI-enhanced techniques to create more convincing phishing schemes, guaranteeing that this
+problem will continue to plague businesses.”
+
+The report is curated by the advanced Acronis Cyber Protection Operation Center (CPOC) and includes data
+surrounding ransomware threats, phishing, malicious websites, software vulnerabilities and a security forecast for
+2024. Released biannually, the Acronis Cyberthreats Report sets the industry standard by consistently establishing
+itself as a benchmark for cybersecurity intel. By regularly publishing reports to stay abreast of cybersecurity
+developments, Acronis’ analysis of the global cyberthreat landscape is published for the benefit of its users and
+partners.
+
+For more information, download a copy of the full Acronis End-of-Year Cyberthreats Report 2023 here:
+https://go.acronis.com/cyberthreats-2023-h2
+
+To learn more about the report and its findings, visit the Acronis blog post: https://www.acronis.com/en-
+us/blog/posts/ransomware-and-software-vulnerabilities-created-the-most-havoc-in-h2-2023
+
+Visit www.acronis.com for information about Acronis solutions that help combat security challenges like these –
+including the new, groundbreaking native integration of Acronis Advanced Security and Endpoint Detection and
+Response (EDR) solutions.
+
+About AcronisAcronis unifies data protection and cybersecurity to deliver integrated, automated cyber protection
+that solves the safety, accessibility, privacy, authenticity, and security (SAPAS) challenges of the modern digital
+world. With flexible deployment models that fit the demands of service providers and IT professionals, Acronis
+provides superior cyber protection for data, applications, and systems with innovative next-generation antivirus,
+backup, disaster recovery, and endpoint protection management solutions powered by AI. With advanced anti-
+malware powered by cutting-edge machine intelligence and blockchain based data authentication technologies,
+Acronis protects any environment - from cloud to hybrid to on premises - at a low and predictable cost.
+
+Acronis is a Swiss company, founded in Singapore. Celebrating two decades of innovation, Acronis has 1,800+
+employees in 45 locations. Acronis Cyber Protect solution is available in 26 languages in over 150 countries and is
+used by 20,000+ service providers to protect over 750,000 businesses.
+
+Acronis Media Contact: Julia Carfagno Julia.Carfagno@acronis.com
+
+A         photo        accompanying        this      announcement        is         available                     at
+https://www.globenewswire.com/NewsRoom/AttachmentNg/c1a2e8c4-a892-4d4b-a57d-2fc47fdf3b59
+
+Acronis Cyberthreats Report, H2 2023: Alarming rise in cyberattacks, SMBs and MSPs in the crosshairs
+
+The Acronis end-of-year report provides an in-depth analysis and prescriptive outlook on key security issues and
+prevalent cyberthreats worldwide.
 
 
-Load-Date: August 1, 2024
+Load-Date: February 7, 2024
+
+                                                                                             Page 4 of 4
+Acronis End-of-Year Cyberthreats Report Uncovers 222% Surge in Email Attacks During 2023 Biannual report
+                       reveals malware data gathered from July – December; hig....
 
 
-  
+
+

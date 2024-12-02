@@ -1,121 +1,131 @@
 
 
-                                                                           Page 1 of 3
-   MATTER GROWS B2B TECH PORTFOLIO, ELEVATING BRAND AWARENESS + DRIVING BOTTOM-LINE
-                              RESULTS FOR NEW CLIENTS
+                                                                                                        Page 1 of 3
+                    OVHcloud Opens New Data Center and Invests $145 Million in the Toronto Area
 
 
 
 
-        MATTER GROWS B2B TECH PORTFOLIO, ELEVATING BRAND
-      AWARENESS + DRIVING BOTTOM-LINE RESULTS FOR NEW CLIENTS
-                                                     Targeted News Service
-                                           July 10, 2024 Wednesday 9:50 AM EST
+  OVHcloud Opens New Data Center and Invests $145 Million in the Toronto
+                                Area
+                                                           PR Newswire
+                                          March 13, 2024 Wednesday 9:00 AM EST
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-
-
-
-Length: 753 words
-Byline: Targeted News Service
-Dateline: BOSTON, Massachusetts
+Length: 1688 words
+Dateline: RESTON, Va., March 13, 2024
 
 Body
 
 
-Matter Communications, a public relation and social media firm, issued the following news on July 9, 2024:
+PR NewswireRESTON, Va. , March 13, 2024 /PRNewswire/ -- OVHcloud® US, a leading global cloud provider, is
+excited to announce its parent company's continued international expansion with the opening of a second Canadian
+site (the Group's 42nd data center), supported by a long-term investment of CAD 145 million. Located in
+Cambridge, Ontario, the OVHcloud data center is in the heart of one of North America's most dynamic innovation
+clusters, the perfect location for providing trusted cloud solutions meeting the heightened demands of Canadian and
+international businesses in terms of performance, resilience, and data governance. The new Toronto data center,
+like other global OVHcloud data centers, will be accessible to OVHcloud US customers and will deliver improved
+latency compared to the existing OVHcloud data center near Montreal and the OVHcloud US data center in Vint
+Hill, Virginia. This data center opening continues to showcase OVHcloud's momentum in the U.S. and North
+American markets.
 
-***
+ A global player and European leader in cloud computing, OVHcloud has been established in Canada since 2011,
+where it employs 250 people and operates 90,000 servers hosted in one of the industry's most eco-responsible
+data centers, located on Montreal's South Shore. OVHcloud is opening its first site in Ontario, supported by a CAD
+145 million investment over the next 8 years, to support the growth and needs of its customers within a framework
+of extended trust. Dedicated to the development of its new data center and to the industrial innovations that are the
+hallmark of the trusted cloud leader, this investment includes, in its first phase, the hiring of a number of qualified
+talents.Located inthe Ascent TOR1 hyperscale development, this new data center has a surface area of 1,000
+m2, a capacity of 10,000 servers and 2MW of power. More than just a data center, it embodies the technological
+know-how that has earned OVHcloud its reputation for operational excellence and energy efficiency. Its vertically
+integrated model (OVHcloud builds its own servers, up to 600 a week in its Beauharnois plant) and the industrial
+scale-up of its water-cooling technology are major assets in providing an optimal performance-price ratio and a
+controlled environmental footprint, in line with the expectations of businesses that want to exercise full control over
+their digital assets."This new data center marks a major turning point in the history of OVHcloud in Canada,
+enabling our customers and businesses in the Toronto area to strengthen their infrastructure while retaining full
+control of their cloud journey, free from any form of technological or pricing lock-in. We're also looking forward to
+making a difference by continuing to innovate for a sustainable digital environment." - Estelle Azemard, Vice
+President Americas, OVHcloud.Giving companies greater control over their digital journeyIn this age of hybrid
+and multi-cloud strategies, the arrival of OVHcloud in the Toronto area offers a real alternative for companies
+wishing to diversify and consolidate their cloud infrastructure, based on trusted solutions that meet a variety of
 
-Agency's B2B tech team celebrates growth from new client partners, supporting successful brand awareness,
-thought leadership content and creative marketing programs
+                                                                                                          Page 2 of 3
+                  OVHcloud Opens New Data Center and Invests $145 Million in the Toronto Area
 
-***
+requirements.Reduced visibility of the macro-economic context calls for optimization of cloud spending, and
+OVHcloud meets this challenge with a pricing model that is predictable, has no hidden costs, charges no egress
+fees, and includes both inbound and outbound traffic. Enhanced resilience, thanks to a multi-site footprint, this new
+data center is particularly well-suited to companies requiring a second, geographically-distant Canadian data center
+to deploy their backup or disaster recovery solution. They can rely on the robustness of OVHcloud's own network,
+connected to several points of presence (PoPs) in Montreal and Toronto, and more than 40 worldwide.It will also
+meet the growing demands of highly regulated industries, increasingly intransigent about data sovereignty. Public
+services, healthcare, financial services, professional services, or telecommunications can count on OVHcloud's
+exemplary level of compliance with the strict industry certifications (ISO 27001-017-018, SOC 2 Type 2, CSA
+Star).An evolving portfolioTo meet these requirements, a varied and competitive range of solutions are now
+available in the Cambridge data center:Scale and High Grade dedicated servers, designed for complex
+infrastructures and optimized for mission-critical workloads. Powered by the latest AMD and Intel processors, they
+meet the new challenges of hyper-convergence, storage, and AI, without compromising on performance and
+availability.A complete Object Storage solution compatible with the S3 API, as effective for platform modernization
+as for data backup.Network and connectivity options such as Additional IP for application flexibility, and Load
+Balancer for efficient load balancing across multiple data centers. Ascent TOR data center has ultra low latency to
+the greater Toronto region.The OVHcloud Connect solution, which enables 100% private and highly resilient
+interconnection (SLA of 99.99%) of its on-prem infrastructure with the OVHcloud network.And, of course,
+emblematic (and free) OVHcloud services, such as the vRack private network, which connects services between
+several OVHcloud data centers, or Anti-DDoS to protect infrastructures against computer attacks.In 2024, the
+Private Cloud solution leveraging VMware by Broadcom will be added, offering an additional option for companies
+wishing to boost their level of resilience by activating Veeam or Zerto virtualized solutions in a 100% dedicated
+environment.Building a sustainable digital ecosystemIn a move towards regional integration similar to what it
+has been doing in Quebec for over 10 years, OVHcloud is committed to stimulating innovation and helping to build
+a trusted digital ecosystem in the Waterloo region - which includes the cities of Waterloo, Cambridge, and
+Kitchener. This region is the entrepreneurial heart of the country, and together with Toronto forms an internationally
+renowned innovation corridor, the second largest technology hub in North America after Silicon Valley, and one of
+the world's top 20 startup ecosystems.As such, start-ups' appetite for cloud computing will naturally find refuge in
+the dedicated startup program that OVHcloud makes available to support innovation. Open to all, it offers selected
+startups up to $100,000 in infrastructure credits and personalized support based on open, reversible, and
+interoperable cloud solutions.Finally, OVHcloud's commitment to sustainability is reflected positively in Ontario,
+which is over 90% powered by low-carbon energy sources. Its integrated industrial model and proprietary liquid
+cooling technology have enabled it to achieve some of the best energy efficiency ratings in the industry. OVHcloud
+is also the only cloud provider to offer its customers the opportunity to measure the carbon footprint of their cloud
+services, thanks to a carbon calculator that analyzes the entire lifecycle of their infrastructure, from manufacturing to
+operation (scope 1-2-3).Officials and business partners welcome OVHcloud"Late last year, I was pleased to
+have the opportunity to meet with Michel Paulin, CEO OVHcloud, and tour the OVHcloud facility as part of the
+WREDC mission to Europe. I am proud to welcome OVHcloud to Cambridge as they continue their international
+expansion by choosing Cambridge as their second Canadian location. OVHcloud is a leader in the industry and
+committed to sustainability, optimizing data center energy consumption through innovative and more efficient
+cooling systems, as well as reducing IT components waste. This long-term investment of $145 million helps to
+strengthen the Toronto-Waterloo Region Innovation Corridor, the 2nd largest technology corridor cluster in North
+America, and continues to position Cambridge as a top-tier destination for technology businesses, talent, and
+investors from around the world."- Mayor Jan Liggett, City of Cambridge."OVHcloud is an excellent fit in the
+Waterloo region tech ecosystem. An innovative company – a disruptor – that offers sustainable and secure cloud
+solutions, OVHcloud is not only an exciting new investment in our community's success but also a respected
+partner to the startup community and businesses that value data sovereignty, like cybersecurity, fintech, insurance
+and more. Bienvenue dans la région de Waterloo!"- Tony LaMantia, President & CEO of Waterloo EDC."We're
+thrilled to have been selected to partner with OVHcloud. The team of engineers kept a customer-first focus and
+worked seamlessly together to deliver this unique project that is at the forefront of data center innovation. Our
+shared commitment is a testament to delivering unparalleled efficiency and effective solutions for highly secure data
+centers, that ultimately navigate the complexities of high-density demands." - Robert Painter,
+President, Ascent.About OVHcloud US
 
-Matter Communications, a brand elevation agency integrating PR, marketing and creative services - today
-announced the growth of its B2B tech portfolio, highlighted by the addition of new clients spanning diverse sectors.
-Matter continues to elevate B2B brand stories by creating and executing PR programs focused on high-impact
-earned media coverage and compelling thought leadership content, and through fully integrated marketing
-programs that deploy social media, SEO, creative design and other digital marketing campaigns to increase
-awareness and sales.
+                                                                                                         Page 3 of 3
+                    OVHcloud Opens New Data Center and Invests $145 Million in the Toronto Area
 
-"B2B technology companies are seeking smart communications and marketing solutions to differentiate themselves
-and stand out amidst intensified competition by continuing to reinvent themselves and better communicate their
-stories," said Tim Hurley, executive vice president, B2B tech, at Matter. "Matter has a rich and deeply respected
-history of successfully elevating brand awareness for some of the world's most innovative technology leaders,
-driving bottom-line results that marketers and their leadership teams demand."
-
-The following is a subset of B2B tech companies who have recently partnered with Matter to advance the
-effectiveness of their communications and/or marketing programs across sectors including cybersecurity, AI and
-machine learning, IT services, retail, behavioral data, and more:
-
-                                                                           Page 2 of 3
-   MATTER GROWS B2B TECH PORTFOLIO, ELEVATING BRAND AWARENESS + DRIVING BOTTOM-LINE
-                              RESULTS FOR NEW CLIENTS
-
-* Fullstory, a leading behavioral data company that helps technology leaders make better, more informed decisions.
-By injecting digital behavioral data into their analytics stack, its patented technology unlocks the power of quality
-behavioral data at scale-transforming every digital visit into actionable insights.
-
-* IntelePeer, an AI-powered communications automation platform provider.
-
-* Lobyco, a global leader in grocery loyalty programs that builds engaging loyalty, promotions and checkout
-propositions for retailers around the world.
-
-* LogicGate, a global, market-leading SaaS company empowering customers to effectively manage and scale their
-cyber risk and control, third-party risk management, compliance controls, enterprise risk, and operational resilience
-programs.
-
-* LTO Program, comprised of technology provider companies - Hewlett-Packard Enterprise, IBM Corp. and
-Quantum Corp. - this organization supports the development of the linear tape-open (LTO) Ultrium technology for
-long term data retention, disaster recovery and protection from cyberattacks.
-
-* Presidio, a leading technology services and solutions provider with deep expertise in automation, security,
-networking, digital transformation, and cloud computing.
-
-* Synadia, providers of a secure, scalable, and high-performance data and communications platform designed for
-modern distributed systems, empowering developers and enterprises to accelerate the delivery of multi-cloud, edge
-and AI applications. Synadia leverages NATS.io, a connective technology used by thousands of companies across
-the globe to power their digital initiatives.
-
-"Matter acts as a true extension of our marketing team," said Jonathan Skinner, chief marketing officer of
-LogicGate. "They've been an invaluable partner for marketing and PR, helping to drive the LogicGate brand forward
-and raise awareness among our key stakeholders. We continue to generate impactful media opportunities for our
-executive thought leaders in a distinct way that cuts through the noise, boosting our competitive share of voice and
-expert industry presence."
-
-Tech brands looking to explore a potential partnership with Matter or share Request for Proposals (RFPs) are
-encouraged to contact Matter to receive a customized program evaluation.
-
-***
-
-About Matter Communications
-
-Matter is a Brand Elevation Agency that integrates PR, marketing and creative services into campaigns that inspire
-action and build value. Founded in 2003, with offices spanning North America, Matter works with the world's most
-innovative companies across healthcare, high-technology, consumer technology and consumer markets.
-
-***
-
-Original text here: https://www.matternow.com/blog/matter-grows-b2b-tech-portfolio/
-
-[Category: BizConsulting]
-
-Contact: Greg Amaral, Matter Communications, gamaral@matternow.com; www.matternow.com
-
-Copyright Targeted News Services
-
-MSTRUCK-8713668 MSTRUCK
-
-                                                                          Page 3 of 3
-  MATTER GROWS B2B TECH PORTFOLIO, ELEVATING BRAND AWARENESS + DRIVING BOTTOM-LINE
-                             RESULTS FOR NEW CLIENTS
+OVHcloud is a global player and the leading European cloud provider operating over 450,000 servers within 42 data
+centers across 4 continents to reach 1.6 million customers in over 140 countries. Spearheading a trusted cloud and
+pioneering a sustainable cloud with the best performance-price ratio, the Group has been leveraging for over 20
+years an integrated model that offers control of its value chain: from the design of its servers to the construction and
+management of its data centers, including the orchestration of its fiber-optic network. This unique approach enables
+OVHcloud to independently cover all the uses of its customers so they can seize the benefits of an environmentally
+conscious model with a frugal use of resources and a carbon footprint reaching the best ratios in the industry.
+OVHcloud now offers customers the latest-generation solutions combining performance, predictable pricing, and
+complete data sovereignty to support their unfettered growth.                  View original content to download
+multimedia:https://www.prnewswire.com/news-releases/ovhcloud-opens-new-data-center-and-invests-145-million-
+in-the-toronto-area-302087624.htmlSOURCE OVHcloud US
 
 
-Load-Date: July 10, 2024
+Load-Date: March 13, 2024
 
 
   

@@ -1,142 +1,97 @@
 
 
-                                                                                               Page 1 of 3
-     InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
-                      Enterprise-Grade Node Management Services to End Users Node....
+                                                                                             Page 1 of 2
+     Cloudera Unveils Next Phase of Open Data Lakehouse Focused on Maximizing Customer Data to Unlock
+                                                Enterprise AI
 
 
 
 
-InfStones Launches Node-as-a-Service (NaaS) Product to Jumpstart DePIN
-Development while Delivering Enterprise-Grade Node Management Services
- to End Users; Node-as-a-Service enables DePIN end users to set up their
-                         own nodes hassle free
-                                                         GlobeNewswire
-                                               July 22, 2024 Monday 3:58 AM PT
+        Cloudera Unveils Next Phase of Open Data Lakehouse Focused on
+               Maximizing Customer Data to Unlock Enterprise AI
+                                                           PR Newswire
+                                             March 5, 2024 Tuesday 9:00 AM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-
-
-
-Section: PRESS RELEASES
-Length: 1178 words
+Length: 1071 words
+Dateline: SANTA CLARA, Calif., March 5, 2024
 
 Body
 
 
-DALLAS. TX, July 22, 2024 (GLOBE NEWSWIRE) -- InfStones, a leading global blockchain infrastructure
-provider, today announced the successful launch of its Node-as-a-Service (NaaS) product, empowering emerging
-protocols to jumpstart their DePIN projects while making sophisticated blockchain node operations accessible to
-mainstream users.
+PR NewswireCloudera is now the only provider to offer an open data lakehouse with Apache Iceberg for public and
+private clouds Platform will be on display at booth #1534 during the Gartner Data & Analytics Summit in
+March SANTA CLARA, Calif., March 5, 2024 /PRNewswire/ -- Cloudera, the data company for trusted enterprise AI,
+today announced the next phase of its open data lakehouse on private cloud that revolutionizes on-premises data
+experiences for trusted analytics and AI at scale. With its latest round of enhancements, Cloudera has become the
+only provider to offer an open data lakehouse with Apache Iceberg for public and now private clouds, helping
+customers to unlock the enterprise AI potential of all their data.
 
-Decentralized Physical Infrastructure Networks (DePINs) are one of the fastest growing sectors in the industry due
-to their ability to capture the value of real-world data and resources from a traditional physical infrastructure and
-decentralize their control and ownership for a variety of use cases. Now, with InfStones’ innovative NaaS product,
-designed to empower DePIN development, end users can easily set up their own nodes on a user-friendly platform
-with just a few clicks and enjoy the same professional, hassle-free services offered to large institutions.
+ Cloudera Unveils Next Phase of Open Data Lakehouse Focused on Maximizing Customer Data to Unlock
+Enterprise AIResearch from Cloudera estimates that 53% of organizations in the U.S. currently use Generative AI
+technology andmore than a third (36%) are in the early stages of exploring AI for potential implementation in 2024.
+But implementations have stalled as many enterprises struggle to access or achieve business value from their data
+with AI. Challenges include distributed data infrastructures, governance risks, or security concerns.By delivering
+Apache Iceberg for private clouds, Cloudera is empowering every organization to overcome these issues and
+quickly scale enterprise AI deployments to generate greater value. Apache Iceberg is an open-source, high-
+performance table format for vast analytic tables. When applied to private clouds, the solution enables companies
+to apply AI to the vast amounts of mission-critical data that exists both in the cloud and on premises, ultimately
+allowing them to create new use cases. Cloudera is also now the only company to provide the ability to run a
+completely air-gapped large language model (LLM) deployment, providing customers with enhanced security and
+data privacy, as well as improved performance and reduced operational costs. Cloudera is also rolling out a series
+of additional updates to its platform that will deliver unprecedented business value to its customer base,
+including:Zero downtime upgrades (ZDU) and security enhancements such as Transport Layer Security (TLS) 1.2
+for increased business continuity and minimized interruptions.New Apache Ozone capabilities, such as quotas,
+snapshots, and disaster recovery enhancements that enable vastly greater scalability at lower cost to service the
+voracious data consumption needs of modern workloads.Expanded support for integrations including Python
+3.10, RHEL 9.1, RHEL 8.8 FIPS, SLES 15 SP4, Oracle 8.8, and JDK 17 for increased compatibility and
+flexibility."Cloudera's mission is to empower customers to transform data anywhere into actionable insights by
+enabling it with AI," said Dipto Chakravarty, Chief Product Officer at Cloudera. "By giving them a trusted data
+foundation for analytics, this next phase of cloud-native solutions unlocks endless possibilities for building
 
-Since 2018, InfStones has been renowned for providing enterprise-grade node management services to industry-
-leading institutions such as Binance, CoinList, and BitGo. By vastly lowering the technology barrier for individual
-users to launch their own nodes on other protocols, InfStones’ NaaS product is accelerating the adoption of new
-blockchain platforms and propelling the DePIN revolution.
+                                                                                             Page 2 of 2
+     Cloudera Unveils Next Phase of Open Data Lakehouse Focused on Maximizing Customer Data to Unlock
+                                                Enterprise AI
 
-InfStones’ Node-as-a-Service Product: One-stop dApp for DePIN Node Lifecycle
+innovative AI applications." "In this AI-powered era, we'll continue to see formidable AI applications emerge that
+significantly increase the business value of enterprise data," said Sanjeev Mohan, Principal, SanjMo. "For
+organizations to capitalize on this technological gold rush, data cannot be locked away in company data centers.
+Enterprises need a data management strategy that enables them to transform complex data anywhere into
+actionable insights through a comprehensive, open, and hybrid platform.""The Iceberg community is very big and is
+growing fast. It's being adopted around the world. Cloudera's open data lakehouse with Iceberg means we have an
+open table format with a lot of advanced functionality, which makes it easier to use and maintain our data. The open
+table format is important to us, because it means data can be accessed easily by many users with a variety of
+tools," said Matteo Carucci, Head of Data & Analytics, Eutelsat. "The open table format is a fundamental
+requirement because the company data is the property of the company itself, not a specific vendor. So an open
+table format guarantees that whatever may happen with technology in the future, you have full ownership of your
+data. "Cloudera will be demonstrating its latest series of updates at theGartner Data & Analytics Summit, taking
+place March 11-13, 2024 in Orlando, Florida. Attendees will see firsthand the enhancements to Cloudera's platform
+and speak to Cloudera experts onsite about the company's next phase of cloud- native solutions. Additionally,
+Cloudera's Technical Evangelism Director, Jake Bengston, will be leading a session at the event on March 12 titled,
+"Game-Changing Gen AI: Advancing from Pilot to Production at Enterprise Scale." The session will cover stories of
+seasoned AI leaders from top global enterprises about lessons learned, best practices, and avoidable pitfalls so
+attendees can cut through the hype and deliver production-ready AI for a competitive edge.More information on
+Cloudera's open data lakehouse can be foundhere. To learn more about Cloudera's presence at the upcoming
+Gartner Summit, visit:https://www.cloudera.com/events.html About Cloudera
 
-InfStones’ NaaS product enables end users to join and actively engage with innumerable DePIN communities,
-allowing them to shape their futures and ensure their longevity while earning passive rewards. At the same time,
-
-                                                                                              Page 2 of 3
-    InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
-                     Enterprise-Grade Node Management Services to End Users Node....
-
-DePIN protocols can leverage the expansive market reach of InfStones’ NaaS product to rapidly source node
-operators and increase adoption and engagement on their network, thereby accelerating the buildout of highly
-scalable and decentralized infrastructure-as-a-service platforms.
-
-For many DePIN projects, high upfront costs and complex node management have created significant barriers to
-mass adoption. InfStones’ NaaS product solves this problem by providing end users with an intuitive dApp solution
-similar to other popular Web3 dApps. When users use InfStones’ dApp, their experience is as simple and consistent
-as using Uniswap or Lido. By simply connecting a wallet, users can begin operating a node with just a few clicks,
-reducing time and resource investment to a minimum.
-
-
-
-Behind the easy-to-use interface is InfStones’ industry-leading node management infrastructure, secured with 24/7
-monitoring, disaster recovery, and AI-automated maintenance. InfStones’ robust node infrastructure has an
-impeccable six-year track record and serves as the backbone for over 80 blockchain protocols and some of the
-largest institutions in the industry, guaranteeing their uptime and safeguarding daily operations.
-
-InfStones’ NaaS Product Brings Scaled Adoption to Aethir and Others
-
-Aethir is a transformative cloud computing platform that optimizes the use of enterprise-grade GPUs through a
-decentralized, scalable framework. In Aethir’s recent Node Sale, InfStones was selected as an official NaaS partner
-and has since originated over 35% of the total Checker Nodes sold on the Aethir network, making InfStones one of
-the largest node service providers on Aethir. As one of the first and most successful Node Sales, Aethir sold over
-74,000 Checker Node licenses, attracting a broad user base.
-
-By partnering with InfStones’ Node-as-a-Service product, Aethir has successfully converted over 26,000 of its
-Checker Node license holders into long-term node operators. This has increased mass adoption and stability on its
-network, helping Aethir achieve its vision of building a distributed cloud network and empowering node operators to
-shape the future of Aethir.
-
-Daniel Wang, Aethir Co-founder and CEO, said, "Partnering with InfStones has been crucial to our recent Aethir
-Checker Node success. As our official partner, InfStones surpassed our expectations, deploying over 26,000 of our
-network nodes and rapidly scaling Aethir's adoption, helping us move closer to full decentralization. This is a
-testament to InfStones' service quality, long standing reputation, and broad market access."
-
-In addition to Aethir, other groundbreaking DePIN projects such as CARV and Lumoz have also chosen InfStones
-as their official NaaS provider. In these collaborations, DePIN pioneers at the intersection of gaming, AI, and
- modular computing are trusting InfStones to provide the scalability and security needed in their Web3
-infrastructure.
-
-Delivering Enterprise-grade Node Services to DePIN End Users
-
-InfStones' excellent track record and trust from major institutions highlight the reliability and quality of its enterprise-
-level node services. With the launch of its NaaS product, InfStones now offers the same enterprise-grade services
-for DePIN end-users in a comprehensive one-stop platform, providing a smooth self-service node experience
-without sacrificing reliability.
-
-Dr. Zhenwu Shi, Founder and CEO of InfStones, said, "The launch of our innovative Node-as-a-Service product
-marks an important milestone for us. For the past six years, we have already earned widespread recognition from
-leading blockchain protocols and institutions for securing their network nodes. Now, we are offering DePIN end
-users the same enterprise-grade tools deployed for institutions, allowing users to engage with the DePIN
-community of their choice with a simple, intuitive UI and worry-free service. Our NaaS product will massively
-expand our market reach and further strengthen our ability to partner with protocols to rapidly scale their networks,
-unlocking new possibilities and enriching the Web3 ecosystem."
-
-                                                                                              Page 3 of 3
-    InfStones Launches Node -as-a-Service (NaaS) Product to Jumpstart DePIN Development while Delivering
-                     Enterprise-Grade Node Management Services to End Users Node....
-
-About InfStones
-
-InfStones is an advanced, enterprise-grade Platform as a Service (PaaS) blockchain infrastructure provider trusted
-by the top blockchain companies in the world. InfStones' AI-based infrastructure provides developers worldwide
-with a rugged, powerful node management platform alongside an easy-to-use API. Supporting over 80 blockchains,
-InfStones gives developers all the control they need - reliability, speed, efficiency, security, and scalability - for
-cross-chain DeFi, NFT, GameFi, and decentralized application development. InfStones is trusted by the biggest
-blockchain companies in the world including Binance, CoinList, BitGo, OKX, Chainlink, Polygon, Harmony, and
-KuCoin, among over a hundred other customers. InfStones is dedicated to empowering the evolution of a better
-world through limitless Web3 innovation.
-
-Visit: www.infstones.com
-
-About Aethir
-
-Aethir is revolutionizing DePIN with its advanced, distributed enterprise-grade GPU-based compute infrastructure
-tailored for AI and gaming. Backed by leading Web3 investors like Framework Ventures, Merit Circle, Hashkey,
-Animoca Brands, Sanctor Capital, Infinity Ventures Crypto (IVC), and others, with over $32 M in funds raised for the
-ecosystem, Aethir is paving the way for the future of decentralized computing.
-
-Media Contact: infstones@transformgroup.com
-InfStones   infstones at transformgroup.com
+At Cloudera, we believe data can make what is impossible today, possible tomorrow. We empower people to
+transform data anywhere into trusted enterprise AI so they can reduce costs and risks, increase productivity, and
+accelerate business performance. Our open data lakehouse enables secure data management and portable cloud-
+native data analytics helping organizations manage and analyze data of all types, on any cloud, public or private.
+With as much data under management as the hyperscalers, we're the preferred data partner for the top companies
+in almost every industry. Cloudera has guided the world on the value and future of data, and continues to lead a
+vibrant ecosystem powered by the relentless innovation of the open source community. Learn more at
+Cloudera.com and follow us onLinkedIn andX. Cloudera and associated marks are trademarks or registered
+trademarks of Cloudera, Inc. All other company and product names may be trademarks of their respective owners.
+View original content to download multimedia:https://www.prnewswire.com/news-releases/cloudera-unveils-next-
+phase-of-open-data-lakehouse-focused-on-maximizing-customer-data-to-unlock-enterprise-ai-
+302079388.htmlSOURCE Cloudera, Inc.
 
 
-
-Load-Date: July 22, 2024
+Load-Date: March 5, 2024
 
 
   

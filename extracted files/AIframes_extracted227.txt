@@ -1,189 +1,249 @@
 
 
-                                                                                                         Page 1 of 4
-                 CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
+                                                                               Page 1 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                               APPROPRIATIONS BILL 03.03.24
 
 
 
 
-CISOs and CIOs confront growing data protection challenges in the era of AI
-                              and cloud
-                                                    Business Wire
-                                        July 23, 2024 Tuesday 10:00 AM GMT
+        BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED
+         AGENCIES FISCAL YEAR 2024 APPROPRIATIONS BILL 03.03.24
+                                                States News Service
+                                               March 3, 2024 Sunday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 1540 words
-Dateline: COPENHAGEN, Denmark
+Length: 2914 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
-Keepit , a global provider of a comprehensive cloud backup and recovery platform, today released a survey
-conducted by Foundry, as well as a study based on in-depth interviews conducted by Keepit. Both reveal critical
-gaps in disaster recovery strategies and highlight the pressing need for enhanced data security measures.
 
-In an evolving technological landscape, enterprise IT leaders are grappling with unprecedented challenges in data
-protection and governance, driven by the rapid adoption of cloud applications and generative AI.
+The following information was released by the U. S. Senate Committee on Appropriations:
 
-The CISOs and CIOs interviewed by Keepit for the study: "The great balancing act: Cybersecurity leaders tackle
-rising pressures" spoke to the necessity of rising to the challenge by adopting a mindset of continuous
-improvement. They are building collaborative best practices, partnering to bring in needed expertise, and investing
-in data-centric solutions optimized for security and simplicity.
+Legislation maintains critical investments to ensure America stays at the forefront of cutting-edge research and
+innovation, keep communities safe, and deliver critical investments to boost economic growth; rejects dozens of
+extreme riders
 
-Data protection struggles amid cloud and AI expansion
+Washington, D.C. The Fiscal Year 2024 Commerce, Justice, Science, and Related Agencies (CJS) Appropriations
+Act provides a total of $68.537 billion in discretionary funding.
 
-Enterprise disaster recovery strategies, traditionally designed for on-premises IT infrastructure, are lagging behind
-the surge in cloud application usage and the integration of AI technologies. Foundry's survey: "Can data protection
-keep pace with the shifting landscape?" underscores this trend. The respondents of the survey represent IT
-decision-makers from companies with over 1,000 global employees. While 70% of respondents report that their
-financial applications are covered by data protection strategies, a significant portion of other key systems and
-custom applications remain vulnerable.
+The bill invests in a wide range of critical programs that affect the lives of all Americans. The bill provides $37.52
+billion for the Department of Justice (DOJ) to keep Americans safe in their communities, uphold the rule of law, and
+invest in lifesaving DOJ grant programs. The Department of Commerce receives $10.8 billion to promote and
+support American businesses and exports, spur economic development nationwide, maintain current-generation
+and build next-generation weather satellites that let Americans know about severe weather, create cybersecurity
+standards, promote economic development nationwide, enable sustainable management of ocean resources,
+conduct periodic censuses, and more. To continue promoting American competitiveness through scientific
+discovery, the bill provides $9.06 billion for the National Science Foundation (NSF). The National Aeronautics and
+Space Administration (NASA) is funded at $24.875 billion to explore the solar system, understand climate change,
+promote innovation and sustainability in aeronautics, and protect our planet.
 
-Survey highlights
-    •     Financial systems: 70% are covered by data protection strategies.
-    •     E-commerce and HR Management Systems: 50% are covered.
-    •     CRM and ERP systems: 48% and 42% respectively.
-    •     Critical transaction-based systems, custom applications, and collaboration and productivity tools: Are
-          lagging behind with only between a third and a quarter of systems covered.
+"The bipartisan fiscal year 2024 Commerce, Justice, Science, and Related Agencies (CJS) Appropriations bill will
+help keep our communities and nation secure, further United States leadership in science and innovation, and
+assist in the growth and prosperity of American businesses. As Chair of the CJS Subcommittee, I have worked to
+ensure this bill gives our communities the tools they need to build a safe and prosperous future," said Senator
+Jeanne Shaheen (D-NH), Chair of the Commerce, Justice, Science, and Related Agencies Subcommittee. "These
+resources focus on critically important needs like combatting violent crime and gun violence, supporting survivors of
+domestic and sexual violence, and tackling the nation's substance use disorder epidemic. In addition to physical
+security, the 2024 CJS Appropriations bill addresses economic security across our country. This bill makes critical
 
-"Anything related to finance is important, most people will agree. And it's an obvious place to start when you map
-your critical systems and data. The survey shows that financial systems are by far the most incorporated in data
+                                                                               Page 2 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                               APPROPRIATIONS BILL 03.03.24
 
-                                                                                                          Page 2 of 4
-                CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
+investments that will directly foster economic growth, create good jobs, accelerate exports of American products,
+enhance safety through accurate weather prediction, and promote innovation throughout the economy. This
+legislation also prioritizes many other important policies necessary for America's future success, including
+investments in climate resilience, environmental restoration, and space exploration. I look forward to this bill being
+signed into law."
 
-protection strategies, and when you look at verticals, financial institutions are also a little more mature than others,"
-says Kim Larsen, CISO at Keepit, an industry professional with a background in advising public and private sector
-organizations in cyber security and cyber resilience.
+"This bill protects key funding to keep America at the forefront of innovation and to keep our communities safe,"
+said Senator Patty Murray (D-WA), Chair of the Senate Appropriations Committee. "With the investments we
+deliver, Democrats can keep building on the historic progress we are making to connect communities everywhere in
+America to high-speed internet. This bill will strengthen our supply chains, and it will help us maintain our global
+leadership in science and innovation by protecting critical investments in research and developmentfrom advanced
+manufacturing, AI, clean energy, and more. We continue to support important law enforcement agencies and
+initiatives to keep our families safe. Important to me, we strengthen efforts to prevent violence against women and
+support survivorsand, for the first time ever, provide dedicated funding for the Access to Sexual Assault Nurse
+Exams program I helped establish so that survivors can get the care they need. We protect critical investments to
+support salmon restoration and maintain our fisheries, and we rejected extreme far-right poison pill policies."
 
-Strategic gaps and vulnerabilities
+Key Points and Highlights
 
-The survey reveals that only half of the organizations have incorporated cloud-stored SaaS data into their disaster
-recovery plans. Another 40% plan to address this gap soon. A decision-maker participating in a recent Keepit CISO
-roundtable remarked, "We solved many of these challenges 10 to 15 years ago, but with the move to cloud, it's like
-we're starting from scratch again."
+CHIPS and Science Act: The bill provides $10.6 billion for science and technology programs to implement the
+bipartisan CHIPS and Science Act to help drive U.S. economic competitiveness. The bill invests in scientific
+research to allow the United States to keep pace with the Chinese government and other competitors in fields that
+power our economy, like artificial intelligence, quantum computing, microelectronics, clean energy, and advanced
+communications.
 
-The current state of data protection is also seen as a significant barrier to expanding the use of generative AI
-technologies.
+Climate Research: Despite House Republicans' attempts to eliminate climate research at the National Science
+Foundation and other agencies, the bill maintains investments to better understand the world around us. In
+particular, the bill provides $224 million for climate research at NOAA and $2.2 billion for NASA Earth Science, both
+amounts are equal to the fiscal year 2023 enacted level. The agreement also rejects a bevy of new, extreme anti-
+environmental riders proposed by House Republicans, including those related to environmental justice and offshore
+wind.
 
-Strategic gaps:
-    •   Critical SaaS data applications: 50% of respondents have included cloud-stored data for critical SaaS
-        applications in their disaster recovery plans, and 40% plan to do so.
-    •   AI data protection: Nearly all organizations prioritize AI data protection, with 52% already implementing
-        tools for chatbots and AI platforms and 43% considering them.
+NOAA Weather Satellites: The bill includes $1.4 billion for construction of National Oceanic and Atmospheric
+Administration's (NOAA) weather satellites, which are critical to accurate weather prediction needed to protect life
+and property. This is $86 million above fiscal year 2023. The bill provides resources to maintain the current
+generation of weather and climate satellites and invests in next-generation satellites. One-third of U.S. GDP is
+affected by climate and weatheraffecting farmers trying to protect livestock and crops, cities relying on energy from
+wind turbines and solar panels, and air travelers simply trying to get home safely and on time. In 2023, the United
+States incurred 28 weather and climate disaster events with losses exceeding $1 billion, far more than the previous
+record of 22 in 2020.
 
-"Good data protection is essentially 'data classification plus good recovery capabilities': If you understand your data,
-and can recover uncorrupted versions of it fast, you have a solid foundation to ensure business continuity,
-compliance and recovery. But this is easier said than done: The complexity of implementing new initiatives, such as
-governance over data used by large language models (LLMs), and the need to balance conflicting IT demands,
-pose additional challenges for any industry," adds Kim Larsen, CISO at Keepit.
+Department of Commerce: The bill provides $10.8 billion for the Department of Commerce. This includes programs
+reauthorized or newly created by the CHIPS and Science Act, including: $41 million for the Economic Development
+Administration (EDA) Regional Technology and Innovation Hub Program; $175 million for the National Institute of
+Standards and Technology (NIST) Manufacturing Extension Program to improve the competitiveness of domestic
+manufacturers and strengthen domestic supply chains; and $37 million for the Manufacturing USA program. The bill
+also provides up to $10 million for NIST to establish a U.S. Artificial Intelligence Safety Institute. Additionally, the
+bill provides $25 million for EDA's Good Jobs Challenge initiative and $5 million for EDA's Assistance to Indigenous
+Communities Programa new grant program focused exclusively on the economic development needs of Tribal
+governments and indigenous communities. The bill also includes a provision to allow the National
+Telecommunications and Information Administration (NTIA) to access additional funding to implement broadband
+programs under the Infrastructure Investment and Jobs Act, assisting grantees in all 50 states, the District of
+Columbia, Puerto Rico, and the territories. These programs are critical to connecting every American to high-speed,
 
-Compliance and future-proofing
+                                                                               Page 3 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                               APPROPRIATIONS BILL 03.03.24
 
-Compliance is a top concern for 73% of survey respondents heading into 2024, with data governance (53%) and
-enterprise backup and recovery (45%) also ranking high. Regulatory scrutiny is increasing globally, with mandates
-from agencies like the SEC in the US and the upcoming Digital Operational Resiliency Act (DORA) in the EU.
+affordable broadband, and they include the Digital Equity Act Programs, the Middle Mile Program, and the Tribal
+Connectivity Program.
 
-Compliance challenges:
-    •   Regulatory mandates: New cybersecurity resilience requirements.
-    •   Cybersecurity risks: Continued threats, notably ransomware.
+Addressing Violence Against Women: The bill contains $713 million, the highest funding level ever, for grants
+provided by the Office on Violence Against Women (OVW). This represents an increase of $13 million above fiscal
+year 2023 for these lifesaving programs. Funding is provided for multiple competitive and formula grant programs
+that support training for police officers and prosecutors, state domestic violence and sexual assault coalitions, rape
+prevention programs, lethality assessment and homicide reduction initiatives, domestic violence hotlines, women's
+shelters, transitional housing, and rural support services.
 
-"Cyber strategy must be perfectly aligned with the business to effectively support it. The more global an
-organization becomes, the more difficult this is - to align access, and comply with regulations. This is backed up in
-our study, where CISOs emphasized the need for a unified risk management strategy that aligns with regional
-regulatory requirements," said Kim Larsen.
+Continued funding is provided for several OVW programs authorized in the Violence Against Women Act (VAWA)
+Reauthorization Act of 2022, including a restorative justice program and the Abby Honold Act. In addition, $10
+million is provided for a new grant program, established by Senator Murray, to increase access to sexual assault
+nurse exams, which will support grants for regional Sexual Assault Nurse Examiner (SANE) training, salaries for
+SANEs and Sexual Assault Forensic Examiners (SAFEs), and technical assistance and resources to increase
+access to SANEs and SAFEs. The bill also includes $10 million to incentivize states to adopt laws that protect the
+rights of sexual assault survivors.
 
-Organizational maturity and risk management
+Additionally, the bill provides $51.5 million to support the Sexual Assault Kit Initiative, which is administered by the
+Bureau of Justice Assistance. This program supports multi-disciplinary community response teams tasked with
+developing and implementing comprehensive reform regarding sexual assault, including reducing the backlog of
+rape kits at law enforcement agencies.
 
-Keepit's interviews with over 30 CISOs and CIOs reveal the importance of organizational maturity in handling data
-security. The variability in CISOs' backgrounds and responsibilities was cited as a reason for the slow
-implementation of data-focused innovations.
+Supporting Crime Victims: The Crime Victims Fund (CVF) provides critical support through direct assistance and
+programs offered by victim service providers to survivors of domestic violence, sexual assault, child abuse, human
+trafficking, and other violent crimes. The bill releases $1.35 billion from the CVF, providing $153 million above the
+President's budget request. Of this amount, $67.65 million is designated for efforts to assist Tribal victims.
 
-Key findings:
-    •   Cloud flexibility: 80% of organizations adopt a "cloud smart" approach, introducing new security and
-        compliance challenges.
-    •   Regulatory and expertise challenges: The rise of GenAI and the need for specialized knowledge in AI and
-        cybersecurity.
+Strengthening Police-Community Relations: The bill provides $214.5 million for State and Local Law Enforcement
+Assistance and Community Oriented Policing Services (COPS) Office grant programs related to police-community
+relations. Dedicated funding of $25 million is provided for the COPS Community Policing Development program, as
+well as $20 million for the newly authorized Law Enforcement Officer De-escalation Act. The bill also provides $10
+million to train law enforcement on appropriately responding to situations when individuals are mentally ill or
+disabled, and it provides $50 million for the Community Violence Intervention and Prevention Initiative.
 
-                                                                                                        Page 3 of 4
-               CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
+Supporting State, Local, Tribal, and Territorial Law Enforcement: The Byrne Justice Assistance Grants (JAG)
+program is funded at $924 million. $345 million is released from Byrne JAG core funding to states and territories.
+The COPS Hiring Program is funded at $256 million. This funding will place over 2,000 more police officers on the
+streets of our communities. Funding is also included for programs that support officer mental health and wellness
+($10 million), the purchase of body-worn cameras ($32 million) and bulletproof vests ($30 million), and rural law
+enforcement needs ($7 million).
 
-"One thing stands out: Organizations have very different levels of maturity. A lot of the governance activities are so
-obvious, you would think everyone is doing them. But they aren't. Classic difficulties include managing multiple
-security vendors, leading to gaps in protection. Another is circumstances - one CISO told us how he had
-experienced five major cyber events in the previous year, prompting a complete overhaul of their cyber response
-plan," says Kim Larsen, CISO at Keepit.
+Responding to Substance Use Disorder in Our Communities: The bill provides our communities and first
+responders with a total of $579.5 million in dedicated grant program funding to respond to substance use disorder,
+including opioids, and to crack down on drug trafficking. The bulk of this funding is for Comprehensive Addiction
+and Recovery Act (CARA) grants, which receive $420 million to fund specialized court docket programs like drug,
+mental health, and veteran treatment courts and substance abuse treatment programs administered by state and
+local correctional facilities. The bill also funds the COPS anti-heroin task force program at $35 million and the
+COPS anti-methamphetamine task force program at $16 million.
 
-Strategies for success
+Federal Law Enforcement: The salaries and expenses accounts of the law enforcement and prosecutorial agencies
+of the DOJ's Federal Bureau of Investigation (FBI), U.S. Marshals Service (USMS), Drug Enforcement
+Administration (DEA), Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), and U.S. Attorneys total $19.1
+billion. The Federal Bureau of Prisons (BOP) is funded at $8.4 billion. Giving law enforcement the tools they need to
 
-CISOs and CIOs are adopting continuous improvement mindsets, building collaborative best practices, and
-investing in data-centric solutions. Establishing effective data governance frameworks and engaging the board of
-directors are seen as crucial steps forward.
+                                                                               Page 4 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                               APPROPRIATIONS BILL 03.03.24
 
-Strategic recommendations:
-    •   Align with business objectives: Frame cybersecurity in the context of business goals.
-    •   Translate technical concepts: Communicate in terms stakeholders understand.
-    •   Demonstrate ROI: Highlight cost savings, risk reductions, and business benefits.
-    •   Board engagement: Seek feedback and support from the board for cybersecurity initiatives.
+focus on combatting violent crime and gun violence, enhancing cyber security, disrupting international narcotics
+trafficking networks, and administering a fair and equitable justice system is critical to keeping our communities safe
+and our nation secure.
 
-"The conclusion is that data protection remains a cornerstone of organizational resilience in the face of growing
-technological advancements. As CISOs and CIOs navigate these challenges, their ability to enable and protect
-data-driven innovation will define their success. Robust data security and backup strategies are essential for
-balancing innovation and protection, ensuring that organizations can thrive in the digital age. Effective
-communication of cyber risks to stakeholders and demonstrating the ROI of cybersecurity initiatives are critical,"
-ends Kim Larsen.
+Economic Development: The bill provides $468 million for community economic development through the Economic
+Development Administration (EDA). This includes $100 million for Public Works grants, $25 million for the Good
+Jobs Challenge Program, $50 million for the Regional Innovation Program, and $79.5 million to support
+communities dealing with power plant closures. It also includes $41 million for the Regional Technology and
+Innovation Hub Program, which was authorized for the first time in the CHIPS and Science Act, and $5 million for a
+new Assistance to Indigenous Communities program to address the needs of indigenous communities that have
+historically suffered from a lack of investment in core economic development needs. EDA awards infrastructure and
+planning grants to all 50 States. The bill also provides $68.25 million for the Minority Business Development Agency
+to help minority-owned businesses grow and succeed and to implement the new programs authorized in the
+Minority Business Development Agency Act, which was passed as part of the Infrastructure Investment and Jobs
+Act.
 
-About Foundry, and IDG, Inc. Company
+Trade: The bill provides $623 million for the International Trade Administration (ITA). Over the past three years, ITA
+has facilitated $174 billion in U.S. exports and foreign investment, supporting over 625,000 American jobs. It
+provides up to $3.5 million for ITA to implement the "Visit America Act," which was signed into law last year, to
+support the domestic travel and tourism industry. The bill also provides $191 million for the Bureau of Industry and
+Security (BIS), which will support the BIS's aggressive enforcement of Russian and Belarussian export controls and
+other BIS efforts to counter Russia's war of aggression against Ukraine. It will also support stringent export control
+measures on high-end technologies with end users in the People's Republic of China.
 
-Foundry has played a key role in every major milestone, announcement, and development in modern technology
-since 1964. We engage and activate the world's most influential tech buyers and early adopters via the award-
-winning journalism and trusted media brands they've turned to for decades. Our integrated ecosystem of owned
-and operated editorial sites, awards, events, and tech communities is engineered to enable global audience
-activation through innovative marketing campaigns. Backed by robust audience insights and data from across our
-network, Foundry sets the standard for delivering business results to help companies grow.
+National Institute of Standards and Technology: The bill invests a total of $1.46 billion for the National Institute of
+Standards and Technology (NIST). Funding for NIST measurement labs and research is $1.1 billion to spur
+research advances in cutting-edge fields like carbon dioxide removal, artificial intelligence, quantum information
+science, and cybersecurity. The bill also provides up to $10 million for NIST to establish a U.S. Artificial
+Intelligence Safety Institute and to implement NIST's responsibilities under the landmark Artificial Intelligence
+Executive Order released last year. NIST will develop standards, tools, and tests to help ensure AI systems operate
+safely. The bill also includes $175 million for the Manufacturing Extension Partnership (MEP) program that
+improves the competitiveness of domestic manufacturers and strengthens domestic supply chains. For every dollar
+of federal investment, MEP generates $26.20 in new sales growth for manufacturers and $34.50 in new investment.
+This translates into $4.9 billion in new sales annually.
 
-With 38 offices in markets around the globe, Foundry is a wholly owned subsidiary of International Data Group, Inc .
-(IDG), the world's leading tech media, data, research and marketing services company.
+National Aeronautics and Space Administration (NASA): To continue American Leadership in space, the bill
+provides $24.9 billion for NASA. The bill includes significant resources to enable the goal of returning Americans to
+the Moon, providing $7.67 billion for Exploration, an increase of nearly $200 million above fiscal year 2023. The bill
+supports progress on the Artemis Campaign Development, including funding for NASA to meet all contractual
+obligations for both Human Landing Systems in fiscal year 2024.
 
-To learn more about Foundry, visit foundryco.com .
+Within NASA Science, the Near-Earth Object Surveyor mission to find potentially dangerous asteroids and comets
+receives $210 million, consistent with the President's budget request and $120 million above fiscal year 2023. The
+bill also provides $1.53 billion for Astrophysics, a $20 million increase above fiscal year 2023 to fully support the
+James Webb Space Telescope. Further, the bill includes $805 million for Heliophysics, which is $54 million above
+the President's budget request level.
 
-About CSO:
+Aeronautics is supported at $935 million to ensure continued U.S. leadership in aviation and to invest in sustainable
+aviation technologies. Key NASA Science, Technology, Engineering, and Mathematics (STEM) Engagement total
+$143 million. This includes Space Grant ($58 million), the Experimental Program to Stimulate Competitive
+Technology ($26 million), the Minority University Research and Education Project ($45.5 million).
 
-CSO serves enterprise security decision-makers and users with the critical information they need to stay ahead of
-evolving threats and defend against criminal cyberattacks. With incisive content that addresses all security
-disciplines, from risk management to network defense to fraud and data loss prevention, CSO offers unparalleled
-depth and insight to support key decisions and investments for IT security professionals. www.csoonline.com
+                                                                               Page 5 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                               APPROPRIATIONS BILL 03.03.24
 
-About Keepit
+Legal Services Corporation (LSC): The bill provides $560 million for LSCfully protecting funding provided in fiscal
+year 2023. The bill also includes a provision to permit LSC recipients to operate with boards of directors that have
+as few as 33 percent attorneys without requiring appointment by bar associations, greatly improving recipients'
+ability to have fiscal experts and community representatives on their governing bodies. LSC is the largest funder of
+civil legal aid in the country, and its grantees serve millions of low-income Americans every year, helping them with
+family law, domestic violence, housing, fraud, and other legal problems.
 
-Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-
-independent cloud safeguards essential business applications , boosts cyber resilience, and future-proofs data
-protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local
-regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business
+Defeating Poison Pill Riders: Democrats defeated more than 50 extreme partisan riders, which ranged from
+restricting women's access to reproductive health to impeding scientific climate crisis research to infringing on
+Americans' civil rights.
 
-                                                                                                      Page 4 of 4
-              CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
-
-continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers
-worldwide, over 10,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
-
-For more information visit www.keepit.com or follow Keepit on Linkedin .
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240723567792/en/
-
-
-CONTACT: RedIron PR for Keepit
-Kari Ritacco
-
-kari@redironpr.com
-
-
-http://www.businesswire.com
+###
 
 
-Load-Date: July 23, 2024
+Load-Date: March 30, 2024
 
 
   

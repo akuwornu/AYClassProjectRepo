@@ -1,179 +1,78 @@
 
 
-                                                                                                      Page 1 of 4
-                        SPEECH GIVEN BY MIRJANA SPOLJARIC, PRESIDENT OF THE ICRC
+                                                                                                       Page 1 of 2
+                             Forecasters use AI to broaden reach of extreme weather warnings
 
 
 
 
-      SPEECH GIVEN BY MIRJANA SPOLJARIC, PRESIDENT OF THE ICRC
-                                                States News Service
-                                              August 12, 2024 Monday
+         Forecasters use AI to broaden reach of extreme weather warnings
+                                                         Greenwire
+                                                  January 30, 2024 Tuesday
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Politico LLC All Rights Reserved
 
-Length: 1317 words
-Byline: States News Service
-Dateline: GENEVA, Switzerland
+Section: TODAY'S STORIES; Vol. 10; No. 9
+Length: 820 words
 
 Body
 
 
-The following information was released by the International Committee of the Red Cross:
+By Rob Hotakainen The National Weather Service plans to use artificial intelligence to translate its weather
+warnings and alerts into 10 languages in the next few years. "I'm really tired of people not getting the information,
+losing their lives, because they don't speak the language - let's fix that," said NWS Director Ken Graham,
+highlighting the plan Monday at a town hall during the annual meeting of the American Meteorological Society in
+Baltimore. The issue prompted widespread concern when Hurricane Ida ravaged New York City and the
+northeastern United States on Sept. 1, 2021, causing at least 91 deaths in nine states, including 18 people who
+died in the city from flash flooding.
 
-Media Briefing GC 75th anniversary
+Local officials told NWS that most of the deaths took place in neighborhoods in Queens and Brooklyn, where 40 to
+80 percent of all households speak languages other than English or Spanish. Some members of Congress
+registered similar complaints when Hurricane Ian devastated Florida in September of 2022, saying too many non-
+English-speaking citizens were caught off guard. Graham, who took over as the NWS director in June 2022, said
+the weather service is already conducting experiments with AI to broaden its reach. For starters, NWS is using AI
+hardware to translate its warnings and alerts into Spanish and simplified Chinese. The agency also has plans in the
+works to add Samoan and Vietnamese next. "We're going to take the top 10 languages spoken in this country, and
+we're going to have them translated over the next three to five years," he said. NOAA Administrator Rick Spinrad,
+who oversees NWS, said the work is part of the agency's "equity lens." "In a country like the United States, we need
+to make sure we're getting out warnings, watches, supportive information in a variety of languages," he told the
+audience. While NWS did not specify all of the new languages that will be translated, New York Attorney General
+Letitia James (D) offered some suggestions in a letter she sent to NWS in 2022. She said the list should include
+languages commonly spoken by New Yorkers with limited English proficiency, including both traditional and
+simplified Chinese, Russian, French Creole, Bengali, and Korean. In a December report by helping forecasters
+provide faster and more accurate information to give the public more advance warning of extreme weather. As part
+of the first phase of its work, NWS in October launched an experimental language-translation website and said it
+would accept public comments on the project until Sept. 29, 2024. When NWS first rolled out the plan, Graham said
+the language-translation project "will improve our service equity to traditionally underserved and vulnerable
+populations that have limited English proficiency." NWS said it had provided manual translations of weather
+forecasts and warnings in Spanish for the past 30 years, but it's now hoping to do the work more quickly with AI. To
+do the translations, NWS is working with Lilt, a machine-learning company that specializes in language models.
+NWS scientists have trained the Lilt model in weather terminology. "We've been training the Spanish model for
+three years now, and it's remarkable how quickly Lilt learned NWS and weather terminology and how few
 
-The Geneva Conventions are the foundational treaties of international humanitarian law and a remarkable success
-in many ways.
+                                                                                                         Page 2 of 2
+                         Forecasters use AI to broaden reach of extreme weather warnings
 
-That's the opening you would expect from me 75 years after their adoption on August 12, 1949.
-
-However, I want to propose a different headline for this anniversary:
-
-International humanitarian law is under strain. Disregarded. Undermined to justify violence.
-
-More than ever, the world must recommit to this robust, protective framework for armed conflict one that follows the
-premise of protecting life instead of justifying death.
-
-CURRENT STATE OF IHL
-
-The Geneva Conventions are not only unique and universal, but they have also shown impressive durability.
-
-They prohibit torture and sexual violence.
-
-They require humane treatment of detainees.
-
-They mandate that missing persons are searched for.
-
-And fundamentally: They reflect a global consensus that every war has limits.
-
-All States have agreed to these vital, fundamental rules. The Fourth Convention, which provides protections for
-civilians badly needed after the Second World War was described as a miracle at that time.
-
-Yet, despite universal backing, noncompliance remains a serious problem. Even when parties claim to respect IHL,
-overly permissive interpretations hinder its effectiveness.
-
-                                                                                                          Page 2 of 4
-                      SPEECH GIVEN BY MIRJANA SPOLJARIC, PRESIDENT OF THE ICRC
-
-And that's why my first call today is for all states to make adherence to the Geneva Conventions a political priority.
-Everywhere.
-
-25 years ago, former ICRC President Cornelio Sommaruga spoke of 20 active conflicts. Today, there are more than
-120 conflicts recorded by my organization.
-
-While governments and media focus on destruction in Ukraine and Gaza, armed conflicts elsewhere take a similarly
-shocking toll. Violence in Ethiopia has claimed hundreds of thousands of lives. Fighting has displaced 8 million in
-Sudan and 6 million in the Democratic Republic of the Congo. Protracted conflicts in Mali, the Central African
-Republic, Colombia, Mozambique, Myanmar, Syria, and Yemen all take a grinding human cost.
-
-EROSION OF PROTECTIVE MEASURES
-
-Over decades, expedient interpretations of IHL have undermined its protective force. Some States and armed
-groups have sought an increasingly expansive view of what is permissible:
-
-Around the world's war zones, the sanctity of hospitals is disregarded. Ambulances are attacked. Schools are
-stripped of their civilian character for allegedly benefiting adversaries. Delivery of humanitarian assistance is
-impeded due to concerns about misuse of relief items. Humanitarian workers are killed in horrifying numbers
-including my ICRC and Red Cross Red Crescent Movement colleagues.
-
-But if you ask me where I see one of the biggest challenges today, I will tell you this:
-
-A human life is a human life. What happens if we put humanity on a scale? Should my life be worth more than
-yours?
-
-The dehumanization of both enemy fighters and civilian populations is a path to ruin and disaster. We know from
-history that such mistakes haunt us and impede progress for decades and centuries.
-
-If parties to conflict are allowed to devalue human lives based on nationality, race, religion, or political beliefs, the
-foundation of IHL our common humanity collapses.
-
-IHL requires that all civilians and other persons affected by armed conflicts are equally protected.
-
-Logically, the deployment of new technologies has the potential to worsen these dangerous tendencies. If
-algorithms are trained on lax targeting rules, civilian casualties will increase. Without new legal limits, autonomous
-weapons might operate with little restraint, and make life-and-death decisions without human oversight.
-
-CALL TO ACTION: IMPLEMENT AND STRENGTHEN IHL
-
-It is true: I sound pessimistic, but: I also never lose hope.
-
-IHL remains a uniquely powerful tool for mitigating the human cost of armed conflict. There is no other universal set
-of norms compelling restraint by all sides.
-
-The Geneva Conventions save lives. There are as valid today as they were 75 years ago. But it takes political will
-for full implementation. This is why I'm proposing a four-point pathway to reduce suffering:
-
-First, parties to armed conflict must make a renewed commitment to the Geneva Conventions, adhering to the letter
-and the spirit of the law.
-
-Next, I call on states to ratify and uphold IHL treaties, including the additional protocols to the Geneva Conventions.
-
-Third, we must see tangible humanitarian improvements in places affected by armed conflict.
-
-                                                                                                           Page 3 of 4
-                     SPEECH GIVEN BY MIRJANA SPOLJARIC, PRESIDENT OF THE ICRC
-
-And fourth, states must affirm that the use of new technologies of warfare AI, cyber operations, information
-operations strictly adheres to IHL. More specifically, it is urgent that states develop a normative framework that
-imposes certain limits on autonomous weapon systems.
-
-Deliberate violations are far too common; and too little is done to prevent their recurrence and hold perpetrators to
-account. States must do more to train and discipline their own personnel, to influence others to comply, to empower
-their judiciary to prosecute and punish war crimes, and to cooperate with international institutions to prevent
-impunity.
-
-Armed groups must take similar measures. Prevention, training, and anchoring IHL into the legal, social, religious,
-and ethical domestic landscape has proven to work but it must be done more widely.
-
-If parties continue to exert downward pressure on the protective requirements of IHL, and if they content
-themselves to skirt the limits of compliance, IHL will be turned on its head: humanitarian law will become a
-justification for violence rather than a shield for humanity.
-
-Should this trend continue, IHL's legitimacy will not survive in the eyes of governments, non-state armed groups,
-and the people it is meant to protect.
-
-REVERSING THE TREND
-
-Ladies and gentlemen,
-
-Tides turn. No country is immune from attack, and no soldier or civilian will ever be immune to violence inflicted by
-enemy forces.
-
-States must urgently halt the current downward spiral. The risk of spillover and escalation is particularly dangerous
-in the highly globalized world of today. The Middle East sits on a precipice that already sees the misery Palestinians
-and Israelis have endured radiate outward. In the Russia-Ukraine international armed conflict, negotiations must be
-advanced to reduce the risk of compounding and increasingly complex ripple effects.
-
-Unrelenting tensions among powerful states have spurred preparations for large-scale military operations. The
-narrative of international relations is moving from multilateralism and cooperation agreements to defence spending
-and conflict preparedness.
-
-You're either with us or against us. Such an approach to foreign relations lacks emphasis on the devastating human
-cost and economic setback a conflict among the most powerful militaries can cause.
-
-It's with all this in mind that I ask myself a basic but vital question: "Where are the peacemakers?" Where are the
-men and women leading the negotiations that will stop the killing and bring wars to an end?
-
-Why do I invest in urging world leaders to prioritize practical steps towards the implementation of IHL?
-
-Because where parties to conflict persistently refuse to negotiate, neutral and independent humanitarian actors like
-the ICRC are squeezed beyond limits. On the other side, upholding respect for IHL, for example by granting
-humanitarian access, facilitating evacuations, or releasing detainees, offers essential first steps towards de-
-escalation and ceasefire agreements.
-
-In a divided world, IHL can provide a pathway to peace. The Geneva Conventions embody universal values. They
-serve as a common denominator of humanity. They are essential to preventing the worst effects of war, and
-ensuring that everyone, even an enemy, is treated as a human being. Any other path is a betrayal of the
-commitment taken following the lessons learnt from the Second World War.
+corrections to the translations have been needed," said Monica Bozeman, automated language translation lead with
+NWS. "Manually translating our forecasts is labor intensive and not sustainable." Bozeman said that by using the AI
+model, Spanish forecasters were able to reduce the time needed to translate hurricane warnings and alerts from
+one hour to less than 10 minutes. "We look forward to receiving community feedback to ensure that the translations
+are culturally meaningful and understandable," she said. Extreme weather is a big topic for members of the
+American Meteorological Society, who are in Baltimore this week for their 104th annual meeting. At the town hall
+Monday, Steven Thur, NOAA's assistant administrator for research, said that 90 percent of the more than 3,100
+counties in the United States had experienced a weather or climate disaster in the last 10 years. "Our changing
+climate is going to be the largest economic, environmental and social issue in the next half-century," he said. "It is a
+societal challenge that will touch all of the others, where we live, the kinds of jobs available to us, whether the
+infrastructure we have today will serve our needs in the future." NWS said the House Appropriations Committee
+backed the language-translation project as part of the agency's budget for fiscal 2023. Spinrad said NOAA is also
+moving forward on a wide range of other climate-related projects after receiving $6 billion in new funding under the
+bipartisan infrastructure law and the Inflation Reduction Act. "Those are new monies," he said, adding: "When I
+started in the federal government, I was told there's no such thing as new money."
 
 
-Load-Date: August 13, 2024
-
-                                                                             Page 4 of 4
-                  SPEECH GIVEN BY MIRJANA SPOLJARIC, PRESIDENT OF THE ICRC
+Load-Date: February 27, 2024
 
 
-
+  

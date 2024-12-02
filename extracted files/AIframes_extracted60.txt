@@ -1,484 +1,728 @@
 
 
-                                                                                                       Page 1 of 9
-                Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+                                                                                 Page 1 of 12
+             TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
 
 
 
 
-        Reborn Coffee Provides Second Quarter 2024 Corporate Update and
-                                Financial Results
-                                                         GlobeNewswire
-                                             August 20, 2024 Tuesday 5:31 AM PT
+    TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE
+                           OPERATIONS
+                                                      US Fed News
+                                         January 17, 2024 Wednesday 12:31 PM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
 
 
 
-Section: EARNINGS RELEASES AND OPERATING RESULTS
-Length: 2909 words
+Length: 2684 words
 
 Body
 
-BREA, Calif., Aug. 20, 2024 (GLOBE NEWSWIRE) -- Reborn Coffee Inc. (Nasdaq: REBN), (“Reborn”, or the
-“Company”), a leading specialty coffee retailer in the US, has reported its financial and operational results for the
-second quarter ended June 30, 2024.
 
-Key Financial and Operational Highlights
-    •     Six months ending June 30, 2024 revenue increased 11.54% to $2.9 million.
-    •     Q2'24 company-operated store gross margins improved to 72.9% compared to 65.3% for the same period
-          in 2023.
-    •     Ended Q2'24 with 11 open locations, with 1 location in development.
-    •     Q2'24 wholesale and online sales grew 633% to $0.2 million from $24,320 in Q2’23.
+WRIGHT-PATTERSON AFB, Ohio, Jan. 17 -- The U.S. Air Force Materiel Command issued the following press
+release:
 
-Q2 2024 and Subsequent Events
-    •     Strategic joint venture with China's AI company Penglai Data Store to Lead and develop master franchises
-          in China, Hong Kong and Macao.
-    •     Signed Memorandum of Understanding (“MOU”) to acquire Bbang Ssaem Bakery, one of Korea's most
-          iconic bakery brands to upgrade footprint into the coffee and bakery sector, enhance offerings and solidify
-          position as a premier coffee & bakery franchise in the US and South Korea.
-    •     Closed a master licensing deal that will facilitate Reborn Coffee's dynamic entry into the vibrant United
-          Arab Emirates (“UAE”) market, with its first flagship location set to open in Dubai.
-    •     Launched on Amazon, expanding omni-channel strategy for e-commerce growth, aiming to drive
-          substantial revenue growth and capture a wider online customer base.
+ROBINS AIR FORCE BASE, Ga. --
 
-                                                                                                        Page 2 of 9
-              Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+When most people think of the Air Force, airplanes and jets first come to mind. However, there is another type of
+aircraft that is very important to protecting and serving our nation - they're helicopters. And Robins Air Force Base,
+Georgia, is home to the Air Force Life Cycle Management Center's Helicopter System Program Office.
 
-    •   Closed a Master License Agreement (“MLA”) with Shenyang Yongsheng Seven Stars Tourism
-        Development Co. that will establish Reborn Coffee premier locations in Shenyang, the capital of Liaoning
-        Province. The Shenyang flagship store will, with its all-encompassing brand center, lays the foundation for
-        a broader expansion across China.
-    •   Closed a Master License Agreement (“MLA”) with IAID Co., Ltd., a visionary architectural and interior
-        design consulting firm, and unveiled a major global expansion for premium brand growth in China and
-        southeast Asia, including in-depth plan for opening first flagship store in the Historic Art Museum Building
-        in Guangzhou, China.
-    •   Signed a Letter of Intent (“LOI”) to acquire a 55% majority stake in Derin Lezzetler, a leading artisan snack
-        and frozen bakery producer based in Istanbul, Turkey, a strategic move in Reborn Coffee's expansion into
-        the health-conscious food market and its plans to further penetrate the US, Europe, Middle East, and Asia
-        Pacific regions.
+Dale County, Alabama - Team Robins' Chad Langston, Materiel Leader of the Rotary Wing Branch, observes TH-
+1H helicopter pilot Capt. Daniel America to understand how crews utilize aircraft systems and how they can be
+improved during a flight above Fort Novosel, Alabama, May 31, 2023. Training of all United States Air Force and
+ally helicopter pilots and air crew takes place at the U.S. Army Aviation Center of Excellence at Fort Novosel. (U.S.
+Air Force photo by Lt. Col. Esther Anderson)
 
-Management Commentary
+Photo Details
 
-"Despite challenges in the food and beverage markets, including rising input costs, heightened consumer price
-sensitivity, and increased capital costs, Reborn Coffee has successfully optimized operating expenses while
-maintaining a strong Average Unit Volume (“AUV”) comparable to previous periods,” said Jay Kim, Chief Executive
-Officer of Reborn.
+/
 
-“During the second quarter, we were highly focused on initiatives to diversify and expand our global operations as
-we continue to grow revenues. New global partnerships in Asia, Eastern Europe, and the Middle East have
-significantly expanded our global footprint and diversified our operations. In the US, our growing ecommerce
-presence fueled an impressive 633% revenue growth in our wholesale and online segment, underscoring our
-commitment to innovation and strategic expansion across all markets.
+Download Hi-Res
 
-"At our US company operated retail locations, we continued to focus on driving sales and enhancing gross profit
-has yielded impressive results. While we made the strategic decision to close underperforming stores, our
-introduction of innovative new products and targeted marketing initiatives have significantly boosted performance.
-As a result, we achieved a 760 basis point improvement in year-over-year store margins in the second quarter,
-reaching an impressive 72.9%.
+$(document).ready(function () {
 
-“To expand our brand in Asia, we most recently announced an MLA with Shenyang Yongsheng Seven Stars
-Tourism Development Co. that will establish Reborn Coffee premier locations in Shenyang, the capital of Liaoning
-Province. The Shenyang flagship store will, with its all-encompassing brand center, lays the foundation for a
-broader expansion across China, reinforcing Reborn Coffee's position in one of the world's fastest-growing coffee
-markets.
+let isDesktopInit = false;
 
-“We also announced a strategic partnership and joint venture with a prominent China AI Database Company -
-Penglai Data Store (Shenzhen), led by CEO Alex Guo, which develops the high performance AI database software
-- HetuKV optimizing the AI learning and training process for businesses. This collaboration signifies the official
-launch of Reborn China, an innovative venture poised to transform the coffee industry in China by incorporating
-advanced AI technology into every new franchise in the region. Reborn China will be responsible for managing the
-recently acquired master license agreement in Guangzhou and will also oversee all future master region licenses
-across China.
+let detailSize = "full";
 
-“During the quarter we closed an MLA in partnership with Reborn UAE, led by CEO Mahmood Arjomand, will
-facilitate our dynamic entry into the vibrant UAE market. Under this agreement, we will collaborate to establish
-Reborn Coffee outlets, a distribution center for the Middle East, and roasting and warehouse facilities. The aim is to
-establish flagship stores within one year, with Jumeirah, Dubai, as the first location. Additionally, the plan includes
-opening 20 more stores across the UAE to solidify our presence in the region.
+let displayhgt = "95vh";
 
-“We also worked to add capabilities in the food industry with an MOU to acquire Bbang Ssaem Bakery, one of
-Korea's most iconic bakery brands. This strategic move will upgrade our footprint into the coffee and bakery sector,
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
 
-                                                                                                         Page 3 of 9
-              Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+                                                                                 Page 2 of 12
+             TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
 
-enhancing offerings and solidifying our position as a premier coffee and bakery franchise. Additionally, the strong
-EBITDA generated by Bbang Ssaem Bakery is expected to positively impact Reborn Coffee's financial health,
-contributing to increased profitability and stability. Additionally, we signed an LOI to acquire a 55% majority stake in
-Derin Lezzetler, a leading artisan snack and frozen bakery producer based in Istanbul, Turkey to expand into the
-health-conscious food market. The company has developed a robust distribution network that includes globally
-recognized brands such as Starbucks, Caffe Nero, Gate Plus, Costa Coffee, Migros, Shell, Espressolab, and Coffy,
-making its products available worldwide. The investment will enable us to leverage Derin Lezzetler's established
-relationships and expand its footprint in the global market and the US.
+buttons: ['share'],
 
-“Solidifying our presence in the ecommerce space, we launched on Amazon, aiming to drive substantial revenue
-growth and capture a wider online customer base. By launching on Amazon, we can access millions of potential
-customers, utilize advanced marketing tools to enhance brand presence and drive traffic, ensure prompt and
-reliable delivery through Fulfillment by Amazon (FBA), leverage data analytics to inform marketing strategies and
-product development, and enhance our OMNI-channel strategy by integrating our online and offline presence to
-provide a seamless customer experience.
+caption: function (instance, item) {
 
-“Looking ahead, we continue to focus on operational execution at our existing retail locations and online. We are
-executing on strategic plans for new company-owned retail locations in Southern California and new flagships in
-states such as Texas, as well as global locations including South Korea, Austria, Dubai and China with our
-partners. Taken together, we continue to believe our existing retail locations, worldwide expansion strategy, and
-acquisitions and investments, will empower us to continue our momentum and build long term shareholder value,”
-concluded Kim.
+var caption = '';
 
-Anticipated Milestones
-    •   Open 4 flagship Reborn Café locations in the U.S., targeting cities such as Miami, San Diego, Houston,
-        and Kansas City.
-    •   Open up to 20 company-owned retail locations.
-    •   Open up to 20 Franchised locations nationwide.
-    •   Open 10+ overseas locations outside the U.S., targeting countries such as South Korea, Malaysia, Dubai,
-        China, Singapore, Thailand, and the UK.
-    •   Open First Pet Friendly Indoor Café “Reborn N Pet Social” in city of Pasadena, California.
-    •   Joint R&D projects with coffee farms in locations such as Hawaii, Colombia, Ethiopia, Guatemala, and
-        Brazil.
-    •   Expand B2B marketing to wholesale clubs and other major outlets and expand ecommerce marketing with
-        online initiatives by launching its own Amazon marketplace.
-    •   Launch of Reborn Mobile App services.
-    •   Launch new Reborn-branded products such red tea bag packs and cold brew cans.
+if (item.type === 'image') {
 
-Second Quarter 2024 Financial Results
+if (isMobile()) {
 
-Revenues were $1.4 million for the three months ended June 30, 2024, compared to $1.5 million for the
-comparable period in 2023, representing a decrease of 9.6%. The decrease in sales for the period was primarily
-due to the closure of underperforming stores.
+caption += '' +
 
-Company-operated store gross profit was $0.9 million for the three-month period ended June 30, 2024, compared
-to $1.0 million for the comparable period in 2023. Q2'24 company-operated store gross margins improved to 72.9%
-compared to 65.3% for the same period in 2023.
+'' +
 
-Wholesale and online revenue for the second quarter of 2024 was $0.2 million, an increase of 633% from $24,320
-in the second quarter of 2023.
+'
 
-                                                                                                        Page 4 of 9
-                Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+'+
 
-Total operating costs and expenses for the three-month period ended June 30, 2024, were $2.7 million compared to
-$2.7 million for the comparable period in 2023, a marginal decline.
+$(this).find('figcaption').html() +
 
-Net loss for the second quarter of 2024 was $1.3 million, compared to a net loss of $1.3 million for the second
-quarter of 2023.
+getDetailsURL($(this).parent()) +
 
-Net cash used in operating activities for the six months ended June 30, 2024, was $2.9 million, compared to $2.3
-million for the six months ended June 30, 2023.
+getDownloadURL($(this).parent()) +
 
-Cash and cash equivalents totaled $0.6 million as of June 30, 2024, compared to $0.2 million as of December 31,
-2023.
+showFBShare() +
 
-About Reborn Coffee
+'' +
 
-Reborn Coffee, Inc. (NASDAQ: REBN) is focused on serving high quality, specialty-roasted coffee at retail
-locations, kiosks, and cafes. Reborn is an innovative company that strives for constant improvement in the coffee
-experience through exploration of new technology and premier service, guided by traditional brewing techniques.
-Reborn believes they differentiate themselves from other coffee roasters through innovative techniques, including
-sourcing, washing, roasting, and brewing their coffee beans with a balance of precision and craft. For more
-information, please visit www.reborncoffee.com.
+'' +
 
-Forward-Looking Statements
+'
 
-All statements in this release that are not based on historical fact are “forward-looking statements.” While
-management has based any forward-looking statements included in this release on its current expectations, the
-information on which such expectations were based may change. Forward-looking statements involve inherent risks
-and uncertainties which could cause actual results to differ materially from those in the forward-looking statements,
-as a result of various factors including those risks and uncertainties described in the Risk Factors and
-Management’s Discussion and Analysis of Financial Condition and Results of Operations sections of our recent
-filings with the Securities and Exchange Commission (“SEC”) including our Form 10-Q for the second quarter of
-2024, which can be found on the SEC’s website at www.sec.gov. Such risks, uncertainties, and other factors
-include, but are not limited to, the Company’s ability to continue as a going concern as indicated in an explanatory
-paragraph in the Company’s independent registered public accounting firm’s audit report as a result of recurring net
-losses, among other things, the Company’s ability to successfully open the additional locations described herein as
-planned or at all, the Company’s ability to expand its business both within and outside of California (including as it
-relates to increasing sales and growing Average Unit Volumes at our existing stores), the degree of customer
-loyalty to our stores and products, the impact of COVID-19 on consumer traffic and costs, the fluctuation of
-economic conditions, competition and inflation. We urge you to consider those risks and uncertainties in evaluating
-our forward-looking statements. We caution readers not to place undue reliance upon any such forward-looking
-statements, which speak only as of the date made. The Company undertakes no obligation to update these
-statements for revisions or changes after the date of this release, except as required by law.
+SHOW PHOTO DETAILS ';
 
-Contacts
+}
 
-Investor Relations Contact:Chris TysonExecutive Vice PresidentMZ North AmericaREBN@mzgroup.us               949-491-
-8235
+else {
 
-Company Contact:Reborn Coffee, Inc.ir@reborncoffee.com
-                                          Reborn Coffee, Inc.
-                                          and
-                                          SubsidiariesUnaudi
-                                          ted Condensed
-                                          Consolidated
-                                          Balance Sheets
-        As of                             (Unaudited)June 30    December 31,2023
-                                          , 2024
+caption += $(this).find('figcaption').html() +
 
-                                                                                          Page 5 of 9
-      Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+getDetailsURL($(this).parent()) +
 
-ASSETS
-Current assets:
-Cash and cash equivalents              $            617,051          $             164,301
-Accounts receivable, net of            67,225       56,938
-allowance for doubtful accounts of
-$0 and $0, respectively
-Inventories, net                       267,934      185,061
-Prepaid expense and other current      704,960      359,124
-assets
-Total current assets                   1,657,170    765,424
-Property and equipment, net            3,962,399    3,494,050
-Operating lease right-of-use asset     4,260,499    4,566,968
-Other assets                           648,938      425,712
-Total assets                           $            10,529,006       $             9,252,154
-LIABILITIES AND
-STOCKHOLDERS? EQUITY
-Current liabilities:
-Accounts payable                       $            463,998          $             632,753
-Accrued expenses and current           665,197      611,290
-liabilities
-Loans payable to financial             720,677      791,352
-institutions, current portion
-Loan payable to other                  792,775      609,027
-Loan payable, emergency injury         30,060       30,060
-disaster loan (EIDL), current
-portion
-Loan payable, payroll protection       22,126       45,678
-program (PPP), current portion
-Operating lease liabilities, current   1,016,649    1,003,753
-portion
-Total current liabilities              3,711,482    3,823,913
-Loans payable to financial             335,147      335,147
-institutions, net of current portion
-Loan payable, emergency injury         469,940      469,940
-disaster loan (EIDL), net of
-current portion
-Loan payable, payroll protection       51,595       51,595
-program (PPP), net of current
-portion
-Operating lease liabilities, net of    3,418,154    3,725,153
-current portion
-Total liabilities                      7,986,318    8,405,748
-Commitments and Contingencies
-Stockholders? equity
-Common Stock, $0.0001 par              324          187
-value, 40,000,000 shares
-authorized; 3,235,657 and
-1,866,174 shares issued and
-outstanding at June 30, 2024 and
-December 31, 2023
-Preferred Stock, $0.0001 par           -            -
-value, 1,000,000 shares
-authorized; no shares issued and
-outstanding at June 30, 2024 and
-December 31, 2023
-Additional paid-in capital             21,603,006   17,603,143
+getDownloadURL($(this).parent()) +
 
-                                                                                                       Page 6 of 9
-      Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+showFBShare();
 
-Accumulated deficit                   (19,064,080           )                        (16,756,924   )
-Accumulated other comprehensive       3,438                 -
-income (loss)
-Total stockholders? equity            2,542,688             846,406
-Total liabilities and stockholders?   $                     10,529,006               $             9,252,154
-equity
+}
 
-                Reborn Coffee, Inc.
-                and
-                SubsidiariesUnaudi
-                ted Condensed
-                Consolidated
-                Statements of
-                Operations
-    (Unaudit    (Unaudited)Three
-    ed)Six      Months EndedJune
-    Months      30,
-    EndedJu
-    ne 30,
-    2024        2023                   202    202
-                                       4      3
-    Net
-    revenues
-    :
-    Stores      $                      2,66   $      2,60       $      1,19   $          1,49
-                                       6,20          3,65              4,55              4,60
-                                       6             4                 2                 3
-    Wholesal    224,757                37,5   178,   24,3
-    e and                              90     349    20
-    online
-    Total net   2,890,963              2,64   1,37   1,51
-    revenues                           1,24   2,90   8,92
-                                       4      1      3
-    Operatin
-    g costs
-    and
-    expense
-    s:
-    Product,    630,415                882,   324,   518,
-    food and                           302    122    483
-    drink
-    costs?st
-    ores
-    Cost of     154,021                16,4   78,9   10,6
-    sales?w                            64     44     52
-    holesale
-    and
-    online
-    General     4,307,700              3,89   2,30   2,18
-    and                                3,84   7,43   9,19
-    administr                          9      6      8
-    ative
-    Total       5,092,136              4,79   2,71   2,71
-    operatin                           2,61   0,50   8,33
-    g costs                            5      2      3
-    and
-    expense
-    s
-    Loss        (2,201,173             )      (2,1   )          (1,3   )      (1,1       )
-    from                                      51,3              37,6          99,4
+}
 
-                                                                                                                    Page 7 of 9
-     Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+return caption;
 
-   operatio                                   71               01                10
-   ns
-   Other
-   income
-   (expense
-   ):
-   Other       36,329                  -      28,5    -
-   income                                     20
-   Interest    (142,312                )      (106    )        (7,5       )      (94,       )
-   expense                                    ,435             31                232
-   Total       (105,983                )      (106    )        20,9       (94,   )
-   other                                      ,435             89         232
-   income
-   (expense
-   ), net
-   Loss        (2,307,156              )      (2,2    )        (1,3       )      (1,2       )
-   before                                     57,8             16,6              93,6
-   income                                     06               12                42
-   taxes
-   Provision   -                       -      -       -
-   for
-   income
-   taxes
-   Net loss    $                       (2,3   )       $        (2,2       )      $          (1,3   ) $ (1,2          )
-                                       07,1                    57,8                         16,6       93,6
-                                       56                      06                           12         42
-   Loss per
-   share:
-   Basic       $                       (1.0   )       (1.3     )          (0.4   )          (0.7   )
-   and                                 5              7                   8                 8
-   diluted
-   Weighte
-   d
-   average
-   number
-   of
-   common
-   shares
-   outstandi
-   ng:
-   Basic       2,200,037               1,65   2,74    1,65
-   and                                 2,03   6,60    4,69
-   diluted                             4      5       8
-                          Reborn Coffee, Inc. and
-                          SubsidiariesUnaudited
-                          Consolidated
-                          Statements of Cash
-                          Flows
-For the Six Months        (unaudited)2024            (unaudited)
-Ended June 30,                                       2023
-Cash flows from
-operating activities:
-Net loss                  $                          (2,307,156       )                 $              (2,257,806        )
-Adjustments to
-reconcile net loss to
-net cash used in
-operating activities:
-Stock compensation        -                          250,000
-Operating lease           12,367                     27,222
+},
 
-                                                                                         Page 8 of 9
-     Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+afterLoad: function (instance, current) {
 
-Depreciation              172,710          135,398
-Changes in
-operating assets and
-liabilities:
-Accounts receivable       (10,287          )            (1,505       )
-Inventories               (82,873          )            7,501
-Prepaid expense and       (569,062         )            (806,473     )
-other current assets
-Accounts payable          (165,317         )            206,102
-Accrued expenses          53,907           156,460
-and current liabilities
-Net cash used in          (2,895,711       )            (2,283,101   )
-operating activities
-Cash flows from
-investing activities:
-Purchases of              (641,060         )            (4,417,782   )
-property and
-equipment
-Net cash used in          (641,060         )            (4,417,782   )
-investing activities
-Cash flows from
-financing activities:
-Proceeds from line of     4,000,000        974,027
-credit
-Proceeds from loan        -                -
-payable to
-shareholders
-Proceeds from loan        183,748          218,864
-payable to financial
-institutions
-Repayments of             (100,000         )            -
-borrowings from
-shareholder
-Proceeds from loan        -                2,850,000
-payable, mortgage
-Repayment of loan         (70,675          )            (23,551      )
-payable to financial
-institutions
-Repayment of loan         (23,552          )            -
-payable, PPP
-Net cash provided by      3,989,521        4,019,340
-financing activities
-Net (decrease)            452,750          (2,681,543   )
-increase in cash
-Cash at beginning of      164,301          3,019,035
-period
-Cash at end of            $                617,051      $            337,49
-period                                                               2
-Supplemental
-disclosures of non-
-cash financing
-activities:
-Issuance of common        $                -            $            250,00
-shares for                                                           0
-compensation
-Supplemental
-disclosure of cash
-flow information:
+//initial desktop view
 
-                                                                                                  Page 9 of 9
-              Reborn Coffee Provides Second Quarter 2024 Corporate Update and Financial Results
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
 
-         Cash paid during the
-         years for:
-         Lease liabilities      $                   704,608      $           546,38
-                                                                             9
-         Interest               $                   142,312      $           106,43
-                                                                             5
+                                                                                Page 3 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+if (isMobile())
+
+$(".fancybox-caption__body").addClass("mobile");
+
+},
+
+afterShow: function (instance, current) {
+
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+
+if (isMobile())
+
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+
+},
+
+afterClose: function () {
+
+}
+
+}));
+
+let debounceTimer;
+
+$(window).on("resize", function (event) {
+
+if (isMobile())
+
+return;
+
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+
+event.stopImmediatePropagation();
+
+$(".fancybox-caption__body").removeClass("half");
+
+isDesktopInit = false;
+
+captionToggle();
+
+debounceTimer = setTimeout(function () {
+
+clearTimeout(debounceTimer);
+
+debounceTimer = null;
+
+recalculateImageSize();
+
+}, 1000);
+
+}
+
+});
+
+function recalculateImageSize() {
+
+// Fancy box miscalculates because of race conditions with new layout
+
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+
+                                                                                Page 4 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+
+var winWth = $(window).innerWidth();
+
+var winHgt = $(window).innerHeight()
+
+var ratio = Math.min(winWth / origImgWth,
+
+winHgt / origImgHgt);
+
+var newImgWth = (origImgWth * ratio);
+
+var newImgHgt = (origImgHgt * ratio);
+
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+
+$(".fancybox-content").removeAttr("style");
+
+$(".fancybox-content").css("width", newImgWth + "px");
+
+$(".fancybox-content").css("height", newImgHgt + "px");
+
+$(".fancybox-content").css("transform",
+
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+
+}
+
+function captionToggle() {
+
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+
+// Animation complete.
+
+closeDetails();
+
+});
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+
+}
+
+else {
+
+$(".fancybox-caption__body").addClass("af3-caption-body");
+
+$(".af3-caption-body").addClass(detailSize);
+
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+
+$(".fancybox-caption").addClass("af3-caption-bg");
+
+$(".base-caption-info").addClass("full-height");
+
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+
+                                                                                Page 5 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+$(".fancybox-button").css("display", "none");
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+
+$(".fancybox-caption__body").prepend(prependClosing());
+
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+
+}
+
+}
+
+function getDetailsURL(fbObj) {
+
+return 'DETAILS';
+
+}
+
+function getDownloadURL(fbObj) {
+
+return 'DOWNLOAD';
+
+}
+
+function showFBShare() {
+
+return 'SHARE';
+
+}
+
+function closeDetails() {
+
+$(".af3-caption-body").removeClass(detailSize);
+
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+
+$(".fancybox-caption").removeClass("af3-caption-bg");
+
+$(".base-caption-info").removeClass("full-height");
+
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+
+$(".fancybox-button").css("display", "block");
+
+if (detailSize === "half") {
+
+detailSize = "full";
+
+displayhgt = "90vh";
+
+$(".fancybox-caption").removeClass("desktop-init");
+
+}
+
+}
+
+function prependClosing() {
+
+return ''
+
+                                                                                Page 6 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+}
+
+function isMobile() {
+
+var isMobile = false; //initiate as false
+
+// device detection
+
+if
+(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
+|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
+os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
+(ce|phone)|xda|xiino/i.test(navigator.userAgent)
+
+||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
+)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
+)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
+|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
+7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
+i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
+|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
+g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
+cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
+3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
+|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
+2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
+)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
+|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
+)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
+9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
+| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+
+isMobile = true;
+
+}
+
+return isMobile;
+
+}
+
+});
+
+The depot maintenance of United States Air Force helicopters are located at other military installations or contractor
+sites around the globe.
+
+The USAF fleet includes: HH-60G/HH-60G OLR "Pave Hawk", HH-60W "Jolly Green II, and UH-1N/TH-1H "Huey".
+
+The "Pave Hawks" and "Jolly Green IIs" are used to conduct day or night combat search and rescue operations into
+hostile environments to recover isolated personnel during war. They are also used in civil search and rescue,
+medical evacuation, disaster response, and humanitarian assistance.
+
+"The UH-1N Hueys are used for several different scenarios, like distinguished visitors transport or nuclear armed
+over-watch," said Langston. "The benefit of helicopters is the vertical lift capability to come into a hot landing zone
+and pull people out that need to be saved. The aircraft can also provide suppressive fire, if needed, during a rescue
+attempt."
+
+                                                                                 Page 7 of 12
+             TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+Langston said the AFLCMC Helicopter SPO has a full contingent of:
+
+- Engineers -To solve problems.
+
+- Logisticians - To make sure the warfighter has what they need where and when they need it.
+
+- Equipment specialists -To lend their decades of hands-on helicopter maintenance experience.
+
+- Technical data experts - To make sure crews have the information they need to maintain the helos in the field.
+
+- Program managers - To lead modification and support acquisition efforts.
+
+- Contracting officers -To give industry a fair chance for companies partner with us and support the fleet.
+
+-Financial managers - To obtain and manage funds for it all.
+
+Valdosta, Georgia - Air Force Life Cycle Management Center's Helicopter System Program Office equipment
+specialists test fit snow skis on a HH-60W at Moody Air Force Base, Georgia, Dec. 6, 2022. Robins Air Force Base,
+Georgia, is home to the AFLCMC Helicopter SPO, which is responsible for support, sustainment, and modification
+of the entire fleet of the United States Air Force's helicopters. (U.S. Air Force photo by Russell Pry)
+
+Photo Details
+
+/
+
+Download Hi-Res
+
+$(document).ready(function () {
+
+let isDesktopInit = false;
+
+let detailSize = "full";
+
+let displayhgt = "95vh";
+
+let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
+
+buttons: ['share'],
+
+caption: function (instance, item) {
+
+var caption = '';
+
+if (item.type === 'image') {
+
+if (isMobile()) {
+
+caption += '' +
+
+'' +
+
+'
+
+'+
+
+$(this).find('figcaption').html() +
+
+getDetailsURL($(this).parent()) +
+
+                                                                                Page 8 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+getDownloadURL($(this).parent()) +
+
+showFBShare() +
+
+'' +
+
+'' +
+
+'
+
+SHOW PHOTO DETAILS ';
+
+}
+
+else {
+
+caption += $(this).find('figcaption').html() +
+
+getDetailsURL($(this).parent()) +
+
+getDownloadURL($(this).parent()) +
+
+showFBShare();
+
+}
+
+}
+
+return caption;
+
+},
+
+afterLoad: function (instance, current) {
+
+//initial desktop view
+
+$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
+
+if (isMobile())
+
+$(".fancybox-caption__body").addClass("mobile");
+
+},
+
+afterShow: function (instance, current) {
+
+var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
+
+if (isMobile())
+
+$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
+
+},
+
+afterClose: function () {
+
+}
+
+}));
+
+                                                                                Page 9 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+let debounceTimer;
+
+$(window).on("resize", function (event) {
+
+if (isMobile())
+
+return;
+
+if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
+
+event.stopImmediatePropagation();
+
+$(".fancybox-caption__body").removeClass("half");
+
+isDesktopInit = false;
+
+captionToggle();
+
+debounceTimer = setTimeout(function () {
+
+clearTimeout(debounceTimer);
+
+debounceTimer = null;
+
+recalculateImageSize();
+
+}, 1000);
+
+}
+
+});
+
+function recalculateImageSize() {
+
+// Fancy box miscalculates because of race conditions with new layout
+
+var origImgWth = $(".fancybox-image").prop("naturalWidth");
+
+var origImgHgt = $(".fancybox-image").prop("naturalHeight");
+
+var winWth = $(window).innerWidth();
+
+var winHgt = $(window).innerHeight()
+
+var ratio = Math.min(winWth / origImgWth,
+
+winHgt / origImgHgt);
+
+var newImgWth = (origImgWth * ratio);
+
+var newImgHgt = (origImgHgt * ratio);
+
+var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
+
+var dstLeft = Math.floor((winWth - newImgWth)) / 2;
+
+$(".fancybox-content").removeAttr("style");
+
+$(".fancybox-content").css("width", newImgWth + "px");
+
+                                                                               Page 10 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+$(".fancybox-content").css("height", newImgHgt + "px");
+
+$(".fancybox-content").css("transform",
+
+"translate(" + dstLeft + "px, " + dstTop + "px)");
+
+}
+
+function captionToggle() {
+
+if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
+
+$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
+
+// Animation complete.
+
+closeDetails();
+
+});
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
+
+}
+
+else {
+
+$(".fancybox-caption__body").addClass("af3-caption-body");
+
+$(".af3-caption-body").addClass(detailSize);
+
+$(".af3-caption-body").animate({ height: displayhgt }, 800);
+
+$(".fancybox-caption").addClass("af3-caption-bg");
+
+$(".base-caption-info").addClass("full-height");
+
+$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
+
+$(".fancybox-button").css("display", "none");
+
+$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
+
+$(".fancybox-caption__body").prepend(prependClosing());
+
+$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
+
+}
+
+}
+
+function getDetailsURL(fbObj) {
+
+return 'DETAILS';
+
+}
+
+function getDownloadURL(fbObj) {
+
+return 'DOWNLOAD';
+
+                                                                               Page 11 of 12
+            TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+}
+
+function showFBShare() {
+
+return 'SHARE';
+
+}
+
+function closeDetails() {
+
+$(".af3-caption-body").removeClass(detailSize);
+
+$(".fancybox-caption__body").removeClass("af3-caption-body");
+
+$(".fancybox-caption").removeClass("af3-caption-bg");
+
+$(".base-caption-info").removeClass("full-height");
+
+$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
+
+$(".fancybox-button").css("display", "block");
+
+if (detailSize === "half") {
+
+detailSize = "full";
+
+displayhgt = "90vh";
+
+$(".fancybox-caption").removeClass("desktop-init");
+
+}
+
+}
+
+function prependClosing() {
+
+return ''
+
+}
+
+function isMobile() {
+
+var isMobile = false; //initiate as false
+
+// device detection
+
+if
+(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
+|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
+os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
+(ce|phone)|xda|xiino/i.test(navigator.userAgent)
+
+||                         /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                            wa|abac|ac(er|oo|s\-
+)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                      |s
+)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
+|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
+7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
+i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                         |\-
+
+                                                                                 Page 12 of 12
+              TEAM ROBINS, HELICOPTERS: A DUO IN NATIONAL DEFENSE, RESCUE OPERATIONS
+
+|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
+g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
+cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
+3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
+|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
+2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
+)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
+|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
+)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
+9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
+| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+
+isMobile = true;
+
+}
+
+return isMobile;
+
+}
+
+});
+
+Langston described his section as seasoned members with hands-on helicopter experience at every stage of the
+lifecycle.
+
+"We have a team of what's called equipment specialist who I love very much," he said. "They are usually
+maintainers, retired crew chiefs who have been everywhere, done everything and have twenty or forty plus years of
+experience on helicopters. We send those people out with that hands-on experience and knowledge to those who
+need help to interpret technical data."
+
+In 2031, the current Hueys will be replaced with the Air Force's newest helicopter, the MH-139A Grey Wolf. It's
+reported the performance capabilities closes gaps of the UH-1N in the areas of speed, range, endurance, payload
+and survivability.
+
+Langston takes pride in the SPO mission.
+
+"It's my daily motivation and is stated in my email signature block, 'These things we do that others may live.' That is
+our purpose and motto of the pararescue jumpers that go and save people around the world." For any query with
+respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
 
+Load-Date: January 19, 2024
 
-Load-Date: August 20, 2024
 
-
-  
+      

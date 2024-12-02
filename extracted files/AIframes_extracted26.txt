@@ -1,139 +1,144 @@
 
 
-                                                                                            Page 1 of 3
-   NetApp Optimizes VMware Environments with New Capabilities NetApp and Broadcom maximize the value of
-                             customers' private and hybrid cloud environments
+                                                                                              Page 1 of 3
+       KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes and User Base of 31 Million,
+                                      Remaining Committed to Security
 
 
 
 
-NetApp Optimizes VMware Environments with New Capabilities; NetApp and
-   Broadcom maximize the value of customers' private and hybrid cloud
-                            environments
-                                                  Business Wire
-                                     August 28, 2024 Wednesday 8:15 PM GMT
+   KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes
+       and User Base of 31 Million, Remaining Committed to Security
+                                                   Business Wire
+                                      January 9, 2024 Tuesday 10:00 AM GMT
 
 
 
 Copyright 2024 Business Wire, Inc.
 
-Length: 1122 words
-Dateline: SAN JOSE, Calif.
+Length: 1038 words
+Dateline: VICTORIA, Seychelles
 
 Body
 
-NetApp® (NASDAQ: NTAP), the original intelligent data infrastructure company, today announced new capabilities
-that support VMware Cloud Foundation deployments. Mutual customers will be able to leverage NetApp solutions to
-right-size their IT environments to run VMware workloads at scale efficiently.
 
-For more than a decade, NetApp and VMware, recently acquired by Broadcom Inc., have collaborated to ensure
-the success of their joint customers and help them unlock the full value of their VMware investments. During that
-time, NetApp has been a key engineering design partner with VMware and is continuing to drive innovation in highly
-available, scalable and performant storage as a design partner for its Next-Generation vSphere Virtual Volumes
-(vVols). Now, NetApp is announcing new capabilities that will enable joint customers to run their VMware
-deployments more efficiently.
+In a year of exceptional growth and strengthened commitment to security, KuCoin has solidified its position as a
+leading figure in the cryptocurrency exchange landscape. The KuCoin Annual Review shared its key achievements
+in 2023, underscoring the ongoing dedication to security and trust.
 
-"NetApp and Broadcom are working together to take the uncertainty out of hybrid cloud environments," said Jonsi
-Stefansson, Senior Vice President and Chief Technology Officer at NetApp. "More than 20,000 customers rely on
-NetApp to support their VMware workloads. NetApp's continued close collaboration with Broadcom following the
-acquisition of VMware ensures our solutions seamlessly interoperate so our mutual customers can leverage a
-single intelligent data infrastructure to operate their VMware workloads more efficiently."
+This      press      release     features   multimedia.             View        the      full     release       here:
+https://www.businesswire.com/news/home/20240109427286/en/
 
-NetApp is helping optimize costs, simplify operations, and increase flexibility for customers running VMware
-environments by offering:
-    •     Expanded Support for VMware Cloud Foundation (VCF): NetApp and Broadcom customers will now be
-          able to simplify their VCF hybrid cloud environments by using NetApp ONTAP® software for all storage
-          requirements, including standard and consolidated architectures. The latest release of ONTAP Tools for
-          VMware (OTV) will support SnapMirror® active sync to provide symmetric active-active data replication
-          capabilities for NetApp storage systems running VMware workloads. SnapMirror active sync allows
-          customers to operate more efficiently by offloading data protection from their virtualized compute and
-          improving data availability.
-    •     New Capabilities for Azure VMware Solution (AVS): To support customers that are extending or migrating
-          their vSphere workloads to the cloud, customers can now leverage Spot Eco by NetApp with AVS reserved
+KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes and User Base of 31 Million, Remaining
+Committed to Security (Graphic: Business Wire)
 
-                                                                                            Page 2 of 3
-   NetApp Optimizes VMware Environments with New Capabilities NetApp and Broadcom maximize the value of
-                             customers' private and hybrid cloud environments
+The report is divided into 6 parts, including the key figures of growth, key features to enhance security, key updates
+of products followed by the investment arms, education, and global presence. KuCoin shares:
 
-        instances to get the most value out of their deployments. Using Spot Eco to manage AVS reserved
-        instances while also using Azure NetApp Files to offload data storage can reduce compute costs
-        significantly.
-    •   Enhanced VM Optimization Features for NetApp Cloud Insights: NetApp is introducing Cloud Insights VM
-        Optimization, expanding its comprehensive solution for optimizing virtual environments, including VMware.
-        Cloud Insights VM Optimization will give customers tools to reduce costs by increasing VM density, run
-        storage at the best price-to-performance ratio for their environment, and monitor their entire environment to
-        ensure availability, performance, and adherence to configuration best practices across the entire stack. To
-        help customers optimize the compute, memory and storage resources of their VMware environments,
-        NetApp is also offering customers a free 30-day trial of Cloud Insights to most cost-effectively migrate to
-        the new VMware software subscriptions.
+Quantifying the Growth: Key Figures
 
-These offerings follow last month's release of enhancements to NetApp BlueXP(TM) disaster recovery service,
-which provides guided workflows to design and execute automated disaster recovery plans for VMware workloads
-across hybrid cloud environments with newly added support for VMFS datastores.
+User Base Expansion: Witnessing a 16% year-over-year increase, the user base is now nearing 31 million, a
+testament to the platform's reliability and the community's trust. The most significant growth in the past year came
+from the Latin America region, which saw a 34% increase. Additionally, substantial user base growth has been
+observed in other key regions, including the Middle East and Africa (27%) and Europe (25%), compared to 2022.
 
-"As organizations modernize infrastructure with VMware Cloud Foundation, they want to know that the services
-upon which they rely from industry-leaders such as NetApp will continue to work seamlessly and deliver the value
-they have come to expect," said Paul Turner, Vice President of Products, VCF Division at Broadcom. "Having
-NetApp as a close collaborator helps our mutual customers deploy innovative data and storage services on top of
-their private cloud platform, and ensure they are getting the most value out of their VMware environments."
+Trading Volume Increase: Q4 2023 marks a 106% jump in spot trading volume, indicating robust user engagement
+and confidence in the platform. The most significant growth observed in Europe (+169%), Latin America (+111%),
+and Middle East and Africa (+124%) regions.
 
-"We have made Microsoft Azure the cloud of choice for VMware environments and offer fast and cost-effective
-solutions enabling many customers to move their VMware workloads to the cloud," said Brett Tanzer, Vice
-President of Product Management at Microsoft. "As VMware customers navigate changes to operating virtualized
-environments, we have given our customers a way to lock in secure and predictable pricing over multiple years.
-NetApp's data management and cloud observability capabilities help our customers ensure those deployments are
-delivering the return on investment they need."
+Customer Service Excellence: With over 1.5 million queries resolved by the dedicated 24/7 customer service team
+and an additional 800,000 users aided by the AI-driven chatbot, KuCoin prioritizes responsive and effective user
+support.
 
-"In an ever more complicated world of cloud, data, and infrastructure operations, IT teams are increasingly looking
-for holistic platforms over point solutions," said Scott Sinclair, Practice Director, Enterprise Strategy Group. "These
-joint updates from NetApp and Broadcom enable customers to use NetApp's intelligent data infrastructure to
-consolidate multiple data operations onto a single platform with industry-leading data management and CloudOps
-capabilities. That will help customers drive greater operational and infrastructure efficiencies that reduce the total
-cost of ownership for their VMware investments."
+Trust and Transparency to Enhance Security: Key Features
 
-Additional Resources
+                                                                                             Page 2 of 3
+      KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes and User Base of 31 Million,
+                                     Remaining Committed to Security
 
-    •   Optimize your VMware Environment with New Capabilities
+As the 'People's Exchange', the safety of users' assets is paramount. The initiatives in 2023 have further
+strengthened this commitment:
 
-    •   NetApp and VMware
+Solid Reserve Ratios: PoR reports consistently show over 100% reserve ratios for key cryptocurrencies,
+maintaining transparency and trust.
 
-About NetApp
+KYC Upgrades: Enhanced KYC protocols ensure a more secure trading environment, safeguarding user interests.
 
-NetApp is the original intelligent data infrastructure company, combining unified data storage, integrated data
-services, and CloudOps solutions to turn a world of disruption into opportunity for every customer. NetApp creates
-silo-free infrastructure, harnessing observability and AI to enable the industry's best data management. As the only
-enterprise-grade storage service natively embedded in the world's biggest clouds, our data storage delivers
-seamless flexibility. In addition, our data services create a data advantage through superior cyber resilience,
-governance, and application agility. Our CloudOps solutions provide continuous optimization of performance and
-efficiency through observability and AI. No matter the data type, workload, or environment, with NetApp you can
-transform your data infrastructure to realize your business possibilities. Learn more at www.netapp.com or follow us
-on X , LinkedIn , Facebook , and Instagram .
+Advanced Security Measures: The platform has implemented multiple security measures, extensive security
+education, and a $1 million bug bounty program, all reinforcing a secure trading experience. These security
+measures include the use of industry-standard encryption algorithms to safeguard all sensitive data and assets, the
+implementation of multi-factor authentication for all user accounts, adding an extra layer of security, regular
+proactive assessment on the security measures to manage the risks on the platform. Additionally, the majority of
+clients' funds are held in cold wallets to ensure their security. Regular audits and penetration tests are also
+conducted. We adhere to the highest risk management standards and implement world-class security practices to
+keep users account safe. Our account verification system and risk identification system constitute Multi-Layer User
+Authentication, along with secure login, safe withdrawal, and user security configuration features, have been
+implemented to protect users assets and account security in all usage scenarios.
 
-                                                                                           Page 3 of 3
-  NetApp Optimizes VMware Environments with New Capabilities NetApp and Broadcom maximize the value of
-                            customers' private and hybrid cloud environments
+Key Updates and Milestones
 
-NETAPP, the NETAPP logo, and the marks listed at www.netapp.com/TM are trademarks of NetApp, Inc. Other
-company and product names may be trademarks of their respective owners.
+Asset Expansion: Added 149 new assets, bringing the total to 830 digital assets, supporting 1,246 trading pairs as
+of December 2023.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240828604243/en/
+KCS Holder Growth: An 11% year-over-year increase, resulting in 1.9 million KCS holders.
+
+KuCard Success: Over 10,000 KuCard holders within a month of its launch, demonstrating strong user adoption
+and interest.
+
+"Our vision at KuCoin has always been clear - to be the 'People's Exchange'. This year's achievements reflect not
+just our growth but our unwavering commitment to providing a safe and secure trading platform," said Johnny Lyu,
+CEO of KuCoin. "As we continue to expand and innovate, our focus remains steadfast on ensuring that every
+decision we make aligns with the needs and security of our users. This is our promise as the People's Exchange -
+to offer a trading environment where security and user-centricity are not just priorities but the very foundation of all
+our operations."
+
+In 2023, KuCoin continued to deep dive into market insights and published 8 market reports of the "Into the
+Cryptoverse" series, featuring different regions and countries, including Germany, France, Pakistan, Japan, Russia,
+Turkey, Korea, and the UAE. As well continued the global footprint with over 30 online and offline events across
+multiple continents, including TOKEN2049, Paris Blockchain Week, Blockchance, Blockchain Life Forum, Istanbul
+Fintech Week, and Future Fest 2023. This strategic approach increased engagement with communities and
+partners effectively, leaving a lasting impression on Europe, the Middle East, and Asia. Meanwhile, KuCoin actively
+participated in global initiatives to address climate change, as seen during their involvement in COP28, where they
+highlighted the potential of green blockchain technology. And also a $100,000 donation to support sustainable
+development and charitable causes, including AMWA and the African Children's Solar Lamp Project. Additionally,
+KuCoin has a track record of providing disaster relief, as demonstrated by their donation of 1,000,000 Liras to
+Turkey's earthquake relief efforts through #AFAD.
+
+For more information, please see the full report on KuCoin Blog .
+
+About KuCoin
+
+Launched in September 2017, KuCoin is a global cryptocurrency exchange with its operational headquarters in
+Seychelles. As a user-oriented platform focused on inclusiveness and community action reach, it offers over 800
+
+                                                                                             Page 3 of 3
+      KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes and User Base of 31 Million,
+                                     Remaining Committed to Security
+
+digital assets. Currently, it provides Spot trading, Margin trading, P2P fiat trading, Futures trading, staking, and
+lending to its 30 million users in more than 200 countries and regions. KuCoin is currently one of the top 5 crypto
+exchanges according to CoinMarketCap. In 2023, KuCoin was named one of the Best Crypto Exchanges by Forbes
+and recognized as a highly commended global exchange in Finder's 2023 Global Cryptocurrency Trading Platform
+Awards.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240109427286/en/
 
 
-CONTACT: Media Contact:
-Kenya Hayes
-NetApp
-
-kenya.hayes@netapp.com Investor Contact:
-Kris Newton
-NetApp
-
-kris.newton@netapp.com
+CONTACT: For media inquiries, please contact: media@kucoin.com
 
 
 http://www.businesswire.com
 
 
-Load-Date: August 28, 2024
+
+Graphic
+
+
+KuCoin Concludes 2023 with a Remarkable 106% Surge in Spot Volumes and User Base of 31 Million, Remaining
+Committed to Security (Graphic: Business Wire)
+
+
+Load-Date: January 9, 2024
 
 
   

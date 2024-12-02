@@ -1,67 +1,84 @@
 
 
-                                                                                 Page 1 of 2
-       VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO DETAIL DEBBY'S DAMAGE
+                                                                             Page 1 of 2
+    UC SANTA CRUZ'S CENTER FOR COASTAL CLIMATE RESILIENCE PARTNERING WITH EY ON OPEN
+               SCIENCE DATA CHALLENGE ON COASTAL RESILIENCE FOR STUDENTS
 
 
 
 
-     VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO
-                       DETAIL DEBBY'S DAMAGE
+        UC SANTA CRUZ'S CENTER FOR COASTAL CLIMATE RESILIENCE
+        PARTNERING WITH EY ON OPEN SCIENCE DATA CHALLENGE ON
+                  COASTAL RESILIENCE FOR STUDENTS
                                                States News Service
-                                             August 19, 2024 Monday
+                                            January 18, 2024 Thursday
 
 
 
 Copyright 2024 States News Service
 
-Length: 334 words
+Length: 579 words
 Byline: States News Service
-Dateline: BLACKSBURG, VA
+Dateline: SANTA CRUZ, Calif.
 
 Body
 
 
-The following information was released by the Virginia Tech:
+The following information was released by the University of California - Santa Cruz:
 
-By
+By Elisa Smith
 
-Kelly Izlar
+Share this story:TwitterFacebookLinkedInReddit
 
-19 Aug 2024
+The Open Science Data Challenge, sponsored by the Center for Coastal Climate Resilience, involves downloading
+datasets to build a machine-learning model to identify and detect damaged and undamaged coastal infrastructure.
+Pictured here is the storm surge in Santa Cruz on Jan. 5, 2024.Photo credit: Mike BeckCCCR is partnering with EY
+and the University of California Disaster Resilience Network on this year's coastal resilience challenge.
 
-On the morning of Aug. 5, Category 1 Hurricane Debby made landfall near Steinhatchee, Florida, then moved up
-the East Coast. The storm flooded nearly 2,200 square kilometers, or 850 square miles, between Florida and New
-York, according to new findings from Virginia Tech's Earth Observation and Innovation Lab.
+Climate change is here, and so are its impacts on our communities. Globally, coastal hazards produce increasing
+costs, often to the most vulnerable populations. That's why UC Santa Cruz's Center for Coastal Climate Resilience
+(CCCR) and the University of California Disaster Resilience Network (UCDRN) are partnering with EY on its 2024
+Open Science Data Challenge, focused on coastal resilience. CCCR will be hosting an event on campus on Jan. 25
+for interested undergraduate and graduate students, postdoctoral researchers, and faculty to learn more about this
+significant opportunity.
 
-By Aug. 9, more than 35 million people from South Carolina to Vermont were under flood alerts. Berkeley County,
-South Carolina, saw as much as 14 inches of rain with Charleston reaching 15 inches. Cities and counties along the
-U.S. Atlantic Coast are already vulnerable to flooding caused by land subsidence and sea level rise, a recent
-Virginia Tech study found.
+The EY challenge allows early-career professionals and university students to use data, artificial intelligence, and
+technology to help build a sustainable future for society and the planet. This year, EY and UCSC are co-designing
+the challenge on coastal resilience. Participants will use high-resolution satellite datasets and machine learning to
+build predictive models to help vulnerable communities adapt to evolving conditions and recover from extreme
+climate events.
 
-Associate Professor Manoochehr Shirzaei and his team tracked Debby's impact by leveraging artificial
-intelligence (AI) and big radar satellite data acquired by Sentinel-1 satellites operated by European Space Agency.
+The center is excited to partner with EY in engaging UC students and researchers in their exploration of solutions
+that can address the climate challenges currently impacting nature and people, said Mike Beck, director of the
+Center for Coastal Climate Resilience.
 
-Radar microwave signals penetrate clouds and capture detailed images of the Earth's surface, allowing for accurate
-detection of floodwaters. Radar can measure changes in water levels, track flood progression, and provide critical
-data for emergency response and disaster management.
+                                                                            Page 2 of 2
+   UC SANTA CRUZ'S CENTER FOR COASTAL CLIMATE RESILIENCE PARTNERING WITH EY ON OPEN
+              SCIENCE DATA CHALLENGE ON COASTAL RESILIENCE FOR STUDENTS
 
-Shrizaei's team found that nearly 2,200 square kilometers were flooded during and after Debby's landfall between
-Florida and New York with 1.5 percent of the land area in nine counties inundated. Seven counties experienced
-more than 35 square kilometers of inundation.
+A kickoff event with leading coastal resilience experts from the Office of Research, CCCR, and EY will be held on
+Jan. 25 at 10 a.m. in the Alumni Room at the University Center on the UC Santa Cruz campus. The event will
+include a QandA session. Students from throughout the UC system can also attend online and ask their questions
+about the challenge on Vimeo.
 
-Debby is the fourth hurricane since 2000 to hit Florida in early August. Its heavy rain and strong winds may be
-linked to a warming atmosphere and oceans, which can hold more moisture.
+Borja Reguero, an associate professor on coastal risks with the Coastal Science and Policy Program at UCSC is
+co-designing the challenge with EY and will be evaluating the participant submissions.
 
-                                                                               Page 2 of 2
-     VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO DETAIL DEBBY'S DAMAGE
+The University of California produces some of the brightest minds in the country, and I look forward to seeing their
+creativity shine in this data challenge, said Reguero. Leveraging the increasing power of remote sensing has great
+potential to help vulnerable coastal communities who bear the largest burden of extreme weather events.
 
-"As extreme weather events like Debby become more common, it's crucial to rethink how we develop flood-prone
-areas along the U.S. East Coast," Shirzaei said. "Investing in resilient infrastructure and promoting public
-awareness are essential steps in preparing for and adapting to future floodings."
+Throughout the challenge, UCSC and UCDRN, will tap the UC system's expertise in disaster resilience response
+and conduct scientific evaluations of participant submissions. UCDRN works with the 10 UC campuses to inform
+action that considers all facets of prevention, preparedness, response, and recovery, including the health, safety,
+socioeconomics, equity, and environmental sustainability of communities.
+
+Registration for the 2024 challenge is now open; the challenge begins on Feb. 1. The best ideas are eligible forcash
+prizes up to $10,000and attendance at a July 2024 celebration at the 2024 IEEE International Geoscience and
+Remote Sensing Symposium in Athens, Greece.
 
 
-Load-Date: August 19, 2024
+Load-Date: January 18, 2024
 
 
   

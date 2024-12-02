@@ -1,380 +1,191 @@
 
 
-                                                                                                        Page 1 of 7
-                                                 Editorial Roundup: United States
+                                                                                                            Page 1 of 4
+                          Gartner Identifies Top Nine Workplace Predictions for CHROs in 2024
 
 
 
 
-                                       Editorial Roundup: United States
-                                                  Associated Press International
-                                          September 3, 2024 Tuesday 10:28 PM GMT
+      Gartner Identifies Top Nine Workplace Predictions for CHROs in 2024
+                                                     Targeted News Service
+                                           January 4, 2024 Thursday 9:40 AM EST
 
 
 
-Copyright 2024 Associated Press All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Section: DOMESTIC NEWS
-Length: 3785 words
-Byline: The Associated Press
+
+
+
+Length: 1526 words
+Byline: Targeted News Service
+Dateline: STAMFORD, Connecticut
 
 Body
 
 
-Excerpts from recent editorials in the United States and abroad:
+Gartner, an information technology research and advisory company, issued the following news release:
 
-___
+Gartner, Inc. has revealed its top nine workplace predictions that HR leaders will need to address in 2024 and
+beyond to successfully position their organizations to attract and retain top talent and drive business outcomes.
 
-Aug. 30
+"We have seen several shifts affecting the workplace, including the emergence of generative AI (GenAI), pilots
+around establishing a four-day workweek, and changes to traditional careers," said Emily Rose McRae, Senior
+Director Analyst in the Gartner HR practice. "This year's predictions highlight the aspects of work that HR leaders
+must prioritize over the next 12 months."
 
-The Washington Post says as EV sales stall, focus on hybrids
+The top nine predictions for HR leaders are:
 
-The recent announcement by Ford Motor Co. that it was abandoning plans to roll out a large electric SUV seems
-like another warning flag that the early electric vehicle craze has hit a roadblock.
+The Cost-of-Work Crisis Reaches a Breaking Point
 
-There have been other signs. Last year, Tesla, the EV trendsetter, was forced to offer deep discounts, as vehicles
-sat unsold. General Motors announced it was delaying its plans for an EV pickup, and Hertz began offloading
-electric vehicles. Carmakers are losing millions as customer demand appears to have flatlined after an initial burst
-of interest.
+Employees who have been working remotely or in a hybrid environment have experienced what it is to work without
+bearing the costs - financial, time and energy - associated with going into an office daily. As many employers
+implement a mandate for remote employees to return to the office after long periods of remote work, employees
+now have a sharper awareness of what they "spend" to go to work.
 
-There was never going to be a straight-line highway from all-gas vehicles to all-electric, and some of the early EV
-promise suffered from hype — including among some state and federal policymakers who envisioned a massive,
-rapid shift. But while Detroit’s automakers are making plans to scale back their EV offerings, they are also not going
-back to entirely internal-combustion vehicles. Most are opting for electric and fuel hybrids, which is a sensible
-response to market demand. Plug-in hybrids, which operate as electric vehicles within a limited range, provide most
-of the environmental benefits of all-electric cars, even as they assuage “range anxiety” by switching to gas once the
-battery runs down.
+In 2024, organizations looking to attract and retain talent will not just try to find the perfect hybrid strategy, but they
+will look to tackle the cost of work head-on via two strategies: by sharing the tangible and intangible costs of
+returning to the office or by finding ways to reduce the total costs. This may include things such as: caregiving
+benefits, housing subsidies, financial well-being programs, or the ability for associates to bring their pets to work.
 
-Those state and federal policymakers writing auto industry mandates should leave room for plug-in hybrid sales in
-the medium term. Meanwhile, before the eventual all-EV transition, they should avoid making mistakes that could
-make the EV shift harder than it already is.
+AI Creates, Not Diminishes, Workforce Opportunity
 
-The industry is now in the phase that researchers call the “technology-adoption life cycle” or cross-industry
-adjustment. When a new technology enters the market, there is a chasm between the enthusiastic early adopters
+Despite anxiety and significant discussion around how GenAI will impact jobs, in the short- to medium-term,
+generative AI will fully replace few jobs. GenAI will lower the level of technical skills needed for many roles, widely
 
-                                                                                                        Page 2 of 7
-                                          Editorial Roundup: United States
+                                                                                                       Page 2 of 4
+                       Gartner Identifies Top Nine Workplace Predictions for CHROs in 2024
 
-who embrace it right away and the critical mass of consumers who need longer to be convinced. In that chasm,
-traditional industries often struggle to adjust, while newcomers without legacy baggage claim a toehold.
+increasing the roles for which candidates can qualify. Many jobs heavily impacted by GenAI will be redesigned and
+will have new responsibilities that include interacting with GenAI tools.
 
-Most of the early EV adopters have already purchased their vehicles. It might take time to bring along the critical
-mass of wait-and-see consumers. Offering electric-fuel hybrids is a way to ease that transition while providing
-practical solutions to some common concerns.
+This year, leaders should partner with HR to assess how GenAI investments should change their teams' roles and
+workflows, and how to identify potential internal candidates for newly redesigned roles. HR must also evaluate the
+impact on hiring strategies, identifying which technical requirements and assessments are now unnecessary for
+open and upcoming roles and determining how to assess talent against any new skill needs.
 
-The first is price. Most electric vehicles are still relatively expensive, giving some potential buyers sticker shock,
-even after federal subsidies. As technology and production methods improve, prices will come down. Along with
-allowing for more plug-in hybrids, the United States needs to avoid an escalating trade war that could keep prices
-high.
+Four-Day Workweeks Go from Radical to Routine
 
-China, which makes most of the world’s electric vehicles, has been able to make them cheaper and sell them at
-lower prices, thanks partly to generous government support and lower labor costs. But even China is seeing a
-market slowdown, raising concerns in the United States, Europe and Canada that it is preparing to dump its
-overproduction of vehicles overseas at lower prices, further undercutting domestic carmakers.
+A four-day workweek (4DWW) has become a centerpiece of large-scale studies in performance, union negotiations,
+and the preferences of many workers. Embracing a 4DWW will require organizations to rethink the cadence of the
+work week and re-examine what is necessary to get work done.
 
-Canada recently announced it was following the United States in imposing a 100 percent tariff on Chinese EV
-imports starting Oct. 1. The European Union earlier imposed tariffs of as much as 38 percent, but lower for Tesla
-and Chinese carmakers in joint ventures with E.U. companies. China has criticized these moves as trade
-protectionism and threatened to retaliate. A green-tech trade conflict that could complicate sales of finished cars as
-well as critical materials and parts would do neither consumers nor the environment any good.
+Organizations in 2024 will use 4DWWs to improve talent outcomes - including employee engagement, performance
+and well-being - and business outcomes, including eliminating inefficiencies, increasing talent attraction and
+retention and driving competitive advantage.
 
-In the United States, the other main problem with EVs is concern over the availability of public charging stations.
-That’s a real worry, especially for urban car-buyers who might not have a garage or private parking space. The
-Biden administration has tried to ramp up construction of public charging stations. But so far, the effort is falling
-short.
+Employee Conflict Resolution is New Must-Have Skill for Managers
 
-Encouragingly, Detroit automakers have announced plans to make their charging stations compatible with Tesla’s.
-That makes sense, since charging an EV should be as easy as pulling into a gas station to fill up the tank — easier,
-even, as chargers should be in places drivers are already going, such as parking lots. Yet the industry still depends
-on a massive federally backed build-out of charging infrastructure that is only just accelerating.
+Conflicts between employees are poised to be at an all-time high in 2024 due to geopolitical crises, labor strikes,
+climate change, pushback to DEI efforts, and upcoming elections for half of the globe. Conflict resolution requires
+actively working through challenging moments, pulling employees back from ostracizing colleagues with opposing
+viewpoints to focus on areas of mutual respect, or at least neutrality.
 
-In the face of these headwinds, Detroit’s automakers need to adapt and get more creative. They need to offer more
-lower-cost compact cars and sedans in addition to larger trucks and SUVs, and make cars that can compete with
-the even less expensive Chinese imports without relying on protectionist tariffs. If they react to this moment of
-industry challenge with sense and flexibility, state and federal regulators should give them the leeway they need.
+"Managers who can effectively navigate and manage interpersonal conflict among employees will have an outsize
+positive impact on their organizations; the question is how many really feel trained and prepared to do so," said
+Peter Aykens, Chief of Research in the Gartner HR practice.
 
-ONLINE: https://www.washingtonpost.com/opinions/2024/08/28/google-doj-kanter-antitrust-judge/
+Organizations should consider bringing in dedicated conflict management trainings, creating shadowing and
+coaching opportunities for new managers to see how experienced leaders resolve intense conflicts between
+employees, and finding ways to recognize and reward effective conflict resolution at all levels of the organization.
 
-___
+Generative AI Experiments Will Yield Hard Lessons and Painful Costs
 
-Aug. 30
+Enthusiasm, hype, and a strong fear of missing out or being left behind are driving executives to push for the
+implementation of GenAI within their teams and organizations. Companies will need to actively manage the risks of
+GenAI, including more rigorous access and file classification policies internally, and solid quality control and
+judgment when utilizing the outputs of GenAI tools.
 
-The Wall Street Journal on judicial ethics and double standards
+These risks don't outweigh the potential benefits of GenAI, but they will lead organizations to train employees to
+develop judgment around not just information validity, but also how and when to use GenAI.
 
-Progressives have made ethics scandals out of conservative judges mixing with conservative friends or speaking at
-Federalist Society events. So what are we to make of the Climate Judiciary Project (CJP) working to enlist judges in
-its anti-fossil-fuel campaign, as detailed by the American Energy Institute in a new report?
+Skills Overtake Degrees as the Paper Ceiling Crumbles
 
-The 55-year-old Environmental Law Institute (ELI) touts itself as a nonprofit that educates attorneys and judges
-about such subjects as endangered species, energy and climate science. It also “partners” with the Federal Judicial
-Center, which is the official education and research shop for federal courts and whose titular head is Chief Justice
-John Roberts.
+College degrees are the top requirement of yesterday's job descriptions. Organizations today are increasingly
+shredding the paper ceiling - the invisible barrier workers without degrees face - and embracing skills-based hiring,
+even for some corporate jobs long considered degree-dependent.
 
-                                                                                                        Page 3 of 7
-                                          Editorial Roundup: United States
+Removing degree requirements from job postings will enable organizations to attract qualified talent by hiring from a
+much broader talent pool that includes both internally developed talent and workers via Skilled Through Alternative
+Routes (STARs). Leading organizations are increasingly touting their in-house universities and business schools -
+and expanding apprenticeship programs - as tailored credential programs that prepare talent with the specific skills
+they'll need to advance.
 
-In 2018 the ELI launched the Climate Judiciary Project with the stated goal of providing judges with “authoritative,
-objective, and trusted education on climate science, the impacts of climate change, and the ways climate science is
-arising in the law.” You can guess how it defines “objective.”
+Climate Change Protection Becomes the New In-Demand Employee Benefit
 
-As ELI director of “judicial education” Sandra Nichols Thiam explained in 2022, the Climate Judiciary Project’s goal
-is the “development of a body of law that supports climate action.” Translation: Use the judiciary to support or even
-impose climate policies that climate alarmists can’t enact through the political branches.
+                                                                                                          Page 3 of 4
+                       Gartner Identifies Top Nine Workplace Predictions for CHROs in 2024
 
-The CJP doesn’t disclose the identities of judges who have attended its colloquiums. But its website boasts
-testimonials from unidentified judges and says that more than 2,000 judges have attended more than 44 of its
-events, including one at a Ninth Circuit Court of Appeals conclave in 2019. The Ninth Circuit is a hot spot for
-climate-related lawsuits. Notably, the outfit’s “curriculum” has been developed by law professors assisting lawsuits
-by local governments against oil and gas companies.
+Severe climate change-related events are shifting from localized and episodic to widespread and persistent, and
+organizations are responding by making climate change disaster response a more visible component of benefits
+packages.
 
-It’s fine with us if judges attend seminars to learn more about the climate and environmental science. Judges aren’t
-monks and need to be familiar with important scientific facts and debates. One reason jackpot jury verdicts are so
-common in product-liability suits is jury ignorance about basic science.
+In 2024 and beyond, organizations will begin to highlight and promote direct climate change protections as a key
+part of their benefit offerings. These will include explicit commitments to physical safety (such as plans to offer
+shelter or energy provisions when natural disasters arrive), compensation to impacted employees, and mental
+health support.
 
-The problem is the left’s double standard. Progressives and the press corps claim that judges who speak to
-conservative groups or attend their seminars are guilty of conflicts of interest. They even made an effort through the
-Judicial Conference to bar Justices from attending meetings of the Federalist Society, a legal organization that
-espouses constitutional originalism. But they are mute about the easy access to judges by the Climate Judiciary
-Project.
+DEI Doesn't Disappear, It Becomes the Way We Work
 
-Progressives and their friends at ProPublica and the New York Times say Justices Clarence Thomas and Samuel
-Alito are tainted by their social connections with conservative donors and interactions with constitutional lawyers.
-They demand that the Justices recuse themselves from cases, despite no evident conflict of interest.
+There has been a growing sense of disillusionment with DEI over the past few years; in the U.S. there's even a
+sense of direct pushback. However, the critical need for diverse, equitable and inclusive workforces remains,
+leaving organizations uncertain about what to do next.
 
-But under the left’s ethics standard, every judge who attends a Climate Judiciary Project event should have to step
-aside from climate-related cases. Democrats Sheldon Whitehouse and his Senate sidecar Dick Durbin are trying to
-use ethics as a political weapon against conservative Justices, but watch out: It’s a double-edged sword.
-
-ONLINE: https://www.wsj.com/opinion/climate-judiciary-project-judges-environmental-law-institute-supreme-court-
-dick-durbin-sheldon-whitehouse-5256997a?mod=editorials_article_pos8
-
-___
-
-Sept. 2
-
-The Los Angeles Times says it's time to raise the federal minimum wage
-
-It’s been 15 years since workers earning the federal minimum wage got a raise. The cost of living has gone up
-more than 45% since then, with rents and home prices rising faster than incomes in most regions of the country.
-Yet the nation’s wage floor has stayed stuck at $7.25 an hour.
+"In 2024, companies will begin to pivot from DEI existing solely in a silo to having it embedded throughout the
+organization," said McRae. "In this new model, DEI will shift to a shared way of working as organizations fully
+integrate DEI values into business objectives, daily operations and culture."
 
-That is poverty pay, and an increase to the federal minimum wage is long overdue. It’s mind-boggling that Congress
-has gone so long without making even modest adjustments to help the lowest-paid workers. This is the longest
-stretch of time without an increase to the federal minimum wage since President Franklin D. Roosevelt signed the
-Fair Labor Standards Act in 1938, which established the right to a minimum wage.
+Career Stereotypes Collapse in the Face of Workforce Change
 
-Certainly there have been some attempts to lift the wage floor. Most recently Democrats floated the Raise the Wage
-Act of 2023 that would have gradually increased minimum pay to $17 by 2028. Republicans countered with $11
-phased in over four years. Neither proposal has moved forward.
+The traditional career path where employees rise up the ranks and retire at the peak of their career is going away.
+Many employees don't retire at all or do so after a career shift or break. Workers are also facing involuntary
+disruption to careers due to economic cycles, displacement during conflict and natural disasters, and shifting
+responsibilities as technology and business models evolve.
 
-                                                                                                          Page 4 of 7
-                                           Editorial Roundup: United States
+As atypical career paths become mainstream, the well-entrenched talent stereotypes that underpin most talent
+management strategies will prove a growing barrier to talent acquisition and retention. For example, employers will
+break with the stereotype of career continuity by offering job sharing, gig work or reduced hours to provide greater
+flexibility. To take advantage of expertise where it exists, regardless of tenure, organizations will break the mold of a
+step-by-step progressive career trajectory.
 
-As part of her economic plan, Vice President Kamala Harris has called on Congress to send her a bill raising the
-minimum wage. She supported $15 an hour during the 2020 election, but hasn’t named a number this time.
+Gartner clients can learn more via the webinar: The 9 Future of Work Trends That Impact Your 2024 Strategy.
+Additional information is available in the associated article "9 Future of Work Trends For 2024."
 
-Donald Trump, not surprisingly, has sent conflicting messages on raising the minimum wage over the years. In
-2016, he said he wanted to raise the federal rate to at least $10, but later said minimum wage hikes should be left
-to the states, which is effectively what’s happening now.
+***
 
-Some 30 states and the District of Columbia have enacted higher wage floors, and many cities, including Los
-Angeles, San Francisco and New York City, have adopted higher base pay than their states in recognition that it is
-more expensive to live in urban areas. In Seattle and some surrounding cities, the minimum wage is almost $20 an
-hour.
+About the Gartner HR Practice
 
-Still, 20 states, bowing to politics and business lobbying, have kept the federal $7.25 an hour as their pay floor.
-That’s why Congress needs to act, and the next president should commit to signing a wage hike.
+The Gartner HR practice brings together the best relevant content approaches across Gartner to offer individual
+decision makers strategic business advice on the mission-critical priorities that cut across the HR function.
+Additional information is available at http://www.gartner.com/en/human-resources/human-resources-leaders. Follow
+news and updates from the Gartner HR practice on X and LinkedIn using #GartnerHR.
 
-The minimum wage is supposed to ensure workers can afford the basic necessities. It’s hard to imagine, even in
-less expensive regions, how an adult can pay for housing, food, healthcare and transportation on a full-time
-minimum wage salary of $15,000 a year. That is below the poverty line for a single parent with one child. When
-working people earn so little that they could qualify for Medicaid and food stamps, taxpayers end up subsidizing
-their employers.
+***
 
-If the federal minimum wage had kept up with inflation, it would be close to $11 an hour now. An estimated 5 million
-workers earn less than $11 an hour. And let’s not kid ourselves — while earning $11 an hour working full time
-would lift a single parent out of poverty, it’s probably not enough to pay the bills and save for a rainy day.
+About Gartner
 
-There will always be debate over the correct level at which to set the minimum wage to help the most workers with
-the fewest negative consequences, which could include businesses cutting low-wage jobs to save money. Yet it
-should be clear that $7.25 is now woefully low and no longer a fair wage floor. Everyone benefits when working
-people earn a decent living, and raising the federal minimum wage is essential.
+Gartner, Inc. (NYSE: IT) delivers actionable, objective insight that drives smarter decisions and stronger
+performance on an organization's mission-critical priorities. To learn more, visit gartner.com.
 
-ONLINE: https://www.latimes.com/opinion/story/2024-09-02/the-us-minimum-wage-is-poverty-pay-its-time-to-raise-
-it
+***
 
-___
+Original text here: https://www.gartner.com/en/newsroom/press-releases/2024-01-03-gartner-identifies-top-nine-
+workplace-predictions
 
-Sept. 3
+                                                                                                Page 4 of 4
+                      Gartner Identifies Top Nine Workplace Predictions for CHROs in 2024
 
-The Guardian says wealthier nations should help combat global health crisis
+[Category: BizConsulting]
 
-he pandemic may be behind us, but the world still has the jitters about infectious diseases. Covid has left its mark;
-flu is identified as the next looming terror. Yet when the World Health Organization declared a public-health
-emergency over mpox last month, the response has been depressingly unjust. None of the African countries
-affected by the outbreak of a new variant of mpox have received any of the promised vaccines.
+Contact:    Mary     Baker,        Gartner,   Mary.Baker@gartner.com;       Gerri     Weinberger,    Gartner,
+Gerri.Weinberger@gartner.com
 
-Unfortunately, it seems too much of the world considers that if the poor are out of sight, they are largely out of mind.
-Yet it is the west that is shaping the poor world’s health crises. Its companies push calorie-heavy processed foods
-and its governments insist on fiscal austerity. The biggest cause of premature death around the world is not
-infectious diseases, but chronic conditions such as cancer, diabetes and heart disease. So-called non-
-communicable diseases (NCDs) are responsible for three-quarters of all deaths in the world. Of the 41 million total,
-17 million are premature – before the age of 70. The heaviest toll is exacted in low- and middle-income countries,
-where 86% of all the premature deaths from chronic diseases occur.
+Copyright Targeted News Services
 
-And deaths from NCDs are going up. When you look at what the experts like to call the risk factors, that’s hardly
-surprising. These include tobacco, alcohol, air pollution, inactivity and diets high in salt, sugar and the wrong sort of
-fat. There will still be people who say falling foul of these lifestyle threats is the individual’s fault, but in poor
+MSTRUCK-8430530 MSTRUCK
 
-                                                                                                         Page 5 of 7
-                                          Editorial Roundup: United States
 
-countries where greedy corporations are seeking new markets and there’s little to no education about what’s good
-for you, the argument is even more specious than it is in rich Europe or the US.
-
-The WHO now talks of the “commercial determinants of health” and, to its credit, has been outspoken about the
-damage the market can cause, for instance in small island states where most food has to be imported. There need
-to be curbs on companies’ ability to market and advertise. Countries require money to take on the corporations, but
-also to run health systems to treat the increasing number of people falling ill with chronic diseases. The irony is that
-living longer may not mean living healthier.
-
-Just 2% of global funding for health goes into tackling NCDs. But investment repays itself many times over. A 2018
-WHO report – Saving Lives, Spending Less – calculated that implementing “best buy” measures to control NCDs –
-from increasing taxes on tobacco and alcohol to reducing salt, providing drugs for people who have suffered a heart
-attack or stroke and vaccinating girls against HPV, which causes cervical cancer – would save 8.2 million lives in
-low- and lower-middle-income countries by 2030 and generate $350bn in economic growth. Every $1 invested in
-these best buys would yield $7 by 2030.
-
-Six years on, the reasoning hasn’t changed, although it risks being drowned out by post-pandemic noise. In June,
-the WHO and the World Bank organised a financing dialogue for NCDs ahead of next year’s UN general assembly
-meeting on their prevention and control. Self-interest as well as decency should encourage funding for programmes
-that stabilise poorer nations’ health. Cash for NCDs doesn’t have the appeal of eradicating a disease, but it can
-prevent the family disaster that is the loss of a breadwinner or parent, with all the social and economic
-consequences that carries with it.
-
-ONLINE:         https://www.theguardian.com/commentisfree/article/2024/sep/03/the-guardian-view-on-a-global-health-
-crisis-living-longer-may-not-mean-living-healthier
-
-___
-
-Aug. 28
-
-The Boston Globe on fighting online disinformation and AI this election season
-
-So Donald Trump has had his fun with those AI-generated images of crowds of Taylor Swift fans in “Swifties for
-Trump” T-shirts, which reportedly sparked a backlash among actual Swifties.
-
-And who didn’t love the AI-generated scenes of Trump and Kamala Harris walking hand in hand along the shore in
-deep-fake love — a video clip now making its way around the globe courtesy of Elon Musk.
-
-But the use of artificial intelligence, disinformation, and hacking — all the tools of our internet age — are only
-funny until they’re not, until they are used maliciously by foreign actors to disrupt our democratic processes and to
-set us against each other for reasons based not in fact but in propaganda.
-
-Users themselves are the first line of defense: We all need to develop stronger skepticism about everything social
-media companies feed us. But the government and tech companies have to step up, too.
-
-“Iran and Russia have employed these tactics not only in the United States during this and prior federal election
-cycles but also in other countries around the world,” the FBI said in a statement issued last week in conjunction with
-the Office of the Director of National Intelligence and the Cybersecurity and Infrastructure Security Agency.
-
-The statement confirmed in this case that Iran was responsible for recent attempted hacks into the Trump and Joe
-Biden presidential campaigns.
-
-“The (intelligence community) is confident that the Iranians have through social engineering and other efforts sought
-access to individuals with direct access to the Presidential campaigns of both political parties,” the statement said.
-“Such activity, including thefts and disclosures, are intended to influence the US election process.”
-
-                                                                                                        Page 6 of 7
-                                          Editorial Roundup: United States
-
-In fact it was Microsoft that first went public with its announcement not simply of the campaign hacking but of a
-major disinformation campaign launched by Iran, especially in key battleground states.
-
-“One Iranian group has been launching covert news sites targeting US voter groups on opposing ends of the
-political spectrum,” the report said, with one in particular targeting left-leaning groups with anti-Trump messages.
-“The evidence we found suggests the sites are using AI-enabled services to plagiarize at least some of their
-content from US publications.”
-
-Another “group may be setting itself up for activities that are even more extreme, including intimidation or inciting
-violence against political figures or groups, with the ultimate goals of inciting chaos, undermining authorities, and
-sowing doubt about election integrity.”
-
-This was, of course, in addition to the successful spear-phishing email sent in June to longtime Trump confidant
-Roger Stone, which netted some vetting materials on Republican vice presidential candidate JD Vance. The
-materials were sent along to several news outlets but not published.
-
-Meanwhile, Russia, which has a long history of disinformation campaigns perfected in 2016, has certainly not been
-idle.
-
-The Justice Department reported in July that it had disrupted two Russian propaganda campaigns, both largely
-aimed at justifying Russia’s invasion of Ukraine and disparaging Ukraine, Poland, and the European Union.
-
-It was, however, the first time the United States had disrupted a “Russian-sponsored Generative AI-enhanced
-social media bot farm,” FBI Director Christopher Wray said in the statement announcing the discovery of 968 social
-media accounts on X. The US operation was carried out in connection with cybersecurity agencies in Canada and
-the Netherlands.
-
-As for those who had grown fond of the internet rantings of Sue Williamson of Gresham well, sorry to break the
-news, but she never did exist and now she’s gone. Hers was just one of those 968 accounts now voluntarily closed
-down by X.
-
-Earlier this month Meta disclosed that working on a tip from the FBI it too had removed “inauthentic” pages and
-accounts on Facebook and Instagram also aimed at disparaging Ukraine and its conduct of the war instigated by
-Russia.
-
-Meta continues to insist — as recently as its latest quarterly “Adversarial Threat Report” issued this month — that it
-regulates not content but “coordinated inauthentic behavior” online.
-
-“We view (coordinated inauthentic behavior) as coordinated efforts to manipulate public debate for a strategic goal,
-in which fake accounts are central to the operation,” it notes in the report. “In each case, people coordinate with one
-another and use fake accounts to mislead others about who they are and what they are doing. When we investigate
-and remove these operations, we focus on behavior, not content — no matter who’s behind them, what they post or
-whether they’re foreign or domestic.”
-
-Russia remains a top violator of the policy and during the past quarter had 139 Facebook accounts and 20
-Instagram accounts removed — many of them targeting Ukraine, its neighbors, or other countries in Europe.
-
-Another 96 Facebook accounts originating in the United States and operating domestically were also dismantled by
-its parent, Meta. Most of the accounts were centered around “a fictitious political advocacy group — the Patriots
-Run Project” attempting to attract “real conservatives” in such key battleground states as Arizona, Michigan,
-Nevada, Ohio, Pennsylvania, Wisconsin, and North Carolina.
-
-And while the accounts originated here, as the US Director of National Intelligence warned last month, “Foreign
-actors continue to rely on witting and unwitting Americans to seed, promote, and add credibility to narratives that
-serve the foreign actors’ interests,” particularly through social media.
-
-                                                                                                      Page 7 of 7
-                                         Editorial Roundup: United States
-
-And surely it’s no coincidence that the Justice Department has recently begun to probe Americans who have
-worked here and abroad for Russian state media.
-
-What used to be a straightforward process of the FBI and social media organizations finding common ground to
-protect the public from disinformation has been complicated by the recent legal case brought by two Republican
-attorneys general challenging how far the government could go to fight disinformation on the internet. The US
-Supreme Court found in favor of the Biden administration but left unsettled where that First Amendment line should
-be drawn.
-
-The government and social media companies — some brought reluctantly to the party — are slowly working to
-rebuild a relationship that is critical to the battle against disinformation.
-
-Meanwhile, the most appealing target of all for belligerent foreign actors — the US presidential election — grows
-closer.
-
-And Meta, however self-serving, offered up a valuable — if obvious — piece of advice in its latest cybersecurity
-report:
-
-“We encourage influential figures and the public at large to remain vigilant to avoid playing into the hands of
-deceptive operations attempting to manipulate public debate.”
-
-In other words, don’t believe everything you read online. Disinformation is one of the prices we pay for living in a
-free and open society — but we don’t have to fall for it.
-
-ONLINE: https://www.bostonglobe.com/2024/08/28/opinion/ai-hacking-disinformation-social-media-election/
-
-
-Load-Date: September 3, 2024
+Load-Date: January 4, 2024
 
 
   

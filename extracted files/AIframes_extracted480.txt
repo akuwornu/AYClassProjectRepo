@@ -1,120 +1,356 @@
 
 
-                                                                                                       Page 1 of 3
-                                    TUM and Creditreform on the Hunt for Greenwashing
+                                                                                             Page 1 of 7
+        Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                  Resources and Authorities Requested to Protect and Secure the Homela....
 
 
 
 
-                    TUM and Creditreform on the Hunt for Greenwashing
-                                                     Targeted News Service
-                                           June 5, 2024 Wednesday 9:47 PM EST
+  Senate Homeland Security and Governmental Affairs Committee Hearing;
+ "The FY2025 DHS Budget: Resources and Authorities Requested to Protect
+  and Secure the Homeland."; Testimony by Alejandro Mayorkas, Secretary,
+                  U.S. Department of Homeland Security
+                                           Congressional Documents and Publications
+                                                             April 18, 2024
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Length: 946 words
-Byline: Targeted News Service
-Dateline: MUNICH, Germany
+Section: U.S. SENATE DOCUMENTS
+Length: 3992 words
 
 Body
 
 
-(TNSres) -- The Technical University of Munich issued the following news:
+Introduction
 
-The Technical University of Munich (TUM) and the provider of business information Creditreform have launched a
-comprehensive cooperation to research various aspects of environmental, social, and management responsibility in
-companies (Environmental Social Governance). A central concern of the collaboration is the quality of data and
-information in order to effectively combat so-called greenwashing, i.e., the deliberate pretense of sustainable
-business practices.
+Chair Peters, Ranking Member Paul, and distinguished Members of the Committee:
 
-To this end, advanced methods are to be developed to assess the relevant company data. Artificial intelligence
-(AI) plays an important role here to be able to accurately assess compliance with the often elusive sustainability
-criteria using simulations.
+I appreciate the opportunity to appear before you to discuss the Department of Homeland Security's Fiscal Year
+(FY) 2025 President's Budget.
 
-TUM is also expanding its Integrative Research Institute Munich Data Science Institute (MDSI) and contributing its
-academic expertise and leading researchers in the field of AI and data science under the leadership of Prof. Gjergji
-Kasneci to the collaboration. Following the acquisition of a Konrad Zuse School, this new project demonstrates
-once again that projects launched with funding from the Excellence Initiative can develop powerfully and be scaled
-up with third-party financing.
+Since its inception, the Department has continuously evolved to achieve its mission. It has done so in an
+increasingly dynamic threat landscape through new programs and capabilities, cross-component collaboration, and
+unflinching dedication. Today, we are the third largest department in the Federal Government with a 268,000-
+member workforce. Every day, our personnel interact with the U.S. public more than any other Federal agency as
+we ensure the safety and security of all Americans, promote lawful trade and travel, protect our critical
+infrastructure, develop resilience to man-made and natural disasters, respond when disaster strikes, advance the
+security of cyberspace and modernize information technology, combat human trafficking and online child sexual
+exploitation, protect communities from illicit drugs and weapons, safeguard our borders, defend U.S. interests in the
+Arctic and the Indo-Pacific, guard our federal buildings, and much more.
 
-President Thomas F. Hofmann emphasized the importance of this partnership with Creditreform: "For us, it is a
-prototype of the synergies between university research and entrepreneurial application. In this collaboration, we are
-creating new insights from the combination of scientific AI expertise and data from the business world."
+The FY 2025 President's Budget for the Department totals $107.9 billion, providing the resources needed to keep
+our nation safe, strong, and prosperous. This funding supports the Department's ever-evolving mission set and
+aligns with key Presidential priorities. The Budget continues investments to advance our mission to combat
+terrorism, to secure our borders and enforce immigration law, to counter threats of fentanyl and other illicit drugs, to
+promote a humane and efficient system of refugee processing, and to address personnel needs. The Budget
+supports Indo-Pacific engagement and readiness operations. It supports investing in and building a resilient nation,
+laying a foundation for the responsible use of Artificial Intelligence (AI), and bolstering cyber defenses and
+national resilience. This testimony highlights FY2025 investments which ensure the Department has the resources
+it needs to enforce our laws and keep the American people, our homeland, and our values secure.
 
-Creditreform CEO Bernd Butow adds: "The cooperation is a milestone in the development of an AI-supported
-methodology for evaluating and processing data to assess ESG risks. The combination of academic research and
-our expertise as a credit agency in the context of sustainability information and reporting, among other things, is a
-real driver of innovation in the field of data analysis."
+                                                                                            Page 2 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
 
-***
+Of the $107.9 billion requested in FY 2025, $62.2 billion is discretionary budget authority, and $22.7 billion is for the
+Disaster Relief Fund to enable response and recovery efforts during major disasters and emergencies and to build
+resilience to natural hazards. A TSA legislative proposal related to fees, if enacted, would decrease net
+discretionary appropriations by $1.6 billion by directing more offsetting collections directly to TSA. The Budget also
+includes a proposed $4.7 billion Southwest Border Contingency Fund to respond to changing conditions on the
+Southwest Border.
 
-                                                                                                        Page 2 of 3
-                                TUM and Creditreform on the Hunt for Greenwashing
+The Budget includes, and reiterates the need for, the Administration's border and disaster supplemental requests
+transmitted to Congress in October, which total $17.9 billion for DHS. Additionally, DHS urges Congress to pass the
+Senate's bipartisan border security supplemental in order to provide vital funding and authorities in the
+Department's efforts to secure the Southwest Border, build capacity to enforcement immigration law and counter
+trafficking in fentanyl.
 
-Further information and links
+I am eager to work with Congress to deliver for the American people and the men and women who protect our
+Homeland.
 
-Under the motto "Shaping the future with data", the MDSI deals with the digital transformation in society, business,
-and science. The aim is to anticipate, accompany, and shape this change. The MDSI is TUM's central,
-interdisciplinary interface and innovation platform for questions and solutions in data science, machine learning, and
-artificial intelligence. As an integrative research institute, it is a core component of TUM AGENDA 2030. It is
-funded by the Excellence Initiative of the federal and state governments as well as the High-Tech Agenda Bavaria
-(HTA). It is located in GALILEO on the Garching research campus but works across all locations.
+Advance Our Mission to Combat Terrorism
 
-The following initiatives and facilities are assigned to the MDSI:
+The President's Budget supports the Department's continued efforts to combat terrorism, both domestically and
+abroad. The FY 2025 Budget fully funds the DHS Special Events Program, a critical program that gathers
+information on more than 57,000 special events, to identify and assess terrorism risk to high profile events across
+the Nation and facilitates the risk rating of special events using the Special Events Assessment Rating (SEAR)
+methodology.
 
-* One example of a domain-specific MDSI activity is the TUM Georg Nemetschek Institute - Artificial Intelligence
-for the Built World. It was founded under the umbrella of the MDSI with the support of a 50 million euro donation
-from the Nemetschek Innovation Foundation in 2020. Here, research on AI and machine learning applications is
-bundled along the entire life cycle of buildings - from planning to construction and sustainable management.
+The President's Budget provides $418.0 million to support the Countering Weapons of Mass Destruction Office
+(CWMD), increasing our security against chemical, biological, radiological, and nuclear (CBRN) terrorist threats.
+Funding of $181.4 million provided to CWMD in the President's Budget are dedicated to support state, local, tribal,
+and territorial (SLTT) partners by building personnel and technical capabilities and increasing knowledge regarding
+CBRN threats and incidents.
 
-* The MDSI is also home to the AI Future Lab AI for Earth Observation (AI4EO), funded by the Federal Ministry of
-Education and Research and headed by Xiaoxiang Zhu, one of the five MDSI directors. AI4EO combines TUM's
-strengths in geodesy & earth observation, satellite technology, mathematics, AI, and ethics to develop reliable
-models of global urbanization, food supply, and natural disaster management.
+Continuing to invest in innovative solutions is vital in countering weapons of mass destruction and to the
+Department's frontline personnel who rely on such technologies, including United States Coast Guard (USCG)
+Special Mission Units. The President's Budget provides $138.3 million to ensure CWMD possesses the resources
+needed for research, acquisition, development, test, and evaluation of next generation technology to bolster
+environmental biodetection and chemical defense programs.
 
-* The Center for Digital Medicine and Health is being built under the umbrella of the MDSI as a new federally/state-
-funded research building to bring the core competencies of computer science to the medical campus of the TUM
-University Hospital "rechts der Isar". Under the leadership of MDSI Director Daniel Ruckert, the focus is on the
-development of data-driven approaches and AI methods in medicine - from the early detection and diagnosis of
-diseases to the identification of biomarkers for individualized and personalized treatments, to ethics, security, and
-data protection in the use of patient data.
+The Budget includes an $80 million increase for the Nonprofit Security Grant Program (NSGP), which provides
+target hardening and other physical security enhancements for nonprofit organizations at high risk of terrorist attack,
+including places of worship. The NSGP is designed to integrate nonprofit preparedness activities with broader state
+and local preparedness efforts. It is also designed to promote coordination and collaboration in emergency
+preparedness activities among public and private community representatives, as well as state and local government
+agencies. Additionally, the budget includes $18 million for the Targeted Violence and Terrorism Prevention Grants
+to support activities to prevent the recruitment or radicalization of individuals to violence by interrupting those
+efforts, building community-level resilience, and identifying the early signs of radicalization to violence and providing
+appropriate interventions through civic and public health organizations, law enforcement, or other entities.
 
-* The Munich Center for Machine Learning (MCML) - under the joint leadership of TUM and LMU - is funded by the
-BMBF and the HighTech Agenda Bayern as one of the National AI Competence Centers. The TUM branch of the
-MCML is integrated into the MDSI infrastructure and is led by Daniel Cremers, one of the MDSI directors. He also
-heads the TUM part of the ELLIS Unit Munich, which is managed jointly with Helmholtz Munich within the European
-Laboratory for Learning and Intelligent Systems (ELLIS).
+Securing the Border and Facilitating Lawful Trade and Immigration
 
-* Since 2022, the DAAD has funded the Konrad Zuse School of Excellence in Reliable AI - jointly coordinated by
-TUM and LMU. The MDSI hosts the office of the Konrad Zuse School and is headed by MDSI Executive Director
-Stephan Gunnemann. MSc and PhD candidates are trained in developing reliable AI technologies - including
-scientific knowledge, business expertise, and industrial experience. They conduct cutting-edge research to make AI
-ready for use in areas of public interest, with all its implications for reliability, security, and privacy.
+Countries throughout the Western Hemisphere and across the world continue to face unprecedented levels of
+migration inflamed by violence, food insecurity, corruption, dire economic conditions, and the lingering effects of the
+COVID-19 pandemic. Failing authoritarian regimes in Venezuela, Cuba, and Nicaragua, and an ongoing
+humanitarian and security crisis in Haiti and Ecuador, have driven millions from their homes. Several countries'
+uncooperative governments severely restrict our ability to return their nationals. Migrants from the Middle East,
+Central Asia, Africa, and Asia are using pathways through Central and South America to reach the United States.
 
-https://www.mdsi.tum.de/en/mdsi/home/
+                                                                                            Page 3 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
 
-***
+Migratory movements are often leveraged by human smuggling organizations that exploit migrants for profit as part
+of a billion-dollar criminal enterprise.
 
-Original text and links presented by source here: https://www.tum.de/en/news-and-events/all-news/press-
-releases/details/tum-and-creditreform-on-the-hunt-for-greenwashing
+U.S. Customs and Border Protection (CBP) and U.S. Immigration and Customs Enforcement (ICE) work together to
+secure America's borders and enforce our nation's immigration laws. CBP is responsible for securing our nation's
+borders to protect against terrorist threats, combat and deter transnational crime, and facilitate lawful travel, trade,
+and immigration. ICE protects our nation through criminal investigations and enforcing immigration laws to preserve
+national security and public safety and stands at the forefront of our nation's efforts to strengthen border security,
+counter fentanyl, and prevent the illegal movement of people and goods. The FY 2025 Budget includes $25.9 billion
+for CBP and ICE to continue these vital functions and significant investment in personnel and technology to carry
+out these critical mission sets.
 
-Contact: Ulrich Meyer, presse@tum.de; Gjergji Kasneci, School of Social Sciences and Technology, Chair for
-Responsible Data Science, gjergji.kasneci@tum.de
+The requested CBP funding includes an increase of $210.3 million that would support the hiring of an additional 350
+Border Patrol Agents, an additional 310 Border Patrol Processing Coordinators, 150 CBP Officers, and 411
+Operational and Mission Support Personnel. Additional field agents and support staff will bolster situational
+awareness, respond to enhanced levels of migration, and advance the enforcement mission. It supplements CBP's
+efforts to reduce reliance on the Department of Defense by including $39.8 million to sustain Integrated Surveillance
+Towers along the Southwest Border. The Budget also provides $26.2 million for research and development efforts
+in critical operational capabilities such as Counter-Unmanned Aircraft.
 
-Copyright Targeted News Services
+Requested ICE funding includes $2 billion to sustain 34,000 ICE Enforcement and Removal Operations (ERO)
+immigration detention beds. The Southwest Border Contingency Fund will resource additional detention beds if
+conditions require increased capacity.
 
-MSTRUCK-8658463 MSTRUCK
+The request of $2.5 billion for ICE Homeland Security Investigations (HSI) would fund additional personnel and
+technology enhancements for investigative capacities, including a $21 million increase for child exploitation
+investigations, a vital national asset in the global fight against transnational criminal threats. These investigations
+helped inform a forthcoming national public awareness campaign. Children, teens, parents, trusted adults, and
+policymakers will be educated and empowered to prevent and combat online child sexual exploitation and abuse;
+learn how to report online enticement and victimization; and obtain response and support resources for victims and
+survivors of online child sexual exploitation. We look forward to launching this campaign with our partners this
+month.
 
-                                                                              Page 3 of 3
-                          TUM and Creditreform on the Hunt for Greenwashing
+Working within a broken immigration system and in the face of enormous challenges and consistently insufficient
+funding, DHS faithfully enforces the law to secure our borders. We are removing and returning record numbers of
+migrants who are unable to establish a legal basis to remain in the United States. Since mid-May 2023, we
+removed or returned more than 630,000 individuals, the vast majority of whom crossed the Southwest Border,
+including nearly 100,000 individuals in family units. Total removals and returns in the last 11 months exceed
+removals and returns in every full fiscal year since 2013.
+
+Countering Fentanyl
+
+Fentanyl is one of the deadliest drugs our country has ever faced. It is 50 times stronger than heroin and
+remarkably cheap and easy to produce. The profit potential and potency of small doses of fentanyl complicate
+efforts for law enforcement personnel cracking down on smuggling operations. CBP and ICE are working together
+with federal, state, and local partners to successfully combat transnational criminal organizations and counter their
+trafficking in fentanyl and other controlled substances. The Department has stopped more illicit fentanyl and
+arrested more individuals for fentanyl-related crimes in the last two fiscal years than in the previous five years
+combined.
+
+The Department's FY 2025 Budget includes critical investments in the fight against fentanyl. Through investments
+in Non-Intrusive Inspection technology and targeted operations such as Operations Artemis, Rolling Wave, and
+Argus, CBP and ICE HSI increased the interdiction of fentanyl, fentanyl precursors, and collateral contraband, in
+
+                                                                                            Page 4 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
+
+particular the pill presses used to manufacture fentanyl. The Administration is also prepared to send to Congress a
+legislative proposal to cement the Unity Agenda Strategy to combat the fentanyl epidemic.
+
+Supporting Refugee Processing and a Fair, Orderly, and Humane Immigration System
+
+The Biden-Harris Administration is committed to safeguarding the integrity of our nation's immigration system by
+efficiently and fairly adjudicating requests for immigration benefits. U.S. Citizenship and Immigration Services
+(USCIS) provides safe, lawful pathways for migration. The FY 2025 Budget includes $265 million for USCIS to
+bolster refugee processing in support of the Administration's goal to welcome up to 125,000 refugees from across
+the world, including up to 50,000 from the Western Hemisphere; expand the E-Verify Program; and support the
+Citizenship and Integration Grant Program.
+
+Investing in Cybersecurity and Emergency Communications
+
+The Department's Cybersecurity and Infrastructure Security Agency (CISA) serves as both America's cyber defense
+agency and as the national coordinator for critical infrastructure security and resilience.
+
+President Biden signed the Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA) into law in
+March 2022. To meet CIRCIA's requirements, CISA must add new staff, update existing programs, and implement
+new processes and technologies. The FY 2025 Budget includes critical resources to facilitate CISA's ability to
+receive, analyze, and share reports required under CIRCIA once regulatory reporting requirements become
+effective. The Budget includes $115.9 million to help ensure CISA has sufficient funds for staffing, operations, and
+technology to successfully implement CIRCIA.
+
+The FY 2025 Budget also includes $394.1 million to support the Joint Collaborative Environment, which enables
+CISA to fulfill its mission of centralizing and synthesizing cyber threat and vulnerability data across federal, SLTT,
+and private sector stakeholders, and rapidly work with these stakeholders to reduce associated risk.
+
+Additionally, the Budget includes $469.8 million for Continuous Diagnostics and Mitigation to complete mobile asset
+deployments, continue cloud asset deployments to fill capability gaps, and align to agency zero-trust use cases.
+Funding also sustains existing Endpoint Detection and Response investments and incorporates sensors to increase
+operational visibility within the Network Security Management capability.
+
+The Federal Government continues to leverage TSA's unique authorities - including the ability to issue Security
+Directives and Emergency Amendments within hours of receiving information about a threat - to address cyber
+threats. Cyber threats grew dramatically over the past decade and that growth shows no sign of slowing down.
+Accordingly, the FY 2025 Budget includes an increase of $15 million to conduct critical mission support functions to
+reduce cyber threats to American critical infrastructure in both near and mid-terms, and in support of both the
+surface and aviation sectors.
+
+Responsibly Deploying Artificial Intelligence Technology
+
+At the Department of Homeland Security, we embrace the responsibility to ensure that AI is developed and adopted
+in a way that realizes its full potential while protecting the public from any harm its irresponsible or adversarial use
+might cause. The FY 2025 Budget enables the Department to responsibly leverage AI and machine learning to
+advance our homeland security missions while protecting individuals' privacy, civil rights, and civil liberties. Funding
+incudes $5.0 million for a new AI Office, led by the Chief AI Officer, within the Office of the Chief Information Officer.
+The AI Office will be responsible for setting priorities, directing policies, and oversight of the responsible use of AI
+across DHS.
+
+DHS will continue to deploy AI tools across strategic areas of the homeland security enterprise, including efforts to
+counter fentanyl, combat child sexual exploitation and abuses, deliver immigration services, secure travel, fortify our
+critical infrastructure, and enhance our cybersecurity. Consistent with President Biden's Executive Order, DHS will
+also direct funds to manage AI in critical infrastructure and cyberspace, promote the adoption of global AI safety
+
+                                                                                            Page 5 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
+
+standards, reduce the risk that AI can be used to create weapons of mass destruction and other related threats,
+combat AI-related intellectual property theft, and help the United States attract and retain skilled talent.
+
+The FY 2025 Budget provides additional AI funds for talent recruitment programs that will benefit DHS missions,
+including the DHS AI Corps that launched in February to hire 50 AI experts in the Department. The effort has
+already received over 3,000 applications. Funds will also support training programs to build AI literacy across the
+Department's workforce and secure AI systems in critical infrastructure. The funds will also support existing ICE,
+CBP, and Federal Emergency Management Agency (FEMA) programs ensuring investment and expansion in line
+with Executive Order 14110, Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.
+
+In March 2024, we introduced the DHS AI Roadmap, which outlines the Department's AI initiatives and the
+technology's potential across the homeland security enterprise. It is the most detailed AI plan put forward by a
+federal agency to date, directing our efforts to fully realize AI's potential to protect the American people and our
+homeland, while steadfastly protecting privacy, civil rights, and civil liberties.
+
+Our roadmap for the coming year includes exploring new AI applications and pursuing a whole-of-government
+strategy for ensuring the safe, secure, and trustworthy development and use of AI. We are seeking to engage
+partners across government, the private sector, and academia to bolster our nation's security.
+
+Investing in a Disaster-Resilient Nation
+
+FEMA strengthens the nation's ability to prepare for and respond to disasters of all types and magnitudes via
+partnerships with SLTT governments and the delivery of assistance to disaster survivors. In January, DHS
+announced historic changes to FEMA's Individual Assistance Program that ensure survivors will be provided with
+faster and easier access to resources they need immediately after a disaster. Last month, these changes went into
+effect and they will transform how we interact with survivors and empower individuals and communities in all future
+disasters.
+
+The Budget includes increased funding for programs and activities that support FEMA's goals to lead whole-of-
+community efforts in resilience and promote and sustain a prepared nation. The FY 2025 Budget provides a major
+disaster allocation totaling $22.7 billion for FEMA to assist SLTT partners and individuals affected by major
+disasters and emergencies. This funding will support FEMA's continued recovery efforts from the devastating Maui
+fire, Hurricanes Maria, Fiona, and Ian, and other major disaster activity. In Maui our teams are on the ground
+delivering assistance in Lahaina and across Maui. As the roads are cleared and debris removed, as a temporary
+elementary school has opened, and as survivors begin to rebuild their homes, FEMA will continue to be there on
+the long road to recovery. The funding Congress provides directly impacts our ability to ensure survivors have the
+assistance they need to return to Lahaina and their community. The Budget provides approximately $3.2 billion in
+FEMA grants bolstering SLTT community partnerships to improve the nation's disaster resilience and
+preparedness strategies and includes the previously mentioned $385 million for the NSGP.
+
+Increasing Coast Guard Presence in the Indo-Pacific Region
+
+The U.S. Coast Guard is a vital part of the Administration's national security vision. Increasing USCG's presence in
+the Indo-Pacific region is critical to that vision, the investments detailed below will enable a stable, free, and open
+region, and solidify the United States as a trusted partner in the region.
+
+The FY 2025 Budget provides $12.3 billion in net discretionary funding to sustain current readiness, resilience, and
+capabilities while building the Coast Guard of the future. The Budget expands efforts for the Coast Guard's two
+highest acquisition priorities, the Offshore Patrol Cutter (OPC) and Fast Response Cutter (FRC). The OPC replaces
+the Coast Guard's fleet of Medium Endurance Cutters that conduct missions on the high seas and coastal
+approaches while FRC funding expands the program of record and construction of two FRCs in support of the
+nation's Indo-Pacific Strategy. Of the $263 million provided to USCG, $200 million will increase the FRC fleet from
+65 to 67 boats, which are well-equipped to engage with partner nations throughout the region.
+
+                                                                                            Page 6 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
+
+The Budget also provides funding to support training, partnerships, and meaningful engagement in the Indo-Pacific
+region. For example, it includes funds for an Indo-Pacific based Coast Guard Marine Transportation System (MTS)
+Assessment Team that will drive regional economic prosperity by performing vital Ports and Waterways Safety
+Assessments, Port Access Route Studies, and Waterways Analysis and Management System studies. Additionally,
+the budget also funds a, a Maritime Engagement Team focused on bolstering partner-nation capacity, and regional
+maritime advisors, liaison officers, attaches, legal support, and foreign engagement personnel that will support the
+U.S. presence and our interests in the region.
+
+The 2024 Presidential Campaign and National Special Security Events
+
+The U.S. Secret Service (USSS) protects the President, the Vice President, their immediate families, visiting heads
+of state, other designated individuals, and the White House Complex, the Vice President's residence, foreign
+diplomatic missions, and other designated buildings. Additionally, the USSS coordinates security at National
+Special Security Events, such as the State of the Union Address, the United Nations General Assembly, and
+international summits hosted in the United States, such as the upcoming NATO Summit. The Service also protects
+the nation's financial infrastructure by investigating counterfeiting, identity theft, computer fraud, and other financial
+security crimes.
+
+This year, the USSS will increase protective details, travel and overtime related to the Presidential Campaign. The
+FY 2025 Budget includes $70 million to ensure the 2024 Presidential Campaign is adequately resourced for the
+protection of major candidates, designated nominees, their spouses, and nominating conventions. This funding
+supports enhanced protection, security, travel, and overtime for the 2024 Presidential Campaign and includes
+resources to train USSS personnel and other federal partner agencies.
+
+The President's Budget includes $16.0 million to support planning and prepositioning of assets needed for the
+protection of the 2026 FIFA World Cup and $19 million for other NSSEs.
+
+Modernizing TSA Pay and Workforce Policies
+
+Every day, TSA personnel help millions of travelers reach their destinations safely, fulfilling one of our Department's
+core missions since our founding in the wake of the September 11 attacks. The TSA workforce deserves to be fairly
+compensated at rates comparable with their peers on the General Schedule pay scale. The FY 2025 Budget
+includes an additional $1.5 billion to continue the FY 2023 initiative to increase TSA pay levels, making TSA pay
+comparable to federal government employees in similar positions and enhancing recruitment and retention efforts.
+
+The Budget resources TSA passenger volume growth expectations in FY 2025 to follow the historical growth rate of
+4.5 percent averaged over the 2014-2019 period, which equates to an average 3.1 million daily passengers in 2025.
+Increased volume equates to greater risks to passenger safety. To mitigate this risk the President's Budget includes
+$174 million to adequately staff check points to meet the demands of the increased passenger volume while
+maintaining minimal wait times for passengers.
+
+Conclusion
+
+The Department was founded to confront a threat environment that has proven to be increasingly dynamic and
+diverse. The FY 2025 President's Budget builds on our successes to meet the ever-changing threat landscape we
+face and prepares the Department to meet the threats of tomorrow.
+
+It is the privilege of my life to represent and serve alongside the DHS workforce - a workforce that has time and
+again demonstrated exceptional skill and steadfast commitment to keeping the Homeland safe and secure.
+
+I am grateful to this Committee for your continued support and the opportunity to appear before you today. I look
+forward to working together and to answering your questions.
+
+                                                                                            Page 7 of 7
+       Senate Homeland Security and Governmental Affairs Committee Hearing "The FY2025 DHS Budget:
+                 Resources and Authorities Requested to Protect and Secure the Homela....
+
+Read this original document at: https://www.hsgac.senate.gov/hearings/the-fy25-dhs-budget-resources-and-
+authorities-requested-to-protect-and-secure-the-homeland/testimony-mayorkas-2024-04-18/
 
 
-Load-Date: June 5, 2024
+Load-Date: April 19, 2024
 
 
   

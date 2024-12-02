@@ -1,90 +1,70 @@
 
 
-                                                                                             Page 1 of 2
-   Maximus Awarded OPM Contract for New Postal Service Health Benefits Program Maximus is Contact Center
-                       Services Provider for new program launching in November
+                                                                             Page 1 of 2
+    STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY THROUGH CLOUD TECHNOLOGY
 
 
 
 
-    Maximus Awarded OPM Contract for New Postal Service Health Benefits
-    Program; Maximus is Contact Center Services Provider for new program
-                          launching in November
-                                                   Business Wire
-                                      August 27, 2024 Tuesday 3:00 PM GMT
+        STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY
+                     THROUGH CLOUD TECHNOLOGY
+                                                States News Service
+                                            January 10, 2024 Wednesday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 539 words
-Dateline: TYSONS, Va.
+Length: 498 words
+Byline: States News Service
+Dateline: ANCHORAGE, Alaska
 
 Body
 
 
-Maximus (NYSE: MMS), a leading employer and provider of government services worldwide, today announced it
-has been awarded a $20 million contract from the Office of Personnel Management (OPM) to serve as the Contact
-Center Services Provider for the agency's new Postal Service Health Benefits Program . This program will provide
-health insurance to eligible Postal Service employees, annuitants, and their eligible family members starting in
-2025.
+The following information was released by the office of the Governor of Alaska:
 
-Maximus will be leading the customer support effort to answer calls and emails for OPM's new, enhanced customer
-service platform dedicated to assisting eligible individuals access health insurance benefits. Maximus will leverage
-offerings from its Total Experience Management (TXM) solution, including state-of-the-art telephony, customer
-relationship management, and call quality reporting tools to provide best-in-class customer service.
+Alaska has emerged as a leader in state government technology by embracing cloud services. Over the past two
+years, the Department of Administration's Office of Information Technology (OIT) has taken significant steps to
+move State servers and software applications from local data centers to the cloud. This shift enhances the security
+of Alaskans' data, improves reliability, and updates Alaska's technical infrastructure, providing easier access to data
+and services that are safer and allow for growth and change quickly.
 
-"The Postal Service Health Benefits Program is an invaluable benefit for the U.S. Postal Service workforce, and
-Maximus is uniquely positioned to develop this new contact center and Customer Experience (CX) approach based
-on more than 30 years of experience working with OPM," said Larry Reagan, Senior Managing Director, Federal
-Civilian Market, Maximus. "Our senior team has vast experience standing up new customer service programs at
-scale for federal agencies to deliver a range of services, including disaster recovery, education, and health benefit
-services."
+"At the heart of this initiative is our commitment to modernize and secure Alaska's digital landscape. By transitioning
+to cloud technology, we are not only ensuring the safety of our citizens' data but also paving the way for a more
+efficient and flexible government," said Governor Mike Dunleavy. "We are striving to be at the forefront of digital
+innovation, and cloud migration is an important step."
 
-The Postal Service Health Benefits Program is a new, separate program within the Federal Employees Health
-Benefits (FEHB) Program, administered by OPM and will replace FEHB coverage for eligible groups. The
-implementation and modernization of public-facing programs have long been a specialty for Maximus, including
-work with the Federal Emergency Management Agency ( FEMA ) and the Internal Revenue Service ( IRS ).
+The first phase of this rapid cloud migration, completed in approximately nine months, successfully moved over 700
+applications to the cloud without disrupting services to Alaskans. In their new locations, these applications now
+benefit from world-class security features, modern information technology (IT) systems, and significantly improved
+resilience.
 
-Maximus recently launched TXM as a cloud-based modular, flexible, and scalable technology for federal agency
-leaders based on its extensive experience with mission-critical programs at scale. The full solution integrates
-platforms for communications, customer and employee-centric strategies, and a host of microservices, such as AI-
-enabled web services, chatbots, and the Maximus Intelligent Virtual Assistant (IVA).
+Building on the success of the initial phase, the second phase of the migration project has begun and will continue
+over the next several months. For most systems, the State can increase storage and computing without buying new
+hardware, ensure dynamic disaster and ransomware recovery, and adjust capacity quickly based on actual needs.
+The flexibility inherent in the cloud means less time spent on expensive hardware replacement and more time
+focusing on providing services through platforms such as MyAlaska and MyADFG or online health, public safety,
+DMV service, and more.
 
-                                                                                            Page 2 of 2
-  Maximus Awarded OPM Contract for New Postal Service Health Benefits Program Maximus is Contact Center
-                      Services Provider for new program launching in November
+"Migrating State servers to the cloud isn't just a leap forward for State agencies; it is a leap forward for Alaskans.
+The resulting enhancements in security, reliability, access, and safety are an improvement for us all. Our data will
+be more secure and State services will be more reliable and accessible for Alaskans," said Department of
 
-To learn more about Maximus and its capabilities for improving CX for federal agencies, visit maximus.com/txm-
-solution .
+                                                                            Page 2 of 2
+   STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY THROUGH CLOUD TECHNOLOGY
 
-About Maximus
+Administration Commissioner, Paula Vrana. "Because of this initiative, Alaskans will be able to do business with the
+State more confidently and with greater convenience than ever before."
 
-As a leading strategic partner to governments across the globe, Maximus helps improve the delivery of public
-services amid complex technology, health, economic, environmental, and social challenges. With a deep
-understanding of program service delivery, acute insights that achieve operational excellence, and an extensive
-awareness of the needs of the people being served, our employees advance the critical missions of our partners.
-Maximus delivers innovative business process management, impactful consulting services, and technology
-solutions that provide improved outcomes for the public and higher levels of productivity and efficiency of
-government-sponsored programs. For more information, visit maximus.com .
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240827600267/en/
+The collaborative efforts of Alaska's dedicated IT professionals, working alongside industry-leading partners, is part
+of a broader endeavor to enhance security and bring many other benefits in terms of scale, performance, and
+innovation to the State's digital infrastructure. One of those is laying the foundation for the use of Artificial
+Intelligence (AI) tools, as the State's cloud platform provides a library of private AI tools which will allow State
+agencies to quickly develop AI applications for public service.
 
 
-CONTACT: Investor Relations
-James Francis
-Jessica Batt
-
-IR@maximus.com Media & Public Relations
-Eileen Cassidy Rivera
-
-media@maximus.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 27, 2024
+Load-Date: January 11, 2024
 
 
   

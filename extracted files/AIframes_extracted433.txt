@@ -1,89 +1,98 @@
 
 
-                                                                                                   Page 1 of 2
-     IEEE/CAA Journal of Automatica Sinica Study Presents Novel Protocol Structure for Achieving Finite-Time
-                                      Consensus of Multi-Agent Systems
+                                                                          Page 1 of 2
+  CLINT DAWSON AND STEPHEN VLADECK HONORED WITH PRESIDENT'S RESEARCH IMPACT AWARD
 
 
 
 
-     IEEE/CAA Journal of Automatica Sinica Study Presents Novel Protocol
-     Structure for Achieving Finite-Time Consensus of Multi-Agent Systems
-                                                           PR Newswire
-                                              June 14, 2024 Friday 8:39 AM EST
+  CLINT DAWSON AND STEPHEN VLADECK HONORED WITH PRESIDENT'S
+                   RESEARCH IMPACT AWARD
+                                                       US Fed News
+                                           April 10, 2024 Wednesday 12:32 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 898 words
-Dateline: BEIJING, June 14, 2024
+
+
+
+Length: 816 words
 
 Body
 
 
-PR NewswireBEIJING, June 14, 2024 /PRNewswire/ -- Achieving finite-time consensus for multi-agent systems is
-essential for reliable and efficient autonomous systems. Traditional protocols based on homogeneity theory rely on
-a non-smooth saturation function, which makes proving consensus convergence difficult and makes it hard to
-predict settling times. In a new study, researchers developed a new protocol structure using a hyperbolic tangent
-function, which ensures global/semi-global finite-time consensus and enables exact settling time calculation, paving
-the way for improved autonomous systems.Consensus problems, where a group of agents, such as unmanned
-vehicles, machines, or robots, need to agree on certain variables only through local communication within
-themselves, have attracted considerable attention as a fundamental issue in cooperative control of multi-agent
-systems. Simply put, a multi-agent system comprises multiple decision-making agents that interact among
-themselves in a common environment to achieve common or conflicting goals depending on the situation.
+AUSTIN, Texas, April 10 -- The University of Texas at Austin issued the following news release:
 
-Depending on whether agents track a predetermined leader, these problems can be classified into leaderless or
-leader-following consensus. Researchers have extensively studied both types of problems and developed
-consensus protocols. However, most current protocols only provide asymptotic consensus.Some applications
-require exact consensus in a limited time or finite-time consensus. Achieving such a consensus results in improved
-control accuracy and stability. In practical applications, finite-time consensus requires considerable control effort.
-However, there are physical limitations to control effort, which if neglected, can degrade controller performance.
-Studies have explored solutions for finite-time control methods subject to constraints, but most methods rely on
-homogeneity theory, in which ensuring convergence of consensus is difficult, and an exact settling time is hard to
-estimate.Addressing these issues, a team of researchers, including Senior IEEE Member Professor Zongyu Zuo,
-Mr. Jingchuan Tan, and Mr. Ruiqi Ke, all from the Seventh Research Division at Beihang University (BUAA), China,
-and IEEE Fellow Professor Qing-Long Han from the School of Science at Computing and Engineering
-Technologies at Swinburne University of Technology, Australia, developed a novel protocol structure for achieving
-global and semi-global finite-time consensus for both leaderless and leader-following multi-agent systems. Their
-study waspublished in Volume 11, Issue 6 of theIEEE/CAA Journal of Automatica Sinicain June 2024.The team
-was motivated by a fascination with the potential of robotic systems and artificial intelligence to transform our
-daily lives and tackle complex societal challenges efficiently and sustainably. Prof. Zuo intuitively explains their
-work, "Imagine a group of dancers who need to perform a synchronized routine, without directly seeing each other,
-only following cues from those nearby. Our work is akin to creating a set of rules that helps these dancers
+AUSTIN, Texas - The creator of a code to predict hurricane storm surges and an expert on the federal courts and
+constitutional law have been named the 2024 recipients of The University of Texas at Austin President's Research
+Impact Award.
 
-                                                                                                  Page 2 of 2
-    IEEE/CAA Journal of Automatica Sinica Study Presents Novel Protocol Structure for Achieving Finite-Time
-                                     Consensus of Multi-Agent Systems
+Clint Dawson, the Cockrell Family Regents Chair in Engineering #2 and director of the Computational Hydraulics
+Group at the Oden Institute, and Stephen Vladeck, the Charles Alan Wright Chair in Federal Courts at the School of
+Law, were recently presented with the award. President Jay Hartzell established the President's Research Impact
+Award in 2023 to recognize University researchers whose scholarly or creative endeavors have changed lives and
+the way we look at and understand the world.
 
-synchronize perfectly in a short time, ensuring everyone performs beautifully together even if they have limitations
-in how quickly they can move."The protocols presented in the study use a hyperbolic tangent function, instead of
-the non-smooth saturation function used in traditional protocols. These protocols guarantee global and semi-global
-finite-time consensus for integrator and double integrator type systems, respectively. Moreover, they also allow
-explicit calculation of an upper limit for settling time and a user-prescribed bounded control level for closed-loop
-systems, making them highly practical and valuable for real-world applications. Additionally, unlike traditional
-protocols, the hyperbolic tangent function avoids the need to determine input saturation for each agent, simplifying
-the design and stability analysis of the protocols. The researchers demonstrated the effectiveness of the new
-protocol structure through illustrative examples for single- and double-integrator multi-agent systems and by
-applying it to a practical system with multiple direct current motors.Highlighting the practical applications of this
-study, Prof. Zuo says, "These protocols have broad applications, such as autonomous drone fleets for agricultural
-or surveillance tasks, coordinated control of robotic arms, and synchronized traffic light systems. Ultimately, our
-research could improve the efficiency and reliability of autonomous systems. For example, better traffic
-management systems could reduce congestion and pollution, while more coordinated disaster response robots
-could save lives during crises."Overall, the innovative protocol structure marks a significant achievement in the field
-of consensus problems, leading to enhanced multi-agent autonomous systems.ReferenceTitles of original papers:
-Hyperbolic Tangent Function-Based Protocols for Global/Semi-Global Finite-Time Consensus of Multi-Agent
-Systems
-Journal:IEEE/CAA Journal of Automatica Sinica
-DOI:10.1109/JAS.2024.124485Contact:
-Yan Ou
-+86 10 82544459
- View original content to download multimedia:https://www.prnewswire.com/news-releases/ieeecaa-journal-of-
-automatica-sinica-study-presents-novel-protocol-structure-for-achieving-finite-time-consensus-of-multi-agent-
-systems-302172186.htmlSOURCE IEEE/CAA Journal of Automatica Sinica
+"Clint Dawson and Stephen Vladeck epitomize the different ways in which Longhorns are having a direct impact on
+lives and communities across Texas and throughout the world and the basis of our mission to become the highest-
+impact public research university," President Hartzell said. "Dozens of highly ranked programs, elite faculty and
+students, and some of the most robust research funding in the world - combined with the culture and economy of
+Austin - put us in an especially strong place to maximize the impact of what Longhorns learn and discover. We are
+positioned to lead the next great discovery in AI, technology, life sciences and health care, energy and the
+environment, and so many other disciplines."
+
+Dawson, a computational engineer who joined UT in 1995, was instrumental in developing a simulation code that is
+used worldwide in coastal ocean modeling and hurricane storm surge predictions. This helps state and local
+government leaders know whether to evacuate neighborhoods and where to stage resources, saving lives and
+property.
+
+Dawson works closely with emergency response organizations across the state, and his research has influenced
+the action plans for major storms that have hit Texas and Louisiana since 2005. Having access to the high-
+performance computing power at UT's Texas Advanced Computing Center has been critical to the success of his
+research.
+
+                                                                          Page 2 of 2
+  CLINT DAWSON AND STEPHEN VLADECK HONORED WITH PRESIDENT'S RESEARCH IMPACT AWARD
+
+"The work Clint is engaged in with the SSPEED Center here in Houston is about potentially preventing the worst
+environmental disaster in United States history and saving the lives of thousands of coastal residents," said Jim
+Blackburn, co-director of the Severe Storm Prediction, Education and Evacuation from Disaster Center at Rice
+University. "The ability to predict the surge arising from storms coming ashore at different locations and from
+different directions at different magnitudes is critical to understanding both the need for action and what type of
+action to design."
+
+Vladeck, who joined the UT faculty in 2016, is the foremost legal scholar researching and raising awareness about
+the U.S. Supreme Court's expansion of the "shadow docket" and the need for more transparency in rulings that
+affect millions of Americans.
+
+The Supreme Court resolves cases via two channels: the merits docket, where the justices hand down written
+opinions, and everything else - from cases that will and will not receive full merits consideration to time-sensitive
+decisions such as death penalty appeals.
+
+These latter decisions, which comprise as much as 99% of the court's rulings in any given year, are issued without
+public hearings or full opinions, meaning there's little indication as to why the court has ruled the way it has, hence
+the "shadow docket" moniker.
+
+Vladeck's work, including his New York Times bestseller "The Shadow Docket," has illuminated how the Supreme
+Court has increased the real-world effects of orders it hands down via the shadow docket - often without the time-
+sensitive justification.More fundamentally, it has reshaped how we understand the court as an institution.
+
+"The justices are paying attention . and perhaps most impressively, the justices seem to have changed their
+practices in response to Professor Vladeck's criticism," said Leah Litman, professor of law at the University of
+Michigan. "The court (has begun) to move some cases or requests that would have previously been handled on the
+shadow docket onto the regular docket and decide them after full briefing and oral argument, sometimes on a more
+expedited basis."
+
+Up to four UT researchers who represent any discipline can be selected annually to receive the President's
+Research Impact Award. Each recipient is honored with a $10,000 prize and medal to recognize research that has
+an impact on society, the economy or the human imagination. The Office of the Vice President for Research,
+Scholarship and Creative Endeavors oversees the award nomination and selection process. For any query with
+respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
 
-Load-Date: July 15, 2024
+Load-Date: April 14, 2024
 
 
   

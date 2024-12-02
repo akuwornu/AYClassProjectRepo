@@ -1,129 +1,358 @@
 
 
-                                                                                                       Page 1 of 3
-   Algorand celebrates 5th anniversary with 2 billion transactions and record adoption of real-world use cases at
-                                           annual Decipher conference
+                                                                                                        Page 1 of 7
+                                                  NASA Astronaut Candidate 2024
 
 
 
 
-  Algorand celebrates 5th anniversary with 2 billion transactions and record
-       adoption of real-world use cases at annual Decipher conference
-                                                           PR Newswire
-                                              June 28, 2024 Friday 3:00 AM EST
+                                        NASA Astronaut Candidate 2024
+                                                          News Release Wire
+                                               March 24, 2024 Sunday 1:51 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-Length: 1571 words
-Dateline: BARCELONA, Spain, June 28, 2024
+Copyright 2024 Broadcast Interview Source, Inc. All Rights Reserved
+
+Length: 3370 words
 
 Body
 
+PHOTO ABOVE IS FROM NASA HERA CAMPAIGN 4 Mission 4.
 
-PR NewswireThe Foundation kicks off the Summer of Algorand with investments in technology, partnerships and
-marketing to fuel innovation at scaleBARCELONA, Spain, June 28, 2024 /PRNewswire/ -- The Algorand
-Foundation, a nonprofit on a mission to power a world where information has integrity and innovative ideas can
-scale, hosted its annual Decipher event, a gathering of hundreds of investors, developers, and partners from
-around the world to celebrate the vibrant ecosystem. From global finance and supply chain to real estate and
-humanitarian aid, Algorand blockchain technology is powering the next-generation of real-world applications.
-Showcasing the refreshed brand, the new website atAlgorand.cois the central hub for our protocol and ecosystem.
+Kent Kalogera, Jennifer Yen, Erin Hayward and Gregory Sachs, May 2017
 
- "The energy at Decipher was contagious! We're amazed by the creativity and technical prowess of our community
-and all of the innovative products they've built on Algorand," said Staci Warden, CEO of the Algorand Foundation.
-"They're bringing the blockchain to life, and we encourage them to channel that enthusiasm into building and
-scaling their dreams. And we promise to keep investing in the resources they need to succeed."Algorand is an
-energy-efficient, quantum-secure, single-layer blockchain with instant finality, consistently high throughput, and low
-fees. All of these characteristics mean it is purpose-built for real-world scale; and developers, entrepreneurs, and
-enterprise partners all benefit from its institutional-grade certainty and resilience.Ecosystem momentumThe
-Algorand blockchain hit two billion successful transactions since inception in June 2019. In Q1 2024 alone, it ranked
-among the top 3 most popular blockchains by transaction volume.Other notable statistics:On January 1, 2024
-Algorand reached an ATH of 43 million transactions in a single day, and the network performed flawlessly. [1]On
-May 17, 2024 it achieved a record of 5,716 transactions per second (TPS) , ranking among the top 3 blockchains by
-max recorded TPS. [2]In Q1, the Algorand blockchain processed 403 million transactions, a 288% increase from Q4
-2023.In the first quarter, Algorand gained 1 million new accounts, bringing the total to 35 million, with an average of
-800k monthly active users. [1]Algorand concluded the first quarter of 2024 with a DeFi TVL of 1 billion ALGOs and
-has been maintaining this level throughout subsequent months. [3]To improve access to real-time data and insights
-about the Algorand blockchain, the Foundation is partnering withdata analytics provider Nansen, and expects the
-first dashboards to go live this summer.Data Source References[1]https://metrics.allo.info/
-[2]https://chainspect.app/dashboard
+The NASA Astronaut Candidate Announcement is out!
 
-[3]https://defillama.com/chain/Algorand?currency=ALGOFollowing key initiatives were announced at the
-event:Global fintech and web3 companies including Algorand Foundation, UNDP, Worldpay, Circle, HesabPay,
+https://www.usajobs.gov/job/779261100
 
-                                                                                                       Page 2 of 3
-   Algorand celebrates 5th anniversary with 2 billion transactions and record adoption of real-world use cases at
-                                           annual Decipher conference
+Closes 4/02/2024
 
-Mercy Corps Ventures and others, unite to increase blockchain-based cash assistance for humanitarian
-crises.Archax makes abrdn money market fund accessible and transferable on Algorand blockchain using Quantoz
-EURD electronic money token.123carbon secured a 135.000t CO2e contract, one of the largest issuance of
-Transport related insets in the world, all registered on the Algorand blockchain.LabTrace completed the first study
-using its blockchain-based data authentication system, designed to ensure data integrity in clinical trials.Finboot
-switched to Algorand to power its supply chain traceability solution due to Algorand's scalability and energy
-efficiency.Kare Survivor Wallet will deliver rapid financial assistance to disaster survivors across the United States
-as part of the American Response and Resiliency Program, launched with the National VOAD and DSC, SVDP-
-USA.Circle's USDCa stablecoin on Algorand is now available through Coinbase.Ecosystem companies are thriving,
-from AI and identity to DeFi and NFTs:Pera and Immersve announced a partnership to bring non-custodial debit
-card options to Algorand users.Folks Finance announced the upcoming launch xChain, an application that will
-operate cross-chain and xALGO Liquid staking products, which allow users to participate in Algorand consensus
-and accrue rewards seamlessly and securely.Algorand is also now home to Dised, a blockchain-based AI
-marketplace that makes exchanging AI services, products and data more transparent. CompX announced a further
-push into RWA by integrating with Lofty to bring the benefits of auto-compounding and yield optimization to more
-users on-chain.Tinyman, the top DEX on Algorand by TVL, volume, and active users, announced that its TINY
-token and governance platform will launch in July.Messina launched Token Wars and cross-chain community
-building, growing the exposure and presence of Algorand DeFi. This initiative is backed by Pact, Meld Gold, and
-CompX.Vestige Labs is launching rug.ninja, a decentralized token creator and virtual DEX for fair meme coin
-creation and trading.Meld Gold announced a trust-minimized audit system, a world-first that verifiably connects
-physical items to the blockchain, the final frontier in bringing physical RWAs trustlessly on-chain.Gora and Goanna
-have partnered to create a pioneering nftFi project on Algorand, a collection with innovative utility for Gora and
-Algorand users. Website and project are live, with the launch event coming in July.EXA Market is launching a
-Rewards Program on Coinlist in August, leading up to their Token launch in Q4.Cosmic Champs will launch on
-Mainnet and Google Play in August. Building for more than 2 years, their goal is to onboard thousands of Web2
-users to Algorand.Recently listed on Steam, Fracctal will also be listed on Epic Game Store to onboard thousands
-of new users to Algorand Gaming.Aegir Tactics is going into closed beta on July 23 with a website update, a
-gameplay video, and Founders Vaults (NFT card packs). Currently on the Epic Game Store, Aegir Tactics can be
-wishlisted.Dead Chain Diaries joins Algorand's NFT collection, as the first-ever inscription sets, featuring creators
-from across the #Algofam. Rxelms is a new NFT-based, cross-chain virtual world launched this year on Algorand,
-using the best-in-class Unity gaming engine. NUVO launched on Algorand and specializes in Decentralized
-Verifiable Credentials to better protect data privacy.Public goodsThe Foundation's public goods initiative focuses
-on DeFi and tools that help builders of any size build their dreams in the most efficient way possible.DeFiAlgorand's
-instant finality, high TPS capacity and speed are critical for the high-frequency trading that DeFi requires. With fast-
-growing TVL and strong backing from the Foundation, Algorand leads the way as a robust and scalable DeFi
-platform.The Foundation uses Algorand's DeFi ecosystem to manage its own treasury. It has deployed 42 million
-ALGOs across various protocols to support things like AlgoRai, decentralized option vaults, and Tinyman and
-Pact's liquid governance DEX trading. Following positive results and feedback, the Foundation will double down
-and boost liquidity to grow the DeFi ecosystem.New Developer Tools:LiquidAuth, an open-source package to
-demonstrate how to establish P2P Authenticated communication between wallets and applications using only open
-standards and non-permissive protocols. did:algo, W3C compliant DID Method leveraging Algorand's box storage,
-a more robust digital identity offering for applications in Algorand.Lora visual debugger, a local developer explorer
-powered by the new subscriber library for tracking on-chain events and analyzing on-chain resources. It completes
-the trio of components in AlgoKit needed for easier development: an sdk/for building, a python testing framework,
-and a visual interface to debug and understand what happens both in your smart contracts and on-chain.About
-Algorand FoundationAlgorand's mission is to power a world where information has integrity and innovative ideas
-can scale. The Algorand Foundation supports Algorand's rapidly growing ecosystem by providing a best-in-class
-developer environment, supporting key infrastructure and setting technical standards, offering comprehensive
-support to builders and entrepreneurs, and providing the infrastructure for decentralized governance.Founded by
-Turing Award-winning cryptographer Silvio Micali in 2019, Algorand has grown into a vibrant ecosystem of
-developers, entrepreneurs, and enterprise partners that benefit from institutional-grade certainty and resilience,
-while features like low fees, instant finality, and a minimal carbon footprint also appeal to the protocol's millions of
+by Kathryn Troutman, March 23, 2024, Potomac, MD
 
-                                                                                                       Page 3 of 3
-   Algorand celebrates 5th anniversary with 2 billion transactions and record adoption of real-world use cases at
-                                           annual Decipher conference
+Upon the 50th Anniversary of Apollo 11, I remembered one of my most interesting clients from 2017 who applied for
+the NASA Astronaut position. I wrote to him to see what happened with his application. Here is his response:
 
-retail users. Builders of all kinds can use common programming languages like Python to develop advanced apps
-and protocols that solve important problems at a global scale: instant payments in war and disaster zones, self-
-sovereign identity for the disenfranchised, supply-chain traceability for global commerce, permissionless protocols
-addressing financial inclusion, and the creation of entirely new markets through tokenization, to name a few. To
-learn more and start your journey on Algorand, visitalgorand.co                View original content to download
-multimedia:https://www.prnewswire.com/news-releases/algorand-celebrates-5th-anniversary-with-2-billion-
-transactions-and-record-adoption-of-real-world-use-cases-at-annual-decipher-conference-
-302185196.htmlSOURCE Algorand Foundation
+'Kathryn! Gosh, nice to hear from you. I'm not sure if I sent this to you, but even though I was not selected as an
+astronaut, I did use that same resume to be accepted into the NASA HERA program! I There are four missions per
+year, each with four participants. Test subjects are treated just like actual astronauts, eating the same food, working
+the same basic schedule, complete with 24 hour manned 'mission control'. We would be evaluated on our response
+to casualty events, sleep deprivation, dealing with up to 30 minute round trip transmission delays, and much more.'
+Greg is pictured above.
+
+Does this sound like an appealing Federal Career path for you? See below my tips for how to begin your application
+for NASA ASTRONAUT !
+
+2024 USAJOBS APPLICATION INSTRUCTIONS
+
+NO. 1, YOU MUST USE THE USAJOBS BUILDER FOR YOUR RESUME SUBMISSION
+
+Step 1 ' Research Federal Jobs ' Research the Astronaut application process:
+
+Summary: At Lyndon B. Johnson Space Center Astronaut candidates will spend approximately two years training
+on the basic skills required to be an astronaut ' from spacewalking and robotics to leadership and teamwork skills.
+Upon completing training, they will join the active astronaut corps and become eligible for spaceflight assignment.
+
+                                                                                                        Page 2 of 7
+                                          NASA Astronaut Candidate 2024
+
+Until assigned a spaceflight, they will have responsibilities within the astronaut office ranging from supporting their
+fellow astronauts in space to advising on the development of new spacecraft.
+
+Step 2 ' Networking ' Who Do You Know? Do you know any one at NASA? Space Program? Could help. Watch
+YouTubes and read articles from Astronauts.
+
+Step 3 ' Research jobs on USAJOBS ' Astronaut Candidate position is open until 4/02. Apply and see what
+happens.
+
+https://www.usajobs.gov/job/779261100
+
+Step 4 ' What are Your Core Competencies?
+
+Here are the core competencies as described in the USAJOBs announcement.
+    •   Communicate information and ideas via written, oral, and visual media
+    •   Make informed and sound decisions in challenging situations to accomplish mission goals
+    •   Sustain motivation, display initiative, and high standards of ethical conduct
+    •   Relate well to others including those from varied backgrounds and in different situations
+    •   Work well with others to achieve goals both as a leader and a follower
+    •   Learn and utilize complex technical information (e.g., troubleshoot, diagnose, analyze, and identify system
+        malfunctions to determine the source and cause of the problem)
+
+Step 5 ' Get ready for written application materials to demonstrate the competencies above.
+
+Additionally, written application materials will be evaluated by subject matter experts using the competencies above,
+as well as:
+    •   Applicability and strength of the applicant's educational preparation
+    •   Relevance and diversity of the applicant's work experience, with a priority on operational experience
+    •   Strength of the candidate's technical experience in their field of expertise
+    •   Demonstrated experience working and performing on a team
+
+Step 6 ' Do you meet the Basic Education Requirements?
+
+BASIC EDUCATION REQUIREMENT                All applicants must meet at least     ONE     of the Basic Education
+requirements to be considered for this position. Qualifying international Science, Technology, Engineering, and
+Mathematics (STEM) education is allowed as long as you submit proof of appropriate foreign education equivalency
+(see below for foreign education details).
+
+To verify the education requirement, you must submit copies of official or non-official transcripts with your
+application showing a related STEM major field and date conferred, or Test Pilot School certification/enrollment
+from a nationally or internationally recognized program. While a bachelor's degree (or less) is not qualifying
+alone, you must submit ALL STEM related transcripts with your application.
+
+The following degree fields, while related to engineering and the sciences, are NOT considered qualifying:
+    •   Degrees in Technology (Engineering Technology, Aviation Technology, Medical Technology, etc.)
+    •   Degrees in Psychology (except for Clinical Psychology, Physiological Psychology, or Experimental
+        Psychology, which are qualifying)
+    •   Degrees in Nursing
+    •   Degrees in Exercise Physiology or similar fields
+
+                                                                                                     Page 3 of 7
+                                         NASA Astronaut Candidate 2024
+
+    •   Degrees in Social Sciences (Geography, Anthropology, Archaeology, etc.)
+    •   Degrees in Aviation, Aviation Management, or similar fields
+
+Step 7 ' Do you meet the Basic Sub-Discipline Specialized Experience requirements? Choose your Sub-Discipline.
+
+In addition to the Basic Education requirement, all applicants must meet the Sub-Discipline Specialized
+Experience requirements below under one of the designated sub-disciplines: Pilots, Flight Test, Medical Doctors,
+Biological and Medical Sciences, Physical Sciences, and Engineering and Operations. You should select the
+discipline you best qualify for based on the majority of your work experience.
+
+For each discipline, applicants must have a minimum of 3 years (or 1,000 Pilot-in-Command hours with at
+least 850 hours in high performance jet aircraft for Pilots) of progressively responsible, professional
+experience after the completion of appropriate technical field degree(s). Experience could have been
+gained after the completion of a qualifying bachelor's degree, though this does not negate the requirement
+to still possess a higher-level degree.
+
+While you may qualify for multiple disciplines, only one selection below is permitted. Teaching experience,
+including experience at the K-12 levels, is acceptable if it was in a related technical field and you also meet the
+initial education requirement.
+
+Specialized ExperienceA. Pilot Discipline ' to qualify, you must:
+    •   Have at least 1,000 hours of Pilot-In-Command time:
+
+A minimum of 850 hours must be in a high-performance jet aircraft. The remaining hours may be accumulated in
+aircraft other than high-performance jet aircraft. (Please annotate total hours of high-performance jet aircraft
+demonstrated in resume.)
+
+Complete the Pilot Qualifications Form using the following link and attach as a supporting document to your
+application ' Pilot Qualifications Form
+
+OR B. Flight Test Discipline ' to qualify, you must:
+    •   Have completed or be currently enrolled in a Test Pilot School program (nationally or internationally
+        recognized) and will have completed this program by June 2025. (Must submit proof of completion or
+        enrollment.)
+    •   Have at least 3 years of professional experience after degree completion in a field related to Flight Test.
+        You must certify that this experience was gained in a field related to this sub-discipline and be able to
+        provide additional certification upon request. (Must be demonstrated in resume.)
+
+Note: Flight Test includes other military experience outside Pilot-in-Command experience or aircraft
+experience that does not qualify for the Pilot discipline. For example, flight test engineers; helicopter pilots;
+pilots of non-high performance jet aircraft; navigators, weapons systems officers/operators, back-seat
+qualified fliers, or other aircraft-related positions that may have led to the completion of Test Pilot School.
+Applicants with test experience but who have not enrolled in or completed Test Pilot School should select
+the Engineering and Operations sub-discipline.
+
+Complete the Pilot Qualifications Form using the following link and attach as a supporting document to your
+application ' Pilot Qualifications Form
+
+OR C. Medical Doctor Discipline ' to qualify, you must:
+    •   Have at least 3 years of professional experience after degree completion in a professional medical field of
+        study. Time in residency can count towards experience and must be completed by June 2025. You must
+        certify that this experience was gained in a field related to this sub-discipline and be able to provide
+        additional certification upon request. (Must be demonstrated in resume.)
+
+                                                                                                        Page 4 of 7
+                                          NASA Astronaut Candidate 2024
+
+OR D. Biological and Medical Science Discipline ' to qualify, you must:
+    •   Have at least 3 years of professional experience after degree completion in a field related to Biological and
+        Medical Sciences. You must certify that this experience was gained in a field related to this sub-discipline
+        and be able to provide additional certification upon request. (Must be demonstrated in resume.)
+
+OR E. Physical Science Discipline ' to qualify, you must:
+    •   Have at least 3 years of professional experience after degree completion in a field related to Physical
+        Science. You must certify that this experience was gained in a field related to this sub-discipline and be
+        able to provide additional certification upon request. (Must be demonstrated in resume.)
+
+OR F. Engineering and Operations Discipline ' to qualify, you must:
+    •   Have at least 3 years of professional experience after degree completion in a field related to Engineering
+        and Operations. You must certify that this experience was gained in a field related to this sub-discipline
+        and be able to provide additional certification upon request. (Must be demonstrated in resume.)
+
+Step 8 ' Write your Federal Resume with the USAJOBS Resume Builder ' for Astronaut Candidate.
+    •   Only resumes developed using USAJOBS Resume Builder will be accepted. Please be thorough in
+        your resume completion, addressing each section.
+    •   Don't use AI: You must complete all required steps in the process to be considered. Intentionally
+        misrepresenting yourself, overstating qualifications on any of the application materials, assessment
+        procedures, cheating, or use of AI will result in removal from consideration.
+
+TIPS FOR RESUME WRITING FOR THE ASTRONAUT APPLICATION:
+
+1. Use the Outline Format to feature important knowledge, skills, and abilities for a Human Test subject and the
+Astronaut position. WORK HISTORY ' two parts:OUTLINE FORMAT WITH ALL CAP KEYWORDS. See
+Below. Write about your job duties with the following HEADLINES before each paragraph. Use ALL CAPS for
+certain keywords to improve the readability of the USAJOBS resume format.
+
+LEADERSHIP / TEAM LEAD DISASTER PREPAREDNESS ROBOTICS ENGINEERING ENGINEERING /
+DESIGN RESEARCH & DESIGN LEAD ENGINEERING QUALITY ASSURANCE RISK ASSESSMENT SAFETY &
+OCCUPATION SAFETY ENTREPRENEURSHIP SPEAKER / BRIEFER TRAINING & DEVELOPMENT SYSTEMS
+THINKING
+
+2. Add MAJOR PROJECTS. The projects should include specific projects that will demonstrate your skills and
+past performance. This is critical to prove that you have performed the skills you just wrote in the resume. A specific
+risk, robot, engineering project would be great. What was the name of the project? What were the challenges, your
+actions, and the results? Each project should be 150-200 characters and describe your skills and results.
+
+EDUCATION: STEM majors. Include college, degree, major, significant courses, projects, skills. Descriptions of
+capstone projects, major engineering or science projects, including thesis, methods and outcomes.
+
+OTHER ACTIVITIES AND INTERESTS:              Sports, marathons, sailing competitions, camping, any isolationist
+projects, mountain climbing, extreme sports, cycling, bodybuilding, wellness interests. Any vehicle modelling,
+including propulsion and movement (legos, trains, airplanes, aircraft, cars, race cars, drones)
+
+Volunteer activities, which will demonstrate strength, emotional intelligence, team building, human performance
+interests, disaster or emergency management skills and experiences. Mechanical interests and hobbies,
+equipment skills; gaming, robotics. Arthroscopic experience (surgeons can apply).
+
+LANGUAGES: Do You speak Russian?
+
+USAJOBS BUILDER: Use it. Mandatory.
+
+                                                                                                         Page 5 of 7
+                                           NASA Astronaut Candidate 2024
+
+Step 9 ' Any flight experience? Fill out a special form for Pilot and Flight Test sub-disciplines.
+
+https://www.nasa.gov/wp-content/uploads/2020/01/jf603_summary_of_aeronautical_experience.pdf?emrc=53d212
+
+Step 10 'The Questionnaire ' Review the job-related questionnaire before you apply. Samples of the questionnaire:
+
+https://apply.usastaffing.gov/ViewQuestionnaire/12288466
+
+FOR ONE OF THE FIRST QUESTIONS, YOU WRITE A LIST OF YOUR SPORTS AND ACTIVITIES: Please
+describe any other skills you possess or activities you participate in that provide additional support to your
+application to become an astronaut candidate. Examples might include scuba diving, sports, music, languages,
+computer software/hardware tools, machinery, volunteer work, etc.
+
+Other questions in the questionnaire: Astronaut Candidates will be required to pass a swimming test during the
+first month of training. Are you willing to submit to a swimming test?
+
+11.To simulate microgravity in space, astronaut candidates and astronauts participate in training that requires
+extended time underwater (up to 8 hours a day), using SCUBA gear or the Extravehicular Mobility Unit (EMU, or
+spacesuit). Are you willing to spend extended time training underwater? A. Yes B. No 12. Training for missions is
+arduous and takes approximately two to three years. This training requires extensive travel, including long periods
+in other countries training with NASA's international partners where family members may not always be able to join.
+Are you willing to participate in extended travel and periods away from home? A. Yes B. No 13. Long-duration
+missions can last 12 months or longer. Astronauts are subject to isolation, confinement, extreme conditions
+(including austere living conditions), and separation from loved ones. Are you willing to be deployed to space for
+long-duration missions? A. Yes B. No 14. Astronaut candidates and astronauts live, work, and train in remote,
+isolated, small, or confined spaces for prolonged periods of time. Are you willing to spend extended periods of time
+in remote, isolated, small, or confined spaces? A. Yes B. No 15. Astronaut candidates and astronauts sometimes
+work in dangerous and life-threatening situations. Are you willing to work in potentially dangerous situations? A. Yes
+B. No 16. NASA astronauts appear before a variety of groups to inform the public about the U.S. space program
+and international cooperation. This includes schools and universities, community organizations, businesses and
+associations, military organizations, politicians, and officials of the U.S. and partner Governments. Are you willing to
+appear before these groups (as well as others), and present information on behalf of NASA and the U.S. space
+program (even if you may be presenting information in conflict with your personal opinions or views)? A. Yes B. No
+17. Graduation from the Astronaut Candidate Program will require successful completion of the following:
+spacecraft systems training, Extravehicular Activity (EVA) skills training, robotics skills training, Russian or other
+language training, aircraft flight readiness training (flying in high performance aircraft), technical training with
+commercial space partners, and team skills training, among others. Completion of all elements takes approximately
+2 years. Are you willing to undergo and complete such training? A. Yes B. No 18. There are multiple factors, some
+of which are outside of NASA's control, that are considered when identifying launch opportunities. NASA cannot
+guarantee if or when an astronaut is assigned to or will be able to execute a mission. Are you willing to join the
+astronaut corps not knowing how long you must wait to be assigned to a mission or if you will be assigned a
+mission at all? A. Yes B. No 19. Do you understand and accept work hours are irregular and may require nights,
+weekends, holidays, shifting sleep cycles, and working longer than typical 8hour periods to support operations
+when necessary? A. Yes B. No
+
+Step 11 ' Apply for the Astronaut position and Track and Follow-up for Status.
+
+To view the announcement status or your application status: Click on this: https://www.usajobs.gov/Help/how-
+to/application/status/ . Your application status page is where you can view your application status, USA Hire
+assessment completion status, and review your notifications sent by the hiring agency regarding your application.
+
+All application documentation must be received by the closing date of the announcement in order to be considered
+and have a complete application. Documentation mailed or emailed to the Astronaut Selection Office will not be
+
+                                                                                                         Page 6 of 7
+                                          NASA Astronaut Candidate 2024
+
+considered. All previous applicants MUST reapply                and   complete    the   entire   application   process.
+https://apply.usastaffing.gov/ViewQuestionnaire/12288466
+
+Step 12 ' USA Hire Assessment Situational Judgement Test ' takes 2.5 hours.
+
+You will receive a link to the USA Hire Assessment after you click APPLY. Read about it here:
+https://help.usastaffing.gov/Apply/index.php?title=USA_Hire_Assessments
+
+Step 13 ' Track and Follow Up on your Application Status.
+
+Follow your application in your USAJOBS application track. Find out if your references have been contacted. If you
+don't get selected for this application, find out what you can improve, and apply again. Most Astronauts apply for the
+position multiple times.
+
+The selection process is estimated to take approximately one (1) year to complete. NASA anticipates announcing a
+new class of astronauts in the Summer 2025. Final notification of your status will be sent at that time. Multiple
+selections may be made under this announcement. Selected candidates will report for duty at the Johnson Space
+Center in Houston, TX in the Fall of 2025.
+
+Step 14 ' Interview for the Astronaut Candidate Position.
+
+Astronaut interview will be multiple stages:         Pre-interview by phone Formal interview with panel Multiple
+medical and psychological tests Many physical tests More tests. Just keep going and find out your results.
+Hopefully, you will pass the interviews and examinations. If not, apply again; improve your results.
+
+Try and try again. Most astronauts applied up to 15 times and kept trying. Read this GREAT article for more
+background:
+
+https://www.space.com/25786-how-to-become-an-astronaut.html
+
+Astronaut Federal Resume Reviews, 2 hours x $260 = $520.
+
+Send your USAJOBS resume to [email protected] Subjectline: Your name, NASA Astronaut Resume Review
+Request
+
+Please pay here: Make A Payment Amount: $520 Description: NASA Astronaut Resume Review
+
+WANT TO SEE SAMPLES OF THE FEDERAL RESUME FORMAT THAT IS CORRECT FOR THE USAJOBS
+BUILDER?
+
+The Book: The Federal Resume Guidebook, 7th Edition, was chosen in 2021 as the Best Reference Book by both
+the Ben Franklin Awards and the Independent Press Awards.
+
+Federal Resume Guidebook, 7th Ed.
+
+Purchase the Guidebook hereLink to Image
+
+The Author: In 2022, Kathryn Troutman received the National Resume Writers Association's Industry Hero Award
+for her 'significant contributions' to the specialized field of Federal resume writing. She is the author of many award-
+winning Federal career guides including the Student's Federal Career Guide, 4th Edition, and The Stars Are Lined
+Up for Military Spouses, 2nd Edition. Her firm, the Resume Place, offers Federal resume writing and job coaching
+services in Potomac, MD.
+
+About:
+
+Kathryn Troutman can answer your questions regarding how people land Competitive Federal Jobs via
+USAJOBS.GOV, Political Appointments with the Biden-Harris Administration, Senior Executive Service jobs in
+
+                                                                                                  Page 7 of 7
+                                        NASA Astronaut Candidate 2024
+
+Government. This year will be a banner year for all Federal jobs! And with COVID-19 Federal response, more
+agencies will be hiring for many positions - Public Health, Medical / Healthcare, Cyber, IT, Logistics, Finance,
+Accounting! The author of seven books on federal jobhunting, she's also the Federal Career Coach for individuals
+seeking first-time federal careers! An engaging and energetic media guest, Troutman has been interviewed on
+NPR, the Washington Post's 'Federal Diary Live On-line,' and radio stations across the country. In addition, she
+trains and certifies career counselors and military transition counselors in Ten Steps to a Federal Job(r).
+
+http://www.Newsreleasewire.com/303192
 
 
-Load-Date: July 15, 2024
+Load-Date: March 25, 2024
 
 
   

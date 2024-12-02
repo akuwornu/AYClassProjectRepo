@@ -1,15 +1,16 @@
 
 
-                                                                                                   Page 1 of 2
-          Old Dominion University Experts Participate in International MODSIM World Conference in Norfolk
+                                                                                                 Page 1 of 2
+     University of Texas-Austin: Clint Dawson and Stephen Vladeck Honored With President's Research Impact
+                                                      Award
 
 
 
 
- Old Dominion University Experts Participate in International MODSIM World
-                          Conference in Norfolk
+    University of Texas-Austin: Clint Dawson and Stephen Vladeck Honored
+                    With President's Research Impact Award
                                                      Targeted News Service
-                                          June 12, 2024 Wednesday 7:47 PM EST
+                                            April 11, 2024 Thursday 9:10 AM EST
 
 
 
@@ -18,88 +19,92 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 646 words
+Length: 819 words
 Byline: Targeted News Service
-Dateline: NORFOLK, Virginia
+Dateline: AUSTIN, Texas
 
 Body
 
 
-(TNSres) -- Old Dominion University issued the following news:
+The University of Texas issued the following news release:
 
-By Kelsey Kendall
+The creator of a code to predict hurricane storm surges and an expert on the federal courts and constitutional law
+have been named the 2024 recipients of The University of Texas at Austin President's Research Impact Award.
 
-Researchers and students from Old Dominion University participated in the 16th annual Modeling and Simulation
-(MODSIM) World Conference, an event bringing together experts in modeling and simulation together to exchange
-ideas and solutions to problems across disciplines and industries.
+Clint Dawson, the Cockrell Family Regents Chair in Engineering #2 and director of the Computational Hydraulics
+Group at the Oden Institute, and Stephen Vladeck, the Charles Alan Wright Chair in Federal Courts at the School of
+Law, were recently presented with the award. President Jay Hartzell established the President's Research Impact
+Award in 2023 to recognize University researchers whose scholarly or creative endeavors have changed lives and
+the way we look at and understand the world.
 
-The three-day event was held May 20-22 at The Main in Norfolk, where attendees from all over the world
-participated in a robust agenda of paper presentations and panels, industry workshops and competition events.
-They also explored an exhibit hall featuring companies and organizations showcasing new advances in modeling
-and simulation.
+"Clint Dawson and Stephen Vladeck epitomize the different ways in which Longhorns are having a direct impact on
+lives and communities across Texas and throughout the world and the basis of our mission to become the highest-
+impact public research university," President Hartzell said. "Dozens of highly ranked programs, elite faculty and
+students, and some of the most robust research funding in the world -- combined with the culture and economy of
+Austin -- put us in an especially strong place to maximize the impact of what Longhorns learn and discover. We are
+positioned to lead the next great discovery in AI, technology, life sciences and health care, energy and the
+environment, and so many other disciplines."
 
-"Old Dominion University is home to one of the very first education programs in modeling and simulation in the
-country," said Eric Weisel, senior associate vice president for applied research at ODU. "We're very excited to have
-MODSIM World here in Norfolk, and excited to be long standing partners with the National Training and Simulation
-Association (NTSA)."
+Dawson, a computational engineer who joined UT in 1995, was instrumental in developing a simulation code that is
+used worldwide in coastal ocean modeling and hurricane storm surge predictions. This helps state and local
+government leaders know whether to evacuate neighborhoods and where to stage resources, saving lives and
+property.
 
-"The Virginia Modeling, Analysis, and Simulation Center (VMASC) has been involved with modeling and simulation
-for over 25 years, working with a number of communities that include academia, industry, and this community,
-which is one of the best."
+Dawson works closely with emergency response organizations across the state, and his research has influenced
+the action plans for major storms that have hit Texas and Louisiana since 2005. Having access to the high-
 
-This year's theme was "Breaking Beyond: Taking the Next Step" and featured several discussions on artificial
-intelligence.
+                                                                                                  Page 2 of 2
+      University of Texas-Austin: Clint Dawson and Stephen Vladeck Honored With President's Research Impact
+                                                       Award
 
-Congressman Bobby Scott spoke at the conference Monday and shared his thoughts on the significant impact the
-attendees' work has on the community.
+performance computing power at UT's Texas Advanced Computing Center has been critical to the success of his
+research.
 
-                                                                                                 Page 2 of 2
-        Old Dominion University Experts Participate in International MODSIM World Conference in Norfolk
+"The work Clint is engaged in with the SSPEED Center here in Houston is about potentially preventing the worst
+environmental disaster in United States history and saving the lives of thousands of coastal residents," said Jim
+Blackburn, co-director of the Severe Storm Prediction, Education and Evacuation from Disaster Center at Rice
+University. "The ability to predict the surge arising from storms coming ashore at different locations and from
+different directions at different magnitudes is critical to understanding both the need for action and what type of
+action to design."
 
-"I want to commend you for all of your work and dedication in advancing modeling and simulation technology and
-exploring how it can be leveraged for the common good," Scott said. "This industry benefits our nation and fields of
-science, national defense, healthcare, disaster planning, education and a whole lot more."
+Vladeck, who joined the UT faculty in 2016, is the foremost legal scholar researching and raising awareness about
+the U.S. Supreme Court's expansion of the "shadow docket" and the need for more transparency in rulings that
+affect millions of Americans.
 
-Scott serves as the co-chair of the Congressional Modeling and Simulation Caucus.
+The Supreme Court resolves cases via two channels: the merits docket, where the justices hand down written
+opinions, and everything else -- from cases that will and will not receive full merits consideration to time-sensitive
+decisions such as death penalty appeals.
 
-Faculty and staff represented the University at the conference, including Victoria Jolliff, Stacie Ringleb, Ross Gore,
-Barry Ezell, Erik Jensen, Christopher Lynch, Jessica Cordner, Virginia Zamponi, Gul Ayaz, Kate Cloutier, Mileta
-Tomovic and Drew Landman.
+These latter decisions, which comprise as much as 99% of the court's rulings in any given year, are issued without
+public hearings or full opinions, meaning there's little indication as to why the court has ruled the way it has, hence
+the "shadow docket" moniker.
 
-Along with paper presentations on topics that included technology in military and operational strategies, simulation
-techniques in education and traffic management and control, the event highlighted two recent ODU graduates,
-Nicholas Pickering and Ryan Long, as they both received the RADM James Robb Scholarship Awards.
+Vladeck's work, including his New York Times bestseller "The Shadow Docket," has illuminated how the Supreme
+Court has increased the real-world effects of orders it hands down via the shadow docket -- often without the time-
+sensitive justification. More fundamentally, it has reshaped how we understand the court as an institution.
 
-The $5,000 award will help prepare Pickering and Long - who both received undergraduate degrees in
-computational modeling and simulation engineering - for careers within the modeling, simulation, training and
-education community.
+"The justices are paying attention ... and perhaps most impressively, the justices seem to have changed their
+practices in response to Professor Vladeck's criticism," said Leah Litman, professor of law at the University of
+Michigan. "The court (has begun) to move some cases or requests that would have previously been handled on the
+shadow docket onto the regular docket and decide them after full briefing and oral argument, sometimes on a more
+expedited basis."
 
-Pickering will attend ODU for graduate studies in modeling and simulation engineering.
-
-Long will soon start work at Dominion Energy, focusing on transmission planning modeling and simulation.
-
-MODSIM World also welcomed approximately 20 Chesapeake students from the Governor's STEM Academy at
-Grassfield High School. These students were able to participate in interactive demonstrations, giving them hands-
-on experience in modeling and simulation.
-
-MODSIM World began in 2007 with the Center for Public and Private Partnership, a nonprofit corporation that would
-later become the Virginia Modeling and Simulation Partnership. Hampton Roads industry and community leaders
-have been among the members and have shared work based at Joint Forces Hampton Roads, VMASC, Eastern
-Virginia Medical School and NASA Langley Research Center.
-
-The conference is sponsored and managed by the National Training and Simulation Association.
+Up to four UT researchers who represent any discipline can be selected annually to receive the President's
+Research Impact Award. Each recipient is honored with a $10,000 prize and medal to recognize research that has
+an impact on society, the economy or the human imagination. The Office of the Vice President for Research,
+Scholarship and Creative Endeavors oversees the award nomination and selection process.
 
 ***
 
-Original text here: https://www.odu.edu/article/university-experts-participate-international-modsim-world-conference-
-norfolk
+Original text here: https://news.utexas.edu/2024/04/10/clint-dawson-and-stephen-vladeck-honored-with-presidents-
+research-impact-award/
 
 Copyright Targeted News Services
 
-MSTRUCK-8670885 MSTRUCK
+MSTRUCK-8568772 MSTRUCK
 
 
-Load-Date: June 12, 2024
+Load-Date: April 11, 2024
 
 
   

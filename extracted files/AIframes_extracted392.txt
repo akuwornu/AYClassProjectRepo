@@ -1,137 +1,137 @@
 
 
-                                                                                                      Page 1 of 3
-  Nutanix Study Projects Hybrid Multicloud Adoption for Financial Services Will Triple, as Organizations Prioritize
-                                Data Security & AI Projected growth driven by ....
+                                                                                                     Page 1 of 3
+                                   Intermap Announces 2023 Results and 2024 Guidance
 
 
 
 
-  Nutanix Study Projects Hybrid Multicloud Adoption for Financial Services
- Will Triple, as Organizations Prioritize Data Security & AI; Projected growth
-driven by large number of ransomware attacks and acceleration of the use of
-                    AI across the financial services sector
-                                                    Business Wire
-                                       June 25, 2024 Tuesday 1:00 PM GMT
+                    Intermap Announces 2023 Results and 2024 Guidance
+                                                         GlobeNewswire
+                                               April 2, 2024 Tuesday 2:29 PM PT
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 1268 words
-Dateline: SAN JOSE, Calif.
+
+
+
+Section: EARNINGS RELEASES AND OPERATING RESULTS
+Length: 1344 words
 
 Body
 
+Software and solutions revenue grew 25% in 2023
 
-Nutanix (NASDAQ: NTNX ), a leader in hybrid multicloud computing, announced the findings of its sixth annual
-global Financial Services Enterprise Cloud Index (ECI) survey and research report, which measures enterprise
-progress with cloud adoption in the financial services and insurance industry. While current adoption of hybrid
-multicloud deployments remains consistent year-over-year in the financial services sector, respondents expect a
-significant 3x increase in adoption in the next three years, making it the leading IT model in the sector.
+Company projects 2024 bookings of $20 – 25 million, revenue of $16 – 18 million and an adjusted EBITDA margin
+of approximately 25%
 
-The Financial Services ECI report revealed that data security and ransomware protection, implementing AI
-strategies, and minimizing cost are driving IT decision makers infrastructure priorities. 99% of ECI financial services
-respondents shared that they had experienced a ransomware attack at some point in the past three years. 89%
-agreed that their organizations had room for improvement when it came to their ability to protect against such
-attacks. AI was noted as a key driver of IT infrastructure priorities as well, as IT leaders are increasingly tasked to
-leverage AI solutions to improve decision-making and enhance customer experiences.
+DENVER, April 02, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
+(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today
+announced 2023 financial results and 2024 guidance.
 
-This evolution reflects the strategic deployment by financial services industries of diverse cloud environments
-tailored for specific operational, cost, compliance, and control requirements. Hybrid multicloud architecture's appeal
-lies in its ability to offer diverse cost, billing, and deployment options, empowering digital enterprises with the
-flexibility to enhance application performance, bolster security, accelerate time to market, and optimize IT
-expenditures.
+For the year ending December 31, 2023, the Company reported revenue of $6.2 million, compared with $6.8 million
+the previous year. Recurring and repeating software and solutions revenue grew to $4.2 million, 67% of total
+revenue, compared with $3.4 million in 2022. A decline in acquisition revenue of $1.1 million was caused by a delay
+in the award of a significant government contract, which was subsequently announced in March 2024, as well as
+the pandemic-related restrictions that remained across Southeast Asia until late 2023. U.S. government work was
+also delayed by the federal budget impasse. The Company expects to begin collecting this revenue during 2024.
+Despite the contracting delays, Intermap’s EPS for 2023 improved to ($0.10) per share, compared with ($0.16) per
+share for the previous year.
 
-"It is startling to see that nearly all the financial services respondents in this year's ECI Survey have experienced a
-ransomware attack," said Lee Caswell, SVP Product & Solutions Marketing at Nutanix. "It's a sign of the times that
-hybrid multicloud adoption is set to triple as financial services users gear up for heightened cybersecurity risks as
-new regulatory requirements, such as the EU's 2025 Digital Operational Resilience Act (DORA), go into effect -
-making data protection and disaster recovery a hybrid multicloud imperative."
+Subsequent to year end, Intermap announced the award of a material contract from the Indonesian government.
+This initial award includes an opportunity to repeat, with follow-on requirements to complete mapping the country
+during an additional 4-year period. Work on this contract commenced in February 2024. Including Indonesia, for the
+current year ending December 31, 2024, the Company projects total bookings in the range of $20-25 million, with
+$16-18 million in revenue and an adjusted EBITDA margin of approximately 25%.
 
-Financial services respondents were asked about their current cloud challenges, how they're running business
-applications today, and where they plan to run them in the future. Key findings from this year's report include:
+                                                                                                         Page 2 of 3
+                               Intermap Announces 2023 Results and 2024 Guidance
 
-                                                                                                      Page 2 of 3
-  Nutanix Study Projects Hybrid Multicloud Adoption for Financial Services Will Triple, as Organizations Prioritize
-                                Data Security & AI Projected growth driven by ....
+“Our government and commercial businesses are off to a strong start in 2024,” said Patrick A. Blott, Intermap
+Chairman and CEO. “We’ve recently announced major government wins and we remain on track to extend our
+high-growth, high-margin services model to these large government accounts.”
 
-    •   Financial services decision-makers share that cybersecurity remains paramount, yet emphasis on AI
-        Investment and managing overall costs sit closely behind. Half of the respondents (50%) reported that their
-        organizations required a few days or a few weeks to fully restore operations following a cybersecurity
-        incident. Another 12% said that while operations were mostly restored within a few days or weeks, the
-        impact of the attack on the enterprise lasted beyond the restoration of daily operations.
-    •   How FinServ CIOs are thinking about infrastructure priorities. As hybrid multicloud environments grow, so
-        are infrastructure and workloads. Cloud (78%), data and AI (77%), and ransomware protection (77%) are
-        seeing significant growth. Despite frequently citing sustainability as critical to purchasing decisions, few
-        institutions plan to significantly increase investments in this area next year. The largest projected increases
-        in IT budgets are for AI (39%), followed by ransomware prevention (34%) and IT modernization (30%).
-        Overall, 78% of respondents intend to boost spending on cloud computing, with 77% planning increases
-        for AI and ransomware protection.
-    •   Sustainability and flexibility top the list of key factors for decision making. For financial service companies
-        selecting cloud services (private, hybrid, or public), flexibility, security, and data capabilities have
-        consistently been key criteria this year and last. When ECI respondents were asked to identify the single
-        most important factor influencing their IT infrastructure purchasing decisions, sustainability was the top
-        selection (15%), closely followed by the flexibility to manage workloads across various on-premises and
-        cloud infrastructures (14%), and cost considerations (14%). This varied compared to other sectors where
-        sustainability and cost were generally ranked as less important.
-    •   The desire to improve data access performance, security, and regulatory compliance are why financial
-        enterprises relocate applications to a different infrastructure. Nearly all respondents (97%) in the financial
-        services sector and 95% globally said they had moved one or more applications to a different IT
-        infrastructure in the past 12 months, creating a need for simple and flexible inter-cloud workload and
-        application portability. Application movement in financial services was motivated most often by a desire to
-        enhance performance/data access speeds (42%), followed by improving security and regulatory
-        compliance (41%).
-    •   The top-ranked challenges in financial services IT departments are cyber and compliance related. Among
-        financial services respondents, ransomware prevention/data security and adherence to data storage/usage
-        mandates, like DORA, were both cited as the top data management challenges today, each by 19% of
-        respondents.
+2023 notable commercial achievements include:
+    •   Grew in core commercial market: Won a $1 million multiyear renewal and increased multiple recurring
+        subscriptions by 60-350%
+    •   Extended product offering: Partnered with Twinn by Royal HaskoningDHV to provide additional natural
+        hazard data for the global insurance industry
+    •   Expanded market reach: Won multiyear contracts in Europe, exceeding $1.3 million, expanding software
+        solution to incorporate risk, appraisal and pricing applications for global residential and commercial real
+        estate
+    •   Entered new, fast-growing segments: Won a new contract with a global spacecraft and communications
+        operator to supply proprietary NEXTMap® elevation data to improve simulation, regulatory compliance and
+        global situational awareness. Revised a subscription with a leading autonomous aviation customer for
+        NEXTView™, the Company’s certified aviation specific elevation dataset
 
-For the sixth consecutive year, Vanson Bourne conducted research on behalf of Nutanix, surveying 1,500 IT and
-DevOps/Platform Engineering decision-makers around the world in December 2023. The respondent base spanned
-multiple industries, business sizes, and geographies, including North and South America; Europe, the Middle East
-and Africa (EMEA); and Asia-Pacific-Japan (APJ) region.
+2023 notable government work includes:
+    •   Won competitive government project in Singapore for water pollution monitoring
+    •   Secured and completed Intermap’s first task orders under the U.S. Defense Department’s JANUS contract
+    •   Completed task orders for the Department of the Interior, Bureau of Indian Affairs dam inundations studies
+        IDIQ prime contract
+    •   Two-year subscription renewal by the State of California with an increase of 50% for its NEXTMap
+        elevation data
+    •   Contracted by the United States Geological Survey (USGS) to provide precision elevation data for NASA
+        moon landing simulations in preparation for the Artemis III mission
+    •   Showcased proprietary advanced AI/ML technology to the U.S. Department of Defense for next-
+        generation, actionable, geo-precise coordinates
 
-To learn more about the report and findings, please download the full global Financial Services Nutanix Enterprise
-Cloud Index, here .
+Intermap’s audited annual financial statements for the year ended December 31, 2023, the annual management
+discussion and analysis for the corresponding period, related management certifications of annual filings and its
+annual information form will be filed and available on SEDAR+ at www.sedarplus.ca on April 2, 2024.
 
-About Nutanix
+Learn more about Intermap at intermap.com/investors.
 
-Nutanix is a global leader in cloud software, offering organizations a single platform for running apps and data
-across clouds. With Nutanix, companies can reduce complexity and simplify operations, freeing them to focus on
-their business outcomes. Building on its legacy as the pioneer of hyperconverged infrastructure, Nutanix is trusted
-by companies worldwide to power hybrid multicloud environments consistently, simply, and cost-effectively. Learn
-more at www.nutanix.com or follow us on social media @nutanix.
+Intermap Reader AdvisoryCertain information provided in this news release, including reference to full-year
+guidance, projected bookings, revenue and EBITDA, constitutes forward-looking statements. The words
+"anticipate", "expect", "project", "estimate", "forecast", “will be”, “will consider”, “intends”, “guidance” and similar
+expressions are intended to identify such forward-looking statements. Although Intermap believes that these
+statements are based on information and assumptions which are current, reasonable and complete, these
+statements are necessarily subject to a variety of known and unknown risks and uncertainties. Intermap’s forward-
+looking statements are subject to risks and uncertainties pertaining to, among other things, cash available to fund
+operations, availability of capital, revenue fluctuations, nature of government contracts, economic conditions, loss of
+key customers, retention and availability of executive talent, competing technologies, common share price volatility,
+loss of proprietary information, software functionality, internet and system infrastructure functionality, information
+technology security, breakdown of strategic alliances, and international and political considerations, as well as
+those risks and uncertainties discussed Intermap’s Annual Information Form and other securities filings. While the
+Company makes these forward-looking statements in good faith, should one or more of these risks or uncertainties
+materialize, or should underlying assumptions prove incorrect, actual results may vary significantly from those
 
-© 2024 Nutanix, Inc. All rights reserved. Nutanix, the Nutanix logo, and all Nutanix product and service names
-mentioned herein are registered trademarks or unregistered trademarks of Nutanix, Inc. ("Nutanix") in the United
-States and other countries. Other brand names or marks mentioned herein are for identification purposes only and
-may be the trademarks of their respective holder(s). This press release is for informational purposes only and
+                                                                                                        Page 3 of 3
+                              Intermap Announces 2023 Results and 2024 Guidance
 
-                                                                                                      Page 3 of 3
-  Nutanix Study Projects Hybrid Multicloud Adoption for Financial Services Will Triple, as Organizations Prioritize
-                                Data Security & AI Projected growth driven by ....
+expected. Accordingly, no assurances can be given that any of the events anticipated by the forward-looking
+statements will transpire or occur, or if any of them do so, what benefits that the Company will derive therefrom. All
+subsequent forward-looking statements, whether written or oral, attributable to Intermap or persons acting on its
+behalf are expressly qualified in their entirety by these cautionary statements. The forward-looking statements
+contained in this news release are made as at the date of this news release and the Company does not undertake
+any obligation to update publicly or to revise any of the forward-looking statements made herein, whether as a
+result of new information, future events or otherwise, except as may be required by applicable securities law.
 
-nothing herein constitutes a warranty or other binding commitment by Nutanix. This release may contain express
-and implied forward-looking statements, which are not historical facts and are instead based on Nutanix's current
-expectations, estimates and beliefs. The accuracy of such statements involves risks and uncertainties and depends
-upon future events, including those that may be beyond Nutanix's control, and actual results may differ materially
-and adversely from those anticipated or implied by such statements. Any forward-looking statements included
-herein speak only as of the date hereof and, except as required by law, Nutanix assumes no obligation to update or
-otherwise revise any of such forward-looking statements to reflect subsequent events or circumstances.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240625904443/en/
-
-
-CONTACT: Gabrielle Moynan
-
-pr@nutanix.com
-
-
-http://www.businesswire.com
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
+terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
+patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
+datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
+elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
+and machine learning, providing customers with critical information to understand their terrain environment. By
+leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
+Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
+enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
+Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
+wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
+telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
+transportation.
 
 
-Load-Date: June 25, 2024
+For more information, please visit www.intermap.com or contact: Jennifer Bakken Executive Vice President
+and CFO CEO@intermap.com +1 (303) 708-0955
+
+
+
+Load-Date: April 2, 2024
 
 
   

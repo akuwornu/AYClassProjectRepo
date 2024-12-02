@@ -1,95 +1,81 @@
 
 
-                                                                                               Page 1 of 2
-     Nasuni Achieves 121% Increase in Data Under Management in Media and Advertising Sector in Past Two
-                                                  Years
+                                                                                                    Page 1 of 2
+      Alaska Gov. Dunleavy: State of Alaska Boosts Digital Security and Efficiency Through Cloud Technology
 
 
 
 
-   Nasuni Achieves 121% Increase in Data Under Management in Media and
-                   Advertising Sector in Past Two Years
-                                                           PR Newswire
-                                           August 27, 2024 Tuesday 8:00 AM EST
+Alaska Gov. Dunleavy: State of Alaska Boosts Digital Security and Efficiency
+                       Through Cloud Technology
+                                                     Targeted News Service
+                                        January 10, 2024 Wednesday 11:47 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 902 words
-Dateline: BOSTON, Aug. 27, 2024
+
+
+
+Length: 526 words
+Byline: Targeted News Service
+Dateline: JUNEAU, Alaska
 
 Body
 
 
-PR NewswireThe Nasuni File Data Platform Drives Agile Global Collaboration, Ransomware Protection, and GenAI
-Preparation for Top Firms Such as 9Rooftops Marketing, TWBA, and OmnicomBOSTON, Aug. 27, 2024
-/PRNewswire/ --Nasuni, a leading enterprise data platform for hybrid cloud environments, today announced rapid
-growth in the media and advertising industry with a 121% increase in data under management over the last 24
-months. Leading organizations in the sector such as9RooftopsMarketing,Centaur Media,TBWA,Omnicom,Crain
-Communications,Quad Graphics,Multi-Color Corporation, andSGS, are modernizing their storage infrastructure and
-powering their growth using the Nasuni File Data Platform.
+Gov. Mike Dunleavy, R-Alaska, issued the following news release:
 
- With the digital advertising industry expected to reach$965.6 billion by 2028, and content production processes
-becoming more complex, collaborative, and global in scale, media and advertising companies are continually
-looking for new ways to more efficiently produce and distribute digital content."Media and advertising companies
-require a modern infrastructure with a fluid approach to file storage," said David Grant, President of Nasuni.
-"Yesterday's Network Attached Storage (NAS) and backup technologies cannot keep up with today's demands.
-This is because they need to deliver world-class collaboration functionality to help their users quickly create and
-distribute content while ensuring that critical IP is protected from threats. The Nasuni File Data Platform is
-accelerating these firms' ability to innovate and streamline their global-level content production processes,
-supported by secure access for extended production teams and collaborators. These capabilities and their ability to
-support industry-level content innovation, using tools such as GenAI, are instrumental in our growing adoption by
-this sector around the world."The Nasuni File Data Platform couples cloud-native architecture and object storage
-with edge performance to give these firms the efficient and secure ability to access and manage their unstructured
-file data while readying for the adoption of GenAI. With leading media companies actively testing content creation
-from GenAI tools for video, audio, and still-life assets, existing datasets need to be fully accessible to ensure
-optimal creativity and performance while safeguarding content against infringement of copyright and intellectual
-property (IP) from activities such as unauthorized deep fakes."9Rooftops Marketing is one of the largest integrated
-marketing communications agencies in the world, so we obviously have a lot of need when it comes to data
-management," says Jason Scott, Director of IT at 9Rooftops Marketing. "Nasuni's cloud-first, best-in-class solution
-was able to completely replace our traditional file storage due to its scalable cloud capacity, automatic data
-protection, seamless collaboration, and simple management. Now, we can operate confidently and without
-disruption at a global scale."With its scalable data platform and high-speed transfer of digital assets without file size
+Alaska has emerged as a leader in state government technology by embracing cloud services. Over the past two
+years, the Department of Administration's Office of Information Technology (OIT) has taken significant steps to
+move State servers and software applications from local data centers to the cloud. This shift enhances the security
+of Alaskans' data, improves reliability, and updates Alaska's technical infrastructure, providing easier access to data
+and services that are safer and allow for growth and change quickly.
 
-                                                                                              Page 2 of 2
-    Nasuni Achieves 121% Increase in Data Under Management in Media and Advertising Sector in Past Two
-                                                 Years
+"At the heart of this initiative is our commitment to modernize and secure Alaska's digital landscape. By transitioning
+to cloud technology, we are not only ensuring the safety of our citizens' data but also paving the way for a more
+efficient and flexible government," said Governor Mike Dunleavy. "We are striving to be at the forefront of digital
+innovation, and cloud migration is an important step."
 
-limits, Nasuni enables production teams to achieve easier external collaborations with remote and hybrid content
-creators across multiple locations. Extended production teams can increasingly access and share their content
-anywhere in real-time with near-zero latency and built-in security. Nasuni Ransomware Protection protects firms' IP
-held as digital assets by ensuring that file data systems can provide early warning of, and rapid recovery from,
-ransomware attacks.Additionally, Nasuni has enabled media and advertising organizations to optimize value from
-their IT investments, as it can reduce storage costs by up to 65% compared to legacy infrastructures.To learn more
-about how Nasuni is enabling media and advertising companies to improve content production processes (including
-GenAI adoption), drive enhanced collaboration, reduce file storage costs, and strengthen resiliency from disasters
-and cybercrimes, please read ourcustomer case studies.About NasuniNasuni is a scalable data platform for
-enterprises facing an explosion of unstructured data in an AI world. The Nasuni File Data Platform delivers
-effortless scale in hybrid cloud environments, enables control at the network edge, and meets the modern
-enterprise expectation for insight- and AI-ready data. It simplifies file data management while increasing storage
-access and performance. Its best-in-class file recovery protects customers against a range of cyber threats and
-eliminates the need for specialized backup and disaster recovery – all while cutting the cost of infrastructure by up
-to 65%.Organizations worldwide rely on Nasuni, spanning across the manufacturing, construction, energy,
-consumer goods, and public sectors. Nasuni's corporate headquarters is located in Boston, Massachusetts, and the
-company delivers services to over 70 countries. For more information, visitwww.nasuni.com.Social media links
-Twitter:https://www.twitter.com/nasuni
-LinkedIn:https://www.linkedin.com/company/nasuni
+The first phase of this rapid cloud migration, completed in approximately nine months, successfully moved over 700
+applications to the cloud without disrupting services to Alaskans. In their new locations, these applications now
+benefit from world-class security features, modern information technology (IT) systems, and significantly improved
+resilience.
 
-Blog:http://www.nasuni.com/blogMedia Contacts:US: Kristin Concannon
-Nasuni
-Phone: 617-416-2873
-Email:
+Building on the success of the initial phase, the second phase of the migration project has begun and will continue
+over the next several months. For most systems, the State can increase storage and computing without buying new
+hardware, ensure dynamic disaster and ransomware recovery, and adjust capacity quickly based on actual needs.
+The flexibility inherent in the cloud means less time spent on expensive hardware replacement and more time
+focusing on providing services through platforms such as MyAlaska and MyADFG or online health, public safety,
+DMV service, and more.
 
-Europe: Maria Loupa
-Waters Agency
-Phone: +44 (0)7591 004 738
-Email: View original content to download multimedia:https://www.prnewswire.com/news-releases/nasuni-achieves-
-121-increase-in-data-under-management-in-media-and-advertising-sector-in-past-two-years-
-302225519.htmlSOURCE Nasuni
+                                                                                                    Page 2 of 2
+      Alaska Gov. Dunleavy: State of Alaska Boosts Digital Security and Efficiency Through Cloud Technology
+
+"Migrating State servers to the cloud isn't just a leap forward for State agencies; it is a leap forward for Alaskans.
+The resulting enhancements in security, reliability, access, and safety are an improvement for us all. Our data will
+be more secure and State services will be more reliable and accessible for Alaskans," said Department of
+Administration Commissioner, Paula Vrana. "Because of this initiative, Alaskans will be able to do business with the
+State more confidently and with greater convenience than ever before."
+
+The collaborative efforts of Alaska's dedicated IT professionals, working alongside industry-leading partners, is part
+of a broader endeavor to enhance security and bring many other benefits in terms of scale, performance, and
+innovation to the State's digital infrastructure. One of those is laying the foundation for the use of Artificial
+Intelligence (AI) tools, as the State's cloud platform provides a library of private AI tools which will allow State
+agencies to quickly develop AI applications for public service.
+
+***
+
+Original text       here:   https://gov.alaska.gov/state-of-alaska-boosts-digital-security-and-efficiency-through-cloud-
+technology/
+
+Copyright Targeted News Services
+
+MSTRUCK-8438219 MSTRUCK
 
 
-Load-Date: August 27, 2024
+Load-Date: January 11, 2024
 
 
   

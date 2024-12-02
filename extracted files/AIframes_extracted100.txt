@@ -1,106 +1,449 @@
 
 
-                                                                                               Page 1 of 2
-    Sidus Space Secures Contract with Xiomas Technologies to Supply FeatherEdge Computing System for Fire
-                         Detection via High-Altitude Infrared Imaging FeatherEdge C....
+                                                                            Page 1 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
 
 
 
 
-    Sidus Space Secures Contract with Xiomas Technologies to Supply
-FeatherEdge Computing System for Fire Detection via High-Altitude Infrared
- Imaging; FeatherEdge Computing System to Enhance Rapid Fire Detection
-                Capabilities in Collaborative NASA Project
-                                                     Business Wire
-                                       August 13, 2024 Tuesday 12:30 PM GMT
+  KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW
+    SECTION DERIVATIVES AND FUTURES LAW COMMITTEE WINTER
+                           MEETING
+                                                 States News Service
+                                               January 26, 2024 Friday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 835 words
-Dateline: CAPE CANAVERAL, Fla.
+Length: 4761 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Sidus Space (NASDAQ: SIDU) (the "Company" or "Sidus"), a provider of end-to-end precision Space Infrastructure
-solutions that include satellite Data-as-a-Service on its proprietary on-orbit platform, announces the sale of its
-FeatherEdge onboard computing system to Xiomas Technologies as part of a groundbreaking project aimed at
-revolutionizing fire detection. This collaborative effort, involving Sidus Space, Xiomas Technologies, NASA, and
-Harvard University, will demonstrate rapid fire detection capabilities using a stratospheric balloon platform.
+The following information was released by the Commodities Futures Trading Commission:
 
-The FeatherEdge system, purchased by Xiomas Technologies, will be pivotal in processing high-resolution thermal
-images captured by Xiomas' advanced infrared sensor. FeatherEdge will perform critical edge computing tasks,
-compressing raw data into smaller, actionable analytics for efficient transmission to ground stations to demonstrate
-the ability to deliver crucial information quickly even when bandwidth might be limited.
+As Prepared for Delivery
 
-The FeatherEdge system will generate essential data, including the location, size, and intensity of detected heat
-signatures, which will be packaged into compact packets for near real-time transmission. The stratospheric balloon
-is scheduled for launch in October 2024, marking a significant advancement in the development of rapid-fire
-detection technologies.
+Introduction
 
-"This sale underscores our commitment to leveraging space-based technologies for critical Earth applications," said
-Carol Craig, CEO of Sidus Space. "By integrating FeatherEdge with Xiomas' infrared sensor, we're not just selling a
-product; we're providing a solution that could significantly enhance fire detection capabilities for firefighting agencies
-and disaster response teams globally. We're excited about the potential this project has to open new doors within
-NASA and the broader fire prevention community."
+Good afternoon. I am delighted to join you today back in Naples for the first time since 2020.
 
-This project highlights the advanced capabilities of Sidus Space's technology and positions the company for future
-opportunities in both governmental and commercial sectors. By showcasing the efficiency and effectiveness of
-Sidus' low-latency data processing capabilities, this mission sets the stage for further integration of similar
-technologies in upcoming space missions.
+The last several years tested resilience across the derivatives markets, which required working together to meet the
+most extreme, but plausible issues, events, inquiries, and environmental, geopolitical, and fiscal conditions. The
+urgent need for action could not be met with hyperbolic responses. Creating ad hoc boundaries and structures to
+earn an immediate victory lap rarely instills or supports market integrity. Of course, neither does abdicating action
+until optimal conditions prevail. As I think about my tenure and the direction of the agency, I have tried to follow the
+racing line: the most optimal path, making use of the entire breadth of our track.
 
-                                                                                              Page 2 of 2
-   Sidus Space Secures Contract with Xiomas Technologies to Supply FeatherEdge Computing System for Fire
-                        Detection via High-Altitude Infrared Imaging FeatherEdge C....
+I understand the critical role the CFTC plays in the global derivatives markets and the U.S. economy. And when it
+comes to regulatory oversight and enforcement, I understand how the CFTC's actionsand, at times, our decision
+not to actreverberate throughout financial markets around the world.
 
-About Sidus Space
+I would like to spend my time focusing on the current rulemaking agenda, providing additional insight into
+accomplishments towards the end of 2023, and sharing some views on the current climate for crypto. I will be
+happy to take questions after.
 
-Sidus Space (NASDAQ: SIDU) is a multi-faceted Space Infrastructure-as-a-Service satellite company focused on
-mission-critical hardware manufacturing; multi-disciplinary engineering services; satellite design, production, launch
-planning, mission operations; and in-orbit support. The Company is in Cape Canaveral, Florida, where it operates
-from a 35,000-square-foot manufacturing, assembly, integration, and testing facility focused on vertically integrated
-Space-as-a-Service solutions including end-to-end satellite support.
+Gran Turismo
 
-Sidus Space has a mission of Bringing Space Down to Earth(TM) and a vision of enabling space flight heritage
-status for new technologies while delivering data and predictive analytics to domestic and global customers. More
-than just a "Satellite-as-a-Service" provider, Sidus Space products and services are offered through its several
-business units: Space-as-a-Service, Space-Based Data Solutions, AI/ML Products and Services, Mission Planning
-and Management Operations, 3D Printing and Products and Services, Satellite Manufacturing and Payload
-Integration, and Space and Defense Hardware Manufacturing. Sidus Space is ISO 9001:2015, AS9100 Rev. D
-certified, and ITAR registered.
+But first, a little pop culture. 2023 saw the release of Gran Turismo,[1] a Wikipedia-described "biographical sports
+drama film"[2] based on the true story of a teenage racing simulation video game player named Jann
+Mardenborough. As part of a marketing strategy by Nissan's motorsport division, Jann competed online with fellow
 
-Forward-Looking Statements
+                                                                            Page 2 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
 
-Statements in this press release about future expectations, plans and prospects, as well as any other statements
-regarding matters that are not historical facts, may constitute 'forward-looking statements' within the meaning of The
-Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements
-relating to the expected trading commencement and closing dates. The words 'anticipate,' 'believe,' 'continue,'
-'could,' 'estimate,' 'expect,' 'intend,' 'may,' 'plan,' 'potential,' 'predict,' 'project,' 'should,' 'target,' 'will,' 'would' and
-similar expressions are intended to identify forward-looking statements, although not all forward-looking statements
-contain these identifying words. Actual results may differ materially from those indicated by such forward-looking
-statements as a result of various important factors, including: the uncertainties related to market conditions and
-other factors described more fully in the section entitled 'Risk Factors' in Sidus Space's Annual Report on Form 10-
-K for the year ended December 31, 2023, and other periodic reports filed with the Securities and Exchange
-Commission. Any forward-looking statements contained in this press release speak only as of the date hereof, and
-Sidus Space, Inc. specifically disclaims any obligation to update any forward-looking statement, whether as a result
-of new information, future events or otherwise.
+players of the racing simulator Gran Turismo for a spot at the newly established GT Academy, where he would train
+and compete in real cars to ultimately become a professional race car driver.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240813334396/en/
+I am not a gamer, and honestly, Clint Eastwood in Gran Torino[3] is more my speed. But, as one blogger pointed
+out,[4] this tale of gamer turned legit international racing license carrier delivers some quotes and concepts that
+transpose rather nicely into the current narrative of novices and incumbents in the derivatives markets and the
+discourse on legitimacy.
+
+And the license Jann was after to gain entry to world of the elites? It was granted by the FIAbut not the one you are
+thinking about. In motor sports, the Federation Internationale de l'Automobile (FIA)[5] sets consistent governance
+and safety standards, and has done so since 1904. If you've ever typed in "fia.com" to reach the Futures Industry
+Association, you may have landed on their page. And with that, let's get back on track.
+
+Reigniting the Dream to Drive
+
+Last year, I presented a 2023 goal for the Commission to consider and vote on roughly 30 matters in addition to any
+rules or orders proposed in the prior year.[6] I bucketed them into five themes for tracking purposes: 1) enhancing
+risk management and resilience; (2) strengthening customer protections; (3) promoting efficiency and innovation;
+(4) improving reporting and data policy; and (5) addressing duplicative regulatory requirements, and amplifying
+international comity.
+
+Notwithstanding a few, always expected slips onto the rumble strip, we largely stayed on course, proposing and
+finalizing changes intended to strengthen governance, improve risk management and resilience, and ensure that all
+market participants get the information they need and protections they are entitled to, regardless of sophistication.
+Along those lines, the CFTC proposed nine rulemakings, approved a final rule on DCO (derivatives clearing
+organization) governance, proposed one advanced notice of rulemaking, and published four matters for public
+comment. Where appropriate, the proposals sought comment on whether to incorporate existing guidance and
+subjects addressed in staff letters. Commission staff issued three advisories and over a dozen letters, many of
+which are time-limited to bridge gaps created by current and related rulemaking processes. The Commission also
+issued two proposed and two final rules aimed at improving data and reporting requirements which not only support
+standardization and international harmonization efforts, but ensure that the CFTC can efficiently integrate,
+consume, and protect the information fundamental to everything we do. The Commission has continued to vote on
+matters via seriatim throughout these first few weeks of 2024, so please be on the look out for additional matters on
+our website.
+
+No Time to Dance
+
+One topic that perpetually keeps us in motion is cyber risk. Last year's Winter ABA meeting coincided with the
+cyber-related incident on ION Cleared Derivatives, a third-party service provider of cleared derivatives order
+management, execution, trading, and trade processing.[7] The severity of the impact on each FCM's (future
+commission merchant's) operations, as well as each FCM's ability to work-around impacted applications, varied
+based on the ION application used.[8] Among other things, the incident impacted the timely and accurate
+submission of positions data to the CFTC, and therefore delayed the timely release of the Commitments of Traders
+(CoT) report.
+
+At the time, our Market Participants Division (MPD) was already on course to develop proposals to address
+cybersecurity and related risk. Recognizing the relevant risk, I asked them to further identify potential weaknesses
+with respect to third-party service providers and vendor relationships and identify appropriate solutions for
+Commission consideration.
+
+Last month, the Commission voted unanimously to issue (1) a notice of proposed rulemaking to require FCMs,
+swap dealers (SDs), and major swap participants (MSPs) (collectively, "covered entities") to establish an
+operational resilience framework and (2) to adopt non-binding Commission guidance relating to the management of
+risks stemming from third-party relationships.[9] The proposed rule would require the covered entities to establish,
+
+                                                                            Page 3 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
+
+document, implement, and maintain an Operational Resilience Framework (ORF). This proposal would require a
+process to identify, monitor, manage, and assess risks relating to IT security, third-party relationships, and
+emergencies or other significant disruptions to their operations as a CFTC registrant.[10] The ORF would need to
+include three components: an IT security program, a third-party relationship program, and a business continuity and
+disaster recovery (BCDR) plan.
+
+As I said at the Commission's December open meeting,[11] this proposed rule and guidance represent many
+months of in-depth research and reflects consideration of standards and guidance issued by the prudential
+regulators, the SEC (Securities and Exchange Commission), NFA (National Futures Association), IOSCO
+(International Organization of Securities Commissions), the FSB (Financial Stability Board), and other subject
+matter experts within and outside the CFTC. It also recognizes that covered entities encompass a variety of
+business models, including those in which operational resilience programs may be managed at an enterprise level.
+Consistent with our principles-based approach, an entity's ORF must be appropriate and proportionate to the
+nature, size, scope, complexity, and risk profile of the firm's business as an FCM or SD, following generally
+accepted standards and best practices.
+
+Similarly, the proposed guidance identifying factors, actions, and strategies for covered entities to consider in
+preparing and implementing their third-party relationship programs is intended to be broadly relevant to such
+entities, without necessarily being universally applicable.
+
+The ION incident reminded us that "there's no time to dance"[12] when it comes to cyber risk and resilience. We are
+now firmly in the driver's seat and will get this proposal and guidance across the finish line in 2024.
+
+Finding the Right Instructor and Throttling Out
+
+In the film, the success of the Nissan's GT Academy hinged on finding the right instructor. Having some miles under
+my belt and laps around the track combined with some incredible talent on my team and in the pit, I see no reason
+to stand idle on issues that are clearly on the road ahead. One is the use of AI in CFTC-regulated markets.
+
+Yesterday, the CFTC's new AI Task Force issued a request for comment or "RFC" on the use of AI in CFTC-
+regulated markets.[13] As I previewed in November,[14] this RFC complements the directives set forth by the Biden
+Administration, and embodies good government process. It prioritizes promoting responsible innovation and
+ensuring that we understand AI applications and the associated risks and impacts in our jurisdictional markets and
+the larger financial system. This allows us to better align supervisory oversight and evaluate the need for future
+regulation, guidance, or other Commission action.
+
+The AI RFC is part of a greater vision I shared in November that will keep the CFTC on its current trajectory
+advancing analytical capabilities through building talent, leveraging the cloud, and developing a forward-looking AI
+culture. We have a process in place for exploring AI use cases aimed at helping us better monitor, regulate, surveil,
+identify pockets of stress, and ultimately enforce compliance. This RFC will further support us as we strategically
+identify the highest priorities and return-on-investment projects to pursue. Further, and notably, the retooled CFTC's
+Office of Customer Education and Outreach today issued a Customer Advisory warning the public about AI-driven
+fraud and scams.[15]
+
+I am excited by what we are doing at the CFTC and what is on the horizon for the derivatives markets and the entire
+industry. AI, like a position at the GT Academy, presents significant benefits and opportunities. But when you are
+the driver of a real vehicle, outside the safety of a sim world, you can't hit the reset button when you spin out or
+crash. As the regulator, we are here to help ensure your safety and that of the markets, and other market
+participants.
+
+The AI RFC will be open for comment for 90 days. During that time, the Commission will continue on its current
+circuit and begin finalizing the various proposals and comparability determinations introduced in 2023. I anticipate
+staying on that rulemaking track for the remainder of the year, making pit stops to consider and address
+applications and requests within our regulatory and supervisory authorities and matters that fall within our typical
+
+                                                                            Page 4 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
+
+business-as-usual operations. I also anticipate that the Commission will consider a handful of additional proposals
+aimed at keeping pace with new models in our regulatory space that are gaining traction as they incorporate
+emerging technologies to create efficiencies and attract a larger, broader audience.
+
+Last summer, I directed staff to draft and issue the Request for Comment on the Impact of Affiliations on Certain
+CFTC-Regulated Entities.[16] Coincidently, I referred to it in remarks as an invitation for our stakeholders to put
+themselves in the driver's seat and consider how to best address the new structures being proposed and already
+launched, without undermining the integrity of the sport (i.e., our markets).[17] Without question, addressing and
+eliminating conflicts of interest is core to the Commodity Exchange Act. However, these new structures, driven in
+part by technology advancements, demand fresh scrutiny, as patterns are developing that may steer the industry
+into the future. There is no better time than now to engage, debate, and act.
+
+The comment period closed in the fall. I anticipate that by the summer the Commission will consider a proposal
+addressing potential risks, conflicts, and governance issues that may be raised by new market structures and
+affiliate relationships.
+
+Ultimately, I envision that while any new policy will be informed in part by the comments received in the RFC and
+the Commission's real-time observations, the goal is to continue building off of the models and structures that have
+been time-tested and developed over decades to promote market resiliency and protect customers. However, as
+our mission requires, we must move forward with market evolution without undermining strength and stability.
+
+In GT, Nissan's motorsport division knew that if a sim driver was put in one of their cars, and someone got hurt, it
+would be their collective responsibility. So, here, like in the movie, we are working with all stakeholders and
+engaging within a timeframe dictated by the complexity of the issues, and not by the pressure of the clock. We are
+being cautious. As I have said, our duty is to firmly ascertain the validity of innovative and novel market structures
+before they are permitted to operate as a means of financial risk mitigation. If we feel that something is unsafe, we
+are going to have to switch gears. As the GT Academy trainer put it, "If you want to put yourself out there, you have
+to prove that you can do it."[18]
+
+COP28 Debut
+
+COP28 set the stage for the Commission to further demonstrate its global position on the international stage.
+Attending COP28 in person, I introduced the Commission's proposed guidance regarding the listing of voluntary
+carbon credit (VCC) derivative contracts.[19] Published for public comment in the federal register in December, and
+identified as one of the most important developments for the carbon industry,[20] this is the first proposed guidance
+on standards applicable to exchanges listing products aimed at providing tools to manage risk, promote price
+discovery, and help channel capital in support of decarbonization efforts.[21]
+
+In the last several years, the CFTC engaged with stakeholders ranging from farmers and foresters to crediting
+programs, registered exchanges, and clearinghouses. With my CFTC team behind me, and the support of fellow
+regulators at Treasury and within the Administration,[22] I was honored to personally roll-out the Agency's
+guidance.
+
+I believe that this initial step by a market regulator parallels important work underway by IOSCO through its
+Sustainable Finance Task Force's Carbon Market Workstream, which I co-Chair, and that launched a consultation
+on standards for VCCs at COP28 focused on how regulators can promote sound market structure and enhance
+financial integrity in the voluntary carbon markets.[23] As I've stated, the CFTC is doing its part to elevate efforts
+underway.[24] The comment period is open until February 16th.
+
+I have been very clear that the CFTC's actions in the VCC markets are not intended to signal that we have a role in
+creating or mandating compliance with any kind of climate policy.[25] I have also been very clear that our unique
+mission focused on risk mitigation and price discovery puts us on the front lines of the now global nexus between
+financial markets and decarbonization efforts. Leveraging the CFTC's personnel and expertise demonstrates our
+
+                                                                            Page 5 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
+
+commitment to taking thoughtful and deliberate next steps toward supporting a financial system that provides
+effective tools in achieving emission reductions.
+
+Champagne is for the Podium
+
+Turning back to CFTC victories, nothing put us on the podium more in 2023 than our enforcement efforts. I ran
+through the stats, numbers, and highlights in October at FIA Expo as they rolled in following the close of FY
+2023.[26] More than anything, CFTC's enforcement program ensures that markets function well and that bad actors
+are dealt with in a manner that motivates compliance and incites deterrence. As the range of actions brought by the
+CFTC demonstrate, not every violation is premised on proof of customer harm. Our regulatory and enforcement
+activities under the Commodity Exchange Act are designed to prevent and deter disruptions to the markets and
+harm to the public by, among other things, ensuring that there are adequate barriers to entry (i.e., more than an app
+tap away) and that market integrity is maintained through transparency, fair pricing, and competition.
+
+There are always those who think they can buy their way in without meeting the rigors of registration and
+compliance. But, that's a tough fa ade to maintain when we have cops on the beat, surveillance on the ground and
+in the cloud, whistleblowers on the inside, SROs on our side, and partners around the globe. And it is isn't easy to
+operate in the derivatives markets. If you don't follow the rules, if you make conditions dangerous for other
+participants or create risk and potentially contagion, if you harm customers directly or injure reputations, you will be
+flagged and taken out. Nowhere have we been more active than in the digital asset or simply the "crypto" space. In
+FY 2023, we secured our status as the premier enforcement agency in the space.[27] The CFTC brought 47 actions
+involving conduct related to digital asset commodities, representing more than 49% of all CFTC actions filed during
+that period.
+
+The CFTC does all this without direct jurisdiction over the digital asset spot markets. As everyone in this room
+knows, we can only act on digital asset fraud or manipulation when we uncover or discover anomalies through
+regulated market surveillance and oversight, or through tips and complaints we can pursue. We are doing all
+thisand making the headlineswith a restrictor plate installed. Imagine what we could do if we were given the tools to
+open up the throttle?
+
+Licensing and Legitimacy
+
+The Security and Exchange Commission's long-anticipated approval of applications to list and trade shares of spot
+bitcoin exchange-traded products (ETPs) was viewed by many as a natural next step in the development of markets
+for digital assets. Regardless of how loud opposition may be, institutions, products, and processes that prove
+valuable to enough producers, consumers, investors, and the general public however such value is determined will
+inevitably find a way to integrate with established regulatory systems.
+
+While the ETPs are achieving legal certainty and therefore a means to market themselves to the masses, there
+remains nothing firmly in place to address the opaque and inconsistent practices in the cash markets for digital
+assets around issues such as trade settlement, conflicts of interest, data reporting, cybersecurity, customer
+protections, transparency, and general market integrity. Instead, the ETPs have taken a speculative and volatile
+asset, wrapped it in a thin layer of indirect regulation, and packaged it as a shiny new product.
+
+Many of the barriers to successfully and appropriately regulating this emerging market have been built on fears of
+legitimatization. I believe the legitimacy argument takes our eyes off the road. As proven by the SEC's January 10th
+decision, legislation is not a precursor to legitimacy. Going back to GT, Jann earned his FIA racing license by
+demonstrating that he had the skills to compete within the established parameters. While technically that license
+gained him access, it did not make him a legitimate driver. He was warned that he would have to prove that he
+belonged in the world of racing because he had not entered through the normal, traditional channels. No one would
+welcome him, not the drivers, not his pit crew, and the mechanics would hate him, because in spite of the license,
+he was inherently unsafe.[28] The license did not change the nature of the risk.
+
+                                                                            Page 6 of 8
+   KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                        FUTURES LAW COMMITTEE WINTER MEETING
+
+Not a single federal regulator has been granted authority by Congress over the cash markets for digital assets. And
+even for regulated products like bitcoin futures, their legitimacy alone is not based on a self-certification. Rather, the
+market participants determine legitimacy by creating demand for a product. The CME, CBOE Futures Exchange,
+and the Cantor Exchange would not have self-certified derivatives products with bitcoin as the underlying asset if
+there had not been significant interest in the products.
+
+As I have said with regard to the derivatives markets we oversee, the exchanges have a long history of developing
+and enforcing standards for derivatives products. They generally have unique knowledge of the underlying
+marketplace and have longstanding relationships with market participants to understand precisely how to meet their
+risk management needs and speculative interests. Our role as the regulator is to enforce existing standards under
+our governing statute, the Commodity Exchange Act, and regulations. In short, we do not have authority to
+determine legitimacy in the eyes of market participants; however, we are here to ensure that legitimacy means
+something more than common sentiment.
+
+The lack of legislation has not hindered the enthusiasm for digital assets. And for those of you who have been
+fighting for digital assets to go away in the absence of legislation, take a moment and see where we now find
+ourselves.
+
+I fear that the regulatory approval of bitcoin ETPs introduces risk that, in spite of yellow flags, market participants,
+retail and institutional alike, may mistake the technical approval of a productwith actual regulatory oversight of the
+cash commodity digital assets. The concerns I have publicly voiced for the better part of six years regarding the
+digital asset commodity spot market have only become magnified. The need for federal legislation over cash market
+digital assets has never been more critical, and I will continue my call for action.
+
+Conclusion
+
+I began these remarks with some thoughts on how regulators must avoid meeting urgency with hyperbole to get an
+instant win. While ad hoc decisions made under duress can miss the mark when it comes to providing clarity and
+preserving market integrity, so too can waiting until pristine conditions prevail.
+
+As we move forward in 2024, I am proud of the CFTC's undeniable record of using regulation, innovation, and
+collaboration to ensure our markets function well, and continue to serve risk management and transparency needs.
+
+More than ever, we need thorough and thoughtful regulation to ensure confidence and accountability in the
+derivatives markets.
+
+Thank you.
+
+[1] Gran Turismo (Sony Pictures Entertainment 2023), GRAN TURISMO | Sony Pictures Entertainment
+
+[2] Wikipedia, the Free Encyclopedia, Gran Turismo (film), Gran Turismo (film) - Wikipedia.
+
+[3] Gran Torino (Warner Bros. Pictures 2008).
+
+[4] Brian Dodd, 9 Leadership Quotes and Lessons from Gran Turismo the Movie, Brian Dodd on Leadership (Sept.
+3, 2023), 9 Leadership Quotes And Lessons From Gran Turismo The Movie | Brian Dodd on Leadership.
+
+[5] Federation Internationale de l'Automobile, Https://www.fia.com (last visited Jan. 24, 2024).
+
+[6] See Rostin Behnam, Chairman, CFTC, Keynote Address of Chairman Rostin Behnam at the ABA Business Law
+Section Derivatives and Futures Law Committee Winter Meeting (Feb. 3, 2023), Keynote Address of Chairman
+Rostin Behnam at the ABA Business Law Section Derivatives and Futures Law Committee Winter Meeting | CFTC.
+
+[7] See CFTC, CFTC Statement on Ion and the Impact to the Derivatives Markets (Feb. 2, 2023), CFTC Statement
+on ION and the Impact to the Derivatives Markets | CFTC; see also, Press Release Number 8655-23, CFTC, CFTC
+
+                                                                           Page 7 of 8
+  KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                       FUTURES LAW COMMITTEE WINTER MEETING
+
+Issues Statement on the Ongoing Impact to Reporting (Feb. 10, 2023), CFTC Issues Statement on the Ongoing
+Impact to Reporting | CFTC; Press Release Number 8662-23, CFTC Announces Postponement of Commitments of
+Traders Reports (Feb. 16, 2023), CFTC Announces Postponement of Commitments of Traders Report | CFTC.
+
+[8] See Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the FIA Boca 2023 International
+Futures Industry Conference, Boca Raton, Florida (Mar. 15, 2023), Keynote of Chairman Rostin Behnam at the FIA
+Boca 2023 International Futures Industry Conference, Boca Raton, Florida | CFTC; Rostin Behnam, Chairman,
+CFTC, Testimony of Chairman Rostin Behnam Regarding "Oversight of the Commodity Futures Trading
+Commission" before the U.S. Senate Committee on Agriculture, Nutrition, and Forestry (Mar. 8, 2023),
+
+[9] Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap
+Participants, 89 FR 4706 (Proposed Jan. 24, 2024) (to be codified at 17 C.F.R. pts. 1 and 23), 2023-28745a.pdf
+(cftc.gov).
+
+[10] See CFTC, Fact Sheet and QandA Notice of Proposed Rulemaking to Require Futures Commission
+Merchants, Swap Dealers, and Major Swap Participants to Establish an Operational Resilience Framework (Dec.
+13, 2023), available at CFTC to Hold a Commission Open Meeting on December 13 | CFTC.
+
+[11] See Rostin Behnam, Chairman, CFTC, Opening Statement of Chairman Rostin Behnam for the December 13th
+Commission Open Meeting (Dec. 13, 2023), Opening Statement of Chairman Rostin Behnam for the December
+13th Commission Open Meeting | CFTC.
+
+[12] Gran Turismo, supra note 1.
+
+[13] See Press Release Number 8853-24, CFTC, CFTC Staff Releases Request for Comment on the Use of
+Artificial Intelligence in CFTC-Regulated Markets (Jan. 25, 2024), CFTC Staff Releases Request for Comment on
+the Use of Artificial Intelligence in CFTC-Regulated Markets | CFTC.
+
+[14] See Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the 2023 U.S Treasury Market
+Conference (Nov. 16, 2023), Keynote of Chairman Rostin Behnam at the 2023 U.S. Treasury Market Conference |
+CFTC.
+
+[15] See Press Release Number 8854-24, CFTC, CFTC Customer Advisory Cautions the Public to Beware of
+Artificial Intelligence Scams (Jan. 25, 2024), CFTC Customer Advisory Cautions the Public to Beware of Artificial
+Intelligence Scams | CFTC.
+
+[16] See Press Release 8734-23, CFTC, CFTC Staff Releases Request for Comment on the Impact of Affiliations of
+Certain CFTC-Regulated Entities (June 28, 2023),CFTC Staff Releases Request for Comment on the Impact of
+Affiliations of Certain CFTC-Regulated Entities | CFTC.
+
+[17] See, Rostin Behnam, Chairman, CFTC, Keynote Address of Chairman Rostin Behnam at the Futures Industry
+Association Expo 2023 (Oct. 2, 2023), Keynote Address of Chairman Rostin Behnam at the Futures Industry
+Association Expo 2023, Chicago, Illinois | CFTC.
+
+[18] Gran Turismo, supra note 1.
+
+[19] Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts; Request for
+Comment, 88 FR 89410 (Dec. 27, 2023), 2023-28532a.pdf (cftc.gov).
+
+[20] See Vasil Valev, COP28 Update on Day Six: The Most Important Developments for the Carbon Industry,
+Carbon Herald (Dec. 5, 2023), COP28 Update On Day Six: The Most Important Developments For The Carbon
+Industry (carbonherald.com).
+
+[21] See Rostin Behnam, Chairman, CFTC, Statement of Chairman Rostin Behnam on the Proposed Commission
+Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts (Dec. 4, 2023), Statement of
+
+                                                                           Page 8 of 8
+  KEYNOTE OF CHAIRMAN ROSTIN BEHNAM AT THE ABA BUSINESS LAW SECTION DERIVATIVES AND
+                       FUTURES LAW COMMITTEE WINTER MEETING
+
+Chairman Rostin Behnam on the Proposed Commission Guidance Regarding the Listing of Voluntary Carbon
+Credit Derivative Contracts | CFTC.
+
+[22] See, e.g., Janet L. Yellen, Secretary of the Treasury, Statement by Secretary of the Treasury Janet L. Yellen
+on Commodity Futures Trading Commission's (CFTC) Proposed Guidance on Voluntary Carbon Markets (Dec. 4,
+2023), Statement by Secretary of the Treasury Janet L. Yellen on Commodity Futures Trading Commission's
+(CFTC) Proposed Guidance on Voluntary Carbon Markets | U.S. Department of the Treasury; Stefania Palma and
+Patrick Temple-West, US regulator floats guidelines for unruly emissions offset market, FT (Dec. 4, 2023), US
+regulator floats guidelines for unruly emissions offset market (ft.com); United Nations Climate Change, Unlocking
+High Integrity Carbon Markets at 00: 22:20 (Dec. 4, 2023), available at Unlocking High-Integrity Carbon Markets |
+UNFCCC
+
+[23] See International Organization of Securities Commissions (IOSCO), CR06/2023 Voluntary Carbon Markets,
+Consultation Report (Dec. 2023), CR06/2023 Voluntary Carbon Markets (iosco.org).
+
+[24] See Press Release Number 8829-23, CFTC, CFTC Issues Proposed Guidance Regarding the Listing of
+Voluntary Carbon Credit Derivative Contracts (Dec. 4, 2023), CFTC Issues Proposed Guidance Regarding the
+Listing of Voluntary Carbon Credit Derivative Contracts | CFTC.
+
+[25] See, e.g., Behnam, supra note 21.
+
+[26] Rostin Behnam, Chairman, CFTC, Keynote Address of Chairman Rostin Behnam at the Futures Industry
+Association Expo 2023, Chicago, Illinois (Oct. 2, 2023), Keynote Address of Chairman Rostin Behnam at the
+Futures Industry Association Expo 2023, Chicago, Illinois | CFTC.
+
+[27] See Press Release Number 8822-23, CFTC, CFTC Releases FY 2023 Enforcement Results (Nov. 7,
+2023),CFTC Releases FY 2023 Enforcement Results | CFTC.
+
+[28] Gran Turismo, supra note 1.
+
+-CFTC-
 
 
-CONTACT: Investor Relations
-
-investorrelations@sidusspace.com Media Inquiries
-
-press@sidusspace.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 13, 2024
+Load-Date: January 26, 2024
 
 
   

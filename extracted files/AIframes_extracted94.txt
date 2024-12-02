@@ -1,111 +1,102 @@
 
 
-                                                                                                      Page 1 of 2
-                                     Keepit Platform Named Winner at the 2024 SaaS Awards
+                                                                                             Page 1 of 2
+    Elevating MSP Excellence: Acronis MSP Academy Grows with 19 New Modules and a Video Library of 100+
+                                             Strategic Insights
 
 
 
 
-                  Keepit Platform Named Winner at the 2024 SaaS Awards
-                                                        Business Wire
-                                            August 13, 2024 Tuesday 1:05 PM GMT
+      Elevating MSP Excellence: Acronis MSP Academy Grows with 19 New
+              Modules and a Video Library of 100+ Strategic Insights
+                                                         GlobeNewswire
+                                            January 25, 2024 Thursday 5:00 AM PT
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 761 words
-Dateline: COPENHAGEN, Denmark
+
+
+
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 755 words
 
 Body
 
 
-Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success in
-the 2024 Cloud SaaS Awards program by being named a winner in the "Best Use of SaaS in a Cloud Ecosystem"
-category. Keepit was also a finalist in the "Best Security Innovation in a SaaS Product (SME)" and "Best Security
-Innovation in a SaaS Product (Enterprise)" category.
+SCHAFFHAUSEN, Switzerland, Jan. 25, 2024 (GLOBE NEWSWIRE) -- Acronis, a global leader in cyber
+protection, is thrilled to announce the continued expansion of the Acronis MSP Academy, aimed at empowering
+Managed Service Providers (MSPs) to thrive in the ever-evolving IT landscape. The latest offerings include the
+introduction of 19 new modules and over 100 videos designed to provide industry-leading business and technical
+training.
 
-A long-established awards program spanning 56 categories, The SaaS Awards recognizes the leading innovations
-and applications of software-as-a-service solutions across a wide range of use cases and sectors. The program
-received entries from organizations worldwide, including North America, across Europe, and APAC.
+The newly released modules contain longer and more in-depth content that emphasizes technical aspects ideal for
+onboarding new technicians. They cover a diverse range of topics crucial for MSPs, including Remote Desktop
+Monitoring, Making Money with M365, Disaster Recovery, automation for MSPs, and How to Market Your MSP
+Business.
 
-"The Keepit platform is a must for companies looking to ensure cyber resiliency. We are honored to have been
-named as a winner at the 2024 SaaS Awards. This, alongside the slew of other recent accolades, underscores our
-cloud native roots and commitment to providing our customers with best-in-class data protection," says Michele
-Hayes, CMO at Keepit.
+The Acronis MSP Academy was launched in 2023 to support MSPs in growing their organizations through
+specialized and MSP-specific training. With the addition of these new modules, MSPs now have the opportunity to
+elevate their businesses by gaining advanced knowledge and skills.
 
-CEO of The Cloud Awards, James Williams, said: "We're thrilled to reveal the winners of the 2024 SaaS Awards
-after three intense rounds of judging. It's been an outstanding edition of the awards this year, and the team and I
-would like to thank all those organizations that entered.
+Jon McCarrick, Director of Evangelism for Acronis, stated, “Through MSP Academy, we provide a tailored learning
+experience, from diverse topic exploration to a structured learning path, guaranteeing continuous growth for MSP
+owners and their technical teams.”
 
-"Keepit has demonstrated an unwavering commitment to innovation and excellence and is a more than deserving
-winner of Best Use of SaaS in a Cloud Ecosystem. The caliber of the finalists this year was particularly high, which
-is a testament to this wonderful achievement.
+The modules cover various critical areas, including managed services, cybersecurity, and marketing. Completion of
+these courses enables MSPs to enhance their cybersecurity expertise, deliver exceptional client services, and
+achieve industry-recognized credentials.
 
-"A huge congratulations to Keepit, and to all of 2024's winners. We are extremely excited to see how they continue
-to drive the industry forwards in the coming years."
+                                                                                            Page 2 of 2
+   Elevating MSP Excellence: Acronis MSP Academy Grows with 19 New Modules and a Video Library of 100+
+                                            Strategic Insights
 
-Secure by design, the Keepit cloud is owned and run by Keepit. Customer data is kept in a separate, dedicated
-infrastructure, with the backed-up data stored fully isolated from the SaaS vendor's cloud. With a user-friendly
-interface, robust data security, and the ability to adapt to your cloud environment, Keepit ensures your data is
-always accessible and protected.
+Training's impact on employee performance, retention, and overall company productivity has been highlighted by
+Devlin Peck in a recent article. Companies with comprehensive training have 218% higher income per employee
+and are 17% more productive. About 59% of employees believe training enhances their job performance, and 45%
+are more likely to stay in their roles if they receive training. Moreover, more than 90% of employees indicate they
+will not quit if offered development opportunities.
 
-Recognition for the Keepit platform
+One key aspect of the expanded Acronis MSP Academy is the opportunity for MSPs to achieve Credly credentials,
+highlighting their skills, knowledge, and expertise. Credly is a leading digital credentialing platform that enables
+individuals and organizations to demonstrate their capabilities and commitment to delivering high-quality services.
 
-                                                                                                     Page 2 of 2
-                              Keepit Platform Named Winner at the 2024 SaaS Awards
+In today's competitive IT landscape, Credly credentials can help MSPs stand out and attract new clients. By
+displaying these credentials on their websites, social media profiles, and marketing materials, MSPs can build trust
+with potential customers.
 
-The Keepit platform has also been named "Best Cybersecurity Backup Service" by the Business Awards UK, 2024
-Cybersecurity and Resilience Awards and "Best Security Solution for Data Management / Data Protection" by the
-Cloud Security Awards 2024 . Keepit was recognized in four categories at the Global Infosec Awards 2024 (at
-RSA), including "Most Innovative Compliance", "Publisher's Choice Cyber Resilience", "Best Product Data
-Recovery", and "Hot Company Ransomware Recovery".
+Enrolling in the new MSP Academy modules will unlock a wealth of benefits, including acquiring in-depth knowledge
+and practical skills, standing out from the competition with Credly credentials, and staying up to date with the latest
+industry trends.
 
-About the Cloud Awards
+Embark on a journey of continuous learning and professional development by enrolling in the Acronis MSP
+Academy modules. For more information and to enroll, visit Acronis MSP Academy
 
-The Cloud Awards is an international program which has been recognizing and honoring industry leaders,
-innovators and organizational transformation in cloud computing since 2011. The Cloud Awards comprises five
-awards programs, each uniquely celebrating success across cloud computing, software-as-a-service (SaaS), cloud
-security, artificial intelligence (AI), and financial technologies (FinTech).
+About AcronisAcronis unifies data protection and cybersecurity to deliver integrated, automated cyber protection
+that solves the safety, accessibility, privacy, authenticity, and security (SAPAS) challenges of the modern digital
+world. With flexible deployment models that fit the demands of service providers and IT professionals, Acronis
+provides superior cyber protection for data, applications, and systems with innovative next-generation antivirus,
+backup, disaster recovery, and endpoint protection management solutions powered by AI. With advanced anti-
+malware powered by cutting-edge machine intelligence and blockchain based data authentication technologies,
+Acronis protects any environment - from cloud to hybrid to on premises - at a low and predictable cost.
 
-Winners are selected by a judging panel of international industry experts. For more information about the Cloud
-Awards, please visit https://www.cloud-awards.com/ .
+Acronis is a Swiss company, founded in Singapore. Celebrating two decades of innovation, Acronis has 1,800+
+employees in 45 locations. Acronis Cyber Protect solution is available in 26 languages in over 150 countries and is
+used by 20,000+ service providers to protect over 750,000 businesses.
 
-About The Cloud Awards Program
+Media Contact:Karl BatesonKarl.Bateson@Acronis.com
 
-The Cloud Awards identifies and celebrates the most innovative organizations, technologies, individuals and teams
-in the world of cloud computing. The program spans 36 categories, including 'Best Cloud Infrastructure' and 'Best
-Cloud Automation Solution'.
+A         photo        accompanying        this      announcement        is         available                        at
+https://www.globenewswire.com/NewsRoom/AttachmentNg/27b73be6-bbc8-4dac-9d6f-04f39f1fb583
 
-About The SaaS Awards
+Acronis renews their commitment to MSPs with 100's of training videos
 
-The SaaS Awards focuses on recognizing excellence and innovation in software solutions. Categories range from
-Best Enterprise-Level SaaS to Best UX or UI Design in a SaaS Product.
-
-About Keepit:
-
-Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-
-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data
-protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local
-regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business
-continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers
-worldwide, over 10,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
-
-For more information visit www.keepit.com or follow Keepit on Linkedin.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240813612543/en/
+Elevating MSP Excellence: Acronis MSP Academy Grows with 19 New Modules and a Video Library of 100+
+Strategic Insights
 
 
-CONTACT: RedIron PR for Keepit
-Kari Ritacco
-
-kari@redironpr.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 13, 2024
+Load-Date: January 25, 2024
 
 
   

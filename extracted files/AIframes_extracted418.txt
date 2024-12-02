@@ -1,380 +1,176 @@
 
 
-                                                                                                     Page 1 of 7
-                                  Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
+                                                                                               Page 1 of 4
+      Neuron Launches Network APIs to Enable Application-Driven QoE On Demand for the Maritime Industry
+                     Network APIs for multi-provider, AI-powered network management....
 
 
 
 
-                   Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-                                                     Targeted News Service
-                                            June 18, 2024 Tuesday 2:17 PM EST
+    Neuron Launches Network APIs to Enable Application-Driven QoE On
+   Demand for the Maritime Industry; Network APIs for multi-provider, AI-
+  powered network management will unlock new opportunities for maritime
+   applications and services that rely on LTE, satellite and Wi-Fi; Leading
+    maritime solution providers VIKAND and FrontM have teamed up with
+    Neuron to explore a variety of ways to use network APIs to transform
+                         onboard medical services
+                                                   Business Wire
+                                       April 9, 2024 Tuesday 12:00 PM GMT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-
-
-
-Length: 2974 words
-Byline: Targeted News Service
-Dateline: WASHINGTON
+Length: 1510 words
+Dateline: MIRAMAR, Fla.
 
 Body
 
+Neuron , a QoE management platform for things that move, announced today that it's making its network APIs
+available to maritime solution providers and app developers to enable application-driven quality of experience
+(QoE) on demand. With Neuron's network APIs, cruise, shipping, energy and more can reimagine connectivity and
+QoE for critical onboard services such as medical, disaster response, remote monitoring and management and
+more, resulting in higher standards of safety and well-being for passengers and crew.
+
+As part of today's announcement, Neuron, VIKAND , a global leader in maritime healthcare, and FrontM , creator of
+a low code software platform for maritime, have unveiled a partnership to explore a variety of ways to transform
+onboard medical services across the maritime industry.
+
+Bandwidth Orchestration in Maritime is Highly Manual and Inefficient
+
+During emergency situations at sea, the apps and services supporting response efforts need exponentially more
+bandwidth, with elevated QoE, to accelerate response times, communication and decision-making. Consider an
+already busy network with passengers, crew and corporate teams using the majority of available data capacity, and
+then add to the mix a medical team managing an emergency on the ship - they might need more than 100 Mbps of
+symmetrical bandwidth on demand to transfer large files, conduct an HD video conference with remote specialists,
+perform telediagnosis and more.
+
+Today, it's not possible to dynamically orchestrate bandwidth across multiple providers and update QoS and
+network configurations for short periods of time, while also ensuring a high-quality end-user experience - without
+disrupting all other activity on the ship. Instead, cruise teams have to manually configure and provision capacity to
+manage this type of request, and prioritize and allocate the bandwidth to the application accordingly. This process is
+
+                                                                                                 Page 2 of 4
+        Neuron Launches Network APIs to Enable Application-Driven QoE On Demand for the Maritime Industry
+                       Network APIs for multi-provider, AI-powered network management....
+
+clunky, expensive and can often take days, leaving onboard solution teams to resort to workarounds that are less
+efficient.
+
+Neuron Network APIs Enable Multi-Provider, AI-Powered Connectivity Orchestration
+
+With Neuron's network APIs, maritime solution providers and app developers can connect their apps directly to
+Neuron's AI-powered network management solution, Neuron Grid, to programmatically request QoE on demand.
+When an app triggers a request, Neuron will use AI and machine learning to orchestrate network changes and
+deliver the capacity the app needs, in real-time, with the most optimal QoE - all the onboard team needs to do is
+press a button in an app. Unlike other network management solutions, Neuron can seamlessly blend any
+combination of connectivity - whether single- or multi-provider, -orbit or -network - in one, vendor-neutral
+environment.
+
+"Telecom network APIs are incredibly powerful, but they've always been focused on cellular, limiting their value for
+maritime companies that rely on LTE, satellite and Wi-Fi," said Benny Retnamony, founder and CEO, Neuron.
+"Because Neuron enables multi-provider access with AI-powered network management, we are uniquely positioned
+to facilitate application-driven QoE on demand for the maritime industry. We look forward to collaborating with a
+range of maritime solution providers to unlock the next generation of apps and services at sea."
+
+Neuron, VIKAND and FrontM Partner to Transform Onboard Medical Services
+
+Neuron, VIKAND and FrontM are collaborating to explore a variety of ways to use Neuron's QoE management
+platform to rethink both emergency and non-emergency medical services for maritime. With Neuron's network APIs,
+VIKAND can ensure continuity of care, especially in the event of an emergency when reliable, high-quality
+connectivity is critical. This will make it possible for doctors to use modern digital imaging equipment for high-
+resolution X-rays and ultrasounds, or more advanced medical equipment, like smart stethoscopes, right from the
+ship.
+    •     "On-demand, agile and elastic connectivity is needed to enable advanced healthcare technologies and
+          solutions at sea," added Benny Retnamony, founder and CEO of Neuron. "Through our partnership with
+          VIKAND and FrontM, we are committed to demonstrating how application-driven QoE on demand
+          orchestrated through the Neuron platform can clear the way for VIKAND to accelerate access to critical
+          onboard medical services."
+    •     "Technology and connectivity are critical to any vessels at sea," says Ronald Spithout, Managing Director
+          of OneHealth by VIKAND. "VIKAND together with FrontM are always striving to deploy state of the art
+          modern technology to improve healthcare possibilities at sea. In this context, the integration with Neuron's
+          quality of experience management platform opens the possibility to automatically link available capacity
+          that best matches the specific application requirement of that very moment, which could make all the
+          difference when talking healthcare and/or medical emergencies. VIKAND is delighted to be partnering with
+          Neuron to deploy this technology to the benefit of improving welfare at sea, where it adds value to our
+          operations, preserves crew value and benefits the maritime industry as a whole."
+    •     Guillermo Acilu, CTO, FrontM adds, "We are excited to harness enhanced connectivity by combining
+          Neuron's network management API and FrontM's low-code frameworks for Vikand's healthcare solution.
+          This is groundbreaking for not only Vikand's doctors and the crew to access advanced solutions with
+          dynamically elevated connectivity but also to bring efficiency and assurance to the customer at the same
+          time. This partnership with Neuron opens up significant opportunities to maximise the customer experience
+          for a vast array of applications in our app marketplace."
+
+Click here to view a short demo video by Neuron, VIKAND and FrontM.
+
+Unlocking the Next Generation of Apps and Services at Sea
+
+                                                                                              Page 3 of 4
+     Neuron Launches Network APIs to Enable Application-Driven QoE On Demand for the Maritime Industry
+                    Network APIs for multi-provider, AI-powered network management....
+
+Application-driven QoE on demand for critical onboard services is just the beginning. In the future, maritime solution
+providers can also use Neuron's network APIs to unlock differentiated and personalized passenger experiences.
+For example, tailoring IPTV content and quality for special events, like Sunday Night Football; dynamic content
+caching prepositioning for high-definition VoD; or throwing hyper-connected live events and festivals in the middle
+of the ocean.
+
+Neuron is committed to working with additional partners to explore new ways to use its network APIs for a diverse
+range of use cases.
+
+About Neuron
+
+Neuron is the first AI-powered QoE management platform for things that move. It uses AI and machine learning to
+seamlessly blend any combination of connectivity, regardless of provider, orbit or network, in one, vendor-neutral
+environment, enabling comprehensive analytics and dynamic network orchestration that optimizes for the best
+possible quality of experience (QoE) - even in the most remote and hard-to-reach places.
+
+Today, Neuron works with world-leading, Fortune 500 companies in aviation, cruise, shipping and more. To learn
+more, visit: www.getneuron.com and follow us on LinkedIn .
 
-(TNSres) -- The U.S. Census Bureau issued the following tip sheet on June 14, 2024:
+About VIKAND
 
-***
+VIKAND is a leading expert in global medical services and risk mitigation solutions for the maritime industry,
+operating a global network of 1,500 maritime medical professionals, established across 44 countries, supported by
+4 main locations. VIKAND's caring and committed teams manage more than 4,100 daily maritime medical
+encounters.
 
-Upcoming
+With OneHealth, VIKAND offers a preventive maintenance approach to optimizing the physical and mental health of
+seafarers. A ship at sea is a standalone ecosystem where people live and work interdependently. OneHealth takes
+a diversified and inclusive approach to protecting the health and wellness of all onboard.
 
-2024 Product Calendar
+VIKAND all-inclusive approach unifies preparedness, prevention, detection, response, and management across a
+range of healthcare concerns, from communicable diseases to chronic illnesses, mental health concerns and more.
+www.vikand.com
 
-The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
-scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
-updated as needed throughout the year.
+About FrontM
 
-Community Resilience Estimates: Summer Rankings
+FrontM is a UK Headquartered, collaboration software company offering a comprehensive superapp platform for the
+maritime industry. By connecting service providers, solution providers, ship operators and their crews, FrontM
+facilitates improved communications, collaboration, crew welfare and operational efficiency at sea.
 
-The U.S. Census Bureau will release new tables for its Community Resilience Estimates (CRE) Summer Rankings
-data product. These tables will highlight the most socially vulnerable counties and neighborhoods in the country to
-hurricanes, wildfires, and strong winds. (Scheduled for release July 9.)
+Delivering a unique suite of marketplace apps for companies to prioritise crew connectivity and operate the ship as
+an extension of the shore ranging from crew healthcare enabling medical specialists to deliver comprehensive care,
+to crew training and skills development with social and just-in-time learning tools, crew entertainment with the
+industry's first live IP-TV, together with crew social internet, video conferencing and virtual events.
 
-2020 Census
+With a focus on digitalisation and a one-stop solution for integrating services, FrontM is dedicated to overcoming
+the challenges of app fatigue and advancing the maritime industry's digital transformation. www.frontm.com
 
-2023 Planning Database and New 2020 Census Operational Data
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240409591486/en/
 
-The U.S. Census Bureau will release the 2023 Planning Database (PDB), which includes new 2020 Census
-operational data on response rates, return rates and in-processing counts. The 2023 PDB contains a selection of
-housing, demographic, socioeconomic and operational data for block groups and census tracts from the 2020
-Census Redistricting Data (Public Law 94-171) Summary File, 2020 Census Demographic and Housing
-Characteristics File and 2017-2021 American Community Survey 5-year estimates. (Scheduled for release July 9.)
 
-American Community Survey
+CONTACT: leslie@getneuron.com
 
-                                                                                                        Page 2 of 7
-                              Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
 
-Computer and Internet Use Report: 2021
+http://www.businesswire.com
 
-The U.S. Census Bureau will release a new report which looks at access to computers and broadband internet
-subscriptions nationwide in 2021. Using data from the American Community Survey, this report examines key
-trends and characteristics in terms of demographic, social and geographic characteristics across the digital divide
-between those who have and those who lack access to computers and the internet. (Scheduled for release on June
-18.)
+                                                                                              Page 4 of 4
+     Neuron Launches Network APIs to Enable Application-Driven QoE On Demand for the Maritime Industry
+                    Network APIs for multi-provider, AI-powered network management....
 
-Demographic
 
-Vintage 2023 Population Estimates for the Nation, States, Metropolitan and Micropolitan Statistical Areas, and
-Counties by Age, Sex, Race and Hispanic Origin and for the Commonwealth of Puerto Rico and its Municipios by
-Age and Sex
-
-The U.S. Census Bureau will release Vintage 2023 population estimates by demographic characteristics June 27.
-Internet tables and detailed downloadable files will show annual population estimates for the nation, states,
-metropolitan and micropolitan statistical areas, and counties by age, sex, race and Hispanic origin, and for the
-Commonwealth of Puerto Rico and its municipios by age and sex between April 1, 2020, and July 1, 2023.
-(Scheduled for embargo starting June 25 and for public release June 27.)
-
-Profile of Older Adults by Poverty Status: 2021
-
-The U.S. Census Bureau will release a new report which offers a profile of adults aged 65 and over by poverty
-status. Using data from the Survey of Income and Program Participation (SIPP), this report examines the
-sociodemographic characteristics, living arrangements, program participation, and net worth of older adults by
-poverty status. (Scheduled for release in June.)
-
-Survey of Income and Program Participation 2023 Data Available
-
-The U.S. Census Bureau will release data from the 2023 Survey of Income and Program Participation (SIPP). The
-SIPP is a longitudinal survey that provides comprehensive information about income and assistance program
-participation of individuals and households in the United States. The survey collects data and measures change in
-characteristics like economic well-being, family dynamics, education, assets, health insurance, child care and food
-security. (Scheduled for release July 11.)
-
-Household Pulse Survey
-
-The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
-agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
-Phase 4.1 topics include employment status, spending, food security, housing, health, mental health, natural
-disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, disability, income, social
-connection, child care arrangements, and a section on participation with the arts. Data collection for phase 4.1
-began April 2, with data dissemination, including detailed data tables, an interactive data tool, and public-use files,
-on a monthly basis. (Scheduled for release July 11 and August 8.)
-
-Economic
-
-2023 Annual Integrated Economic Survey Due
-
-The due date for the 2023 Annual Integrated Economic Survey (AIES) has officially passed. Businesses can report
-by logging on to the respondent portal and accessing their survey card. For more information or assistance with
-completing this survey, visit www.census.gov/aies/information or call the AIES customer help line at 1-800-681-
-3012, Monday-Friday, 8 a.m.-8 p.m. ET.
-
-Using Public Data to Make Decisions
-
-                                                                                                        Page 3 of 7
-                              Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-
-Join us for the Exploring Census Data webinar series on Using Public Data to Make Decisions. Census Bureau
-subject matter experts will present data available from public sector programs and the American Community
-Survey. You will learn about the different types of business and demographic data available and how they can help
-guide many decisions. Discover statistics available on public employment, payroll, state and local government
-finances, demographic and other characteristics, and learn about data access and utilization. Engage with our
-experts via live chat and the Q&A segment. This webinar is part 3 of 6 in a series to help data users explore and
-use Census Bureau data related to people, places, and the economy. (Scheduled for June 20.)
-
-New Post-Secondary Employment Outcomes (PSEO) Data
-
-The U.S. Census Bureau will release new data on outcomes of graduates. PSEO tabulations show earnings and
-employment outcomes for graduates of U.S. post-secondary institutions and are generated by linking graduate
-transcript records to Longitudinal Employer-Household Dynamics wage data. This offers prospective students a
-comprehensive assessment tool to find out how much they could potentially earn by degree and institution. The
-Census Bureau conducts the PSEO in cooperation with higher education institutional systems to examine college
-degree attainment and graduate earnings. (Scheduled for release June 27.)
-
-2022 County Business Patterns
-
-The Census Bureau will release County Business Patterns (CBP). The upcoming annual series release provides
-2022 subnational economic data by industry (2- through 6- digit NAICS). These data include detailed information on
-the number of establishments, employment during the week including March 12, and first quarter and annual payroll
-at the national, state, metropolitan/micropolitan statistical area, combined statistical area, county and congressional
-district levels for nearly 1,000 NAICS industries. Data for Puerto Rico and the Island Areas are also available at the
-state- and county-equivalent levels. (Scheduled for release June 27.)
-
-"Win Grants with LODES Data: Success Stories and Shortcuts from Texas' Largest Community College System?"
-
-The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership, Council for Community and
-Economic Research (C2ER) and Labor Market Information (LMI) Institute welcomes Camille Gilchriest as she
-presents, "Win Grants with LODES Data: Success Stories and Shortcuts from Texas' Largest Community College
-System." In this presentation, the Dallas College Labor Market Intelligence Center (LMIC) highlights case studies
-that showcase how to utilize the Longitudinal Employer-Household Dynamics Origin-Destination Employment
-Statistics (LODES) data to support a variety of economic development activities, such as campus planning,
-relationship building with external partners, and grant development from project design to post-award
-implementation. (Scheduled for July 10.)
-
-Business Trends and Outlook Survey
-
-The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
-experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
-The data allow greater insight into the state of the economy by providing continuous, timely information for key
-economic measures. Data are released biweekly and are available by sector, state, employment size, and the 25
-most populous metropolitan statistical areas. Additional details on artificial intelligence use and types used were
-added for one cycle and released March 28, 2024. Because of the change in sample composition, BTOS data from
-before September 11, 2023, are not directly comparable with data after that date.
-
-Monthly Business Formation Statistics
-
-Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
-business formations monthly. The data are available at the state, regional, and national levels and by industry
-sector at the national level. The next monthly BFS will be released June 12 and will include May 2024 data.
-Business Formation Statistics - Release Schedule (census.gov).
-
-Stats for Stories
-
-                                                                                                         Page 4 of 7
-                              Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-
-Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to current
-events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story mining
-and producing content for their respective audiences.
-
-* 2024 Atlantic Hurricane Season: June 1-November 30
-
-________________________________________
-
-Recently Released
-
-(Released since May 31, 2024)
-
-Demographic
-
-Current Population Survey Modernization Efforts Webinar Series: Annual Social and Economic Supplement -- June
-13
-
-The U.S. Census Bureau is scheduled to hold a webinar on June 13 at 2 p.m. ET to share updates and lay the
-groundwork for improvements to the Annual Social and Economic Supplement (ASEC) of the Current Population
-Survey (CPS). This is the second in a series of webinars on CPS modernization efforts. The upcoming webinar will
-discuss planned innovations to the ASEC. The presentation will also include a timeline for these proposed
-enhancements. The Census Bureau will continue to engage stakeholders and provide updates as CPS
-modernization efforts move forward. (Event scheduled for June 13.)
-
-Spouses in Opposite-Sex and Same-Sex Married Couples and Their Households: 2022 --
-
-June 11
-
-The U.S. Census Bureau released a new American Community Survey brief that paints a national portrait of
-spouses in same-sex married couples. The report provides nationally representative estimates of these spouses
-and their households compared with those in opposite-sex couples. Estimates are presented separately for men
-and women to examine whether the experiences and living arrangements of same-sex spouses are consistent
-across sex.
-
-Economic
-
-Quarterly Summary of State and Local Government Tax Revenues: 1st Quarter 2024 -- June 13
-
-The Census Bureau released a summary of quarterly estimates of state and local government tax revenue at the
-national level as well as detailed tax revenue data for individual states. This report produces two income and sales
-data tables and one table for tax collections by state. More information about this release is available in the 2024
-Quarterly Summary of State and Local Tax Revenue tables at census.gov.
-
-Cannabis Excise Sales Tax Collections: 1st Quarter 2024 -- June 13
-
-The U.S. Census Bureau released experimental data and an updated data visualization featuring quarterly tax
-collections at the state level for cannabis sales. Data for cannabis sales taxes were reported in the Quarterly
-Summary of State and Local Government Tax Revenue and were first released for the second quarter of 2023. The
-data visualization provides cannabis revenue as a percent of the states total tax revenue where available and
-percent change from the prior quarter. More information about this data can be found online.
-
-"How the COVID-19 Pandemic Prompted More People to Change Jobs?" -- June 12
-
-The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership, in collaboration with the Council
-for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomed Hubert
-Janicki as he presented, "How the COVID-19 Pandemic Prompted More People to Change Jobs." New Census
-Bureau statistics from the Longitudinal Employer-Household Dynamics (LEHD) shows to what extent U.S. workers
-
-                                                                                                      Page 5 of 7
-                             Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-
-changed jobs across industries during and after the pandemic emergency was declared over in 2023. LEHD's Job-
-to-Job Flows (J2J) data product now includes an experimental research release of job flow counts across industries
-from the North American Industry Classification System (NAICS) down to a more detailed subsector level (3-digit
-NAICS).
-
-2022 Economic Census for American Samoa, Guam and the Commonwealth of the Northern Mariana Islands --
-June 6
-
-The U.S. Census Bureau released data for American Samoa, Guam and the Commonwealth of the Northern
-Mariana Islands from the 2022 Economic Census in June. The economic census is the U.S. government's official
-five-year measure of businesses in the United States and U.S. Island Areas. It is the only source of comprehensive,
-comparable data for the Island Areas at a geographic level similar to U.S. counties. The economic census is the
-major source of statistics about the structure and functioning of the economies of each Island Area, serving as part
-of the framework for the national accounts of the Island Areas.
-
-America Counts: Stories Behind the Numbers
-
-America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
-such as families, housing, employment, business, education, the economy, emergency preparedness and the
-population. New stories include:
-
-* Bracing for an Active 2024 Hurricane Season (June 12)
-
-* Over Half of Spouses in Same-Sex Marriages Tied the Knot After 2014 (June 11)
-
-* Exploring Two "First Look" Economic Datasets (June 6)
-
-* How Many Young and Older Adults Lived Alone? (May 30)
-
-Stats for Stories
-
-Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
-relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
-in story mining and producing content for their respective audiences.
-
-* LGBTQIA+ Pride Month: June 2024
-
-* Juneteenth (1865): June 19, 2024
-
-Blogs
-
-Emergency Management: How Our Data Help Communities in Times of Need -- June 5
-
-Written by: Dr. Ron Jarmin, Deputy Director -- As the nation prepares for the 2024 hurricane season, the U.S.
-Census Bureau is ready to provide critical information for all stages of disaster management. This year, the
-National Oceanic and Atmospheric Administration's (NOAA) National Weather Service forecasters at the Climate
-Prediction Center predict above-normal hurricane activity in the Atlantic basin.
-
-Resources
-
-Emergency Management/Disaster Resources
-
-When major disasters strike, visit our Emergency Management webpage for demographic and economic data on
-impacted areas. Each disaster will include data from our key emergency management tools: OnTheMap for
-Emergency Management; Community Resilience Estimates; Census Business Builder: Regional Analyst Edition;
-and other useful resources.
-
-                                                                                                      Page 6 of 7
-                             Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-
-Learn What Surveys Are Being Conducted in Your Community
-
-Discover which of the U.S. Census Bureau's 130-plus annual surveys are being conducted in your community. In a
-variety of surveys and censuses, evolving from the first census in 1790, the Census Bureau provides official
-information about America's people, businesses, industries and institutions. Learn more about surveys currently
-being conducted in each Census Bureau region:
-
-* Atlanta
-
-* Chicago
-
-* Denver
-
-* Los Angeles
-
-* New York
-
-* Philadelphia
-
-* All Surveys
-
-Data Tools
-
-Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
-annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
-
-2020 Census Address Count Listing Files Viewer
-
-This application was developed to supplement the Address Count Listing files. The files include housing unit and
-group quarters counts, by census block.
-
-Community Resilience Estimates (CRE)
-
-This interactive treemap shows all the counties in the United States arranged by region and sized according to
-population or SNAP participation.
-
-Justice Outcomes Explorer Data Tool
-
-Justice Outcomes Explorer (JOE) data measure the economic and health outcomes of people who have been
-involved with the criminal justice system.
-
-Training Opportunities
-
-Census Bureau Training Opportunities
-
-Webinars are available on a regular basis to help the public access and use Census Bureau statistics. These free
-sessions, which are 60 to 90 minutes each, show users how to navigate Census Bureau databases and mapping
-tools and find demographic and economic statistics at the local or national level. Descriptions of upcoming sessions
-are available on our Census Academy webpage. Login details are provided at least one week before a webinar.
-
-* Business Trends and Outlook Survey: High-frequency Economic Data (Tuesday, June 18, 2-3 p.m. ET)
-
-* Using Public Data to Make Decisions (Thursday, June 20, 2-3 p.m. ET)
-
-* Navigating Geographic Complexities on data.census.gov (Tuesday, June 25, 2-3 p.m. ET)
-
-* Exploring Governments Data Using data.census.gov (Thursday, July 11, 2-3 p.m. ET)
-
-                                                                                                   Page 7 of 7
-                             Census Bureau Issues Tip Sheet No. 12 - June 14, 2024
-
-* Exploring Census Data Webinar Series: Services in the U.S. (Thursday, July 25, 2-3 p.m. ET)
-
-* Understanding the Differences Between Statistics (Thursday, July 25, 2-3 p.m. ET)
-
-Archived Training Resources -- Visit the Census Bureau's Educational Resource Library for previously recorded,
-free training available at your convenience. The library includes presentations, recorded webinars, tutorials and
-other helpful materials.
-
-***
-
-Original text and links presented by source here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-12.html
-
-Copyright Targeted News Services
-
-T40-MgEditor-8681433 T40-MgEditor
-
-
-Load-Date: June 18, 2024
+Load-Date: April 9, 2024
 
 
   

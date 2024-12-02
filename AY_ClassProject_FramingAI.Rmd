@@ -96,7 +96,7 @@ library(flextable)
 
 ```{r}
 #reading PDF file and converting it into text. 
-text <- pdf_text("https://github.com/akuwornu/AYClassProjectRepo/blob/main/AY_framingAI.PDF")
+text <- pdf_text("../AYClassProjectRepo/AY_framingAI.PDF")
 writeLines(text, "../AYClassProjectRepo/AY_framingAI.text")
 file_path <- "../AYClassProjectRepo/AY_framingAI.text"
 text_data <- readLines(file_path)
@@ -305,8 +305,286 @@ ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
        x = "Phrase",
        y = "Count of terms")
 ```
+#Sentiment Analysis
 
-# Prof. Rob, I'm still working on this assignment. I wanted to submit this as a way of progress while I finalize it. 
+```{r}
+library(textdata)
+library(quanteda)
+```
 
+#Tokenize text
+
+```{r}
+text_tokenized <- articles_df %>% 
+  select(sentence) %>% 
+  unnest_tokens(word, sentence)
+```
+
+#Filter tokenized text
+```{r}
+text_tokenized <- articles_df %>% 
+  select(sentence) %>% 
+  mutate(sentence = str_replace_all(sentence, "- ", "")) %>% 
+  unnest_tokens(word, sentence) %>% 
+  filter(!word %in% stop_words$word) %>% 
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+```
+
+
+#Do a word count
+```{r}
+text_word_ct <- text_tokenized %>%
+  count(word, sort=TRUE)
+text_word_ct
+```
+
+
+#Load NRC lexicon
+```{r}
+nrc_sentiments <- get_sentiments("nrc")
+
+nrc_sentiments %>% count(sentiment)
+
+nrc_sentiments %>% 
+  group_by(word) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  distinct()
+```
+
+# Count Overall Sentiment with NRC
+```{r}
+
+sentiments_all <- text_tokenized %>%
+  inner_join(nrc_sentiments) 
+
+sentiments_all %>% 
+  group_by(word) %>% 
+    count(sentiment) %>% 
+  arrange(desc(n))
+```
+
+```{r}
+sentiments_all <- text_tokenized %>%
+  inner_join(nrc_sentiments) %>%
+  count(sentiment, sort = TRUE) %>% 
+  mutate(pct_total =round(n/sum(n), digits=2))
+
+sentiments_all
+```
+
+# Create ggplot
+```{r}
+# Load necessary libraries
+library(ggplot2)
+library(dplyr)
+
+# Plot the sentiment analysis results
+nrc_plot <- sentiments_all %>% 
+  ggplot(aes(x = reorder(sentiment, n), y = n, fill = sentiment)) + 
+  geom_bar(stat = "identity", position = "dodge") +  
+  theme(legend.position = "none") +  
+  labs(
+    title = "Sentiments reflected in Articles About AI & Disaster",
+    subtitle = "positive & negative sentiments recorded ",
+    caption = "NRC Sentiment Analysis. Graphic by AY Kuwornu, Dec 1, 2024",
+    x = "Total Sentiment Score",
+    y = "Score"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.caption = element_text(hjust = 0, size = 10)
+  ) +
+  scale_fill_brewer(palette = "Set3") +
+  coord_flip()  
+# Print the plot
+print(nrc_plot)
+```
+
+##Using topic modeling, I examined the idea of topics reflected in our data. 
+
+```{r}
+# install.packages("here")
+# install.packages("tidytext")
+# install.packages("quanteda")
+# install.packages("tm")
+# install.packages("topicmodels")
+# install.packages("reshape2")
+# install.packages("ggplot2")
+# install.packages("wordcloud")
+# install.packages("pals")
+# install.packages("SnowballC")
+# install.packages("lda")
+# install.packages("ldatuning")
+# install.packages("kableExtra")
+# install.packages("DT")
+# install.packages("flextable")
+# install.packages("remotes")
+# remotes::install_github("rlesur/klippy")
+#install.packages("rio")
+#install.packages("readtext")
+#install.packages("formattable")
 
 ```
+
+#Loading relevant libraries and packages for topic modelling
+
+```{r include=FALSE}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr) 
+library(kableExtra) 
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+
+```
+
+### Import Data and process into corpus
+
+```{r}
+topic_data <- articles_df %>% 
+  select(filename, sentence) %>% 
+  as.data.frame() %>% 
+  rename(doc_id = filename, text= sentence)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(topic_data))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+
+```
+
+
+```{r tm3a}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+topic_data <- topic_data[sel_idx, ]
+#5 term minimum[1] 1387 3019
+#5 term minimum[1] 308597 10339
+
+```
+
+```{r tm12}
+# number of topics
+# K <- 20
+K <- 6
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 1000, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+
+```
+
+### Extracting and visualizing the topics
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_topicdata<- length(topic_data)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_topicdata, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), topic_data$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+topicdata_filtered <- topic_data[topic_data$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_topicdata_filtered <- nrow(topicdata_filtered)
+cat("Number of documents in filtered textdata: ", n_topicdata_filtered, "\n")
+
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% topicdata_filtered$doc_id, ]
+
+# Step 2: Combine data
+full_data <- data.frame(theta_aligned, decade = topicdata_filtered)
+
+# get mean topic proportions per decade
+# topic_proportion_per_decade <- aggregate(theta, by = list(decade = textdata$decade), mean)
+# set topic names to aggregated columns
+colnames(full_data)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(full_data)
+   
+#Examine topic names
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+```
+# Review the topics and determine a 1-2 word label after reading the source documents.
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+topic1 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic1 = '1') |> 
+  top_n(20, topic1) |> 
+  arrange(desc(topic1)) |>  
+  select(file, line, topic1)
+
+```
+
+```{r}
+vizDataFrame <- vizDataFrame %>% 
+  mutate(category = case_when(
+    str_detect(variable, "data technolog servic manag provid system market cloud intellig comput") ~ "managing crisis",
+    str_detect(variable, "servic program communiti develop support health energi news includ climat") ~ "community engagement",
+    str_detect(variable, "committe depart state hous year issu act fund offic report") ~ "government involvement",
+    str_detect(variable, "state secur unit support cooper region continu countri forc commit") ~ "approach",
+    str_detect(variable, "year result oper million financi quarter net compani increas includ") ~ "outcome",
+    str_detect(variable, "page presid census time peopl word length load-dat bureau american
+") ~ "reflection",
+    TRUE ~ NA_character_  # Ensure there is a default value for non-matching cases
+  ))
+```
+

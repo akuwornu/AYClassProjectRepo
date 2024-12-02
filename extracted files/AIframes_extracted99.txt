@@ -1,69 +1,109 @@
 
 
-                                                                                                     Page 1 of 2
-          US Signal Strengthens Michigan Presence with Strategic Acquisition of Detroit North Data Center
+                                                                                                 Page 1 of 2
+      TAMU-CC Assistant Professor Wins Prestigious International Engineering Award; Advocates for Holistic
+                                Approach, Case-Specific Designs for Bridges
 
 
 
 
-    US Signal Strengthens Michigan Presence with Strategic Acquisition of
-                          Detroit North Data Center
-                                                           PR Newswire
-                                           August 13, 2024 Tuesday 9:10 AM EST
+ TAMU-CC Assistant Professor Wins Prestigious International Engineering
+Award; Advocates for Holistic Approach, Case-Specific Designs for Bridges
+                                                     Targeted News Service
+                                            January 26, 2024 Friday 8:20 AM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 640 words
-Dateline: GRAND RAPIDS, Mich., Aug. 13, 2024
+
+
+
+Length: 901 words
+Byline: Targeted News Service
+Dateline: CORPUS CHRISTI, Texas
 
 Body
 
 
-PR NewswireGRAND RAPIDS, Mich., Aug. 13, 2024 /PRNewswire/ --US Signal, a frontrunner in digital
-infrastructure solutions, is proud to announce the strategic acquisition of a cutting-edge data center located at 1035
-West Entrance Drive, Auburn Hills, Michigan. This pivotal move not only strengthens US Signal's presence in the
-Detroit metro area but also marks a significant milestone as the third data center in this market, the fifth in Michigan,
-and the sixteenth across the United States.
+Texas A&M University Corpus Christi campus issued the following news:
 
- "This acquisition underscores our position as the leading data center and managed services provider in the
-region."John White, Chief Operating Officer at US Signal, emphasized the company's strategic vision, stating, "Our
-mission to fortify digital infrastructure in Michigan has never been stronger. This acquisition underscores our
-position as the leading data center and managed services provider in the region. With three facilities in Metro
-Detroit now fully operational and in high demand, we are poised for growth."The Detroit North Data Center,
-encompassing 76,000 square feet, is ready for immediate lease, offering 4MW of available power with the ability to
-expand up to 8MW. This facility is set for substantial enhancements, including over 5 megawatts of critical IT load
-capabilities, 24/7 staffing, and top-tier multi-level security measures, meeting rigorous tier III standards for
-redundancy and reliability.Designed to accommodate the surging demand for AI and high-power consumption
-applications, the facility boasts 17,000 square feet of raised floor space, with ample room for expansion. It adheres
-to the highest compliance standards, being SSAE 18-audited, HIPAA-compliant, and PCI-certified, ensuring utmost
-security for all hosted data.In anticipation of increased operational needs, US Signal plans to augment its workforce
-in the market, adding office space and welcoming a number of new employees to meet the evolving needs of its
-customer base. In line with their commitment to expanding network capabilities, US Signal will also be adding a 6-
-mile fiber build around the Detroit North Data Center. This effort will further bolster connectivity and ensure
-seamless, high-speed data exchange for its clients.An open house event will be announced following the
-completion of the facility's renovations this fall. The swift commitment from several of US Signal's clients to utilize
-space within the new Detroit North Data Center highlights the strong market demand for premium digital
-infrastructure services.John White added, "Drawing from our success with the Indianapolis North Data Center, the
-Detroit North facility is on track to become a pivotal hub for network connectivity and digital infrastructure
-services."US Signal's remarkable year-over-year growth rate in data center operations is a testament to its
-commitment to providing robust and reliable digital infrastructure solutions. For more information on US Signal's
-comprehensive data center capabilities and services, please visithttps://ussignal.com.About US SignalUS Signal is
-a leading Midwest-based digital infrastructure provider, established in 2001. With a rich history of delivering cutting-
+In the realm of bridge design and structural engineering, innovation knows no bounds. Leading the charge in
+revolutionizing bridge development through novel research is Dr. Miguel Cid Montoya, Assistant Professor of Civil
+Engineering at Texas A&M University-Corpus Christi. He and his team in the TAMU-CC College of Engineering and
+Computer Science have harnessed the power of optimization algorithms, artificial intelligence (AI), and
+computational fluid dynamics (CFD) simulations to develop safer, more cost-effective bridges. They do this using a
+scaled-down, fully functional wind tunnel located in the Dr. Robert R. Furgason Engineering Building at the Island
+University. The tunnel plays a crucial role in analyzing environmental forces and enhancing the resilience of their
+bridge designs.
 
-                                                                                                    Page 2 of 2
-         US Signal Strengthens Michigan Presence with Strategic Acquisition of Detroit North Data Center
+"This equipment is hugely beneficial for the students at TAMU-CC," Cid Montoya said. "If a picture is worth a
+thousand words, then I believe that an active learning experience in a lab carrying out research is worth a thousand
+whiteboard lectures. I am glad to be able to share the excitement of hand-on data collection with my students."
 
-edge digital infrastructure solutions, US Signal's strength lies in its extensive, wholly owned and operated fiber
-network. The company specializes in offering a wide array of managed and professional services, including network
-connectivity, cloud hosting, colocation, data protection, and disaster recovery solutions, all designed to optimize
-and safeguard business resources. For more insight into US Signal's services, visitwww.ussignal.com. View
-original content to download multimedia:https://www.prnewswire.com/news-releases/us-signal-strengthens-
-michigan-presence-with-strategic-acquisition-of-detroit-north-data-center-302220457.htmlSOURCE US Signal
+Cid Montoya came to the Island University in 2022 with a wide range of international experience, including
+undertaking studies in Spain, Canada, Italy, as well as the U.S. (Notre Dame). He is the recent awardee of a
+$200,000 grant by the National Science Federation, and in fall 2023, Cid Montoya was the recipient of the IAWE
+Junior Award of the International Association for Wind Engineering for his exceptional research into bridge
+aeroelasticity and wind-resistant design. This award was presented in Florence, Italy.
+
+"As a researcher, I find that the work can occasionally feel a bit isolating, and measuring the real-life usefulness of
+this research is not always straightforward," Cid Montoya said. "For me, receiving this award shows that my
+personal efforts in the field have made a difference, and this motivates me to keep going. It was also gratifying to be
+notified and recognized by renowned professors in this discipline whose work I have spent many years reading."
+
+                                                                                                 Page 2 of 2
+      TAMU-CC Assistant Professor Wins Prestigious International Engineering Award; Advocates for Holistic
+                                Approach, Case-Specific Designs for Bridges
+
+Cid Montoya's research shows that bridge development can never truly fit a "one-size-fits-all" format. For example,
+in California, an engineer would have to take earthquakes into account; in Corpus Christi, the priority will be
+hurricanes and strong winds.
+
+"When we design a bridge, we look at a wide range of factors -- how long will it be, what form will it take, what loads
+will it bear. But we also need to consider the environment and elements that the bridge will be exposed to," Cid
+Montoya explained. "Each location is different. We have the local climate, wind speed and turbulence, and the
+potential for natural disasters, so we must treat each bridge design differently. My methodology aims to find a
+balance between all these factors to come up with a unique structure that is safer, cheaper, and more resilient."
+
+Studies into the aeroelasticity of bridges have rapidly advanced since their inception in the mid-20th century. A key
+event in the development of this field of research is that of the Tacoma Narrows Bridge disaster of 1940, which saw
+the suspension bridge across the Narrows of Puget Sound in Washington State collapse in 40-mile-per-hour winds.
+It was found that the design of the bridge was wholly inappropriate from the wind-resistance perspective -- the two-
+lane roadway deck design was ineffective in absorbing the wind loads, combined with its very high level of flexibility.
+
+It is designing according to the wind and other natural occurrences that Cid Montoya deems crucial to a resilient
+bridge, and this is where the Department of Engineering's computational and experimental infrastructure comes into
+play. Cid Montoya and his team of six Island University students are conducting numerical CFD simulations and
+experiments in the department's wind tunnel to analyze the forces on bridge decks and optimize their design.
+
+Jose Jaquez '25, a mechanical engineering major, credits his involvement in the wind tunnel project with allowing
+him to put his skills learned in class into practice.
+
+"Regarding the wind tunnel, my main task is to troubleshoot any issues we come across when updating the design
+of the machine," Jaquez said. "I do this by either designing new parts for the machine or modifying existing parts or
+codes. I love being able to use my knowledge of design and electronics to improve the functionality of the machine
+and to advance our research, all while allowing me to grow as an engineer."
+
+Cid Montoya's research team aspires to disseminate their findings with the community, enabling the region to glean
+valuable insights for evaluating new infrastructure approaches. They do this through various open-door activities,
+such participating in Island Days, the Islander Family Weekend, and the American Society of Civil Engineers
+(ASCE) Corpus Christi Chapter activities, among other events.
+
+"As a growing university, it is in our best interest to get the community interested and involved in our work," Cid
+Montoya said.
+
+***
+
+Original     text    here:    https://www.tamucc.edu/news/2024/01/tamu-cc-assistant-professor-wins-prestigious-
+international-engineering-award-advocates-for-holistic-approach-case-specific-designs-for-bridges.php
+
+Copyright Targeted News Services
+
+MSTRUCK-8462337 MSTRUCK
 
 
-Load-Date: August 13, 2024
+Load-Date: January 26, 2024
 
 
   

@@ -1,122 +1,98 @@
 
 
-                                                                                                        Page 1 of 3
-                         Rice engineers develop AI system for real-time sensing of flooded roads
+                                                                                      Page 1 of 2
+     MOB WITH A PURPOSE: DENNY'S SELECTS DAD-RUN COMMUNITY IMPROVEMENT START-UP AS
+       TRILLION-DOLLAR INCUBATOR CONTEST WINNER; Walter Arnett of Lexington, Kentucky, co....
 
 
 
 
-   Rice engineers develop AI system for real-time sensing of flooded roads
-                                                     Targeted News Service
-                                           August 26, 2024 Monday 3:47 PM EST
+   MOB WITH A PURPOSE: DENNY'S SELECTS DAD-RUN COMMUNITY
+ IMPROVEMENT START-UP AS TRILLION-DOLLAR INCUBATOR CONTEST
+ WINNER; Walter Arnett of Lexington, Kentucky, cooks up Grand Slam of an
+                        idea to boost volunteerism
+                                                         GlobeNewswire
+                                           January 10, 2024 Wednesday 6:58 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 926 words
-Byline: Targeted News Service
-Dateline: HOUSTON, Texas
+Section: FOOD
+Length: 693 words
 
 Body
 
+Spartanburg, SC, Jan. 10, 2024 (GLOBE NEWSWIRE) -- The search for the next BIG idea born in a Denny’s
+booth is complete, as Denny’s (NASDAQ: DENN) announces the winner of its Trillion-Dollar Incubator Contest.
+Walter Arnett was selected as the contest champion and recipient of the $25,000 grand prize for his community-
+driven idea “Dad Mob”. After besting thousands of innovators and creative thinkers nationwide with his concept,
+Arnett can now turn his dream into a reality.
 
-Rice University issued the following news release:
+Walter Arnett, a Lexington, Kentucky native, drew inspiration for the Dad Mob community platform from his
+extensive work with the Kentucky Children’s Hospital. Arnett formed the jersey-clad coalition to mobilize dads for
+charity and volunteer work. The project provides busy fathers with opportunities for socializing and giving back, and
+Arnett plans to expand to multiple states, with Denny’s serving as the official meeting place.
 
-Rice engineers Pranavesh Panakkal (left) and Jamie Padgett (right) analyze a map of road links in the Houston
-area. (Photos by Jeff Fitlow)Roadway-related incidents are a leading cause of flood fatalities nationwide, but limited
-flood-reporting tools make it difficult to evaluate road conditions in real time.
+“I wanted to create a platform that enables people to give back in a fun and engaging way while building
+camaraderie and helping others,” said Arnett. “The more fun an event is, the greater the turnout. Bringing a tailgate
+atmosphere entices dads to get out of their man caves and build community while doing meaningful work.”
 
-Existing tools traffic cameras, water-level sensors and even social media data can provide observations of flooding,
-but they are often not primarily designed for sensing flood conditions on roads and do not work in conjunction. A
-network of sensors could improve situational flood level awareness; however, they are expensive to operate at
-scale.
+Inspired by NVIDIA, the trillion-dollar tech company that got its start at a Denny’s in San Jose, California, Denny’s
+invited diners to submit their original idea born in a Denny’s booth. America stepped up to the challenge and
+delivered novel ideas: an Original Grand Slam flavored gum, a Denny’s-inspired book on friendship, and an AI
+video editing platform.
 
-Engineers at Rice University have developed a possible solution to this problem: an automated data fusion
-framework called OpenSafe Fusion. Short for Open Source Situational Awareness Framework for Mobility using
-Data Fusion, OpenSafe Fusion leverages existing individual reporting mechanisms and public data sources to
-sense quickly evolving road conditions during urban flooding events, which are becoming increasingly frequent.
+                                                                                       Page 2 of 2
+      MOB WITH A PURPOSE: DENNY'S SELECTS DAD-RUN COMMUNITY IMPROVEMENT START-UP AS
+        TRILLION-DOLLAR INCUBATOR CONTEST WINNER; Walter Arnett of Lexington, Kentucky, co....
 
-PadgettJamie Padgett, Rice's Stanley C. Moore Professor in Engineering and chair of the Department of Civil and
-Environmental Engineering, together with Pranavesh Panakkal, a postdoctoral researcher in civil and environmental
-engineering, analyzed data from nine sources in Houston before developing the comprehensive framework for the
-automated data system in their research study titled "More eyes on the road: Sensing flooded roads by fusing real-
-time observations from public data sources," published in the journal Reliability Engineering & System Safety.
+Judged on creativity, originality, innovation, and visual quality of submission, Arnett ultimately won the favor of
+America and contest judges Kelli Valade, Denny’s president and chief executive officer and Jensen Huang,
+president and chief executive officer of NVIDIA, to take home the grand prize. Semi-finalists and finalists of the
+Trillion-Dollar Incubator Contest walk away as winners too, as they will receive gift cards valued at $100 and $500,
+respectively.
 
-"While sources directly observing flooded roads are limited, urban centers are replete with sources directly or
-indirectly observing flooding or road conditions," Padgett said.
+“At Denny’s, our passion is feeding and nourishing our communities. For 70 years, our booths have served as a
+place to create big ideas, fed by great service and delicious food,” said Valade. “The submissions to our Trillion-
+Dollar Incubator Contest exemplify the power of giving others a chance to progress their purpose. Initiatives like
+Walter’s Dad Mob community coalition embody the spirit of nourishing communities, just like Denny’s does.”
 
-Padgett and Panakkal hypothesized that an automated system combining insights from these real-time sources
-could potentially revolutionize flood situational awareness without significant investment in new sensors.
+For more information about Denny’s, please visit www.dennys.com.
 
-                                                                                                         Page 2 of 3
-                      Rice engineers develop AI system for real-time sensing of flooded roads
+###
 
-"This study offers communities a pathway to equitably sense and respond to urban stressors such as flooding using
-existing data sources," Padgett said. "It builds off of and is inspired by our longtime collaboration with colleagues in
-the SSPEED Center at Rice, who have been developing state-of-the-art flood alert systems. Here we focus on flood
-impacts on transportation infrastructure and focus on understanding how other data sources can complement
-information from flood models, especially with respect to impact on roadways and safe mobility."
+About Denny's Corp Denny's is a Spartanburg, S.C.-based family dining restaurant celebrating its
+70th anniversary year and founding purpose: We love to feed people. That purpose has led us to become a
+restaurant brand that guests worldwide rely on for delicious value and craveable contemporary meals across
+breakfast, lunch, dinner, and late night. Every day, we welcome guests to dine whenever and however they prefer,
+whether it is at our brick-and-mortar locations, via Denny's on Demand – the first delivery platform in the family
+dining segment, or at The Meltdown and The Burger Den, our two virtual restaurants. Our longstanding commitment
+to supporting our local communities is brought to life with our Mobile Relief Diner that delivers hot meals to our
+neighbors during times of disaster.
 
-The framework uses data from sources like traffic alerts, cameras and even traffic speed, and leverages machine
-learning and data fusion to predict whether a road is flooded or not.
+Denny's is one of the largest franchised full-service restaurant brands in the world, based on the number of
+restaurants. As of March 29, 2023, Denny's had 1,594 franchised, licensed and company restaurants, which
+includes 161 restaurants in Canada, Costa Rica, Curacao, El Salvador, Guam, Guatemala, Honduras, Indonesia,
+Mexico, New Zealand, the Philippines, Puerto Rico, the United Arab Emirates, and the United Kingdom.
 
-The value of such data sources was evident during Hurricane Harvey in 2017 as many people in Houston including
-emergency responders resorted to manually examining data sources to infer probable road conditions to overcome
-the lack of reliable real-time road condition data.
+To learn more about Denny's, please visit our brand website at www.dennys.com or the brand's social channels
+via Facebook, Twitter, Instagram, TikTok, LinkedIn or YouTube.
 
-To test the OpenSafe Fusion process, the researchers used historical flooding data observed during Harvey to
-recreate the scenario in the framework, consisting of around 62,000 roads in the Houston region.
+SOURCE Denny’s
 
-Panakkal"The model was able to observe around 37,000 road links, which is around 60% of the network that we
-considered, and that is a significant improvement," Panakkal said.
-
-Other data sources that could be used in the framework include: water-level sensors, citizen portals, crowdsourcing,
-social media, flood models and a factor the study refers to as "human-in-the-loop."
-
-This last source is especially important, Panakkal says, as the human element of OpenSafe Fusion allows for
-responsible artificial intelligence (AI) usage.
-
-"We do not want a system that is fully automated and without any human control," Panakkal said. "The model may
-make a wrong prediction, which could endanger community members who decide to risk travel based on this
-prediction. So we designed safeguards based on responsible AI usage. This need for responsible AI in such tools is
-still an open area for further work, and we hope to dig deeper as we test our methods in the future."
-
-The study also considered flooding impacts on community access to critical facilities such as hospitals and dialysis
-centers during a natural disaster.
-
-"This gives community members or emergency responders an understanding of which roads are flooded and how
-to safely navigate to a location," Panakkal said.
-
-Padgett says the researchers hope to pursue extensive testing, validation and exploration of how communities with
-different scales and resource availability could use this framework to better sense road conditions during a flood.
-
-"Considering climate change impacts and climate-exacerbated weather events, the frequency and intensity of flood
-events could increase in the future, so we need a solution to better respond to flood events and their impacts on
-infrastructure," Padgett said.
-
-The study was supported by the National Science Foundation (1951821, 2227467) and the National Academies of
-Science, Engineering and Medicine's Gulf Research Program (2000013194). The content in this press release is
-solely the responsibility of the authors and does not necessarily represent the official views of the supporting
-entities.
-
-***
-
-Original text here: https://news.rice.edu/news/2024/rice-engineers-develop-ai-system-real-time-sensing-flooded-
-roads
-
-Copyright Targeted News Services
-
-MSTRUCK-8789034 MSTRUCK
-
-                                                                                              Page 3 of 3
-                    Rice engineers develop AI system for real-time sensing of flooded roads
+   Attachment
 
 
-Load-Date: August 26, 2024
+      •   Denny's Trillion-Dollar Incubator Contest Winner Walter Arnett
+Denny's Media Team Denny's 864-597-8005 media@dennys.com
+
+
+
+Load-Date: January 10, 2024
 
 
   

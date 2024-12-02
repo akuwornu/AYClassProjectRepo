@@ -1,163 +1,120 @@
 
 
-                                                                                               Page 1 of 3
-      Hammerspace Partners with SourceCode and GigaIO to Bring AI Data Processing to Edge Environments
-                   Hammerspace Data Orchestration to Enable Distributed GPU Comput....
+                                                                                              Page 1 of 3
+      Red Cat Announces Agreement with Sentien Robotics UAS Hive for Land, Air and Sea Drone Swarming
+                                                Operations
 
 
 
 
-     Hammerspace Partners with SourceCode and GigaIO to Bring AI Data
-    Processing to Edge Environments; Hammerspace Data Orchestration to
-                     Enable Distributed GPU Computing
-                                                    Business Wire
-                                      June 5, 2024 Wednesday 12:01 PM GMT
+  Red Cat Announces Agreement with Sentien Robotics UAS Hive for Land,
+                Air and Sea Drone Swarming Operations
+                                                         GlobeNewswire
+                                              April 18, 2024 Thursday 3:33 AM PT
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 1149 words
-Dateline: SAN MATEO, Calif.
+
+
+
+Section: PARTNERSHIPS
+Length: 1051 words
 
 Body
 
 
-Hammerspace , the company orchestrating the next data cycle, today announced that its Global Data Platform can
-now be used to process, store and orchestrate data in edge compute environments. This innovative solution
-combines Gryf, co-designed by SourceCode and GigaIO , the first ever suitcase-sized AI supercomputer, with
-Hammerspace's Global Data Platform to bring unprecedented levels of shared AI processing power to any location,
-including those operating with limited or no networking infrastructure.
+SAN JUAN, Puerto Rico, April 18, 2024 (GLOBE NEWSWIRE) -- �Red Cat Holdings, Inc.�(Nasdaq: RCAT) (“Red
+Cat”), a drone technology company integrating robotic hardware and software for military, government, and
+commercial operations, announces a partnership with Sentien Robotics, a leader in autonomous drone fleet
+logistics. The partnership will enable organizations using Sentien’s Hive UAS management platforms to deploy Teal
+Drones as part of a larger autonomous drone swarming strategy for mobile and fixed-position land, air, and sea
+defense and security operations.
 
-This      press      release     features   multimedia.               View       the       full     release       here:
-https://www.businesswire.com/news/home/20240605771130/en/
+The partnership between Red Cat and Sentien Robotics will enable the companies to provide warfighters with the
+ability for continuous uninterrupted reconnaissance on enemy targets with drone swarms. Red Cat’s Teal Drones
+recently successfully passed electronic warfare (EW) testing in Ukraine against some of the most powerful EW
+counter UAV technology, and these battlefield-tested drones, coupled with Sentien’s fleet handling capabilities, give
+warfighters tools and technology they have never had access to before.
 
-Gryf: The First-ever Suitcase-sized AI Supercomputer. Gryf offers unmatched efficiency and flexibility in portable
-edge computing solutions. With its lightweight and rugged carbon fiber enclosure, TSA-standard fly-away kit design,
-and six slots available for resources, Gryf empowers users to compose a high-performance modular compute
-platform anywhere, anytime. (Photo: Business Wire)
+“New technology is dramatically changing the nature of warfare, and those who can integrate defensive and
+offensive assets across multiple domains and rapidly deploy those capabilities against adversarial targets will gain
+tactical superiority,” said George Matus, Red Cat CTO. “This agreement with Sentien is a major step toward the
+autonomous deployment and control of drone swarms from anywhere that can map, surveil and neutralize targets
+where speed of data and lethal response across a network of connected systems are critical to modern combat
+teams.”
 
-This solution is highly relevant for use cases such as capturing large map sets and other types of geospatial data in
-tactical edge environments for satellite ground stations and for natural disaster response, and it is an effective way
-to transport large amounts of data quickly.
-
-Prior to this solution, organizations would either have to send data to a data center for processing and analysis, or
-their edge environments would be limited by the compute resources and storage capacity that non-GPU edge
-computing devices with limited scalability could provide. This approach limited the ability to produce relevant results
-onsite and was greatly inhibited without a data orchestration solution to move data to GPUs in the data center.
-
-"Our customers and partners consistently tell us that data orchestration is a top priority for their AI workloads," said
-Tony Asaro, Chief Strategy and Business Development Officer for Hammerspace. "Our ability to orchestrate data
-across remote data centers, clouds and edge environments transparently and online ensures that the data gets to
-GPU resources regardless of its physical location. Data orchestration will be the next hot topic in the coming year
-and beyond, especially in AI use cases."
+Red Cat’s agreement with Sentien Robotics and integration with its Hive-Expedition and Hive-XL automated UAS
+fleet transport and launch vehicles adds to its robust tactical ecosystem of partnerships with leading companies to
 
                                                                                               Page 2 of 3
-     Hammerspace Partners with SourceCode and GigaIO to Bring AI Data Processing to Edge Environments
-                  Hammerspace Data Orchestration to Enable Distributed GPU Comput....
+      Red Cat Announces Agreement with Sentien Robotics UAS Hive for Land, Air and Sea Drone Swarming
+                                                Operations
 
-Gryf Brings GPU Processing Power to Edge Environments
+provide the best solutions to clients for their tactical missions. Other Red Cat hardware and software partners
+include Ocean Power Technologies, Primordial Labs, Tomahawk Robotics, Athena AI, Teledyne FLIR, Reveal
+Technology, Immervision, and Doodle Labs, which enable capabilities such as computer vision, AI, and third-party
+apps.
 
-Gryf is a portable supercomputer in a ruggedized suitcase form factor for rapid AI processing of time-sensitive data
-in the field, also referred to as a mobile fly-away kit. SourceCode and GigaIO announced Gryf earlier this quarter,
-and it will be available in the third quarter of this year.
+“Our goal with the Hive ecosystem is to enable a continuous, mission ready UAS presence from a single hub where
+a single operator can deploy and control drones from anywhere,” said Brandon Borko, Sentien Robotics CEO. “We
+want to provide rapidly scalable drone service areas that can be deployed to critical locations such as security and
+disaster relief sites. In the future you won’t find a person behind a controller for every single drone. You're going to
+have fleets of drones performing tasks, supporting humans on the ground, and they will all be flown from ground
+automation hardware like the Hive.”
 
-Hammerspace Enables High-Speed Processing and Orchestration of Data Across Distributed Environments
+Red Cat subsidiary Teal Drones builds its Teal 2 drone solutions, designed to support U.S. and allied military
+operations, public safety organizations, and government agencies, at its South Salt Lake facility. Teal 2 is a cost-
+effective, man-portable sUAS designed to “Dominate the Night™” that has best-in-class night vision, multi-vehicle
+control support, and a fully modular design. It is both Blue UAS Certified and FAA Remote ID approved.
 
-Hammerspace can run on a single Gryf appliance alongside other software packages like Cyber, geospatial, and
-Kubernetes containerized applications, and other AI analytic packages. Hammerspace's standards-based parallel
-file system architecture combines extreme parallel processing speed with the simplicity of NFS, making it ideal for
-ingesting and processing the large amounts of unstructured data generated by sensors, drones, satellites, cameras
-and other devices at the edge.
+Sentien Robotics developed the Hive to automate all facets of UAS operation. The Hive features robotics
+automation hardware and intelligence software to enable operations of fleets of UAS with the vision of reducing
+manpower, improving safety, and vastly improving performance over traditional UAS operations. The Hive enables
+new capabilities not available to tethered or ground launched UAS systems. The Hive Expedition and Hive-XL are
+fully automated UAS fleet management platforms that support multiple drones and provide automated launch,
+recovery, recharging capability, data download, precision landing, and storage.
 
-Notably, the full benefit of Hammerspace is unlocked when multiple Gryf appliances are deployed across a
-distributed edge environment so that Hammerspace can join multiple locations together into a single Global Data
-Platform. Hammerspace data orchestration services enable full utilization of all available GPU resources to
-accelerate edge processing. This capability is extremely beneficial for AI at the edge, where limited hardware,
-bandwidth, and connectivity constraints are common challenges.
+About Red Cat, Inc.�� Red Cat (Nasdaq: RCAT) is a drone technology company integrating robotic hardware and
+software for military, government and commercial operations. Red Cat’s solutions are designed to “Dominate the
+Night™” and include the Teal 2, a small unmanned system offering the highest-resolution thermal imaging in its
+class. Learn more at www.redcat.red.
 
-Hammerspace data orchestration also simplifies the movement and migration of data when Gryf appliances are
-transported back to data centers for additional data analysis and long-term protection.
+About Sentien RoboticsSentien Robotics is a drone logistics technology company with the mission to accelerate the
+capabilities of small-scale unmanned aerial systems by providing software tools and hardware automation
+necessary to scale applications and possibilities. The systems Sentien provides will enable research teams and
+organizations to effortlessly deploy and operate fleets of UAS and quickly iterate on their multi-UAS applications.
+The company is headquartered in San Francisco. To learn more, visit https://www.sentien.com/.
 
-"GPUs are data hungry, posing a significant challenge when you must enable onsite insight across multiple devices
-in a decentralized way, and with possibly inconsistent connectivity," said Matt Ritter, Vice President of Engineering
-at SourceCode. "Hammerspace helps solve this problem with efficient orchestration of distributed data and
-supercomputer-class data speeds. This also makes Gryf a great example of the SourceCode co-design model:
-seamlessly integrating best-of-breed technologies to solve hard problems for customers."
+Forward-Looking Statements� This press release contains "forward-looking statements" that are subject to
+substantial risks and uncertainties. All statements, other than statements of historical fact, contained in this press
+release are forward-looking statements. Forward-looking statements contained in this press release may be
+identified by the use of words such as "anticipate," "believe," "contemplate," "could," "estimate," "expect," "intend,"
+"seek," "may," "might," "plan," "potential," "predict," "project," "target," "aim," "should," "will," "would," or the negative
+of these words or other similar expressions, although not all forward-looking statements contain these words.
+Forward-looking statements are based on Red Cat Holdings, Inc.'s current expectations and are subject to inherent
+uncertainties, risks and assumptions that are difficult to predict. Further, certain forward-looking statements are
+based on assumptions as to future events that may not prove to be accurate. These and other risks and
+uncertainties are described more fully in the section titled "Risk Factors" in the final prospectus related to the public
+offering filed with the Securities and Exchange Commission. Forward-looking statements contained in this
+announcement are made as of this date, and Red Cat Holdings, Inc. undertakes no duty to update such information
+except as required under applicable law.�
 
-"We are excited to announce the integration of Hammerspace's file system with Gryf, marking a significant leap
-forward in our mission to drive edge AI capabilities," said Alan Benjamin, CEO of GigaIO. "This partnership not only
-enhances Gryf's capabilities by leveraging Hammerspace's Global Data Platform but also sets a new standard for
-data accessibility and orchestration from the edge."
+Contacts:
 
-Learn More
+INVESTORS:E-mail: Investors@redcat.red
 
-Solution Brief: Hammerspace and Gryf for AI Data Processing in Distributed Edge Environments
+                                                                                             Page 3 of 3
+     Red Cat Announces Agreement with Sentien Robotics UAS Hive for Land, Air and Sea Drone Swarming
+                                               Operations
 
-eBook: Unstructured Data Orchestration for Dummies
-
-Solutions Brief: Data Storage and Mobility for Modern High Performance Computing Workloads
-
-About Hammerspace
-
-Hammerspace is radically changing how unstructured data is used and preserved. Our Global Data Platform unifies
-unstructured data across edge, data centers, and clouds. It provides extreme parallel performance for AI, GPUs,
-and high-speed data analytics, and orchestrates data to any location and any storage system. This approach
-creates a Global Data Platform that eliminates data silos and makes data an instantly accessible resource for users,
-applications, and compute clusters, no matter where they are located.
-
-About SourceCode
-
-Trusted for over 30 years and serving over 30 countries, SourceCode is a global provider of co-designed, custom,
-certified IT systems for next generation intelligent infrastructure. The company's edge devices, desktop, servers,
-storage, clusters, and reference architectures are available via its industry-leading ecommerce platform as well as
-
-                                                                                              Page 3 of 3
-     Hammerspace Partners with SourceCode and GigaIO to Bring AI Data Processing to Edge Environments
-                  Hammerspace Data Orchestration to Enable Distributed GPU Comput....
-
-its customer-centered engineering-led engagement model. Learn more at www.SourceCode.com or follow on
-LinkedIn .
-
-About GigaIO
-
-GigaIO provides workload-defined infrastructure through its universal dynamic memory fabric, FabreX, which
-seamlessly composes rack-scale resources and integrates natively into industry-standard tools. The SuperNODE
-and Gryf are "impossible servers," fully engineered to "Just Work" for AI and accelerated computing. These
-solutions allow users to deploy systems in hours instead of months and run more workloads at lower cost through
-higher utilization of resources and more agile deployment. Visit www.gigaio.com , or follow on Twitter (X) and
-LinkedIn.
-
-Hammerspace and the Hammerspace logo are trademarks of Hammerspace, Inc. All other trademarks used herein
-are the property of their respective owners.
-©2024 Hammerspace, Inc. All rights reserved.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240605771130/en/
-
-
-CONTACT: Hammerspace Press Contact:
-IGNITE Consulting, on behalf of Hammerspace
-Kim Pegnato, 781-835-7118
-
-Hammerspace@igniteconsultinginc.com
-
-
-http://www.businesswire.com
+NEWS MEDIA: Indicate MediaPhone: (347) 880-2895Email: peter@indicatemedia.com
 
 
 
-Graphic
 
-
-Gryf: The First-ever Suitcase-sized AI Supercomputer. Gryf offers unmatched efficiency and flexibility in portable
-edge computing solutions. With its lightweight and rugged carbon fiber enclosure, TSA-standard fly-away kit design,
-and six slots available for resources, Gryf empowers users to compose a high-performance modular compute
-platform anywhere, anytime. (Photo: Business Wire)
-
-AI Data Processing in Distributed Edge Environments with Hammerspace and Gryf (Graphic: Business Wire)
-
-
-Load-Date: June 5, 2024
+Load-Date: April 18, 2024
 
 
   

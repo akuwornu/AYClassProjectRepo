@@ -1,158 +1,1374 @@
 
 
-                                                                                                     Page 1 of 3
-                                    Ventures Selected to Delve Into Defense Innovation
+                                                                                               Page 1 of 24
+       House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                        Defense Intelligence Enterprise's Posture and Capabilities in ....
 
 
 
 
-                      Ventures Selected to Delve Into Defense Innovation
-                                                     Targeted News Service
-                                            June 11, 2024 Tuesday 8:50 AM EST
+       House Armed Services Subcommittee on Intelligence and Special
+   Operations Hearing; "A Review of the Defense Intelligence Enterprise's
+   Posture and Capabilities in Strategic Competition and in Synchronizing
+ Intelligence Efforts to Counter the People's Republic of China."; Testimony
+           by Jeffrey Kruse, Director, Defense Intelligence Agency
+                                           Congressional Documents and Publications
+                                                             April 11, 2024
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Length: 1264 words
-Byline: Targeted News Service
-Dateline: WASHINGTON
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 16439 words
 
 Body
 
 
-The National Security Innovation Network, a program office of the Department of Defense, issued the following
-news:
+INTRODUCTION
 
-The selected ventures will spend 10 weeks exploring dual-use applications for their technologies with the DoD.
+Chairman Bergman, Ranking Member Gallego, and Members of the Subcommittee:
 
-A cohort of 20 early-stage companies selected for the 2024 National Security Innovation Network (NSIN) Vector
-program will further develop their commercial innovations for the Department of Defense (DoD) across fields in
-advanced sensing, contested communications, command and control, data sharing, and resilient position navigation
-and timing. .
+Thank you for the invitation to provide the Defense Intelligence Agency's (DIA's) assessment of the global security
+environment.
 
-NSIN Vector gives participating teams the tools to pursue business opportunities with the government and develop
-their early-stage ventures. The program welcomes companies that started in the commercial industry and are
-interested in exploring the DoD market and companies that began in the DoD market seeking to grow.
+Global instability is intensifying, fueled by accelerating competition among large nations, increasing collusion
+between historically nonaligned actors, HAMAS's 7 October 2023 attack, a rapidly evolving information and
+technology environment, and nondemocratic transitions of power. When coupledp with the rapid military
+modernization efforts of our competitors and their drive to project hard power both regionally and around the globe,
+the world is growing more dangerous for the United States and our allies and partners. This dynamic environment is
+raising the risk of regional tensions and conflicts sparking broader vertical and horizontal escalation. It also
+amplifies the importance and advantages of the United States' robust alliances and partnerships across the world,
+which--measured in resolve, interoperability, and shared values--are unmatched by our competitors.
 
-Selected from 170 applications, the ventures in the 2024 Vector cohort will work with DoD partners over the next 10
-weeks to learn about raising capital, understand federal procurement, conduct market research, and receive more
-resources to scale their solutions for DoD organizations.
+The PRC remains our pacing security challenge. Beijing is employing various political, economic, military, and
+information levers to intimidate and coerce countries in its region and to expand its military's global footprint,
+potentially holding U.S. operations at risk during a conflict. Beijing also is building its partnership with Russia on the
+strength of a shared rivalry with the United States, and expanding military cooperation through activities such as
+combined bomber patrols over the Pacific Ocean. During the next year, China is poised to advance its military
+capabilities, including in domains most critical to military operations against Taiwan and the United States, while
+improving its proficiencies as a joint force. This past year, Beijing advanced its longer-range missile development,
+expanded its space capabilities, and grew its naval fleet. PRC nuclear modernization is vastly outpacing efforts from
+even five years ago in both scale and complexity. The People's Liberation Army (PLA) has more than 500
+operational nuclear warheads and probably will have more than 1,000 by 2030.
 
-Vector culminates in a showcase event highlighting participants' achievements working with guidance from DoD
-mentors during the cohort. Moreover, participants will have numerous opportunities to engage with DoD mentors,
-including experts from NSIN, and will compete at the showcase event for $50,000 in prizes.
+                                                                                              Page 2 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
 
-"Team NSIN is excited to welcome a new set of early-stage ventures to the Vector program," said Abigail
-Desjardins, NSIN Venture Portfolio Director and Defense Innovation Unit (DIU) Global Partnerships Deputy
-Director. "With the help of the Vector's government and alumni mentors, these teams will grow, gain perspective on
-dual-use business, and plug into an incredible defense innovation ecosystem. In return, they will provide the DoD
-with access to leading-edge technologies that have the potential to address key modernization priorities."
+Russia faces a grinding war in Ukraine in which it continues to showcase its disregard for Ukrainian sovereignty and
+civilian infrastructure. With mounting casualties and costly equipment losses, Russia continues to look to suppliers,
+including Iran and North Korea, to enable capabilities such as attack unmanned aerial vehicles (UAVs). Moscow is
+playing for time as Russian President Vladimir Putin probably calculates that his forces can outlast the West's
+willingness to support Ukraine. Given the strain of the war, Russia's conventional military capabilities will remain
+diminished at least through 2024 as its defense industry focuses on refurbishing equipment and importing weapons
+to sustain its conflict in
 
-                                                                                                        Page 2 of 3
-                                Ventures Selected to Delve Into Defense Innovation
+Ukraine. However, Moscow will continue modernizing its nuclear deterrent capability and is expanding its
+nonstrategic nuclear weapons posture in Belarus.
 
-Meet the 2024 NSIN Vector Cohort:
+The 7 October HAMAS attack in Israel has triggered regional instability that Iran sees as an opportunity to weaken
+Israel, threaten U.S. interests, and increase its own regional standing. Following the onset of the Israel-HAMAS
+conflict in October, Iran has amplified its support for militias in Iraq and Syria, which have conducted deadly UAV
+and rocket attacks against U.S. forces and are prepared to resume attacks with little to no warning. Iran is
+advancing its conventional military capabilities with increased range, accuracy, lethality, and reliability to improve
+Tehran's ability to strike U.S. and partner forces in the region; this is exemplified by recent Huthi attacks on
+maritime shipping vessels using Iran-supplied weapons. Iran also proliferates these weapons to regional allies to
+extend its own deterrent capabilities. Tehran is deepening its cooperation with Moscow and Beijing to blunt its own
+isolation and to build leverage.
 
-* Aclectic Systems Inc - Integrated software, visual supercomputing platform that the DoD can utilize as a low-cost,
-low energy solution for accurate physical simulation that is faster than competitors.
+Pyongyang has used the past year to expand its ties to Moscow and Beijing to bolster Kim Jong Un's regime and
+gain access to more advanced capabilities. North Korea's missiles and conventional weapons continue to hold U.S.
+forces and our allies in northeast Asia at risk while the Kim regime simultaneously seeks to improve its capability to
+threaten the U.S. homeland. In 2023, Pyongyang continued to diversify its missile and nuclear programs,
+introducing several new systems. Pyongyang unveiled a ballistic missile submarine and tested an underwater drone
+that it claimed can be nuclear-armed. Pyongyang also is adopting a more bellicose approach to Seoul, including its
+reunification policies and calling out South Korea as a separate state for the first time.
 
-* Aerobotics7 - Generated an artificial intelligent (AI)-powered autonomy platform to detect and neutralize
-landmines, improvised explosive devices (IEDs), and other threats in real-time with no human intervention in the
-field.
+Transnational terrorist organizations, such as ISIS, have exploited the HAMAS attacks to mobilize their affiliates
+and supporters. They seek to retaliate against U.S., Israeli, and Jewish interests in response to Israeli operations in
+the Gaza Strip. Meanwhile, al-Qa'ida has launched the most aggressive propaganda campaign against Israel that
+we have seen since 2019 and also is seeking to conduct attacks to show solidarity with Palestinians.
 
-* AndrenaM - Built a low-cost sensing systems tol form an interconnected web network, which will gather data to
-inform autonomous drones to enhance unmanned maritime vehicles through autonomy and monitoring.
+Our adversaries continue to seek ways to inflict costs within the U.S. homeland. Both China and Russia work to
+maintain a capability to attack our critical infrastructure during a conflict and probe for access to our systems and
+supply chains to degrade our military advantage. Despite leadership losses, some transnational terrorist
+organizations still aspire to attack within the United States, either directly or through inspired actors.
 
-* Anuma Aerospace Corporation - Decarbonized long-haul, heavy-lift transportation through a patented technology
-that replaces the need for helium in existing aerostat and airship programs and providing sustainable solutions to
-DoD through solutions in weather, intelligence, surveillance, and reconnaissance (ISR), and border security.
+As these threats against the United States persist, and our strategic competitors are emboldened through their
+cooperation, DIA's resolve to conduct exceptional intelligence operations and analysis that provides decision
+advantage to our Nation only deepens. I am privileged to lead this organization, and I want to assure you that DIA
+officers, who serve in more than 140 nations around the world, are dedicated to providing you the soundest insight
+into the strategic, operational, and tactical security threats confronting the United States. My aim in this hearing is to
+crystalize these threats and to support this committee in its critical work of defending the Nation. Thank you for your
+continued confidence. We are grateful for your vital support to DIA.
 
-* Apiary Systems - Provides large groups of collaborative drones that can autonomously share a live view of the
-battlefield for military leaders and soldiers, using geospatial intelligence and aerial swarm architectures.
+Beijing continues to advance its global capabilities to confront the United States and its allies across the diplomatic,
+informational, military, and economic domains. In March 2023, PRC President Xi Jinping told delegates to the
+Chinese People's Political Consultative Conference that "Western countries, led by the United States, have
+implemented comprehensive containment, encirclement, and suppression against us, bringing unprecedented
+severe challenges to our country's development." Xi is overseeing a whole-of-government effort to better prepare
+China for competition and confrontation with the United States and its allies in East Asia and around the world, and
 
-* Better Zinc Batteries - Develops safer, non-flammable, lower-cost flow-assisted Ni-Zn batteries that have longer
-battery life spans, replacing fossil-fuel options and providing a more sustainable future for the DoD.
+                                                                                              Page 3 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
 
-* Bold RF - Improved isolation performance radiofrequency (RF), communications, and electronic warfare to enable
-in-band full duplex (IBFD) wireless links that will increase the DoD's options for tactical operations.
+the PRC seeks to undermine popular and political support for U.S. military alliances and security partnerships
+throughout the world. This includes casting doubt on U.S. security alliances and partnerships, particularly those in
+the Indo-Pacific region, and labeling them as destabilizing and irreconcilable with PRC security interests. In
+addition, the PLA is undertaking efforts to modernize its capabilities and improve its near-term proficiencies as a
+joint force across all warfare domains so that it can effectively conduct a full range of military and information
+operations, including against U.S. and partner military forces. The PLA also is incrementally improving its power-
+projection capabilities to achieve its long-term goal of becoming a "world class military." However, global attention in
+2023 to sudden removals of PLA leaders, unsafe PLA operating practices, and the public loss of a surveillance
+balloon cast doubt on Xi's ability to maintain reliable command and control (C2) and accountability of the PLA
+during a period of rising international tension.
 
-* Dayton Photonic Systems - Brings private and secure networks to challenging places on earth, through
-emergency response with temporary networks, which enables the DoD to conduct important communication and
-connectivity.
+Military Modernization and Spending
 
-* Diffract Technology Inc. - Using adaptive optics to perform 3D sensing, motion control, and display for spatial
-intelligence through upgrading operations to include high precision measurements for the DoD.
+China is rapidly advancing its military modernization and developing capabilities critical for potential, future military
+operations against Taiwan and the United States. These capabilities across land, sea, air, and emerging warfighting
+domains could enable Beijing to seize Taiwan by force and disrupt U.S. attempts to intervene. During his October
+2022 speech at the opening ceremony of the 20th Chinese Communist Party (CCP) Congress, Xi reaffirmed his
+commitment to the PLA's 2027 modernization milestone to accelerate the technological development of the armed
+forces while modernizing the PLA's military theories, organizations, personnel, weapons, and equipment. In July
+2023, Xi again emphasized this goal during a 2-day meeting with top military officials, noting the PLA aims to be a
+more efficient and combat-ready force by 2027.
 
-* KMB Telematics Inc - Develops highly customizable drone detection radar that provides the DoD with radar with a
-fast reaction time through its Active Protection System (APS), hoving drone detection, and drone detection
-capabilities while operated in motion.
+The PLA Army--which is responsible for conducting operations ranging from firepower strike and mobile assault to
+all-dimension defensive actions--continues to modernize equipment with a focus on combined arms and joint
+training. The Army demonstrated a new long-range fire capability during its military response to the August 2022
+congressional delegation visit to Taiwan, signaling its availability for use during a conflict with Taiwan.
 
-* LeVanta Tech Inc - Provides sea-launched aerial "float-and-fly" drones with longer endurance that enable the DoD
-to conduct intelligence, surveillance, and reconnaissance (ISR) missions and relay communications without
-interruption.
+The PLA Navy, the world's largest in terms of personnel, has increased its inventory of ships and submarines by 9
+percent since 2022 to an overall battle force of more than 370 vessels, including more than 140 major surface
+combatants. The Navy's third aircraft carrier, launched in 2022, is expected to be operational in late 2024. The PLA
+Navy also commissioned its third YUSHEN class amphibious assault ship and, as of early 2023, probably had
+begun construction on a fourth YUSHEN class ship. These ships are advancing the PLA's ability to sustain
+operations in the Western Pacific, Indian Ocean, and beyond. This includes the Navy's growing aircraft carrier
+force--which extends the PLA's air defense coverage--and its increasingly sophisticated anti-ship cruise missiles
+equipped aboard submarines and surface combatants, which expand the threat posed to U.S. and allied forces to
+beyond the Second Island Chain.
 
-* Mithril Technologies Inc - Advanced satellite reflector antennas to improve space domain awareness to prevent
-network jamming and electronic warfare, and while monitoring the atmosphere to detect harmful weather systems
-and understand the internal structure of a potentially damaging storm.
+The PLA Air Force--with more than 3,150 total aircraft--constitutes the region's largest aviation force and the third
+largest in the world, including approximately 2,400 combat aircraft, such as fighter jets, strategic and tactical
+bombers, multimission tactical aircraft, and attack aircraft. In 2023, the PLA Navy transferred many of its land-based
+aircraft to the Air Force, including 300 fighter jets, so the Navy could focus on improving its carrier-based air
+operations. The Air Force is evolving into a more technologically advanced, effective, and capable force that is
+proficient at conducting joint operations.
 
-* Neurosmart - Provides a wearable system for the warfighter to monitor stress during combat, allowing warfighters
-and military officials to improve self awareness and mental resilience for developing de-escalation skills and monitor
-optimal levels of warfighter stress.
+The PLA Rocket Force organizes, staffs, trains, and equips China's expanding land-based nuclear and
+conventional missile forces. The Rocket Force also fields various conventional mobile, ground-launched short-,
+medium-, and intermediate-range ballistic missiles and ground-launched cruise missiles (GLCMs). As of 2023, the
+Rocket Force had fielded approximately 1,000 short-range (SRBMs), 1,000 medium-range (MRBMs), and 500
+intermediate-range ballistic missiles (IRBMs) as well as 300 GLCMs, compared with more than 600 SRBMs, 500
+MRBMs, 250 IRBMs, and 300 GLCMs identified in 2022. The Rocket Force's conventionally armed anti-ship
+ballistic missile variant enables the PLA to conduct long-range precision strikes against ships in the western Pacific
+from mainland China. The PLA also may be exploring conventionally armed intercontinental-range missile systems,
 
-* Oso Semiconductor - Provides a low-cost alternative for chipsets used for wifi and connectivity for military
-commands in hard-to-reach areas enabling hyper mobile warfighter comms and sensing of the future.
+                                                                                              Page 4 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
 
-* Precision Terra - Designed a software-defined precision GPS for navigation in challenging environments by
-improving a GNSS receiver's ability to track signals and reducing the likelihood of a signal being lost based on
-terrain.
+which would enable the PRC to threaten conventional strikes against the continental United States, Alaska, and
+Hawaii.
 
-                                                                                                          Page 3 of 3
-                                 Ventures Selected to Delve Into Defense Innovation
+In March 2024, the PRC announced a nominal 7.2 percent annual military budget increase to USD $232 billion,
+representing approximately 1.2 percent of its gross domestic product. The published military budget does not
+include details of expenditure breakouts, such as research and development and foreign weapons procurement,
+which means China's actual military-related spending is significantly higher than its announced defense budget.
 
-* SolidIntel Inc - Created a generative AI tool for monitoring supply chain risks, changes in regulation, intelligence
-that will assist the DoD with ensuring necessary pieces of combat are kept in the hands of the warfighter.
+Nuclear, Space, and Cyberspace Capabilities
 
-* StarCube - Develop the world's first nuclear micro reactor for critical infrastructure and crisis response that is both
-minimal in size and optimal for off-grid applications like remote communities, military bases, and disaster relief.
+The PRC is rapidly diversifying and expanding its nuclear forces, vastly outpacing its modernization efforts of a
+decade ago in both scale and complexity. As of early 2023, the PLA possessed more than 500 operational nuclear
+warheads and probably will have more than 1,000 warheads by 2030. To support this stockpile growth, China
+probably will produce plutonium for its nuclear weapons program using its new fast-breeder reactors (CFR-600s)
+and reprocessing facilities, despite publicly maintaining that these technologies are intended for peaceful purposes.
 
-* Terra Watts - Created cutting-edge wireless power that allows for low-infrastructure global energy transmission
-and communication, ideal for difficult-to-connect bases.
+The PRC probably has completed the construction of its three new solid-propellant silo fields, which comprises at
+least 300 new intercontinental ballistic missile (ICBM) silos, and has loaded at least some ICBMs into these silos.
+This project, and the expansion of China's liquid-propellant silo force, is meant to improve the readiness of China's
+nuclear arsenal by moving to a launch-on-warning posture--called "early warning counterstrike"--where warning of
+an incoming missile automatically initiates a counterstrike. Inexperience with this early warning counterstrike
+capability coupled with the system's more compressed reaction timelines increases the risk of unintentional nuclear
+escalation during a crisis with the United States during the next three to five years.
 
-* Thin Air Nav Corp - On-demand, ground-based positioning for aerial navigation in GPS denied and degraded
-areas that can assist the DoD with warding off the likelihood of jamming or spoofing from adversaries.
+The PRC also is updating its capability to deliver multimegaton warheads by fielding its new DF-5C silo-based,
+liquid-fueled ICBM. For the sea leg of its nuclear triad, in 2023, the PLA Navy continued to produce JIN class
+nuclear-powered ballistic missile submarines and fielded the longer-range JL-3 submarine-launched ballistic
+missile, rendering the JIN class capable of striking the continental United States from PRC littoral waters.
 
-* Ultraview AI - Created an AI-generated drone inspector using Aerial Robotics to provide an effective and efficient
-aircraft inspection system that allows the military to inspect and get drones deployed quickly.
+China's space and counterspace strategy is predicated on developing capabilities to offset a perceived U.S. over-
+reliance on space-based systems. China continues to dedicate significant resources to technologies, such as direct-
+ascent anti-satellite missiles, co-orbital satellites, electronic warfare, and directed-energy systems that can contest
+or deny an adversary's access to and operations in space during a conflict. During the past year, China cemented
+itself as a space launch leader, with only the United States conducting more launches. The PRC also added
+Azerbaijan, Belarus, Egypt, Pakistan, South Africa, UAE, and Venezuela to the International Lunar Research
+Station, a joint Chinese-Russian initiative to develop a lunar base for scientific research.
 
-View                   the             NSIN             Vector                          Lookbook                    here
-(https://nsin.mil/assets/downloads/NSIN%20Vector%202024%20Lookbook.pdf).
+As of May 2023, China had 618 total satellites, including 347 remote-sensing/intelligence, surveillance, and
+reconnaissance (ISR) satellites, 73 communications satellites, and 49 navigation-related satellites.
 
-***
+China attempted 67 total space-related launches in 2023; 66 of its launches were successful. The United States
+conducted 114 launches in 2023. China's launch cadence was mostly on par with its 2022 performance of 64
+launches, which resulted in 62 successful orbital launches.
 
-About National Security Innovation Network
+PRC-based cyber intrusions continue to target information networks around the world, including U.S. Government
+systems, to steal intellectual property and data and develop access to sensitive networks. China uses its
+cyberspace capabilities to support intelligence collection against U.S. academic, economic, military, and political
+targets; to exfiltrate sensitive information from defense infrastructure and research institutes; and to lay the
+groundwork for malicious cyber activities and cyber attacks. The PLA has called for using space, cyber operations,
+and electronic warfare as weapons to paralyze adversary information systems during a conflict.
 
-NSIN is a program office in the U.S. Department of Defense (DoD), nested within the Defense Innovation Unit
-(DIU). We are set up to collaborate with a wide variety of innovators to include universities, researchers, students,
-entrepreneurs and start-ups. We create opportunities for collaboration across communities and connect those that
-might not traditionally work in national security. Together, we help drive national security innovation and develop
-technologies that directly support the individuals responsible for protecting our country.
+Risks of Unsteady C2 and Accountability
 
-For more information or interview requests with Team NSIN, please contact us at media@nsin.mil
+                                                                                              Page 5 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
 
-***
+Beijing struggles to maintain reliable C2 and accountability of its military forces and ensure safe operations in
+international air and maritime domains, all of which pose a threat to U.S. forces and interests. In January 2023, a
+military-linked, high-altitude surveillance balloon flew off course and crossed into the continental United States until
+it was shot down by a U.S. fighter aircraft. Also in 2023, a PLA pilot flew within 10 feet of a U.S. Air Force B-52 in
+international airspace over the South China Sea (SCS) and may have been unaware how close they came to
+causing a midair collision. Since 2022, the PLA has conducted more than 180 instances of coercive and risky air
+intercepts against U.S. aircraft in the Indo-Pacific region--more than in the previous decade. During the same
+period, the PLA committed approximately 100 coercive and risky maneuvers against ally and partner aircraft.
 
-Original text here: https://nsin.mil/news/2024-6-10-vectorcohortannouced/
+Beyond operational control, PRC leaders have struggled to hold the PLA administratively accountable, despite
+decades of anticorruption efforts. In 2023, Xi abruptly removed the PRC defense minister and senior Rocket Force
+officers, reportedly because of corruption surrounding weapons procurement and nuclear modernization, which
+could undermine PLA capabilities and weapon safety.
 
-Copyright Targeted News Services
+PressuringTaiwan
 
-MSTRUCK-8668546 MSTRUCK
+During the past year, PRC leaders have employed a range of pressure tactics against Taiwan and signaled its
+resolve to counter U.S.-Taiwan diplomatic and security cooperation. Beijing also continues to pressure Taiwan's
+diplomatic allies to cut ties with the island, with Nauru severing ties to Taiwan in January 2024. China has a range
+of military options to coerce Taiwan, including increasing the frequency and scope of its military presence
+operations, an air or maritime blockade, seizure of Taiwan's smaller outlying islands, joint firepower strikes, or a full-
+scale amphibious invasion of Taiwan. Beijing appears willing to defer the use of military force as long as it
+calculates that its unification with Taiwan ultimately can be negotiated, the costs of armed conflict would outweigh
+the benefits, and its stated redlines have not been crossed by Taiwan, the United States, or other countries.
+
+In April 2023, the PLA responded to former Taiwan President Tsai's transit of the United States and meeting with
+the then-U.S. House Speaker by sending at least 128 aircraft into the Taiwan Air Defense Identification Zone
+(ADIZ). PLA entries into the Taiwan ADIZ in 2023 slightly decreased to 1,641 events, compared with 1,733 in 2022.
+Concurrently, PLA aircraft Taiwan Strait centerline crossings increased to at least 712 events in 2023, compared
+with 552 in 2022, indicating a greater percentage of PLA ADIZ incursions included centerline crossings. Thus far in
+2024, the PLA has conducted at least 332 Taiwan ADIZ entries and 111 centerline crossings, a slight reduction
+compared to the same time period in 2023.
+
+Tension Along China's Periphery
+
+In 2023, the PRC continued to employ its Navy to patrol disputed areas in the South and East China Seas and used
+its Coast Guard to harass fishing activities, resupply missions, and hydrocarbon exploration operations, resulting in
+unsafe maritime incidents and escalating tensions with its neighbors. In 2023, PRC maps reintroduced a "ten-dash
+line" claim--revised from Beijing's previously-claimed "nine-dash line"--which notably expanded the depiction of
+PRC claims over the Spratly and Paracel Islands and other land features in the SCS, including areas east of
+Taiwan.
+
+Despite an international tribunal ruling in 2016 favoring the Philippines, China has continued efforts to disrupt the
+Philippines' presence in the SCS, including at Second Thomas Shoal. In 2023, China's efforts included Chinese
+Coast Guard and maritime militia boats using water cannons and conducting dangerous and aggressive
+maneuvering--which resulted in collisions with Philippine counterparts.
+
+Beijing continues to use Coast Guard vessels and aircraft to patrol near the Japan-administered Senkaku Islands to
+compel Tokyo to concede its claim to the territory and the accompanying exclusive economic zone.
+
+Global Military Presence
+
+Beijing is improving PLA systems to operate further from China for longer periods of time and establishing a more
+robust overseas logistic and basing infrastructure to sustain deployments at greater distances, which could
+
+                                                                                              Page 6 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+potentially hold U.S. global operations or international commerce at risk during a conflict. Beijing is pursuing a
+mixture of military logistics models--including preferred access to commercial infrastructure abroad, exclusive PLA
+logistics facilities with pre-positioned supplies colocated with commercial infrastructure, and bases with stationed
+forces to support China's overseas military logistic needs. Some of China's Belt and Road Initiative (BRI) projects
+have potential military advantages, such as providing PLA access to foreign ports to pre-position the logistic support
+necessary to sustain more distant naval deployments in the Indian Ocean, Mediterranean Sea, and Atlantic Ocean.
+
+In 2023, the PLA Navy more frequently operated worldwide, including a submarine deployment to the Indian Ocean,
+and continued its naval escort task force deployments to the Gulf of Aden. In October 2023, the 44th and 45th PRC
+naval task forces conducted missions in the Gulf of Aden.
+
+Chinese officials attended Cambodia's Ream Naval Base groundbreaking ceremony in 2022, and a PRC official
+has since confirmed that the PLA will have access to parts of the base. Beijing also probably has considered
+establishing PLA military logistics facilities in Angola, Bangladesh, Burma, Equatorial Guinea, Gabon, Indonesia,
+Kenya, Mozambique, Namibia, Nigeria, Pakistan, Papua New Guinea, Seychelles, Sri Lanka, Solomon Islands,
+Tajikistan, Tanzania, Thailand, and the UAE.
+
+Beijing highlights the potential for these military logistics facilities to provide international public goods, such as
+humanitarian assistance and disaster relief, but its global military logistics network also provides the PLA new
+means to disrupt U.S. military operations and international commerce.
+
+Cooperation With Russia
+
+Driven by a common rivalry with Washington, Beijing and Moscow continue to demonstrate a close partnership
+through diplomatic, informational, military, and economic cooperation. These activities are intended to develop
+interoperable military capabilities, promote Beijing and Moscow as a political bloc against the West, and undermine
+security partnerships the United States maintains with regional countries, including the Australia, UK, and U.S.
+(AUKUS) agreement and the Quadrilateral dialogue with Australia, India, and Japan. Although Xi and Putin
+announced a "no limits partnership" ahead of the 2022 Winter Olympics in Beijing, Russia's war in Ukraine has
+challenged China as it has sought to maintain official "neutrality" while privately supporting Moscow. In 2023,
+Beijing was particularly sensitive to advancing select areas of its partnership with Moscow while avoiding actions,
+such as overtly providing materiel or lethal military assistance, that might incur reputational or economic costs for
+Beijing.
+
+Beijing has parroted Russian narratives when they align with China's criticism of the United States and has
+refrained from condemning Russia's conduct or referring to Moscow's invasion as a "war." China also has
+legitimized Russia's role on the world stage by meeting with Russian leaders and continuing to work with Moscow in
+various multilateral fora, such as the United Nations (UN); Brazil, Russia, India, China and South Africa (BRICS);
+and Association of Southeast Asian Nations.
+
+Russian assistance is helping to modernize China's nuclear program, particularly by supplying it highly enriched
+uranium that can help it produce weapons-grade plutonium. In March 2023, China and Russia signed an agreement
+to continue cooperation on fast reactor and reprocessing technology development.
+
+Despite Russia's war in Ukraine, China and Russia continued a steady tempo of bilateral military exercises in 2023.
+This included a combined bomber patrol, a new naval exercise called North Cooperation-23, and a combined naval
+patrol to the Bering Sea. Since 2022, Russian military activity with China has included nine bilateral exercises and
+naval and bomber patrols. Although these exercises probably only marginally improved their capabilities and
+interoperability, they served as important demonstrations of both countries' commitment to the partnership. In
+addition, China and Russia participated together in trilateral naval exercises with South Africa and Iran, both aimed
+at improving the participants' military cooperation and maritime security near two critical sea lines of
+communication.
+
+                                                                                              Page 7 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+The PRC almost certainly is applying lessons from Russia's war in Ukraine toward countering what it perceives as a
+U.S.-led containment strategy. Diplomatically, the Ukraine war probably reaffirmed to Beijing the importance of
+persuading countries that it considers the "Global South" in Africa, Latin America, the Middle East, and the Indo-
+Pacific region to echo its narratives. The PLA also probably seeks to incorporate lessons from how Russia and
+Ukraine are employing influence operations in the conflict into its own doctrine. The effects of Western sanctions
+against Russia almost certainly have amplified China's push for defense and technological self-sufficiency and
+financial resilience.
+
+Outlook
+
+Xi's travel to San Francisco in November 2023 to meet with the U.S. President were part of Beijing's effort to
+stabilize tensions between the United States and China. However, it did not ultimately influence Beijing's efforts to
+rapidly advance military capabilities and improve China's multidomain approach to strategic competition with the
+United States. Across the Taiwan Strait, China is likely to put diplomatic, economic, and military pressure on Taiwan
+President-elect "William" Lai Ching-te--who will be inaugurated in May--to advance Beijing's long-term objective of
+unification and deter any move by Taiwan toward independence. Along China's periphery, Beijing is likely to
+respond with shows of military resolve in the face of neighbors resisting PRC territorial claims. Globally, Beijing will
+seek opportunities to exploit narratives that criticize Washington's ability to manage global crisis and conflict. These
+efforts are aimed at presenting China as a responsible global leader, even as the substance of its global security
+role remains more rhetoric than action.
+
+RUSSIA
+
+Russian President Vladimir Putin remains committed to prosecuting his war in Ukraine despite taking heavy losses
+and facing fierce resistance from Ukrainian armed forces. He seeks to eventually gain additional territory and
+prevent Ukraine from fully integrating with the West. Russia probably is able to continue military operations through
+2024 as it retains sufficient manpower while producing, refurbishing, and receiving munitions and equipment from
+willing suppliers. Despite a brief but acute challenge to senior Russian leadership authority during the failed June
+2023 armed insurrection of private military company (PMC) Vagner owner Yevgeniy Prigozhin, Putin has
+consolidated domestic support for the war and silenced internal dissent through a mix of incentives, coercion, and
+domestic propaganda portraying Russia as being under siege by the West.
+
+Trajectory of the War in Ukraine
+
+Russia's February 2022 invasion has devolved into a war of attrition as both sides have experienced high casualties
+and strained their ammunition and equipment stockpiles. Despite Russia's high losses, Putin probably judges that
+his forces can outlast Western willingness to provide security and economic support. Throughout 2023, Russia
+conducted offensive operations in eastern Ukraine, demonstrating its intent to maintain military pressure on
+Ukrainian forces and to seize additional territory, even if only for small gains. Moscow probably will struggle to seize
+larger, strategically relevant swaths of additional territory in 2024 without a significant influx of additional personnel,
+which would risk straining the Russian economy and popular support.
+
+The war against Ukraine has proven costly to the Russian military, particularly to Russia's ground forces. Since the
+conflict's start, Russia has lost at least 7,400 ground combat vehicles, including at least 2,300 tanks and 19 naval
+vessels and approximately 200 aircraft. The significant amount of lost Russian conventional ground forces is likely
+to take years to reconstitute.
+
+Russia has incurred heavy personnel losses in Ukraine since the conflict began. After experiencing significant
+casualties early in the war among its highest readiness airborne and naval infantry forces, Russian casualties in
+2023 consisted primarily of poorly trained and ill-equipped mobilized and contract soldiers.
+
+Moscow probably will continue to meter its use of precision-guided munitions (PGMs) because its production
+capacity cannot yet simultaneously support extensive offensive operations and reconstitution of prewar stocks. To
+
+                                                                                              Page 8 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+remedy this, Moscow probably will continue to negotiate for the purchase of Iranian- and North Korean-supplied
+munitions.
+
+Moscow also will continue to employ one-way attack UAVs to partially mitigate its PGM shortfall. To this end,
+Russia is boosting domestic UAV production, has imported UAVs directly from Iran, and also is assembling UAVs at
+an Iranian-equipped factory in Russia.
+
+Following a period of heightened nuclear rhetoric from senior Russian leaders in late-2022, Putin has downplayed
+the possibility of a nuclear conflict in subsequent speeches and noted he saw no need to change Russia's nuclear
+doctrine, even though Russia has withdrawn its ratification of the Comprehensive Nuclear Test Ban Treaty.
+Nevertheless, an existential threat to the Russian state is cited in Russian doctrine and legal documents as
+justification for nuclear use, and the West cannot completely discount the possibility of Russia using nuclear
+weapons in Ukraine.
+
+For at least the next year, Russia probably will continue to give priority to defending Russian-occupied areas in
+eastern and southern Ukraine and is likely to seek additional territorial gains, even if they are minimal and only
+incremental in nature. Putin probably is uninterested in a negotiated settlement that includes giving up Russian-
+occupied Ukrainian territory. Moscow also almost certainly would demand any settlement guaranteed Ukrainian
+neutrality or demilitarization.
+
+Military Capabilities and Modernization
+
+Russia's conventional military capabilities almost certainly will remain degraded through 2024 because of attrition
+from the Ukraine conflict. Moscow's defense industry is giving priority to refurbishing old equipment ahead of
+upgrading or producing new weapon systems, including aircraft, air defense networks, surface ships, and armored
+ground vehicles. The heavy losses to Russia's arsenal of modern equipment have forced Moscow to draw from
+Cold War-era equipment stocks, such as T-55 and T-62 tanks last produced in the 1970s, and obtain munitions
+from Iran and North Korea, including artillery shells and short-range missiles. Moscow's defense production remains
+strained by difficulty obtaining manufacturing components, inadequate repair facilities, and persistent
+underemployment in its defense sector.
+
+The Russian Defense Ministry announced that it planned major reforms to military structures and capabilities
+through 2026 as a result of shortfalls identified during operations in Ukraine and in response to expansion of the
+North Atlantic Treaty Organization (NATO). In December 2022, Russian Defense Minister Sergey Shoygu
+announced a plan to expand Russia's military to 1.5 million troops by 2026, including 695,000 volunteer contract
+soldiers. However, Russia has a long history of failing to achieve its stated military reform and recruitment goals. In
+2023, Russia's authorized troop strength was 1.3 million, but the fluid nature of Russian troop recruitment and
+casualty rates and Moscow's efforts to distort information about its war in Ukraine hinder our ability to accurately
+estimate Moscow's current military personnel figures.
+
+Ongoing Russian Navy modernization efforts include outfitting older ships with modern KALIBR cruise missiles,
+continuing to build and field advanced submarines, and constructing new and upgraded basing infrastructure
+throughout the Arctic. In 2023, it conducted a multifleet exercise, which included deploying a ship armed with
+hypersonic missiles near the United States. Despite losses incurred by its Black Sea fleet during the Ukraine war,
+Moscow will continue to use its navy to demonstrate commitment to its partners and showcase its global deterrent
+capability, and as a tool of global power projection during the next year.
+
+Russia's Aerospace Forces have demonstrated poor proficiency during operations in Ukraine, resulting in
+substantial losses of equipment and veteran personnel that will take years to reconstitute. Overuse of aircraft,
+attrition, and poor force implementation probably will hamper aerospace operations inside Ukraine in 2024.
+
+Russia is actively seeking to use ISR systems and electronic warfare to disrupt Ukraine's command, control,
+communications, and weapons guidance but has been unable to dominate the battlefield. Russia has employed its
+domestically produced Orlan UAVs and Iranian-provided Mohajer UAVs for this purpose.
+
+                                                                                              Page 9 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Russian state and nonstate cyber actors have maintained a high volume of offensive cyber operations against
+Ukrainian networks and have achieved some disruptive effects. These actions indicate Moscow probably will
+continue to invest in modernizing its cyber capabilities.
+
+Russia's space and counterspace strategy remains focused on maintaining access to space-based information
+assets while denying access to the adversary. Moscow has been hindered in its attempts to field more space
+capabilities because of international sanctions and export controls levied upon it in recent years. Given these
+limitations, Russia is focusing its available resources on developing counterspace capabilities, ranging from
+jamming to malicious cyber activities to direct-ascent and orbital antisatellite systems. In 2023, Russia
+unsuccessfully attempted to land a spacecraft on the moon as part of the International Lunar Research Station
+initiative.
+
+Russia will continue to emphasize its military presence in the Arctic in 2024, maintaining its strategically defensive
+posture aimed at fortifying its Arctic territory against perceived threats from the United States and other nations.
+Since 2014, Russia has improved its posture in the Arctic across all military domains, enhancing its ability to defend
+the region against an attack and to respond to Western military operations along its periphery.
+
+Modernizing its nuclear triad remains a long-term priority for Moscow. Russia also has expanded its nonstrategic
+nuclear weapons posture by placing weapons in Belarus. Putin claims warheads were delivered to Belarus in June;
+the new location does not extend the range of Russia's ability to deploy nonstrategic nuclear weapons. Russia also
+is developing the SS-X-29 and SS-27 Mod 2 ICBMs and DOLGORUKIY class ballistic missile submarine to
+maintain its nuclear deterrence capabilities. In addition to its nuclear arsenal, Russia maintains biological and
+chemical weapon programs and has used nerve agents in assassination attempts.
+
+Global Military Activity
+
+Russia's decision to allocate the vast majority of its ground forces to invade Ukraine has degraded its ability to
+project power globally. Russia has curtailed some of its military exercises with foreign partners because of the
+demands of the war in Ukraine. In addition, Russia's military production demands and the reputational costs of its
+invasion are forcing Moscow to rely more on information operations, diplomatic overtures, and the use of nonstate
+paramilitary forces to garner influence globally. In 2024, Russia more frequently will turn to partners--such as
+Belarus, China, Iran, and North Korea--to demonstrate that it is not internationally isolated and to supply critical
+weapon components and mitigate its weapon shortages. In 2024, Russia plans to spend USD $117 billion on
+defense, marking a 56-percent increase from 2023.
+
+Moscow is seeking to expand its cooperation with Pyongyang in the economic, diplomatic, and defense spheres,
+which probably has already paid some dividends as North Korea has started to provide weapons to Russia for use
+in Ukraine.
+
+Laden with heavy economic sanctions, Moscow is seeking to coordinate its energy production more closely with
+other energy-rich states in the Middle East. International isolation and resource shortfalls also have spurred
+Moscow to strengthen its relationship with Tehran. Iran has sent upwards of 1,000 one-way attack UAVs to Russia
+for use in Ukraine. The Russian military's physical presence in Syria and close partnership with the Bashar al-Asad
+regime provides Russia a power-projection tool in the Middle East and into the eastern Mediterranean. Putin uses
+his personal relationship with Turkish President Recep Tayyip Erdogan to manage tensions with Turkiye about
+Ukraine, to push back on U.S. presence in the region, and to coordinate security and diplomatic efforts in Syria.
+
+In the Western Hemisphere, Russia probably will continue to engage its traditional partners in Cuba, Nicaragua,
+and Venezuela for economic deals and security partnerships. Moscow also probably intends to demonstrate its
+presence in the region through out-of-area, long-range aviation and naval deployments as a counter to U.S.
+presence near Russia's periphery. Russia's burgeoning outreach to Brazil, coupled with Foreign Minister Sergey
+Lavrov's visit to multiple Latin American countries in 2023, probably demonstrates its approach to leveraging its
+BRICS membership to improve partnerships in this region.
+
+                                                                                              Page 10 of 24
+       House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                        Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+In Africa, Russia seeks to gain influence and advance its objectives through opportunistic arms sales, multilateral
+forums, military access agreements, resource extraction contracts, influence operations, and paramilitary group
+deployments. Following Prigozhin's 2023 armed insurrection, Moscow has attempted to replace PMC Vagner's
+presence in Africa with GRU-controlled paramilitary groups.
+
+Outlook
+
+Russia's conventional ground capabilities to deter, fight, or militarily compete with NATO probably will remain
+diminished for at least the next three years because the majority of combat-capable Russian maneuver units and
+other key conventional assets have been committed to the war in Ukraine. Moscow aims to avoid direct conflict with
+NATO but is able to employ asymmetric capabilities, such as cyber and information campaigns, against U.S. and
+other Western interests globally.
+
+IRAN
+
+Tehran remains committed to ensuring the survival of its Islamic republic and positioning itself as a dominant
+regional power. Iran continues to modernize its military capabilities, enhancing its ability to project power and also
+deter potential adversaries. The regime, through the Islamic Revolutionary Guards Corps-Qods Force (IRGC-QF),
+continues to fund and equip militias, which have increased targeting of U.S. and partner interests in the region since
+the October 2023 HAMAS attack on Israel. Although Iran probably has not resumed its pre-2004 nuclear weapons
+program, it has pursued activities that would shorten the time required to produce sufficient weapons-grade
+uranium, should the regime make the decision to do so. Tehran's expanding ties to Moscow and Beijing have
+helped to reduce the regime's international isolation and counter the effect of sanctions.
+
+Military Capabilities and Modernization
+
+Iran's conventional military strategy aims to strengthen Tehran's ability to hold U.S. and partner forces at risk while
+deterring adversary attacks and to retaliate if deterrence fails. For more than a decade, Tehran has given priority to
+developing ballistic and cruise missiles, surface-to-air missiles, and unmanned systems with increased range,
+accuracy, lethality, and reliability. Iran also proliferates these weapons to regional allies to extend its own deterrent-
+strike capabilities, orchestrate plausibly deniable strikes, and test equipment in combat.
+
+Tehran's missile force is increasingly augmented by Iran's UAVs and serves as the regime's primary conventional
+deterrent against attacks on its personnel and territory. Iran has a substantial inventory of ballistic and cruise
+missiles capable of striking targets as far as 2,000 kilometers from its borders. In 2023, Tehran focused on fielding
+a new generation of long-range systems to counter Israel and complement its robust inventory of accurate close-
+and short-range missiles. Since early 2023, the regime publicly unveiled three new missiles able to strike Israel
+from the western part of Iran, including a land-attack cruise missile and a ballistic missile Tehran has touted as
+hypersonic.
+
+Iran's space and counterspace strategy is focused on developing a more reliable launch capability; however, its
+strategy overall is less defined than China's or Russia's. Russian assistance has played a role in the development
+of Iran's space launch vehicle booster technology. In 2022, Russia built and launched a more sophisticated
+Khayyam remote-sensing satellite for Iran, and in October 2023, Moscow entered talks to launch additional
+Khayyam satellites and a communications satellite into geosynchronous Earth orbit.
+
+Cyber Capabilities
+
+Iran views cyber operations as a means to supplement its conventional capabilities and engage adversaries in a
+deniable, low-cost manner. The regime is capable of a range of cyber operations, from information operations to
+destructive attacks against government and commercial networks worldwide. Iran's cyber operations against
+regional and Western entities--such as targeting Albania for hosting the Mujahedin-e Khalq (MEK) dissident group
+in 2022 or against Israeli-manufactured devices in the United States and Europe since the start of the conflict with
+
+                                                                                             Page 11 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+HAMAS--demonstrate Tehran's continued ability and willingness to use cyber capabilities to advance its goals and
+threaten U.S. and partner interests.
+
+Nuclear, Chemical, and Biological Activities
+
+Iran probably is not conducting the key activities necessary to produce a testable nuclear device, and Iran probably
+has not resumed its pre-2004 nuclear weapons program. However, in 2023, the regime continued to expand its
+stockpile of highly enriched uranium--which already is sufficient to produce several nuclear weapons--and to
+develop and operate advanced centrifuges. These activities have shortened the time required to produce sufficient
+weapons-grade uranium for a nuclear device from 10 to 15 days to probably less than one week--after a decision by
+Tehran to do so. This does not include the time necessary for Tehran to build a nuclear weapon.
+
+In 2023, Iran took some de-escalatory nuclear steps, such as delaying the installation of more advanced
+centrifuges, downblending some of its highly enriched uranium, and allowing the IAEA to reinstall some previously
+removed monitoring equipment. However, Tehran also has revoked some IAEA inspector accesses and not fully
+cooperated with the agency to resolve two outstanding safeguard issues, which impede previously agreed to IAEA
+supervision activities.
+
+The United States has found Iran to be noncompliant with its obligations as a state party to the Chemical Weapons
+Convention and is concerned that Tehran is pursuing pharmaceutical-based offensive agents. Although Iran is a
+party to the Biological Weapons Convention, it probably has not abandoned its intention to conduct research and
+development of biological agents and toxins for offensive purposes.
+
+Defense Budget and Arms Acquisitions
+
+Iran increased its defense budget from $6.7 billion in 2021 to $11.2 billion in 2023, which probably was driven in
+part by a desire to modernize its military equipment. Tehran's creation of a specific defense modernization fund in
+2022, derived from euro-denominated oil revenues, probably will support Iran's purchase of foreign-supplied
+advanced conventional weapons, including more advanced fighter aircraft. In 2023, Iran received Russian YAK-130
+trainer aircraft and agreed to purchase Russian Su-35 fighter aircraft, which would be a multigenerational
+technological leap compared with the regime's current fighter inventory. Funding issues have delayed the delivery
+timeline for these fighter aircraft.
+
+Relations With Russia and China
+
+Since 2022, Iran has provided more than 1,000 Shahed-136 UAVs, as well as Shahed-131 and Mohajer-6 UAVs, to
+support Russia's war against Ukraine. In May, Iran began assisting Russia in establishing a Shahed-136 UAV
+production facility in Russia. Regime officials have cited the October 2023 expiration of missile exporting restrictions
+under United Nations Security Council Resolution 2231 as an opportunity to generate revenue and advance
+bilateral defense diplomacy. In 2023, Tehran marketed missiles to Moscow during a defense conference in Russia
+and directly to Russian Defense Minister Sergey Shoygu during a visit to Iran.
+
+During the past year, China and Iran have deepened their economic, political, and military ties, probably to mitigate
+diplomatic isolation, blunt sanctions' effects, and counteract perceived Western hegemony. China remains Iran's
+leading oil purchaser and trading partner; this revenue partially shields the regime from the effects of international
+sanctions. Beijing's successful efforts in brokering Iranian-Saudi rapprochement in March 2023 signify new levels of
+diplomatic cooperation with Tehran. That same month, China and Iran conducted combined naval drills to
+strengthen military cooperation. In July 2023, Iran joined the China-led Shanghai Cooperation Organization, and in
+August, Iran successfully lobbied the BRICS for membership.
+
+Role in Israel-HAMAS Conflict
+
+Since the start of the Israel-HAMAS conflict in October 2023, Tehran has supported militia attacks against U.S. and
+Israeli interests in the region but also has calibrated these attacks to avoid being drawn into a direct conflict. Tehran
+
+                                                                                             Page 12 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+almost certainly perceives an opportunity to weaken Israel and increase its own regional standing, including by
+driving a wedge between Jerusalem and its Arab neighbors and disrupting Israel-Saudi Arabia normalization talks.
+Surrounding countries, including the Gulf states, have limited capability to mitigate an escalation in Iranian and
+partner attacks that might threaten U.S. interests in the region.
+
+The IRGC-QF provides guidance to the regime's partners and proxies in Iraq, Syria, Yemen, and Lebanon.
+Following the Israel-HAMAS conflict's onset, Iran-backed militias resumed UAV and rocket attacks targeting U.S.
+forces in Iraq, Jordan, and Syria. These attacks were suspended in February but could resume with little to no
+warning. Hizballah also has attacked Israel using artillery, rockets, and UAVs. In addition, Huthi forces in Yemen
+have conducted multiple attacks targeting Israel and maritime traffic in the Red Sea and Gulf of Aden with ballistic
+missiles, land-attack cruise missiles, and UAVs.
+
+Outlook
+
+During the next year, Iran will continue supporting its partners and proxies and probably is confident in its ability to
+use these groups to target U.S. and Israeli interests in a plausibly deniable manner. Separately, Iran almost
+certainly will continue assassination plotting against current and former U.S. officials in retaliation for the death of
+IRGC-QF Commander Qasem Soleimani and against Israeli and Jewish targets globally. Iran also will pursue
+advances to its conventional military capabilities--particularly its missiles and unmanned platforms--which probably
+will improve Tehran's ability to strike U.S. and partner forces in the region.
+
+NORTH KOREA
+
+North Korea wields the missile and conventional capabilities to hold U.S. forces and allies in northeast Asia at risk
+and is maturing the capability to threaten the U.S. homeland with increasingly sophisticated weapons. These
+modernization efforts support North Korean leader Kim Jong Un's goal of building a military to credibly threaten and
+deter the United States and its allies. In line with that goal, this past year, North Korea launched a solid-propellant
+ICBM, developed more advanced unmanned systems, diversified missile launch platforms, and displayed what
+Pyongyang claimed is a new nuclear warhead design. Pyongyang also is reinvigorating its relationship with
+Moscow. In 2023, in his first trip abroad since 2019, Kim visited Putin in Russia to discuss security and space
+cooperation, and North Korea has since shipped at least a thousand shipping containers of equipment and
+munitions to Russia.
+
+Military Capabilities and Modernization
+
+The Korean People's Army (KPA) almost certainly is able to mount a prolonged defense of North Korea's territory
+while imposing severe damage on an adversary using conventional, biological, chemical, and nuclear weapons.
+North Korea remains one of the most militarized nations in the world and has more than 1 million active-duty
+personnel and 7 million reserve and paramilitary personnel. However, resource constraints are restricting
+Pyongyang's efforts to upgrade its aging conventional military systems beyond its missile and unmanned vehicle
+programs. North Korea's economy and logistics infrastructure support its national defense goals, but the country's
+industrial system is poorly constructed and deteriorating.
+
+The KPA Ground Forces is the military's largest element, and more than 70 percent of its forces are deployed near
+the demilitarized zone with South Korea. The KPA intends to modernize the Ground Forces with next-generation
+systems, but competing priorities have slowed production. The KPA Special Forces is highly trained, well equipped,
+and able to infiltrate several thousand personnel into South Korea to target critical U.S. and South Korean defense
+infrastructure in the event of a conflict.
+
+The KPA Air and Air Defense Force probably can threaten U.S. and allied aircraft entering North Korean airspace,
+despite its aging aircraft, minimal training, and resource shortfalls. In 2023, Pyongyang revealed two advanced
+UAVs, representing significant progress in its unmanned ISR and strike capabilities.
+
+                                                                                             Page 13 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+The KPA Navy is an outdated, primarily littoral fleet that probably can defend North Korea's coastline to delay an
+amphibious invasion. In 2023, it tested its first unmanned underwater vehicle.
+
+Missile Research and Development and Weapons of Mass Destruction
+
+The KPA Strategic Forces is North Korea's nuclear-armed missile force operating ballistic and cruise missile
+systems that can threaten the U.S. homeland, U.S. forces stationed in the Indo-Pacific, and our allies. During the
+past year, North Korea successfully launched four ICBMs--including a solid-propellant system--and also test-
+launched a submarine-launched strategic cruise missile, signaling progress toward Pyongyang's stated goals of
+improving its missile accuracy, range, and launch options. North Korea is diversifying its land- and sea-based
+launch systems, including launching a missile from a silo and revealing a ballistic missile submarine for the first
+time. Pyongyang continues to illicitly procure items for its missile program that it cannot produce domestically, often
+in cooperation with Chinese and Russian nationals. In March, Kim inspected what Pyongyang claimed was a
+tactical nuclear weapon, which is a development that would further diversify North Korea's nuclear delivery options.
+
+Space and Cyberspace Capabilities
+
+Similar to Iran, North Korea's overarching space and counterspace strategy is ill-defined. North Korea's primary
+goal throughout 2023 was to place a reconnaissance satellite in orbit. Using its indigenously designed Chollima-1
+space launch vehicle, North Korea attempted three launches and succeeded with its final launch in November
+2023, placing its Malligyong-1 military reconnaissance satellite into orbit. North Korea claims the satellite gives it the
+ability to collect and process imagery of U.S. and allied military installations.
+
+North Korea maintains a sophisticated ability to conduct disruptive and destructive cyber activities. Pyongyang's
+cyber capabilities also support the regime's goals of generating revenue through complex cryptocurrency theft and
+ransomware campaigns. Pyongyang seeks to use cyber espionage globally, probably to gain insight into adversary
+capabilities and policies and acquire information to aid weapons development. North Korea's cyber capabilities
+almost certainly enable it to fund its priority military modernization efforts at current levels and steal technology
+critical to those efforts.
+
+Outlook
+
+Pyongyang's continued development of new military capabilities indicates that the regime probably will doggedly
+pursue its priority defense modernization goals through the next year. North Korea seeks to further entrench its
+nuclear program, advance its ability to threaten regional interests, and expand the reach and sophistication of its
+weapons that can strike the U.S. homeland. In support of these goals, North Korea almost certainly will continue
+conducting illicit activity to generate revenue and persist in its efforts to court cooperation with Moscow, using
+Russian ammunition shortages to gain favor toward expanding military cooperation.
+
+TERRORISM
+
+Decentralized ISIS and al-Qa'ida attack plotting against U.S. and ally interests continues globally. At the same time,
+counterterrorism operations have eroded the leadership ranks of transnational terrorist groups, probably leaving few
+ISIS and al-Qa'ida leaders capable of galvanizing supporters globally and further straining the groups' global
+networks. In response, ISIS has obscured the identities of its senior leaders, a departure from its past efforts to
+demonstrate resilience by highlighting its leaders in propaganda. Similarly, Al-Qa'ida has not publicly named a new
+leader since the 2022 death of Ayman al-Zawahiri; the group's presumed leader, Sayf al-Adl, is located in Iran.
+
+Despite these setbacks, ISIS and al-Qa'ida groups are adjusting to changes in counterterrorism pressure. Most ISIS
+branches and al-Qa'ida affiliates are improving their ability to attack U.S. interests as well as local populations and
+security forces in 2024, which ISIS demonstrated through deadly attacks in Iran in January and Moscow in March.
+
+At least two affiliates, al-Qa'ida in Yemen and ISIS in Afghanistan, probably will continue to seek to inspire, enable,
+and direct attacks against the U.S. homeland and other Western countries in 2024. Decentralized ISIS and al-
+
+                                                                                              Page 14 of 24
+       House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                        Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Qa'ida affiliates also may seek to exploit perceived weaknesses in travel or border security measures to direct
+attacks in the U.S. homeland. After the October 7 HAMAS attack in Israel, both ISIS and al-Qa'ida have continued
+to call for attacks against U.S., Israeli, Jewish, and European interests worldwide.
+
+ISIS
+
+Since 2022, ISIS lost three self-proclaimed caliphs, with its leadership cadre in the Middle East now probably at its
+weakest point. ISIS also has lost key personnel across its global network, including a senior official in Somalia who
+was killed during a U.S. military raid in 2023. ISIS is adapting to the losses and probably will focus on expanding in
+Africa and strengthening the external attack capabilities of ISIS-Khorasan in Afghanistan.
+
+In Somalia, ISIS personnel serve as a key hub for the organization's funding and operations globally. In the Sahel
+and West Africa, ISIS branches are expanding their attack capabilities, probably increasing the threat of collateral
+harm to U.S. persons in the region.
+
+In Afghanistan, the Taliban regime is carrying out a counterterrorism campaign against ISIS-Khorasan, but this
+pressure is not preventing the group from developing capabilities to conduct attacks regionally and in the West.
+
+Al-Qa'ida
+
+Al-Qa'ida's failure to publicly name a new leader and to reinvigorate a centralized, transnational plotting approach
+probably will compel the group to sustain its focus on localized plotting against U.S. and partner interests through at
+least 2024. In the absence of strong central leaders, al-Qa'ida affiliates have focused on attacking local security
+forces and governments while messaging that al-Qa'ida maintains a global agenda.
+
+During the past year, al-Qa'ida affiliates--rather than the group's core leadership--have coordinated and issued
+strategic messages for al-Qa'ida's global network, including propaganda following the 7 October HAMAS attacks
+and after instances of Quran desecrations in Europe, to portray it as a cohesive, unified organization.
+
+Al-Qa'ida affiliates in the Sahel and Somalia are gaining strength, with al-Shabaab posing the most direct threat to
+U.S. forces in Africa. Al-Qa'ida in the Arabian Peninsula (AQAP) probably continues to seek ways to enable lone-
+actor threats to the U.S. homeland, most recently enabling an attack that killed three U.S. servicemembers at Naval
+Air Station Pensacola in 2019.
+
+SOUTH andSOUTHEAST ASIA
+
+Afghanistan
+
+The Taliban is firmly in control of Afghanistan and is effectively combating ISIS-Khorasan and anti-Taliban
+resistance groups, although these groups still conduct sporadic attacks inside the country. Some local Taliban
+fighters continue to kill or arrest former Afghan government and military personnel, but senior Taliban leaders
+probably are not directing this campaign. The Taliban is restricting al-Qa'ida's and its affiliates' activities in
+accordance with the organization's perception of its Doha Agreement obligations. Discontent about Taliban emir
+Haybatullah Akhundzada's leadership style and hardline social policies, including restricting the activities of women
+and girls, has exposed some fissures within the Taliban but is unlikely to fracture the organization. The focus on
+improving internal security and reducing violence has enabled some foreign investment and expanded trade.
+Nonetheless, the Taliban's failure to create an inclusive government and persistent regional concerns about armed
+militant activity and human rights issues in the country are likely to stymie its efforts to achieve international
+recognition.
+
+Beijing is investing in mining and establishing trade and infrastructure links with the Taliban, but it has expressed
+concern about terrorist threats from a number of groups in Afghanistan, including ISIS-K and the East Turkestan
+Islamic Movement.
+
+                                                                                               Page 15 of 24
+        House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                         Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Islamabad is frustrated with the Taliban's failure to curtail Tehreek-e Taliban Pakistan cross-border attacks targeting
+Pakistani interests. Pakistan's implementation of the Illegal Foreigners Repatriation Pan (IFRP), which instituted a
+late-October 2023 deadline for undocumented Afghans to leave Pakistan, was largely a response to these
+concerns. The IFRP's resumed implementation is likely to exacerbate persistent border-related tensions between
+the countries. Tehran similarly has expressed concern about border clashes and boundary resolutions and for
+Afghan migrants in Iran.
+
+The Taliban has received humanitarian aid and infrastructure assistance for highways and dams from India, but
+New Delhi remains concerned about the Taliban's connections with Pakistani intelligence, extremist safe havens in
+Afghanistan, and human rights abuses.
+
+India
+
+During the past year, India has showcased itself as a global leader by hosting the Group of 20 economic summit
+and demonstrated a greater willingness to counter PRC activity throughout the Indo-Pacific region. India has
+advanced partnerships in the Indo-Pacific with regional SCS claimants, such as the Philippines, through training
+and defense sales and deepened cooperation with the United States, Australia, France, and Japan. In 2023, India
+took steps to modernize its military to compete with China and reduce its dependency on Russian-origin equipment.
+India conducted sea trials for its first domestically produced aircraft carrier and also has negotiated with several
+Western countries on the transfer of key defense technologies. In 2024, New Delhi probably will focus on securing
+its national parliamentary elections, maintaining economic growth, and building on its "Make in India" initiative as
+part of its military modernization effort--which is aimed at countering Beijing.
+
+Bilateral relations between India and China remain tense following the 2020 Galwan clash that killed 20 Indian
+soldiers and at least five PLA soldiers. In October 2023, senior Indian and PLA Army officers failed to resolve
+disputes about the two remaining standoff locations in eastern Ladakh during their twentieth round of talks. Both
+sides maintain approximately 50,000-60,000 troops in the area and continue to improve their military infrastructure
+near the border.
+
+India has maintained its neutral stance on Russia's invasion of Ukraine. Russia remains India's most substantial
+defense partner and New Delhi continues to acquire weapons from Moscow, such as the S-400 surface-to-air
+missile system, despite New Delhi's desire to diversify its defense acquisition partnerships.
+
+Pakistan
+
+Pakistan has sustained its nuclear modernization efforts despite its economic turmoil. Terrorist violence against
+Pakistani security forces and civilians also rose last year. In 2023, militants killed approximately 400 security forces,
+a 9-year high, and Pakistani security forces have conducted almost daily counterterrorism operations during the
+past year. Pakistan's contentious relationship with India continues to drive its defense policy. However, cross-
+border violence between the countries has decreased since their February 2021 recommitment to a cease-fire.
+
+Islamabad is modernizing its nuclear arsenal and improving the security of its nuclear materials and nuclear C2. In
+October, Pakistan successfully tested its Ababeel medium-range ballistic missile.
+
+Pakistan consistently receives economic investment and defense support from China. In 2023, both countries
+continued to support the China-Pakistan Economic Corridor (CPEC), although Islamabad's economic challenges
+and militant threats to PRC personnel in Pakistan have hindered progress on the initiative. Islamabad conducted
+multiple joint military exercises with Beijing in 2023, including the third iteration of a joint naval exercise that aims to
+strengthen naval cooperation and security.
+
+Pakistan has sought international support, including from the UN Security Council, to resolve its dispute with India
+about Kashmir. Separately, Islamabad and New Delhi have maintained an uneasy ceasefire along the shared Line
+of Control since February 2021.
+
+                                                                                              Page 16 of 24
+       House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                        Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+South China Sea
+
+During the past year, the Southeast Asian SCS claimants Brunei, Malaysia, the Philippines, and Vietnam and
+nonclaimant Indonesia have taken measures to protect their territorial sovereignty and work with several partners to
+uphold international law. The Southeast Asian SCS nations prefer to use diplomatic means to manage territorial
+disputes, but regional governments also have signaled a resolve to improve their maritime security presence in
+response to perceived sovereignty violations by China.
+
+The Philippines' military is attempting to shift its focus from internal security to external territorial defense in
+response to China's growing aggression in the SCS. During the past year, the Philippines has experienced
+repeated instances of PRC harassment and aggression at Scarborough Shoal. PRC Coast Guard ships also have
+interfered with routine Philippine resupply missions to its military detachment on the grounded naval ship--BRP
+Sierra Madre--at the Second Thomas Shoal, including the use of water cannons and dangerous maneuvers. In the
+past year, the Philippine defense forces conducted combined patrols in the SCS with several regional partners,
+including the United States, Australia, and Japan.
+
+Most Southeast Asian countries are concerned that great power rivalries will fracture the region and undermine
+Association of Southeast Asian Nations centrality. In response to intensifying tensions, most regional governments
+are reinforcing nonaligned and "friends to all" foreign policies to avoid choosing sides and to benefit from
+maintaining relations with a range of regional and other partners.
+
+MIDDLE EAST
+
+The October 2023 HAMAS attack on Israel has marked an inflection point for the Middle East by ushering in broad
+regional instability, imperiling Israel, disrupting regional diplomatic advances, and intensifying threats against the
+United States. The ensuing conflict prompted a pause in Israel-Saudi Arabia normalization talks, the resumption of
+Shia militia attacks against Coalition forces in Iraq and Syria after a months-long hiatus, a deadly attack against
+U.S. forces in Jordan, Huthi attacks against commercial shipping vessels in the Red Sea and Gulf of Aden, and
+more frequent Hizballah cross-border attacks into Israel. The HAMAS attack and Israeli response also has triggered
+widespread public protests across the region, and governments with ties to Israel--including Egypt, Jordan, and
+multiple Gulf states--have sought to contain internal dissent amid greater public scrutiny. Meanwhile, Moscow and
+Beijing are seeking to shape regional dynamics to their advantage.
+
+Russia hosted HAMAS leaders in Moscow as recently as January 2024, highlighting its longstanding support for the
+terrorist group. Egypt's dependence on Russian grain imports is a major factor in the country's food security, and
+Egyptian and Russian officials are discussing avenues for bilateral defense cooperation. The Asad regime in Syria
+continues to depend on broad support from Russia and Iran.
+
+China seeks steady access to Middle Eastern oil and natural resources, which are vital to moving the PRC
+economy forward. Beijing also is advocating itself as an alternative to U.S. leadership in the Middle East by
+promoting trade and development through the Belt and Road Initiative, calling for international conferences on the
+Israeli-Palestinian dispute, and mediating diplomatic normalization efforts between Saudi Arabia and Iran.
+
+Iraq
+
+One year after its formation, the Iraqi government--backed by several Iran-aligned political parties--is seeking to
+balance its relationships with Washington and Tehran, to reward Iranian-aligned Shia militias, and to address
+domestic problems, including economic instability, climate change, and drug trafficking. In August 2023,
+Washington and Baghdad reaffirmed Iraqi government support for the presence of U.S. and Coalition military
+advisers to assist in developing Iraqi security forces (ISF) capabilities and established a committee to plan the
+future of the Coalition's military mission. However, the Israel-HAMAS conflict spurred Iraqi elites to call for the
+expedited removal of U.S. forces from Iraq, citing U.S. support to Israel, which has put immense strain on Prime
+Minister Muhammad Shia al-Sudani's ability to constrain the Iran-backed militias in country. During the next year,
+
+                                                                                               Page 17 of 24
+        House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                         Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+the Iraqi government will contend with a myriad of domestic challenges, which will be exacerbated by regional
+tensions and will complicate U.S. advising to counter-ISIS operations.
+
+During the past year, Shia militias have pressed the Iraqi government to force a withdrawal of U.S. troops from Iraq
+through political influence and public rhetoric. The militias also have conducted UAV, rocket, and missile attacks on
+U.S. facilities with little interference from the ISF, despite Sudani's public condemnation of the attacks.
+
+ISIS in Iraq and neighboring Syria remain degraded despite the group's efforts to rebuild its capacity. The ISF's
+counterterrorism units have marginally improved their strike capabilities but still rely on Coalition forces for air,
+targeting, and intelligence support to conduct operations against ISIS.
+
+The ISF is able to conduct wide-area clearance operations to constrain ISIS but probably will be unable to
+unilaterally sustain targeted operations against the group within the next year.
+
+Yemen
+
+Huthi maritime attacks against targets in the Red Sea and Gulf of Aden almost certainly pose a direct or collateral
+threat to U.S. forces. Since October 2023, the Huthis have launched missile and UAV attacks against maritime
+vessels--including U.S. warships--and into Israeli territory. Some of the weapons used by the Huthis traversed
+Saudi, Jordanian, or Egyptian airspace or landed in those countries, or they were shot down by nearby U.S. and
+allied forces. The Huthis have sought to demonstrate support for Palestinians and Iran-aligned groups to their
+domestic constituents and the international community and have warned against any Saudi Arabian normalization
+with Israel. The Huthis probably judge that Israel will remain distracted from retaliating against attacks from Yemen
+for at least the duration of the Gaza conflict.
+
+Iran-backed Huthis have engaged for more than a year in negotiations with Saudi Arabia to end the Yemen conflict.
+However, the Huthis are unwilling to make key concessions and remain prepared to restart major offensives within
+Yemen and cross-border attacks into Saudi Arabia to press the Saudi-led coalition (SLC) to concede to their
+demands. In addition, the Huthis remain capable of conducting--and poised to launch--maritime attacks on SLC
+infrastructure.
+
+Separately, although AQAP has been displaced from some of its territory in southern Yemen, the group remains
+intent on targeting--and probably has some capability to threaten--U.S. and partner interests in the region.
+
+Syria
+
+Syrian President Bashar al-Asad's regime has consolidated control of approximately 70 percent of its pre-civil war
+territory. The remaining opposition has kept its strongholds in northern Syria, and the threat from a degraded ISIS
+presence persists in central Syria. More than a decade of conflict has diminished Syria's military, and in 2024, the
+Syrian Army--with Russian and Iranian backing--probably will remain occupied with protecting the Asad regime from
+internal threats. Although the Asad regime probably intends to rehabilitate and modernize its forces, resource
+constraints and competing security priorities probably will inhibit progress for at least the next year. The Asad
+regime, Russia, and Iran share intelligence and have fomented tribal violence against U.S. and partner forces in
+eastern Syria to press for a U.S. withdrawal from Syria.
+
+Syria's normalization of relations with other Arab states and readmission into the Arab League in May 2023 ended
+Damascus's diplomatic isolation in the Middle East. President Asad probably judges this has improved his
+legitimacy and will accelerate the country's economic recovery, but Syria so far has failed to secure tangible
+economic benefits from the regional rapprochement.
+
+Support from Russia and Iran remains critical to the Asad regime's stability; both countries provide military
+assistance against opposition elements, diplomatic backing, and economic aid. In 2024, their support probably will
+evolve to place a greater emphasis on rebuilding the Syrian military and economy.
+
+                                                                                             Page 18 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+In 2023, Asad made his first visit to China since the start of the civil war to secure investment and expand trade,
+although PRC investment is likely to remain minimal given Syria's poor infrastructure, persistent security concerns,
+and unstable economy.
+
+As of late 2023, approximately 15.3 million people--about 70 percent of Syria's population--required some form of
+humanitarian assistance, a 5-percent increase from 2022. Syria hosts 6.8 million displaced persons, a number that
+is likely to increase, further straining international aid organizations' ability to provide adequate assistance to meet
+escalating needs.
+
+Outlook
+
+The outcome of the Israel-HAMAS crisis probably will be the largest driver of the region's trajectory during the next
+year. Israel almost certainly will focus on reemphasizing deterrence vis-a-vis its adversaries and normalizing
+relations with other regional actors. Egypt is seeking ways to prevent spillover effects from the crises in neighboring
+states and territories, including not only Gaza and Israel but also Libya and Sudan. Elsewhere, talks between Saudi
+Arabia and the Huthis are unlikely to resolve key differences between warring parties, and the Huthis' ability and
+willingness to threaten sea lanes in the Red Sea and Bab al-Mandeb Strait will be the primary enduring threat to
+U.S. interests from Yemen. Gulf states probably will continue to diversify their defense and security relationships
+and are likely to expand their economic and security ties to China.
+
+AFRICA
+
+In 2024, enduring instability that foments additional violence is likely to pose the most pressing security threat to
+U.S. interests in Africa. Against this backdrop, many African countries almost certainly will grapple with political and
+economic instability and humanitarian crises that grew in scope and complexity during 2023. Weak or predatory
+security forces, popular disenfranchisement, and feeble political institutions in many states probably will compel
+continued outreach to foreign countries to meet security and infrastructure needs. Parts of Africa continue to
+contend with terrorist activity as ISIS and al-Qa'ida branches conducted more than 5,000 attacks across the
+continent in 2023, which is on par with the 2022 attack figures. In 2023, these attacks represented approximately 85
+percent of ISIS and al-Qa'ida's attacks worldwide, underscoring their capabilities in Africa and the inability of
+regional militaries to combat the groups effectively. Poor governance continues to create the conditions for
+destabilizing conflicts to metastasize and spread to neighboring countries in 2024.
+
+Many African countries see China as an important economic partner, and several African countries attended the
+third BRI Summit in Beijing in October 2023. African countries also are deepening military and security ties to
+China, including infrastructure development that may benefit Beijing's military goals. In February, South Africa
+hosted the second iteration of a trilateral naval exercise with China and Russia. Some African countries also see
+Russia as an important security partner including , the Central African Republic and Mali, which continue to partner
+with Russian PMCs for security.
+
+Amid the continent's security problems, some countries will continue to support international efforts to address
+challenges in Africa and beyond. Morocco and Tunisia, which have provided hundreds of troops to Africa-based UN
+peacekeeping operations, are poised to sustain their contributions in 2024. Kenya is poised to serve as a key U.S.
+security partner in and beyond East Africa, and it has pledged to send police to Haiti by 2024.
+
+North Africa
+
+Moroccan-Algerian diplomatic ties remain severed with no sign of near-term rapprochement, and the low-intensity
+conflict between Morocco and the Algeria-backed Polisario Front continued unabated in 2023. North Africa remains
+a hub for immigration to Europe, with migrants transiting Tunisia and Libya to access dangerous routes across the
+Mediterranean Sea. The leader of al-Qa'ida in the Lands of the Islamic Maghreb (AQIM) remains in Algeria where
+the group's efforts primarily focus on serving as a financial and communications facilitation hub for al-Qa'ida senior
+leadership and its subordinate Sahel-located affiliates. Despite al-Qa'ida leadership's regular communiques urging
+action, AQIM attacks remain primarily defensive in nature and target local security forces.
+
+                                                                                             Page 19 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+In Libya, distrust lingers among rival militias despite some instances of cooperation, especially in response to
+flooding in September 2023. Senior officials in the self-described Libyan National Army (LNA) are engaging more
+frequently with Russian leaders, including with Putin, following the death of PMC Vagner owner Yevgeniy Prigozhin.
+
+West Africa
+
+West Africa continues its democratic backsliding trend, with military coups in Niger and Gabon in the past year and
+election irregularities that probably will exacerbate public discontent. The coup in Niger is detracting from
+counterterrorism operations in the Sahel and the ruling junta's focus on consolidating power, combined with the
+withdrawal of UN forces from Mali and conflict between the Vagner-supported Malian military and armed groups in
+the country's north, almost certainly will perpetuate a permissive operating environment for violent extremist
+organizations in 2024. Planned presidential elections this year in Chad, Ghana, Mali, and Mauritania, amid ongoing
+internal security and economic crises, probably will exacerbate pressure on governments that are already poorly
+postured to effectively respond to turmoil.
+
+East Africa
+
+In 2023, East Africa experienced multiple security crises that complicated humanitarian assistance efforts.
+Counterterrorism operations in central Somalia have slowed amid international concerns that Somali forces are not
+ready to assume duties from the African Union Transition Mission that are schedule to hand off responsibilities in
+December 2024. In Sudan, fighting between military and paramilitary forces has spread to new areas since the
+outbreak of hostilities in April 2023, exacerbating a humanitarian crisis that the United Nations has called one of the
+worst in recent history. The Ethiopian government's Cessation of Hostilities Agreement with Tigray is holding, but its
+government is now contending with ethnic insurgent groups in the Amhara and Oromia regions.
+
+Central and Southern Africa
+
+During the past year, central Africa has faced heightened violence, jeopardizing already fragile humanitarian and
+economic situations. Tensions between the Democratic Republic of the Congo and Rwanda--as well as their use of
+armed proxies against one another--have escalated, creating conditions for direct conflict. The Central African
+Republic's reliance on PMC Vagner to maintain security has resulted in regular reports of human rights violations.
+Zimbabwe's August elections were rife with instances of fraud and the regime's intimidation of opposition and civil
+society members. In 2023, Mozambique's military and partner forces made gains against ISIS-Mozambique and
+claimed to have killed the group's leader, however, ISIS-Mozambique has resurged as some partner forces plan to
+withdraw beginning in June.
+
+LATIN AMERICA
+
+Latin America continues to be a region where socioeconomic conditions make it attractive for our competitors trying
+to secure greater political, economic, or security influence, and transnational crime fosters insecurity and migration.
+The region's powerful transnational criminal organizations (TCOs)--which are responsible for most of the illicit
+fentanyl and other illegal drugs entering the United States--drive regional crime and perpetuate insecurity through
+drug trafficking, migrant smuggling, money laundering, arms trafficking, and corrupting security forces and public
+institutions.
+
+South America's recent trend of electing left-leaning presidents was upended in 2023 when a right-leaning
+candidate defeated the incumbent economy minister in Argentina; Paraguay elected a conservative committed to
+maintaining strong ties to the United States and Taiwan; and Ecuador elected U.S.-friendly president Daniel Noboa.
+
+Since January, Brazilian President Luiz Inacio Lula da Silva has focused on elevating Brazil as an influential
+regional and global leader by hosting a regional summit, meeting more than 50 leaders, and visiting 21 countries,
+including trips to Russia and China.
+
+                                                                                             Page 20 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Haiti continues to experience worsening gang violence resulting in social and economic disruption. Kenya has
+committed to lead a UN-backed multinational security support mission and deploy 1,000 of its security forces to
+Haiti in 2024.
+
+Mexico is scheduled to hold national elections in June 2024. As of early December 2023, both presidential
+frontrunners had met with the U.S. ambassador to Mexico and discussed maintaining positive bilateral relations
+through the next 6-year administration.
+
+Chinese, Russian, and Iranian Activity
+
+Latin America is an important arena for China to cultivate influence and relationships and compete for favor in
+proximity to the United States as the region includes seven of the remaining 13 states that diplomatically recognize
+Taiwan. Economic engagement is a critical component of this strategy, and Beijing uses this engagement to access
+markets from which to source critical resources, such as lithium, and advance its BRI. Twenty-two Latin American
+countries are BRI signatories, including Honduras as recently as June 2023.
+
+China's trade with Latin America increased by 70 percent during the past decade, and a majority of countries count
+China either as their largest or second-largest trade partner. China holds large market shares in strategic sectors,
+such as infrastructure development, public utilities, and telecommunications, and it has donated military equipment
+to Latin American countries.
+
+Chinese state-owned enterprises control stakes in energy transmission and distribution infrastructure in a number of
+countries in the region. Similarly, the presence of PRC technology companies in Latin America--specifically within
+the region's existing 4G infrastructure--and their academic ties to some regional universities has ensured the PRC
+plays a prominent role in Latin America's 5G development. China also has increased its ground-based space
+facilities to 10 sites across 5 countries in the region to improve space-domain awareness of U.S. assets and
+counterspace capabilities.
+
+Iran increased military activities in Latin America during 2023, deploying a Jamaran class guided-missile corvette to
+the region, signing a defense cooperation memorandum of understanding with Bolivia, and delivering fast-attack
+patrol vessels, typically equipped with anti-ship cruise missiles, to Venezuela.
+
+Russia enjoys security engagement and influence with its historical strategic partners--Cuba, Nicaragua, and
+Venezuela--and is trying to maintain broader regional outreach through bilateral relationships and international fora.
+However, Moscow's war in Ukraine has drawn condemnation from the majority of countries in Latin America and
+the Caribbean, and Russia's military engagement with other partners in the region consists mainly of maintenance
+support for previously purchased Russian equipment.
+
+Nicaragua seeks to deepen bilateral cooperation and military interoperability with Russia. Nicaragua is the only
+Latin American country that voted against the UN resolution condemning Russia's invasion of Ukraine; Bolivia,
+Cuba, and El Salvador abstained from voting.
+
+Venezuela
+
+The regime of disputed Venezuelan President Nicolas Maduro continues to control all domestic institutions despite
+holding an approval rating under 20 percent and having an economy that has contracted 75 percent since he took
+office in 2013. The leading opposition candidate remains barred from running in the July 2024 presidential election.
+
+In 2023, Maduro retained his two top military officers, citing their loyalty and contributions to the country. Security
+forces have focused on tackling domestic gangs rather than operations against a Revolutionary Armed Forces of
+Colombia dissident faction active in the country.
+
+As of November 2023, more than 7.7 million Venezuelan migrants and refugees had been displaced globally, 85
+percent of whom are dispersed throughout Latin America and the Caribbean. Colombia and Peru have the largest
+Venezuelan diaspora populations with nearly 2.9 million and more than 1.5 million migrants, respectively.
+
+                                                                                              Page 21 of 24
+       House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                        Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+In 2023, Venezuela renewed its claim to the oil rich Essequibo region of Guyana; that claim dates to the 1890s and
+has been rejected in international arbitration. In April 2024, Maduro signed a law creating a new notional state that
+includes the entire region.
+
+Cuba
+
+During the past year, socioeconomic conditions have deteriorated significantly, with worsening food and medical
+shortages and power outages that have amplified concerns about resulting civil unrest. Nonetheless, Cuban
+security forces and their affiliated cyber components are postured to suppress this growing domestic dissent and
+ensure the regime's survival for the next year.
+
+Cuba relies on foreign partners--particularly China, Iran, Russia, and Venezuela--for military and economic support.
+Russia remains Cuba's preferred security partner and Havana receives assistance from Moscow to maintain its
+Soviet-era military inventory. During the past year, Cuba also has received fuel shipments from Mexico to help
+address its energy shortfalls.
+
+Havana very likely is receptive to increased political, economic, energy, defense, and security cooperation with
+Beijing, Moscow, and Tehran because of concerns about domestic instability and perceived internal threats to the
+government of Miguel Diaz-Canel.
+
+Drug Trafficking
+
+Mexican TCOs are the primary producers and traffickers of synthetic drugs--including fentanyl and
+methamphetamine--to the United States; they also traffic cocaine and heroin, contributing to historic numbers of
+drug-related deaths of U.S. citizens. Mexican TCOs also facilitate illegal migration over the United States'
+southwest border and contribute to high levels of violence and corruption in Mexico, affecting U.S. individual and
+commercial interests and the efficacy of Mexico's institutions. In 2024, Mexican TCOs probably will seek expansion
+into new global markets, primarily to European markets, to offset some decline in revenue from the saturated U.S.
+cocaine and synthetic drug market. Mexico's government remains a key partner to counter these violent TCOs and
+their illicit activities.
+
+The amount of fentanyl seized at the U.S. southwest border increased by 85 percent in 2023. Fentanyl seizures
+have increased every year since 2019, with seizures at the southwest border surpassing heroin for the first time in
+2021. Fentanyl production remains elevated in Mexico despite Mexican TCOs announcing a ban on production in
+October 2023, probably hoping to alleviate Mexican government enforcement and extradition efforts.
+
+According to the most recent statistics of the Centers for Disease Control and Prevention (CDC), reported U.S. drug
+overdose deaths remained elevated at 105,303 for the 12-month period ending in October 2023, but dipped slightly
+from 107,785 from the same time period ending in October 2022. The majority of these overdose deaths were
+related to fentanyl.
+
+Refugee Flows and Migration
+
+Fragile economic, security, political, and environmental conditions throughout the Western Hemisphere will remain
+the enduring factors driving migration within the region. Additional factors--including heightened xenophobia and
+misperceptions of U.S. immigration policies--also have contributed to persistently high migration levels.
+
+In fiscal year 2023, more than 2.47 million irregular migrants were encountered at the U.S. southwest border,
+breaking the previous record of 2.37 million migrants in fiscal year 2022, according to U.S. Government data.
+Migrant flows through Panama serve as an early indicator of flows to the southwest border and surpassed 520,000
+in 2023, breaking the 2022 record of 240,000 and demonstrating Panama's significance as a Western Hemisphere
+transit country toward the United States.
+
+                                                                                             Page 22 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Before 2022, the majority of migrants were from Mexico and the Northern Central American countries of El
+Salvador, Guatemala, and Honduras. The past two years brought notable increases in migrants from countries such
+as Colombia, Cuba, Ecuador, Nicaragua and Venezuela, a trend that probably will continue through 2024.
+
+Citizens from El Salvador, Guatemala, and Honduras experience severe poverty, worsening food security, and
+some of the highest homicide and violent crime rates in the world, which continue to drive emigration from these
+countries.
+
+Higher levels of Haitians and Cubans have continued to migrate through maritime routes to the United States
+because of deteriorating socioeconomic conditions and U.S. immigration policies that are perceived as more
+favorable, and these trends probably will persist at elevated levels for at least the next year.
+
+OTHER GLOBAL THREATS
+
+Foreign Intelligence Service Activity
+
+Adversary use of Ubiquitous Technical Surveillance (UTS) capabilities presents one of the most acute and
+generalized threats to DoD and U.S. Government personnel traveling or operating worldwide. UTS is the
+widespread collection, processing, and analysis of aggregated data captured from various sources that can identify
+patterns of activity that link persons to things, events, or locations. An increased interest in understanding consumer
+preferences paired with the capabilities of smart devices (phones, fitness trackers, video doorbells, etc.) have
+created a market based around data collection that incentivizes and enables companies to compile data on people,
+places, and organizations, which can adversely affect U.S. national security interests. Adversaries can collect
+financial transactions, communications, technology employed, or presence near a place of interest or sensitive
+location to compromise costly investments in our defense and intelligence capabilities. Increasing adversary use
+and proliferation of these capabilities will have profound implications for the mission, structure, and resources of the
+Defense Counterintelligence Enterprise for the foreseeable future.
+
+Targeting Defense Critical Infrastructure
+
+Both Russia and the PRC have developed military doctrines to target U.S. critical infrastructure during a conflict
+with the United States. During the next 12 months, cyber threats from China will continue to pose a significant threat
+to U.S. defense critical infrastructure, which is consistent with trends we have observed since at least 2008. If a
+conflict were to occur, China probably would use cyber forces to disrupt, degrade, or destroy U.S. defense critical
+infrastructure. During a direct conflict, Russia also almost certainly would conduct malicious cyber activities on U.S.
+energy infrastructure and military sites, and if the conflict escalated, it would target critical infrastructure with
+precision-guided missiles. Along with the increasing threat from Chinese cyber operations, other foreign adversaries
+and domestic violent extremists also are able to pose a threat to DoD readiness by targeting defense critical
+infrastructure.
+
+As of September 2023, Chinese cyber operations were more frequently attempting to collect against the U.S.
+defense-industrial base and other critical infrastructure. Russian cyber actors have gained operational experience
+conducting attacks against Ukraine's infrastructure, which probably will be used to inform cyber operation planning
+targeting United States interests during a conflict.
+
+Since at least 2019, PRC nationals have attempted to gain access to U.S. military installations containing defense
+critical infrastructure. Although the vast majority of these attempts are deemed benign, a small percentage require
+further investigation. As of
+
+September, PRC businesses and other entities had acquired more than 300,000 acres of agricultural land near U.S.
+military bases.
+
+                                                                                             Page 23 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+The proliferation of small, nonattributable unmanned aircraft systems (UASs) probably poses a threat to DoD
+facilities in the homeland. An increasing number of unidentified UASs have been detected at military training
+grounds, bases, and during exercises, suggesting adversaries probably use them for covert intelligence collection.
+
+Advanced Technology
+
+Global advancements in artificial intelligence (AI), biotechnology, quantum sciences, and microelectronics pose a
+significant threat to U.S. technological advantage. Key adversaries recognize the potential for advanced
+technologies to enhance military processes, equipment, and forces, and dual-use breakthroughs in the commercial
+sector can enable even less capable states and nonstate actors to benefit. The PRC continues its state-led drive to
+dominate critical advanced technology fields, and the PLA is striving to integrate advanced technologies to enhance
+its forces and field disruptive military capabilities. The PRC also sponsors researchers and scientists who licitly and
+illicitly acquire intellectual property innovated by DoD-funded research programs. Russia maintains its strategic
+ambition to develop advanced technologies for military capabilities, but ongoing international sanctions and export
+controls will constrain its progress.
+
+States are developing AI to improve decisionmaking support, enable quicker and more accurate ISR and targeting,
+tailor influence operations, advance cyber capabilities, and develop unmanned vehicles with higher levels of
+autonomy. Developing or acquiring software, hardware, and data that are optimized for military systems and
+processes will be key to any country's effectiveness in fielding these capabilities.
+
+Researchers worldwide are pursuing dual-use biotechnologies that can support military applications, including
+human performance enhancements and human-machine integration for improved C2.
+
+Quantum technologies--including computing, communications, and sensing--probably will provide militaries with
+advanced capabilities in decryption; positioning, navigation, and timing; and ISR. Although select research areas,
+such as sensing, are advancing more rapidly, non-governmental experts indicate that development of a quantum
+computer capable of decryption is unlikely in this decade.
+
+Microelectronics continue to be the linchpin of technology competition and represent a critical chokepoint in
+adversary development and acquisition efforts. Access to high-end microelectronics underpins a state's ability to
+develop computing-intensive advanced technologies, such as AI and quantum. Although the United States and its
+allies maintain a technological advantage in manufacturing and design processes, ongoing adversary efforts to
+reduce foreign dependency constrain our opportunities to protect these critical technologies. The PRC continues to
+pour resources into securing its supply chain and developing domestic high-end microelectronics manufacturing
+capabilities. Export controls limit PRC access to U.S. and allied technologies and are slowing its efforts, but Beijing
+has used less efficient techniques with legacy equipment and exploited policy loopholes to close the technology
+gap.
+
+Global Health and Biodefense Trends
+
+Biological threats to national and economic security come not only from biological weapons but also from major
+disease outbreaks, continued increases in antimicrobial resistance, or the release of a deadly pathogen associated
+with a dual-use research of concern. To this end, the ongoing cholera outbreak in Haiti almost certainly has
+complicated the internal security situation, and outbreaks of African swine fever and avian influenza are straining
+world food supplies. Similarly, the potential use of biological weapons by state or nonstate actors remains a
+persistent threat to U.S. interests worldwide. The COVID-19 pandemic and ongoing conflicts have exacerbated
+many nations' medical infrastructure and their ability to respond to health threats.
+
+The risk of laboratory accidents may be increasing with the rise in the number of laboratories around the world
+conducting high-risk life sciences research and research with potential pandemic pathogens without appropriate
+oversight. In a number of countries around the world, pathogens are stored in laboratories that lack appropriate
+biosecurity measures to prevent diversion by actors that wish to do harm. Beijing is expanding its network of high-
+containment laboratories both within China and helping to construct laboratories around the globe.
+
+                                                                                             Page 24 of 24
+      House Armed Services Subcommittee on Intelligence and Special Operations Hearing "A Review of the
+                       Defense Intelligence Enterprise's Posture and Capabilities in ....
+
+Advances in biotechnology, including synthetic biology, could make it easier to develop and use biological agents
+as weapons. New technologies, such as AI and genomic modification, have the potential to create more effective,
+resilient, and cost-efficient military and civilian applications while also creating new threat vectors for state and
+nonstate actors to exploit. For example, the same biological and chemical science advancements created to
+develop lifesaving medical countermeasures could also be used by adversaries to develop new or enhanced
+agents.
+
+Russia's war against Ukraine has highlighted the strain that prolonged conflict can have on military medical
+capabilities to provide combat casualty care. In Ukraine, hospitals and medical facilities have been targeted, and
+medical evacuations by ground forces routinely come under attack by Russian forces. Forward medical teams need
+the capability to provide prolonged field care, more advanced resuscitation methods, and emergency stabilization
+surgeries on a larger number of patients before they can be moved away from the frontline area.
+
+Climateand Environmental Change
+
+During the next decade, defense forces globally will need to expand planning efforts to address climate-linked
+effects on military readiness and operations, including for infrastructure, equipment, supply chains, logistics
+capacity, and the health and wellness of military personnel. Climate change also very likely will intensify natural
+disasters, regional instability, conflict, and geopolitical competition--increasing the scope of situations to which some
+militaries may have to respond. This will strain resources as militaries are forced to address humanitarian and crisis
+situations, shifting focus away from conventional threats, training, and readiness.
+
+Climate change is expected to alter storm and drought seasons, decrease freshwater availability, and increase
+water pollution--resulting in more widespread water insecurity. Water scarcity, shifting precipitation cycles, and
+climate shocks will hinder agricultural productivity and worsen food insecurity, very likely provoking conflict in some
+areas.
+
+Natural disasters are the largest cause of internal displacements globally. Deteriorating environmental conditions
+will be a driver of migration, and remaining populations will be either unable or unwilling to move out of increasingly
+uninhabitable locations. Climate change disproportionately affects more vulnerable populations and poorer
+countries by compounding existing humanitarian crises.
+
+Read this original document at: http://docs.house.gov/meetings/AS/AS26/20240411/117088/HHRG-118-AS26-
+Wstate-KruseJ-20240411.pdf
 
 
-Load-Date: June 11, 2024
+Load-Date: April 15, 2024
 
 
   

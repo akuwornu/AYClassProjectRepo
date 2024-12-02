@@ -1,125 +1,142 @@
 
 
                                                                                                          Page 1 of 3
-                              Big Tech is stress testing the grid. It doesn't have to be a disaster.
+                 Healthcare Triangle, Inc. Reports Fourth Quarter and Full Year 2023 Financial Results
 
 
 
 
-         Big Tech is stress testing the grid. It doesn't have to be a disaster.
-                                                          Energywire
-                                                     July 9, 2024 Tuesday
+        Healthcare Triangle, Inc. Reports Fourth Quarter and Full Year 2023
+                                  Financial Results
+                                                         GlobeNewswire
+                                               March 15, 2024 Friday 6:28 AM PT
 
 
 
-Copyright 2024 Politico LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Section: TODAY'S STORIES; Vol. 10; No. 9
-Length: 1641 words
+
+
+
+Section: PRESS RELEASES
+Length: 1364 words
 
 Body
 
+PLEASANTON, Calif., March 15, 2024 (GLOBE NEWSWIRE) -- Healthcare Triangle, Inc. (Nasdaq: HCTI)
+(“Healthcare Triangle,” “HCTI” or the “Company”), a leader in digital transformation solutions including managed
+services, cloud enablement, cybersecurity, data analytics and AI data processing for the healthcare and life
+sciences industries, today announced financial results for its fourth quarter and full year ended December 31, 2023.
 
-By Jason Plautz America's digital economy is turning electricity into a growth industry after years of flat demand.
-Evidence of what's coming is all around us. Nvidia, the dominant maker of high-end artificial intelligence chips, is
-pressing its cloud-computing customers , which include Amazon, Google, Microsoft and Meta, on where they will
-find the power needed to run servers in the age of generative AI. Microsoft has agreed to buy more than 10
-gigawatts of renewable energy - roughly the equivalent of 10 large nuclear reactors - to power data centers in the
-United States and Europe. And energy demand in West Texas could double because of the influx of data centers
-and cryptocurrency miners hoping to generate electricity from natural gas produced nearby.
+Fourth Quarter 2023 Financial Results
+    •     Revenue: Total revenue was $7.1 million, representing a decrease of 37% compared to the fourth quarter
+          of 2022. Revenue from the Software Services and Managed Services segments decreased by 40% and
+          37%, respectively, partially offset by a 22% increase in Platform Services.
+    •     GAAP loss from operations: GAAP loss from operations was $5.3 million, compared to $4.9 million in the
+          fourth quarter of 2022. The increased loss was primarily due to impairment of intangibles and goodwill. The
+          one-time impact of the impairment was $4.2 million. The normalized GAAP loss from operations was $0.7
+          million.
+    •     GAAP net loss per share: GAAP basic and diluted net loss per share was $1.26 based on 4.2 million
+          weighted-average shares outstanding, compared to $1.33 based on 3.6 million weighted-average shares
+          outstanding in the year-ago quarter.
 
-The digital revolution has the potential to overwhelm utilities and regional power grid operators tasked with
-managing electricity flows. According to McKinsey , data center load is forecast to climb from 19,000 megawatts in
-2023 to 35,000 MW by the end of the decade. That's the same as plugging more than 11 million homes into the
-power grid. But interviews by POLITICO's E&E News show electricity growth could cut a few different ways.
-Technology giants at the top of the Fortune 500 aren't the only ones driving eye-popping projections. They're just
-the first swell in a wave of future demand from electric vehicles, electric heating and the surge in American
-manufacturing. Taken together, the trends could upend U.S. targets for slashing carbon pollution if electric utilities
-fire up old coal plants or build on their natural gas-fired generation. Virginia, a hot spot for data center growth, has
-become a closely watched test case, with fears that dominant utilities could slow their energy transition plans to
-meet demand. Matt Gardner, vice president for electric transmission at Dominion Energy, said at a White House
-event in May that the utility expects its overall demand to double in 15 years. "That's quite a challenge," Gardner
-said. But experts also said the transition to high-powered computing is at an early stage. It's an opportunity for
-electricity companies and tech giants to learn - before they settle into steeper growth curves. "It shouldn't be that
-hard to absorb on the grid, especially with the amount of generation going online," said Arman Shehabi, a staff
-scientist at the Lawrence Berkeley National Laboratory. "They're giving some utilities strain, but there are new
-sources of electricity out there. And there's an opportunity to be more creative in how that growth is built out." At
-data centers, vast rooms of computer servers need to be kept cool to prevent hardware from shutting down. An
-estimated 40 percent of their electricity demand is for air conditioning. According to the Department of Energy , data
-centers consume from 10 to 50 times more per unit of floor space than a commercial office building. And they
-typically need to be online all the time. That makes it harder to shift consumption away from peak periods of
-demand. T. Bruce Tsuchida, a wholesale power markets analyst for the Brattle Group, said the "lumpy" load from
-data centers is making it harder to forecast just how much power those sites will use, and when. A report co-
-authored by Tsuchida said utilities should improve their forecasting with an expected growth rate of 9 percent in
+Full Year 2023 Financial Results
+    •     Revenue: Total revenue was $33.2 million, representing a decrease of 28% compared to 2022. Revenue
+          from Software Services, Managed Services and Support and Platform Services revenue has decreased in
+          the current year.
 
-                                                                                                        Page 2 of 3
-                         Big Tech is stress testing the grid. It doesn't have to be a disaster.
+                                                                                                       Page 2 of 3
+              Healthcare Triangle, Inc. Reports Fourth Quarter and Full Year 2023 Financial Results
 
-data center load through 2030. "One of the key things we want to get across is that this is real, this is happening,"
-Tsuchida said. "Don't assume it's all going to be hunky dory. It's time to think about how to adapt your planning."
-Finding flexibility Those forecasts aren't as simple as matching up a megawatt of new data center load with a
-megawatt of new generation. Environmentalists have warned that doing that at a time when electricity load is
-growing could lead to more fossil fuel plants on the grid, jeopardizing climate goals. "The opportunity lies in being
-more collaborative and more forward-thinking about what large loads can do to support the grid," said Alexandra
-Gorin, a lead analyst of utility reliability for the clean energy think tank RMI. "This isn't about one company or one
-facility. Are there collective actions we could take to mitigate the pressure on grid capacity?" What flexibility looks
-like is still taking shape. Data centers aren't typically good candidates for demand response programs, where a
-large load center (or a collection of households) turns down electricity use temporarily when the grid is particularly
-stressed. Cryptocurrency mines - which run banks of computers to validate digital currency transactions - have
-touted their ability to turn down during heat waves or peak demand periods, but their operations are less
-fundamental to the tech economy. Not every data center functions the same way. A March report from Sidewalk
-Infrastructure Partners , the infrastructure spinoff from Google parent company Alphabet, found that under certain
-applications, data centers can "provide large-scale flexibility to the grid." Planned properly, the report said, data
-centers could help shave peak load, soak up excess wind and solar power, and utilize existing transmission that
-might otherwise be stranded. "One of the interesting elements about artificial intelligence is that certain AI
-computer loads are more flexible and can be orchestrated," said Sayles Braga, a senior partner at Sidewalk
-Infrastructure Partners. "You have to take a full systems approach and recognize that different data center design
-and different assets on site will interact with the grid differently." Even a center that demands power 99.9 percent of
-the time, Braga said, can be flexible for that remaining 0.1 percent - a slight decrease in demand that could be
-scheduled to coincide with a summer evening when utilities are feeling a crunch. And for tech companies with a
-national or international footprint, demand can even be distributed to focus the most intensive computer use in
-areas where there is cheaper and cleaner electricity available. Google has piloted a demand response program that
-shifts non-urgent tasks away from data centers when called on by electricity providers. For example, Google
-scheduled power reductions in the evening hours between December 2022 and March 2023 in European countries
-during natural gas shortages and lowered consumption in U.S. states during extreme weather events. "While we
-recognize that grid planning and management is ultimately the role of utilities and grid operators, the data center
-industry is committed to leaning in as an engaged partner," said Josh Levi, president of the Data Center Coalition.
-"Collectively, we can meet the moment and ensure a clean, reliable, affordable, and resilient electric system that
-supports the digitization of our economy, widespread vehicle and building electrification, the onshoring of advanced
-manufacturing and other 21st century economic drivers." An opportunity for insight Clean energy advocates also
-fear that utilities might delay the retirement of fossil fuel plants - or even add new ones to the grid - to meet the
-needs of data centers and other new users. The Energy Information Administration estimates that nearly 17,000
-MW of new gas plants will be built by 2027, although not all of those plants may come to fruition. That comes even
-as some companies are pledging to run their operations only with clean energy. Google says it has a goal to run its
-data centers on carbon-free electricity by 2030, while Amazon has a net-zero goal by 2040. That's led to tech
-companies being some of the biggest initiators of clean energy purchasing. In May, Microsoft partnered with
-investment group Brookfield Renewable Partners on a deal to supply that by 2025, it will support enough wind and
-solar projects to add 9,800 MW of renewable power to the grid across 24 states and 74 countries. An agreement
-between Georgia Power, state officials and the Clean Energy Buyers Association this year will create a new clean
-energy program that allows large-load customers such as tech companies to bring third-party clean-energy projects
-to the grid, helping to offset their potential impact by adding new generation. "This particular program allows
-companies to procure energy that's beyond renewables," said Priya Barua, the senior director of market and policy
-innovation at CEBA, a group that includes more than 400 companies committed to buying clean power. "It could be
-storage or geothermal or modular nuclear. Having this shared arrangement with the utility means there can be
-efficiencies and potentially eliminate the need for peaker plants that tend to be natural gas." Buying clean power,
-however, does not necessarily ease the impacts to the grid. With nearly round-the-clock needs, data centers can't
-rely solely on wind and solar power. Sidewalk Infrastructure Partners' Braga said that pairing data centers with
-batteries for backup power can both reduce their carbon footprint and offer a new resource for the grid, but that the
-technology and interaction with the grid are still developing. Shehabi of the Berkeley lab - who is working on a
-report on data center use for Congress - said that there are still potential efficiencies to be found as data centers
-develop. Previous waves of tech growth, he said, ultimately did not crash the grid because companies found ways
+    •   GAAP loss from operations: GAAP loss from operations was $12.3 million, compared to $9.6 million in
+        2022. The increased loss was primarily due to impairment of intangibles and goodwill. The onetime impact
+        of the impairment was $4.2 million. The normalized GAAP loss from operations was $8.1 million.
+    •   GAAP net loss per share: GAAP basic and diluted net loss per share was $2.92 based on 4.2 million
+        weighted-average shares outstanding, compared to $2.63 based on 3.6 million weighted-average shares
+        outstanding in 2022.
+    •   Cash and cash equivalents totaled $1.2 million as of December 31, 2023.
 
-                                                                                                         Page 3 of 3
-                         Big Tech is stress testing the grid. It doesn't have to be a disaster.
+Business Highlights:
+    •   Secured a new $3 million contract to provide HITRUST-certified Cloud DevOps Managed Services for a
+        leading life sciences customer, reinforcing the Company’s position as a top player in the Cloud DevOps
+        Managed Services business.
+    •   Secured a multi-year program expansion contract with a Fortune 500 biopharmaceutical company,
+        securing our position as one of the providers for Cloud DevOps, data engineering and data platform
+        management solutions.
+    •   Announced a multi-year subscription agreement with a long-standing customer for readabl.ai, a medical
+        document automation solution aimed at streamlining patient care and reducing operating costs.
+    •   Launched a new ransomware protection and prevention initiative drawing initial interest and support from
+        numerous health system clients. The Company is servicing multiple contract agreements for cloud backup
+        and disaster recovery, allowing hospitals and health systems to move disaster recovery to the Amazon
+        Web Services (AWS) cloud to secure resources and scale on demand.
+    •   Hosted sessions on digital transformation and ransomware preparedness for healthcare systems at
+        CHIME23 fall forum.
+    •   Hosted roundtable discussion on generative AI and data modernization strategies for healthcare and
+        hosted webinar addressing ransomware preparedness for healthcare.
+    •   Participated in 2023 MUSE Inspire conference as exhibitor and host of best practice sessions and at
+        HIMSS23 conference as a guest speaker for Amazon Web Services.
 
-to operate with less power or because innovations such as cloud computing made the industry more efficient. Still,
-he said, it's important to bring on data centers responsibly before more sectors electrify and demand skyrockets.
-"Data centers are a good first partner for dealing with the growth in generation and transmission. There's more
-flexibility there than in any other growth in the future," he said. "This is a great initial run to see how the grid can
-handle growth."
+Thyagarajan Ramachandran, Chief Financial Officer of Healthcare Triangle, stated, “Despite experiencing a decline
+in revenue throughout the year, we achieved significant milestones by launching some key initiatives in ransomware
+protection and preparedness for our clients. During the year we secured notable multi-year contracts. We believe
+the steps we have taken will make us a top provider of cybersecurity solutions as well as a leading provider in AI-
+driven healthcare process and workflow in the future. Because of the work we completed during full year 2023, we
+have already seen the fruits of our labor lead to many new initiatives in 2024. The Company is in multiple
+discussions with healthcare companies looking at our AI solutions to bring their existing systems up to date and
+creating new standards while providing potential cost savings and productivity gains. The healthcare landscape is
+continually evolving, generating a significant amount of data on a daily basis, driven by patient care, payment
+systems, regulatory compliance and recordkeeping. HCTI continues to be a leader in innovation as we make
+improvements to our HITRUST-certified Cloud DevOps managed services and AI adoption. AI in the healthcare
+market is projected to reach $53 billion by 2024, according to Grand View Research, and this presents many
+opportunities for documentation AI and generative AI for us and our solutions. A key strategy for both customer
+acquisition as well as marketing and brand visibility has been educating potential customers and the industry at
+large by hosting webinars and participating in conferences and guest speaking. We believe we are positioned
+ideally and have made major strides in 2023.”
+
+About Healthcare Triangle:
+
+Healthcare Triangle, Inc., headquartered in Pleasanton, California, stands at the forefront of healthcare technology,
+specializing in AI and digital transformation. With a commitment to innovation, collaboration, and excellence,
+Healthcare Triangle is dedicated to reshaping healthcare delivery for the better. We collaborate with healthcare
+
+                                                                                                       Page 3 of 3
+              Healthcare Triangle, Inc. Reports Fourth Quarter and Full Year 2023 Financial Results
+
+entities, including hospitals, health systems, payers, and pharma/life sciences organizations, leveraging
+breakthrough technology and extensive industry expertise to enhance health outcomes through optimized data
+utilization and cutting-edge information technologies. Holding HITRUST Certification for Cloud and Data Platform
+(CaDP) – featuring CloudEz™, DataEz™, and readabl.ai – our commitment to the highest standards in data
+protection and information security is unwavering. Healthcare Triangle serves as a beacon for the adoption of new
+technologies, data enlightenment, business agility, and swift response to evolving business needs and competitive
+challenges. Thriving in the highly regulated healthcare and life sciences sectors, we excel in digital transformation
+encompassing the cloud, security and compliance, identity management, data lifecycle management, healthcare
+interoperability, and clinical and business performance optimization. For more information, visit
+www.healthcaretriangle.com.
+
+Forward-Looking Statements and Safe Harbor Notice
+
+All statements other than statements of historical facts included in this press release are “forward-looking
+statements” (as defined in the Private Securities Litigation Reform Act of 1995). Such forward-looking statements
+include our expectations and those statements that use forward-looking words such as “projected,” “expect,”
+“possibility” and “anticipate.” The achievement or success of the matters covered by such forward-looking
+statements involve significant risks, uncertainties and assumptions. Actual results could differ materially from
+current projections or implied results. Investors should read the risk factors set forth in the Company's Annual
+Report on Form 10-K filed with the SEC on March 28, 2023, subsequent filings and future reports filed with the
+SEC. All the Company's forward-looking statements are expressly qualified by all such risk factors and other
+cautionary statements.
+
+The Company cautions that statements and assumptions made in this news release constitute forward-looking
+statements and make no guarantee of future performance. Forward-looking statements are based on estimates and
+opinions of management at the time the statements are made. The information set forth herein speaks only as of
+the date hereof. The Company and its management undertake no obligation to revise these statements following
+the date of this news release.
+
+Contacts
+
+Investors:1-800-617-9550ir@healthcaretriangle.com
 
 
-Load-Date: August 6, 2024
+Load-Date: March 15, 2024
 
 
   

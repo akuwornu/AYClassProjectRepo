@@ -1,209 +1,165 @@
 
 
-                                                                                                       Page 1 of 4
-                Congressional Research Service Issues In Focus White Paper on Quantum Technology
+                                                                                                       Page 1 of 3
+                                      Intermap Wins Major Indonesian Mapping Contract
 
 
 
 
- Congressional Research Service Issues In Focus White Paper on Quantum
-                              Technology
-                                                     Targeted News Service
-                                           August 15, 2024 Thursday 5:17 PM EST
+                       Intermap Wins Major Indonesian Mapping Contract
+                                                         GlobeNewswire
+                                             January 23, 2024 Tuesday 3:30 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 1957 words
-Byline: Targeted News Service
-Dateline: WASHINGTON
+Section: BUSINESS CONTRACTS; PRODUCT / SERVICES ANNOUNCEMENT
+Length: 1904 words
 
 Body
 
 
-The Congressional Research Service issued the following In Focus white paper (No. IF11836) on Aug. 14, 2024, by
-Kelley M. Sayler, advanced technology and global security analyst:
+Indonesia awards Intermap $20 million contract to map 10% of the country in 2024
 
-***
+Follow-on task orders to map the remaining 90% expected over the subsequent four years
 
-Defense Primer: Quantum Technology
+Intermap’s proprietary IFSAR technology enables unique country-wide mapping solution to achieve unprecedented
+specifications
 
-Quantum technology translates the principles of quantum physics into technological applications. In general,
-quantum technology has not yet reached maturity; however, it could hold significant implications for the future of
-military sensing, encryption, and communications, as well as for congressional oversight, authorizations, and
-appropriations.
+DENVER, Jan. 23, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF) (“Intermap”
+or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today announced it has
+won a $20 million contract to map the Island of Sulawesi, Indonesia in 2024 (the “Contract”). The Contract is the
+first phase of the Indonesian national topographic basemap program to create a national digital basemap as part of
+the One Map program backed by Presidential Decree. Under the One Map program’s approved technical
+specifications, the government will collect airborne IFSAR-derived elevation data and cloud-free radar imagery for
+the entire country at resolutions suitable for 1:5,000 scale mapping. The first phase awarded today represents 10%
+of the country’s land area and 10% of the One Map program. Work on the remaining 90% is expected over the
+subsequent four years.
 
-Key Concepts in Quantum Technology
+Indonesia’s national geospatial agency, Badan Informasi Geospasial (BIG), has been mandated to create a national
+digital basemap. Indonesia is the fourth most populous country and one of the largest and fastest-growing
+economies in Southeast Asia, strategically positioned on the major trade route through the South China Sea.
+Basemaps play a critical role in policy formation, decision-making and implementation of activities such as natural
+resource management, disaster response and spatial planning. Creating basemaps to the 1:5,000 scale
+specification requires high-resolution remote sensing data, including imagery and digital elevation models (DEMs),
+to extract details like buildings, roads, land cover and terrain features. Indonesia is home to the�world’s largest
+tropical peatlands and mangrove forests as well as the third largest tropical rainforest. These natural resources are
 
-Quantum applications rely on a number of key concepts, including superposition, quantum bits (qubits), and
-entanglement. Superposition refers to the ability of quantum systems to exist in two or more states simultaneously.
-A qubit is a computing unit that leverages the principle of superposition to encode information. (A classical
-computer encodes information in bits that can represent binary states of either 0 or 1, whereas a quantum computer
-encodes information in qubits, each of which can represent 0, 1, or a combination of 0 and 1 at the same time.
-Thus, the power of a quantum computer increases exponentially with the addition of each qubit.)
+                                                                                                         Page 2 of 3
+                                 Intermap Wins Major Indonesian Mapping Contract
 
-Entanglement is defined by the National Academy of Sciences (NAS) as a property in which "two or more quantum
-objects in a system can be intrinsically linked such that measurement of one dictates the possible measurement
-outcomes for another, regardless of how far apart the two objects are." Entanglement underpins a number of
-potential military applications of quantum technology. Both superposition and entanglement are, however, difficult to
-sustain due to the fragility of quantum states, which can be disrupted by minute movements, changes in
-temperature, or other environmental factors.
+vital in capturing carbon, helping mitigate climate change impacts, and are key resources for supporting Indonesia’s
+long-term development. Basemaps are essential for developing spatial plans, emergency response and natural
+disaster rehabilitation.
 
-                                                                                                        Page 2 of 4
-              Congressional Research Service Issues In Focus White Paper on Quantum Technology
+The Contract procurement to achieve this objective included a competitive process, which evaluated multiple
+commercial airborne and satellite technologies and sensors. Today’s award represents one of the largest single-
+source topographic mapping programs ever and demonstrates that national mapping agencies value Intermap’s
+unique airborne, native-3D Interferometric Synthetic Aperture Radar (IFSAR) collection, high-quality elevation data
+and rapid processing technology. Intermap and its partners will utilize Intermap’s IFSAR to map the entire Island of
+Sulawesi, an area of more than 180,000 square kilometers. No other company can meet Indonesia’s technical
+requirements within the budget and timeframe allotted by the Contract.
 
-Military Applications of Quantum Technology
+Intermap has an exclusive partnership with the subsidiary of a state-owned enterprise, PT Pratama Persada
+Airborne (PPA), which leverages the strengths of both parties. The partnership combines Intermap’s cutting-edge,
+patented IFSAR collection technology and data processing expertise with PPA’s extensive local knowledge,
+resources and government support. Together, the companies provide an unparalleled mapping solution for this first
+phase of the Indonesian national mapping program and future work under the One Map program.
 
-The Defense Science Board (DSB), an independent Department of Defense (DOD) board of scientific advisors, has
-concluded that three applications of quantum technology hold the most promise for DOD: quantum sensing,
-quantum computers, and quantum communications. The DSB concluded that quantum radar, hypothesized to be
-capable of identifying the performance characteristics (e.g., radar cross-section, speed) of objects - including low
-observable, or stealth, aircraft--"will not provide upgraded capability to DOD."
+Today’s Contract is expected to be the first phase of the One Map program to map approximately 17,000 islands,
+spanning Indonesia’s entire territory, covering equatorial Southeast Asia. The follow-on contract is expected to take
+four years and will complete the foundation basemap, with additional agreements to support the maintenance of the
+basemap.
 
-Quantum Sensing
+“This major contract in Indonesia highlights the value of our decades of experience, commercialization expertise
+and technological development,” said Patrick A. Blott, Intermap Chairman and CEO. “We have had a presence in
+Indonesia since the 1990s and have received numerous contracts over the past two decades. The progression of
+our technology, our exploitation of relevant data to drive valuable commercial use cases and the expansion of our
+operations in Indonesia are a testament to our ability to respond to challenging client requirements — in this case,
+in-country processing, stringent data specifications and ability to work closely with the local surveying, mapping,
+government and business communities.”
 
-Quantum sensing uses the principles of quantum physics within a sensor. According to the DSB, this is the most
-mature military application of quantum technologies and is currently "poised for mission use." Quantum sensing
-could provide a number of enhanced military capabilities. For example, it could provide alternative positioning,
-navigation, and timing options that could in theory allow militaries to continue to operate at full performance in GPS-
-degraded or GPS-denied environments. In addition, quantum sensors could potentially be used in an intelligence,
-surveillance, and reconnaissance (ISR) role.
+Indonesia is located in the cloud belt, often blanketed with persistent cloud cover, and mostly composed of rural
+areas and dense tropical rainforests. IFSAR technology is the only mapping solution that offers cloud-penetrating
+and foliage-penetrating capabilities at the resolutions required to achieve 1:5,000 scale mapping. Intermap’s IFSAR
+is approved by the Indonesian government as a preferred technology, capable of achieving the required basemap
+standards. This award demonstrates the high degree of confidence Indonesia has for the collection and processing
+capabilities of Intermap and its partners. Indonesia plans to commercialize the data and Intermap is uniquely
+positioned to contribute its extensive experience and capabilities to create exploitation tools for applications such as
+flood mapping, navigation, resource management and infrastructure monitoring.
 
-Successful development and deployment of such sensors could lead to significant improvements in submarine
-detection and, in turn, compromise the survivability of seabased nuclear deterrents. Quantum sensors could also
-enable military personnel to detect underground structures or nuclear materials due to their expected "extreme
-sensitivity to environmental disturbances." The sensitivity of quantum sensors could similarly potentially enable
-militaries to detect electromagnetic emissions, thus enhancing electronic warfare capabilities and potentially
-assisting in locating concealed adversary forces.
+Under the terms of the Contract, which is subject to additional amended terms and conditions regarding
+subcontractors for the final allocation of taxes for goods and services, Intermap will provide collection, processing
+and delivery of high-quality elevation data and imagery data as part of a consortium of other local operators. The
+entire area will be captured using airborne IFSAR, a SAR-based native 3D collection technology with quality and
+precision that cannot be duplicated with spaceborne sensors. After an extensive, multiyear evaluation process with
+the country’s expert SAR community, airborne IFSAR was identified as the only technology that could meet the
+government’s ambitious specifications for accuracy and detail. Intermap’s sensors and technology collect 25-
+centimeter resolution IFSAR imagery and produce 0.50-meter resolution digital surface models, 1-meter resolution
+digital terrain models, and feature products, including triple canopy foliage penetration, for foundational basemaps.
+Intermap’s proprietary IFSAR co-registered X- and P-band sensors will be deployed on one of its STAR-3 high-
+altitude, wholly-owned Learjet platforms. Using artificial intelligence and machine learning algorithms, the
+Company’s patented IRIS™ and LENS processing engines enable country-scale processing at speed by
+automatically extracting primary features from our aerial SAR as well as multi-sourced data, including high-
+frequency and low-frequency radar, multi-spectral imagery, LiDAR, satellite SAR, optical sensors, aerial photo and
 
-Quantum Computers
+                                                                                                        Page 3 of 3
+                                Intermap Wins Major Indonesian Mapping Contract
 
-According to NAS, "quantum computers are the only known model for computing that could offer exponential
-speedup over today's computers." While quantum computers are in a relatively early stage of development,
-advances--many of which are driven by the commercial sector--could hold implications for the future of artificial
-intelligence (AI), encryption, and other disciplines.
+other sources, in near real-time, to assist in identifying and monitoring changes in features, objects and hybrid
+vectors.
 
-For example, some analysts have suggested that quantum computers could enable advances in machine learning,
-a subfield of AI. Such advances could spur improved pattern recognition and machine-based target identification.
-This could in turn enable the development of more accurate lethal autonomous weapon systems, or weapons
-capable of selecting and engaging targets without the need for manual human control or remote operation. AI-
-enabled quantum computers potentially could be paired with quantum sensors to further enhance military ISR
-applications.
+Learn more about the Contract at intermap.com/indonesian-mapping-program.
 
-In addition, quantum computers could potentially decrypt classified or controlled unclassified information stored on
-encrypted media, allowing adversaries to gain access to sensitive information about U.S. military or intelligence
-operations. Some analysts note that significant advances in quantum computing would likely be required to break
-current encryption methods. Their estimates suggest that a quantum computer with around 20 million qubits would
-be required to break current encryption methods; however, the most advanced quantum computers today generally
-have no more than 1,088 qubits.
+Learn more about Intermap’s government data collection solutions at intermap.com/collection.
 
-The practical applications of quantum computers will likely be realized only after improvement in error rates and
-development of new quantum algorithms, software tools, and hardware. While, as NAS notes, "there is no
-guarantee that [these technical challenges] will be overcome," some analysts believe that an initial quantum
-computer prototype capable of breaking current encryption methods could be developed in the 2030 to 2040
-timeframe. For this reason, NAS concludes that "the development, standardization, and deployment of post-
-quantum cryptography is critical for minimizing the chance of a potential security and privacy disaster." (Information
-intercepted prior to the deployment of post-quantum cryptography would not be protected.) In May 2022, the Biden
-administration released National Security Memorandum on Promoting United States
+Intermap Reader AdvisoryCertain information provided in this news release, including reference to revenue growth,
+the scope and timing of additional phases of the One Map program and expected follow-on task orders, and the
+methods of mapping to be used in performing the services under the Contract, constitutes forward-looking
+statements. The words "expect", “will”, and similar expressions are intended to identify such forward-looking
+statements. Although Intermap believes that these statements are based on information and assumptions which are
+current, reasonable and complete, these statements are necessarily subject to a variety of known and unknown
+risks and uncertainties. Intermap’s forward-looking statements are subject to risks and uncertainties pertaining to,
+among other things, cash available to fund operations, availability of capital, revenue fluctuations, the nature of
+government contracts, including changing political circumstances in the relevant jurisdictions, economic conditions,
+retention and availability of executive talent, competing technologies, common share price volatility, loss of
+proprietary information, software functionality, internet and system infrastructure functionality, information
+technology security, breakdown of strategic alliances, and international and political considerations, as well as
+those risks and uncertainties discussed Intermap’s Annual Information Form and other securities filings. While the
+Company makes these forward-looking statements in good faith, should one or more of these risks or uncertainties
+materialize, or should underlying assumptions prove incorrect, actual results may vary significantly from those
+expected. Accordingly, no assurances can be given that any of the events anticipated by the forward-looking
+statements will transpire or occur, or if any of them do so, what benefits that the Company will derive therefrom. All
+subsequent forward-looking statements, whether written or oral, attributable to Intermap or persons acting on its
+behalf are expressly qualified in their entirety by these cautionary statements. The forward-looking statements
+contained in this news release are made as at the date of this news release and the Company does not undertake
+any obligation to update publicly or to revise any of the forward-looking statements made herein, whether as a
+result of new information, future events or otherwise, except as may be required by applicable securities law.
 
-                                                                                                        Page 3 of 4
-              Congressional Research Service Issues In Focus White Paper on Quantum Technology
-
-Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems (NSM-10), which
-"directs specific actions for agencies to take as the United States begins the multi-year process of migrating
-vulnerable computer systems to quantum-resistant cryptography." NSM-10 notes that the Director of the National
-Institute of Standards and Technology and the Director of the National Security Agency (NSA) are to develop
-technical standards for quantum resistant cryptography. NIST released the first tranche of these standards in
-August 2024. NSA has stated that it "expects the transition to [quantum-resistant] algorithms for [national security
-systems] to be complete by 2035 in line with NSM-10."
-
-Quantum Communications
-
-Quantum communications--excluding quantum key distribution ([QKD], discussed below)--are in a nascent stage of
-development. Quantum communications could theoretically enable the secure networking of quantum military
-sensors, computers, and other systems, thus improving performance over that of a single quantum system or
-classical communications network. Networking could additionally strengthen the robustness of such systems at
-range, thus expanding the potential environments in which they could be deployed (i.e., outside of the laboratory
-settings generally required to sustain fragile quantum states). This could significantly expand the military utility of
-quantum communications.
-
-Quantum key distribution is a subset of quantum communications that uses the principles of quantum physics to
-encrypt information that is then sent over classical networks. QKD enables secure communications that cannot be
-covertly intercepted during transmission. (QKD communications can, however, be intercepted at the relay stations
-currently required for long-distance transmissions.) China is reportedly investing heavily in QKD and completed
-construction of an approximately 1,250 mile Beijing-Shanghai quantum network in 2016. Nonetheless, the DSB
-concluded that "QKD has not been implemented with sufficient capability or security to be deployed for DOD
-mission use."
-
-Recent Legislative Activity
-
-Congress has passed numerous provisions related to quantum technology. For example, Section 234 of the
-FY2019 National Defense Authorization Act (NDAA) (P.L. 115-232), later amended by Section 219 of the FY2024
-NDAA (P.L. 118-31), directs the Secretary of Defense - acting through the Under Secretary of Defense for
-Research and Engineering - to execute a quantum technology research and development program in coordination
-with the private sector and other government agencies.
-
-Furthermore, Section 220 of the FY2020 NDAA (P.L. 11692) requires DOD to develop ethics guidelines for the use
-of quantum technologies, as well as plans for supporting the quantum workforce and reducing the cybersecurity
-risks associated with quantum technologies. It additionally authorizes the Secretary of each military department to
-establish Quantum Information Science (QIS) Research Centers that may "engage with appropriate public and
-private sector organizations" to advance quantum research.
-
-To date, the Navy has designated the Naval Research Laboratory as its QIS Research Center, while the Air Force
-has designated the Air Force Research Laboratory as a QIS Research Center for both the Air Force and Space
-Force. The Army says it does not plan to establish a QIS Research Center at this time.
-
-Section 214 of the FY2021 NDAA (P.L. 116-283) directs the services to compile and annually update a list of
-technical challenges that quantum computers could potentially address within the next one to three years. The list
-currently includes quantum chemistry, optimization, and machine learning. Section 214 also directs the services to
-establish programs with small and medium businesses to provide quantum computing capabilities to government,
-industry, and academic researchers working on these challenges. Section 1722 directs DOD to conduct an
-assessment of the risks posed by quantum computers.
-
-Finally, Section 105 of the FY2022 NDAA (P.L. 117-81) directs the President to establish - through the National
-Science and Technology Council - the Subcommittee on the Economic and Security Implications of Quantum
-Information Science, while Section 229 directs the Secretary of Defense to "establish a set of activities to accelerate
-the development and deployment of dual-use quantum capabilities." Section 220 of the FY2024 NDAA directs DOD
-
-                                                                                                      Page 4 of 4
-              Congressional Research Service Issues In Focus White Paper on Quantum Technology
-
-to establish a public-private talent exchange program for quantum research; Section 231 authorizes a DOD pilot
-program for quantum computing.
-
-Potential Questions for Congress
-
-* What funding level does the current maturity of military applications of quantum technology warrant? To what
-extent, if at all, should the U.S. government invest in and research technologies that enable quantum military
-applications (e.g., materials science, fabrication techniques)?
-
-* To what extent, if at all, can commercial advances in quantum technology be leveraged for military applications?
-
-* How mature are U.S. competitor efforts to develop military applications of quantum technologies? To what extent,
-if at all, could such efforts threaten advanced U.S. military capabilities, such as submarines and stealth aircraft?
-
-* What measures are being taken to develop quantum-resistant encryption and to protect data that have been
-encrypted using current methods?
-
-* What measures, if any, should the United States take to ensure that the quantum workforce is sufficient to support
-U.S. competitiveness in quantum technology?
-
-***
-
-The white paper is posted at: https://crsreports.congress.gov/product/pdf/IF/IF11836
-
-[Category: CRSCRS]
-
-Copyright Targeted News Services
-
-MSTRUCK-8775378 MSTRUCK
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
+terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
+patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
+datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
+elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
+and machine learning, providing customers with critical information to understand their terrain environment. By
+leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
+Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
+enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
+Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
+wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
+telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
+transportation.
+For more information, please visit www.intermap.com          or   contact:   Patrick   A.   Blott   Chairman   and   CEO
+CEO@intermap.com +1 (303) 708-0955
 
 
-Load-Date: August 15, 2024
+
+Load-Date: January 23, 2024
 
 
   

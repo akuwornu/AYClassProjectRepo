@@ -1,97 +1,99 @@
 
 
-                                                                             Page 1 of 2
-    UAH RESEARCHER PUBLISHES STUDY TAPPING SOCIAL MEDIA AND AI TO SPEED SUPPLY CHAIN
-                             ASSISTANCE DURING DISASTERS
+                                                                            Page 1 of 2
+             ALUMNA KARA SWISHER RETURNS TO GEORGETOWN WITH HER OWN BURN BOOK
 
 
 
 
-  UAH RESEARCHER PUBLISHES STUDY TAPPING SOCIAL MEDIA AND AI
-      TO SPEED SUPPLY CHAIN ASSISTANCE DURING DISASTERS
-                                                       US Fed News
-                                            July 3, 2024 Wednesday 12:31 PM EST
+   ALUMNA KARA SWISHER RETURNS TO GEORGETOWN WITH HER OWN
+                         BURN BOOK
+                                                 States News Service
+                                               March 19, 2024 Tuesday
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 703 words
+Length: 839 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-HUNTSVILLE, Ala., July 3 -- The University of Alabama in Huntsville issued the following news release:
+The following information was released by Georgetown University:
 
-A doctoral candidate at The University of Alabama in Huntsville (UAH) is lead author of a new study in the
-International Journal of Production Research investigating the ways social media platforms can be leveraged with
-artificial intelligence (AI) to provide vital communication connecting victims of disaster to outside aid and support.
-Vishwa Vijay Kumar, a PhD student of Industrial & Systems Engineering and Engineering Management at UAH, a
-part of the University of Alabama System, teamed with fellow UAH co-researchers Dr. Avimanyu Sahoo and Dr.
-Sampson Gholston, as well as Kumar's mentor, Dr. Siva K. Balasubramanian of the Illinois Institute of Technology,
-to support the initiative.
+On March 14, longtime tech journalist and alumna Kara Swisher (SFS'84) returned to Georgetown for a
+conversation with AOL co-founder Steve Case about her new memoir, "Burn Book: A Tech Love Story."
 
-For the project, the team used data from X, formerly known as Twitter, from two six-week time periods and two
-countries during the COVID-19 pandemic: March-April 2020 in the United States when the pandemic broke out, and
-in India during the surge of the delta variant in May-June 2021. Disruptions in health care supply chains during
-these periods were causing severe shortages of essential equipment ranging from face masks and medicines to
-ventilators for patients in intensive care.
+The book traces the three decades she spent covering technology for The Washington Post, The Wall Street
+Journal, The New York Times, New York magazine and the tech news site she founded with Walt Mossberg,
+Recode. She currently hosts the podcast "On with Kara Swisher" and co-hosts the "Pivot" podcast with NYU
+professor Scott Galloway, both for New York magazine.
 
-"I was born and raised in the countryside of India, in Sitamarhi, Bihar, near the Nepal border, where natural
-disasters such as floods from the Himalayan rivers are frequent," Kumar says to explain the initial spark driving his
-vision to help. "These floods can spread over miles, trapping thousands of people in their homes who need urgent
-help for healthcare and food, as well as rescue operations. From a young age, I was driven to develop a framework
-that would enable people in need to communicate their requirements to the world and relevant authorities so they
-coordinate to assist disaster victims on time."
+Throughout her career, Swisher has interviewed major power players in the tech industry, including Steve Jobs,
+Elon Musk and Mark Zuckerberg. During the talk, she shared anecdotes about her time working with these figures
+and argued that the massive power of technology should not be held by the very few.
 
-The COVID-19 pandemic in 2020 presented a disaster of a different kind, affecting billions of people worldwide and
-exposing significant vulnerabilities in global healthcare supply chains. Critical shortages of essential supplies like
-testing kits, oxygen cylinders and hospital beds highlighted the urgent need for efficient resource allocation and
-real-time information.
+"I think that's what I worry about: the data is ours, we paid for the internet, they benefited from it, and then they get
+to do anything they want? And let me tell you, since I know all these people, you don't want them making decisions
+for you," Swisher said. "We have to, sort of, take control of it back from them, and I fear we will not."
 
-                                                                             Page 2 of 2
-    UAH RESEARCHER PUBLISHES STUDY TAPPING SOCIAL MEDIA AND AI TO SPEED SUPPLY CHAIN
-                             ASSISTANCE DURING DISASTERS
+Swisher began her time as a journalist as an undergraduate at Georgetown, where she was a features writer for
+The Hoya and a contributor to The Washington Post. While working at the Post, Swisher was assigned to cover
+AOL and met Case, introducing her to the tech world that would become her specialty. Swisher's first two books,
+"AOL.com" and "There Must Be a Pony in Here Somewhere," chronicle AOL's rise and fall. During the conversation,
+Swisher highlighted the importance of AOL's ascendence.
 
-"This situation reignited my early motivation to explore how social media and AI could be harnessed for faster
-disaster response and to mitigate health and supply challenges during crises," Kumar says. "I discussed this idea
-with Dr. Sahoo, my PhD academic advisor."
+"You could see the media companies really struggling to know what to do [with digital]. I always felt you [AOL] were
+a media company, you offered up those kinds of things, but you glommed on community to it, and constant
+accessibility," Swisher said. "Nobody was doing that."
 
-The research that followed presented a four-step process and developed algorithms to parse information from 3.9
-million tweets to identify imperative information using AI and machine learning. Keywords within Twitter posts were
-identified to indicate which tweets included information relevant to pandemic supply chain disruptions and
-processed them for content analysis and modeling. Tweets were categorized as "imperative," or actionable pleas
-for help, and "non-imperative," providing non-actionable information. The data analyzed also estimated the
-geographic location of imperative tweets lacking geo-tag information to facilitate coordination of aid operations.
+In the early days of the tech world's explosion, Swisher describes a kind of optimism that quickly gave way to
+despondency as it became clear that tech power players were going to act without consequences and profit wildly.
 
-Additionally, the researchers identified a number of healthcare supply chain challenges during disaster conditions
-that are the focus for future research. Topics included geo-location of people in need who posted their concerns on
-social media without identifying their location; forecasting COVID-19 vaccine supplies; forecasting the availability of
-health and food supplies; use of other social media (for example, Facebook, Instagram, etc.) and finding where
-these improvements would be applicable to other disaster events, such as hurricanes and earthquakes.
+                                                                            Page 2 of 2
+             ALUMNA KARA SWISHER RETURNS TO GEORGETOWN WITH HER OWN BURN BOOK
 
-"We also plan to develop a platform/tool that will scan the social media posts from the disaster events and
-generate real-time reports of demand and supply issues and people with their geo-locations requesting help,"
-Kumar concludes.
+This shift provided the inspiration for Swisher's book, which begins as a "love story" and ends somewhere decidedly
+more pessimistic.
 
-Kristina Hendrix
+"When you saw the possibilities of commonality, of bringing people together, of finding talent everywhere, and then
+they [tech company leaders] just wanted to sell advertising and take all your data, or they didn't care for the
+implications of what they were doing, it irritated me," Swisher said. "And then when you realize they were the richest
+people in the world with unaccountable power, that's a prescription for disaster, as you're seeing now."
 
-256-824-6341
+Even if private tech companies aren't run by bad actors, Swisher sees their unchecked power over their users as a
+major cause for concern. She shared stories about butting heads with tech figures over her outspoken approach to
+advocating for regulation. She recalled receiving calls from executives at Google after criticizing the company's
+move to buy Yahoo's search engine. She held her ground and warned that technology controlled by a single actor,
+regardless of their intentions, could have disastrous consequences. It's a lesson that has stuck with her today.
 
-kristina.hendrix@uah.edu
+Assessing the state of the tech world today, Swisher stressed both the negative domestic and foreign policy
+implications of failing to regulate technology. In the U.S., misinformation and conspiracy theories run rampant on
+social media sites like Facebook and X, she said, while hostile foreign powers have exploited the lack of controls on
+these platforms to influence American politics. Reflecting on the recent bill restricting TikTok that passed the House,
+Swisher encouraged lawmakers to continue considering the national security implications of leaving technology
+unregulated.
 
-Julie Jansen
+"I feel like this is the opportunity to finally regulate the internet and not think it's a dirty word," she said.
 
-256-824-6926
+Swisher also responded to student questions, including on the shifting landscape of journalism in the age of
+technology and the potential benefits of policies like the European Union's artificial intelligence regulations to
+create a healthier digital space.
 
-julie.jansen@uah.edu For any query with respect to this article or any other content requirement, please contact
-Editor at contentservices@htdigital.in
+Ultimately, Swisher is cautiously optimistic about the burgeoning interest in regulating tech, especially after traveling
+the country for her book tour.
+
+"I think there's a real movement in this country of worry about the power of tech over people's lives and the desire
+to take it back from people. That I'm feeling really strongly, and I hadn't felt it until I got out there," she said. "I think
+parents are concerned, I think people that believe in civics are concerned, and they know what's happening, and
+yet they know they need to be online and how important these technologies are. And so that's been heartening, I
+have to say, that's been super heartening."
 
 
-Load-Date: July 4, 2024
+Load-Date: March 20, 2024
 
 
   

@@ -1,105 +1,127 @@
 
 
-                                                                                                 Page 1 of 2
-  RWTH Aachen University and Hitachi Vantara Boost Infrastructure Transformation with 56 Petabyte Digitization
-                                                 Project
+                                                                                                        Page 1 of 3
+                          Embry Riddle Cyber Scholars Score Jobs, Connections at D.C. Event
 
 
 
 
-         RWTH Aachen University and Hitachi Vantara Boost Infrastructure
-              Transformation with 56 Petabyte Digitization Project
-                                                           PR Newswire
-                                           July 10, 2024 Wednesday 9:00 AM EST
+      Embry Riddle Cyber Scholars Score Jobs, Connections at D.C. Event
+                                                     Targeted News Service
+                                           March 14, 2024 Thursday 9:00 AM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1256 words
-Dateline: AACHEN, Germany and SANTA CLARA, Calif., July 10, 2024
+
+
+
+Length: 1007 words
+Byline: Targeted News Service
+Dateline: DAYTONA BEACH, Florida
 
 Body
 
 
-PR NewswireNew digital infrastructure consolidates 7,000 systems from 42 state universities and colleges and sets
-new standards for data protectionAACHEN, Germany and SANTA CLARA, Calif., July 10, 2024 /PRNewswire/ --
-Hitachi Vantara, the data storage, infrastructure, and hybrid cloud management subsidiary of Hitachi, Ltd. (TSE:
-6501), has developed a backup and recovery solution for the 42 state universities and university of applied sciences
-in the state of North Rhine-Westphalia in Germany. Together with the Rheinisch-Westfälische Technische
-Hochschule (RWTH) Aachen, Hitachi Vantara provided digital infrastructure that enhances data resilience, protects
-against future threats, and reduces overall costs and power consumption.
+Embry-Riddle Aeronautical University issued the following news:
 
-To learn more Hitachi Vantara's object storage capabilities, visit:https://www.hitachivantara.com/en-
-us/products/storage-platforms/object-storageMany organisations have experienced critical data loss and
-permanently lost their data as a result. The most prevalent causes are human error, hardware failures, cyber-
-attacks (ransomware and account take over), and natural disaster. The RWTH Aachen University experienced this
-first hand in 2016, when a massive fire destroyed a building on the campus that also housed one of their
-decentralized data centers.In asurveyconducted last year with 1,288 decision-makers in large organisations across
-12 countries, Hitachi Vantara found that 22% of those surveyed admitted important data isn't protected and 68%
-have concerns over whether their organization's data infrastructure is resilient enough. Only 29% are extremely
-confident their employees are following their security policies.In North Rhine-Westphalia, the digitization of the
-university landscape is being accelerated to improve efficiency and security at the state universities. A key element
-of this process is the consolidation of digital infrastructure services, such as backup and recovery. In the past, each
-university, faculty, and institute developed and operated its own backup and recovery processes and solutions.To
-increase productivity, cost efficiency, and protection against cyber threats such as ransomware, the universities of
-the state cooperatively created a consolidated offering for all universities:Datensicherung.NRW. The project
-establishes a unique model for delivering IT services at scale and provides standardized services for all
-universities.The high-performance and scalable solution based on the object storage solution Hitachi Content
-Platform (HCP) already backs up around 7,000 systems, including around 4,500 at RWTH and a further 2,500 from
-other universities and colleges. The current storage capacity is 56 PB. This major technical project represents
-significant progress in the digitization of the university infrastructure in NRW and sets new standards in the use of
-modern storage technologies for backing up and restoring university data."Data is the lifeblood of a university, and
-scientific data is invaluable. At the same time, we cannot completely lock up our systems like a commercial
+When Calla Robison was growing up, she wanted to be like agent Benji Dunn, the computer-savvy sidekick who
+employs technology to support superspies and thwart imminent disaster in the "Mission: Impossible" films.
 
-                                                                                                 Page 2 of 2
-  RWTH Aachen University and Hitachi Vantara Boost Infrastructure Transformation with 56 Petabyte Digitization
-                                                 Project
+In some sense, the Embry Riddle Aeronautical University senior is well on her way.
 
-business. Hitachi Vantara's executive management told us they would do everything they could to make this
-challenging project a success - and they did. This service is now a cornerstone of the state's cyber resiliency
-strategy. By delivering reliable, immutable backups as a service, our Hitachi solution plays a key role in
-strengthening cybersecurity and minimizing the impact of security threats," commentsProf. Dr. Matthias Müller,
-Head of the IT Center at RWTH Aachen University.RWTH Aachen University implemented the HCP distributed
-object storage solution in six university data centers as a backup target. The geo-redundant configuration of the
-distributed object storage solution with 72 nodes and a total of 56 PB storage capacity uses geo-erasure coding to
-guarantee data integrity and resilience across multiple locations. This is one way that Hitachi Vantara offers
-customers and partners tools to address data protection and cyber resiliency challenges using itsseven-layer,
-defense-in-depth strategy, while reducing the cost and complexity that is inherent when dealing with multiple
-vendors. "Even we don't build a geo-redundant data backup of this size every day. We are extremely proud that
-RWTH has chosen our storage technology as the basis for the Datensicherung NRW project," saysPetra-Maria
-Grohs, Managing Director Germany at Hitachi Vantara. "The project is proof that there are hardly any limits to
-distributed data backup and that our HCP can also cover complex requirements."Hitachi Vantara's HCP is part of
-an industry-recognizedunstructured data management portfolio(UDM) that empowers organizations to manage and
-derive insights from their unstructured data. Recentlyrecognized by GigaOmas being a leader and fast mover in
-UDM, Hitachi Vantara's UDM portfolio, including HCP and a suite of interconnected solutions, offers hybrid cloud
-agility, intelligent data management and advanced AI and analytics capabilities. By prioritizing data protection and
-cyber resilience, businesses gain the flexibility and intelligence needed to thrive amidst evolving data.For more
-information on Hitachi Content Platform,please click here.Additional ResourcesCase Study: Aachen
-UniversityWebinar: Multi-Layer Protection: Deeper Defense Against CyberattacksPress Release: Hitachi Vantara
-Achieves Leader and Fast Mover Status in 2024 GigaOm Radar for Unstructured Data Management for Fourth
-Consecutive YearBlog: Your Business Relies on Data – and Growing Threats are Putting that Data at RiskInsights:
-Building an Unbreakable Data Infrastructure in the Age of AI and Hybrid CloudConnect With Hitachi
-VantaraLinkedInXFacebookAbout Hitachi VantaraHitachi Vantara is transforming the way data fuels innovation. A
-wholly owned subsidiary of Hitachi Ltd., Hitachi Vantara provides the data foundation the world's leading innovators
-rely on. Through data storage, infrastructure systems, cloud management and digital expertise, the company helps
-customers build the foundation for sustainable business growth. To learn more, visitwww.hitachivantara.com.About
-Hitachi, Ltd.Hitachi drives Social Innovation Business, creating a sustainable society through the use of data and
-technology. We solve customers' and society's challenges with Lumada solutions leveraging IT, OT (Operational
-Technology) and products. Hitachi operates under the 3 business sectors of "Digital Systems & Services" –
-supporting our customers' digital transformation; "Green Energy & Mobility" – contributing to a decarbonized society
-through energy and railway systems, and "Connective Industries" – connecting products through digital technology
-to provide solutions in various industries. Driven by Digital, Green, and Innovation, we aim for growth through co-
-creation with our customers. The company's revenues as 3 sectors for fiscal year 2023 (ended March 31, 2024)
-totaled 8,564.3 billion yen, with 573 consolidated subsidiaries and approximately 270,000 employees worldwide.
-For more information on Hitachi, please visit the company's website athttps://www.hitachi.com.HITACHI is a
-trademark or registered trademark of Hitachi, Ltd. All other trademarks, service marks, and company names are
-properties        of     their   respective     owners.            View     original    content     to     download
-multimedia:https://www.prnewswire.com/news-releases/rwth-aachen-university-and-hitachi-vantara-boost-
-infrastructure-transformation-with-56-petabyte-digitization-project-302192930.htmlSOURCE Hitachi Vantara
+Robison -- who has made the dean's list every semester since starting at Embry Riddle in 2020 and is involved in
+endeavors including internships at major airlines, product development projects and learning Russian -- is a
+recipient of the National Science Foundation (NSF) CyberCorps Scholarship for Service (SFS). As a CyberCorps
+scholar, she attended a job fair and networking event this year in Washington, D.C., where she was offered two
+positions: with the U.S. Defense Intelligence Systems Agency as an information security IT specialist and with the
+Naval Surface Warfare Center as a computer scientist in the Command and Control In-Service Engineering Branch.
+
+"I had three interviews and received two job offers on the spot," Robison said. "I also enjoyed connecting with
+students from the other SFS programs across the nation."
+
+Robison traveled to the D.C. event with 10 other Embry Riddle students who had also received CyberCorps
+scholarships. The students were selected over the past two years to receive the scholarships as part of a $3.8
+million fund granted to Embry Riddle in 2022 to help bolster the cybersecurity workforce, especially in government
+agencies. The grants include full tuition and fees to attend Embry Riddle, plus stipends for up to two years, with the
+stipulation that the recipients will work in cybersecurity for federal, state, local or tribal governments for the same
+duration as their scholarship support.
+
+Dr. Radu Babiceanu, professor in the Department of Electrical Engineering and Computer Science and the Embry
+Riddle CyberCorps scholarship program principal investigator, led the group at the recent event in Washington,
+D.C.
+
+                                                                                                            Page 2 of 3
+                        Embry Riddle Cyber Scholars Score Jobs, Connections at D.C. Event
+
+"The event organization is outstanding, with NSF and the Office of Personnel Management officials providing an
+exciting agenda and networking opportunities for cybersecurity scholars from all over the country," said Babiceanu.
+"The number of federal agencies showcasing their cyber activities and competing to hire the best scholars is
+impressive. While some of our students were offered internships and/or permanent positions on the spot, others are
+currently training for more formal follow-up interview requests received after the event. The annual event also has
+dedicated sessions to brief principal investigators on updates to the federal program and recommendations for
+increasing students' chances of landing excellent positions."
+
+A Bridge to Success
+
+Caleb Hall, who was drawn to cybersecurity because of the "cat-and-mouse chase" between "white hats" and
+hackers, received a job offer from the U.S. Department of Homeland Security's Cybersecurity and Infrastructure
+Security Agency (CISA).
+
+Hall has a lifelong career plan worked out: "I plan to be a 'pen tester,' breaking computer systems to make them
+stronger," he said. "Then I'd like to go to the defensive side and work as a cybersecurity engineer. Then I'd finish
+my career as a cybersecurity architect, designing the entire cybersecurity strategy and network for a company."
+
+Senior Justin LaZare got hooked on cybersecurity after a high school teacher recommended that he try a game
+called CyberStart, and he ended up spending a whole semester break completing the platform's more than 200
+cybersecurity challenges. LaZare scored a job at the D.C. event without even having to interview.
+
+"I was offered a job tailored to my interests by the chief data officer of CISA right at the beginning of the career fair,"
+LaZare said.
+
+Other Embry Riddle attendees were also offered internships or jobs, while all made valuable professional
+connections.
+
+"The NSF CyberCorps SFS job fair connects SFS scholars with potential employers and peers, facilitating
+exploration of diverse career paths within government agencies and national labs. The event serves as a
+motivational catalyst, with distinguished speakers and SFS Hall of Fame winners inspiring participants to contribute
+to national security," said Krishna Sampigethaya, associate professor and chair of the Department of Cyber
+Intelligence and Security and one of the scholarship program's co-principal investigators. "Both NSF and OPM
+invest considerable effort into offering an exceptional venue for these talented SFS scholars, ensuring the event is a
+one-of-a-kind opportunity for them."
+
+For Robison, her long-range career aspirations are evolving somewhat since the days of wanting to be like Benji in
+"Mission: Impossible." Her NSF scholarship will help her to continue to a master's degree at Embry Riddle in Data
+Science "to pursue a more cyber analytic and artificial intelligence role in the future."
+
+According to Dr. Omar Ochoa, associate professor in the Department of Electrical Engineering and Computer
+Science and another co-principal investigator, more scholarships will be awarded in the next three years.
+
+Continuing a Trend
+
+Embry Riddle students have a history of success at industry conferences. Last October, for example, over 55
+members of the university's Society of Hispanic Professional Engineers (SHPE) attended the 2023 SHPE National
+Convention in Utah, and they returned with a total of 43 combined internship, co-op or job offer letters in hand. The
+students also conducted a total of 198 interviews at the two-day conference.
+
+"Members attended the career expo, networking events, community gatherings and more, allowing them to connect
+with not only the companies in attendance but also with Embry Riddle's SHPE alumni and Prescott's SHPE
+chapter," said Gabriel Rodriguez, academic chair of the campus's SHPE chapter.
+
+***
+
+                                                                                                     Page 3 of 3
+                      Embry Riddle Cyber Scholars Score Jobs, Connections at D.C. Event
+
+Original text here: https://news.erau.edu/headlines/embry-riddle-cyber-scholars-score-jobs-connections-at-dc-event
+
+Copyright Targeted News Services
+
+MSTRUCK-8529607 MSTRUCK
 
 
-Load-Date: July 10, 2024
+Load-Date: March 14, 2024
 
 
   

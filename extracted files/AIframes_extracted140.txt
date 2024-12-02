@@ -1,896 +1,1368 @@
 
 
-                                                                                                       Page 1 of 16
-                      NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
+                                                                                             Page 1 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
 
 
 
 
-        NCR Voyix Reports Second Quarter Results and Announces Strategic
-                                   Actions
-                                                    Business Wire
-                                       August 6, 2024 Tuesday 10:09 AM GMT
+Senate Armed Services Committee Hearing; The Nomination of Adm. Samuel
+     J. Paparo Jr. to be commander of the U.S. Indo-Pacific Command.;
+Testimony by Samuel Paparo, for reappointment to the grade of admiral and
+          to be Commander, United States Indo-Pacific Command
+                                           Congressional Documents and Publications
+                                                             February 1, 2024
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 6775 words
-Dateline: ATLANTA
+Section: U.S. SENATE DOCUMENTS
+Length: 14562 words
 
 Body
 
-NCR Voyix Corporation (NYSE: VYX) ("NCR Voyix" or the "Company"), a leading global provider of digital
-commerce solutions, reported financial results today for the three and six months ended June 30, 2024.
-
-"The strategic actions announced today support the continued realignment of our operating model to focus on our
-restaurant and retail customers and will enable us to improve our revenue and earnings growth over time," said
-David Wilkinson, NCR Voyix CEO.
-
-Q2 2024 Financial Results
-    •     GAAP Revenue was $876 million compared to $946 million in the prior year.
-    •     Normalized Revenue was $876 million compared to $928 million in the prior year.
-    •     Net loss from continuing operations attributable to NCR Voyix was $(74) million, compared with $(51)
-          million in the prior year.
-    •     Adjusted EBITDA was $144 million compared to $168 million in the prior year.
-    •     Normalized Adjusted EBITDA was $145 million compared to $183 million in the prior year.
-    •     Diluted EPS from continuing operations was $(0.54), non-GAAP diluted EPS was $0.09.
-    •     Software & Services Revenue was $656 million compared to $679 million in the prior year.
-    •     Normalized Software & Services Revenue was $656 million compared to $665 million in the prior year.
-    •     Total Segment ARR was $2.2 billion compared to $2.1 billion in the prior year.
-    •     Software ARR was $1.3 billion compared to $1.2 billion in the prior year.
-
-             In millions                 Q2      Q2      %          Q2 2024      Q2 2023    % Change
-                                         2024    2023    Chan       YTD          YTD
-                                         QTD     QTD     ge
-             Retail
-             Revenue                     $ 51    $ 55    (7     )   $ 1,008      $ 1,081    (7    )%
-                                           7       3            %
-             Adjusted EBITDA             $ 87    $ 11    (24    )      173            198   (13   )%
-
-                                                                                                        Page 2 of 16
-                   NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-                                                    5          %
-
-           Restaurants
-           Revenue                      $ 20     $ 22    (10   )    $ 403        $ 434        (7   )%
-                                          1        3           %
-           Adjusted EBITDA              $ 62     $ 51    22    %       117          95        23   %
-
-           Digital Banking
-           Revenue                      $ 15     $ 14    9     %    $ 301        $ 278        8    %
-                                          4        1
-           Adjusted EBITDA              $ 63     $ 54    17    %       117          103       14   %
-
-
-
-Strategic Announcements
-
-Today's announcements accelerate NCR Voyix's long-term strategic objective to optimize the Company's
-operations and drive shareholder value. The initial part of this multi-faceted plan was achieved in October 2023 with
-the completion of the spin-off of the Company's ATM business into an independent publicly traded company, NCR
-Atleos. Following the spin-off, the NCR Voyix Board continued efforts to streamline the business and sharpen the
-Company's focus to better serve its customers and drive value for shareholders.
-
-The proceeds of the Digital Banking transaction will primarily be used to reduce leverage on NCR Voyix's balance
-sheet. The Company expects its net leverage ratio to be approximately 2.0x net debt/Adjusted EBITDA on a pro
-forma basis after the completion of the aforementioned transactions and the pay-down of a portion of its debt. The
-Company is also executing a multi-phase cost alignment program that began with the elimination of approximately
-$75 million in annualized payroll costs, including operational and capitalized costs, as of the end of the second
-quarter. Further work is underway to identify an additional $30 million of annualized non-payroll spend expected to
-be eliminated from operational and capital costs once the Digital Banking transaction has closed and the
-outsourced design and manufacturing agreement has been implemented. This program contemplates an ongoing
-assessment of all costs.
-
-Together, it is anticipated that these actions will significantly reduce leverage, moderate the variability of hardware-
-related revenue beginning in 2025, align NCR Voyix's current operating costs to the new structure, and position the
-Company for accelerated revenue growth and margin expansion.
-
-Sale of Digital Banking Business to Veritas Capital
-    •   Veritas will acquire NCR Voyix's industry-leading Digital Banking business, which provides banks and
-        credit unions with a fully integrated and seamless customer experience for consumer and business
-        banking across channels, leveraging the largest independent platform of its kind in the United States. With
-        over 1,600 employees across seven global facilities, the digital banking business generated $579 million in
-        revenue in 2023 from approximately 1,300 financial institutions.
-    •   The purchase price consists of a cash payment of $2.45 billion and contingent consideration of up to $100
-        million in cash based on the achievement of the buyer's return at the time of any future exit.
-    •   The transaction is expected to close by year-end 2024, subject to customary closing conditions, including
-        regulatory approvals.
-    •   Goldman Sachs & Co. LLC served as financial advisor and King & Spalding LLP served as legal counsel to
-        NCR Voyix.
-
-New Commercial Agreement, Transitioning Point-of-Sale ("POS") and Self-Checkout ("SCO") Hardware to an
-Outsourced Design and Manufacturing ("ODM") Model
-    •   NCR Voyix will transition its POS and SCO hardware business to an ODM model with leading hardware
-        provider Ennoconn.
-
-                                                                                                       Page 3 of 16
-                     NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-    •     Once the agreement is implemented, NCR Voyix will continue to sell hardware to its customers as a sales
-          agent; however, all other aspects of the hardware sale, including design, manufacturing, and warranty of
-          the hardware, will be fulfilled by Ennoconn.
-    •     NCR Voyix expects to recognize only the net sales commissions related to hardware sales after the
-          agreement is implemented.
-
-NCR Voyix management will discuss the transactions on its second quarter earnings conference call today at 8:00
-a.m. Eastern Time, the details of which are described later in this release.
-
-Financial Outlook
-
-The Company is updating its full year 2024 guidance to reflect the strategic announcements described above,
-including the classification of our Digital Banking business as a discontinued operation beginning in the third quarter
-of fiscal 2024 as a result of the planned divestiture, which results in the removal of Digital Banking results from our
-outlook and results of operations for the full year and all prior periods, as follows:
-
-                                                                          Full Year
-        Software Revenue                                                  $1,000M - $1,020M
-        Services Revenue                                                  $1,040M - $1,060M
-        Hardware Revenue                                                  $765M - $780M
-        Total Revenue                                                     $2,805M - $2,860M
-        Adj. EBITDA (cont. ops.)                                          $355M - $375M
-        Adj. EBITDA (%)                                                   12.6% - 13.1%
-
-In addition, the Company is providing the following supplemental full year 2024 outlook on a pro forma basis to give
-effect to the divestiture of the Digital Banking business and the application of the proceeds from the sale to pay
-down outstanding indebtedness, the ongoing expense reduction actions and the transition of the Company's POS
-and SCO hardware businesses to an ODM model, as if all such transactions and actions had occurred on January
-1, 2024, in order to enhance investors' ability to evaluate and compare the Company's operations on a go-forward
-basis, reflecting the impact of these transactions and actions.
-        Pro Forma Impact on FY2024 Guidance (mid-point)   $ in millions
-        Pro Forma 2024 Revenue and Adjusted EBITDA
-        Software                                                                                 $ 1,010
-        Services                                                                                   1,040
-        Hardware (Commission)                                                                      100
-        Total Pro Forma Revenue                                                                  $ 2,150
-
-        Pro Forma Adj. EBITDA / Margin %                                                         $430 / ~20%
-        Anticipated Net Leverage Ratio                                                           ~2.0x
-
-        Proforma 2024 Cash Flow
-        Pro Forma Adj. EBITDA                                                                    $ 430
-        Pro Forma Capex                                                                            (135        )
-        Pro Forma Cash Interest                                                                    (55         )
-        Pro Forma Cash Taxes and Other                                                             (70         )
-        Pro Forma Adj. Free Cash Flow-Unrestricted                                               $ 170
-        Pro Forma Conversion Rate                                                                ~40%
-
-In this release, we use certain non-GAAP measures. These non-GAAP measures include "Adjusted EBITDA,"
-"Adjusted EBITDA Margin," "Non-GAAP diluted EPS," "Adjusted Free Cash Flow-Unrestricted," "Conversion Rate,"
-"Net Leverage Ratio," "Normalized Revenue," "Normalized Adjusted EBITDA," and "Normalized Adjusted EBITDA
-Margin," and others with the words "non-GAAP" or "normalized" in their titles. These non-GAAP measures are
-listed, described and reconciled for historic periods to their most directly comparable GAAP measures under the
-
-                                                                                                           Page 4 of 16
-                    NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-heading "Non-GAAP Financial Measures" later in this release. Our Adjusted EBITDA for historic periods after giving
-effect to the spin-off of NCR Atleos includes certain costs historically allocated to NCR Atleos that do not meet the
-definition of expenses related to discontinued operations for purposes of GAAP requirements regarding the
-reporting of discontinued operations. Accordingly, our guidance for Adjusted EBITDA in 2024 is more comparable to
-our historical Normalized Adjusted EBITDA, which includes an adjustment for these estimated costs. With respect
-to our Adjusted EBITDA outlook for full year 2024 on an actual and pro forma basis and our pro forma outlook for
-our anticipated Net Leverage Ratio, our Adjusted EBITDA Margin, our Adjusted Free Cash Flow-Unrestricted and
-our Conversion Rate, we do not provide a reconciliation of the GAAP measure because we are not able to predict
-with reasonable certainty the reconciling items that may affect the GAAP net income from continuing operations and
-GAAP cash flow provided by (used in) operating activities without unreasonable effort. The reconciling items are
-primarily the future impact of special tax items, capital structure transactions, restructuring, pension mark-to-market
-transactions, acquisitions or divestitures, or other events. These reconciling items are uncertain, depend on various
-factors and could significantly impact, either individually or in the aggregate, the GAAP measures. The Company
-also believes such reconciliations would imply a degree of precision that would be confusing or misleading to
-investors.
-
-Second Quarter 2024 Earnings Conference Call
-
-NCR Voyix management will host a conference call and webcast today at 8:00 a.m. Eastern Time to discuss the
-Company's results for the second quarter. Access to the webcast and the accompanying slides are available on the
-Investor Relations section of the Company's website at https://investor.ncrvoyix.com . Participants may access the
-live call by dialing 877-407-3088 (United States/Canada Toll-free) or +1 201-389-0927 (International Toll) and
-requesting to be connected to the conference call. A replay of the audio webcast will be archived on the Company's
-website following the live event.
-
-More information on the Company's second quarter earnings is available on the NCR Voyix Investor Relations
-section of the Company's website at https://investor.ncrvoyix.com .
-
-About NCR Voyix
-
-NCR Voyix Corporation (NYSE: VYX) is a leading global provider of digital commerce solutions for the retail,
-restaurant and digital banking industries. NCR Voyix transforms retail stores, restaurant systems and digital banking
-experiences with comprehensive, platform-led SaaS and services capabilities. NCR Voyix is headquartered in
-Atlanta, Georgia, with customers in more than 30 countries across the globe.
-
-Website: https://investor.ncrvoyix.com
-
-Twitter: https://www.x.com/ncr_voyix/
-
-Facebook: https://www.facebook.com/ncrcorp
-
-Instagram: https://www.instagram.com/ncrvoyix/
-
-LinkedIn: https://www.linkedin.com/company/ncrvoyix/
-
-YouTube: https://www.youtube.com/@ncrvoyix
-
-Cautionary Statements
-
-This release contains "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933,
-as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, pursuant to the safe harbor
-provisions of the Private Securities Litigation Reform Act of 1995 (the "Act"). Forward-looking statements use words
-such as "expect," "target," "anticipate," "outlook," "guidance," "intend," "plan," "confident," "believe," "will," "should,"
-"would," "potential," "positioning," "proposed," "planned," "objective," "likely," "could," "may," and words of similar
-meaning, as well as other words or expressions referencing future events, conditions or circumstances. We intend
-
-                                                                                                         Page 5 of 16
-                   NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements
-contained in the Act. Statements that describe or relate to the Company's plans, goals, intentions, strategies, or
-financial outlook, and statements that do not relate to historical or current fact, are examples of forward-looking
-statements. Examples of forward-looking statements in this release include, without limitation, statements
-regarding: our expectations of the announced strategic actions, including the divestiture of our digital banking
-business, the transition of our hardware business to an outsourced design and manufacturing model, and additional
-cost alignment initiatives, the anticipated benefits of such actions (including the achievement of our financial
-objectives) and the expected time period to realize the benefits of such actions, our anticipated future performance
-and expected debt pay-down, and statements regarding our pro forma capital structure. Forward-looking
-statements are not guarantees of future performance, and there are a number of important factors that could cause
-actual outcomes and results to differ materially from the results contemplated by such forward-looking statements,
-including those factors relating to: challenges with transforming and growing our business, including our ability to
-attract new customers, increase use of our platform by existing customers and cross-sell additional products and
-solutions; development and introduction of new, competitive solutions on a timely, cost-effective basis; our ability to
-compete effectively against new and existing competitors; our ability to maintain a consistently high level of
-customer service; our ability to successfully manage our profitability and cost reduction initiatives; integration of
-acquisitions and management of other strategic transactions; the potential strategic benefits, synergies or
-opportunities expected from the Spin-Off may not be realized or may take longer to realize than expected; any
-unforeseen tax liabilities or impacts resulting from the Spin-Off, requests, requirements or penalties imposed by any
-governmental authorities related to certain existing liabilities; domestic and global economic and credit conditions;
-downturn or consolidation in the financial services industry; difficulties and risks associated with developing and
-selling complex new solutions and enhancements, including those using artificial intelligence; risks and
-uncertainties associated with our payments-related business; disruptions in our data center hosting and public cloud
-facilities; any failures or delays in our efforts to modernize our information technology infrastructure; retention and
-attraction of key employees; defects, errors, installation difficulties or development delays; failure of third-party
-suppliers; a major natural disaster or catastrophic event; geopolitical and macroeconomic challenges or events or
-acts of terrorism; environmental exposures from historical manufacturing activities; the impact of cybersecurity
-incidents on our business, including the April 2023 ransomware incident, and efforts to prevent or mitigate such
-incidents and any related impacts on our operations; efforts to comply with applicable data protection and data
-privacy laws; our level of indebtedness; the terms governing our indebtedness; incurrence of additional debt or
-other liabilities or obligations; access to the capital markets and other sources of financing; our cash flow sufficiency
-to service our indebtedness; interest rate risks and increased costs of borrowings; the terms governing our trade
-receivables facility; the impact of certain changes in control relating to acceleration of our indebtedness; our
-obligations under other financing arrangements, or required repurchase of our senior unsecured notes; any
-lowering or withdrawal of the ratings assigned to our debt securities by rating agencies; unforeseen tax liabilities or
-changes in tax law; our failure to maintain effective internal control over financial reporting and disclosure controls
-and procedures and our ability to remediate material weaknesses in our internal control over financial reporting; the
-write down of the value of certain significant assets; allegations or claims by third parties that our products or
-services infringe on intellectual property rights of others, including claims against our customers and claims by our
-customers to defend and indemnify them with respect to such claims; protection of our intellectual property;
-changes to our tax rates and additional income tax liabilities; and uncertainties regarding regulations, lawsuits and
-other related matters; rights preferences and privileges of holders of our Series A Convertible Stock compared to
-the rights of our common stockholders; impact of the terms of our Series A Convertible Preferred Stock relating to
-voting power, share dilution and market price of our common stock; actions or proposals from stockholders that do
-not align with our business strategies or the interest of our stockholders; and other factors presented in "Item 1A-
-Risk Factors" of our most recent Annual Report on Form 10-K for the year ended December 31, 2023 and
-subsequent filings we make with the U.S. Securities and Exchange Commission ("SEC"), including our Quarterly
-Reports on Form 10-Q, which we advise you to review.
-
-Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect,
-actual results may vary materially from those set forth in the forward-looking statements. Any forward-looking
-statement speaks only as of the date on which it is made and should not be relied upon as representing our plans
-and expectations as of any subsequent date. The Company does not undertake any obligation to publicly update or
-
-                                                                                                       Page 6 of 16
-                   NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as
-required by law.
-
-Non-GAAP Financial Measures
-
-Non-GAAP Financial Measures. While the Company reports its results in accordance with Generally Accepted
-Accounting Principles in the United States, or GAAP, in this release the Company also uses the non-GAAP
-measures listed and described below. The Company's definitions and calculations of these non-GAAP measures
-may differ from similarly-titled measures reported by other companies and cannot, therefore, be compared with
-similarly-titled measures of other companies. These non-GAAP measures should not be considered as substitutes
-for, or superior to, results determined in accordance with GAAP.
-
-Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (Adjusted EBITDA) and Adjusted EBITDA
-margin. The Company determines Adjusted EBITDA for a given period based on its GAAP net income from
-continuing operations attributable to NCR Voyix plus interest expense, net; plus income tax expense (benefit); plus
-depreciation and amortization (excluding acquisition-related amortization of intangibles); plus stock-based
-compensation expense; plus other income (expense); plus pension mark-to-market adjustments and other special
-items, including amortization of acquisition-related intangibles, separation-related costs, cyber ransomware incident
-recovery costs (net of insurance recoveries), fraudulent ACH disbursements costs, transformation and restructuring
-charges (which includes integration, severance and other exit and disposal costs), acquisition-related costs, foreign
-currency devaluation related costs, and strategic initiative costs, among others. Separation-related costs include
-costs incurred as a result of the spin-off. Professional and other fees to effect the spin-off including separation
-management, organizational design, and legal fees have been classified within discontinued operations through
-October 16, 2023, the separation date. The Company also uses Adjusted EBITDA margin, which is calculated
-based on Adjusted EBITDA as a percentage of total revenue. The Company uses Adjusted EBITDA and Adjusted
-EBITDA margin to manage and measure the performance of its business segments. The Company also uses
-Adjusted EBITDA and Adjusted EBITDA margin to manage and determine the effectiveness of its business
-managers and as a basis for incentive compensation. The Company believes that Adjusted EBITDA and Adjusted
-EBITDA margin provide useful information to investors because they are indicators of the strength and performance
-of the Company's ongoing business operations, including its ability to fund discretionary spending such as capital
-expenditures, strategic acquisitions and other investments. Adjusted EBITDA and Adjusted EBITDA margin should
-not be considered as substitutes for, or superior to, net income from continuing operations attributable to NCR
-Voyix or net profit margin, respectively, under GAAP.
-
-Normalized Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (Normalized Adjusted
-EBITDA) and Normalized Revenue. The Company determines Normalized Adjusted EBITDA for a given period by
-further adjusting its Adjusted EBITDA for estimated costs historically allocated to NCR Atleos that do not meet the
-definition of expenses related to discontinued operations for purposes of GAAP requirements regarding the
-reporting of discontinued operations. Normalized Adjusted EBITDA and Normalized Revenue also removes
-revenue and for Normalized Adjusted EBITDA the costs associated with the transfer or pending transfer of NCR
-Atleos-related operations in all foreign countries that have not occurred by March 31, 2024 from Adjusted EBITDA.
-In addition, Normalized Adjusted EBITDA and Normalized Revenue adjusts for all divestitures that occurred in prior
-periods that are not treated as discontinued operations under GAAP. The Company uses Normalized Adjusted
-EBITDA and Normalized Revenue to estimate the performance of the continuing business following the spin-off.
-The Company believes that Normalized Adjusted EBITDA and Normalized Revenue provide useful information to
-investors because it is an indicator of the strength and performance of the Company's ongoing business operations
-following the spin-off and allow for more easy comparisons period over period.
-
-Non-GAAP Diluted Earnings Per Share (EPS). The Company determines Non-GAAP EPS by excluding, as
-applicable, pension mark-to-market adjustments, pension settlements, pension curtailments and pension special
-termination benefits, as well as other special items, including amortization of acquisition related intangibles, stock-
-based compensation expense, separation-related costs, cyber ransomware incident recovery costs, fraudulent ACH
-disbursements costs, strategic initiative costs, foreign currency devaluation costs, costs related to the disposal of
-businesses, and transformation and restructuring activities, from the Company's GAAP earnings per share. Due to
-
-                                                                                                       Page 7 of 16
-                   NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-the non-operational nature of these pension and other special items, the Company's management uses these non-
-GAAP measures to evaluate year-over-year operating performance. The Company believes this measure is useful
-for investors because it provides a more complete understanding of the Company's underlying operational
-performance, as well as consistency and comparability with the Company's past reports of financial results.
-
-Adjusted Free Cash Flow-Unrestricted and Conversion Rate. NCR Voyix management uses the non-GAAP
-measure called "adjusted free cash flow-unrestricted" and "conversion rate" to assess the financial performance of
-the Company. We define free cash flow as net cash provided by (used in) operating activities less capital
-expenditures for property, plant and equipment, less additions to capitalized software, plus/minus net reductions or
-reinvestments in the trade receivables facility due to fluctuations in the outstanding balance of receivables sold,
-restricted cash settlement activity, NCR Atleos settlement activity, net cash provided by (used in) environmental
-discontinued operations plus acquisition-related items, and plus pension contributions and settlements. NCR Atleos
-settlement activity relates to changes in amounts owed to and amounts due from NCR Atleos for activity related to
-items governed by the separation and distribution agreement. Activity from the commercial and transition services
-agreements are not included in this adjustment. We define conversion rate as adjusted free cash flow-unrestricted
-divided by Adjusted EBITDA. We believe adjusted free cash flow-unrestricted and conversion rate information is
-useful for investors because it relates the operating cash flows from the Company's continuing and discontinued
-operations to the capital that is spent to continue and improve business operations and the Company's ability to
-convert Adjusted EBITDA into free cash flow. In particular, free cash flow indicates the amount of cash available
-after capital expenditures for, among other things, investments in the Company's existing businesses, strategic
-acquisitions, and repayment of debt obligations. Free cash flow does not represent the residual cash flow available
-for discretionary expenditures, since there may be other non-discretionary expenditures that are not deducted from
-the measure. Free cash flow and conversion rate do not have uniform definitions under GAAP, and therefore the
-Company's definitions may differ from other companies' definitions of these measures. These non-GAAP measures
-should not be considered a substitute for, or superior to, cash flows from operating activities under GAAP.
-
-Net Debt and Net Leverage Ratio. NCR Voyix management uses non-GAAP measures called "net debt" and "net
-leverage ratio" to assess the financial performance of the Company. We define net debt as total debt minus cash
-and cash equivalents. NCR Voyix's management considers net debt to be an important measure of liquidity and an
-indicator of our ability to meet ongoing obligations. Net leverage ratio is calculated as net debt divided by last-
-twelve-months Adjusted EBITDA. NCR Voyix's management considers net leverage ratio to be an important
-indicator of the Company's indebtedness in relation to its operating performance. The Company's definition of net
-debt and net leverage ratio may differ from other companies' definitions of each measure, and each measure
-should not be considered a substitute for, or superior to, comparable GAAP metrics.
-
-Non-GAAP Pro Forma Outlook. The supplemental non-GAAP pro forma financial outlook in this press release is not
-necessarily indicative of the operating results of the Company were the divestiture of the Digital Banking business
-and the application of the proceeds from the sale to pay off outstanding indebtedness, the ongoing expense
-reduction actions and the transition of the Company's POS and SCO hardware businesses to an ODM model
-effected as of or before January 1, 2024 or of the operating results of the Company in the future. The supplemental
-non-GAAP pro forma financial outlook included in this press release is not pro forma information prepared in
-accordance with Article 11 of Regulation S-X of the SEC, and the preparation of information in accordance with
-Article 11 would result in a different presentation. The Company will publish historical pro forma financial
-information in accordance with Article 11 of Regulation S-X of the SEC to give effect to the divestiture of the Digital
-Banking business in connection with the closing of the transaction.
-
-Use of Certain Terms
-
-The term "recurring revenue" includes all revenue streams from contracts where there is a predictable revenue
-pattern that will occur at regular intervals with a relatively high degree of certainty. This includes hardware and
-software maintenance revenue, cloud revenue, payment processing revenue, interchange and network revenue,
-and certain professional services arrangements, as well as term-based software license arrangements that include
-customer termination rights.
-
-                                                                                                          Page 8 of 16
-                    NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-The term "annual recurring revenue" or "ARR" is recurring revenue, excluding software licenses (SWL) sold as a
-subscription, for the last three months times four. In addition, plus the rolling four quarters of term-based SWL
-arrangements that include customer termination rights.
-
-The term "Software ARR" includes recurring software license revenue, software maintenance revenue, SaaS
-revenue, standalone hosted contract revenue, professional services recurring revenue and payments revenue.
-
-The term "Software & Services Revenue" includes all software, services and payments revenue and excludes
-hardware revenue.
-
-The term "ARPU" means average recurring revenue per active user (digital banking).
-
-The term "platform sites" includes all sites for which we bill for use of our Commerce platform.
-
-The term "payment sites" includes all sites which utilizes NCR Voyix's payment processing capabilities.
-        Reconciliation of Net Income from Continuing Operations Attributable to NCR Voyix (GAAP) to Adjusted
-        Earnings Before Interest, Depreciation, Taxes and Amortization (Adjusted EBITDA)
-
-        $ in millions                                           Q2           Q2           Q2 2024       Q2 2023
-                                                                2024         2023         YTD           YTD
-                                                                QTD          QTD
-        Net Income (Loss) from Continuing Operations            $ (    )     $ (    )     $ (11     )   $ (12     )
-        Attributable to NCR Voyix (GAAP)                          7            5            3             3
-                                                                  4            1
-        Depreciation and amortization (excluding acquisition-     7            6             13            12
-        related amortization of intangibles)                      0            1             6             0
-        Acquisition-related amortization of intangibles           1            1             29            35
-                                                                  5            8
-        Interest expense                                          4            9             80            17
-                                                                  1            1                           4
-        Interest income                                           (    )       (    )        (3     )      (6     )
-                                                                  1            3
-        Acquisition-related costs                                 -            1             -             1
-        Income tax expense (benefit)                              2            7             10            12
-                                                                  4
-        Stock-based compensation expense                          1             2            27            50
-                                                                  4             5
-        Transformation and restructuring costs                    5             3            79            6
-                                                                  1
-        Separation costs                                          3             6            8             8
-        Loss (gain) on disposal of businesses                     (    )        (   )        (14    )      (7     )
-                                                                  7             4
-        Foreign currency devaluation                              -             -            15            -
-        Fraudulent ACH disbursements                              (    )        3            (2     )      5
-                                                                  1
-        Cyber ransomware incident recovery costs                  (    )        1            (4     )      11
-                                                                  4             1
-        Strategic initiatives                                     1             -            17            -
-                                                                  3
-        Adjusted EBITDA (Non-GAAP)                              $ 1          $ 1          $ 26          $ 28
-                                                                  4            6            5             6
-                                                                  4            8
-        Less: Divestitures(1)                                     -            (    )        -             (13    )
-                                                                               6
-        Less: NCR Atleos delayed country transfers                 1           (    )        2             (3     )
-                                                                               2
-        Plus: Estimated costs historically allocated to NCR        -           2             -             38
-
-                                                                                                      Page 9 of 16
-               NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-    Atleos                                                                 3
-    Normalized Adjusted EBITDA (Non-GAAP)                   $ 1          $ 1          $ 26          $ 30
-                                                              4            8            7             8
-                                                              5            3
-
-(       2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
-1       Austria-hardware divestitures?.
-)
-
-    Reconciliation of Revenue to Normalized Revenue
-
-    $ in millions                                              Q2        Q2           Q2          Q2 2023
-                                                               202       2023         2024        YTD
-                                                               4         QTD          YTD
-                                                               QTD
-    Revenue                                                    $ 8       $ 9          $ 1,7       $ 1,8
-                                                                 7         4            34          52
-                                                                 6         6
-    Less: Divestitures(1)                                        -         (     )       -           (29      )
-                                                                           1
-                                                                           4
-    Less: NCR Atleos delayed country transfers                    -        (     )       -           (6       )
-                                                                           4
-    Normalized Revenue                                         $ 8       $ 9          $ 1,7       $ 1,8
-                                                                 7         2            34          17
-                                                                 6         8
-(       2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
-1       Austria-hardware divestitures.
-)
-
-    Reconciliation of Software & Services Revenue to Normalized Software & Services Revenue
-
-    $ in millions                                              Q2        Q2           Q2          Q2 2023
-                                                               202       2023         2024        YTD
-                                                               4         QTD          YTD
-                                                               QTD
-    Software & Services Revenue                                $ 6       $ 6          $ 1,3       $ 1,3
-                                                                 5         7            18          23
-                                                                 6         9
-    Less: Divestitures(1)                                        -         (     )       -           (24      )
-                                                                           1
-                                                                           1
-    Less: NCR Atleos delayed country transfers                    -        (     )       -           (5       )
-                                                                           3
-    Normalized Software & Services Revenue                     $ 6       $ 6          $ 1,3       $ 1,2
-                                                                 5         6            18          94
-                                                                 6         5
-(       2023 Divestiture amounts shown in table represent the quarterly impact of the non-core payments and
-1       Austria-hardware divestitures.
-)
-Reconciliation of Diluted Earnings Per Share from Continuing Operations (GAAP) to    Non-GAAP Diluted
-Earnings Per Share from Continuing Operations (Non-GAAP)
-
-                                                                                     Q2 2024        Q2 2024
-                                                                                     QTD            YTD
-Diluted Earnings Per Share from Continuing Operations (GAAP)(1)                      $ (0.5  )      $ (0.8  )
-                                                                                       4              4
-Acquisition-related amortization of intangibles                                        0.10           0.17
-
-                                                                                                              Page 10 of 16
-                 NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-Stock-based compensation expense                                                          0.09                 0.17
-Transformation and restructuring costs                                                    0.31                 0.47
-Separation costs                                                                          0.02                 0.05
-Loss (gain) on disposal of businesses                                                     (0.0       )         (0.0       )
-                                                                                          4                    8
-Foreign currency devaluation                                                              0.01                 0.08
-Fraudulent ACH disbursements                                                              (0.0       )         (0.0       )
-                                                                                          1                    1
-Cyber ransomware incident recovery costs                                                  (0.0       )         (0.0       )
-                                                                                          2                    2
-Strategic initiatives                                                                     0.09                 0.10
-Diluted Earnings Per Share from Continuing Operations (Non-GAAP)(1)                     $ 0.09               $ 0.22
-
-(        Non-GAAP diluted EPS is determined using the conversion of the Series A Convertible Preferred Stock
-1        into common stock in the calculation of weighted average diluted shares outstanding. GAAP EPS is
-)        determined using the most dilutive measure, either including the impact of dividends or deemed dividends
-         on the Company's Series A Convertible Preferred Stock in the calculation of net income or loss available to
-         common stockholders or including the impact of the conversion of the Series A Convertible Preferred Stock
-         into common stock in the calculation of the weighted average diluted shares outstanding. Therefore, GAAP
-         diluted EPS and non-GAAP diluted EPS may not mathematically reconcile.
-    $ in millions                                                Q2 2024        Q2          Q2 2024               Q2
-                                                                 QTD            2024        YTD                   2024
-                                                                                QTD                               YTD
-                                                                                Non-                              Non-
-                                                                                GAA                               GAA
-                                                                                P                                 P
-    Income (loss) from continuing operations attributable to
-    NCR Voyix common stockholders
-    Income (loss) from continuing operations (attributable to    $ (74     )    $ 14        $ (11        )        $ 36
-    NCR Voyix)                                                                                3
-    Dividends on convertible preferred shares                      (4      )      -           (8         )          -
-    Income (loss) from continuing operations attributable to     $ (78     )    $ 14        $ (12        )        $ 36
-    NCR Voyix common stockholders                                                             1
-    Weighted average outstanding shares:
-    Weighted average diluted shares outstanding                     14            14           14                   14
-                                                                    5.0           7.2          4.3                  7.1
-    Weighted as-if converted preferred shares                       -             15.          -                    15.
-                                                                                  9                                 9
-    Total shares used in diluted earnings per share                14             16          14                    16
-                                                                   5.0            3.1         4.3                   3.0
-    Diluted earnings per share from continuing operations        $ (0.     )    $ 0.0       $ (0.        )        $ 0.2
-                                                                   54             9           84                    2
-    NCR VOYIX CORPORATION CONSOLIDATED STATEMENTS OF OPERATIONS                                              Schedule A
-    (Unaudited) (in millions, except per share amounts)
-                                                         For the Period Ended June 30
-                                                         Three Months                Six Months
-                                                           20             20            20                   20
-                                                           24             23            24                   23
-       Revenue
-       Product                                           $ 25          $ 31            $ 48              $ 59
-                                                           6             1               8                 9
-       Service                                             62            63              1,2               1,2
-                                                           0             5               46                53
-       Total Revenue                                       87            94              1,7               1,8
-                                                           6             6               34                52
-       Cost of products                                    23            26              43                53
-
-                                                                                          Page 11 of 16
-        NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-                                                     2           9           1           6
-Cost of services                                     45          41          91          82
-                                                     3           3           6           8
-Total gross margin                                   19          26          38          48
-                                                     1           4           7           8
-% of Revenue                                         21.   %     27.   %     22.   %     26.   %
-                                                     8           9           3           3
-Selling, general and administrative expenses         14          16          27          32
-                                                     0           7           1           2
-Research and development expenses                    55          42          11          91
-                                                                             5
-Income (loss) from operations                        (4    )     55          1           75
-% of Revenue                                         (0.   )     5.8   %     0.1   %     4.0   %
-                                                     5     %
-Interest expense                                     (41   )     (91   )     (80   )     (17   )
-                                                                                         4
-Other income (expense), net                          (5    )     (8    )     (25   )     (12   )
-Total interest and other expense, net                (46   )     (99   )     (10   )     (18   )
-                                                                             5           6
-Income (loss) from continuing operations             (50   )     (44   )     (10   )     (11   )
-before income taxes                                                          4           1
-% of Revenue                                         (5.   )     (4.   )     (6.   )     (6.   )
-                                                     7     %     7     %     0     %     0     %
-Income tax expense (benefit)                         24          7           10          12
-Income (loss) from continuing operations             (74   )     (51   )     (11   )     (12   )
-                                                                             4           3
-Income (loss) from discontinued operations,          1           67          -           14
-net of tax                                                                               7
-Net income (loss)                                    (73   )     16          (11   )     24
-                                                                             4
-Net income (loss) attributable to noncontrolling     -           -           (1    )     -
-interests
-Net income (loss) attributable to noncontrolling     -           (1    )     -           -
-interests of discontinued operations
-Net income (loss) attributable to NCR Voyix        $ (73   )   $ 17        $ (11   )   $ 24
-                                                                             3
-Amounts attributable to NCR Voyix common
-stockholders:
-Income (loss) from continuing operations           $ (74   )   $ (51   )   $ (11   )   $ (12   )
-                                                                             3           3
-Dividends on convertible preferred stock             (4    )     (4    )     (8    )     (8    )
-Income (loss) from continuing operations             (78   )     (55   )     (12   )     (13   )
-attributable to NCR Voyix common                                             1           1
-stockholders
-Income (loss) from discontinued operations,          1           68          -           14
-net of tax                                                                               7
-Net income (loss) attributable to NCR Voyix        $ (77   )   $ 13        $ (12   )   $ 16
-common stockholders                                                          1
-Income (loss) per share attributable to NCR
-Voyix common stockholders:
-Income (loss) per common share from
-continuing operations
-Basic                                              $ (0.   )   $ (0.   )   $ (0.   )   $ (0.   )
-                                                     54          39          84          94
-Diluted (1)                                        $ (0.   )   $ (0.   )   $ (0.   )   $ (0.   )
-                                                     54          39          84          94
-Net income (loss) per common share
-
-                                                                                                               Page 12 of 16
-              NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-      Basic                                            $ (0.    )       $ 0.0         $ (0.          )       $ 0.1
-                                                         53               9             84                     1
-      Diluted (1)                                      $ (0.    )       $ 0.0         $ (0.          )       $ 0.1
-                                                         53               9             84                     1
-      Weighted average common shares
-      outstanding
-      Basic                                               14                14             14                  14
-                                                          5.0               0.4            4.3                 0.0
-      Diluted (1)                                         14                14             14                  14
-                                                          5.0               0.4            4.3                 0.0
-
-(       Diluted EPS is determined using the most dilutive measure, either including the impact of the dividends and
-1       deemed dividends on the Company's Series A Convertible Preferred Shares in the calculation of net
-)       income or loss per common share from continuing operations and net income or loss per common share or
-        including the impact of the conversion of such preferred stock into common stock in the calculation of the
-        weighted average diluted shares outstanding.
-    NCR VOYIX CORPORATION           REVENUE AND ADJUSTED EBITDA SUMMARY                                       Schedule B
-    (Unaudited) (in millions)
-
-                                           For the Period Ended June 30
-                                           Three Months                       Six Months
-                                             2            2      %               2               2             %
-                                             0            0      Ch              0               0             Chan
-                                             2            2      an              2               2             ge
-                                             4            3      ge              4               3
-      Revenue by segment
-      Retail                               $ 5         $ 5          ( )       $ 1           $ 1                ( )%
-                                             1           5          7 %         ,             ,                7
-                                             7           3                      0             0
-                                                                                0             8
-                                                                                8             1
-      Restaurants                             2           2         ( )         4             4                ( )%
-                                              0           2         1 %         0             3                7
-                                              1           3         0           3             4
-      Digital Banking                         1           1         9 %         3             2                8 %
-                                              5           4                     0             7
-                                              4           1                     1             8
-      Corporate and Other(1)                  4           2         (   )       2             5                ( )%
-                                                          9         8   %       2             9                6
-                                                                    6                                          3
-      Total revenue                        $ 8         $ 9          (   )     $ 1           $ 1                ( )%
-                                             7           4          7   %       ,             ,                6
-                                             6           6                      7             8
-                                                                                3             5
-                                                                                4             2
-
-      Adjusted EBITDA by segment
-      Retail                               $ 8         $ 1          ( )       $ 1           $ 1                ( )%
-                                             7           1          2 %         7             9                1
-                                                         5          4           3             8                3
-      Retail Adjusted EBITDA margin %         1 %        2 %                    1   %         1          %
-                                              6          0                      7             8
-                                              .          .                      .             .
-                                              8          8                      2             3
-      Restaurants                             6          5          2 %         1             9                2 %
-                                              2          1          2           1             5                3
-                                                                                7
-      Restaurants Adjusted EBITDA             3 %         2 %                   2   %            2       %
-      margin %                                0           2                     9                1
-
-                                                                                                         Page 13 of 16
-             NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-                                              .           .                   .            .
-                                              8           9                   0            9
-     Digital Banking                          6           5        1 %        1            1            1 %
-                                              3           4        7          1            0            4
-                                                                              7            3
-     Digital Banking Adjusted EBITDA         4 %         3 %                  3    %       3        %
-     margin %                                0           8                    8            7
-                                             .           .                    .            .
-                                             9           3                    9            1
-     Segment Adjusted EBITDA               $ 2         $ 2         ( )      $ 4          $ 3            3 %
-                                             1           2         4 %        0            9
-                                             2           0                    7            6
-     Segment Adjusted EBITDA margin          2 %         2 %                  2    %       2        %
-     %                                       4           4                    3            2
-                                             .           .                    .            .
-                                             3           0                    8            1
-     Corporate and Other(1)                  ( )         ( )       3 %        (    )       (        )   2 %
-                                             6           5         1          1            1            9
-                                             8           2                    4            1
-                                                                              2            0
-     Total Adjusted EBITDA                 $ 1         $ 1         ( )      $ 2          $ 2            ( )%
-                                             4           6         1 %        6            8            7
-                                             4           8         4          5            6
-     Total Adjusted EBITDA margin %          1 %         1 %                  1    %       1        %
-                                             6           7                    5            5
-                                             .           .                    .            .
-                                             4           8                    3            4
-(      Corporate and Other includes income and expenses related to corporate functions that are not specifically
-1      attributable to any of our three individual reportable segments along with certain non-strategic businesses
-)      that are considered immaterial operating segment(s) and certain countries which are expected to transfer
-       to NCR Atleos during the remainder of 2024, as well as commercial agreements with NCR Atleos.
-    NCR VOYIX CORPORATION CONSOLIDATED BALANCE SHEETS                         (Unaudited)     (in       Schedule C
-    millions, except per share amounts)
-
-In millions, except per share amounts                                                  June 30,         December
-                                                                                       2024             31, 2023
-Assets
-Current assets
-Cash and cash equivalents                                                              $ 204            $ 261
-Accounts receivable, net of allowances of $23 and $29 as of June 30, 2024 and            429              472
-December 31, 2023, respectively
-Inventories                                                                                 220           250
-Restricted cash                                                                             24            21
-Prepaid and other current assets                                                            187           187
-Current assets of discontinued operations                                                   -             15
-Total current assets                                                                        1,06          1,20
-                                                                                            4             6
-Property, plant and equipment, net                                                          205           212
-Goodwill                                                                                    2,03          2,04
-                                                                                            8             0
-Intangibles, net                                                                            261           291
-Operating lease assets                                                                      233           236
-Prepaid pension cost                                                                        40            43
-Deferred income taxes                                                                       244           239
-Other assets                                                                                698           715
-Noncurrent assets of discontinued operations                                                -           $ 8
-
-                                                                                                          Page 14 of 16
-               NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-Total assets                                                                        $ 4,78               $ 4,99
-                                                                                      3                    0
-Liabilities and stockholders' equity (deficit)
-Current liabilities
-Short-term borrowings                                                               $ 15                 $ 15
-Accounts payable                                                                      478                  504
-Payroll and benefits liabilities                                                      93                   148
-Contract liabilities                                                                  230                  187
-Settlement liabilities                                                                51                   39
-Other current liabilities                                                             387                  425
-Current liabilities of discontinued operations                                        -                    15
-Total current liabilities                                                             1,25                 1,33
-                                                                                      4                    3
-Long-term debt                                                                        2,59                 2,56
-                                                                                      5                    3
-Pension and indemnity plan liabilities                                                157                  161
-Postretirement and postemployment benefits liabilities                                45                   43
-Income tax accruals                                                                   66                   64
-Operating lease liabilities                                                           252                  254
-Other liabilities                                                                     225                  259
-Noncurrent liabilities of discontinued operations                                     -                    12
-Total liabilities                                                                     4,59                 4,68
-                                                                                      4                    9
-Commitments and Contingencies (Note 10)
-Series A convertible preferred stock: par value $0.01 per share, 3.0 shares           276                   276
-authorized, 0.3 shares issued and outstanding as of June 30, 2024 and December
-31, 2023; redemption amount and liquidation preference of $276 as of June 30,
-2024 and December 31, 2023
-Stockholders' equity (deficit)
-NCR Voyix stockholders' equity (deficit)
-Preferred stock: par value $0.01 per share, 100.0 shares authorized, no shares        -                     -
-issued and outstanding as of June 30, 2024 and December 31, 2023, respectively
-Common stock: par value $0.01 per share, 500.0 shares authorized, 145.1 and           1                     1
-142.6 shares issued and outstanding as of June 30, 2024 and December 31, 2023,
-respectively
-Paid-in capital                                                                       899                  874
-Retained earnings (deficit)                                                           (517       )         (421   )
-Accumulated other comprehensive loss                                                  (468       )         (429   )
-Total NCR Voyix stockholders' equity (deficit)                                        (85        )         25
-Noncontrolling interests in subsidiaries                                              (2         )         -
-Total stockholders' equity (deficit)                                                  (87        )         25
-Total liabilities and stockholders' equity (deficit)                                $ 4,78               $ 4,99
-                                                                                      3                    0
-  NCR VOYIX CORPORATION             CONSOLIDATED STATEMENTS OF CASH FLOWS                                Schedule D
-  (Unaudited) (in millions)
-
-
- In millions                                                                    Six months ended June 30
-                                                                                20              20
-                                                                                24              23
- Operating activities
- Net income (loss)                                                              $    (11     )       $      24
-                                                                                     4
- Adjustments to reconcile net income (loss) to net cash provided by (used in)
-
-                                                                                                     Page 15 of 16
-                   NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-       operating activities:
-       Depreciation and amortization                                                   16              30
-                                                                                       7               6
-       Stock-based compensation expense                                                27              68
-       Deferred income taxes                                                           (8    )         15
-       Impairment of other assets                                                      5               1
-       Loss (gain) on disposal of property, plant and equipment and other assets       -               1
-       (Gain) loss on divestiture                                                      (14   )         (8    )
-       Changes in assets and liabilities:
-       Receivables                                                                     61              96
-       Inventories                                                                     31              21
-       Current payables and accrued expenses                                           (52   )         (10   )
-                                                                                                       4
-       Contract liabilities                                                            41              25
-       Employee benefit plans                                                          (3    )         (24   )
-       Other assets and liabilities                                                    (11   )         11
-                                                                                       4               7
-       Net cash provided by (used in) operating activities                         $   27        $     53
-                                                                                                       8
-       Investing activities
-       Expenditures for property, plant and equipment                              $   (21   )   $     (70   )
-       Proceeds from sale of property, plant and equipment and other assets            -               8
-       Additions to capitalized software                                               (10   )         (13   )
-                                                                                       4               4
-       Business acquisitions, net of cash acquired                                     -               (6    )
-       Proceeds from divestiture, net                                                  14              8
-       Proceeds from disposition of corporate-owned life insurance policies            30              -
-       Net cash provided by (used in) investing activities                         $   (81   )   $     (19   )
-                                                                                                       4
-       Financing activities
-       Payments on term credit facilities                                              (8    )         (50   )
-       Payments on revolving credit facilities                                         (37   )         (92   )
-                                                                                       4               7
-       Borrowings on revolving credit facilities                                       41              73
-                                                                                       2               2
-       Payments on other financing arrangements                                        -               (2    )
-       Cash dividend paid for Series A preferred shares dividends                      (8    )         (8    )
-       Proceeds from employee stock plans                                              7               14
-       Tax withholding payments on behalf of employees                                 (9    )         (16   )
-       Principal payments for finance lease obligations                                (5    )         (9    )
-       Net cash provided by (used in) financing activities                         $   15        $     (26   )
-                                                                                                       6
-       Effect of exchange rate changes on cash, cash equivalents and restricted        (14   )         (8    )
-       cash
-       Increase (decrease) in cash, cash equivalents, and restricted cash          $   (53   )   $     70
-       Cash, cash equivalents and restricted cash at beginning of period               28              74
-                                                                                       5               0
-       Cash, cash equivalents, and restricted cash at end of period                $   23        $     81
-                                                                                       2               0
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240806568036/en/
-
-
-CONTACT: News Media Contact
-
-                                                                                               Page 16 of 16
-                    NCR Voyix Reports Second Quarter Results and Announces Strategic Actions
-
-Susan Sloan
-
-media.relations@ncrvoyix.com Investor Contact
-Alan Katz
-
-alan.katz@ncrvoyix.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 6, 2024
+
+Duties and Qualifications
+
+1. What is your understanding of the duties and functions of the Commander, U.S. Indo-Pacific Command
+(INDOPACOM)?
+
+The Commander, U.S. Indo-Pacific Command, has a duty to deter attacks against the United States, to protect
+Americans and American interests and, if deterrence fails, win our nation's wars. These duties are underpinned by
+dynamic combat capability and include expanding security cooperation with our allies and partners across the Indo-
+Pacific region and at all times being prepared to defend allies according to mutual defense treaties and agreements.
+
+2. What background and experience do you possess that qualify you to perform these duties?
+
+As Commander, U.S. Pacific Fleet, I lead the maritime component of the joint force in the Indo-Pacific. I also
+integrate the day-to-day operations and activities of the joint force as the designated Supported Commander for all
+deterrence west of the International Date Line (IDL). My 37 years of service in a broad range assignments and
+locations - including multiple tours with the joint force - prepared me for this duty. My key operational tours include
+serving as Commander, Naval Forces Central Command/U.S. Fifth Fleet, U.S. CENTCOM Director of Operations
+and Battle Director at the Combined Air and Space Operations Center in Qatar. I also served with the U.S. Air
+Force flying the F-15C and served with the U.S. Army commanding a Provincial Reconstruction Team in Nuristan,
+Afghanistan. I have had operational command in Japan deploying, sailing and flying throughout the Pacific and
+Indian Ocean regions.
+
+Major Challenges and Priorities
+
+3. In your view, what are the major challenges that will confront the next INDOPACOM Commander?
+
+The People's Republic of China (PRC) remains the pacing challenge in the United States' priority theater. The PRC
+is the only country in the world with the will, and increasingly the capability, to erode the rules-based international
+
+                                                                                             Page 2 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+order by undermining fundamental principles of sovereignty, freedom, and transparency. I expect the PRC's
+coercive behavior will continue to be a major challenge in the region as it threatens, destabilizes, and sows
+disorder. Russia's illegal and unprovoked war on Ukraine and the Democratic Republic of Korea's (DPRK) malign
+activity are additional sources of concern. Additionally, the Indo-Pacific region experiences frequent natural and
+manmade disasters, the negative impacts of climate change, rapid population growth, drug and human trafficking,
+and risks from disease and pandemics.
+
+4. If confirmed, what plans do you have for addressing these challenges?
+
+If confirmed, I will ensure that forces in USINDOPACOM are both credible and lethal, and are synchronized with
+diplomatic, development, and economic means in furtherance of the National Security Strategy and NDS.
+USINDOPACOM's Independent Assessment to Congress is a foundational document that provides the Indo-Pacific
+"To Be" strategy to advance the NDS priorities. If confirmed, I will assess capabilities and capacity in lethality, force
+design and posture, logistics, exercises and experimentation, and focus on strengthening our alliances and
+partnerships for an effective, integrated joint force throughout the Indo-Pacific.
+
+5. If confirmed, what broad priorities would you establish in terms of issues that must be addressed?
+
+If confirmed, my priority will be to execute credible military deterrence coupled with an overmatching combat
+capability against our competitors to maintain stability, peace, and prosperity in the region. I will also prioritize
+increasing US leadership decision space and increase doubt in any competitor's ability to meet their objectives
+through military means.
+
+Chain of Command
+
+In accordance with title 10, United States Code, the President and Secretary of Defense exercise authority,
+direction, and control of the Armed Forces through two distinct branches of the chain of command. One branch runs
+from the President, through the Secretary of Defense, to the combatant commanders for the execution of missions
+with forces assigned to their commands. For purposes of organizing, training, and equipping forces, the chain of
+command runs from the President, to the Secretary of Defense, to the Secretaries of the Military Departments.
+
+6. Do you believe this dual structure provides for clear and effective chain of command?
+
+Yes. I have worked in this dual structure at both military service and joint commands. It is effective, practical, and
+clearly understood throughout the Department.
+
+7. If confirmed as a Combatant Commander, on what types of issues and decisions would you coordinate with the
+Chairman of the Joint Chiefs and civilian officials within the Department of Defense?
+
+If confirmed, I will perform my duties under the authority, direction, and control of the Secretary of Defense.
+
+If confirmed, I will work with the Secretary of Defense, OSD, as well as the Chairman and the Joint Chiefs of Staff to
+ensure I have the guidance and alignment to carry out the mission of USINDOPACOM. I will maintain a close
+relationship with the other functional and geographic combatant commanders to ensure applicable national and
+defense strategic guidance execution is characterized by mutual support, frequent contact, and productive
+information exchanges on critical issues.
+
+The successful execution of USINDOPACOM's mission responsibilities also requires coordination with the Service
+Chiefs. The Service Chiefs are valuable sources of judgment and advice for the combatant commanders. If
+confirmed, I will provide frank and transparent explanations of my most pressing warfighting requirements through
+direct consultation with each Chief as their staff prepare and develop their budget profiles.
+
+2022 National Defense Strategy
+
+                                                                                             Page 3 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+The 2022 National Defense Strategy (NDS) identified China as the "most consequential strategic competitor and
+the pacing challenge for the Department." The NDS also identifies "[m]utually-beneficial Alliances and partnerships"
+as "an enduring strength for the United States."
+
+8. In your view, does the 2022 NDS accurately assess the current strategic environment, including prioritization
+among the most critical challenges and enduring threats to the national security of the United States and its allies?
+Please explain your answer.
+
+Yes. The National Defense Strategy (NDS) assessment of the strategic environment and the prioritization of
+challenges and threats remains valid. Despite economic headwinds, the PRC has maintained its military
+investments and remains our pacing threat. The PRC continues to modernize; grow its forces, both nuclear and
+conventional; and execute military operations, diplomatic initiatives, and economic and legal coercion that
+challenges and seeks to undermine a free and open Indo-Pacific.
+
+9. In your view, does the 2022 NDS correctly specify the priority missions of the DOD and the capabilities by which
+DOD can achieve its objectives in the context of the current strategic environment? What do you perceive as the
+areas of greatest risk?
+
+The four priority missions remain relevant: defend the homeland; deter strategic attack; deter aggression; and build
+a resilient force - all framed by the PRC as the pacing challenge. With regard to deterring aggression, the NDS
+identifies forward posture and campaigning as the primary approaches to maintaining deterrence. We have
+remained focused on the PRC as the pacing challenge in the Indo-Pacific and remain acutely attuned to advances
+in PLA modernization and coercive behavior. Posture, campaigning, and the delivery of advanced capabilities, like
+the Guam Defense System and the Joint Fires Network, are crucial to bolstering deterrence in the Indo-Pacific.
+
+10. In your view, what capabilities do you believe the Joint Force in the INDOPACOM area of responsibility (AOR)
+need to prevail in competition with China, as described by the NDS?
+
+The USINDOPACOM AOR requires capabilities that support a more forward, more persistent, and more lethal joint
+force that can rapidly respond to crisis and conflict alongside more capable allies and partners. These capabilities
+are required to protect the joint force; operate in contested space; improve all domain battlespace awareness;
+employ integrated fires; support forward forces with sustainable theater-based logistics; facilitate high-end, joint
+training in theater; establish a more forward, more distributed posture; advance ally and partner interoperability; and
+strengthen the resilience of the USINDOPACOM Headquarters. A more detailed list requires classified discussion.
+
+11. If confirmed, how would you address any gaps or shortfalls in the ability of INDOPACOM to meet the demands
+placed on it by the 2022 NDS and the operational plans that implement the strategy?
+
+If confirmed, USINDOPACOM will address gaps and shortfalls as informed by the capabilities and activities of our
+adversaries, the strategic and operational environment, and our own strengths and weaknesses. We will identify the
+resources required to implement the National Defense Strategy, focused on integrated deterrence against the PRC
+as the pacing challenge. We will work closely with the Department and Congress to ensure the resources are
+committed to continue modernizing critical capabilities, updating our posture, refining our operations, and
+strengthening our allies and partners to accomplish the mission.
+
+Joint Concept for Competing
+
+The Joint Concept for Competing published by the Joint Staff in February 2023 warns that U.S. adversaries intend
+to "win without fighting" and that "by ignoring the threat of strategic competition, the United States risks ceding
+strategic influence, advantage, and leverage while preparing for a war that never occurs."
+
+12. In your view, how does the Joint Concept for Competing relate to the Indo-Pacific region and, specifically, our
+strategic competition with China?
+
+                                                                                             Page 4 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+Successful competition with our adversaries requires an integrated, whole-of-government approach.
+USINDOPACOM is preparing for a wide spectrum of competition to conflict contingencies and can respond as a
+leader in the Indo-Pacific does: deliberately, proportionally, and reliably to bolster stability. In addition to seamless
+integration across the joint force and U.S. interagency, we must remain aligned with our allies and partners. The
+ability to continuously integrate and improve coalitions of like-minded nations is significant to our competitive
+advantage and demands consistent engagement across the Indo-Pacific.
+
+13. Do you believe additional resources or new authorities for INDOPACOM are required to effectively compete
+with China as envisioned by the Joint Concept for Competing?
+
+I assess USINDOPACOM's Independent Assessment to Congress outlined the resources required to deter and
+compete with the PRC. If confirmed, I will continuously assess resources and authorities as informed by the
+capabilities and activities of our adversaries, the strategic and operational environment, and our own strengths and
+weaknesses.
+
+14. In your view, what non-military elements of national power need to be strengthened to effectively compete with
+China?
+
+Competing with the PRC requires strengthening, aligning, and strategically employing all elements of national
+power. We must tirelessly and purposefully compete in economic, diplomatic, military, and information spaces to be
+effective against the PRC.
+
+Force Posture
+
+15. In your view, is the current U.S. force posture in the Indo-Pacific region sufficient to support our security strategy
+in the region? How would you restructure U.S. security posture in the Indo-Pacific best to compete with China,
+reassure allies and partners, and deter Chinese aggression? Please explain your answer.
+
+Yes. The forward bases and rotational joint force provide persistent, combat-credible presence throughout the
+western Pacific. This is the most effective way the military can demonstrate our commitment and resolve to
+competitors, deter aggression, and assure allies and partners. Forward posture locations must be capable of
+supporting operations and exercises, as well as projecting combat power. Distributing a forward-deployed, joint
+force across the battlespace, while balancing lethality and survivability, demonstrates the capability, capacity, and
+design to rapidly and seamlessly transition from competition to crisis or conflict. If confirmed, I will continuously
+assess force posture and report to this committee.
+
+16. How important is a forward basing strategy to the ability of INDOPACOM to execute its day-to-day mission?
+What about its operational contingency plans?
+
+Sufficient capability, postured forward to deter with the capacity and readiness to respond should deterrence fail, is
+essential. The force posture recommendations identified in the USINDOPACOM Commander's Independent
+Assessment provide the foundation for an integrated joint force west of the IDL and improvement in interoperability
+with our regional allies and partners. If confirmed, I will continuously assess the effectiveness of forward basing and
+regularly report to this committee.
+
+17. In your assessment, does DOD need to invest in a wider range of primary bases as well as alternate operating
+locations throughout the Indo-Pacific?
+
+The Indo-Pacific geography is vast and access throughout the region is essential, requiring close coordination with
+our allies and partners. The Department's global posture review highlighted the imperative to focus on a broad
+range of basing options and alternatives for persistent presence of forward-based and rotational joint forces west of
+the IDL. If confirmed, I will continuously assess the effectiveness of forward basing and regularly report to this
+committee.
+
+                                                                                             Page 5 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+18. In the event of a contingency, do you have any concerns about the timing and readiness of follow-on forces
+arriving in INDOPACOM to meet operational plans? If yes, what are they and how can they be resolved?
+
+Contingency response requires ready and on-time forces. I am always concerned about manning, training, and
+equipping all of our follow-on forces. Credible deterrence is based on a highly trained, properly equipped, quick-
+response and surge force. If confirmed, I will continue to advocate for the necessary forward-deployed forces and
+the associated readiness to meet our nation's most pressing requirements. I will also continue to advocate for
+improvements in strategic sea and airlift to reduce the timeline necessary for surge forces to arrive in the theater.
+
+19. Do you believe that INDOPACOM is adequately prepared to execute concurrent operational plans? If not, then
+what do you believe are the necessary measures to be able to do so?
+
+I assess USINDOPACOM would require additional resources to execute concurrent operational plans against the
+pacing challenge. The vast expanse of the Indo-Pacific makes projecting and sustaining combat power challenging.
+If confirmed, I will assess current posture and readiness and identify options for improvement. Additional funding for
+service exercises, such as U.S. Army Pacific Command's Pacific Pathways, allows our forces to be deployed
+consistently within the First Island Chain and throughout the theater. These actions would buy down operational risk
+by reducing lift requirements, posturing the right forces in place at the right time to provide effects, and
+demonstrating a combat credible force to deter aggression.
+
+20. How do you view the relative value of permanent versus rotational forces in the INDOPACOM AOR?
+
+Permanent, forward-based forces provide the most visible sign of U.S. resolve and commitment to supporting
+regional peace and stability. Rotational forces allow us to maintain a high level of readiness without sacrificing the
+ability to respond quickly and effectively to contingencies. USINDOPACOM requires a mix of rotational and
+permanently stationed forces and a recalibrated force posture to be able to mass effects and to be flexible and
+responsive to changes in the strategic environment.
+
+21. How does the planned relocation of U.S. forces from Okinawa to Guam and other locations in the Pacific relate
+to U.S. security objectives in the INDOPACOM AOR?
+
+The Defense Policy Review Initiative (DPRI) strengthens our alliance with Japan and maintains the right permanent
+forces that enhance our deterrence and interoperability, while ensuring the joint force is prepared to fight and win
+should deterrence fail. It allows the joint force to disperse and enable quicker responses to areas outside Okinawa.
+Additionally, the relocation to Guam also provides increased training opportunities with allies and partners. The
+Department, along with the Government of Japan, has committed more than $7B for military construction and family
+housing projects on Guam in FY22-FY28 to meet our commitment with Japan under the DPRI. This investment in
+Guam, which is home to 170,000 American citizens, highlights the importance of the island for sustaining the joint
+force as a main operating base.
+
+22. Do you believe the INDOPACOM commander has adequate numbers of airborne intelligence, surveillance, and
+reconnaissance assets available to meet requirements in the event of war?
+
+The joint force requires persistent, redundant, resilient, and reliable intelligence, surveillance and reconnaissance
+(ISR). Presently, our ISR requirements are best provided by airborne ISR assets supported by national technical
+means. If confirmed, I will work with the joint force, services, and across the government to assess how we can
+improve our ISR capabilities, capacity, and coverage.
+
+Joint Force Requirements
+
+23. What, if any, are the major U.S. capability or capacity gaps you assess in the INDOPACOM theater that are
+needed to enhance deterrence against Chinese aggression?
+
+To compete and defend U.S. interests, the most critical capabilities are those that address the gaps in force
+protection, Homeland Defense, joint force lethality, long range precision fires, IAMD (integrated air and missile
+
+                                                                                             Page 6 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+defense), ISR (intelligence, surveillance, and reconnaissance), training, and logistics enablers. Additionally, we
+must enable modernized integration and information sharing across all domains with our allies and partners.
+
+24. In your view, what are the key areas in which each Military Service must improve in order to provide the
+necessary capabilities and capacity to the Joint Force to prevail in a potential conflict with China?
+
+USINDOPACOM's key capabilities are aligned to deter, and if necessary, defeat, the PLA. Specifically, the joint
+force requires capabilities to blind (Counter - Command, Control, Computing, Communications, Cyber, Intelligence,
+Surveillance, Reconnaissance and Targeting (C-C5ISRT)), see (persistent real-time awareness of the battlespace
+in all domains) and kill (long-range precision fire enabled the Joint Fires Network). Additionally, we require
+capabilities that assure air superiority, sea control, undersea warfare dominance, space control, integrated air and
+missile defense, and logistics to support our distributed operations. If confirmed, I look forward to working
+cooperatively with each service regarding these capabilities.
+
+25. Which programs, in your assessment, are the highest priorities for mitigating current and emerging warfighting
+capability and/or capacity shortfalls in the Joint Force?
+
+If confirmed, I will assess specific programs against our mission requirements (e.g. the need to undermine
+adversary awareness, maintain a persistent and targetable operating picture, and execute survivable and lethal
+long-range precision fires) and make appropriate recommendations.
+
+Ground Forces in the Indo-Pacific
+
+The ability of U.S. ground forces to hold at risk adversary ships and aircraft; intercept missiles aimed at our ships,
+airfields, ports and other fixed facilities; and provide electronic warfare and communications support for our air and
+naval forces could enable the United States to present adversaries with our own "anti-access/area denial" (A2/AD)
+challenge.
+
+26. What should be the role of ground forces in creating an A2/AD challenge for adversaries within the First Island
+Chain in the Indo-Pacific? What specifically should be the role of the Army?
+
+The U.S. Army plays a crucial role in the Indo-Pacific and provides a combat credible, scalable force. The role of
+ground forces in creating an A2/AD challenge is to provide a persistent forward presence of sensors and shooters
+capable of finding, fixing, tracking, targeting, engaging, and assessing targets on key terrain. In order to support this
+process, ground forces must provide fires, logistics support, command and control, and force protection. The ability
+to quickly maneuver while commanding and controlling forces is critical to this mission. The U.S. Army also trains
+our allies and partners, provides air-defense, sustainment and distribution, and command and control. These
+mission sets strengthen our alliances and partnerships while demonstrating firm resolve to uphold our treaty
+obligations.
+
+27. Do you believe the current ground force posture in INDOPACOM is adequate? If not, what would you
+recommend to bolster it?
+
+USINDOPACOM has been improving its ground force posture through campaigning activities to create a more
+enduring forward presence with persistent forward deployed rotational and assigned forces. These forces provide
+lethal capability that can operate and exercise with our allies and partners. If confirmed, I will seek to improve the
+survivability and sustainment of distributed joint forces. In the near term, arming U.S. Marine Corp's Marine Littoral
+Regiments and U.S. Army's Multi-Domain Task Forces with advanced warfighting capabilities will immediately
+improve our lethality and enhance our deterrence mission.
+
+Pacific Deterrence Initiative
+
+The National Defense Authorization Act for Fiscal Year 2024 authorized $14.7 billion for the Pacific Deterrence
+Initiative (PDI) to support the stability and security of the region and deter Chinese aggression.
+
+                                                                                             Page 7 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+28. In your view, is PDI a useful tool to improve U.S. posture in the Indo-Pacific?
+
+Yes. PDI investments continue to improve our posture and remain an important tool to identify and secure the
+resources necessary to meet the operational requirements in the region. PDI investment must continue in order to
+deter our adversaries and reassure our allies and partners.
+
+29. In your view, what strategic objectives and specific areas of investment should be prioritized for funding under
+the PDI?
+
+Guam is U.S. homeland territory. Defending Guam, including the infrastructure to manage an integrated joint force
+west of the IDL, should be PDI's number one priority. Additional priorities include establishing a distributed force
+posture, establishing an Indo-Pacific Mission Network (IMN), and advancing Pacific Multi-Domain Training and
+Experimentation Capability (PMTEC) to modernize our ranges.
+
+30. Do you believe that there are changes to the Department's process for considering budget proposals by the
+military services that could more effectively enable the fielding of capabilities that support joint, rather than service-
+specific, requirements under the PDI? Please explain your answer.
+
+If confirmed, I will comprehensively review current processes and make appropriate recommendations for
+improvement. This is a critical issue, and I look forward to working with all stakeholders to ensure we have the best
+possible system in place.
+
+INDOPACOM Organization
+
+The National Defense Authorization Act for Fiscal Year 2022 (FY22 NDAA) required the Secretary of Defense to
+establish an operational joint force headquarters in the area of operations of INDOPACOM to, among other things,
+integrate joint all domain command and control effects chains and mission command and control, as well as the
+integration of new capabilities as they transition to operational deployment.
+
+31. What is your understanding of the purpose and status of the operational joint force headquarters required by the
+FY22 NDAA?
+
+My understanding is that the FY22 National Defense Authorization Act required the creation of an operational Joint
+Task Force to integrate joint, all-domain command and control effects in the Indo-Pacific theater, to deter
+aggression, and, if necessary, to fight and win in conflict.
+
+32. In your view, how does the operational joint force headquarters required by the FY22 NDAA relate to the Joint
+Task Force-Micronesia established by INDOPACOM?
+
+If confirmed, I will assess all options and make appropriate recommendations to meet the intent of the NDAA as
+informed by the capabilities and actions of our adversaries, the strategic and operational environments, and our
+own strengths, weaknesses, and posture.
+
+33. Do you believe any additional changes are necessary to optimize INDOPACOM's operational command and
+control for competition, crisis, and, if necessary, conflict?
+
+If confirmed, I will assess USINDOPACOM's operational command and control structure and determine if it is the
+most effective organizational construct. If not, I will make appropriate recommendations to ensure the joint force in
+the Indo-Pacific is optimally postured to deter aggression and, if necessary, to fight and win in conflict.
+
+Missile Defense
+
+34. How would you assess the threat to U.S. forces and bases from Chinese and North Korean missile forces and
+our ability to address such threats? In your assessment, have U.S. investments, concepts of operations, and
+posture shifts sufficiently addressed this threat for the Indo Pacific region, including Hawaii?
+
+                                                                                             Page 8 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+Although the ballistic missile threat facing U.S. interests in Northeast Asia remains significant, we are well-postured
+to protect against existing and emerging threats from the DPRK. Additionally, U.S. Forces Korea continues to
+benefit from significant investments and performance enhancements to its current ballistic missile defense systems.
+If confirmed, I will seek to continuously improve our posture and readiness against the threat from the DPRK.
+
+PRC ballistic and cruise missile systems, as well as its development of hypersonic weapons, present a significant
+and increasing risk to our forces, bases, and allies and partners. Enhanced investment in layered and credible
+IAMD, to include the Guam Defense System, is imperative to underpin integrated deterrence. Discussions
+regarding concepts of operations and posture shifts require discussion at a higher classification level.
+
+35. Do you assess that rotational missile defense capabilities such as THAAD, Patriot, and Aegis ships, that need
+to be deployed to protect major combat projection platforms such as air bases are adequate to deter Chinese
+aggression given anticipated indication and warning timelines?
+
+A more robust defensive posture is the most pressing priority for the Indo-Pacific to adequately address the threats
+we face from the PRC. The People's Liberation Army Rocket Forces have a growing inventory of medium- and
+intermediate-range ballistic missiles that can threaten U.S. bases in the region, including those in the Republic of
+Korea (ROK), Japan, and Guam. Additionally, the PRC is evolving its missile technology, increasing its missile
+range, maneuverability, survivability, accuracy, and lethality.
+
+36. What is your assessment of INDOPACOM's ability to defend Hawaii from missile threats?
+
+Homeland Defense for Hawaii and Guam is the Indo-Pacific Command's top priority and a no-fail mission. If
+confirmed, I will continue pursuing joint and multilateral capabilities to ensure we have the best possible Integrated
+Air and Missile Defense capabilities to underpin integrated deterrence - including working cooperatively with Service
+components, the Missile Defense Agency, allies and partners, and the defense industry to integrate the best
+advanced technologies into operations.
+
+Given its geographic location and strategic importance, the defense of Guam remains a significant priority of
+INDOPACOM.
+
+37. What is your assessment of the current state of the defense of Guam from missile threats?
+
+Homeland Defense is the Indo-Pacific Command's number-one priority. Guam is the most forward U.S. territory and
+a strategic outpost in the Western Pacific. Guam's defense, which will include various active and passive missile
+defense capabilities, will contribute to the overall integrity of integrated deterrence and bolster U.S. operational
+strategy in the Indo-Pacific region. Missile Defense capabilities are deployed in Guam today and the Department is
+funding the Guam Defense System to defend the island against the evolving regional missile threats. The Guam
+Defense System is the top Homeland Defense acquisition priority for the Indo-Pacific Command. Guam requires a
+360-degree, persistent, layered, integrated air, and missile defense system to defend the island against the evolving
+capabilities of the PRC. If confirmed, I will continue to work with the larger defense enterprise to refine, accelerate,
+and optimize the Guam Defense System capabilities.
+
+38. What is your assessment of the current acquisition planning and timelines for an integrated missile defense
+system to defend Guam?
+
+If confirmed, I will work tirelessly with all stakeholders to accelerate the fielding of the entire system ahead of
+current delivery timelines.
+
+39. What do you believe are the major hurdles in acquiring an integrated missile defense system to defend Guam?
+
+There are several challenges to fielding an Integrated Air and Missile Defense architecture on Guam. We must
+ensure that proper policies and agreements are in place among our allies and partners to enable interoperability
+and establish a robust Integrated Air and Missile Defense architecture to operate in contested space, sustain target
+quality, maintain real-time battlespace awareness, and deliver advanced multi-domain joint fires munitions.
+
+                                                                                             Page 9 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+Contested Logistics
+
+DOD and INDOPACOM have conducted or sponsored several studies on contested mobility and logistics which
+have resulted a significant number of recommendations, many of which have not been implemented. As a result,
+DOD and INDOPACOM may be missing an opportunity to leverage existing knowledge on mobility challenges in
+contested environments and increase resilience for major conflicts as envisioned in the National Defense Strategy
+and as part of the Joint Warfighting Concept. Given the "tyranny of distance" in the Pacific, there are significant
+challenges specifically related to energy and munitions requirements in a contested environment, some of which
+could be mitigated by making targeted investments and operational energy improvements to both military platforms
+and installations.
+
+40. What is your assessment of the risk of a critical logistics failure in any conflict with China?
+
+Commercially procured warfighting capabilities that enable mission success, specifically those that deal with power,
+transport, fuel, and communications, are vulnerable to cyberattacks, disruptions, or denial of services. More
+specifically, the United States Transportation Command and the Defense Logistics Agency are working with
+industry to reinforce network security best practices. The execution of USINDOPACOM operational plans are
+contingent on the use of vital logistics capabilities requiring utmost protection.
+
+41. If confirmed, how will you seek to decrease the logistics vulnerabilities in the INDOPACOM AOR?
+
+The most effective means to decrease logistics vulnerabilities is to enhance our logistics posture within the theater.
+By improving airfields, sea ports, and warehousing in both the homeland and with our allies and partners, we can
+increase our ability to distribute, disperse, and support capabilities in both developed and austere locations. I also
+note that our combat logistics capabilities will be operating in a contested environment. I can provide more details in
+a classified setting.
+
+42. If confirmed, how will you seek to achieve operational energy improvements throughout INDOPACOM?
+
+If confirmed, I will work with the Services and DoD programs such as the Operational Energy Capability
+Improvement Fund (OECIF) and the Rapid Defense Experimentation Reserve (RDER) to advocate for prioritizing
+investments in forward fuel capacity and capabilities, balanced with reducing energy demand by military platforms.
+We must be able to refuel ourselves when commercial capabilities may not be available, and to do this, we must
+ensure theater posture locations have enough capacity through both military construction and expeditionary fuel
+storage - along with the requisite equipment in place to distribute fuel to the point of need in contested
+environments. I will also continue to direct experimentation with and advocate for long-range, uncrewed, multi-
+domain platforms, both for operational missions and logistics transportation. These systems often consume less
+fuel than crewed systems, and are capable of using renewable or alternative energy sources.
+
+Information Operations
+
+During the COVID-19 pandemic, China has embarked on a misinformation campaign to sow confusion over the
+origins of the virus and malign the response of the United States and other nations. This appears to have been
+done not only to shield China from blame for the initial outbreak, but also to undermine democratic nations and
+institutions.
+
+43. What is your assessment of the ability of DOD and INDOPACOM to conduct effective military operations in the
+information environment to defend U.S. interests against malign influence activities carried out by state and non-
+state actors?
+
+Information-related capabilities are critical in combating malign behavior. USINDOPACOM has a broad mix of
+information-related capabilities, including military information support operations and military deception operations,
+which are designed to change an adversary's attitudes and behaviors. When employed effectively and in
+
+                                                                                            Page 10 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+coordination with other U.S. government stakeholders, these capabilities provide USINDOPACOM opportunities to
+enhance U.S. national security interests.
+
+We must also employ information-related capabilities to transparently bring attention to malign behavior, such as
+the United States and our partners publicly releasing video of coercive and risky PLA intercepts of our lawfully
+operating ships and aircraft. If confirmed, I will assess current information-related capabilities and consider all viable
+options to improve our information operations posture and readiness.
+
+44. Are DOD and INDOPACOM efforts in this regard effectively integrated with other U.S. Government
+organizations and activities?
+
+DoD efforts throughout the information environment cross traditional department and agency lines. I fully recognize
+the military represents only one tool of national power. We must be fully integrated within the whole of government
+to maximize our collective information related capabilities.
+
+45. Do you believe that DOD and INDOPACOM have sufficient authorities and resources to conduct information
+operations effectively? If not, what additional authorities and resources would you request, if confirmed?
+
+I am not currently aware of new authorities required. If confirmed, I will regularly assess authorities, resource
+availability and allocation, and strategic alignment to prioritize essential information operations in direct support of
+the National Defense and National Military Strategies.
+
+Combatant commanders have expressed a need for the intelligence community to be more responsive in
+downgrading and declassifying intelligence to share with foreign partners and for messaging purposes. The power
+of this approach was seen in the run up to Russia's invasion of Ukraine as the Administration was successful in
+deliberately releasing information derived from intelligence in order to expose Russia's true plans and intentions.
+
+46. Do you believe there are lessons to be learned from our experience in Ukraine?
+
+Yes. Several lessons from Russia's war of aggression against Ukraine are salient for the Indo-Pacific. For example,
+we are witnessing the growing importance of mass data analytics, third party targeting, and long-range precision
+fires. In addition, mission success requires countering the enemy's ability to see and understand the battlespace
+and conduct targeting. Ukraine also reinforced the fact that our allies and partners represent our greatest strategic
+advantage - and that the international community cannot tolerate unlawful aggression. Finally, we learned how the
+timely sharing of previously classified intelligence with our partners and the public revealed Russia's imminent plans
+for an attack and helped spur the international community to act in support of Ukraine. Timely transparency can be
+an effective tool to counter aggression.
+
+47. Do you believe similar tactics could be used to more effectively expose China's coercive behavior and
+aggressive actions towards Taiwan and others in the Indo-Pacific?
+
+Yes. If confirmed, I can provide more details in a classified setting.
+
+China
+
+The 2022 NDS describes the People's Republic of China (PRC) as "the most comprehensive and serious challenge
+to U.S. national security" and states "The PRC seeks to undermine U.S. alliances and security partnership in the
+Indo-Pacific region, and leverage its growing capabilities, including its economic influence and the People's
+Liberation Army's (PLA) growing strength and military footprint, to coerce its neighbors and threaten their interest."
+
+48. How would you characterize the current U.S. relationship with China?
+
+While there are significant economic and people-to-people ties, the United States and the PRC have different
+visions for the future. The PRC's threats, coercion, and aggression stand in stark contrast to our fundamental
+values of freedom, sovereignty, and transparency. Our first duty is to deter conflict. I am committed to using our
+
+                                                                                            Page 11 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+readiness and credible fighting force when I must, but first leverage a military-military communications channels to
+prevent misunderstanding and resolve disputes before they escalate.
+
+49. What is your assessment of the current state of U.S.-China military-to-military relations? What do you believe
+should be the objectives of U.S.-China military-to-military dialogue? What are the limitations on this kind of
+dialogue?
+
+Following a period in which the PLA largely denied or cancelled military-to-military engagement with the United
+States, there has been some recent positive movement regarding the state of U.S.-PRC defense relations. It was
+important, for example, that the Chairman of the Joint Chiefs of Staff, General Brown, spoke with his PRC
+counterpart last December, and that our annual defense policy dialogue with the PRC occurred in January. We are
+likewise preparing for a round of annual maritime safety focused operator-to-operator talks this spring. Substantive
+and durable engagement is key to clarifying our respective priorities and intentions--and reducing the risk of
+misperception, miscalculation, and crisis. While the Department is committed to maintaining open lines of
+communication with the PRC to ensure that competition does not veer into conflict, we remain clear-eyed that the
+PRC views these channels of communication as a tool to punish or reward the United States for its perceived
+behavior, versus being valuable to maintaining peace and stability.
+
+50. What do you believe are the objectives of China's steady increase in defense spending and its overall military
+modernization program? In what technology areas are you most concerned about the erosion of U.S. advantages?
+
+Open source reports indicate the PRC's military objective is clear: fully modernize the PLA by 2027 to be ready to
+take Taiwan by force if necessary. Additionally, PRC leaders have repeatedly stated that transforming the PLA into
+a world-class military is an essential element in its strategy to displace U.S. power and influence while remaking the
+global order. A fully modernized PLA will complement its economic, information, diplomatic, and provocative legal
+efforts to expand PRC national power, push its governance system, and revise the international order through the
+logic of its own coercion.
+
+Today, every domain - air, land, sea, space, and cyberspace - is contested. The pace at which the PRC is fielding
+advanced capabilities is accelerating at an alarming rate. The PRC is focused on exploiting any perceived
+vulnerabilities to gain an economic, diplomatic, and military advantage while remaining below the threshold of
+conflict. Our advances in AI, offensive fires, directed energy, hypersonic missiles, and quantum computing must
+keep pace.
+
+51. What is your assessment of China's militarization and other aggressive activities in the South and East China
+Seas? What challenges do these activities pose to INDOPACOM's current operations and operational plans?
+
+The PRC's militarization in the region and aggressive activities are unlawful and destabilizing. PRC actions threaten
+the sovereignty of our allies and partners, limit freedom of navigation, and undermine regional stability. However,
+our allies and partners are increasingly responding in the face of that aggression. It is critical that we continue
+highlighting malign PRC activities in the information environment, conducting joint and combined operations to
+promote freedom of the seas and airspace, and acting in concert with allies and partners to safeguard sovereign
+rights.
+
+52. What is your assessment of China's increasing military presence overseas, including such installations as its
+base in Djibouti and across Africa as well as other infrastructure projects across the Indian Ocean?
+
+The PRC's expansive infrastructure projects are designed to expand its influence worldwide and establish a more
+robust overseas logistics and basing infrastructure for the PLA. Greater access to foreign ports and airfields enable
+the PRC to pre-position the logistics support necessary to sustain military operations abroad, including naval
+deployments in the Indian Ocean, Mediterranean Sea, and the Atlantic Ocean. A global PLA logistics network will
+enable Beijing to project and sustain military power at greater distances from the PRC, interfere with U.S. military
+operations, and provide flexibility to support offensive operations against the United States.
+
+                                                                                            Page 12 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+53. What is your assessment of the strategic and military implications of China's Belt and Road Initiative for the
+United States and other countries in the INDOPACOM AOR?
+
+The Belt and Road Initiative provides the PRC an opportunity to expand its global reach by gaining access to
+foreign air and maritime port facilities and foreign economic markets. The initiative primarily benefits the PRC in
+their effort to gain broader access, influence, and leverage.
+
+The DOD's annual report on Military and Security Developments Involving the PRC estimates that China will have
+more than 1,000 nuclear warheads by 2030. Additionally, China has developed Intercontinental Ballistic Missile
+Fields, nuclear-powered ballistic missile submarines that can hold the United States at risk from PRC literal waters,
+and fractional orbital and hypersonic capabilities for nuclear power projection.
+
+54. Do you believe that China seeks to become a nuclear peer adversary to the United States?
+
+It is more accurate to say the PRC seeks to remove the U.S. nuclear advantage to achieve its strategy of nuclear
+deterrence and assured counterstrike capability. It does not necessarily mean they will build and field the same
+number of warheads as we have, but Beijing clearly seeks peer-level capabilities to achieve their strategic
+objectives.
+
+55. What do you believe are the consequences of having a nuclear armed peer adversary in the Indo-Pacific
+region?
+
+The PRC's nuclear expansion adds to threats from both Russian and DPRK nuclear arsenals. Operationally, it
+increases risk in the region as it emboldens conventional aggression. This is especially true because the PLA is
+increasingly co-mingling nuclear and conventional missile units. Additionally, attacks on the PRC's missile
+command and control intended to affect only conventional missiles could inadvertently affect nuclear C3 if units are
+co-mingled, unintentionally triggering potential escalation.
+
+The DOD's annual report on Military and Security Developments Involving the PRC notes that "The PLA owns and
+operates about half of the world's intelligence, surveillance, and reconnaissance systems, most of which could
+support monitoring, tracking, and targeting of U.S. and allied forces worldwide, especially throughout the Indo-
+Pacific region." The report also notes that "The People's Liberation Army Rocket Force conventionally-armed CSS-
+5 Mod 5 (DF-21D) anti-ship ballistic missile variant gives the PLA the capability to conduct long-range precision
+strikes against ships, including aircraft carriers, out to the Western Pacific from mainland China."
+
+56. What is your assessment of these strategic capabilities on the ability of INDOPACOM to project military power
+in the region?
+
+The PLA's long-range strike capabilities are growing and present risk to our forces. However, USINDOPACOM
+retains the ability to operate throughout the region, regardless of PRC developments. If confirmed, I will work
+tirelessly to ensure the joint force maintains the ability to conduct all-domain operations according to strategic or
+operational imperatives. I ask that we discuss details in a classified session.
+
+Taiwan
+
+57. How do you assess the current cross-strait relationship between China and Taiwan, and how can the U.S. help
+prevent miscalculation on either side?
+
+The PRC continues to pressure Taiwan in multiple domains. The United States can help prevent miscalculation by
+maintaining our longstanding policy in support of peace and stability across the Taiwan Strait.
+
+58. How do you assess the current military balance across the Taiwan Strait? What do you believe should be the
+priorities for U.S. military assistance to Taiwan? Do you think Taiwan is making appropriate investments in its
+defensive capabilities and if not, what changes would you recommend?
+
+                                                                                            Page 13 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+The PLA continues to field a broad array of advanced weapons and systems as part of ongoing force modernization
+specifically intended to achieve decisive overmatch against Taiwan. Taiwan is committed to strengthening its
+reserve forces. In my view, Taiwan should continue to prioritize acquisition of asymmetric systems that are highly
+mobile, distributed, and lethal to enable Taiwan to defend themselves against attack. The United States will
+continue to meet its commitments consistent with the Taiwan Relations Act and our longstanding policy.
+
+59. Some have argued that the United States should explicitly state that we would respond militarily to any Chinese
+use of force against Taiwan as a means to deter such actions. In your view, what would be the benefits and risks of
+such a policy change?
+
+The United States presently maintains its longstanding commitments as outlined in the Taiwan Relations Act, Three
+Communiques, and the Six Assurances. If confirmed, I ask that we discuss the benefits and risks of a policy change
+in a classified session.
+
+60. Do you consider presidential drawdown authority to be a tool that could be used to bolster Taiwan's military? In
+your view, is replenishment funding critical to backfill the U.S. weapons sent to Taiwan based on presidential
+drawdown authority?
+
+Presidential drawdown authority enables rapid transfer of equipment and training to Taiwan to bolster self-defense.
+Funding these authorities signals bipartisan, whole-of-government commitment to strengthening Taiwan's self-
+defense and our continued interest in cross-Strait peace, stability, and deterrence. As Secretary Austin has said in
+multiple settings, including before Congress, the Department believes that existing authorities from Congress for
+security assistance to Taiwan should be met by full appropriations. Additionally, operational readiness assessments
+of U.S. inventory can play a critical role in determining risks associated with future drawdowns.
+
+61. Do you consider the $2 billion authorized for Foreign Military Financing as part of the Taiwan Enhanced
+Resilience Act, which was included in FY23 NDAA, to be a critical tool that could be used to bolster Taiwan's
+military?
+
+Yes. The $2B authorized for Foreign Military Financing (FMF) could facilitate equipping Taiwan with critical
+munitions, weapons, and Command, Control, Communications, Computers and Intelligence (C4I) systems to deter
+aggression and defend itself if necessary.
+
+Japan
+
+62. What is your assessment of our military-to-military relationship with Japan?
+
+Our relationship with the Japanese Self Defense Force is strong and advancing rapidly. This is particularly true in
+the areas of bilateral planning and multilateral cooperation. If confirmed, I will seek to further strengthen this
+relationship.
+
+63. How does Japan's relationship with its regional neighbors--including China, North Korea, South Korea, and
+Taiwan--influence the U.S.-Japan relationship?
+
+The United States and the Government of Japan remain closely aligned on the DPRK, long-term strategic
+competition with the PRC, and maintaining a free and open Indo-Pacific. Our alignment has led to closer
+coordination and cooperation in addressing both current and future security challenges, while also expanding the
+U.S.-Japan security relationship in domains such as cyber and space.
+
+In late 2022, Japan signaled a significant change in its defense posture with the release of a new National Security
+Strategy, National Defense Strategy, and the Defense Buildup Program.
+
+64. In your view, how can the United States best support Japan's defense transformation in line with its strategic
+documents, to include command-and-control related issues?
+
+                                                                                            Page 14 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+USINDOPACOM is working to strengthen our alliance and optimize our force posture with Japan through the
+forward-deployment of more versatile, resilient, and mobile capabilities. First, U.S. forces will assist Japan with
+developing its command and control procedures for the new Japanese Joint Operations Command. In addition, the
+United States will continue to execute increasingly challenging bilateral and multi-lateral exercises and command
+post activities. We will also enhance defense security cooperation through programs such as Tomahawk Land
+Attack Missile procurement and training. Finally, our support to Japan's defense transformation will be underpinned
+through our day-to-day engagement at all levels of command between the approximately 50,000 U.S. forces
+stationed in Japan and their Japanese counterparts, who work daily to further integrate the operations and activities
+of our combined forces.
+
+65. Do you believe we should consider modifications to U.S. military organizational and command and control
+relationships to better align with the Permanent Joint Headquarters of the Japanese Self-Defense Forces?
+
+Yes. It is important that military organizational and command and control relationships evolve to meet the current
+environment.
+
+Current plans under the Defense Policy Review Initiative (DPRI) call for the relocation of Marines from Okinawa to
+Guam, Hawaii, and other locations in the Indo-Pacific and the closure of the Marine Corps Air Station on Okinawa
+after the construction of a Futenma Replacement Facility (FRF) at Camp Schwab.
+
+66. Do you support the DPRI? Do you believe modifications to current DPRI plans, including the mix of capabilities
+remaining in Okinawa, should be considered in light of regional security challenges?
+
+The Defense Policy Review Initiative (DPRI) is a part of ensuring balanced and sustainable force posture. I
+understand recent adjustments to DPRI will maintain permanent forces that enhance our deterrence and
+interoperability while ensuring the joint force is prepared to fight and win should deterrence fail. If confirmed, I will
+work to ensure U.S. force posture in Japan is versatile, resilient, mobile, and meets the requirements of both the
+joint force and Japan.
+
+67. What is your opinion of the prospects for the successful construction of the Futenma Replacement Facility at
+Camp Schwab on Okinawa?
+
+While the project has experienced delays, both governments remain committed to completing the FRF and DPRI.
+
+68. What is your understanding of the ability of U.S. forces planned to be transferred from Okinawa to Guam to be
+able to train for full spectrum combat, and are there mitigation plans to address potential training shortfalls?
+
+Presently, I assess sites in Guam and its neighboring islands will be adequate to meet training requirements for the
+Marines who will be stationed there. The Marines would also benefit from training opportunities with implementation
+of the Pacific Multi-Domain Test and Experimentation Capability (PMTEC). If confirmed, I will advance PMTEC in
+order to maximize our training effectiveness by linking our ranges via a federation of interconnected live, virtual, and
+constructive effects, simulation centers, and mobile training support systems.
+
+Australia
+
+69. What is your assessment of our military-to-military relationship with Australia?
+
+The alliance between our two countries is the strongest I have seen in 37 years of service. Our relationship with
+Australia has continued to increase in strength through bilateral engagements and cooperation for both nations'
+resolve against destabilizing PRC actions in the Indo-Pacific. Additionally, under AUKUS, the partnership continues
+to mature. It highlights Australia's importance as an anchor of U.S. security in the Indo-Pacific. We enjoy a robust
+relationship and actively seek to continue to deepen our relationship through military engagements, defense
+acquisitions, and force posture initiatives.
+
+                                                                                            Page 15 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+In 2021, Australia, the United Kingdom, and the United States announced the Australia-United Kingdom-United
+States (AUKUS) partnership with the objective of helping Australia to acquire a fleet of nuclear-propelled
+submarines and increasing collaboration on a range of advanced technology initiatives.
+
+70. What are your views of the AUKUS partnership?
+
+The AUKUS agreement is a generational opportunity to enhance our combined military capability to successfully
+compete globally against the PRC and ensure a free and open Indo-Pacific. AUKUS expands the competitive space
+and deepens partnerships - which confers advantage on the joint force. Continued development and execution of
+Pillars I and II is vital in furthering cooperation.
+
+71. In your view, how will the acquisition of nuclear-propelled submarines by Australia affect regional security
+dynamics?
+
+Strengthening Australia's defense capabilities, including through nuclear-powered submarines, will form part of
+Australia's contribution to a secure and prosperous Indo-Pacific. Australia's acquisition of nuclear-powered attack
+submarines and expanding trilateral advanced military technology sharing builds on the unique advantages of the
+joint force. As a three-ocean nation, nuclear-powered submarines provide Australia with the capability it requires for
+its own defense. They allow Australia to further contribute to shaping our region's strategic trajectory in line with our
+shared regional security interests.
+
+72. In your view, are there improvements, clarifications, or enhancements that need to be made to effectively
+implement the AUKUS partnership as intended?
+
+Efforts to advance both Pillar I and Pillar II of AUKUS have faced challenges from U.S. export control restrictions
+that have limited technology sharing and cooperation with both Great Britain and Australia. I want to thank the
+committee for the recent AUKUS provisions included in the FY24 NDAA, which should alleviate these challenges
+significantly. As we begin working within the new authorities, and if confirmed, I will alert the committee to any
+impediments that may arise.
+
+73. Do you believe we should consider modifications to U.S. military organizational and command and control
+relationships to better align with the Australian military?
+
+I presently assess these command and control relationships are adequate and aligned. If confirmed, I will
+continuously assess and report back to the committee if that changes.
+
+Republic of Korea
+
+74. What is your assessment of the U.S.-South Korea security relationship? What measures, if any, would you take
+to improve this security relationship?
+
+The U.S.-ROK alliance is ironclad and is the linchpin of peace and security on the Korean peninsula. It is important
+that the United States facilitates an increased role for the ROK, commensurate with its economic status and
+influence, in as many multilateral venues as possible. If confirmed, I will work hard to maintain close contact with
+USFK and ROK military and civilian leadership to further develop this essential security partnership.
+
+75. Do you believe South Korea is investing appropriately in its defensive capabilities?
+
+Yes. The ROK's defense expenditures remain the highest among our allies and partners as a percentage of their
+GDP. Although the ROK continues to acquire significant U.S. systems and platforms worth billions of dollars, it also
+prioritizes a substantial share of its resources to develop domestic defense capabilities, industry, and export. Given
+the U.S. and ROK commitment to maintaining interoperability, the ROK's domestic investments contribute to the
+combined deterrence and defense posture.
+
+                                                                                            Page 16 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+76. Do you believe the transfer of wartime operational control from the U.S. to the Republic of Korea should be
+conditions-based? If confirmed, what conditions would you recommend that the Secretary of Defense delineate as
+the threshold for transfer of control?
+
+Both the United States and Republic of Korea are fully committed to a conditions-based operational control
+transition and continue to work toward that end. The requirements for transfer are outlined in the 2015 Conditions-
+based Operational control Transition Plan (COTP) and the 2018 update to COTP (Change One). If confirmed, I
+intend to fully comply with the existing plan and ensure the alliance is ready for the transition when that time comes.
+
+77. What is your vision for the future of US tactical fighter force posture on the Korean peninsula?
+
+USINDOPACOM requires a ready fighter force in place on the Korean peninsula to maintain our commitment to our
+alliance with the ROK and to ensure a 'fight tonight' posture to deter aggression and respond to DPRK
+provocations. Additional information requires discussion at a higher classification level.
+
+North Korea
+
+North Korea has been expanding its nuclear and missile capabilities, this includes the three tests last year of the
+solid fueled Hwasong-18 intercontinental ballistic missile, which has an estimated range of 15,000 kilometers, as
+well as a series of other intermediate and shorter-range ballistic missile tests.
+
+78. What is your assessment of the progress North Korea is making in its strategic systems and their impact on
+regional stability and our national security?
+
+The United States has been very clear on the threat posed by the DPRK's military programs - while reaffirming our
+commitment to the defense of the ROK, Japan, and region. If confirmed, I will continue to work with my ROK and
+Japanese counterparts to address the threats posed by the DPRK.
+
+79. What is your assessment of the strategic and military risks of a potential conflict with North Korea?
+
+There are significant strategic and military risks associated with a potential conflict on the Korean Peninsula,
+despite efforts to lower tensions. The DPRK continues to advance both its conventional and strategic capabilities. If
+confirmed, I will make regular assessments of the risk and report that risk to the National Command Authority.
+
+80. In your assessment, what changes, if any, to U.S. force posture and activity in the INDOPACOM AOR would
+improve U.S. deterrence against North Korea?
+
+Our current posture and presence in the ROK provide for our mutual defense while deterring DPRK aggression
+against the U.S. and our allies and partners. I support bilateral efforts to modernize forces, equipment, and enduring
+locations to ensure combat credible forces in the ROK, particularly those that counter the DPRK's asymmetric
+capabilities. We must also continue to explore, improve, and resource our missile defense capabilities. Our airborne
+ISR allocation is less than what we require to support the theater's multifaceted problem-set and to enhance
+deterrence by detection. A modernized, well-trained force positioned on the Korean Peninsula, paired with a
+credible, rapid reinforcement capability assigned and postured forward in the region, offers the greatest deterrent
+effect vis-a-vis the DPRK.
+
+81. In your view, are there additional steps that DOD could take to improve U.S. and allied defenses against North
+Korea's missile capabilities, including through trilateral cooperation between the United States, the Republic of
+Korea, and Japan?
+
+The United States is working to strengthen our alliances and optimize our force posture with Japan and the ROK
+through the forward-deployment of more versatile, resilient, and mobile capabilities. Also, USINDOPACOM can
+continue to implement the trilateral exercise plan, further expand trilateral operations, and maintain the new trilateral
+missile warning data system. If confirmed, I will assess our overall defenses against DPRK missile capabilities and
+make appropriate changes/recommendations to optimize our posture and capabilities.
+
+                                                                                            Page 17 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+82. What is your assessment of the ability of China to exert influence on North Korean decision making with respect
+to the development of nuclear and missile capabilities?
+
+The PRC has not fulfilled its international obligations regarding multiple UN Security Council Resolutions restricting
+the DPRK's nuclear and missile development and related activities. Simply stated, I do not assess we should rely
+on the PRC to restrain the DPRK.
+
+83. What is your assessment of the Joint Force's ability to secure North Korean weapons of mass destruction sites
+in the event of a contingency? What capability and/or capacity shortfalls present the most significant challenge to
+executing such an operation?
+
+Without transparency and clarity into the DPRK's nuclear program, it is difficult to assess our ability to secure the
+DPRK's weapons of mass destruction sites in the event of a contingency. If confirmed, I will review the major
+operational plans, contingency plans, and associated execution orders outlining the joint force's ability to counter
+and secure DPRK weapons of mass destruction.
+
+84. What is your assessment of the Joint Force's ability to conduct a noncombatant evacuation of approximately
+250,000 U.S. citizens from South Korea in the event of a contingency? What capability and/or capacity shortfalls
+present the most significant challenge to executing such an operation?
+
+Conducting noncombatant evacuation operations (NEO) in the ROK is highly challenging and dependent on the
+level of support, amount of warning, and resources from the ROK and Japan. Inside the ROK, we depend on their
+transportation assets to move noncombatant evacuees (NCEs) from assembly points to relocation centers, as well
+as to air/seaports of departure from the Peninsula. In Japan, we depend on their capacity and capability to receive,
+shelter, and support NCEs as a temporary safe haven. Synchronization and coordination for access and use of
+these resources requires constant engagement with our partners in both countries.
+
+Philippines
+
+85. What is your assessment of our military-to-military relationship with the Philippines?
+
+The relationship between the joint force and the Armed Forces of the Philippines (AFP) is strong, aligned, and
+growing. If confirmed, I will also prioritize and seek to further strengthen this critical relationship.
+
+86. In your view, are there opportunities to improve our military-to-military cooperation with the Armed Forces of the
+Philippines, particularly as it relates to issues in the South China Sea?
+
+Yes. If confirmed, I will continue to pursue a deeper partnership with the AFP.
+
+87. What, if anything, can be done to build upon the Enhanced Defense Cooperation Agreement (EDCA) between
+the United States and the Philippines and most effectively utilize access to EDCA sites?
+
+The addition of four new EDCA locations was a welcome development. To date, the U.S. has allocated over $109M
+toward EDCA implementation at the five existing locations and two of the new proposed locations, allowing us to
+complete dozens of projects, including the runway rehabilitation project at Basa Air Base. Additional appropriated
+funds will go toward completing the 90+ bilaterally agreed-upon projects that build an enduring security
+infrastructure to fill short-term capability gaps, promote long-term modernization, build a credible mutual defense
+posture, maintain humanitarian assistance and disaster response capabilities, and enhance the strength of our
+alliance.
+
+88. What is your assessment of the effectiveness of the U.S. military assistance being provided to the Philippines
+armed forces in its fight against violent extremist groups?
+
+                                                                                            Page 18 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+U.S. military assistance to the Philippine Security Forces is very effective in directly confronting violent extremist
+groups in Southeast Asia. This assistance enhances the Philippines' ability to build and maintain internal stability,
+allowing for allocation of more resources to counter threats to its national sovereignty.
+
+89. What is your assessment of the relationship between the Philippines and other United States allies and partners
+in the region, including Japan and Australia? In your opinion, what can we do to help strengthen these
+relationships?
+
+The Philippines' relationships with regional partners, particularly Japan and Australia, continue to strengthen.
+Bilateral and multilateral maritime activities show solidarity between likeminded partners. The United States should
+support additional training, cooperation, and capability-building opportunities among these key allies.
+
+90. In your view, would increasing Foreign Military Financing for the Philippines bolster its military, deterrence in the
+South China Sea, and provide benefits to U.S. national security?
+
+Yes, on all accounts. Through a combination of DoD initiatives and in-country engagement, we have introduced the
+Philippines to new asymmetric capabilities that are dynamic force multipliers, which will further enable their
+operations, enhance our interoperability, and reinforce our U.S. national security objectives.
+
+India
+
+91. What is your assessment of our military-to-military relationship with India?
+
+Over the past decade, the Major Defense Partnership between India and the United States has strengthened
+considerably with increasingly robust joint military exercises, defense sales, and strategic dialogue. The U.S.-India
+Major Defense Partnership is enabled by a joint commitment to maintaining regional security and addressing
+common threats.
+
+92. What is your assessment of the relationship between India and Russia? What impact does that relationship
+have on the U.S.-India relationship?
+
+The relationship between India and Russia is complex, owing to the nations' long-standing defense and energy ties.
+India has traditionally relied on Russia for military equipment, and has taken a pragmatic approach in its foreign
+policy with Moscow in order to balance relationships with other major powers. Our growing convergence in strategic
+interests permits the United States and India to overcome those challenges and find new ways to enhance military
+cooperation.
+
+93. If confirmed, what steps, if any, would you take to ensure the close coordination of U.S. security policy and
+activities with respect to South Asia--much of which is in the United States Central Command AOR?
+
+If confirmed, I will work with CENTCOM and AFRICOM to ensure regular high-level dialogues that prioritize shared
+regional concerns such as maritime security, counterterrorism, and humanitarian aid.
+
+Strengthening Alliances and Attracting New Partners
+
+94. In your view, how can INDOPACOM more effectively cultivate multilateral cooperation in the AOR?
+
+The regional network of alliances and partnerships is a strategic advantage that our competitors cannot match and
+critical to maintaining a free and open Indo-Pacific. USINDOPACOM conducts security cooperation activities,
+training, and exercises to strengthen relationships, build partner capacity, and enhance interoperability. Multilateral
+events are a force multiplier and if confirmed, I will prioritize multilateral activities.
+
+The Quadrilateral Security Dialogue or "Quad" between the United States, Japan, India, and Australia is designed
+to uphold the international rules-based order, ensure freedom of navigation, promote democratic values, improve
+information sharing, and enhance technological collaboration.
+
+                                                                                            Page 19 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+95. What are your views on the Quad and, in your view, how can it be more effectively utilized as a multilateral
+platform for addressing challenges in the Indo-Pacific region?
+
+The Quad partnership is a key multilateral framework within the Indo-Pacific that allows us to collaborate and
+coordinate with like-minded partners. Activities in the Quad framework demonstrate commitment to a free and open
+Indo-Pacific.
+
+The Association of Southeast Asian Nations (ASEAN) and its member states are critical to maintaining peace and
+security in the region.
+
+96. In what ways do you believe INDOPACOM can more effectively engage with ASEAN and its member states?
+
+ASEAN centrality is an important aspect of our coordination and engagement in the region. If confirmed, and in
+synchronization with the Department of Defense and Department of State, I will encourage ASEAN's further
+progress on security matters, to include maritime domain awareness, maritime security, cyber, counter-terrorism,
+and humanitarian assistance and disaster response.
+
+97. If confirmed, what priorities would you establish for such engagement?
+
+If confirmed, I will prioritize building trust and enduring training relationships. Initiatives will prioritize protecting
+sovereignty, enhancing maritime security, safeguarding exclusive economic zone rights, conducting humanitarian
+assistance and disaster response exercises, and providing professional education to emerging leaders. Ultimately,
+we intend to contribute to ASEAN security activities that promote ASEAN centrality.
+
+Over the last several years, China has exerted its influence with our partner nations, particularly in the Pacific
+Islands region, regarding competition over economic resources, fishing areas, access to water, concerns over rising
+sea levels, and elsewhere.
+
+98. If confirmed, how will you seek to engage with partner nations in the Pacific Islands region to better support their
+ability to protect their sovereignty and natural resources?
+
+Engaging with Pacific Island Countries (PICs) to better support their ability to protect their sovereignty and natural
+resources is a key component in supporting a free and open Indo-Pacific. The PRC is aggressively engaged in
+coercive and predatory economic and diplomatic tactics across the PICs that focus on undermining good
+governance, promoting corruption, and elite capture. The PICs have consistently prioritized countering maritime
+security concerns and resilience in sea level rise and natural disasters for engagements. If confirmed, I will review
+our military, security, and capacity building engagements with the PICs, including those without militaries.
+
+Building Partner Capacity
+
+99. In your view, what are our strategic objectives in building the capacities of partner nations in the INDOPACOM
+AOR? How would you prioritize the types of programs or activities that should receive support under these security
+assistance authorities?
+
+Building partner capacity promotes stability in the region and ensures access and influence. If confirmed, I will
+prioritize building partnership capacity authorities to support security cooperation initiatives and activities, and
+bolstering our partners' land, maritime, and air forces to resist coercion and protect critical information. Foreign
+Military Sales (FMS), International Military Education and Training (IMET), and the Global Peace Operations
+Initiative are critical tools to meet these objectives.
+
+100. What is your assessment of the Maritime Security Initiative (MSI)? How can MSI be leveraged to build shared
+maritime domain awareness capabilities and build multilateral cooperation amongst participating nations?
+
+The Indo-Pacific MSI has increased maritime security, improved regional Maritime Domain Awareness (MDA),
+supported the development of a common regional maritime picture, increased regional information sharing, and
+
+                                                                                            Page 20 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+provided reassurance to regional partners while helping to build and sustain maritime relationships. MSI has been
+and will continue to be leveraged to augment our existing exercises to promote information sharing technologies,
+platforms, and procedures that allow our partners to experience first-hand the benefits of shared maritime
+awareness while operating in a coalition with the U.S. and other like-minded nations.
+
+Respect for human rights has long been a core principle of United States foreign and security policy.
+
+101. In your view, what role does U.S. military engagement, including efforts to help professionalize foreign partner
+militaries, play in encouraging respect for human rights?
+
+U.S. military engagement with allies and partners in the region plays a critical role in the development of
+professional military standards and demonstrates our values including human dignity and human rights.
+
+Law of the Sea
+
+102. Do you support U.S. accession to the United Nations Convention on the Law of the Sea? If so, why?
+
+Yes. U.S. accession will confer credibility on our efforts to ensure a free and open Indo-Pacific. Consistent with U.S.
+policy, our forces already train to these rules, operate by these rules, and safeguard these rules to preserve
+freedom of navigation and the sovereign rights of all nations.
+
+103. Would U.S. accession to the United Nations Law of the Sea Convention benefit the U.S. military's mission in
+the Asia-Pacific region? If so, how?
+
+Yes. Accession would significantly enhance U.S credibility when engaging with allies, partners, and other nations,
+most of which are parties to UNCLOS.
+
+Sexual Assault Prevention and Response
+
+The Department of Defense has developed comprehensive policies and procedures to improve the prevention of
+and response to incidents of sexual assaults, including providing appropriate resources and care for victims of
+sexual assault.
+
+104. What is your view of the steps taken to prevent and respond to sexual assaults in INDOPACOM, including
+assaults by and against U.S. civilian and contractor personnel?
+
+Acting with a sense of urgency, we must continue our work to counter sexual assault and sexual harassment. I will
+work tirelessly to achieve this. There is no greater priority than taking care of our people. Sexual assault
+undermines the health and well-being of our people and the overall readiness of the force. As leaders, we owe all of
+our people a respectful and safe work environment in which to execute their mission and fulfill their oath to the
+Constitution.
+
+I have seen great focus by DoD on the prevention of incidents and the immediate response to reported incidents.
+Despite continued efforts, sexual assault remains a significant problem and many victims do not feel supported by
+their command nor safe reporting crimes. We must be more effective in our actions. I will closely monitor the
+implementation of the Office of Special Trial Counsel and impact it has on victim confidence and the incidence of
+these crimes.
+
+USINDOPACOM established the first full-time Combatant Command (COCOM) Sexual Assault Prevention and
+Response (SAPR) Program Manager to liaise and coordinate with DoD SAPRO, all Service Components, and other
+DoD/Federal agencies to improve operational support and to enhance the Theater's SAPR network to support all
+victims of sex-related crimes. If confirmed, I will assess the effectiveness of this organization and make necessary
+adjustments.
+
+                                                                                            Page 21 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+105. What is your view of the adequacy of INDOPACOM policies and procedures to protect victims of sexual
+assault from retaliation for reporting the assault?
+
+From the perspective of a service component commander, my view is that USINDOPACOM has strong policies and
+procedures in place to protect victims of sexual assault from retaliation or reprisal, and if confirmed I intend to
+reinforce and improve them.
+
+If confirmed, I will unendingly work with all leaders to communicate my priorities and expectations on sexual assault
+and harassment. On my watch USINDOPACOM will continue to ensure that leaders are appropriately taking
+actions to prevent victims from reprisal for reporting assault and harassment.
+
+106. What is your view of the adequacy of the training and resources in place in INDOPACOM to investigate and
+respond to allegations of sexual assault?
+
+Each of the services has established guidelines for a 24 hour, seven-day-a-week sexual assault response capability
+in all locations. Additionally, from my perspective as a service component commander, USINDOPACOM provides
+oversight for ensuring that adequate resources are present at deployed locations to maintain the ability to
+appropriately respond to incidents.
+
+If confirmed, I will continue existing efforts to support the Services to undertake the restructuring, professionalizing,
+strengthening, and resourcing the new Sexual Assault Response Workforce. The workforce will reduce reliance on
+collateral duty personnel functioning in victim assistance roles and will give Sexual Assault Response Coordinators
+(SARCs) and Victim Advocates (VAs) independence from command reporting structures. The initiative moves us
+closer to accomplishing our shared goal of a highly skilled workforce providing high quality victim assistance.
+
+107. What is your understanding of the adequacy of the resources and programs in INDOPACOM to provide victims
+of sexual assault the medical, psychological, and legal help they need?
+
+At the end of 2023, the Department fully implemented the Office of Special Trial Counsel (OSTC) within each
+Service. Being fully independent from the military chain of command, the OSTC military prosecutors will decide
+whether to prosecute allegations of sexual assault. The creation of this independent special victim's prosecution
+office is a step forward in the right direction to restore Service member confidence in military justice process and
+encourage victims to report.
+
+The Services have enhanced the availability and effectiveness of SAPR and the Victims' Legal Counsel (VLC)
+Programs to provide advocacy, promote care and treatment for victims, and provide legal counsel.
+
+In USINDOPACOM Area of Responsibility (AOR), Service SAPR Program Managers are closely connected with the
+Forensic Healthcare Lead Provider Defense Health Network Indo-Pacific (DHN-IP) to ensure sexual assault cases
+are treated as an emergency. In addition, healthcare providers are empowered to participate in the larger victim
+support processes.
+
+108. What is your view about the role of the chain of command in providing necessary support to the victims of
+sexual assault?
+
+At all levels, the chain of command is the most consequential actor in providing support to victims of sexual assault.
+Leaders set the tone and must ensure everyone within the chain of command prioritizes countering sexual assault
+while taking all necessary actions in a timely manner to support victims.
+
+Leaders now have new Service SAPR policies to remove barriers and encourage victims to seek assistance. These
+policies include (1) "Safe-To-Report" which prescribes the handling of alleged minor collateral misconduct of a
+Service member who is the victim of sexual assault; (2) "No Wrong Door" approach - a new system for getting more
+timely and effective assistance for sexual assault/harassment and domestic violence; and (3) "Convalescent Leave"
+to allow non-chargeable time-off for seeking services or recovery support.
+
+                                                                                            Page 22 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+109. What is your view about the role of the chain of command in changing the military culture in which these
+sexual assaults have occurred? Do you consider the current sexual assault policies and procedures, particularly
+those on restricted reporting, to be effective?
+
+My view is that the chain of command is the most consequential actor in establishing a culture that demands
+everyone is treated with dignity and respect at all times. Leadership must prioritize countering sexual assault -- but
+it takes leadership at all levels of an organization to fully implement and sustain changes in culture.
+
+Restricted Reporting allows victim care to be a top priority. Victims may come forward without triggering an
+investigation and receive Special Victims' Counsel/Victims' Legal Counsel advice and medical and advocacy
+services while maintaining confidentiality. Without restricted reporting, some victims would not report.
+
+I believe the expanded eligibility for Restricted Reporting for leaders and victims is an option that will encourage
+more victims to come forward to seek assistance. Expanded eligibility allows a leader the option to send the victim
+immediately to the SARC for support should the victim disclose a sexual assault to personnel in the chain of
+command and does not want to participate in an investigation. At the same time, the leader must report the assault
+to the Military Criminal Investigative Organization (MCIO) to be processed.
+
+110. If confirmed, what actions will you take to reassess current policies, procedures, and programs and to ensure
+senior level direction and oversight of efforts to prevent and respond to sexual assaults in INDOPACOM?
+
+If confirmed, I will continue to ensure compliance with governing law and policy for leaders at all levels to take
+action to prevent sexual assault while protecting those involved from retaliation and support victims. This is not a
+legal obligation alone - it is a moral imperative.
+
+I will continue to set the example by establishing a command climate in which a victim can report a sexual assault
+without fear of retaliation. I will review and make any necessary changes to the programs and policies in place at
+USINDOPACOM designed to ensure necessary visibility and oversight within the theater.
+
+111. What methods for monitoring overall trends and gauging the sufficiency of component commanders' efforts in
+preventing and responding to incidents of sexual assault do you consider appropriate and intend to implement as
+INDOPACOM Commander?
+
+If confirmed, I will continue to emphasize the importance of a healthy command climate and ensure sexual assault
+prevention and response resources continue to be available at all locations in the AOR.
+
+The Department measures command climate using a variety data, including administrative records, reports,
+interview data, focus group data, and survey data such as the Defense Organizational Climate Survey (DEOCS).
+The DoD Integrated Primary Prevention Policy for Prevention Workforce and Leaders outlines how the integrated
+primary prevention workforce will collaborate with leaders to incorporate and interpret these various data sets to
+reduce risk factors and enhance protective factors, promoting healthier climates across the Force.
+
+The Services are in the process of hiring an Integrated Primary Prevention Workforce to build healthy climates and
+create environments free from abuse and harm. I look forward to actively supporting and promoting their efforts as
+they onboard.
+
+I will continue to fully support the investigative and prosecutorial processes in place to provide victims all the
+necessary legal resources - and will ensure my subordinate Commanders do the same. I will specifically prioritize
+and emphasize proactive coordination as appropriate with the Office of Special Trial Counsel to ensure the fair
+administration of justice.
+
+Congressional Oversight
+
+                                                                                            Page 23 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+In order to exercise its legislative and oversight responsibilities, it is important that this Committee and other
+appropriate committees of Congress are able to receive testimony, briefings, and other communications of
+information.
+
+112. What are your views on the state of INDOPACOM's relationship with the Senate Armed Services Committee in
+particular, and with Congress in general?
+
+If confirmed, I will assess INDOPACOM's relationship with Congress in general and the Senate Armed Services
+Committee in particular. My expectation is that these relationships will continue to be cooperative, productive and
+respectful of the Congress's oversight responsibilities.
+
+113. If confirmed, what actions would you take to sustain a productive and mutually beneficial relationship between
+Congress and INDOPACOM?
+
+If confirmed, I will sustain the productive relationship between Congress and USINDOPACOM by maintaining
+transparent and open communication. I will maintain a robust legislative affairs program to facilitate effective
+interactions and be personally available to members of Congress and their staffs.
+
+114. Do you agree, without qualification, if confirmed, and on request, to appear and testify before this committee,
+its subcommittees, and other appropriate committees of Congress? Please answer with a simple yes or no.
+
+Yes.
+
+115. Do you agree, without qualification, if confirmed, to provide this committee, its subcommittees, other
+appropriate committees of Congress, and their respective staffs such witnesses and briefers, briefings, reports,
+records (including documents and electronic communications), and other information as may be requested of you,
+and to do so in a timely manner? Please answer with a simple yes or no.
+
+Yes.
+
+116. Do you agree, without qualification, if confirmed, to consult with this committee, its subcommittees, other
+appropriate committees of Congress, and their respective staffs, regarding your basis for any delay or denial in
+providing testimony, briefings, reports, records--including documents and electronic communications, and other
+information requested of you? Please answer with a simple yes or no.
+
+Yes.
+
+117. Do you agree, without qualification, if confirmed, to keep this committee, its subcommittees, other appropriate
+committees of Congress, and their respective staffs apprised of new information that materially impacts the
+accuracy of testimony, briefings, reports, records--including documents and electronic communications, and other
+information you or your organization previously provided? Please answer with a simple yes or no.
+
+Yes.
+
+118. Do you agree, without qualification, if confirmed, and on request, to provide this committee and its
+subcommittees with records and other information within their oversight jurisdiction, even absent a formal
+Committee request? Please answer with a simple yes or no.
+
+Yes.
+
+119. Do you agree, without qualification, if confirmed, to respond timely to letters to, and/or inquiries and other
+requests of you or your organization from individual Senators who are members of this committee? Please answer
+with a simple yes or no.
+
+Yes.
+
+                                                                                            Page 24 of 24
+  Senate Armed Services Committee Hearing The Nomination of Adm. Samuel J. Paparo Jr. to be commander of
+                      the U.S. Indo-Pacific Command. Testimony by Samuel Paparo....
+
+120. Do you agree, without qualification, if confirmed, to ensure that you and other members of your organization
+protect from retaliation any military member, federal employee, or contractor employee who testifies before, or
+communicates with this committee, its subcommittees, and any other appropriate committee of Congress? Please
+answer with a simple yes or no.
+
+Yes.
+
+Read this original     document    at:   https://www.armed-services.senate.gov/download/paparo-apq-responses-
+020123?download=1
+
+
+Load-Date: February 5, 2024
 
 
   

@@ -1,393 +1,86 @@
 
 
-                                                                                                       Page 1 of 7
-                                     TIP SHEET NUMBER 16 AUGUST 9, 2024
+                                                                                                    Page 1 of 2
+    UEC Research and Innovation: AI for wireless networking and materials science at ultra-high magnetic fields
 
 
 
 
-                               TIP SHEET NUMBER 16 AUGUST 9, 2024
-                                               States News Service
-                                               August 9, 2024 Friday
+    UEC Research and Innovation: AI for wireless networking and materials
+                   science at ultra-high magnetic fields
+                                                           PR Newswire
+                                           January 30, 2024 Tuesday 7:19 AM EST
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-Length: 3207 words
-Byline: States News Service
-Dateline: WASHINGTON, DC
+Length: 696 words
+Dateline: TOKYO, Jan. 30, 2024
 
 Body
 
 
-The following information was released by the United States Census Bureau:
-
-Upcoming
-
-2024 Product Calendar
-
-The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
-scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
-updated as needed throughout the year.
-
-2020 Census
-
-2020 Modified Age and Race Census File
-
-The U.S. Census Bureau is scheduled to release national and county-level modified age and race data by single-
-year of age, sex, race, and Hispanic origin from the 2020 Census. Files were created by applying age smoothing to
-a subset of age data as well as redistributing the "Some Other Race" values from the 2020 Census into the five
-race categories included in the U.S. Office of Management and Budget1997 revised standards for the collection,
-tabulation, and presentation of federal data on race and ethnicity. These data will allow for accurate comparisons by
-race between 2020 Census results, the 2020 Demographic Analysis estimates, and the official population
-estimates. Visit the Modified Race Data webpage to access modified race data from the 2010 and 2000 Censuses.
-(Scheduled for release September 5.)
-
-American Community Survey
-
-2023 American Community Survey 1-Year Estimates
-
-The 2023 American Community Survey (ACS) 1-year estimates are scheduled to be released September 12. These
-data will be available for the nation, states, the District of Columbia, Puerto Rico, congressional districts,
-metropolitan areas, counties, places and other geographic areas with a population of 65,000 or more. These
-estimates include topics such as language spoken at home, educational attainment, commute to work, employment,
-
-                                                                                                       Page 2 of 7
-                                     TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-mortgage status and rent, income, poverty and health insurance coverage. The Census Bureau is set to hold a
-webinar Thursday, September 5, at 1 p.m. ET, explaining how to access data and online resources related to this
-release. Embargo subscribers can access these statistics beginning at 10 a.m. ET, Tuesday, September 10.
-(Scheduled for release at 12:01 a.m., Thursday, September 12.)
-
-Demographic
-
-Population Pyramid for Detailed Hispanic Origin Groups
-
-The U.S. Census Bureau is set to release a new data visualization How do Hispanic or Latino Groups in the United
-States Compare? This interactive population pyramid uses 2000, 2010, and 2020 census data to allow users to
-view changes in regional and detailed Hispanic or Latino groups such as Mexican, Puerto Rican, Salvadoran and
-Colombian over time. Users can also directly compare groups to view differences in age and sex distributions. The
-tool will be available in English and Spanish. (Tentatively scheduled for release in August.)
-
-Income in the United States: 2023
-
-The Census Bureau will announce the nation's annual estimates on income, earnings and inequality to evaluate
-national economic trends and understand their effect on the well-being of households and individuals. These
-estimates are based on the 2024 Current Population Survey Annual Social and Economic Supplement. (Scheduled
-for release September 10.)
-
-Health Insurance in the United States: 2023
-
-The Census Bureau will announce the nation's annual health insurance coverage estimates highlighting
-comparisons between 2022 and 2023 data as well as examining characteristics by health insurance status to better
-understand the well-being of individuals. These estimates are based on the 2024 Current Population Survey Annual
-Social and Economic Supplement. State-level American Community Survey data will be released September 12.
-(Scheduled for release September 10.)
-
-Poverty in the United States: 2023
-
-The Census Bureau will announce the nation's official poverty and Supplemental Poverty Measure (SPM) estimates
-to help gauge the economic well-being of households, families and individuals. These estimates are based on the
-2024 Current Population Survey Annual Social and Economic Supplement. (Scheduled for release September 10.)
-
-Household Pulse Survey
-
-The experimental (Household Pulse Survey HPS) is an effort by the Census Bureau and other federal statistical
-agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
-Phase 4.2 topics include access to transportation and the internet, shortage of critical items and updated response
-options for the ages of children and school enrollment. Previously asked questions on babies or infants in the
-household and unemployment insurance items have been removed. Data collection for phase 4.2 began July 23
-with data dissemination, including detailed data tables, an interactive data tool, and public-use files, on a monthly
-basis. (Scheduled for release September 12 and October 3.)
-
-Economic
-
-2023 Annual Integrated Economic Survey Due
-
-The due date for the 2023 Annual Integrated Economic Survey (AIES) has officially passed. Businesses can report
-by logging on to the respondent portal and accessing their survey card. For more information or assistance with
-completing this survey, visit www.census.gov/aies/information or call the AIES customer help line at 1-800-681-
-3012, Monday-Friday, 8 a.m.-8 p.m. ET.
-
-" The Intergenerational Transmission of Employers and the Earnings of Young Workers "
-
-                                                                                                        Page 3 of 7
-                                    TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration with the Council
-for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes
-Matthew Staiger, research scientist at Opportunity Insights, as he presents, "The Intergenerational Transmission of
-Employers and the Earnings of Young Workers." This study shows how the intergenerational persistence in
-earnings is shaped by jobs obtained at a parent's employer. Combining data from the Longitudinal Employer-
-Household Dynamics (LEHD) program and Decennial Census provides information on parent-child and employer-
-employee linkages. (Scheduled for August 20.)
-
-Ocean Economy Data for U.S. Territories
-
-The Census Bureau will release County Business Patterns estimates of the Ocean Economy in the 5 U.S.
-Territories (Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the
-U.S. Virgin Islands). Estimates are provided by non-standard state- and county-equivalent geographies, comprised
-of selected coastal ZIP codes across each territory, and by the Economics: National Ocean Watch sectors, defined
-by the Office for Coastal Management at the National Oceanic and Atmospheric Administration. (Scheduled for
-release August 21.)
-
-Exploring Census Data Webinar Series: Highlights of Key Programs and Data
-
-Census Bureau subject matter experts will present information available from multiple sources with crucial statistics
-for business needs. You will learn about the different business and demographic data available from the Business
-Dynamics Statistics and the American Community Survey. Explore establishment and firm characteristics to include
-dynamics such as job creation and destruction, startups, shutdowns, and the importance of demographic data. The
-session includes a live demonstration on how to access the data along with illustrations of real-world applications.
-Engage directly with our experts through live chat and the QandA segment. This webinar is part 5 of 6 in a series to
-help data users discover Census Bureau data related to people, places, and the economy. (Scheduled for August
-22.)
-
-Quarterly Summary of State and Local Government Tax Revenues: 2nd Quarter 2024
-
-The U.S. Census Bureau will release a summary of quarterly estimates of state and local government tax revenue
-at the national level as well as detailed tax revenue data for individual states. This report produces two income and
-sales data tables and one table for tax collections by state. More information about this release is available in the
-2024 Quarterly Summary of State and Local Tax Revenue tables at census.gov. (Scheduled for release September
-12.)
-
-Cannabis Excise Sales Tax Collections: 2nd Quarter 2024
-
-The U.S. Census Bureau will release experimental data and an updated data visualization featuring quarterly tax
-collections at the state level for cannabis sales. Data for cannabis sales taxes were reported in the Quarterly
-Summary of State and Local Government Tax Revenue and were first released for the second quarter of 2023. The
-data visualization provides cannabis revenue as a percentage of the states' total tax revenue where available and
-percent change from the prior quarter. More information about this data can be found online. (Scheduled for release
-September 12.)
-
-Dispersion Statistics on Productivity (DiSP)
-
-The U.S. Census Bureau and the U.S. Bureau of Labor Statistics will release a new version of the experimental
-data product, Dispersion Statistics on Productivity (DiSP, www.census.gov/disp). DiSP provides information on the
-within-industry dispersion in productivity at the 4-digit NAICS level for the manufacturing sector. The new version of
-the DiSP data covers years 1987 to 2021. (Scheduled for release September 12.)
-
-Business Trends and Outlook Survey
-
-                                                                                                       Page 4 of 7
-                                    TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
-experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
-The data allow greater insight into the state of the economy by providing continuous, timely information for key
-economic measures. Data are released biweekly and are available by sector, state, employment size, and the 25
-most populous metropolitan statistical areas. Additional details on artificial intelligence use and types used were
-added for one cycle and released March 28, 2024. Because of the change in sample composition, BTOS data from
-before September 11, 2023, are not directly comparable with data after that date.
-
-Monthly Business Formation Statistics
-
-Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
-business formations monthly. The data are available at the state, regional and national levels and by industry sector
-at the national level. The next monthly BFS will be released August 14 and will include July 2024 data. Business
-Formation Statistics - Release Schedule (census.gov).
-
-Facts for Features
-
-Hispanic Heritage Month: 2024
-
-During this month-long observance, our nation celebrates the culture and traditions of U.S. residents who trace their
-roots to Spain, Mexico and the Spanish-speaking nations of Central America, South America and the Caribbean.
-The Census Bureau joins in the celebration with this fact sheet presenting a range of updated statistics describing
-the demographic state of the nation's Hispanic population. (Schedule for release August 15.)
-
-Recently Released
-
-(Released since July 26, 2024)
-
-Census Bureau Announces New Chair and Five New Members to Census Scientific Advisory Committee
-
-August 8 The U.S. Census Bureau has appointed five new members to its Census Scientific Advisory Committee
-(CSAC). The committee provides advice and recommendations on the design and implementation of Census
-Bureau programs and surveys. New members will serve a 3-year term.
-
-Census Bureau to Meet with Stakeholders on Disability Data Needs
-
-July 31 The U.S. Census Bureau announced plans to meet with disability community stakeholders September 30 in
-the Washington, D.C. metro area to better understand challenges in data availability and access for their
-community. In February, Census Bureau Director Robert Santos announced initial plans for this meeting based on
-feedback in response to a Federal Register notice outlining proposed changes to the American Community Survey
-(ACS). An overall theme in the more than 12,000 comments was a desire for more comprehensive engagement.
-Santos also announced that, based on the feedback, there would be no changes to the disability questions for the
-2025 ACS.
-
-2020 Census
-
-Census Privacy Protected Microdata File (PPMF)
-
-August 5 The PPMF provides the complete set of privacy-protected records used to create the Redistricting Data
-Summary File (P.L. 94-171), Demographic Profile and the Demographic and Housing Characteristic File (DHC).
-The PPMF consists of separate files for people and housing units. The files include geocode identifiers down to the
-census block level, enabling data users to generate custom tabulations for numerous geographic levels.
-
-Detailed Race and Ethnicity Groups, Tribes and Villages
-
-                                                                                                      Page 5 of 7
-                                    TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-August 1 The U.S. Census Bureau released 2020 Census counts of households, along with information on
-household type and tenure (whether a home is owned or rented) for 300 detailed race and ethnicity groups and
-1,187 American Indian and Alaska Native tribes and villages. The 2020 Census Detailed Demographic and Housing
-Characteristics File B (Detailed DHC-B) provides household information based on the race or ethnicity of the
-householder (the first adult in a household for whom census responses were provided).
-
-Census Bureau Announces Sites for 2026 Census Test
-
-July 22 The U.S. Census Bureau announced the sites for the 2026 Census Test, the first of two major on-the-
-ground tests planned in preparation for the 2030 Census. The 2026 Census Test will evaluate the viability of
-innovations and enhancements planned for the 2030 Census, with particular focus on improving the count of hard-
-to-count and historically undercounted populations.
-
-Demographic
-
-Demographic Analysis and Population Projection System (DAPPS) Software version 4.0.
-
-July 31 DAPPS is a program designed to help users analyze and produce population projections with ease.
-
-Economic
-
-New Nonemployer Statistics by Demographics Data
-
-August 8 The U.S. Census Bureau released the 2021 Nonemployer Statistics by Demographics (NES-D). New to
-this data series is the inclusion of county-level statistics. Also within this release are demographic data by urban
-and rural classification, receipt size of firm and legal form of organization plus characteristics of nonemployer
-business owners. The NES-D is an annual statistical series that uses existing administrative records and Census
-Bureau data to link demographic characteristics to the universe of nonemployer businesses.
-
-America Counts: Stories Behind the Numbers
-
-America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
-such as families, housing, employment, business, education, the economy, emergency preparedness and the
-population. New stories include:
-
-How to Measure Disasters' Impact on Supply Chains (August 8)
-
-Who Lives in Homes They Own? (August 1)
-
-2024 Paris Olympics: U.S. Population's French Connection (July 31)
-
-Not All Racial and Ethnic Groups Are Aging At National Pace (July 30)
-
-Hometown Heroes: Who Is Representing Team USA at the Summer Games in Paris? (July 26)
-
-Stats for Stories
-
-Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
-relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
-in story mining and producing content for their respective audiences.
-
-2024 Atlantic Hurricane Season: June 1-November 30
-
-Blogs
-
-Census Bureau Data Highlights Vulnerable Populations Exposed to Hurricane Debby August 9
-
-                                                                                                       Page 6 of 7
-                                    TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-Written by: John Voorhies, principal economist, Center for Economic Studies Hurricane Debby made landfall as a
-Category 1 (74-95 miles per hour) hurricane in the Big Bend region of Florida at 7 a.m. EDT Monday, August 5, and
-is currently moving slowly through Florida and Georgia as a tropical storm. Debby has already produced dangerous
-winds and storm surge, and it is forecasted to produce near-historic levels of rainfall and flash flooding risk as it
-makes its way through Georgia and the Carolinas. What can we say about the people who are being exposed to
-these hazards? The Census Bureau's data on the U.S. population puts it in a unique position to analyze the
-characteristics of the exposed population in close to real-time.
-
-Resources
-
-Emergency Management/Disaster Resources
-
-When major disasters strike, visit our Emergency Management webpage for demographic and economic data on
-impacted areas. Each disaster will include data from our key emergency management tools: OnTheMap for
-Emergency Management; Community Resilience Estimates; Census Business Builder: Regional Analyst Edition;
-and other useful resources.
-
-Learn What Surveys Are Being Conducted in Your Community
-
-Discover which of the U.S. Census Bureau's 130-plus annual surveys are being conducted in your community. In a
-variety of surveys and censuses, evolving from the first census in 1790, the Census Bureau provides official
-information about America's people, businesses, industries and institutions. Learn more about surveys currently
-being conducted in each Census Bureau region:
-
-Atlanta
-
-Chicago
-
-Denver
-
-Los Angeles
-
-New York
-
-Philadelphia
-
-All Surveys
-
-Data Tools
-
-Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
-annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
-
-Ce nsus Geocoder
-
-Provides interactive and programmatic (REST) access to users interested in matching addresses to geographic
-locations and entities containing those addresses.
-
-Explore Census Data
-
-This new platform on data.census.gov is based on overwhelming feedback to streamline the way you get data and
-digital content from Census Bureau.
-
-Small Business Pulse Survey Data
-
-The Small Business Pulse Survey (SBPS) measures the effect of changing business conditions during the
-Coronavirus pandemic on our nation's small businesses.
-
-                                                                                                      Page 7 of 7
-                                    TIP SHEET NUMBER 16 AUGUST 9, 2024
-
-Training Opportunities
-
-Census Bureau Training Opportunities
-
-Webinars are available on a regular basis to help the public access and use Census Bureau statistics. These free
-sessions, which are 60 to 90 minutes each, show users how to navigate Census Bureau databases and mapping
-tools and find demographic and economic statistics at the local or national level. Descriptions of upcoming sessions
-are available on our Census Academy webpage. Login details are provided at least one week before a webinar.
-
-Intergenerational Transmission of Employers and Earnings of Young Workers (Tuesday, August 20, 1:30-2:45 p.m.
-ET)
-
-,Que debo incluir en mi propuesta de investigacin? (Wednesday, August 21, 1:30-3:00 p.m. ET)
-
-Understanding the Differences in Population Estimates and Projections (Thursday, August 22, 2-3 p.m. ET)
-
-Exploring Census Data Webinar Series: Gems of Census Data - Highlights of Key Programs and Data (Thursday,
-August 22, 2-3 p.m. ET)
-
-Introduction to the American Community Survey (Wednesday, August 28, 2-3 p.m. ET)
-
-Decoding Commuting Distance Patterns Using Census Data (Wednesday, September 18, 1:30-2:45 p.m. ET)
-
-2023 American Community Survey 1-year Estimates Pre-Release Webinar (Thursday, September 5, 1-2 p.m. ET)
-
-Cmo solicito acceso a traves del portal estandar de aplicacin (SAP) (Wednesday, September 18, 1:30-3:00 p.m.
-ET)
-
-Navigating My Community Explorer (Thursday, September 19, 2-3 p.m. ET)
-
-Archived Training Resources Visit the Census Bureau's Educational Resource Library for previously recorded, free
-training available at your convenience. The library includes presentations, recorded webinars, tutorials and other
-helpful materials.
-
-
-Load-Date: August 10, 2024
+PR NewswireTOKYO, Jan. 30, 2024 /PRNewswire/ -- The University of Electro-Communications publishes the
+January 2024 issue of theUEC Research and Innovationonline newsletter.UEC R&I Home Page
+
+http://www.ru.uec.ac.jp/randi/The January 2024 issue of UEC Research and Innovation includes video profiles of
+UEC faculty Katsuya Suto (Innovation: AINet: AI for Innovative Wireless Networking) and Akihiko Ikeda (Research:
+Materials science at ultra-high 1000 T magnetic fields). The news is a report on the visit of UEC President Shunichi
+Tano and Director Kazuaki Oya to New Zealand to foster new partnerships. January 2024 issue of UEC Research
+and                 Innovation                   online                 newsletterhttp://www.ru.uec.ac.jp/randi/Video
+Profileshttp://www.ru.uec.ac.jp/randi/video/research/202401.htmlCondensed matter physics: Materials science
+at ultra-high 1000 T magnetic fieldsAkihiko IkedaAssistant Professor, Department of Engineering
+ScienceAkihiko Ikeda introduces his research on condensed matter physics, particularly the effects of high
+magnetic fields up to 1000 Tesla on materials. Under these extreme magnetic conditions, changes occur not only in
+electron spin but also in the electronic, phononic, optical, and lattice states. Ikeda's primary goal is to observe
+material phase transitions leading to entirely new crystal structures unique to very high magnetic fields.Video
+
+https://youtu.be/CO1GWB83ZfUMore
+
+http://www.ru.uec.ac.jp/randi/video/research/202401.html AINet: AI for Innovative Wireless NetworkingKatsuya
+SutoAssociate              Professor,        Graduate          School          of        Informatics          and
+Engineeringhttp://www.ru.uec.ac.jp/randi/video/innovation/202401.htmlKatsuya Suto and his group is dedicated to
+revolutionizing wireless communications and networking through the integration of AI technologies.Suto is focused
+on the integration of joint source and channel coding using deep neural networks.
+
+In current wireless communication systems like 4G and 5G, source coding caters to user services, but
+communication quality suffers due to non-optimized channel coding, leading to issues like block noise in video
+transmissions.Video
+
+https://youtu.be/lPKJt2GZoWUMorehttp://www.ru.uec.ac.jp/randi/video/innovation/202401.htmlNewshttp://ww
+w.ru.uec.ac.jp/randi/news/Building Bridges for Future Partnerships: UEC President Shunichi Tano and
+Director Kazuaki Oya Cultivate Collaborations in New ZealandIn a significant stride towards global academic
+
+                                                                                                   Page 2 of 2
+   UEC Research and Innovation: AI for wireless networking and materials science at ultra-high magnetic fields
+
+collaboration, President Shunichi Tano and Member of the Board of Directors Kazuaki Oya of UEC visited New
+Zealand from December 4 to 8. The delegation, accompanied by key university representatives, visited the three
+major cities of Auckland, Wellington, and Christchurch.Read more
+
+http://www.ru.uec.ac.jp/randi/news/Photograph:http://www.ru.uec.ac.jp/randi/images/news/2023/202401_2.jpgCa
+ption: Consul General of Japan in Auckland Matsui and President Tano.Further informationThe University of
+Electro-Communications
+1-5-1 Chofugaoka, Chofu, Tokyo 182-8585
+
+E-mail:uec-ri-info-group@gl.cc.uec.ac.jp
+
+Telephone:       81-(0)     42-443-5000Website:http://www.uec.ac.jp/About        the    University    of      Electro-
+Communicationshttp://www.uec.ac.jp/The University of Electro-Communications (UEC) in Tokyo is a small,
+luminous university at the forefront of pure and applied sciences, engineering, and technology research. Its roots go
+back to the Technical Institute for Wireless Commutations, which was established in 1918 by the Wireless
+Association to train so-called wireless engineers in maritime communications in response to the Titanic disaster in
+1912. In 1949, the UEC was established as a national university by the Japanese Ministry of Education and moved
+in 1957 from Meguro to its current Chofu campus Tokyo.With approximately 4,000 students and 350 faculty
+members, UEC is regarded as a small university, but with expertise in wireless communications, laser science,
+robotics, informatics, and material science, to name just a few areas of research.                    View original
+content:https://www.prnewswire.com/news-releases/uec-research-and-innovation-ai-for-wireless-networking-and-
+materials-science-at-ultra-high-magnetic-fields-302047907.htmlSOURCE           The     University    of       Electro-
+Communications
+
+
+Load-Date: January 30, 2024
 
 
   

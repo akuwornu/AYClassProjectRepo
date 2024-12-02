@@ -1,64 +1,135 @@
 
 
-                                                                                                        Page 1 of 2
-                  Urbint Acquires WRM Software to Expand Utility Risk Offering into Storm Response
+                                                                               Page 1 of 3
+          NATIONAL GUARD EMPLOYS AI TO BATTLE WILDFIRES, IMPROVE DISASTER RESPONSE
 
 
 
 
-   Urbint Acquires WRM Software to Expand Utility Risk Offering into Storm
-                                Response
-                                                           PR Newswire
-                                           June 19, 2024 Wednesday 9:30 AM EST
+       NATIONAL GUARD EMPLOYS AI TO BATTLE WILDFIRES, IMPROVE
+                        DISASTER RESPONSE
+                                               States News Service
+                                               April 8, 2024 Monday
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 States News Service
 
-Length: 543 words
-Dateline: MIAMI, June 19, 2024
+Length: 1044 words
+Byline: States News Service
+Dateline: ARLINGTON, Va.
 
 Body
 
 
-PR NewswireThe combined solution will enable utilities to target recovery efforts using Urbint's AI-powered risk
-intelligence technology.MIAMI, June 19, 2024 /PRNewswire/ --Urbint, the leading AI platform for identifying and
-stopping threats to workers and critical infrastructure, announced the acquisition of WRM Software, a top utility
-incident management and storm response company. This acquisition expands Urbint's platform to include storm
-response, further cementing the company's position as the premier provider of operational risk mitigation solutions
-to the energy and critical infrastructure sectors.
+The following information was released by the U.S. Army-Asia Pacific:
 
- "As storms become more frequent and extreme, utilities face unprecedented challenges keeping the power on,"
-said Corey Capasso, Founder and CEO of Urbint. "It's more important than ever for utilities to prioritize and
-streamline their storm response efforts based on an accurate picture of risk and available resources. Combining
-Urbint's AI capabilities with WRM's incident management applications will give utilities the ability to restore power
-faster during major weather events.""For years, major utilities have relied on WRM to manage the overwhelming
-safety, reliability, and logistical challenges of responding to severe weather events," said Richard Addotta, CEO of
-WRM Software. "Joining forces with Urbint allows us to scale our solutions to even more utilities, and enables us to
-provide an enhanced offering for managing end-to-end storm response."According to the National Oceanic and
-Atmospheric Administration, the number of billion-dollar natural disasters in the United States increased 190% from
-the 2000s to the 2010s, and there have been 102 billion-dollar disasters in the last 5 years alone.By coming
-together, Urbint and WRM aim to transform the way utilities respond to severe weather events. WRM is now a
-wholly-owned subsidiary of Urbint.Tom Kuhn, the former President and CEO of the Edison Electric Institute, added:
-"When a natural disaster strikes, utilities are inundated with infrastructure damage and outages. Even with the
-influx of out-of-state crews through mutual assistance, the extent of urgent work that needs to be done is
-staggering. This combined offering will be a game-changer for the industry."About Urbint:Urbint uses AI and the
-latest industry science to identify threats to workers and infrastructure to stop safety incidents before they happen.
-Urbint surfaces risk at the point of work, enabling energy and infrastructure companies to prevent worker injuries
-and asset damages. Many of the largest energy and infrastructure companies in North America trust Urbint to
-protect workers, assets, communities, and the environment.Learn more at urbint.com.About WRM
-Software:WRM is a software development company focused on improving business processes through innovative
-applications. Our Storm Manager & Ops Manager applications are designed to be easy-to-use and connect field
-and office operations seamlessly. WRM's software platforms ensure everyone has access to the latest information
+By Master Sgt. Erich Smith, National Guard BureauApril 8, 2024
 
-                                                                                                  Page 2 of 2
-               Urbint Acquires WRM Software to Expand Utility Risk Offering into Storm Response
+ARLINGTON, Va. Inside the bustling confines of an operations center, National Guard members quickly assemble
+information from multiple sources, piecing together the "big picture" from ground and air personnel as they fight a
+devastating wildfire threatening lives and property.
 
-at all times. View original content to download multimedia:https://www.prnewswire.com/news-releases/urbint-
-acquires-wrm-software-to-expand-utility-risk-offering-into-storm-response-302176006.htmlSOURCE Urbint
+As the day progresses, their report meant to be a timely representation of the situation makes its way up the ladder,
+subjected to revisions and interpretations at every level.
+
+By the time the information reaches key decision makers, however, the realities on the ground have long since
+evolved: homes destroyed, wildlife scattered, vegetation wasted, and most importantly, lives lost a devastating
+situation exacerbated by delays in communication.
+
+For Michael Wisniewski, chief data officer with the Army National Guard's communications and computers
+directorate, such a scenario should never become a reality in the fast-paced world of natural disaster response.
+
+"Back in the day, we'd fly over a fire or disaster site, then come back, look at a map, make some marks on it, and
+then go out again and come back," said Wisniewski. "I jokingly say it's also like using World War II-level
+communications: Somebody delivers a sheet to somebody else, and then they read it to the commander."
+
+However, those holdover processes are becoming a thing of the past as the National Guard begins to embrace
+artificial intelligence to help it see and understand situations quickly and employ resources faster to help save
+lives and property.
+
+And significantly reducing that lag in communication via AI is the aim of Project Theia an example of how the Guard
+is committed to modernization, said Army Gen. Daniel R. Hokanson, chief of the National Guard Bureau.
+
+                                                                              Page 2 of 3
+         NATIONAL GUARD EMPLOYS AI TO BATTLE WILDFIRES, IMPROVE DISASTER RESPONSE
+
+"It is widely known the National Guard has been at the forefront of domestic response efforts especially during the
+past few decades," he said. "And this technology, simply put, is going to take us to the next level in not only how we
+coordinate with local agencies, but the speed in which we can help save lives."
+
+Named after the Greek goddess of sight, Theia centralizes video data and then applies AI solutions to increase
+situational awareness among those responding to natural or human-caused disasters.
+
+"We are trying to get all the imagery that exists in the Guard and other military assets, dump it into one platform and
+distribute it accordingly," said Wisniewski.
+
+The technical aspects of the project begin with taking in video streams from military air assets along with imagery
+and other information from ground assets.
+
+"But whether it's a [UH-72A] Lakota military helicopter, MQ-9 Reaper [unmanned aerial system] or a civilian
+partner's assets, the process of getting that footage is entirely different for each platform," said Wisniewski.
+
+This presented the challenge, he said, of rapidly creating a common operating picture for response forces.
+
+"So we built a system that said, 'Look, we'll handle the integration of all the systems, and then standardize the
+metadata behind the full-motion imagery coming in to the point where I can run AI algorithms on it,'" Wisniewski
+said.
+
+The result is a web-based tool that provides clearer depictions of disaster areas, said Air Force Capt. Douglas
+Witherspoon, with the California Air National Guard's 163rd Attack Wing.
+
+"Now, artificial intelligence can take data from a video and create an overlay and then allow the aircraft's video
+program to connect to it," he said. An overlay involves using Theia's software to render markings on top of a digital
+map of the disaster site.
+
+Because the overlay is constantly updating the imagery, Witherspoon added, analysts can better track fires.
+Whereas before, he said, those same analysts manually created overlays on a printed map or applied them to a
+digital one both time-consuming tasks.
+
+"The technology we have now is more advanced and fully automated," Witherspoon said. "Using artificial
+intelligence to visually augment live video feeds with highly accurate overlays of roads, key landmarks, and other
+mission-critical data allows analysts to make time-sensitive decisions."
+
+But first-line responders and ground operators benefit too, said Army Col. Daniel Bowles, vice director for the
+National Guard Bureau's communications and computers directorate.
+
+"You still have radio and satellite communications," he said. But one of Theia's key features is "getting real-time
+information to the very person that's on the ground, as fast as we can make it and [enhancing] decision-making
+capabilities."
+
+The project also was an exercise in collaborating with academia. Through Hacking For Defense, a Defense
+Department-sponsored university course, students work with defense and intelligence communities to rapidly
+address the nation's emerging threats and security challenges.
+
+"In the National Guard, we have a warrior's mindset when it comes to fixing a problem, which is not a bad thing,"
+said Bowles. "But then we also have the mindset of a Citizen-Soldier or Airman meaning that we come from
+industry, we come from the workforce, we come from academia, and we can provide multiple viewpoints."
+
+Tapping into the talent of young minds in academia, he added, is a natural fit for the Guard.
+
+"There are so many different solutions that are out there and when we look outside the box, we can leverage those
+different things," Bowles said.
+
+                                                                              Page 3 of 3
+         NATIONAL GUARD EMPLOYS AI TO BATTLE WILDFIRES, IMPROVE DISASTER RESPONSE
+
+Yet with the technological wonders of AI, Wisniewski said the project highlighted another accomplishment.
+
+"The real takeaway is the transformative approach to standardizing all these different formats of videos that are
+coming in so we can apply AI solutions," he said.
+
+With nearly 400 domestic response operations under its belt last year, Bowles said the Guard will continue to
+strategize how it can integrate AI to better support federal and local officials during disasters.
+
+"We're not just using new technology just to use it," said Bowles. "There's got to be a reason an understanding on
+how it makes a process better."
+
+Project officials expect to support the California National Guard during the upcoming wildfire season. They think the
+system will be fully operational by the end of the year.
 
 
-Load-Date: June 19, 2024
+Load-Date: April 11, 2024
 
 
   

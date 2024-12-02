@@ -1,155 +1,216 @@
 
 
-                                                                                                       Page 1 of 3
-    Latin America Embraces Satellite Data and Artificial Intelligence for Law Enforcement, Forest Protection, and
-                                           Civil Government Initiatives
+                                                                                                   Page 1 of 4
+        Secretary of State Blinken Issues Remarks at Ribbon Cutting Ceremony for American Corner in Lekki
 
 
 
 
-    Latin America Embraces Satellite Data and Artificial Intelligence for Law
-        Enforcement, Forest Protection, and Civil Government Initiatives
-                                                   Business Wire
-                                     August 14, 2024 Wednesday 1:03 PM GMT
+ Secretary of State Blinken Issues Remarks at Ribbon Cutting Ceremony for
+                          American Corner in Lekki
+                                                     Targeted News Service
+                                         January 24, 2024 Wednesday 7:00 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1354 words
-Dateline: SAN FRANCISCO
+
+
+
+Length: 2255 words
+Byline: Targeted News Service
+Dateline: LAGOS, Nigeria
 
 Body
 
-Planet Labs PBC (NYSE: PL), a leading provider of daily data and insights about Earth, showcased major
-customers and partners from across Central and South America yesterday at their " Planet On The Road "
-conference series, hosted in Bogotá, Colombia. Speakers at the in-person event included data and artificial
-intelligence experts and government leaders from Brazil, Colombia, and Bolivia, who focused on how satellite data
-was being used across Latin America for sustainable development, law enforcement, disaster response, and
-Amazon forest protection.
 
-Planet provides their customers and partners with satellite datasets and analysis feeds, helping to conduct broad
-area management and quantify changing conditions on the surface of the Earth. At the Bogotá event, Planet
-President and CFO, Ashley Johnson expanded on these capabilities, highlighting the company's newly launched
-Planet Insights Platform and shared, "Our daily global scan can help authorities improve situational awareness,
-allocate resources during complex incidents that occur over large areas, understand flood risks in burned areas,
-and plan long-term recovery operations."
+The U.S. State Department issued the following remarks by Secretary Antony J. Blinken at the ribbon cutting
+ceremony for the American Corner in Lekki:
 
-Planet has experienced business momentum in Latin America over the last year and by working with partners in the
-region, valuable insights and novel workflows have emerged for governments and businesses in the region. "Our
-community is uniquely equipped to harness the power of space data and AI technologies to see the signal in the
-noise, to modernize and digitize our workflows, use transparency to promote peace and security and to accelerate
-the transition toward a sustainable economy," said Robbie Schingler, Planet Co-founder and CSO in his keynote
-address at the event.
+***
 
-Planet customers and partners took to the stage for the day to share how this satellite data provides solutions to
-challenges specific to the region. Representatives from INRA , Bolivia's land management agency, discussed how
-they worked in collaboration with Planet and Planet partner CIVIS to modernize their approach to land
-management. Aiming to balance sustainability, food sovereignty, and national development, INRA leveraged the
-Planet Insights Platform to gain near real-time insights and streamline management for monitoring for carbon
-emissions compliance and land use and titling, establishing ambitious sustainable targets across the nation.
+MR STEVENS: Thank you, Wale. It is such an honor to work with you. You're a true pioneer in Nigeria's technology
+space and a leader and someone we all love and admire. Thank you. And thank you for hosting us here and at the
+American Corner. And thank you, Debola, for sharing your inspiring story. And for all of our guests and friends from
+U.S. companies who are here, who are partners often with 21st Century and our alumna and leaders from Lagos
+state government, the minister, and many others. It is such an honor to host Secretary Blinken today and to be here
+for the ribbon cutting of what will become the 26th American Space in Nigeria in 21 cities throughout the country.
+(Applause.)
 
-In a keynote, alongside INRA, Planet customer Instituto Geográfico Agustín Codazzi (IGAC), a Colombian
-government entity responsible for managing cartographic data, shared how they provide access to users
+A network of spaces that brought together nearly 100,000 people last year and probably did more for diplomacy
+than anything I did in the last year. David probably did a bit more - our charge d'affaires. But that people-to-people
+diplomacy is the foundation, it's the bedrock of a warm and strong relationship that our countries enjoy. And this
+Corner today is one more step in the path that we've taken to help unleash Nigeria's incredible talent.
 
-                                                                                                      Page 2 of 3
-   Latin America Embraces Satellite Data and Artificial Intelligence for Law Enforcement, Forest Protection, and
-                                          Civil Government Initiatives
+So I know that Secretary Blinken has a longstanding commitment to that people-to-people diplomacy. He's shown it
+in his years as Deputy Secretary of State, at the National Security Council, and now as Secretary of State, and he is
+a true leader and we're so grateful to have you here. So thank you so much and please join me in welcoming
+Secretary Blinken. (Applause.)
 
-PlanetScope and Planet Basemaps covering the entire Colombian territory. Through their platform, Observatorio de
-la Tierra y el Territorio (OTT), organizations are able to conduct efficient land-use planning and territorial
-management. With data analysis and AI, the platform aims to offer capabilities for monitoring infrastructure change
-and detect anthropogenic changes to the environment.
+SECRETARY BLINKEN: Well, thank you so much. Good morning, everyone. First of all, Debola, I think we should
+have stopped right then and there. You could have just dropped the microphone, and that would have been that.
+But you were tremendous, and it just reinforces something that our consul general just said, and so many of you
 
-In a fireside chat hosted by Robbie Schingler, Planet's co-founder and Chief Strategy Officer, and Guillermo
-Ocampo, Microsoft's National Digital Transformation Officer, the industry leaders discussed how artificial
-intelligence and satellite imagery have been transforming biodiversity protection in South America, helping to
-inform scientists and raise public awareness. Microsoft's Project Guacamaya , for instance, runs AI-enabled
-analyses on top of Planet satellite imagery of biodiverse regions to swiftly detect ecosystem changes, potentially
-caused by deforestation or mining.
+                                                                                                  Page 2 of 4
+       Secretary of State Blinken Issues Remarks at Ribbon Cutting Ceremony for American Corner in Lekki
 
-Planet partner Procalculo spoke about their collaborative work with organizations across Colombia to provide
-geospatial insights derived from Planet satellite data in areas, such as risk management and disaster response. At
-the event, Procalculo shared how they used deep learning models on top of Planet data to evaluate yearly drought
-impacts and risks, wildfire threat zones, and mapping roads for disaster management. They also spoke with the
-Head of Space Production Area for the Airforce of Colombia about how Planet data offers the capabilities of broad
-area management for the Amazon, enabling authorities to combat illegal deforestation.
+here who are alumna of the Mandela program, other programs, and that's the incredible power of our exchange
+programs - something I believe in strongly.
 
-Representatives across the Brazil MAIS program shared how Planet data has enabled the success and expansion
-of the program, working to protect the Brazilian Amazon in collaboration with the Federal Police of Brazil, the
-Ministry of Justice and Public Security of Brazil, and Planet partner SCCON Geospatial . Leveraging Planet satellite
-data, SCCON supports a change detection alert system on their platform, making near real-time information
-regarding illicit activities, such as deforestation and illegal mining accessible to Brazilian government agencies. The
-Federal Police of Brazil have been able to implement justice across the country, protecting the Amazon rainforest
-and enhancing their law enforcement operations. With Planet satellite data and SCCON's automated change
-detection, the project collected over $3 billion from fines, seized goods, and the freezing of assets since 2020.
+Now, I wouldn't have a choice because, as it happened, during the Obama administration my wife ran those
+programs, so even if I didn't believe it, I'd have to. But as it happened, I profoundly believe it, and I see it each and
+every day, and this is another incredibly powerful example. And I want those of you who are alums of the program
+to know this: We went back and looked, and Will knows this very well from his deep experience in these programs.
+We've been doing it for about 80 years. And I think maybe one of the greatest achievements was the Young African
+Leaders Program that President Obama started, the Mandelas.
 
-The Planet On the Road Bogotá event also hosted a myriad of leaders leveraging Planet satellite data across the
-Latin American agricultural industry and disaster response. In the digital farming arena, customers and partners
-speaking included Disargo, a leading supplier of fertilizers originating from Guatemala, Auravant, an Argentina-
-based digital agricultural monitoring system, and Oryzatvia, which integrates Planet data into their digital platform to
-support rice farming in Uruguay. Focusing on how AI and machine learning can transform proactive disaster
-response, Planet customers and partners EPM and Procaculo from Colombia, and Chile-based Raster4 shared
-how satellite data and emerging technologies are supporting all stages of disaster life cycle management, including
-prevention, response, and recovery.
+But if you go back and look at the history of these exchange programs over 80 years, we found incredible young
+people in countries like Nigeria to come and participate at a young age, before they had necessarily embarked on
+their careers with a passion. And as it turns out, over those 80 years, something like 60 - more than 60 participants
+went on to win Nobel Prizes, more than 600 went on to become prime ministers and presidents of their countries,
+thousands went on to become leaders in academia, in business, in culture, and they developed powerful
+connections amongst themselves and with the United States.
 
-Comprehensive List of Guest Speakers:
-    •   Guillermo Ocampo, National Digital Transformation Officer, Microsoft
-    •   Alfredo Aramayo, President, CIVIS
-    •   Felipe Trujillo, General Manager, Procalculo Prosis S.A.S.
-    •   Gustavo Marulanda Morales, General Director, IGAC
-    •   Juan De Dios Fernández, General Director of Planning, INRA
-    •   Camila Pintarelli, Director - Chief of National Fund for Public Security of the Ministry of Justice and Public
-        Security of Brazil
-    •   Cristiano Cunha, Chief of the Geomatics Service of the Federal Police & Coordinator of the Steering
-        Committee of the Brazil MAIS Program of the Ministry of Justice and Public Security
-    •   Iara Musse Felix, CEO, SCCON Geospatial
-    •   Bernardo Böcking, Co-Founder, Oryzativa
+So for me, the power of these programs - exemplified by you, by all of you here today, and by what you just said,
+Will - probably that has more impact than just about anything we do. So I'm grateful for this moment also to
+celebrate these programs.
 
-                                                                                                      Page 3 of 3
-   Latin America Embraces Satellite Data and Artificial Intelligence for Law Enforcement, Forest Protection, and
-                                          Civil Government Initiatives
+Mr. Chairman, thank you. Thank you for hosting the American Corner here at 21st Century Technologies. Thank
+you for creating the digital infrastructure that is helping to empower people across Africa. And thank you for the
+vision that you've had and that you've now put into practice. It's a very powerful thing.
 
-   •    Billy Pineda, Corporate Manager for Innovation and Development, DISAGRO
-   •    Fernando Calo, Chief Business Development Officer, Auravant
-   •    Cristiano Cunha, Chief of the Geomatics Service of the Federal Police & Coordinator of the Steering
-        Committee of the Brazil MAIS Program of the Ministry of Justice and Public Security
-   •    Camila Pintarelli, Director - Chief of National Fund for Public Security of the Ministry of Justice and Public
-        Security of Brazil
-   •    Captain Laura Fernanda Guerra Ibáaez, Head of Space Production Area, Airforce of Colombia (FAC)
-   •    Martha Patricia Valbuena Gaona, Research and Development Manager, Procalculo Prosis S.A.S.
-   •    Juan Camilo Amaya, Geospatial Technology Manager, Procalculo Prosis S.A.S.
-   •    William Ramírez, Environmental, Social, and Sustainability Professional, EPM
-   •    Valentina Espinosa Caviedes, General Manager, Raster4
+And Mr. Minister, I am grateful to you for the partnership that we have between our countries but also for your
+extraordinary leadership and vision in making Nigeria a tech powerhouse. I got a little bit of an example of that just
+a few minutes ago seeing some of the innovations taking place in this country.
 
-Planet Speakers:
-   •    Robbie Schingler, Co-Founder and Chief Strategy Officer, Planet
-   •    Ashley Johnson, President and Chief Financial Officer, Planet
-   •    Thijs Van Leeuwen, Sr. Director of Product, Planet
-   •    Dr. Flávia De Souza Mendes, Program Manager, Forests & Land Use, Planet
-   •    Gustavo Tonzo, Sr. Industry Account Executive, Planet
-   •    Ricardo Guerra, Regional Sales Director of LATAM, Planet
-   •    Steve Padgett Vasquez, Customer Success Manager, Planet
-   •    Ana Bragança, Customer Success Manager, Planet
-   •    Nataly Pulido, Customer Success Manager, Planet
-   •    Sergio Ramirez, Sales Engineer, Planet
+Back in November of 2021, I had an opportunity to come to Nigeria and to talk about building a 21st century
+partnership, a 21st century partnership with Africa countries, and to move from those questions about what we can
+do for Africa to a different question, what can we do with Africa. And I see this playing out in so many places now as
+we work together to meet shared challenges that no single one of us can effectively meet alone, and the bottom
+line, to actually deliver results to our people, because those of us who have spent some period of time in public
+office, that's our responsibility. That's what we've been charged with. A lot goes into that: promoting accountable
+government, strengthening security and stability, and especially expanding opportunity, which I think is at the heart
+of everything.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240814816055/en/
+Now, as we're doing that, two things are evident. One is the future really is with Africa. It's no secret to anyone that
+in the coming years one in four inhabitants of the planet will be from this continent, and so we would ignore Africa at
+our peril. But we also see the incredible power of these partnerships in actually solving problems together.
+
+And when we're thinking about Africa, Nigeria has to be front and center. It's the largest country. It's the largest
+economy. It's the largest democracy. It is a natural partner for the United States. And as we're looking at what we're
+doing together - trying to address the climate crisis that's affecting all of us in different ways, developing artificial
+intelligence for good, accelerating inclusive economic growth - all of that is strengthened powerfully by one thing,
+and that is the tens of thousands of Americans who are here in Nigeria working, studying, coming together with
+Nigerians around joint ventures, and the more than 500,000 Nigerian Americans who are such a powerful part of
+our own community.
+
+This place, this American Corner in Lekki, will, I believe, reinforce that incredibly vibrant relationship between our
+countries and between our peoples. You've heard it from Will: Nigeria has more American Spaces than any other
+African country, 24 locations in 21 cities, 4,400 programs reaching 100,000 Nigerians every year, and now number
+25.
+
+                                                                                                  Page 3 of 4
+       Secretary of State Blinken Issues Remarks at Ribbon Cutting Ceremony for American Corner in Lekki
+
+We know that there are so many other Nigerians like each and every one of you who want to make connections,
+who want to acquire skills, who may want to spend time in the United States studying, working, engaging with
+people. And there are many ways to do that, but these American Spaces are a big part of it.
+
+What it means is even more opportunity - more opportunity for Nigerians of any age, any community, to learn a bit
+more about the United States, to practice English, to participate in professional development programs, training, to
+get advice on studying in the United States - all to our mutual benefit.
+
+Now, it's particularly exciting here because we are sharing the space with one of the continent's most innovative
+incubators, part of an American commitment to help drive digital transformation across Africa, something that the
+minister is working on every day. And this takes a village. It takes a village of government, of the private sector, of
+entrepreneurs to build the infrastructure, to promote and support a regulatory environment, to invest in skills -
+maybe the most essential thing of all, particularly for women and for young people.
+
+And I want to underscore the absolute imperative of bringing women fully into this venture and this adventure.
+Here's what we know: If women around the world were participating equally in the workforce, equally to men, you
+would add $28 trillion to the global economy, $28 trillion. Think of all the things we could do, we could resource, if
+we have fully empowered women in our global economy.
+
+Now, what I'm seeing and what I'm feeling is that there is growing and significant American interest here in working
+in Nigeria, in investing in Nigeria, partnering with Nigerians. And we see many American companies, some of them
+present here, who are already working to help meet President Tinubu's goal of one million digital jobs. The world's
+largest subsea cable is on its way. It will reach Lagos next month. And as I've looked at the numbers, more than a
+quarter of American venture capital coming to Africa is coming to Nigeria.
+
+So there is a - more than a profound interest. There is incredible activity already going on. Now, there are
+challenges that still need to - need to be met to make sure that this is the most inviting business environment
+possible, and we talked about some of them, including last night meeting with federal government leadership,
+including the ability to repatriate capital, including the ongoing challenge of rooting out corruption.
+
+But here, every single day, this Corner is going to strengthen partnerships between the United States and Nigeria,
+and I believe it's going to fuel further tech innovation, indeed fuel the tech revolution.
+
+As I got a chance to see some of the remarkable work that some of your entrepreneurs have done, one thing is
+abundantly clear to me, and I see this around the world: No one place, no one people, have a monopoly on good
+ideas or innovation. It happens everywhere. And especially in this century, the true wealth of a nation, the true
+strength of society, will be in its ability to allow its human resources to flourish. Yes, big military matters, geography
+matters, the size of your population matters, the abundance of natural resources matters, but human resources
+matter most of all. And countries that succeed in unleashing their human resources, no matter whether they have
+an abundance or not in those other measures of strength of wealth, they are going to do very, very well. And that
+starts with empowering young people.
+
+Here, courses on everything from learning how to code to how to write a business plan will be offered. And by the
+way, I should probably sign up for the coding course. (Laughter.) Video recording, podcast studios, access to
+robotics equipment, 3D printing. This understanding of innovation and understanding that innovation is amplified by
+connection that you all represent, is central to so much of what we're doing. We have something we recently
+established with all of the countries bordering on the Atlantic, the Partnership for Atlantic Cooperation, three dozen
+coastal Atlantic countries, including the United States, including Nigeria, working together to promote a stable,
+sustainable, prosperous Atlantic region.
+
+Our own mission in Nigeria is working with our Congress to launch the Nigerian Marine and Blue Economy, a
+hackathon, because one of the things I found very powerful as well is when you put young minds and technology
+together, they can find solutions and solve problems in ways that some of us who may be a little bit older and more
+set in our ways and maybe not quite so adept with technology simply can't do.
+
+                                                                                                  Page 4 of 4
+       Secretary of State Blinken Issues Remarks at Ribbon Cutting Ceremony for American Corner in Lekki
+
+We'll bring together the government, the private sector, students to develop solutions to economic and
+environmental challenges, like addressing plastic pollution or using ocean currents to create energy. Imagine that.
+
+One of the many ways that innovation's relationship to learning are facilitated here, as we're doing that, that is going
+to be vital to tackling all of these shared challenges. And also you talked about, Mr. Chairman, bumps in the road
+giving us energy to move forward. Yes, there are tremendous challenges. We're very conscious of them every
+single day. But there are also profound opportunities, and unleashing imagination, unleashing innovation,
+unleashing partnership, that's the way to seize them.
+
+So I mentioned I had a chance to meet with a few very impressive young Nigerian entrepreneurs a moment ago.
+One of them was helping businesses harness AI to automate operations, using virtual reality to help students learn
+when studies are hindered by a natural disaster or something else that keeps them out of their physical
+classrooms. And there again, the ingenuity, the dynamism is extraordinary. And that is, I think, fundamentally the
+spirit that unites our democracies, that unites the United States and Nigeria.
+
+So as we're here together in this space, as we're here together in this innovation hub, I can't even imagine what
+people will create, what they will build here together. And in a way, that's the whole point. Whatever it is, whatever it
+is that we can't see today but you will all help us see tomorrow and realize tomorrow - that's what will make the
+most powerful difference in our world. Through centers like this we look forward to ambition continuing to grow
+alongside our relationship. And as it does, as my boss likes to say, there is nothing - nothing - we can't accomplish
+if we set our minds to it and we do it together. So thank you very, very much. (Applause.)
+
+Now, one of the best parts of this job occasionally - and I'll invite the consul general, I'll invite you, Mr. Chairman,
+Debola, please come back up and join us - is to occasionally get to cut a ribbon, so that's what we're going to do.
+
+(The ribbon was cut.)
+
+(Applause.)
+
+***
+
+Original  text    here:      https://www.state.gov/secretary-antony-j-blinken-at-the-ribbon-cutting-ceremony-for-the-
+american-corner-in-lekki/
+
+Copyright Targeted News Services
+
+T40-MgEditor-8464744 T40-MgEditor
 
 
-CONTACT: Planet Press
-Lauren Neville
-
-comms@planet.com Planet Investor Relations
-Chris Genualdi, Cleo Palmer-Poroner
-
-ir@planet.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 14, 2024
+Load-Date: January 27, 2024
 
 
   

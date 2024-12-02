@@ -1,120 +1,1663 @@
 
 
-                                                                                                 Page 1 of 3
-      Progress Introduces MarkLogic FastTrack, Helping Organizations Harness the Power of Connected Data
+                                                                                                    Page 1 of 28
+                          Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
 
 
 
 
-  Progress Introduces MarkLogic FastTrack, Helping Organizations Harness
-                       the Power of Connected Data
-                                                         GlobeNewswire
-                                               July 23, 2024 Tuesday 6:00 AM PT
+      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+                                                     Targeted News Service
+                                             March 3, 2024 Sunday 2:23 PM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
 
-Section: PRODUCT / SERVICES ANNOUNCEMENT
-Length: 1069 words
+Length: 9419 words
+Byline: by Marlyn Vitin, Targeted News Service
+Dateline: Alexandria, VA.
 
 Body
 
-New UI toolkit enables customers to build data-driven applications up to 90% faster than starting from scratch
 
-BURLINGTON, Mass., July 23, 2024 (GLOBE NEWSWIRE) -- Progress (Nasdaq: PRGS), the trusted provider of
-AI-powered infrastructure software, today announced the availability of Progress® MarkLogic® FastTrack™, a UI
-toolkit for building data- and search-driven applications to visually explore complex connected data stored in
-Progress® MarkLogic® platform. Applications built with MarkLogic FastTrack UI toolkit help data users, analysts
-and decision-makers uncover unique insights and relationships through interactive, user-friendly and visually rich
-interfaces.
+WASHINGTON, March 3 -- The following federal contracts were announced by federal agencies based in Virginia.
 
-While organizations add more diverse data types to provide context for business analytics, they struggle to gain
-deep insights as most business intelligence tools can visualize one aspect of data at a time, giving only a partial
-representation of what’s going on. Data and analytics leaders must bridge the gap between the analytics of today
-and the context-enriched analysis their industry demands.
+***
 
-With today’s release of MarkLogic FastTrack, Progress enables IT and data experts to better collaborate on
-providing workers and decision-makers across the organization with easy, visual access to the enterprise data they
-need to inform strategic business initiatives and answer sophisticated questions other analytics tools can’t,
-significantly shortening the time to insight. In addition, organizations can accelerate business insights and add
-depth to their AI-driven applications and systems by enhancing their ability to automate data analysis and
-interpretation, ultimately shortening their data-to-insight lifecycle.
+AERONAUTICAL TECHNOLOGIES Wins $400,000,000 Federal Contract
 
-“It’s no longer a matter of choice – organizations must tap into the power of unstructured data to manage, predict
-and prepare for the future,” said Stewart Bond, VP of Data Integration and Data Intelligence Software Research,
-IDC. “Data is distributed, diverse and dynamic -- constantly changing. Organizations that make consolidation and
+WASHINGTON, March 3 -- AERONAUTICAL TECHNOLOGIES, Clovis, New Mexico, won a federal contract award
+for $400,000,000 from the Department of the Interior, Herndon, Virginia, for single engine air tanker (seat) flight
+services.
 
-                                                                                                   Page 2 of 3
-        Progress Introduces MarkLogic FastTrack, Helping Organizations Harness the Power of Connected Data
+Contract Award Number: 140D0424D0057; ueiSAM: NHKMVGF4PJZ7; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
 
-monitoring of data in real-time a high priority, and invest in enabling technology, have a greater opportunity for
-competitive advantage.”
+Contact: Angelina Clements
 
-MarkLogic FastTrack, a React UI toolkit leveraging Progress® KendoReact™ UI library, includes customizable
-components and multi-model data visualization techniques for building search-to-visualization applications. The
-ready-to-use components enable development teams to assemble the functionality mix they need to develop end-
-user applications up to 90% faster than starting from scratch. The native integration with MarkLogic Server
-significantly simplifies app development and data access with no ETL or API design required. Built-in
-synchronization of the data components allows developer teams to easily build interfaces that present relationships
-between geospatial, temporal and graph data in a single UI.
+***
 
-In addition to significant developer benefits, MarkLogic FastTrack helps data citizens and decision-makers more
-easily search, explore and analyze various dimensions of an enterprise’s proprietary information (private, public,
-OSINT and more) in an interactive, visually cohesive interface. They can combine and cluster data exploration
-techniques to navigate and understand large amounts of complex data and gain deep insights into underlying
-patterns and relationships for better decision making. For example, analysts can perform exploratory geo-temporal
-analysis to see how differences in data distribution mapped to a location change over time, such as with
-epidemiology.
+HENRYS AERIAL SERVICE Wins $400,000,000 Federal Contract
 
-Applications built with MarkLogic FastTrack can help trace back events, investigate and help prevent fraud or
-disaster, monitor critical information and physical inventory and more. MarkLogic FastTrack extends the MarkLogic
-platform proposition to provide agile, end-to-end data management by adding visual data exploration and advanced
-analytics and UI development capabilities, so customers have the tools to build high-end applications and
-connected user experiences.
+WASHINGTON, March 3 -- HENRYS AERIAL SERVICE, Greenbrier, Arkansas, won a federal contract award for
+$400,000,000 from the Department of the Interior, Herndon, Virginia, for single engine air tanker (seat) flight
+services.
 
-Included in MarkLogic FastTrack:
-    •     Customizable UI Components: High-performance and feature-rich React UI components to better meet
-          business requirements with out-of-the-box functionality.
-    •     Custom Search Facets and Dynamic Filters: Enable end-users to easily navigate and explore large data in
-          detail.
-    •     Visualization Techniques for Any Data: Geospatial map, timeline, network graph, charts and text
-          components so users can discover various dimensions of their data to accelerate informed decision
-          making.
-    •     Data Access Layer: Simplifies app development and data access through pre-built integration with
-          MarkLogic Server, with no ETL or API design required.
-    •     Full-Text Search: Powered by the MarkLogic native search capabilities, delivers instant, relevant results
-          sourced across all data stored in the MarkLogic database.
-    •     Sample Apps: Easy-to-follow blueprint for quickly developing common scenarios.
+Contract Award Number: 140D0424D0065; ueiSAM: RV5CN8QMLL34; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
 
-“A composable, component-based approach to app building favors greater agility, improved developer productivity
-and faster time to insight, all of which are critical in today’s highly complex, fast-paced business environment,” said
-John Ainsworth, EVP & General Manager, Application and Data Platform, Progress. “With the launch of MarkLogic
-FastTrack, users can leverage one powerful tool to visualize data in context that will make a true impact on their
-business.”
+Contact: Angelina Clements
 
-MarkLogic FastTrack UI toolkit is available today. For more information, visit our website and What’s New page.
+***
 
-About Progress Progress (Nasdaq: PRGS) empowers organizations to achieve transformational success in the face
-of disruptive change. Our software enables our customers to develop, deploy and manage responsible, AI-powered
-applications and experiences with agility and ease. Customers get a trusted provider in Progress, with the products,
-expertise and vision they need to succeed. Over 4 million developers and technologists at hundreds of thousands of
-enterprises depend on Progress. Learn more at www.progress.com.
+                                                                                                     Page 2 of 28
+                       Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
 
-                                                                                                Page 3 of 3
-     Progress Introduces MarkLogic FastTrack, Helping Organizations Harness the Power of Connected Data
+WESTERN PILOT SERVICE Wins $400,000,000 Federal Contract
 
-Progress, MarkLogic and MarkLogic FastTrack are trademarks or registered trademarks of Progress Software
-Corporation and/or one of its subsidiaries or affiliates in the US and other countries. Any other trademarks
-contained herein are the property of their respective owners.
+WASHINGTON, March 3 -- WESTERN PILOT SERVICE, Phoenix, Arizona, won a federal contract award for
+$400,000,000 from the Department of the Interior, Herndon, Virginia, for single engine air tanker (seat) flight
+services.
 
-Press Contact: Kim Baker Progress +1-800-213-3407                                  pr@progress.com
+Contract Award Number: 140D0424D0068; ueiSAM: D1EDE26HUMV5; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+AERIAL TIMBER APPLICATORS Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- AERIAL TIMBER APPLICATORS, Cooperstown, North Dakota, won a federal contract
+award for $400,000,000 from the Department of the Interior, Herndon, Virginia, for support activities for forestry.
+The document states about the contract: single engine air tanker (seat) flight services.
+
+Contract Award Number: 140D0424D0055; ueiSAM: KN8AK1PEC2E8; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+RUTLEDGE AIRBORNE APPLICATIONS Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- RUTLEDGE AIRBORNE APPLICATIONS, Casa Grande, Arizona, won a federal
+contract award for $400,000,000 from the Department of the Interior, Herndon, Virginia, for single engine air tanker
+(seat) flight services.
+
+Contract Award Number: 140D0424D0067; ueiSAM: XEBFS9H1DUK5; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+EVERGREEN FLYING SERVICE Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- EVERGREEN FLYING SERVICE, Rayville, Louisiana, won a federal contract award for
+$400,000,000 from the Department of the Interior, Herndon, Virginia, for support activities for forestry. The
+document states about the contract: single engine air tanker (seat) flight services.
+
+Contract Award Number: 140D0424D0063; ueiSAM: MQW1VKCDYGK3; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+NEW FRONTIER AVIATION Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- NEW FRONTIER AVIATION, Fort Benton, Montana, won a federal contract award for
+$400,000,000 from the Department of the Interior, Herndon, Virginia, for support activities for forestry. The
+document states about the contract: single engine air tanker (seat) flight services.
+
+                                                                                                  Page 3 of 28
+                      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: 140D0424D0066; ueiSAM: Q9L7LZZVP974; NAICS Code: 115310; Product Service Code
+(PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+AERO S E A T Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- AERO S E A T, Sterling, Colorado, won a federal contract award for $400,000,000 from
+the Department of the Interior, Herndon, Virginia, for single engine air tanker (seat) flight services.
+
+Contract Award Number: 140D0424D0056; ueiSAM: FGBDFSGF38X5; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+COLUMBIA BASIN HELICOPTER Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- COLUMBIA BASIN HELICOPTER, La Grande, Oregon, won a federal contract award
+for $400,000,000 from the Department of the Interior, Herndon, Virginia, for support activities for forestry. The
+document states about the contract: single engine air tanker (seat) flight services.
+
+Contract Award Number: 140D0424D0062; ueiSAM: SZ2MPN63PLU4; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+CO FIRE AVIATION Wins $400,000,000 Federal Contract
+
+WASHINGTON, March 3 -- CO FIRE AVIATION, Fort Morgan, Colorado, won a federal contract award for
+$400,000,000 from the Department of the Interior, Herndon, Virginia, for single engine air tanker (seat) flight
+services.
+
+Contract Award Number: 140D0424D0061; ueiSAM: GLLPKM158NS7; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0060
+
+Contact: Angelina Clements
+
+***
+
+WHITMAN REQUARDT & ASSOCIATES Wins $90,000,000 Federal Contract
+
+WASHINGTON, March 3 -- WHITMAN REQUARDT & ASSOCIATES, Baltimore, Maryland, won a federal contract
+award for $90,000,000 from the U.S. Navy, Norfolk, Virginia, for multi-discipline architect and engineer (a-e)
+services.
+
+Contract Award Number: N4008524D0009; ueiSAM: KTCXX9XJ8273; NAICS Code: 541330; Product Service Code
+(PSC): C219; Solicitation Number: N4008524D0009
+
+Contact: Catharine Keeling
+
+***
+
+                                                                                               Page 4 of 28
+                         Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+ALUTIIQ COMMERCIAL ENTERPRISES Wins $19,122,528 Federal Contract
+
+WASHINGTON, March 3 -- ALUTIIQ COMMERCIAL ENTERPRISES, Anchorage, Alaska, won a federal contract
+award for $19,122,528 from the U.S. Air Force, Langley Air Force Base, Virginia. The document states about the
+contract: base operations support bridge contract.
+
+Contract Award Number: FA480024C0006; ueiSAM: QMJEKNF3JN15; Solicitation Number: FA480024C0006
+
+Contact: Matthew Gregg
+
+***
+
+NEPTUNE AVIATION SERVICES Wins $16,000,000 Federal Contract
+
+WASHINGTON, March 3 -- NEPTUNE AVIATION SERVICES, Missoula, Montana, won a federal contract award for
+$16,000,000 from the Department of the Interior, Herndon, Virginia, for support activities for forestry.
+
+Contract Award Number: 140D0424D0075; ueiSAM: XL62ZMCVAJQ7; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0105
+
+Contact: Angelina Clements
+
+***
+
+KIRA AVIATION SERVICES Wins $9,999,999 Federal Contract
+
+WASHINGTON, March 3 -- KIRA AVIATION SERVICES, Lynnwood, Washington, won a federal contract award for
+$9,999,999 from the U.S. Army, Alexandria, Virginia, for facilities o&m for hecsa.
+
+Contract Award Number: W912HQ24D0002; ueiSAM: HQWWMDNY1DF3; NAICS Code: 56121 ; Product Service
+Code (PSC): M1aa; Solicitation Number: W912HQ24D0002
+
+Contact: Richard Klein
+
+***
+
+AVCENTER Wins $9,000,000 Federal Contract
+
+WASHINGTON, March 3 -- AVCENTER, Pocatello, Idaho, won a federal contract award for $9,000,000 from the
+Department of the Interior, Herndon, Virginia, for support activities for forestry.Â
+
+Contract Award Number: 140D0424D0073; ueiSAM: KJKCPF6GLGQ8; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0105
+
+Contact: Angelina Clements
+
+***
+
+CLEARWATER AIR Wins $9,000,000 Federal Contract
+
+WASHINGTON, March 3 -- CLEARWATER AIR, Anchorage, Alaska, won a federal contract award for $9,000,000
+from the Department of the Interior, Herndon, Virginia, for support activities for forestry.Â
+
+Contract Award Number: 140D0424D0074; ueiSAM: DXF7FYFBYG26; NAICS Code: 115310; Product Service
+Code (PSC): F003; Solicitation Number: 140D0423R0105
+
+Contact: Angelina Clements
+
+                                                                                                 Page 5 of 28
+                      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+***
+
+TEMSCO HELICOPTERS Wins $7,500,000 Federal Contract
+
+WASHINGTON, March 3 -- TEMSCO HELICOPTERS, Ketchikan, Alaska, won a federal contract award for
+$7,500,000 from the Department of the Interior, Herndon, Virginia, for nonscheduled chartered passenger air
+transportation.
+
+Contract Award Number: 140D0424D0049; ueiSAM: GYSKYGAG2Q54; NAICS Code: 481211; Product Service
+Code (PSC): V211; Solicitation Number: 140D0424R0008
+
+Contact: John Fleshman
+
+***
+
+PATHFINDER AVIATION Wins $7,500,000 Federal Contract
+
+WASHINGTON, March 3 -- PATHFINDER AVIATION, Anchorage, Alaska, won a federal contract award for
+$7,500,000 from the Department of the Interior, Herndon, Virginia, for nonscheduled chartered passenger air
+transportation.Â
+
+Contract Award Number: 140D0424D0050; ueiSAM: M94YCZXJMUH6; NAICS Code: 481211; Product Service
+Code (PSC): V221; Solicitation Number: 140D0424R0008
+
+Contact: John Fleshman
+
+***
+
+LOHMAN HELICOPTER Wins $5,600,000 Federal Contract
+
+WASHINGTON, March 3 -- LOHMAN HELICOPTER, Lewiston, Idaho, won a federal contract award for $5,600,000
+from the Department of the Interior, Herndon, Virginia, for nonscheduled chartered passenger air transportation.
+The document states about the contract: exclusive use (eu) helicopter (helo).
+
+Contract Award Number: 140D0424D0051; ueiSAM: M73NSDRM2BE5; NAICS Code: 481211; Product Service
+Code (PSC): V221; Solicitation Number: 140D0424Q0030
+
+Contact: Heather Sizick
+
+***
+
+CCI PRIME CONTRACTORS Wins $4,500,000 Federal Contract
+
+WASHINGTON, March 3 -- CCI PRIME CONTRACTORS, Anchorage, Alaska, won a federal contract award for
+$4,500,000 from the U.S. Navy, Norfolk, Virginia, for industrial building construction.
+
+Contract Award Number: N4008524D0023; ueiSAM: SA3MXAZY2A74; NAICS Code: 236210; Product Service
+Code (PSC): Z2jz; Solicitation Number: N4008524D0023; 8AN - 8(a) Sole Source (FAR 19.8)
+
+Contact: Jessica Grosso
+
+***
+
+YELLOWSTONE ENTERPRISES Wins $4,157,974 Federal Contract
+
+WASHINGTON, March 3 -- YELLOWSTONE ENTERPRISES, Billings, Montana, won a federal contract award for
+$4,157,974 from the Department of Veterans Affairs, Quantico, Virginia, for landscaping services. The document
+states about the contract: grounds maintenance services at the tahoma national cemetery.
+
+                                                                                                     Page 6 of 28
+                         Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: QAE--36C78624D50120; ueiSAM: H7XTKPGZWSN3; NAICS Code: 561730; Product
+Service Code (PSC): S208; Solicitation Number: QSE--36C78624Q50005; SDVOSBC - Service-Disabled Veteran-
+Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)
+
+Contact: Ralph Crum
+
+***
+
+LIFE CHECK SYSTEMS Wins $2,784,585 Federal Contract
+
+WASHINGTON, March 3 -- LIFE CHECK SYSTEMS, Brentwood, Tennessee, won a federal contract award for
+$2,784,585 from the Department of the Interior Bureau of Indian Affairs, Reston, Virginia, for security systems
+services (except locksmiths). The document states, about the contract: ojs electronic cell checks.
+
+Contract Award Number: 140A1624C0003; ueiSAM: XAEBEPMAZJ33; NAICS Code: 561621; Product Service
+Code (PSC): R425; Solicitation Number: 140A1624R0006
+
+Contact: Jacqueline Wolfe
+
+***
+
+BLOODWORKS Wins $2,482,404 Federal Contract
+
+WASHINGTON, March 3 -- BLOODWORKS, Seattle, Washington, won a federal contract award for $2,482,404
+from the Department of Defense Defense Health Agency (DHA), Falls Church, Virginia, for blood donor screening
+tests approved by fda for blood donations - us naval hospital okinawa, japan.
+
+Contract Award Number: HT941024P0103; ueiSAM: ZN56PFWUDQK7; NAICS Code: 325413; Product Service
+Code (PSC): 6550; Solicitation Number: HT941024Q2024
+
+Contact: Adrian Nerida
+
+***
+
+POTAWATOMI DEFENSE OPERATIONS Wins $2,464,920 Federal Contract
+
+WASHINGTON, March 3 -- POTAWATOMI DEFENSE OPERATIONS, Milwaukee, Wisconsin, won a federal
+contract award for $2,464,920 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church,
+Virginia, for ak-yukon delta nwr-bia-soil remediation.
+
+Contract Award Number: 140FC324C0007; ueiSAM: XUZFRKEKPXF3; NAICS Code: 562910; Product Service
+Code (PSC): Z2qa; Solicitation Number: 140FC323R0023
+
+Contact: Anthony Kuntz
+
+***
+
+OXEON ENERGY Wins $1,221,916 Federal Contract
+
+WASHINGTON, March 3 -- OXEON ENERGY, North Salt Lake, Utah, won a federal contract award for $1,221,916
+from the U.S. Navy, Arlington, Virginia, for research and development in the physical, engineering, and life sciences
+(except nanotechnology and biotechnology). The document states about the contract: oxeon.
+
+Contract Award Number: N0001424C1313; ueiSAM: M2JNKMLJ2391; NAICS Code: 541715; Product Service
+Code (PSC): Ac13; Solicitation Number: N0001423SB001
+
+Contact: Leila Hemenway
+
+                                                                                                 Page 7 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+***
+
+ACE ELECTRONICS DEFENSE SYSTEMS Wins $1,196,812 Federal Contract
+
+WASHINGTON, March 3 -- ACE ELECTRONICS DEFENSE SYSTEMS, Aberdeen Proving Ground, Maryland, won
+a federal contract award for $1,196,812 from the Department of Defense Defense Logistics Agency, Richmond,
+Virginia, for radio frequency reader.
+
+Contract Award Number: SPE4A724D0126; ueiSAM: XDL4P26A24R4; NAICS Code: 334419; Product Service
+Code (PSC): 58; Solicitation Number: SPE4A724R0322
+
+Contact: William Hess
+
+***
+
+WECOST Wins $842,400 Federal Contract
+
+WASHINGTON, March 3 -- WECOST, Bethesda, Maryland, won a federal contract award for $842,400 from the
+U.S. Army, Fort Belvoir, Virginia, for laundry services.
+
+Contract Award Number: W91YTZ24P0022; ueiSAM: EF27ZE4JJDJ1; NAICS Code: 812320; Product Service
+Code (PSC): S209; Solicitation Number: W91YTZ24P0022; SBA - Total Small Business Set-Aside (FAR 19.5)
+
+Contact: Justin C Balster
+
+***
+
+WECOST Wins $842,400 Federal Contract
+
+WASHINGTON, March 3 -- WECOST, Bethesda, Maryland, won a federal contract award for $842,400 from the
+U.S. Army, Fort Belvoir, Virginia, for laundry services fort gregg-adams, va.
+
+Contract Award Number: W91YTZ24P0023; ueiSAM: EF27ZE4JJDJ1; NAICS Code: 81232 ; Product Service Code
+(PSC): S209; Solicitation Number: W91YTZ24P0023; SBA - Total Small Business Set-Aside (FAR 19.5)
+
+Contact: Justin C Balster
+
+***
+
+MANTISSA INDUSTRIES Wins $558,826 Federal Contract
+
+WASHINGTON, March 3 -- MANTISSA INDUSTRIES, Holt, Michigan, won a federal contract award for $558,826
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for metal crown, closure, and other
+metal stamping (except automotive).Â
+
+Contract Award Number: SPE4A724P7636; ueiSAM: FF7JJN944H66; NAICS Code: 332119; Product Service Code
+(PSC): 53; Solicitation Number: SPE4A724T9669
+
+Contact: Keisha Brooks
+
+***
+
+GREENE METAL PRODUCTS Wins $511,360 Federal Contract
+
+WASHINGTON, March 3 -- GREENE METAL PRODUCTS, Clinton Township, Michigan, won a federal contract
+award for $511,360 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other
+electronic component manufacturing.Â
+
+                                                                                                    Page 8 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: SPE4A724P5667; ueiSAM: F8AXG8LJZQL3; NAICS Code: 334419; Product Service
+Code (PSC): 49; Solicitation Number: SPE4A724Q0269
+
+Contact: Keisha Brooks
+
+***
+
+VBRICK SYSTEMS Wins $407,323 Federal Contract
+
+WASHINGTON, March 3 -- VBRICK SYSTEMS, North Haven, Connecticut, won a federal contract award for
+$407,323 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for data
+processing, hosting, and related services.Â
+
+Contract Award Number: 140F1S24P0012; ueiSAM: KSS9H8NC9LY3; NAICS Code: 518210; Product Service
+Code (PSC): Dh10; Solicitation Number: DOIFFBO240060
+
+Contact: Solmaz Salih
+
+***
+
+EAGLEPICHER TECHNOLOGIES Wins $377,216 Federal Contract
+
+WASHINGTON, March 3 -- EAGLEPICHER TECHNOLOGIES, Joplin, Missouri, won a federal contract award for
+$377,216 from the U.S. Navy, Arlington, Virginia, for eagle pitcher.
+
+Contract Award Number: N0001424C1312; ueiSAM: TUNPLDSDV534; NAICS Code: 541715; Product Service
+Code (PSC): Ac12; Solicitation Number: N0001423SB001
+
+Contact: Leila Hemenway
+
+***
+
+SSI TECHNOLOGY Wins $340,000 Federal Contract
+
+WASHINGTON, March 3 -- SSI TECHNOLOGY, Sterling Heights, Michigan, won a federal contract award for
+$340,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other electronic
+component manufacturing. The document states, about the contract: cable assembly.
+
+Contract Award Number: SPE4A624PF624; ueiSAM: CQFZLZMMPWX7; NAICS Code: 334419; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624Q0442
+
+Contact: Joseph Armstrong
+
+***
+
+FRONTIER TECHNOLOGIES Wins $308,912 Federal Contract
+
+WASHINGTON, March 3 -- FRONTIER TECHNOLOGIES, Wilmington, Delaware, won a federal contract award for
+$308,912 from the Department of the Interior, Herndon, Virginia, for radio and television broadcasting and wireless
+communications equipment manufacturing.
+
+Contract Award Number: 47QTCA19D00M7; ueiSAM: H1KWL9KAVKV4; NAICS Code: 334220; Product Service
+Code (PSC): 7g22; Solicitation Number: 140D0424Q0052
+
+Contact: Sara Wigglesworth
+
+***
+
+                                                                                                     Page 9 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+AAR SUPPLY CHAIN Wins $294,323 Federal Contract
+
+WASHINGTON, March 3 -- AAR SUPPLY CHAIN, Wood Dale, Illinois, won a federal contract award for $294,323
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for liner assembly, combusto.
+
+Contract Award Number: SPE4A524P4679; ueiSAM: TWJNLZXJ39F1; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A524T017A
+
+Contact: Mary Williams
+
+***
+
+SHADOWDRAGON FEDERAL Wins $278,400 Federal Contract
+
+WASHINGTON, March 3 -- SHADOWDRAGON FEDERAL, Hoover, Alabama, won a federal contract award for
+$278,400 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for social media
+search tool.
+
+Contract Award Number: 140F1S24P0008; ueiSAM: VDMSWLV2G6R3; NAICS Code: 518210; Product Service
+Code (PSC): Da10; Solicitation Number: 140F1S24Q0014
+
+Contact: Solmaz Salih
+
+***
+
+MADIX Wins $250,897 Federal Contract
+
+WASHINGTON, March 3 -- MADIX, Goodwater, Alabama, won a federal contract award for $250,897 from the
+Department of Defense Defense Commissary Agency (DECA), Fort Gregg Adams, Virginia, for shelving supply and
+installation orote, guam.
+
+Contract Award Number: HQC00424P0029; ueiSAM: CM7XQZC3S455; Solicitation Number: HQC00424P0029
+
+Contact: Nicholas Ruppert
+
+***
+
+R&B ELECTRONICS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- R&B ELECTRONICS, Sault Ste. Marie, Michigan, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for power, distribution,
+and specialty transformer manufacturing. The document states about the contract: electrical lead.
+
+Contract Award Number: SPE4A624D5460; ueiSAM: D7KNMG81X8Q9; NAICS Code: 335311; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624RX415
+
+Contact: Mark Stephens
+
+***
+
+UNITED AVIONICS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- UNITED AVIONICS, Naugatuck, Connecticut, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other electronic
+component manufacturing. The document states about the contract: power, electrical.
+
+Contract Award Number: SPE4A624D5479; ueiSAM: E7D1XW43Q981; NAICS Code: 334419; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624RX563
+
+                                                                                                  Page 10 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contact: Virginia Rhodes
+
+***
+
+ROTAIR AEROSPACE Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- ROTAIR AEROSPACE, Bridgeport, Connecticut, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for bolt, nut, screw, rivet,
+and washer manufacturing. The document states about the contract: ring spacer.
+
+Contract Award Number: SPE4A724D5192; ueiSAM: XCGAMADGHC81; NAICS Code: 332722; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A724RX253
+
+Contact: Anthony Beason
+
+***
+
+RICHARD MANUFACTURING Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- RICHARD MANUFACTURING, Ogden, Utah, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other electronic
+component manufacturing. The document states about the contract: wiring harness, bran.
+
+Contract Award Number: SPE4A624D5503; ueiSAM: GJ84E5M1TYZ5; NAICS Code: 334419; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624RX307
+
+Contact: Virginia Rhodes
+
+***
+
+BASIC RUBBER & PLASTICS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- BASIC RUBBER & PLASTICS, Walled Lake, Michigan, won a federal contract award
+for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for ball and roller
+bearing manufacturing. The document states about the contract: sleeve bushing.
+
+Contract Award Number: SPE4A624D5500; ueiSAM: V8M7VR28LYL1; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624RX750
+
+Contact: Glenn Harris
+
+***
+
+R&B ELECTRONICS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- R&B ELECTRONICS, Sault Ste. Marie, Michigan, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for all other
+miscellaneous electrical equipment and component manufacturing.Â
+
+Contract Award Number: SPE4A724D5201; ueiSAM: D7KNMG81X8Q9; NAICS Code: 335999; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A724RX308
+
+Contact: William Hess
+
+***
+
+AMERICAN BEARING & COMPONENTS Wins $250,000 Federal Contract
+
+                                                                                               Page 11 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- AMERICAN BEARING & COMPONENTS, Hansville, Washington, won a federal
+contract award for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for
+retainer and roller bearing.
+
+Contract Award Number: SPE4A624D5475; ueiSAM: TSACTF7BMQE1; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624RX521
+
+Contact: Glenn Harris
+
+***
+
+PALMER WAHL INSTRUMENTS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- PALMER WAHL INSTRUMENTS, Asheville, North Carolina, won a federal contract
+award for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for
+temperature plate.
+
+Contract Award Number: SPE4A724D5195; ueiSAM: FNM8D5R3E5H3; NAICS Code: 336411; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A723RXB38
+
+Contact: Leslie Adams
+
+***
+
+AIRCRAFT & COMMERCIAL ENTERPRISES Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- AIRCRAFT & COMMERCIAL ENTERPRISES, Derby, Kansas, won a federal contract
+award for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for insulation,
+electrical tape.
+
+Contract Award Number: SPE4A624D5494; ueiSAM: JBGBLZNGPMJ5; NAICS Code: 335999; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624RX2930001
+
+Contact: Chanel Green
+
+***
+
+CASCADE AVIATION SERVICES Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- CASCADE AVIATION SERVICES, Marysville, Washington, won a federal contract
+award for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for structural,
+ai plate.
+
+Contract Award Number: SPE4A724D5205; ueiSAM: T9HEC58GZKJ8; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724RX263
+
+Contact: Adam Thagard
+
+***
+
+HOOSIER INDUSTRIAL SUPPLY Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- HOOSIER INDUSTRIAL SUPPLY, Goshen, Indiana, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for housing assembly.
+
+Contract Award Number: SPE4A724D5190; ueiSAM: E16PLDKCL3V1; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A724RX292
+
+                                                                                                  Page 12 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contact: Leslie Adams
+
+***
+
+PERMA-CAL INDUSTRIES Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- PERMA-CAL INDUSTRIES, Minden, Nevada, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other measuring and
+controlling device manufacturing. The document states about the contract: pressure, dial indicating gage.
+
+Contract Award Number: SPE4A624D5428; ueiSAM: KWXGC6JE8MQ6; NAICS Code: 334519; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A624RX200
+
+Contact: Quinesha Cruz
+
+***
+
+WINDWARD ENTERPRISES Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- WINDWARD ENTERPRISES, Ridgeland, South Carolina, won a federal contract award
+for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for power cable
+assembly.
+
+Contract Award Number: SPE4A624D5480; ueiSAM: DGJPCQNPKTB4; NAICS Code: 335311; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624RX714
+
+Contact: Chanel Green
+
+***
+
+MALONES CNC MACHINING Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- MALONES CNC MACHINING, Grove, Oklahoma, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for stiffener, aircraft rib.
+
+Contract Award Number: SPE4A724D5194; ueiSAM: Y678QD2DNDS1; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724RX314
+
+Contact: Leslie Adams
+
+***
+
+AIRTRONICS Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- AIRTRONICS, Tucson, Arizona, won a federal contract award for $250,000 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for cable assembly.
+
+Contract Award Number: SPE4A624D5483; ueiSAM: U8ZKGNNR4YR8; NAICS Code: 334419; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624RX018
+
+Contact: Mark Stephens
+
+***
+
+UNION MACHINE CO OF LYNN Wins $250,000 Federal Contract
+
+                                                                                              Page 13 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- UNION MACHINE CO OF LYNN, Groveland, Massachusetts, won a federal contract
+award for $250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for shroud
+segment, turb.
+
+Contract Award Number: SPE4A724D5150; ueiSAM: P5NJQDN75C54; NAICS Code: 336412; Product Service
+Code (PSC): 28; Solicitation Number: SPE4A723RXB44
+
+Contact: Leslie Adams
+
+***
+
+MALONES CNC MACHINING Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- MALONES CNC MACHINING, Grove, Oklahoma, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for aircraft frame.
+
+Contract Award Number: SPE4A724D0111; ueiSAM: Y678QD2DNDS1; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724R0127
+
+Contact: Cindy Hunt
+
+***
+
+MALONES CNC MACHINING Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- MALONES CNC MACHINING, Grove, Oklahoma, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for hydraulic bracket.
+
+Contract Award Number: SPE4A724D5179; ueiSAM: Y678QD2DNDS1; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A724RX251
+
+Contact: Leslie Adams
+
+***
+
+CONQUEST MACHINE Wins $250,000 Federal Contract
+
+WASHINGTON, March 3 -- CONQUEST MACHINE, Las Cruces, New Mexico, won a federal contract award for
+$250,000 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for parts kit.
+
+Contract Award Number: SPE4A724D5139; ueiSAM: NJHZR4H7LQU7; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A724RX052
+
+Contact: Christina Diebold
+
+***
+
+POWERJET PARTS Wins $229,572 Federal Contract
+
+WASHINGTON, March 3 -- POWERJET PARTS, Las Vegas, Nevada, won a federal contract award for $229,572
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for totalizing fluid meter and
+counting device manufacturing. The document states about the contract: fluid flow, meter.
+
+Contract Award Number: SPE4A624PG251; ueiSAM: D4T4JL67FZR9; NAICS Code: 334514; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A624T499L
+
+Contact: Karen Randolph
+
+                                                                                                Page 14 of 28
+                      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+***
+
+AMERICAN FUEL CELL & COATED FABRICS Wins $217,497 Federal Contract
+
+WASHINGTON, March 3 -- AMERICAN FUEL CELL & COATED FABRICS, Magnolia, Arkansas, won a federal
+contract award for $217,497 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for
+fuel, aircraft tank.
+
+Contract Award Number: SPE4A724P7831; ueiSAM: LUKJQHLR55N8; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T7130
+
+Contact: Valerie Bieman
+
+***
+
+MECHATRONICS Wins $200,700 Federal Contract
+
+WASHINGTON, March 3 -- MECHATRONICS, Preston, Washington, won a federal contract award for $200,700
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for sleeve bearing.
+
+Contract Award Number: SPE4A624PG564; ueiSAM: RE5CZNL1AHS8; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T481J
+
+Contact: Cynthia Conner
+
+***
+
+TERARECON Wins $194,532 Federal Contract
+
+WASHINGTON, March 3 -- TERARECON, Durham, North Carolina, won a federal contract award for $194,532
+from the Department of Defense Defense Health Agency (DHA), Falls Church, Virginia, for notice of intent to sole
+source aquarius netvme sma.
+
+Contract Award Number: HT941024P0102; ueiSAM: NJX3EKJRZP68; NAICS Code: 811210 ; Product Service
+Code (PSC): J065; Solicitation Number: HT941024P0102
+
+Contact: Gilberto Esteves
+
+***
+
+RED LETTER SUPPLY Wins $190,272 Federal Contract
+
+WASHINGTON, March 3 -- RED LETTER SUPPLY, Anderson, South Carolina, won a federal contract award for
+$190,272 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for spill containment.
+
+Contract Award Number: SPE4A724P7804; ueiSAM: X6RKK3PZEU69; NAICS Code: 325612; Product Service
+Code (PSC): 42; Solicitation Number: SPE4A724Q0387
+
+Contact: Keisha Brooks
+
+***
+
+METALTEK INTERNATIONAL Wins $172,250 Federal Contract
+
+WASHINGTON, March 3 -- METALTEK INTERNATIONAL, Waukesha, Wisconsin, won a federal contract award for
+$172,250 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for bearing, outer ring.
+
+                                                                                                  Page 15 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: SPE4A624PG247; ueiSAM: JK4WJKLD44G9; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A622T30MW
+
+Contact: Robye Dewitt
+
+***
+
+PARA-GEAR EQUIPMENT Wins $158,674 Federal Contract
+
+WASHINGTON, March 3 -- PARA-GEAR EQUIPMENT, Skokie, Illinois, won a federal contract award for $158,674
+from the U.S. Navy, Norfolk, Virginia, for parachute systems and accessories.
+
+Contract Award Number: N0018924P0180; ueiSAM: NEMUWDLZNGJ9; NAICS Code: 314999; Product Service
+Code (PSC): 1670; Solicitation Number: N0018924P0180; SBA - Total Small Business Set-Aside (FAR 19.5)
+
+Contact: Leah Johnson
+
+***
+
+JTM ENTERPRISE Wins $153,742 Federal Contract
+
+WASHINGTON, March 3 -- JTM ENTERPRISE, Wichita, Kansas, won a federal contract award for $153,742 from
+the Department of Veterans Affairs, Quantico, Virginia, for natchez national cemetery station janitorial services.
+
+Contract Award Number: QAE--36C78624C50165; ueiSAM: DE52DFB9LLV1; NAICS Code: 561720; Product
+Service Code (PSC): S201; Solicitation Number: QSE--36C78624Q50055; SDVOSBS - Service-Disabled Veteran-
+Owned Small Business (SDVOSB) Sole Source (FAR 19.14)
+
+Contact: Ralph Crum
+
+***
+
+KPEM Wins $150,000 Federal Contract
+
+WASHINGTON, March 3 -- KPEM, La Porte, Indiana, won a federal contract award for $150,000 from the
+Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for disaster relief.
+
+Contract Award Number: 140FS324P0129; ueiSAM: S7CMSDMLUSL3; NAICS Code: 115310; Product Service
+Code (PSC): F006; Solicitation Number: 140FS324Q0060
+
+Contact: Fred Riley
+
+***
+
+NEW ERA CONTRACT SALES Wins $143,594 Federal Contract
+
+WASHINGTON, March 3 -- NEW ERA CONTRACT SALES, Tacoma, Washington, won a federal contract award for
+$143,594 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for duct assembly, air c.
+
+Contract Award Number: SPE4A724P7914; ueiSAM: H3DUEENDGC64; NAICS Code: 336411; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A723T577H
+
+Contact: Rekisha Burton
+
+***
+
+S.P. CRAMER & ASSOCIATES Wins $132,828 Federal Contract
+
+                                                                                                Page 16 of 28
+                      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- S.P. CRAMER & ASSOCIATES, Portland, Oregon, won a federal contract award for
+$132,828 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for testing
+laboratories. The document states about the contract: genomics project.
+
+Contract Award Number: 140FS124P0051; ueiSAM: LDXFGGCL9U79; NAICS Code: 541380; Product Service
+Code (PSC): Q301; Solicitation Number: 140FS124P0051
+
+Contact: Chelsea Devivo
+
+***
+
+PAR PRODUCTS Wins $128,754 Federal Contract
+
+WASHINGTON, March 3 -- PAR PRODUCTS, Coventry, Rhode Island, won a federal contract award for $128,754
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for power, distribution, and
+specialty transformer manufacturing.Â
+
+Contract Award Number: SPE4A624PF539; ueiSAM: LBEFKHGKKUT9; NAICS Code: 335311; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624T826M
+
+Contact: Marcita Robinson
+
+***
+
+AVIATRIX Wins $124,973 Federal Contract
+
+WASHINGTON, March 3 -- AVIATRIX, Sherwood, Oregon, won a federal contract award for $124,973 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for other aircraft parts and auxiliary
+equipment manufacturing. The document states, about the contract: window panel, aircraft.
+
+Contract Award Number: SPE4A724P7904; ueiSAM: WNG8LVV75EP3; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A723T121R
+
+Contact: Holly Simmons
+
+***
+
+AIRTRONICS Wins $122,650 Federal Contract
+
+WASHINGTON, March 3 -- AIRTRONICS, Tucson, Arizona, won a federal contract award for $122,650 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for inner arm.
+
+Contract Award Number: SPE4A124V0226; ueiSAM: U8ZKGNNR4YR8; NAICS Code: 332510; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A124T2269
+
+Contact: Matthew Wood
+
+***
+
+OPATIK DEFENSE MANUFACTURING Wins $117,846 Federal Contract
+
+WASHINGTON, March 3 -- OPATIK DEFENSE MANUFACTURING, Rochester Hills, Michigan, won a federal
+contract award for $117,846 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for
+bolt, nut, screw, rivet, and washer manufacturing. The document states about the contract: cap, socket he screw.
+
+Contract Award Number: SPE4A124P0799; ueiSAM: PLF6C8UUN7Y3; NAICS Code: 332722; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A124T1746
+
+                                                                                               Page 17 of 28
+                      Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contact: Latoya Whitehead
+
+***
+
+JANELS INDUSTRIES Wins $106,600 Federal Contract
+
+WASHINGTON, March 3 -- JANELS INDUSTRIES, Dowagiac, Michigan, won a federal contract award for $106,600
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia. The document states about the
+contract: cable assembly.
+
+Contract Award Number: SPE4A624PG832; ueiSAM: C899NEQ26BA4; NAICS Code: 444180 ; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624T861Z
+
+Contact: Marcita Robinson
+
+***
+
+ACE ELECTRONICS DEFENSE SYSTEMS Wins $93,750 Federal Contract
+
+WASHINGTON, March 3 -- ACE ELECTRONICS DEFENSE SYSTEMS, Aberdeen Proving Ground, Maryland, won
+a federal contract award for $93,750 from the Department of Defense Defense Logistics Agency, Richmond,
+Virginia, for electrical power cable assembly.
+
+Contract Award Number: SPE4A624PG326; ueiSAM: XDL4P26A24R4; NAICS Code: 334419; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624T949N
+
+Contact: Andrew Alverson
+
+***
+
+SIMTECH Wins $93,360 Federal Contract
+
+WASHINGTON, March 3 -- SIMTECH, East Granby, Connecticut, won a federal contract award for $93,360 from
+the Department of Defense Defense Logistics Agency, Richmond, Virginia, for industrial valve manufacturing. The
+document states about the contract: check valve.
+
+Contract Award Number: SPE4A524V1391; ueiSAM: N2ZFUWL54DT9; NAICS Code: 332911; Product Service
+Code (PSC): 48; Solicitation Number: SPE4A524T034B
+
+Contact: Matthew Wood
+
+***
+
+TRIMAN INDUSTRIES Wins $92,780 Federal Contract
+
+WASHINGTON, March 3 -- TRIMAN INDUSTRIES, Morristown, New Jersey, won a federal contract award for
+$92,780 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for hardware
+manufacturing. The document states about the contract: plate spacer.
+
+Contract Award Number: SPE4A724P8154; ueiSAM: VWX3JEES4FF7; NAICS Code: 332510; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A724T9041
+
+Contact: Kenneth Wideman
+
+***
+
+RBC AIRCRAFT PRODUCTS Wins $91,375 Federal Contract
+
+                                                                                              Page 18 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- RBC AIRCRAFT PRODUCTS, Torrington, Connecticut, won a federal contract award
+for $91,375 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for ball and roller
+bearing manufacturing. The document states about the contract: ball, airfra bearing.
+
+Contract Award Number: SPE4A724V1719; ueiSAM: MM4LE4EB7CU5; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A724T029H
+
+Contact: Stephanie Cruz
+
+***
+
+EHB SUPPLY Wins $87,951 Federal Contract
+
+WASHINGTON, March 3 -- EHB SUPPLY, Silverdale, Washington, won a federal contract award for $87,951 from
+the Department of Defense Defense Logistics Agency, Richmond, Virginia, for resilient, wea mount.
+
+Contract Award Number: SPE4A724P7759; ueiSAM: UZTJM6MNA874; NAICS Code: 332994; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A724T8359
+
+Contact: Michaela Millan
+
+***
+
+STATZ Wins $76,576 Federal Contract
+
+WASHINGTON, March 3 -- STATZ, Middleton, Wisconsin, won a federal contract award for $76,576 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for sleeve bearing.
+
+Contract Award Number: SPE4A624PG105; ueiSAM: CE68LE9NASB5; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T971Y
+
+Contact: Robye Dewitt
+
+***
+
+A WILEY & ASSOCIATES Wins $75,523 Federal Contract
+
+WASHINGTON, March 3 -- A WILEY & ASSOCIATES, Huntsville, Alabama, won a federal contract award for
+$75,523 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for antenna cap.
+
+Contract Award Number: SPE4A724P7929; ueiSAM: KRATXDTUH2U5; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T043X
+
+Contact: Huy Nguyen
+
+***
+
+SSI TECHNOLOGY Wins $75,360 Federal Contract
+
+WASHINGTON, March 3 -- SSI TECHNOLOGY, Sterling Heights, Michigan, won a federal contract award for
+$75,360 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for other electronic
+component manufacturing.Â
+
+Contract Award Number: SPE4A724P8060; ueiSAM: CQFZLZMMPWX7; NAICS Code: 334419; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A724T039M
+
+Contact: Kenneth Wideman
+
+                                                                                                  Page 19 of 28
+                         Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+***
+
+BTR ENTERPRISES OF SC Wins $74,084 Federal Contract
+
+WASHINGTON, March 3 -- BTR ENTERPRISES OF SC, Mountville, South Carolina, won a federal contract award
+for $74,084 from the Department of Veterans Affairs, Hampton, Virginia, for overhead skywalk cleaning.
+
+Contract Award Number: 36C24624P0752; ueiSAM: TLL5HG4437X5; NAICS Code: 561790; Product Service Code
+(PSC): Z1da; Solicitation Number: 36C24624Q0326; SDVOSBC - Service-Disabled Veteran-Owned Small
+Business (SDVOSB) Set-Aside (FAR 19.14)
+
+Contact: Keicha Passley
+
+***
+
+MECHATRONICS Wins $64,728 Federal Contract
+
+WASHINGTON, March 3 -- MECHATRONICS, Preston, Washington, won a federal contract award for $64,728
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for plain, rod end bearing.
+
+Contract Award Number: SPE4A624V9775; ueiSAM: RE5CZNL1AHS8; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T959C
+
+Contact: Matthew Wood
+
+***
+
+ASRC FEDERAL FACILITIES LOGISTICS Wins $64,546 Federal Contract
+
+WASHINGTON, March 3 -- ASRC FEDERAL FACILITIES LOGISTICS, Beltsville, Maryland, won a federal contract
+award for $64,546 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for tool kit, seal.
+
+Contract Award Number: SPE4A624PG795; ueiSAM: MA1VZ6667CB1; NAICS Code: 332216; Product Service
+Code (PSC): 51; Solicitation Number: SPE4A624T8358
+
+Contact: Vincent Price
+
+***
+
+R&M GOVERNMENT SERVICES Wins $64,531 Federal Contract
+
+WASHINGTON, March 3 -- R&M GOVERNMENT SERVICES, Las Cruces, New Mexico, won a federal contract
+award for $64,531 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for access,
+aircraft cover.
+
+Contract Award Number: SPE4A724P7869; ueiSAM: M8BLN7XW5M86; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T7057
+
+Contact: Christopher Mayberry
+
+***
+
+TIMKEN Wins $64,298 Federal Contract
+
+WASHINGTON, March 3 -- TIMKEN, Lebanon, New Hampshire, won a federal contract award for $64,298 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for roller, self bearing.
+
+                                                                                              Page 20 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: SPE4A624PG425; ueiSAM: MKH7LGXXFTZ1; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T888T
+
+Contact: Karen Randolph
+
+***
+
+TREADWELL CORPORATION (DELAWARE) Wins $62,488 Federal Contract
+
+WASHINGTON, March 3 -- TREADWELL CORPORATION (DELAWARE), Thomaston, Connecticut, won a federal
+contract award for $62,488 from the Department of Defense Defense Logistics Agency, Richmond, Virginia. The
+document states about the contract: hoist.
+
+Contract Award Number: SPE4A724P8127; ueiSAM: UDTCLN3WJA87; NAICS Code: 333310 ; Product Service
+Code (PSC): 36; Solicitation Number: SPE4A724T5905
+
+Contact: Renee Bynum
+
+***
+
+R&M GOVERNMENT SERVICES Wins $60,404 Federal Contract
+
+WASHINGTON, March 3 -- R&M GOVERNMENT SERVICES, Las Cruces, New Mexico, won a federal contract
+award for $60,404 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for cam
+follower, needle.
+
+Contract Award Number: SPE4A624PG706; ueiSAM: M8BLN7XW5M86; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T7875
+
+Contact: Karen Randolph
+
+***
+
+SCHAEFFLER AEROSPACE USA Wins $58,904 Federal Contract
+
+WASHINGTON, March 3 -- SCHAEFFLER AEROSPACE USA, Danbury, Connecticut, won a federal contract
+award for $58,904 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for ball and
+roller bearing manufacturing. The document states about the contract: ball, duplex bearing.
+
+Contract Award Number: SPE4A624PF845; ueiSAM: RDM6SEMM2WB4; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T545W
+
+Contact: Stuart Dowdy
+
+***
+
+TESTEK Wins $57,726 Federal Contract
+
+WASHINGTON, March 3 -- TESTEK, Wixom, Michigan, won a federal contract award for $57,726 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for other electronic component
+manufacturing. The document states, about the contract: cable assembly.
+
+Contract Award Number: SPE4A624PG660; ueiSAM: KJWFZGACBL59; NAICS Code: 334419; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624T581W
+
+Contact: Emily Andersen
+
+***
+
+                                                                                                  Page 21 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+ENIGMA AEROSPACE & CONSULTING Wins $55,496 Federal Contract
+
+WASHINGTON, March 3 -- ENIGMA AEROSPACE & CONSULTING, Loogootee, Indiana, won a federal contract
+award for $55,496 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for structural
+support.
+
+Contract Award Number: SPE4A724P7821; ueiSAM: L5RBF2V2QLV3; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A624T3070
+
+Contact: Christopher Mayberry
+
+***
+
+JGILS Wins $55,286 Federal Contract
+
+WASHINGTON, March 3 -- JGILS, Slidell, Louisiana, won a federal contract award for $55,286 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for other measuring and controlling device
+manufacturing. The document states about the contract: pressure transmitter.
+
+Contract Award Number: SPE4A624V9702; ueiSAM: JNC1BUEVV3B9; NAICS Code: 334519; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A624T859W
+
+Contact: Jennifer Benzenhafer
+
+***
+
+MID-STATE AEROSPACE Wins $54,704 Federal Contract
+
+WASHINGTON, March 3 -- MID-STATE AEROSPACE, Olathe, Kansas, won a federal contract award for $54,704
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for breakaway valve.
+
+Contract Award Number: SPE4A124V0234; ueiSAM: LCNCK3DFQW57; NAICS Code: 336310; Product Service
+Code (PSC): 48; Solicitation Number: SPE4A124T2265
+
+Contact: Matthew Wood
+
+***
+
+LEE PRECISION MACHINE SHOP Wins $52,822 Federal Contract
+
+WASHINGTON, March 3 -- LEE PRECISION MACHINE SHOP, Athens, Alabama, won a federal contract award for
+$52,822 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for structural support.
+
+Contract Award Number: SPE4A724P7846; ueiSAM: TSUNWJPK9BQ3; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T010D
+
+Contact: Sophia Giles
+
+***
+
+CADILLAC FABRICATION Wins $48,995 Federal Contract
+
+WASHINGTON, March 3 -- CADILLAC FABRICATION, Cadillac, Michigan, won a federal contract award for
+$48,995 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for metal tank
+(heavy gauge) manufacturing.Â
+
+Contract Award Number: 140FS224P0141; ueiSAM: X86LABR6LMM5; NAICS Code: 332420; Product Service
+Code (PSC): J023; Solicitation Number: 0040652902
+
+                                                                                                  Page 22 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contact: Jeremy Riva
+
+***
+
+TIMKEN Wins $48,432 Federal Contract
+
+WASHINGTON, March 3 -- TIMKEN, Lebanon, New Hampshire, won a federal contract award for $48,432 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for ball, annula bearing.
+
+Contract Award Number: SPE4A624PG149; ueiSAM: MKH7LGXXFTZ1; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T942F
+
+Contact: Jennifer Benzenhafer
+
+***
+
+MADDUX & SONS Wins $44,888 Federal Contract
+
+WASHINGTON, March 3 -- MADDUX & SONS, Douglas, Arizona, won a federal contract award for $44,888 from
+the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for az sbnwr entrance rd and
+parking area.
+
+Contract Award Number: 140FC124P0016; ueiSAM: ZPUMCLQK61H3; NAICS Code: 237310; Product Service
+Code (PSC): Z2lb; Solicitation Number: 140FC124R0019
+
+Contact: Nicole Johnson
+
+***
+
+AMERICAN BEARING & COMPONENTS Wins $42,174 Federal Contract
+
+WASHINGTON, March 3 -- AMERICAN BEARING & COMPONENTS, Hansville, Washington, won a federal
+contract award for $42,174 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for
+plain, self- aligning bearing.
+
+Contract Award Number: SPE4A624PG104; ueiSAM: TSACTF7BMQE1; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A624T875E
+
+Contact: Robye Dewitt
+
+***
+
+IBIDE Wins $40,900 Federal Contract
+
+WASHINGTON, March 3 -- IBIDE, Woodstock, Maryland, won a federal contract award for $40,900 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for motional transducer.
+
+Contract Award Number: SPE4A624PE849; ueiSAM: GRR5HGA6FB48; NAICS Code: 334513; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A523T445H
+
+Contact: Linda Moore
+
+***
+
+CRAIG KOPPIE Wins $40,000 Federal Contract
+
+                                                                                                        Page 23 of 28
+                        Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- CRAIG KOPPIE, Severn, Maryland, won a federal contract award for $40,000 from the
+Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for bald eagle nest occupancy
+survey 2024.
+
+Contract Award Number: 140F0S23A0037; ueiSAM: UJYRQMK64TE7; NAICS Code: 541690; Product Service
+Code (PSC): B534; Solicitation Number: 140FS324F0047
+
+Contact: Ryna Russell
+
+***
+
+ROETKER FRED Wins $40,000 Federal Contract
+
+WASHINGTON, March 3 -- ROETKER FRED, Lafayette, Louisiana, won a federal contract award for $40,000 from
+the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for other scientific and technical
+consulting services. The document states about the contract: bald eagle nest occupancy survey 2024.
+
+Contract Award Number: 140F0422A0037; ueiSAM: KG2HMP7LH464; NAICS Code: 541690; Product Service
+Code (PSC): B534; Solicitation Number: 140FS324F0046
+
+Contact: Ryna Russell
+
+***
+
+ASRC FEDERAL FACILITIES LOGISTICS Wins $39,828 Federal Contract
+
+WASHINGTON, March 3 -- ASRC FEDERAL FACILITIES LOGISTICS, Beltsville, Maryland, won a federal contract
+award for $39,828 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for cable
+assembly and reel.
+
+Contract Award Number: SPE4A624PF874; ueiSAM: NENSLR2C1VH9; NAICS Code: 334419; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624T316F
+
+Contact: Emily Andersen
+
+***
+
+STATZ Wins $36,788 Federal Contract
+
+WASHINGTON, March 3 -- STATZ, Middleton, Wisconsin, won a federal contract award for $36,788 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for lower, engine link.
+
+Contract Award Number: SPE4A724V1721; ueiSAM: CE68LE9NASB5; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T043Q
+
+Contact: Matthew Wood
+
+***
+
+YUMA DESERT CONTRACTORS Wins $36,173 Federal Contract
+
+WASHINGTON, March 3 -- YUMA DESERT CONTRACTORS, Yuma, Arizona, won a federal contract award for
+$36,173 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for native species
+planting-buenos aires nwr, az.
+
+Contract Award Number: 140FS224P0134; ueiSAM: WM7MRX2KLN49; NAICS Code: 561730; Product Service
+Code (PSC): F006; Solicitation Number: 140FS224Q0060
+
+                                                                                               Page 24 of 28
+                       Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contact: Freyholtz Ballard, Darla
+
+***
+
+STATZ Wins $35,771 Federal Contract
+
+WASHINGTON, March 3 -- STATZ, Middleton, Wisconsin, won a federal contract award for $35,771 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for sleeve bushing.
+
+Contract Award Number: SPE4A624PF853; ueiSAM: CE68LE9NASB5; NAICS Code: 332991; Product Service
+Code (PSC): 31; Solicitation Number: SPE4A623T22XN
+
+Contact: Tiffany Henderson
+
+***
+
+H.M. DUNN COMPANY Wins $34,635 Federal Contract
+
+WASHINGTON, March 3 -- H.M. DUNN COMPANY, Wichita, Kansas, won a federal contract award for $34,635
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for structural fitting.
+
+Contract Award Number: SPE4A724P7942; ueiSAM: TERRPK2NRVP9; NAICS Code: 336413; Product Service
+Code (PSC): 15; Solicitation Number: SPE4A724T9132
+
+Contact: Robert Winchester
+
+***
+
+R&M GOVERNMENT SERVICES Wins $31,320 Federal Contract
+
+WASHINGTON, March 3 -- R&M GOVERNMENT SERVICES, Las Cruces, New Mexico, won a federal contract
+award for $31,320 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for parachute st
+drogue.
+
+Contract Award Number: SPE4A724P6521; ueiSAM: M8BLN7XW5M86; NAICS Code: 314999; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A724T5776
+
+Contact: Kenneth Wideman
+
+***
+
+JGILS Wins $29,500 Federal Contract
+
+WASHINGTON, March 3 -- JGILS, Slidell, Louisiana, won a federal contract award for $29,500 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for metal crown, closure, and other metal
+stamping (except automotive). The document states about the contract: sleeve bushing.
+
+Contract Award Number: SPE4A724P7872; ueiSAM: JNC1BUEVV3B9; NAICS Code: 332119; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A724T7611
+
+Contact: Tracy Townsend
+
+***
+
+MID-STATE AEROSPACE Wins $29,468 Federal Contract
+
+WASHINGTON, March 3 -- MID-STATE AEROSPACE, Olathe, Kansas, won a federal contract award for $29,468
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for dual wall teles nrp.
+
+                                                                                                 Page 25 of 28
+                         Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+Contract Award Number: SPE4A524P4301; ueiSAM: LCNCK3DFQW57; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A524T8460
+
+Contact: Kizzy Brinkley
+
+***
+
+ROCKWELL COLLINS Wins $29,304 Federal Contract
+
+WASHINGTON, March 3 -- ROCKWELL COLLINS, Cedar Rapids, Iowa, won a federal contract award for $29,304
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for cable assembly.
+
+Contract Award Number: SPE4A624PG473; ueiSAM: J4Q3HP6NHK47; NAICS Code: 335931; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624Q0806
+
+Contact: Emily Andersen
+
+***
+
+PSP SEALS Wins $28,970 Federal Contract
+
+WASHINGTON, March 3 -- PSP SEALS, Fort Wayne, Indiana, won a federal contract award for $28,970 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for gasket.
+
+Contract Award Number: SPE4A524P3643; ueiSAM: JYE7GZBALYH7; NAICS Code: 339991; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A524T8393
+
+Contact: Crystal Lloyd
+
+***
+
+BOWMAR Wins $27,839 Federal Contract
+
+WASHINGTON, March 3 -- BOWMAR, Fort Wayne, Indiana, won a federal contract award for $27,839 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for rotating counter.
+
+Contract Award Number: SPE4A624PG478; ueiSAM: C3B4GMUXK277; NAICS Code: 334519; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A624T963J
+
+Contact: Cynthia Conner
+
+***
+
+BOEING DISTRIBUTION Wins $26,973 Federal Contract
+
+WASHINGTON, March 3 -- BOEING DISTRIBUTION, DFW Airport, Texas, won a federal contract award for
+$26,973 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for metallic, aircraft seal.
+
+Contract Award Number: SPE4A624PG802; ueiSAM: RMYAXLTM5S24; NAICS Code: 336412; Product Service
+Code (PSC): 28; Solicitation Number: SPE4A624Q0797
+
+Contact: Scott Brunner
+
+***
+
+ASRC FEDERAL FACILITIES LOGISTICS Wins $26,773 Federal Contract
+
+                                                                                             Page 26 of 28
+                       Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- ASRC FEDERAL FACILITIES LOGISTICS, Beltsville, Maryland, won a federal contract
+award for $26,773 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for cable
+assembly.
+
+Contract Award Number: SPE4A624PG165; ueiSAM: MA1VZ6667CB1; NAICS Code: 335311; Product Service
+Code (PSC): 61; Solicitation Number: SPE4A624T241W
+
+Contact: Keerston Green
+
+***
+
+C&C METALS ENGINEERING Wins $26,580 Federal Contract
+
+WASHINGTON, March 3 -- C&C METALS ENGINEERING, West Boylston, Massachusetts, won a federal contract
+award for $26,580 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for straight,
+headed pin.
+
+Contract Award Number: SPE4A624V002U; ueiSAM: WAJ6RKYZTYL3; NAICS Code: 332722; Product Service
+Code (PSC): 53; Solicitation Number: SPE4A624T01N8
+
+Contact: Matthew Wood
+
+***
+
+SEYER INDUSTRIES Wins $26,028 Federal Contract
+
+WASHINGTON, March 3 -- SEYER INDUSTRIES, St. PETERS, Missouri, won a federal contract award for $26,028
+from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for parts kit, seal repl.
+
+Contract Award Number: SPE4A724P7650; ueiSAM: GU4MZLMEJN94; NAICS Code: 336413; Product Service
+Code (PSC): 16; Solicitation Number: SPE4A724T011F
+
+Contact: Kenneth Wideman
+
+***
+
+STATZ Wins $25,663 Federal Contract
+
+WASHINGTON, March 3 -- STATZ, Middleton, Wisconsin, won a federal contract award for $25,663 from the
+Department of Defense Defense Logistics Agency, Richmond, Virginia, for cable assembly.
+
+Contract Award Number: SPE4A624V9881; ueiSAM: CE68LE9NASB5; NAICS Code: 335931; Product Service
+Code (PSC): 59; Solicitation Number: SPE4A624T955G
+
+Contact: Matthew Wood
+
+***
+
+ASRC FEDERAL FACILITIES LOGISTICS Wins $25,281 Federal Contract
+
+WASHINGTON, March 3 -- ASRC FEDERAL FACILITIES LOGISTICS, Beltsville, Maryland, won a federal contract
+award for $25,281 from the Department of Defense Defense Logistics Agency, Richmond, Virginia, for motional
+transducer.
+
+Contract Award Number: SPE4A524P4574; ueiSAM: NENSLR2C1VH9; NAICS Code: 334513; Product Service
+Code (PSC): 66; Solicitation Number: SPE4A524T5090
+
+Contact: Linda Moore
+
+                                                                                                  Page 27 of 28
+                         Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+***
+
+API GROUP LIFE SAFETY USA Wins $23,360 Federal Contract
+
+WASHINGTON, March 3 -- API GROUP LIFE SAFETY USA, Centennial, Colorado, won a federal contract award
+for $23,360 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, forÂ fire
+suppression.
+
+Contract Award Number: 140FC124P0015; ueiSAM: R97BRQABKME1; NAICS Code: 238220; Product Service
+Code (PSC): Z2az; Solicitation Number: 140FC124P0015
+
+Contact: Rey Aragon
+
+***
+
+RIVER RAT MOTORSPORTS Wins $23,247 Federal Contract
+
+WASHINGTON, March 3 -- RIVER RAT MOTORSPORTS, Bullhead City, Arizona, won a federal contract award for
+$23,247 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, forÂ 2024
+kawasaki teryx.
+
+Contract Award Number: 140FS224P0140; ueiSAM: N6TKEYJJY6A1; NAICS Code: 336999; Product Service Code
+(PSC): 2340; Solicitation Number: 140FS224P0140
+
+Contact: Khalilah Brown
+
+***
+
+TB ENTERPRISES OF WICHITA Wins $21,165 Federal Contract
+
+WASHINGTON, March 3 -- TB ENTERPRISES OF WICHITA, Wichita, Kansas, won a federal contract award for
+$21,165 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, forÂ water leak
+remediation.
+
+Contract Award Number: 140FS224P0144; ueiSAM: D655YXMB84V1; NAICS Code: 238220; Product Service
+Code (PSC): Z2az; Solicitation Number: 140FS224P0144
+
+Contact: Lydia Patrick
+
+***
+
+NORED Wins $11,333 Federal Contract
+
+WASHINGTON, March 3 -- NORED, Minot, North Dakota, won a federal contract award for $11,333 from the
+Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for farm machinery and equipment
+manufacturing. The document states about the contract: skid steer maintenance and repairs.
+
+Contract Award Number: 140FS224P0125; ueiSAM: EV86MZT3TJC7; NAICS Code: 333111; Product Service
+Code (PSC): J024; Solicitation Number: 140FS224P0125
+
+Contact: Khalilah Brown
+
+***
+
+SPARROW & KENNEDY TRACTOR Wins $7,560 Federal Contract
+
+                                                                                                   Page 28 of 28
+                       Federal Contracts Awarded by Federal Agencies in Virginia (March 3)
+
+WASHINGTON, March 3 -- SPARROW & KENNEDY TRACTOR, Scranton, South Carolina, won a federal contract
+award for $7,560 from the Department of the Interior U.S. Fish and Wildlife Service, Falls Church, Virginia, for sc-
+bears bluff-repair john deere gator.
+
+Contract Award Number: 140FS324P0133; ueiSAM: JZDNDCT31DU3; NAICS Code: 333112; Product Service
+Code (PSC): J023; Solicitation Number: 140FS324P0133
+
+Contact: Fred Riley
+
+TARGETED NEWS SERVICE (founded 2004) features non-partisan 'edited journalism' news briefs and information
+for news organizations, public policy groups and individuals; as well as 'gathered' public policy information,
+including news releases, reports, speeches. For more information contact MYRON STRUCK, editor,
+editor@targetednews.com, Springfield, Virginia; 703/304-1897; https://targetednews.com
+
+-1722189
 
 
-Load-Date: July 23, 2024
+Load-Date: March 3, 2024
 
 
   

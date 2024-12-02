@@ -1,488 +1,394 @@
 
 
-                                                                                                        Page 1 of 9
-                               NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
+                                                                                          Page 1 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
 
 
 
 
-             NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-                                                     Targeted News Service
-                                          June 12, 2024 Wednesday 9:10 AM EST
+     House Energy and Commerce Subcommittee on Communications and
+         Technology Hearing; "Where Are We Now: Section 230 of the
+     Communications Decency Act of 1996."; Testimony by Allison Stanger,
+     Professor of International Politics and Economics, Middlebury College
+                                           Congressional Documents and Publications
+                                                             April 11, 2024
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Length: 4527 words
-Byline: Targeted News Service
-Dateline: SAN JOSE, California
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 4361 words
 
 Body
 
 
-(TNSres) -- NetApp, a provider of software, systems and services to manage and store data, issued the following
-news release on June 11, 2024:
-
-***
-
-View Financial Tables
-
-* Record all-flash array annualized revenue run rate1 of $3.6 billion, an increase of 17% year-over-year
-
-* Record fiscal year GAAP consolidated gross margins of 71%; record non-GAAP consolidated gross margins2 of
-72%
-
-* Fiscal year GAAP operating margins of 19%; record non-GAAP operating margins2 of 27%
-
-* Fiscal year GAAP net income per share3 of $4.63; record non-GAAP net income per share2 of $6.46
-
-* NetApp announced an increase in its quarterly dividend to $0.52 cents per share and a new share repurchase
-authorization of an additional $1 billion
-
-***
-
-NetApp (NASDAQ: NTAP), the intelligent data infrastructure company, today reported financial results for the fourth
-quarter and fiscal year 2024, which ended on April 26, 2024.
-
-"We concluded fiscal year 2024 on a high note, delivering company records for annual gross margin, operating
-margin, EPS, operating cash flow, and free cash flow and building positive momentum. Our modern approach to
-unified data storage, spanning data types, price points, and hybrid multicloud environments, is clearly resonating in
-the market," said George Kurian, chief executive officer. "In fiscal year 2025, we will remain laser focused on our
-top priorities of driving growth in all-flash and cloud storage services while maintaining our operational discipline."
-
-                                                                                                          Page 2 of 9
-                            NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-Fourth quarter of fiscal year 2024 financial results
-
-* Net revenues: $1.67 billion, compared to $1.58 billion in the fourth quarter of fiscal year 2023; a year-over-year
-increase of 6%.
-
-* Hybrid Cloud segment revenue: $1.52 billion, compared to $1.43 billion in the fourth quarter of fiscal year 2023.
-
-* Public Cloud segment revenue: $152 million, compared to $151 million in the fourth quarter of fiscal year 2023.
-
-* Billings2: $1.81 billion, compared to $1.67 billion in the fourth quarter of fiscal year 2023; a year-over-year
-increase of 8%.
-
-* NetApp Public Cloud annualized revenue run rate (ARR)4: $630 million, compared to $620 million in the fourth
-quarter of fiscal year 2023; a year-over-year increase of 2%.
-
-* All-flash array ARR: $3.6 billion, compared to $3.1 billion in the fourth quarter of fiscal year 2023; a year-over-year
-increase of 17%.
-
-* Net income: GAAP net income of $291 million, compared to $245 million in the fourth quarter of fiscal year 2023;
-non-GAAP net income2 of $382 million, compared to $334 million in the fourth quarter of fiscal year 2023.
-
-* Earnings per share: GAAP net income per share of $1.37 compared to $1.13 in the fourth quarter of fiscal year
-2023; non-GAAP net income per share of $1.80 compared to $1.54 in the fourth quarter of fiscal year 2023.
-
-* Cash, cash equivalents and investments: $3.25 billion at the end of the fourth quarter of fiscal year 2024.
-
-* Cash provided by operations: $613 million, compared to $235 million in the fourth quarter of fiscal year 2023.
-
-* Share repurchases and dividends: Returned $204 million to stockholders through share repurchases and cash
-dividends.
-
-Fiscal year 2024 financial highlights
-
-* Net revenues: $6.27 billion, compared to $6.36 billion in fiscal year 2023; a year-over-year decrease of 1%.
-
-* Hybrid Cloud segment revenue: $5.66 billion, compared to $5.79 billion in fiscal year 2023.
-
-* Public Cloud segment revenue: $611 million, compared to $575 million in fiscal year 2023.
-
-* Billings: $6.25 billion, compared to $6.41 billion in fiscal year 2023; a year-over-year decrease of 2%.
-
-* Net income: GAAP net income of $986 million, compared to $1.27 billion in fiscal year 2023; non-GAAP net
-income of $1.38 billion, compared to $1.23 billion in fiscal year 2023.
-
-* Earnings per share: GAAP net income per share of $4.63 compared to $5.79 in fiscal year 2023; non-GAAP net
-income per share of $6.46 compared to $5.59 in fiscal year 2023.
-
-* Cash provided by operations: $1.69 billion compared to $1.11 billion in fiscal year 2023.
-
-* Share repurchases and dividends: Returned $1.32 billion to shareholders through share repurchases and cash
-dividends.
-
-First quarter of fiscal year 2025 financial outlook
-
-The Company provided the following financial guidance for the first quarter of fiscal year 2025:
-
-Full fiscal year 2025 financial outlook
-
-                                                                                                    Page 3 of 9
-                           NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-The Company provided the following financial guidance for the full fiscal year 2025:
-
-Dividend The next cash dividend of $0.52 per share is to be paid on July 24, 2024, to stockholders of record as of
-the close of business on July 5, 2024.
-
-Fourth quarter of fiscal year 2024 business highlights
-
-Leading Product Innovation
-
-* NetApp(TM) AIPod(TM), powered by NVIDIA DGX, is now a certified NVIDIA DGX BasePOD solution. It uses
-NVIDIA DGX H100 systems integrated with NetApp AFF C-Series affordable capacity flash systems to drive a new
-level of cost/performance, while optimizing rack space and sustainability. New FlexPod(TM) for AI reference
-architectures support the NVIDIA AI Enterprise software platform, extending the leading converged infrastructure
-solution from NetApp and Cisco.
-
-* NetApp announced validation for NVIDIA OVX computing systems to help streamline enterprise AI deployments,
-including model fine-tuning and inference workloads.
-
-* NetApp announced the technology preview of ONTAP(TM) Autonomous Ransomware Protection with Artificial
-Intelligence (ARP/AI), the next generation of real-time enterprise storage ransomware protection, providing the
-increased accuracy and performance required to detect and mitigate new, more sophisticated cyber threats.
-
-* NetApp BlueXP(TM) Ransomware Protection provides a single control plane to intelligently coordinate and
-execute an end-to-end, workload-centric ransomware defense.
-
-* NetApp BlueXP Disaster Recovery offers seamless integration with VMware infrastructure and provides storage
-options for both on-premises and major public cloud environments.
-
-* NetApp Keystone(TM) Ransomware Recovery Guarantee extends NetApp's current Ransomware Recovery
-Guarantee to our leading storage-as-a-service offering, NetApp Keystone.
-
-* NetApp released NetApp SnapCenter(TM) 5.0, which includes support for key ONTAP features like tamperproof
-Snapshot(TM) copy locking, SnapLock(TM) protected volumes, and SnapMirror(TM) Business Continuity to enable
-more robust data protection for applications and virtual machines. NetApp introduced Application-Aware
-Ransomware Protection through NetApp SnapCenter(TM) 5.0, providing immutable ransomware protection for
-applications.
-
-* NetApp StorageGRID(TM) 11.8 software is built to elevate the user experience, enhance security, and streamline
-simplicity in the NetApp object storage solution.
-
-* Upcoming enhancements were announced for NetApp Astra(TM) Control data protection and disaster recovery
-service for Kubernetes, which improves system extensibility, streamlines management across clusters, and delivers
-advanced data services.
-
-* Spot by NetApp announced a new Accelerated Scale Down feature to help generate greater efficiencies and cost
-savings.
-
-Customer and Partner Momentum
-
-* NetApp and Aston Martin renewed their partnership, empowering Aston Martin Aramco Formula One Team to use
-NetApp's storage technology to instantly store, manage, and access the immense amounts of data needed to
-optimize the team's performance.
-
-* NetApp partner Spectra Logic announced that it has validated its On-Prem Glacier solutions for deployment in
-NetApp StorageGRID(TM) object-based storage environments.
-
-* NetApp and IBM worked together to certify FSx for ONTAP as part of a solution on which to run IBM MQ.
-
-                                                                                                     Page 4 of 9
-                          NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-* AWS announced that Amazon FSx for NetApp ONTAP increased the maximum throughput capacity per file
-system by 2x, allowing customers to leverage ONTAP data management features for an even broader set of
-performance-intensive workloads.
-
-* NetApp collaborated with NVIDIA to advance retrieval-augmented generation for GenAI applications, connecting
-NVIDIA NeMo Retriever microservices to NetApp ONTAP.
-
-* DreamWorks used data management capabilities and solutions from NetApp for the Kung Fu Panda 4 movie.
-
-* NetApp partner HCLTech launched an electronic design automation (EDA) solution in partnership with NetApp, to
-accelerate large EDA implementations in the hybrid cloud.
-
-* NetApp and Google Cloud announced a new service level for Google Cloud NetApp Volumes called Flex that
-gives customers more granular control to adapt their storage and performance to match the exact needs of their
-cloud workloads.
-
-* NetApp released a preview of its GenAI toolkit reference architecture for Vertex AI with support for Google Cloud
-NetApp Volumes, giving customers greater ability to generate unique, high-quality, and ultra-relevant insights and
-automations.
-
-* AWS named NetApp a Manufacturing and Industrial ISV Competency Partner in its Engineering and Design
-Category.
-
-Corporate News and Events
-
-* NetApp and YouGov research surveyed over 1,000 IT decision makers on how planning and foundations for AI
-are at a critical moment for UK businesses.
-
-* NetApp released its second annual Cloud Complexity Report, which explores how technology decision makers
-around the globe are navigating and deploying AI at scale.
-
-Awards and Recognition
-
-* NetApp received the 2024 Google Cloud Technology Partner of the Year Award in the Infrastructure - Storage
-category for Google Cloud NetApp Volumes for the second year in a row.
-
-* As a part of CRN's 2024 Storage 100 Awards, NetApp was listed as one of the top 50 vendors bringing software
-capabilities, services, and cloud connectivity to storage technology.
-
-* NetApp was named a leading big data systems and cloud platform vendor in CRN's 2024 Big Data 100 Awards.
-
-* CRN named NetApp a top 25 company leading the AI revolution in data centers, edge computing, and laptops as
-part of its AI 100 Awards.
-
-* NetApp was named one of the top data center companies of 2024 in CRN's Data Center 50 Awards.
-
-* NetApp received five stars in CRN's 2024 Partner Program Guide due to the comprehensive incentives,
-resources, services, and benefits of NetApp Partner Sphere.
-
-* Frost & Sullivan named NetApp the 2024 Company of the Year for hybrid cloud storage management.
-
-* NetApp was named a Leader and Outperformer in GigaOm's 2024 Radar report for Primary Storage for large and
-midsized enterprises.
-
-* NetApp was named a Leader and Outperformer in GigaOm's 2024 Radar report for Unstructured Data
-Management for the third year in a row.
-
-                                                                                                         Page 5 of 9
-                            NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-* NetApp was named a Leader and Outperformer in GigaOm's 2024 Radar report for Cloud FinOps.
-
-* Spot Ocean by NetApp was recognized as the sole Leader and Outperformer in GigaOm's 2024 Radar report for
-Kubernetes Resource Management in the Maturity and Platform Play section.
-
-* Jenni Flinders, SVP, Worldwide Partner Group at NetApp, was named one of the 50 Most Influential Channel
-Leaders as a part of CRN's 2024 Channel Chief Awards.
-
-* Mignona Cote, SVP & CSO at NetApp, was named the Global Winner for the 2024 DallasCISO ORBIE Awards for
-organizations with over $3.5 billion annual revenue and multinational operations.
-
-Executive Leadership Announcements
-
-* NetApp appointed Pravjit Tiwana as GM and SVP of Cloud Storage.
-
-* NetApp appointed Alessandra Yockelson as EVP, Chief Human Resources Officer.
-
-Webcast and Conference Call Information
-
-NetApp will host a conference call to discuss these results today at 2:30 p.m. Pacific Time. To access the live
-webcast of this event, go to the NetApp Investor Relations website at investors.netapp.com. In addition, this press
-release, historical supplemental data tables, and other information related to the call will be posted on the Investor
-Relations website. An audio replay will be available on the website after 4:30 p.m. Pacific Time today.
-
-"Safe Harbor" Statement Under U.S. Private Securities Litigation Reform Act of 1995
-
-This press release contains forward-looking statements within the meaning of the Private Securities Litigation
-Reform Act of 1995. These statements include, but are not limited to, all of the statements made in the First Quarter
-of Fiscal Year 2025 Financial Outlook section and the Full Fiscal Year 2025 Financial Outlook section, and
-statements about our business, economic and market outlook, financial guidance, our overall future prospects, our
-modern approach to unified data storage, such approach's resonance with customers, and our ability to address
-new market opportunities, extend our leadership position in existing markets, and deliver increasing value for our
-stakeholders. Actual results may differ materially from these statements for a variety of reasons, including, without
-limitation, our ability to keep pace with the rapid industry, technological and market trends and changes in the
-markets in which we operate; our ability to execute our evolved cloud strategy and introduce and gain market
-acceptance for our products and services; our ability to maintain our customer, partner, supplier and contract
-manufacturer relationships on favorable terms and conditions; global political, macroeconomic and market
-conditions, including inflation, rising interest rates, monetary policy shifts, recession risks, and foreign exchange
-volatility and the resulting impact on demand for our products; the impact of new or ongoing geopolitical conflicts
-and sanctions; adoption or changes to laws, regulations standards or policies affecting our operations, products,
-services, the storage industry, or AI usage; material cybersecurity and other security breaches; the impact of supply
-chain disruptions on our business operations, financial performance and results of operations; changes in U.S.
-government spending; changes in overall technology spending by our customers; revenue seasonality; changes in
-laws or regulations, including those relating to privacy, data protection and information security; the timing of orders
-and their fulfilment; and our ability to manage our gross profit margins, including managing component costs. These
-and other equally important factors are described in reports and documents we file from time to time with the
-Securities and Exchange Commission, including the factors described under the sections titled "Risk Factors" in our
-most recently submitted annual report on Form 10-K and quarterly report on Form 10-Q. We disclaim any obligation
-to update information contained in this press release whether as a result of new information, future events, or
-otherwise.
-
-NetApp, the NetApp logo, and the marks listed at www.netapp.com/TM are trademarks of NetApp, Inc. All other
-marks are the property of their respective owners.
-
-NetApp usage of non-GAAP financial information
-
-                                                                                                      Page 6 of 9
-                           NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-To supplement NetApp's condensed consolidated financial statement information presented in accordance with
-generally accepted accounting principles in the United States (GAAP), NetApp provides investors with certain non-
-GAAP measures, including, but not limited to, historical non-GAAP gross margins, non-GAAP operating margins,
-non-GAAP operating results, non-GAAP net income, non-GAAP effective tax rate, free cash flow, billings, and
-historical and projected non-GAAP earnings per diluted share. NetApp also presents the hardware and software
-components of our GAAP product revenues. Because our revenue recognition policy under GAAP defines a
-configured storage system, inclusive of the operating system software essential to its functionality, as a single
-performance obligation, hardware and software components of our product revenues are considered non-GAAP
-measures. The hardware and software components of our product revenues are derived from an estimated fair
-value allocation of the transaction price of our contracts with customers, down to the level of the product hardware
-and software components. This allocation is primarily based on the contractual prices at which NetApp has
-historically billed customers for such respective components.
-
-NetApp believes that the presentation of its non-GAAP measures, when shown in conjunction with the
-corresponding GAAP measures, provides useful information to investors and management regarding financial and
-business trends relating to its financial condition and results of operations. NetApp's management uses non-GAAP
-measures in making operating decisions because it believes that the measurements provide meaningful
-supplemental information regarding NetApp's ongoing operational performance.
-
-NetApp believes that the presentation of non-GAAP gross margins, non-GAAP operating margin, non-GAAP
-effective tax rate, non-GAAP net income, and non-GAAP earnings per share data, provides investors with
-supplemental metrics that assist in understanding current results and future prospects, earnings and profitability
-that are complementary to GAAP metrics. Each of these Non-GAAP metrics is defined as the applicable GAAP
-metric adjusted to exclude the items defined in A through I below, as applicable, while our Non-GAAP effective tax
-rate and Non-GAAP net income also reflect a non-GAAP tax provision, as described in item J below, instead of our
-GAAP tax provision. Non-GAAP net income per share is computed as Non-GAAP net income divided by the diluted
-number of shares for the applicable period.
-
-NetApp believes that the presentation of free cash flow, which it defines as the net cash provided by operating
-activities less cash used to acquire property and equipment, to be a liquidity measure that provides useful
-information to management and investors because it reflects cash that can be used to, among other things, invest
-in its business, make strategic acquisitions, repurchase common stock, and pay dividends on its common stock. As
-free cash flow is not a measure of liquidity calculated in accordance with GAAP, free cash flow should be
-considered in addition to, but not as a substitute for, the analysis provided in the statement of cash flows.
-
-NetApp believes that the presentation of the software and hardware components of our product revenues is
-meaningful to investors and management as it illustrates the significance of the Company's software and provides
-improved visibility into the value created by our software innovation and R&D investment.
-
-NetApp approximates billings by adding net revenues as reported on our Condensed Consolidated Statements of
-Operations for the period to the change in total deferred revenue and financed unearned services revenue as
-reported on our Condensed Consolidated Statements of Cash Flows for the same period. Billings is a performance
-measure that NetApp believes provides useful information to management and investors because it approximates
-the amounts under purchase orders received by us during a given period that have been billed.
-
-Non-GAAP financial measures are used to: (1) measure company performance against historical results, (2)
-facilitate comparisons to our competitors' operating results and (3) allow greater transparency with respect to
-information used by management in financial and operational decision making.
-
-NetApp excludes the following items from its non-GAAP measures when applicable:
-
-Amortization of intangible assets. NetApp records amortization of intangible assets that were acquired in connection
-with its business combinations. The amortization of intangible assets varies depending on the level of acquisition
-activity. Management finds it useful to exclude these charges to assess the appropriate level of various operating
-
-                                                                                                        Page 7 of 9
-                           NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-expenses to assist in budgeting, planning and forecasting future periods and in measuring operational performance.
-Stock-based compensation expenses. NetApp excludes
-
-stock-based compensation expenses from its non-GAAP measures primarily because the amount can fluctuate
-based on variables unrelated to the performance of the underlying business. While management views stock-based
-compensation as a key element of our employee retention and long-term incentives, we do not view it as an
-expense to be used in evaluating operational performance in any given period.
-
-Litigation settlements. NetApp may periodically incur charges or benefits related to litigation settlements. NetApp
-excludes these charges and benefits, when significant, because it does not believe they are reflective of ongoing
-business and operating results.
-
-Acquisition-related expenses. NetApp excludes acquisition-related expenses, including (a) due diligence, legal and
-other one-time integration charges and (b) write down of assets acquired that NetApp does not intend to use in its
-ongoing business, from its non-GAAP measures, primarily because they are not related to our ongoing business or
-cost base and, therefore, are less useful for future planning and forecasting.
-
-Restructuring charges. These charges consist of restructuring charges that are incurred based on the particular
-facts and circumstances of restructuring decisions, including employment and contractual settlement terms, and
-other related charges, and can vary in size and frequency. We therefore exclude them in our assessment of
-operational performance.
-
-Asset impairments. These are non-cash charges to write down assets when there is an indication that the asset has
-become impaired. Management finds it useful to exclude these non-cash charges due to the unpredictability of
-these events in its assessment of operational performance.
-
-Gains/losses on the sale or derecognition of assets. These are gains/losses from the sale of our properties and
-other transactions in which we transfer control of assets to a third party. Management believes that these
-transactions do not reflect the results of our underlying, ongoing business and, therefore, are less useful for future
-planning and forecasting.
-
-Gains/losses on the sale of investments in equity securities. These are gains/losses from the sale of our investment
-in certain equity securities. Typically, such investments are sold as a result of a change in control of the underlying
-businesses. Management believes that these transactions do not reflect the results of our underlying, ongoing
-business and, therefore, are less useful for future planning and forecasting.
-
-Debt extinguishment costs. NetApp excludes certain non-recurring expenses incurred as a result of the early
-extinguishment of debt. Management believes such nonrecurring costs do not reflect the results of its underlying,
-ongoing business and, therefore, are less useful for future planning and forecasting.
-
-Income tax adjustments. NetApp's non-GAAP tax provision is based upon a projected annual non-GAAP effective
-tax rate for the first three quarters of the fiscal year and an actual non-GAAP tax provision for the fourth quarter of
-the fiscal year. The non-GAAP tax provision also excludes, when applicable, (a) tax charges or benefits in the
-current period that relate to one or more prior fiscal periods that are a result of events such as changes in tax
-legislation, authoritative guidance, income tax audit settlements, statute lapses and/or court decisions, (b) tax
-charges or benefits that are attributable to unusual or non-recurring book and/or tax accounting method changes,
-(c) tax charges that are a result of a non-routine foreign cash repatriation, (d) tax charges or benefits that are a
-result of infrequent restructuring of the Company's tax structure, (e) tax charges or benefits that are a result of a
-change in valuation allowance, and (f) tax charges or benefits resulting from the integration of intellectual property
-from acquisitions. Management believes that the use of non-GAAP tax provisions provides a more meaningful
-measure of the Company's operational performance.
-
-Non-GAAP measures are not in accordance with, or an alternative for, measures prepared in accordance with
-GAAP, and may be different from non-GAAP measures used by other companies. In addition, non-GAAP measures
-are not based on any comprehensive set of accounting rules or principles. NetApp believes that non-GAAP
-
-                                                                                                       Page 8 of 9
-                           NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-measures have limitations in that they do not reflect all of the amounts associated with the Company's results of
-operations as determined in accordance with GAAP and that these measures should only be used to evaluate the
-Company's results of operations in conjunction with the corresponding GAAP measures. NetApp management
-compensates for these limitations by analyzing current and projected results on a GAAP basis as well as a non-
-GAAP basis. The presentation of non-GAAP financial information is not meant to be considered in isolation or as a
-substitute for the directly comparable financial measures prepared in accordance with generally accepted
-accounting principles in the United States. The non-GAAP financial measures are meant to supplement, and be
-viewed in conjunction with, GAAP financial measures. A detailed reconciliation of our non-GAAP to GAAP results
-can be found herein.
-
-Constant currency
-
-In periods in which the impacts of foreign currency exchange rate changes are significant, NetApp presents certain
-constant currency growth rates or quantifies the impact of foreign currency exchange rate changes on year-over-
-year fluctuations, including for net revenues, billings, and earnings. This constant currency information assumes the
-same foreign currency exchange rates that were in effect for the comparable prior-year period were used in
-translation of the current period results.
-
-***
-
-About NetApp
-
-NetApp is the intelligent data infrastructure company combining unified data storage, integrated data services, and
-CloudOps solutions to turn a world of disruption into opportunity for every customer. NetApp creates silo-free
-infrastructure, then harnesses observability and AI, to enable the best data management. As the only enterprise-
-grade storage service natively embedded in the world's biggest clouds, our data storage delivers seamless flexibility
-and our data services create a data advantage through superior cyber-resilience, governance, and applications
-agility. Our CloudOps solutions provide continuous optimization of performance and efficiency through observability
-and AI. No matter the data type, workload, or environment, transform your data infrastructure to realize your
-business possibilities with NetApp.
-
-Learn more at www.netapp.com or follow us on X, LinkedIn, Facebook, and Instagram.
-
-***
-
-Footnotes
-
-[1]All-flash array annualized net revenue run rate is determined by products and services revenue for the current
-quarter, multiplied by 4.
-
-[2]Refer to "NetApp Usage of Non-GAAP Financial Information" section below for explanations of consolidated non-
-GAAP gross margins, non-GAAP operating margins, non-GAAP net income, non-GAAP net income per share, free
-cash flow, and billings.
-
-[3]GAAP net income per share and non-GAAP net income per share are calculated using the diluted number of
-shares.
-
-[4]Public Cloud annualized revenue run rate (ARR) is calculated as the annualized value of all Public Cloud
-customer commitments with the assumption that any commitment expiring during the next 12 months will be
-renewed with its existing terms.
-
-***
-
-Original text here: https://www.netapp.com/newsroom/press-releases/news-rel-20240530-results-742671/
-
-[Category: BizComputer Technology]
-
-                                                                                        Page 9 of 9
-                           NetApp Reports Fourth Quarter and Fiscal Year 2024 Results
-
-Contact: Kenya Hayes, 703/589-7595, kenya.hayes@netapp.com
-
-Copyright Targeted News Services
-
-MSTRUCK-8670364 MSTRUCK
-
-
-Load-Date: June 12, 2024
+Introduction
+
+Section 230 has both facilitated the internet as we know it and has produced a social media ecosystem that has
+had deleterious effects on both democracy and mental health. The self-reinforcing ramifications of a mere twenty-
+six words ("no provider or user of an interactive computer service shall be treated as the publisher or speaker of
+any information provided by another information content provider") mean that there is potential for positive gains
+with a multiplier effect from Section 230's repeal.
+
+Currently, Democrats and Republicans disagree over what problem they are trying to solve. For Republicans, it is
+the content moderation of large social media companies infringing on freedom of speech and first amendment
+rights. For Democrats, it is the misinformation and disinformation that pollutes the virtual public square. Both parties
+have a point. The current system's liability shield, practically speaking, allows companies to do as they please,
+despite their own terms of service, preempting first amendment protections in some instances. At the same time,
+since the ad-driven business model optimizes for engagement (time spent on the platform), misinformation and lies
+proliferate, feeding the belief that truth itself is relative. This further polarizes an already seriously fractured civil
+sphere.
+
+While reforming Section 230 might have made sense prior to the advent of Generative AI, which will automate all
+these damages, it no longer does so. If we want innovation on large language models to continue AND our
+democracy to be sustainable, it is worth asking, "What would a world without Section 230 look like?" That question
+is best answered by first understanding the circumstances that brought Section 230 into being and its subsequent
+interpretation by the Courts (see Hearing memo).
+
+Section 230 was designed to unleash and protect internet innovation, thereby maintaining America's competitive
+edge in cyberspace. It succeeded, and today, American tech companies dominate the world's social media. Present
+at the creation of 230, my co-author Jaron Lanier once remarked to former Vice President Al Gore, advocate of the
+
+                                                                                          Page 2 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+"information superhighway," that we were giving a gift to the network effect winners. n1 This was prescient, and that
+gift was exchanged for besting America's enemies in developing the internet's possibilities first.
+
+After President Clinton signed the 1996 Telecommunications Act into law, it was unclear how the Courts would
+interpret it. When the dust had settled, Section 230 emerged as something of a double-edged sword. It could be
+used to justify censorship, and it could at the same time be deployed as a corporate liability shield. Most
+importantly, it provided the runway for the takeoff of Google, Twitter, and Facebook. It basically played an
+irreplaceable role in creating the Internet as we today know it, where extremely powerful companies are effectively
+shielded from liability, unlike all other corporate entities.
+
+What Our World with Section 230 Looks Like Today
+
+Section 230 unleashed astonishing American creativity, and its scope and reach continue to be vast. Section 230
+currently provides blanket exemption from liability for recommender systems (the algorithms that serve you things
+they think will interest you), content moderation (in theory, company censorship of content that violates their terms
+of service; in practice, another matter entirely n2), and Internet search. n3 No other contemporary American
+corporations, especially ones with so much power, benefits from such blanket exemption from liability.
+
+Since the services were free, users and their personal data were the product. "The culture of free demanded a
+business model that could support it. And that was advertising." n4
+
+Negative effects on human well-being
+
+The impact on American children and teenagers has been substantial. The Facebook Files n5 show that Meta knew
+that its engagement algorithms had adverse effects on the mental health of teenage girls, yet it has done nothing
+notable to combat those unintended consequences. Instead, Meta's lawyers have invoked Section 230 in lawsuits
+to defend itself against efforts to hold it liable for serious harms. Jonathan Haidt has argued that the replacement of
+children's collaborative play with solo screen time, especially on social media, presents an array of developmental
+dangers. n6
+
+More generally, today's polarized social media ecosystem continues to spill over to pollute the public sphere in self-
+reinforcing ways. Recommender algorithms mediate content and optimize for engagement. We have learned that
+humans are most engaged by that which enrages them. The toxic exchanges online spill over into society at large,
+prompting further on-line rage-fueled extremism and hate.
+
+The online world brought to life by Section 230 now dehumanizes us by highlighting our own insignificance. Social
+media and cancel culture make us feel small and vulnerable, where human beings crave feeling large and living
+lives of meaning, which cannot blossom without a felt sense of personal agency that our laws and institutions are
+designed to protect. While book publishers today celebrate the creative contributions of their authors, for-profit
+Internet platforms do not. They instead harvest our data to increase their profit margins without appropriate
+compensation for the digital fumes of our personal lives and accomplishments.
+
+Negative effects on Democracy
+
+If Section 230 persists in the age of AI, the health of liberal democracy will be irreparably compromised. Foreign
+electoral interference and viral toxicity are weapons of those intent on subverting democracy and American ideals.
+Holding elections in 2024 with Section 230 intact and the possibilities for automated disinformation unlimited puts a
+weapon in the hands of our enemies that could do great damage to American political institutions.
+
+To date, content moderation has often been beholden to the quest for attention and engagement, disregarding the
+stated corporate terms of service. Rules are bent to maximize engagement through inflammation. The excuse is
+that this is not censorship, but is that true? Arbitrary rules, doxing practices, and cancel culture have led to
+something hard to distinguish from censorship for the sober and well-meaning. At the same time, the amplification
+of incendiary free speech by bad actors encourages mob rule. All of this takes place under Section 230's liability
+
+                                                                                          Page 3 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+shield, which effectively gives tech companies carte blanche for a short-sighted version of self-serving behavior.
+Disdain for these companies--which found a way to be more than carriers, and yet not publishers--is the only thing
+everyone in America seems to agree on now. n7
+
+Section 230 has played an enormous part in creating a national virtual public square, drowning out plural voices
+and facilitating polarized but violently vocal conformity on both the extreme right and extreme left. It squeezes out
+the middle of the political spectrum and thereby the ability to engage in the reasonable and moderate debate that
+deliberative democracy requires.
+
+Section 230 has also created fictitious platforms that are in reality publishers, since they curate the content via
+recommender algorithms and content moderation. Traditional media is held liable for publishing defamation and
+untruths, while Big Tech companies are accountable only to their shareholders.
+
+Imagining a World Without Section 230
+
+Since Section 230's network effects were anticipated at its inception, it should have had a sunset clause, but it did
+not. Rather than focusing exclusively on what could be lost by its exit, it's useful to consider what the effects, both
+intended and unintended, of repealing Section 230 might actually be. When we imagine how a post-230 world might
+affect free speech, commerce, and national security and measure the potential gains against what is initially feared,
+we discover a world of hope and renewal worth inhabiting.
+
+Free Speech
+
+It no longer makes sense to speak of free speech in traditional terms. The internet has so transformed the nature of
+the speaker that the definition of speech itself has changed.
+
+The new speech is governed by the allocation of virality in our virtual public square. People cannot simply speak for
+themselves, for there is always a mysterious algorithm in the room that has independently set the volume of the
+speaker's voice. If one is to be heard, one must speak in part to one's human audience, in part to the algorithm. It is
+as if the constitution had required citizens to speak through actors or lawyers who answered to the Dutch East India
+Company, or some other large remote entity. What power should these intermediaries have? When the very logic of
+speech must shift in order for people to be heard, is that still free speech? This was not a problem foreseen in the
+law. n8
+
+Without Section 230, companies would be liable for the content on their platforms. This would result in an explosion
+of lawsuits and greater caution in such content moderation, although companies would have to balance such with
+first amendment rights. Think of all the human jobs that could be generated!
+
+At a stroke, content moderation for companies would be a vastly simpler proposition. They need only uphold the
+First Amendment, and the Courts would develop the jurisprudence to help them do that, rather than to put the onus
+of moderation entirely on companies.
+
+We've been here before. When government said the American public owned the airwaves, so television
+broadcasting would be regulated, they put in place regulations that supported the common good. The Internet
+affects everyone, and our public square is now virtual, so we must put in place measures to ensure that our digital
+age public dialogue includes everyone. In the television era, the fairness doctrine laid that groundwork. A new lens
+needs to be developed for the Internet age.
+
+The virtual public square belongs to everyone, so it is important that its conversations be those in which all voices
+can be heard. While Section 230 perpetuates an illusion that today's social media companies are common carriers
+like the phone companies, they are not. Unlike Ma Bell, they curate the content they transmit to users. We need a
+robust public conversation about what we, the people want this space to look like and what practices and guardrails
+are likely to strengthen the ties that bind us in common purpose as a democracy rather than dividing us. Virality
+
+                                                                                          Page 4 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+might come to be understood as an enemy of reason and human values. We can have culture and conversations
+without a mad race for total attention.
+
+But perhaps more importantly, without Section 230, first amendment jurisprudence for Web2 and Web3 could at
+long last be developed. In the past, as we see with the enforcement of the fairness doctrine for television
+broadcasting, government and the people have been capable of regulating the public sphere, which after all,
+belongs to all of us, not just corporations. By removing Section 230, the Supreme Court would finally have to weigh
+in to confront the reality of code being law, as Larry Lessig pointed out over 20 years ago. n9 Section 230's liability
+shield has prevented the development of first amendment jurisprudence for the digital age that would bring our
+democratic institutions into better alignment with the reality of a public square that is national in scope. Without
+Section 230, recommender algorithms and the virality they spark would be less like to distort speech.
+
+Content moderation for companies after Section 230's repeal would be a vastly simpler proposition. Companies
+need only uphold the First Amendment, and the courts would finally develop the precedents and tests to help them
+do that, rather than the onus of moderation being entirely on companies alone. The United States has over 200
+years of First Amendment jurisprudence that establishes categories of less protected speech--obscenity,
+defamation, incitement, fighting words--to build upon, and Section 230 has effectively impeded its development for
+online expression. The perverse result has been the elevation of algorithms over constitutional law, effectively
+ceding judicial power to multinational corporations.
+
+The repeal of Section 230 would also be a step in the right direction in addressing what are presently severe power
+imbalances between government and corporate power in shaping democratic life. It would also shine a spotlight on
+a globally disturbing fact: the overwhelming majority of global social media is currently in the hands of one man
+(Mark Zuckerberg), while nearly half the people on earth have a Meta account. n10 How can that be a good thing
+under any scenario for the free exchange of ideas?
+
+Commerce
+
+Would ending section 230 be catastrophic for internet business as we know it? It is impossible to know the future,
+but we have recently gained more information about this question. One source of information comes from the
+experiment undertaken by Elon Musk in his acquisition of Twitter/X. The platform has deliberately supported
+precisely the kinds of user-generated content that might create liabilities without the protections of section 230. For
+instance, Alex Jones has been penalized for extraordinarily villainous speech, and yet when X renewed his access,
+X was immune to related penalties.
+
+Has this transformation of Twitter been a success? While it is a private company, limiting external access to
+financial results, all indications are that it has been a disaster. One major investor estimated more than a 70
+percent loss of value n11, while Musk himself has declared that the company might go bankrupt.
+
+It appears that, if anything, the repeal of Section 230 might recover some lost value for Twitter/X's investors. What
+about for the major platforms, like Google and Meta? The result for these titans would probably depend on the
+details in how 230 is phased out.
+
+If the repeal is accomplished with some guidance to avoid an explosion of litigation, then the commercial risks
+would probably be minimal. A repeal should specify a way for platforms to avoid "gotcha" litigation. There should be
+an orderly way to adjudicate controversial cases and a principle of reasonable efforts rather than a requirement for
+absolute perfection.
+
+It is notoriously difficult to predict economic outcomes when rules are changed. Some investors in AI have
+apparently planned on a world in which the precedent of 230 would also apply to AI-generated transformations of
+human content. They are in an excellent position to be able to adjust to a world in which that is not the outcome,
+however. The value of AI to improve productivity, such as making programmers more productive, is by far the main
+economic motivation for creating it, not the ability to evade paying for creative content.
+
+                                                                                          Page 5 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+Let us consider poisonous speech that might bring liabilities to the poster. A post 230 world might motivate the
+evolution of criminal and civil constraints on hosting speech over a platform, but there is no reason to think that it
+would greatly strengthen or weaken the fundamentals of free speech. One difference between speech before and
+after the internet was that the scale of the internet "weaponized" some instances of speech that would not have
+been as significant before. For instance, an individual yelling threats at someone in passing is quite different from a
+million people yelling threats at that person, or at their families. This type of amplified, stochastic harassment has
+become a constant feature of our times - chilling speech - and it is possible that in a post-230 world, platforms will
+be compelled to prevent it.
+
+It is sometimes imagined that there are only two choices; a world of viral harassment or a world of top-down
+smothering of speech. But there is a third option; a world of speech in which viral harassment is tamped down but
+ideas are not. Defining this middle option will require some time to sort out, but it is doable, just as it is possible to
+define the limits of viral financial transactions to make Ponzi schemes illegal.
+
+Without Section 230, existing large social media companies would have to adapt. Decentralized Autonomous
+Organizations, (DAOs) such as BlueSky and Mastodon, would become more attractive. The emergent DAO social
+media landscape should serve to put further brakes on virality, allowing a more regional social media ecosystem to
+emerge, thereby creating new demand for local media. In an ideal world, networks of DAOs would comprise a new
+fediverse (a collection of social networking servers which can communicate with each other, while remaining
+independently controlled), where users would have greater choice and control over the communities of which they
+are a part.
+
+The current challenge of contemporary social media is the potential for doxing and fake news virality that is
+impossible to correct, rather than the misinformation itself in a single instance. Without Section 230, this problem of
+virality could be met head on.
+
+National Security
+
+Getting rid of the liability shield for all countries operating in the United States would have largely unacknowledged
+positive implications for national security, as well as the profit margins for US-headquartered companies. Foreign
+electoral interference is not in the interests of democratic stability, precisely because our enemies benefit from
+dividing us rather than uniting us. All foreign in origin content could therefore be policed at a higher standard,
+without violating the first amendment or the privacy rights of US citizens. As the National Security Agency likes to
+emphasize, the fourth amendment does not apply to foreigners and that has been a driver of surveillance protocols
+since the birth of the Internet. It is probable that the Supreme Court's developing first amendment jurisprudence for
+social media in a post-230 world would embrace the same distinction. At a stroke, the digital fentanyl that TikTok
+represents in its American version could easily be shut down, and we could through a process of public deliberation
+leading to new statutory law collectively insist on the same optimization targets for well-being, test scores, and time
+on the platform that Chinese citizens currently enjoy in the Chinese version of TikTok (Douyin). n12
+
+There might also be financial and innovation advantages for American companies with this simple legislative act.
+Any commercial losses for American companies from additional content moderation burdens would be offset by
+reputational gains and a rule imposed from without on what constitutes constitutionally acceptable content. Foreign
+electoral interference through misinformation and manipulation could be shut down as subversive activity directed
+at the Constitution of the United States, not a particular political party.
+
+Liberal democracy depends upon public deliberation to make all citizens feel connected to a common enterprise
+that they themselves have had a hand in shaping. Techno-authoritarianism, such as what we see on display in
+China today, might serve the utilitarian goals of the greatest good for the greatest number, but it requires the
+sacrifice of individual rights at the altar of national security. If platforms were liable for the nefarious foreign
+interventions they enable, foreign propaganda would be more difficult to accomplish, serving the cause of free and
+fair elections of the American people, by the American people and for the American people. n13
+
+American Leadership in Generative AI Innovation Depends on Repealing Section 230
+
+                                                                                          Page 6 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+While Section 230 might have been considered more a target for reform rather than repeal prior to the advent of
+generative AI, it can no longer be so. Social media could be a business success even if its content was nonsense.
+AI cannot.
+
+There have been suggestions that AI needs Section 230 because large language models train on data and will be
+better if that data is freely usable with no liabilities or encumbrances. This notion is incorrect. People want more
+from AI than entertainment. It is widely considered an important tool for productivity and scientific progress. An AI
+model is only as good as the data it is trained on; indeed, general data improves specialist results. The best AI will
+come out of a society that prioritizes quality communication. By quality communication, I do not mean deepfakes. I
+mean open and honest dialogue that fosters understanding rather than vitriol, collaboration rather than polarization,
+and the pursuit of knowledge and human excellence rather than a race to the bottom of the brain stem.
+
+The attention-grooming model fostered by Section 230 leads to stupendous quantities of poor-quality data. While an
+AI model can tolerate a significant amount of poor-quality data, there is a limit. It is unrealistic to imagine a society
+mediated by mostly terrible communication where that same society enjoys unmolested, high-quality AI. A society
+must seek quality as a whole, as a shared cultural value, in order to maximize the benefits of AI. Now is the best
+time for the tech business to mature and develop business models based on quality. n14
+
+Repealing Section 230 and allowing the ad-based business model to evolve should hold appeal for both Democrats
+and Republicans. It is a simple piece of legislation--all it takes is deleting twenty-six words, and it represents a
+unique opportunity for bipartisanship, which is precisely what our country needs.
+
+Our laws should serve the national interest. Section 230 once did, but it now undermines the American interest and
+serves our enemies rather than American democracy. The time has come to give Section 230 the respectful burial it
+deserves.
+
+Allison Stanger is Russell Leng '60 Professor of International Politics and Economics at Middlebury College; Co-
+Director (with Danielle Allen), GETTING-Plurality Research Network, Harvard University; Senior Fellow, Ash Center
+for Democratic Governance and Innovation, Harvard Kennedy School; founding member of the Digital Humanism
+Initiative (Vienna); and an External Professor and Science Board member at the Santa Fe Institute. Stanger's next
+book, Who Elected Big Tech? is under contract with Yale University Press.
+
+Stanger's writing has appeared and/or been reviewed in The Atlantic, Foreign Affairs, Foreign Policy, Financial
+Times, New Yorker, New York Times, USA Today, Washington Post, and Wired. She is the author of
+Whistleblowers: Honesty in America from Washington to Trump (Yale University Press, 2019) and One Nation
+Under Contract: The Outsourcing of American Power and the Future of Foreign Policy (Yale University Press,
+2009). She is a contributing writer for The Atlantic. Stanger is the co-editor (with Hannes Werthner et. al.) of
+Introduction to Digital Humanism: A Textbook (Springer, 2024), which is open access, and co-editor (with W. Brian
+Arthur and Eric Beinhocker) of Complexity Economics (SFI Press, 2020).
+
+Stanger has been called to testify before Congress on six occasions, by both Republicans and Democrats. She
+received her Ph.D. in Political Science from Harvard University. She majored in Mathematics as an undergraduate
+and also has graduate degrees in Soviet Studies and Economics.
+
+n1 Network effect winners refers to the companies or services that become more useful as more people use them.
+Companies such as Amazon, Facebook, and Google are examples of network effect winners.
+
+n2 See Allison Stanger, "The First Amendment Meets the Virtual Public Square," in Lee Bollinger and Geoffrey
+Stone, eds., Special Issue on the Future of Free Speech, Daedalus, summer 2024, and Allison Stanger, Who
+Elected Big Tech? (Yale University Press, 2025).
+
+n3                     https://www.supremecourt.gov/DocketPDF/21/21-1333/252653/2023011914035991121-
+1333%20Brief%20of%20Information%20Science%20Scholars.pdf
+
+                                                                                          Page 7 of 7
+    House Energy and Commerce Subcommittee on Communications and Technology Hearing "Where Are We
+                   Now: Section 230 of the Communications Decency Act of 1996." Testi....
+
+n4 https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/
+
+n5 https://fbarchive.org.
+
+n6 Jonathan Haidt, The Anxious Generation: How the Great Rewiring of Childhood is Causing an Epidemic of
+Mental Illness (New York: Simon and Schuster, 2024). For excellent and up to date data analysis, see
+https://www.anxiousgeneration.com.
+
+n7 Jaron Lanier and Allison Stanger, "The One Internet Hack that Could Save Everything," Wired, February 13,
+2024. https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/ Non-profits like
+Wikipedia are concerned that their enterprise could be shut down through gratuitous defamation lawsuits that would
+bleed them dry until they ceased to exist (such as what happened with Gawker). I am not convinced this is a danger
+for Wikipedia, since their editing is done by humans who have first amendment rights, and their product is not
+fodder for virality, but for a good argument that it is, see https://medium.com/wikimedia-policy/if-congress-repeals-
+section-230-what-will-that-mean-for-wikipedia-691559dfb2c5
+
+n8 Jaron Lanier and Allison Stanger, "The One Internet Hack that Could Save Everything," Wired, February 13,
+2024. https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/
+
+n9 Lawrence Lessig, Code 2.0 (New York: Basic Books, 2006). In an analysis that still rings true today, Lessig
+foresaw that computer code could function like and have the force of statutes passed by Congress.
+
+n10   https://investorfb.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-
+2022-Results/default.aspx
+
+n11    https://arstechnica.com/tech-policy/2024/01/since-elon-musks-twitter-purchase-firm-reportedly-lost-72-of-its-
+value/
+
+n12     60   Minutes,   "TikTok  in   China         versus    the    United    States,"    November      8,     2022.
+https://www.youtube.com/watch?v=0j0xzuh-6rY
+
+n13 For the most recent report on Russian interference in our                             national   debates,    see
+https://www.washingtonpost.com/world/2024/04/08/russia-propaganda-us-ukraine/
+
+n14 Jaron Lanier and Allison Stanger, "The One Internet Hack that Could Save Everything," Wired, February 13,
+2024. https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/
+
+Read                      this                   original                document                                 at:
+https://d1dth6e84htgma.cloudfront.net/04_11_24_Testimony_Stanger_201e686272.pdf
+
+
+Load-Date: April 15, 2024
 
 
   

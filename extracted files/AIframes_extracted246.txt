@@ -1,232 +1,312 @@
 
 
-                                                                                                   Page 1 of 5
-        Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38 billion by 2032, CAGR of
-                                                10.77% | MRFR.
+                                                                              Page 1 of 6
+         TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
 
 
 
 
-Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38
-                billion by 2032, CAGR of 10.77% | MRFR.
-                                                   iCrowdNewswire (English)
-                                            July 18, 2024 Thursday 8:42 PM GMT
+TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON
+                       AGRICULTURE
+                                                 States News Service
+                                             March 6, 2024 Wednesday
 
 
 
-Copyright 2024 iCrowdNewswire, LLC All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 2112 words
+Length: 3483 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
-Unmanned Aerial Vehicle (UAV) Market Introduction Unmanned Aerial Vehicle (UAV) market has experienced rapid
-growth over the past decade, driven by technological advancements and expanding applications across various
-sectors. UAVs, commonly known as drones, are aircraft without a human pilot [...]
 
-Unmanned Aerial Vehicle (UAV) Market Introduction
+The following information was released by the Commodities Futures Trading Commission:
 
-Unmanned Aerial Vehicle (UAV) market has experienced rapid growth over the past decade, driven by
-technological advancements and expanding applications across various sectors. UAVs, commonly            known as
-drones, are aircraft without a human pilot onboard and can be controlled remotely or fly autonomously using
-software-controlled flight plans. This market overview explores the key    drivers, competitive landscape, market
-segmentation, and regional analysis of the UAV market, providing insights into its expected growth trajectory from
-2024 to 2032.The Unmanned Aerial           Vehicle (UAV) market was valued at approximately USD 28.54 billion in
-2023. It is expected to expand from USD 31.62 billion in 2024 to USD 79.38 billion by 2032, demonstrating a
-compound annual        growth rate (CAGR) of 10.77% over the forecast period (2024 2032). Key factors driving this
-growth include increased military spending and a growing demand for advanced surveillance systems.
+Chairman Thompson, Ranking Member Scott and members of the Committee, thank you for the opportunity to
+appear before you today to provide an update on the work of the Commodity Futures Trading Commission (CFTC),
+our priorities, and some emerging trends in our jurisdictional space.
 
-Request Free Sample Report : https://www.marketresearchfuture.com/sample_request/806
+For over a century, derivatives markets have played a key role in the U.S. economy, contributing to financial
+stability and predictability of prices that impact the daily lives of all Americans, especially our nation's farmers and
+ranchers. Recognizing the historical roots of our agency and the continued importance of derivatives to agricultural
+stakeholders, I am pleased to announce that the CFTC and the Center for Risk Management Education and
+Research (CRMER) at Kansas State University will be hosting the third Agriculture Commodity Futures Conference
+on April 11th and 12th in Overland Park, Kansas.[1]
 
-Key Drivers
+I know I speak for all the Commissioners when I thank CFTC staff for their commitment to the agency and its
+mission. My team and I are working closely with staff and their union representatives in order to find a suitable work
+posture, post-pandemic, that honors the importance of being present and together in the office with appropriate
+flexibility, and ensures our accountability as good stewards of taxpayer money. The agency's long-term health and
+success depend on it.
 
-Several factors are driving the growth of the UAV market, including technological advancements, increased demand
-for UAVs in commercial applications, and government investments in drone       technology.
-    •     Technological Advancements: Innovations in sensor technology, battery life, and artificial intelligence
-          have significantly enhanced the capabilities of UAVs. Improved      flight stability, longer operational
-          endurance, and enhanced data processing capabilities have broadened the range of applications for
-          UAVs.
-    •     Commercial Applications: The commercial sector has seen a surge in UAV adoption, particularly in
-          industries such as agriculture, construction, and logistics. In agriculture, drones are used for crop
+It has been over 13 years since the Dodd-Frank Wall Street Reform and Consumer Protection Act[2] expanded the
+CFTC's authority. In that time, derivatives markets have experienced massive growth: trading volumes in exchange-
+traded futures and options have more than doubled; and the swaps market brought within our jurisdiction pursuant
+to the Dodd-Frank Act is now over $350 trillion,[3] which is approximately half of the estimated $715 trillion global
+market.
 
-                                                                                                  Page 2 of 5
-       Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38 billion by 2032, CAGR of
-                                               10.77% | MRFR.
+Today, technology is having a larger impact on CFTC jurisdictional markets than ever before. Innovators eager to
+meet demand for products and services are proposing traditional and nontraditional models that leverage
+technology in synergistic ways. At the same time, a growing number of less traditional retail participants are
 
-         monitoring, precision agriculture, and pesticide spraying. In construction, they are employed for site
-         surveys, progress monitoring, and safety            inspections. Logistics companies are exploring drone
-         delivery services to improve efficiency and reduce delivery times.
-   •     Government Investments: Governments worldwide are investing in UAV technology for various
-         applications, including surveillance, border control, and disaster management.          Military applications
-         remain a significant driver, with UAVs being used for intelligence, surveillance, and reconnaissance (ISR)
-         missions, as well as targeted strikes.
-   •     Regulatory Support: The development of supportive regulatory frameworks has facilitated the integration
-         of UAVs into national airspace systems. Regulatory bodies are         working on establishing guidelines for
-         UAV operations, including safety standards, certification processes, and privacy concerns.
-   •     Cost Efficiency: UAVs offer cost-effective solutions compared to traditional manned aircraft. They reduce
-         operational costs, minimize human risk, and provide       high-resolution data, making them an attractive
-         option for various applications.
+                                                                              Page 2 of 6
+         TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
 
-Competitive Landscape
+entering our markets, enabled by mobile phone application technology and an endless stream of information to
+pursue investment opportunities.
 
-The Unmanned Aerial Vehicle (UAV) market companies is characterized by intense competition among key
-players, ranging from established aerospace companies to innovative startups. Some of the prominent players in
-the market include:
-   •     DJI Innovations: A leading manufacturer of consumer and commercial drones, DJI is known for its
-         advanced UAV technology and diverse product portfolio. The company has a   strong presence in the
-         consumer market and is expanding its footprint in commercial applications.
-   •     Northrop Grumman Corporation: Specializing in defense and aerospace technology, Northrop Grumman
-         develops advanced UAV systems for military applications. Their UAVs are  used in ISR missions and
-         combat operations.
-   •     AeroVironment, Inc.: AeroVironment focuses on small UAV systems for military and commercial use. The
-         company s products are known for their versatility and ease of deployment.
-   •     General Atomics Aeronautical Systems, Inc. (GA-ASI): GA-ASI is a major player in the defense UAV
-         market, known for its Predator and Reaper series of drones. These UAVs are widely used by the U.S.
-         military for surveillance and combat missions.
-   •     Parrot SA: A key player in the commercial drone market, Parrot offers a range of UAVs for agriculture,
-         surveying, and inspection purposes. The company is known for its            user-friendly designs and
-         advanced imaging capabilities.
-   •     Boeing: Boeing s Insitu subsidiary develops UAV systems for both military and commercial applications.
-         The company s UAVs are utilized in maritime surveillance,     environmental monitoring, and disaster
-         response.
+Surveying the current landscape, the CFTC's regulations have developed over decades to oversee markets made
+of individual, discrete entities, each typically performing one function in a multi-step trade cycle. However, we are
+seeing a shift to structures, driven by technology, that combine or compress what have historically been unique and
+separate activities into a single or fewer entities. This compression raises many important questions including those
+regarding conflicts of interest within vertically integrated structures, the strength of capital, margin, and segregation
+requirements, the role and responsibilities of self-regulatory organizations, affiliate risk management, and most
+importantly, customer protections.
 
-The competitive landscape is also marked by strategic partnerships, mergers and acquisitions, and continuous
-research and development efforts. Companies are investing heavily in technological advancements to maintain a
-competitive edge and meet the evolving demands of the market.
+As this Committee continues to consider reauthorization of the CFTC, I believe there are several important policy
+questions that will benefit from broader Congressional consideration and debate regarding market structure,
+permissible products, and retail participation. While our current regulatory agenda demonstrates significant agility
+within our jurisdictional space, we periodically bump up against the limits of what may be contemplated under
+existing law given the relatively rapid evolution of markets, market structure, and technology.
 
-Market Segmentation
+To provide a glaring example from the past decade, the recent technology driven increase in direct retail
+participation in the derivatives markets and underlying commodity markets in areas such as digital commodity
+assets has tested the limits of the existing regulatory framework. The CFTC's mission and duties, while providing
+room for some adaptation to new products and structures, are not endlessly flexible: we must be able to ensure that
+the products offered and available are suitable for all participants, that only appropriate persons or entities may
+solicit or handle customer funds, and that the disclosure information provided is material for main street customers.
 
-The UAV market can be segmented based on type, application, end-user, and region.
-   •     By Type:
-        •    Fixed-Wing UAVs: These drones are known for their long endurance and ability to cover large
-             distances, making them suitable for surveillance and mapping applications.
+As Chairman, I have stressed that new market structures and participants eager to deploy all manner of financial
+technology must comply with the agency's rules and regulations.[4] This is especially true when it comes to
+protecting customers, consumers, and the larger financial markets from fraud, money laundering, and other
+financial crimes. For example, when the use of digital assets and related enabling technologies for illicit financial
+purposes threatens national security and may fund acts of war and terrorism, our laws must continue to
+aggressively demand that all market entrants implement and comply with know-your-customer (KYC) and anti-
+money laundering (AML) procedures, and Customer Information Programs (CIPs).
 
-                                                                                                  Page 3 of 5
-       Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38 billion by 2032, CAGR of
-                                               10.77% | MRFR.
+Enforcement matters like the CFTC's globally significant BitMex[5] and Binance[6] cases amplify the urgency. I
+believe we could do even more to protect customers and markets if given additional authority in the KYC, AML, and
+CIP space and welcome the opportunity to work with Congress on solutions.
 
-        •    Rotary-Wing UAVs: Characterized by their vertical takeoff and landing capabilities, these drones are
-             ideal for inspection, photography, and short-range missions.
-        •    Hybrid UAVs: Combining the features of fixed-wing and rotary-wing UAVs, hybrid drones offer
-             versatility and extended flight times, suitable for a wide range of applications.
-   •     By Application:
-        •    Agriculture: UAVs are used for crop monitoring, soil analysis, and precision agriculture, helping
-             farmers optimize yields and reduce costs.
-        •    Construction: Drones are employed for site surveys, progress tracking, and safety inspections,
-             enhancing project efficiency and safety.
-        •    Logistics: UAVs are being explored for package delivery and inventory management, promising faster
-             and more efficient logistics operations.
-        •    Military & Defense: The military sector uses UAVs for ISR missions, target acquisition, and combat
-             operations.
-        •    Public Safety: Drones assist in search and rescue missions, disaster response, and law enforcement
-             activities.
-        •    Environmental Monitoring: UAVs are used for wildlife monitoring, environmental surveys, and
-             pollution tracking.
-   •     By End-User:
-        •    Commercial: Encompassing various industries such as agriculture, construction, and logistics.
-        •    Military: Primarily focusing on defense and security applications.
-        •    Government & Public Sector: Including law enforcement, emergency services, and environmental
-             agencies.
+The Commission's exercise of its enforcement authorities to address misconduct that has a direct impact on CFTC
+jurisdictional markets, affects the larger economy, causes public harm, or interferes with market integrity is one
+facet of our approach to innovation and the evolution of financial markets.
 
-Regional Analysis
+Nowhere have we been more active than in the digital asset space. In FY 2023, we brought 47 actions involving
+conduct related to digital commodities, representing more than 49% of all CFTC actions filed during that period. A
+staggering statistic given the fact that no federal agency retains any direct regulatory authority over the underlying
+(or cash) digital commodity asset market. To date, FY 2024 is demonstrating a similar cadence.
 
-The UAV market is witnessing significant growth across different regions, driven by varying factors such as
-government initiatives, technological adoption, and commercial applications.
-   •     North America: North America dominates the UAV market, primarily due to the high adoption rate of UAVs
-         in military and commercial applications. The U.S. is a major player,        with significant investments in
-         drone technology for defense, agriculture, and logistics. The presence of key manufacturers and favorable
-         regulatory frameworks further support market        growth.
-   •     Europe: Europe is a significant market for UAVs, with countries like the UK, Germany, and France leading
-         in adoption. The European Union s regulatory support and                investments in UAV technology for
-         agriculture, environmental monitoring, and public safety contribute to market expansion.
-   •     Asia-Pacific: The Asia-Pacific region is experiencing rapid growth in the UAV market, driven by increasing
-         demand in countries like China, Japan, and India. China, in              particular, is a major player, with
-         significant advancements in drone technology and widespread adoption in agriculture and logistics.
-         Government initiatives and investments in UAV        technology further boost market growth in the region.
-   •     Latin America: The UAV market in Latin America is growing, with increasing adoption in agriculture,
-         mining, and public safety applications. Countries like Brazil and Mexico    are investing in drone
-         technology to enhance productivity and safety in various sectors.
-   •     Middle East & Africa: The Middle East and Africa are emerging markets for UAVs, with growing demand
-         in sectors such as oil and gas, agriculture, and public safety. The            region s investments in UAV
-         technology for surveillance and infrastructure monitoring contribute to market growth.
+The lack of legislation addressing the regulatory gap over the digital commodity asset spot market has not hindered
+the public's enthusiasm for digital assets, and I continue to believe Congress must act, as the 2022 FSOC report
+highlighted[7], and as I have mentioned publicly on multiple occasions.[8] I am grateful to members of this
+Committee for your continued leadership in recognizing these gaps, and for leading legislative efforts to provide the
+CFTC with the necessary authority to properly regulate digital commodity assets and protect the U.S. financial
+system.
 
-                                                                                                 Page 4 of 5
-      Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38 billion by 2032, CAGR of
-                                              10.77% | MRFR.
+A key to the effectiveness of our enforcement division is the CFTC's whistleblower program. The Dodd-Frank Act
+established the Customer Protection Fund[9] that supports our Whistleblower Program[10] and the Office of
+Customer Education and Outreach (OCEO).
 
-Access       Full Unmanned       Aerial    Vehicle     (UAV)       Market      Report                    Now        @
-: https://www.marketresearchfuture.com/reports/unmanned-aerial-vehicle-uav-market-806
+                                                                             Page 3 of 6
+        TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
 
-Conclusion
+As of FY 2023, the Whistleblower program has issued 41 orders granting awards totaling almost $350 million since
+its inception in FY 2010.[11] In fiscal year 2024, the program has, thus far, awarded $18 million to whistleblowers.
+The total sanctions ordered in all whistleblower-related enforcement actions has surpassed the $3 billion milestone.
 
-The Unmanned Aerial Vehicle market is poised for significant growth from 2024 to 2032, driven by technological
-advancements, expanding commercial applications, and government investments. The            competitive landscape is
-characterized by intense rivalry among key players, continuous innovation, and strategic collaborations. Market
-segmentation reveals diverse applications across various     industries, while regional analysis highlights significant
-growth opportunities in North America, Europe, Asia-Pacific, Latin America, and the Middle East & Africa. As UAV
-technology        continues to evolve, the market is expected to witness transformative changes, offering new
-opportunities and challenges for stakeholders across the globe.
+Without this important program, the CFTC would not be as successful in bringing actions against misconduct in the
+digital commodity asset spot market.
 
-Discover More Research Reports on Aerospace & Defense by Market Research Future:
+As this Committee knows, the overwhelming success of the Whistleblower Program has unintentionally led to the
+potential for disruptions in these two vital offices due to their funding mechanisms. In addition to the importance of a
+long-term fix to avoid depletions greater than the total balance of the fund, I believe Congress should amend the
+statutory provisions to clarify the permitted uses of the Customer Protection Fund by the OCEO.[12] This change
+would allow the Commission to implement a host of new investor protection programs and provide information
+aimed at ensuring American families have the knowledge and tools to not only protect themselves from fraud and
+manipulation, but to more fully engage with the Commission and the markets we oversee.
 
-UAV Market Research Report Information by Type (Fixed Wing and Multi Rotor), Component (Airframe, Payload,
-Guidance Navigation Control and Propulsion System), Application       (Military UAVs and Commercial UAVs) and
-Region (North America, Europe, Asia-Pacific, Middle East Africa and Latin America) Forecast till 2030
+One very important topic that continues to challenge the derivatives industry and the CFTC is cyber risk. Last year
+at this time, we were addressing the impacts of a cyber-related incident on ION Cleared Derivatives, a third-party
+service provider.[13] The severity of the impact on each futures commission merchant's (FCM's) operations, as well
+as each FCM's ability to work-around impacted applications, varied based on the ION application used.[14] Notably,
+the incident impacted the timely and accurate submission of positions data to the CFTC, and therefore delayed the
+timely release of the Commitments of Traders (CoT) report.
 
-Aircraft Seating Market Research Report Information by Seat Type (Economy, Premium Economy, Business
-Class, and First Class), Aircraft Type (Wide Body, Narrow Body, and Regional Transport Aircraft), Fit (Line Fit
-and Retrofit), and Region Forecast till 2030
+Under my direction, the Commission voted unanimously in December to issue a notice of proposed rulemaking to
+require FCMs, swap dealers (SDs), and major swap participants (MSPs) to establish an operational resilience
+framework and adopt non-binding Commission guidance related to the management of risks stemming from third-
+party relationships.[15] The proposed rule would require the covered entities to establish, document, implement,
+and maintain an Operational Resilience Framework (ORF). This proposal would require a process to identify,
+monitor, manage, and assess risks relating to IT security, third-party relationships, and emergencies or other
+significant disruptions to their operations as a CFTC registrant.[16] The ORF would need to include three
+components: an IT security program, a third-party relationship program, and a business continuity and disaster
+recovery (BCDR) plan.
 
-Maritime Security Market Size Anticipated to Reach at a USD 33.3 billion by 2030, at a CAGR of 6.7% from 2020
-to 2030.
+As I have often said, we recognize that our rules apply to covered entities that represent many different business
+models, and may be a part of a larger corporate family subject to the concurrent supervision of multiple domestic
+and perhaps international regulators. CFTC staff have strong working relationships with our fellow market and
+prudential regulators. Whether we are working on joint rulemakings or engaging in discussions regarding policy that
+impacts the derivatives markets directly or indirectly, our approach is always aimed at harmonizing where we can
+and avoiding duplicative and unnecessarily burdensome outcomes. We are actively working with our fellow
+regulators on a number of matters that impact CFTC regulated markets.
 
-Border Security Market Research Report Information By System (Cameras, Radar, Laser, Unmanned Vehicles,
-Biometric Systems, Perimeter Intrusion, C2C, Wideband Wireless    Communication, Others), By Platform (Naval,
-Aerial, Ground, Laser, Cameras, Radar, Others) And By Region (North America, Europe, Asia-Pacific, And Rest Of
-The World) Market Forecast Till 2032
+Another topic presenting challenges and opportunities for the agency is artificial intelligence (AI). I am proud to
+say that recently the CFTC's new AI Task Force issued a request for comment (RFC) on the use of AI in CFTC-
+regulated markets.[17] The AI RFC is part of a greater vision I have had since my first days as Chairman:
+advancing analytical capabilities through building talent, leveraging the cloud, and developing a forward-looking AI
+culture. We have a process in place for exploring AI use cases to help the agency better monitor, regulate, surveil,
+identify pockets of stress, and enforce compliance. Further, our OCEO recently issued a Customer Advisory
+warning the public about AI-driven fraud and scams.[18]
 
-Military Drone Market Research Report Information By Payload Type (Sensors, Camera, Navigation Systems, and
-Others), By Drone Type (MALE, HALE, TUAV, UCAV, and SUAV), By         Application (Spying, Search & Rescue,
-Border Security, and Combat) And By Region (North America, Europe, Asia-Pacific, And Rest Of The World)
-Market Forecast Till 2030.
+In December, the Commission proposed guidance regarding the listing of voluntary carbon credit (VCC) derivative
+contracts.[19]
 
-Electronic Flight Bag ( EFB) Market Research Report Information by Type (Portable and installed), By Platform
-(Commercial and Military), By (Hardware and Software) And By    Region (North America, Europe, Asia-Pacific,
-And Rest Of The World) Market Forecast Till 2030.
+Identified as one of the most important developments for the carbon industry,[20] this is the first proposed guidance
+on standards applicable to exchanges listing products aimed at providing tools to manage risk, promote price
+discovery, and help encourage integrity in these markets.[21] All landowners, including America's farmers and
+ranchers, can benefit from high integrity voluntary carbon markets.
 
-About US
+                                                                             Page 4 of 6
+        TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
 
-Market Research Future (MRFR) is a global market research company that takes pride in its services, offering a
-complete and accurate analysis with regard to diverse markets and consumers           worldwide. Market Research
-Future has the distinguished objective of providing the optimal quality research and granular research to clients.
-Our market research studies by products, services,    technologies, applications, end users, and market players for
-global, regional, and country level market segments, enable our clients to see more, know more, and do more,
-which help answer your     most important questions.
+Under my direction as Chairman, the CFTC hired its first ever Chief Diversity Officer (CDO) who oversees the
+agency's Office of Minority and Women Inclusion (OMWI). In the near future, I plan to release the CFTC's first DEIA
+Strategic Plan. Among other things, the Plan will aim to further develop our workforce.
 
-Tags: Unmanned Aerial Vehicle (UAV) Market, Unmanned Aerial Vehicle (UAV) Market forecast, Unmanned Aerial
-Vehicle (UAV) Market Growth, Unmanned Aerial Vehicle (UAV) Market outlook, Unmanned    Aerial Vehicle (UAV)
-Market SizeSee Campaign:https://www.marketresearchfuture.com/reports/unmanned-aerial-vehicle-uav-market-
-806
+Current efforts through our OMWI include establishing partnerships and recruiting at minority serving institutions
+and rural colleges and universities, engaging urban and rural communities and related professional associations,
+and planning a robust mass media campaign to enhance our outreach efforts. I am eager to see the CFTC's OMWI
+statutorily authorized, similar to other federal financial regulators.[22]
 
-Contact Information:
+Under my direction, the agency also is embarking on developing its first centralized workforce succession planning
+program. The lack of adequate succession planning poses several risks to the agency, including disruption to
+processes, workflows, and protocols that can threaten core functions; the loss of mission critical knowledge and
+expertise; and the increased expense of retaining critical talent in urgent situations. Looking at our workforce
+demographics and trajectory, the inescapable conclusion is that roughly a decade of budget uncertainty is
+degrading our ability to effectively and consistently hire and maintain the skilled workforce necessary to keep pace
+with our jurisdictional markets.
 
-                                                                                                Page 5 of 5
-     Unmanned Aerial Vehicle (UAV) Market Size Anticipated to Reach USD 79.38 billion by 2032, CAGR of
-                                             10.77% | MRFR.
+As we near the 50th anniversary of President Ford signing of the Commodity Futures Trading Commission Act of
+1974, we should reflect on the past 50 years of market development, evolution, and growth, while also looking
+forward to the next 50 years, and to the role the CFTC will play in the continued health and dominance of the U.S.
+financial markets and economy. We cannot simply sit back and hope that the next 50 years will replicate the
+success of the past 50. Technology is driving change faster than it ever has, and we collectively must keep up, both
+to set the guardrails that will serve as foundations for customer protections and market resiliency, and to allow for
+growth and innovation.
 
-Contact USMarket Research Future (part of Wantstats Research and Media Private Limited),99 Hudson Street,5Th
-Floor New York 10013, United States of America Sales: +1 628 258 0071 (US) +44 2035      002 764 (UK) Email:
-Sales@marketresearchfuture.com
+The CFTC has consistently been at the forefront of identifying and addressing risks with a balanced, thoughtful, and
+measured approach. I strongly believe our collective goal is to keep the U.S. derivatives markets the safest,
+strongest, the most effective, and the most desirable in the world. These goals are necessary to maintain America's
+position as the preeminent economy in the world. These goals are also necessary to maintain national security for
+all Americans. As this Committee knows, our nation's agricultural, energy, and precious metals resources are some
+of our most critical assets. I believe that without a robust derivatives market, these assets cannot be optimally
+utilized. An investment in the CFTC is an investment in America. As Chairman of the agency, you have my
+commitment to work with this committee on achieving these goals. I look forward to your questions.
 
-Tags:
-Research Newswire, English
+[1] See Press Release Number 8857-24, CFTC, CFTC, Kansas State University Announced Featured Panels for
+AgCon2024 (Feb. 8, 2023), CFTC, Kansas State University Announce Featured Panels for AgCon2024 | CFTC;
+Press Release Number 8832-23, CFTC, AgCon2024 Set for April 11-12 (Dec. 8, 2023), AgCon2024 Set for April
+11-12 | CFTC.
+
+[2] Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2010) (the
+"Dodd-Frank Act").
+
+[3] CFTC, Weekly Swaps Report, Weekly Swaps Report | CFTC.
+
+[4] See, e.g., Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the 2023 U.S Treasury
+Market Conference (Nov. 16, 2023), Keynote of Chairman Rostin Behnam at the 2023 U.S. Treasury Market
+Conference | CFTC.
+
+[5] See Press Release Number 8412-21, CFTC, Federal Court Orders BitMEX to Pay $100 Million for Illegally
+Operating a Cryptocurrency Trading Platform and Anti-Money Laundering Violations (Aug. 10, 2021), Federal Court
+Orders BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and Anti-Money
+Laundering Violations | CFTC.
+
+[6] See Press Release Number 8680-23, CFTC, CFTC Charges Binance and its Founder, Changpeng Zhao, with
+Willful Evasion of Federal Law and Operating an Illegal Digital Asset Derivatives Exchange (Mar. 27, 2023), CFTC
+
+                                                                             Page 5 of 6
+        TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
+
+Charges Binance and Its Founder, Changpeng Zhao, with Willful Evasion of Federal Law and Operating an Illegal
+Digital Asset Derivatives Exchange | CFTC.
+
+[7] Financial Stability Oversight Council, Report on Digital Assets and Financial Stability Risks and Regulation (Oct.
+2022), Report on Digital Asset Financial Stability Risks and Regulation 2022 (treasury.gov).
+
+[8] See, e.g., Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the ABA Business Law
+Section Derivatives and Futures Law Commission Winter Meeting (Jan. 26, 2024), Keynote of Chairman Rostin
+Behnam at the ABA Business Law Section Derivatives and Futures Law Committee Winter Meeting | CFTC.
+
+[9] CEA 23(g), 7 U.S.C 26(g).
+
+[10] Commodity Futures Trading Commission Whistleblower Program, CFTC's Whistleblower Program |
+Whistleblower.gov.
+
+[11] See CFTC, FY 2023 Whistleblower Program and Customer Education Initiatives 2023 Annual Report (Oct.
+2023), FY 2023 Whistleblower Customer Education Report to Congress.pdf.
+
+[12] See CEA section 23(g)(2); 7 USC 26(g)(2).
+
+[13] See CFTC, CFTC Statement on Ion and the Impact to the Derivatives Markets (Feb. 2, 2023), CFTC Statement
+on ION and the Impact to the Derivatives Markets | CFTC; see also, Press Release Number 8655-23, CFTC, CFTC
+Issues Statement on the Ongoing Impact to Reporting (Feb. 10, 2023), CFTC Issues Statement on the Ongoing
+Impact to Reporting | CFTC; Press Release Number 8662-23, CFTC Announces Postponement of Commitments of
+Traders Reports (Feb. 16, 2023), CFTC Announces Postponement of Commitments of Traders Report | CFTC.
+
+[14] See Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the FIA Boca 2023
+International Futures Industry Conference, Boca Raton, Florida (Mar. 15, 2023), Keynote of Chairman Rostin
+Behnam at the FIA Boca 2023 International Futures Industry Conference, Boca Raton, Florida | CFTC; Rostin
+Behnam, Chairman, CFTC, Testimony of Chairman Rostin Behnam Regarding "Oversight of the Commodity
+Futures Trading Commission" before the U.S. Senate Committee on Agriculture, Nutrition, and Forestry (Mar. 8,
+2023), Testimony of Chairman Rostin Behnam Before the U.S. Senate Committee on Agriculture, Nutrition, and
+Forestry | CFTC.
+
+[15] Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap
+Participants, 89 FR 4706 (Proposed Jan. 24, 2024) (to be codified at 17 C.F.R. pts. 1 and 23), 2023-28745a.pdf
+(cftc.gov).
+
+[16] See CFTC, Fact Sheet and QandANotice of Proposed Rulemaking to Require Futures Commission Merchants,
+Swap Dealers, and Major Swap Participants to Establish an Operational Resilience Framework (Dec. 13, 2023),
+available at CFTC to Hold a Commission Open Meeting on December 13 | CFTC.
+
+[17] See Press Release Number 8853-24, CFTC, CFTC Staff Releases Request for Comment on the Use of
+Artificial Intelligence in CFTC-Regulated Markets (Jan. 25, 2024), CFTC Staff Releases Request for Comment on
+the Use of Artificial Intelligence in CFTC-Regulated Markets | CFTC.
+
+[18] See Press Release Number 8854-24, CFTC, CFTC Customer Advisory Cautions the Public to Beware of
+Artificial Intelligence Scams (Jan. 25, 2024), CFTC Customer Advisory Cautions the Public to Beware of Artificial
+Intelligence Scams | CFTC.
+
+[19] Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts; Request for
+Comment, 88 FR 89410 (Dec. 27, 2023), 2023-28532a.pdf (cftc.gov).
+
+[20] See Vasil Valev, COP28 Update on Day Six: The Most Important Developments for the Carbon Industry,
+Carbon Herald (Dec. 5, 2023), COP28 Update On Day Six: The Most Important Developments For The Carbon
+Industry (carbonherald.com).
+
+                                                                             Page 6 of 6
+        TESTIMONY OF CHAIRMAN ROSTIN BEHNAM: U.S. HOUSE COMMITTEE ON AGRICULTURE
+
+[21] See Rostin Behnam, Chairman, CFTC, Statement of Chairman Rostin Behnam on the Proposed Commission
+Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts (Dec. 4, 2023), Statement of
+Chairman Rostin Behnam on the Proposed Commission Guidance Regarding the Listing of Voluntary Carbon
+Credit Derivative Contracts | CFTC.
+
+[22] Section 342 of the Dodd-Frank Act, codified at 12 U.S.C. 5452, required the Departmental Offices of the
+Department of the Treasury, the Office of the Comptroller of the Currency (OCC), the Board of Governors of the
+Federal Reserve System (Board), each of the Federal reserve banks, the Federal Deposit Insurance Corporation
+(FDIC), the National Credit Union Administration (NCUA), the Bureau of Consumer Financial Protection (CFPB), the
+Federal Housing Finance Agency (FHFA), and the Securities and Exchange Commission(SEC) to each establish
+an Office of Minority and Women Inclusion (OMWI) to be responsible for all matters of the agency relating to
+diversity in management, employment, and business activities. The Act also instructed each OMWI Director to
+develop standards for assessing the diversity policies and practices of entities regulated by the respective agency.
 
 
-
-Load-Date: August 2, 2024
+Load-Date: March 6, 2024
 
 
   

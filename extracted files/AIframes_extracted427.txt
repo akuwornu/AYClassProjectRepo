@@ -1,90 +1,90 @@
 
 
-                                                                                                       Page 1 of 2
-                                                   Six Levels of Website Security
+                                                                                             Page 1 of 2
+   OAS and Vive Con Esperanza Foundation to Cooperate in Promoting Sustainable Development and Disaster
+                                            Risk Management
 
 
 
 
-                                          Six Levels of Website Security
-                                                          News Release Wire
-                                               June 16, 2024 Sunday 9:21 AM EST
+       OAS and Vive Con Esperanza Foundation to Cooperate in Promoting
+           Sustainable Development and Disaster Risk Management
+                                                     Targeted News Service
+                                           April 10, 2024 Wednesday 8:40 AM EST
+
+
+
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
 
-Copyright 2024 Broadcast Interview Source, Inc. All Rights Reserved
-
-Length: 624 words
+Length: 495 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
-Are you sure that your website is actually secure, and impervious to hackers intent on doing you harm?
-Unfortunately, you never can be sure, until the unthinkable happens. But you can reduce your risk significantly, by
-putting into place security layers' six of them.
 
-The six levels of website security:
-    •     Secure the network: Configuring Cloudflare, which helps prevent denial-of-service attacks, and provides
-          DNS-related protection. A side benefit is that the Cloudflare CDN can also speed up the site dramatically.
-    •     Secure the server: Hosting the site on a commercial-strength hosting provider, such as WPengine or
-          Kinsta, provides both server-level security, and also hourly roll-backs in case of disaster.
-    •     Secure the WordPress application: This means keeping the program and all plug-ins up-to-date, then
-          installing and properly configuring a web firewall and scanner. I would recommend WordFence: it is both
-          well-respected, and powerful.
-    •     Secure user access:      Require complex passwords and two-factor authentication. This means that
-          passwords can't be guessed, nor shared.
-    •     Test the security: Use an automated penetration testing tool, such as Beagle Security. Beagle will probe
-          your site for vulnerabilities, and provide a detailed report of issues that your tech team can address.
-    •     Educate your users: One of the more powerful hacking techniques is 'social engineering', where hackers
-          connect directly with users, convincing them to provide access, share passwords, click on malware links,
-          etc. Training your users ' even on security basics ' can make a big difference.
+The Organization of American States issued the following news release:
 
-There is always a chance of being hacked ' but if you build layers of security, and keep each up-to-date, the risk is
-reduced dramatically.
+The Organization of American States (OAS), and the Vive con Esperanza Foundation will join forces to support the
+2024 Continental Rally, a competition for elementary and middle schools in the Americas that promotes education
+for sustainable development and disaster risk management, under the theme "Digitalizing the Future".
 
-This week's action plan:
+The competition is open to all elementary and middle schools in the Americas that wish to promote sustainable and
+resilient education in their community. Interested schools should register here.
 
-Most leaders don't have a clue about website security ' and they shouldn't. This week, ask your team how they are
-securing your web-based digital assets, and use this list as your reality check.
+Once the competition has concluded, the OAS Executive Secretariat for Integral Development (SEDI) through its
+Department of Sustainable Development (DSD) and in collaboration with the Art Museum of the Americas (AMA),
+will host an interactive exhibition of entries from the 2024 Continental Rally at its headquarters in Washington, DC,
+to be held from April 21 to May 2, 2025. The exhibition will be prominently displayed at the Marcus Garvey Gallery
+in the OAS Main Building and on a digital platform accessible to schools across the hemisphere.
 
-Security Insight:
+Applications for the 2024 Continental Rally regional art competition will be free and open to over 10,000 primary
+and secondary schools across the Americas until August 16, 2024. Photographs and digital art, utilizing artificial
+intelligence (AI), will be used to showcase the five key strategic pillars:
 
-                                                                                                      Page 2 of 2
-                                          Six Levels of Website Security
+* health and well-being.
 
-Sometimes it is helpful to have a third party help this process. At one end of the spectrum are comprehensive third-
-party security audits, and on the other end of the spectrum are simpler advisory conversations. The most important
-thing is not to 'assume' anything when it comes to security: trust, but verify. Next steps: While I cannot provide a
-comprehensive a security audit, happy to make a referral. (I can help demystify the topic for you, and have that
-advisory conversation though.)
+* equity and social inclusion.
 
-Related posts: Nine Privacy Action Points When You Get Hacked
+* disaster risk management with an emphasis on school safety.
 
+* resilience and adaptation to climate change.
 
+                                                                                             Page 2 of 2
+   OAS and Vive Con Esperanza Foundation to Cooperate in Promoting Sustainable Development and Disaster
+                                            Risk Management
 
-Does this topic resonate? Reach out to Randall: he can present it to your group. ( More presentation topics )
-Download Randall's professional credentials: Speaker credentials one-sheet or Management Advisory credentials
-.
+* entrepreneurship, and sustainable economic development.
 
-Content Authenticity Statement: 100% original content: no AI was used in creating this content.
+Entries will be evaluated by a jury of representatives from international organizations and experts in sustainable
+development. Winning schools will receive recognition and awards at both regional and international levels, in
+addition to being integrated into the International Committee of the Vive con Esperanza Award.
 
-@RandallCraig (Follow me for daily insights) www.RandallCraig.com: Professional credentials site.
+The OAS invites Ministries of Education and Environment, as well as the Disaster Risk Reduction Offices in
+member countries, to support this exciting initiative that links a wide variety of stakeholders, integrating the public
+sector with schools, NGOs, the private sector, development funds, and civil society, all working towards a
+hemispheric approach to the resilience of our communities across the Americas.
 
-About:
+Executive Secretary Kim Osborne underscored the OAS's readiness to collaborate and strengthen synergies,
+cooperation, and coordination in "harnessing the benefits of digital transformation, by promoting sustainable
+development through the integration of art, innovation, and technology."
 
-Randall is a serial entrepreneur, coaches CEOs on scaling their business, and leads the Braintrust Professional
-Institute. He shares his unique perspective through his eight books (one a best seller), 600+ articles, podcasts,
-keynote speeches, virtual presentations, and advisory relationships. He has helped over 100 organizations from
-start-ups to multinationals scale their businesses, build capacity, and address their most pressing challenges.
+For more information on and how to participate in the 2024 Continental Rally "Digitalizing the Future please click
+here (https://vivesperanza.org/).
 
-Randall has taught at numerous executive education programs, serves on both corporate and not-for-profit boards,
-and frequently appears as an expert in the media. He has earned an FCMC, CFA, MBA, CSP, iGP, and a Black
-Belt in Karate. Randall has also been inducted into the Canadian Speaking Hall of Fame.
+***
 
-http://www.Newsreleasewire.com/304884
+Original text here: https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-022/24
+
+Copyright Targeted News Services
+
+MSTRUCK-8566591 MSTRUCK
 
 
-Load-Date: June 17, 2024
+Load-Date: April 10, 2024
 
 
   

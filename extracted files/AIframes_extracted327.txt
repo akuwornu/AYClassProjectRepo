@@ -1,250 +1,83 @@
 
 
-                                                                                                     Page 1 of 5
-    New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs
-                          on Bloomberg TV as a Sponsored Programming on July 4....
+                                                                                                        Page 1 of 2
+                  StorMagic and Acronis Partner to Deliver Highly Available Data Protection Solutions
 
 
 
 
-    New to The Street Celebrates the July 4th Holiday with Five Fantastic
-   Business Interviews. Episode 579 Airs on Bloomberg TV as a Sponsored
-                 Programming on July 4, 2024, at 9:30 PM PT
-                                                         GlobeNewswire
-                                              July 3, 2024 Wednesday 6:15 AM PT
+  StorMagic and Acronis Partner to Deliver Highly Available Data Protection
+                                 Solutions
+                                                           PR Newswire
+                                            March 19, 2024 Tuesday 8:00 AM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-
-
-
-Section: CALENDAR OF EVENTS
-Length: 2791 words
+Length: 890 words
+Dateline: BRISTOL, England, March 19, 2024
 
 Body
 
 
-NEW YORK, July 03, 2024 (GLOBE NEWSWIRE) -- FMW Media's New to The Street announces its July 4th
-Holiday broadcasting of its national TV business show airing on Bloomberg TV as sponsored programming,
-Thursday, July 4, 2024, at 9:30 PM PT.
+PR NewswireStorMagic®, solving the world's edge data problems, today announced the immediate availability of
+Acronis Cyber Protect Cloud integration with StorMagic SvSAN. The solution keeps data available, protected and
+recoverable while lowering costs for managed service providers (MSPs) and their customers. Together, Acronis and
+StorMagic provide a simple, flexible, highly available data protection solution that offers MSPs –and their
+customers– peace of mind at a fraction of the cost.BRISTOL, England, March 19, 2024 /PRNewswire-PRWeb/ --
+StorMagic®, solving the world's edge data problems, today announced the immediate availability ofAcronis Cyber
+Protect Cloudintegration with StorMagic SvSAN. The solution keeps data available, protected and recoverable while
+lowering costs for managed service providers (MSPs) and their customers.
 
-New to The Street's TV Episode 579 will air the following five (5) fantastic business interviews:
+Together, Acronis and StorMagic provide a simple, flexible, highly available data protection solution that offers
+MSPs –and their customers– peace of mind at a fraction of the cost.StorMagic and Acronis also announced the
+availability of Acronis Cyber Protect integration with StorMagic SvSAN. This solution provides data availability and
+protection for organizations choosing to manage these requirements in-house, keeping data protected and secure
+while reducing costs.StorMagic and Acronis also announced the availability of Acronis Cyber Protect integration
+with StorMagic SvSAN. This solution provides data availability and protection for organizations choosing to manage
+these requirements in-house, keeping data protected and secure while reducing costs."Acronis is excited to partner
+with StorMagic to deliver new integrated solutions that combine the highest availability to eliminate downtime
+alongside complete data protection, backup and recovery for our service provider customers and businesses," said
+Pat Hurley, RVP, Acronis. "Acronis Cyber Protect Cloud Integration with StorMagic SvSAN provides complete
+control and flexibility of an end-to-end high availability and data protection solution that comes at a very low
+cost."MSPs can now offer customers a simple hyperconverged solution that works with any two x86 servers and
+hypervisor – providing uptime while lowering costs, and allowing for easy expansion of, and integration with,
+customers' existing solutions. The solutions feature active-active synchronous mirroring between two servers, data
+encryption, a lightweight remote witness, and native integration of cybersecurity, data protection and management.
+MSPs can opt to offer additional service agreements, including outsourced witness and key management for their
+customers."MSPs want to offer more storage solutions that are simple, flexible and reliable while offering HA and
+data protection, and customers are looking for easy-to-use solutions that meet their budgets," saidBruce Kornfeld,
+chief marketing and product officer, StorMagic. "SvSAN delivers the HA while Acronis delivers the data protection
+piece – all in a single solution that can be delivered and managed by their preferred service provider or managed in-
+house."AvailabilityAcronis Cyber Protect Cloud Integration with StorMagic SvSAN and Acronis Cyber Protect
 
-1) Space Medicines - Vector Space Biosciences, Inc.'s (SBIO) interview with Kasian Franks, CEO and Co-Founder.
+                                                                                                       Page 2 of 2
+                StorMagic and Acronis Partner to Deliver Highly Available Data Protection Solutions
 
-2) Infused Water Beverage – Karma Water's interview with C.J. Rapp, CEO and Founder.
-
-3) Digital Wellness – Hapbee Technologies, Inc.'s (OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) ($HAPBF)
-interview with Yona Shtern, CEO/Founder, and Heather Thomson, Business Development Advisor.
-
-4) Sustainable Solutions – Sustainable Green Team, Ltd.'s (OTC: SGTM) ($SGTM) interview with Tony Raynor,
-CEO and Founder.
-
-5) "Sekur Privacy & Sekur Security – The Weekly Hack” segment with internet privacy expert Mr. Alain Ghiai, CEO,
-Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) (Sekur®).
-
-Episode 579
-
-                                                                                                    Page 2 of 5
-   New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs
-                         on Bloomberg TV as a Sponsored Programming on July 4....
-
-New to The Street's TV Host Jane King from the New York Stock Exchange Studio talks with Kasian Franks, CEO
-and Co-Founder of Vector Space Biosciences, Inc. (SBIO) ("Vector") (“Company”). The Company specializes in
-harnessing biological language modeling that results in correlations on real-time datasets to advance scientific
-advancements and discoveries. Vector accomplishes unique and implicit biological connections of genes, proteins,
-and other biochemicals, seeking to form and repurpose existing drugs/compounds to advance human health/well-
-being on Earth and for space travel. Using the Company's CubeSats, a small satellite square object, specific
-experiments can occur in zero gravity. During the interview, Kasian showed Vector's 1-U model CubeSat. He
-further explains that the CubeSats come in larger sizes, enabling more complex and more extended space
-experiments. The first CubeSat launch will be a space radiation experiment. Vector's corporate financial structure
-has two valuations: crypto and equity. Kasian explains that he has yet to find Venture Capital (VC) or Investment
-Banking firms to produce a mathematical model that creates a single valuation. SBIO is a security token that
-represents the Company's equity. Vector's parent company, Vectorspace AI, has a utility token, VXV, that protects
-the dataset security and provenance on data-driven innovation and discoveries from space experiments. Creating
-new and exciting compounds for the betterment of humankind here on Earth and for Space travel, Vector Space
-Biosciences, Inc. is an up-and-coming leader in the fast-growing space industry. The on-screen QR code is
-available during the show; download or visit Vector Space Biosciences, Inc. (SBIO) -
-https://vectorspacebio.science/.
-
-Karma Water's Chief Executive Officer and Founder, C.J. Rapp ("CJ"), is with New to The Street's TV host Jane
-King. From the New York Stock Exchange Studio, they talk about the fundamental ongoings and history of Karma
-Water and its patented "Karma Push-Cap" technology, which instantaneously infuses water with natural flavoring,
-probiotics, and vitamins. CJ has succeeded in the beverage sector and founded Jolt Cola ("JOLT"), a well-known
-beverage brand. The idea for Karma Water comes from the industry shortfalls related to pre-mixed, water-soluble
-vitamins/nutrients in current beverage products. These products are sometimes hotly mixed and then sit on shelves,
-exposed to climate conditions, and over time, the wellness benefits become significantly reduced. The FDA has
-acted on this issue, stating that labeling needs to be more accurate on pre-mixed products due to time-related
-reduced optimization benefits. So, ten years ago, CJ started Karma Water, which continues to grow brand
-awareness, increase retail locations, expand online orders, and educate consumers. Karma Water collaborates with
-Constellation Brands, Inc., a large Fortune 500 Company, and CJ believes this relationship will increase Karma's
-brand identity. CJ doesn't expect to go public directly, but if the relationship with Constellation proves successful,
-perhaps Constellation will acquire the Company. CJ demonstrates the product on air, showing how immediately the
-bottle is infused with natural flavor and vitamin mix. The on-screen QR code is available during the show; download
-or visit Karma Water - https://drinkkarma.com/.
-
-From the New York Stock Exchange Studio, New to The Street's TV Host Jane King interviews Yona Shtern, Chief
-Executive Officer/Founder, and Heather Thomson, Business Development Advisor of Hapbee Technologies, Inc.
-(OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) ("Hapbee") ("Company"). As the next generation of wearable
-wellness technology, Hapbee offers chemical-free products that can improve sleep, increase energy, improve
-modes, and overall wellness. Hapbee uses digital frequency incorporated into its products, like Hapbee Neckbands,
-which can stimulate the brain without using drugs, caffeine, or other products without chemical-induced side effects.
-Yona talks about how the Company will utilize money received from a CDN $2.8M investment to increase marketing
-avenues, manufacturing, and product developments. He expects to expand its brand footprint in North America and
-globally. Very well-known individuals in the financial community and sports world became investors in this financial
-offering and joined the Company's Board of Directors. Heather Thomson, the Company's Business Development
-Advisor, talks to viewers about her experience using the product, improving her overall health and wellness without
-pills and chemical stimulants, and being a brand ambassador online and at retail locations. Consumer trends in
-demand for wellness products are consistent with customers who are buying Hapbee's products. Hapbee's unique
-digital wellness products are authentic solutions that create an outstanding user experience and offer consumers a
-chemical-free choice in seeking better health/wellness. The on-screen QR code is available during the show;
-download or visit Hapbee Technologies, Inc.- https://hapbee.com/.
-
-                                                                                                    Page 3 of 5
-   New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs
-                         on Bloomberg TV as a Sponsored Programming on July 4....
-
-On New to The Street, Sustainable Green Team, Ltd.'s (OTC: SGTM) ($SGTM) (“Company”) CEO and Founder,
-Tony Raynor, talks with TV Host Jane King from the Nasdaq MarketSite Studio. SGTM is revolutionizing
-sustainability using cutting-edge technology, converting waste into viable products. Agricultural companies can
-meet their sustainability goals using SGTM's products and services. The Company diversified itself from making
-mulch products by introducing cutting-edge, disruptive technologies that address the world's agricultural problems.
-Tony explains that in addition to groundbreaking technologies, the Company has a global team of experts and
-consultants with experience in finance, governmental agencies, and sustainability methodologies. The adage:
-"Wisdom comes through the multitude of counsel" explains Tony's team of global personnel committed to
-spearheading projects with the vision for immediate objectives and sustainable solutions. With personnel in the
-Middle East, Australia, and the USA, Tony has the right team to launch all SGTM's products and services globally.
-SGTM's technology converts waste into nutrient-rich soil, diminishing food insecurities while sequestering carbon,
-reducing odors, and limiting diseases. SGTM's team and technologically advanced products are genuinely
-revolutionary, and they have a global mission to scale upward to increase agricultural outputs dramatically. The
-Company has a YouTube channel with many informative videos about the Company and its sustainable initiatives.
-The on-screen QR code is available during the shows; download or visit Sustainable Green Team, Ltd. -
-https://www.thesustainablegreenteam.com/.
-
-New to The Street TV airs its "Sekur Privacy & Sekur Security Segment – Weekly Hack" with internationally
-acclaimed internet privacy expert Mr. Alain Ghiai, CEO of Sekur Private Data Ltd. (OTCQX: SWISF) (CSE: SKUR)
-(FRA: GDT0) ($SWISF) (“Company”). TV Host and Multi-media Journalist Ana Berry and Alain discuss a recent
-report about a hack that occurred at the UK's Ministry of Defense (MOD). The cybersecurity breach stole thousands
-of names, addresses, and other personal data of many associated with the MOD. Many governments globally use
-Big Tech platforms, which have minimal cybersecurity features. Hackers usually figured out how to download
-malware onto government devices and exploit compromised email addresses as a computer system entry point.
-Alain says many emerging-growth countries' governments use open-source platforms, which is a hacking problem
-waiting to happen. Sekur has cybersecurity solutions for governments. Sekur's closed-loop encrypted platforms
-have a variety of subscription solutions that can significantly diminish a cybersecurity breach - SekurMail with
-SekurSend/SekurReply, SekurMessenger with Chat-by-Invite, and SekurVPN. Sekur 100% owns its servers in
-Switzerland, a country with very tough privacy laws. The Company never tracks your devices, never sells data,
-doesn't use 3rd party platforms, and never asks for phone numbers. PROMO CODE: PRIVACY is now available,
-giving 15% savings toward monthly and yearly subscriptions. Viewers, please tune in next time for the newest
-cybersecurity topic on the "Sekur Privacy & Sekur Security– Weekly Hack" segment. The on-screen QR code is
-available during the shows to download more info or visit Sekur Private Data, Ltd. – https://sekurprivatedata.com/,
-http:/sekur.com/ and https://sekur.com/en/vpn. Privacy has arrived!
-
-About Vector Space Biosciences, Inc. (SBIO):
-
-Vector Space Biosciences, Inc. (SBIO), the parent company of Vectorspace AI (VXV), and its scientific
-collaborators design, develop, and launch biological CubeSats to generate and interpret unique datasets related to
-microgravity and radiation. This leads to the development of countermeasures against diseases associated with
-stressors connected to protecting and repairing the human body during spaceflight. This includes using a network of
-scientific data engineering pipelines to build targeted language models resulting in real-time datasets that power
-Artificial Intelligence (AI) operations in space biosciences, biotechnology, and pharmaceutical development.
-Working with leading scientific labs in human aging, cancer, and nutrigenomics, the Company aims to accelerate
-the process of new hypothesis generation and novel discoveries in space biosciences, including materials sciences
-in nanotechnology and nanomedicines. Developing advanced large and small language modeling/AI technologies,
-our platform can produce more than 100,000,000,000 different real-time datasets to accelerate discoveries.
-Innovations in space biosciences result in products and services for all industries, including the financial markets,
-and more importantly, new forms of precision medicine for all humankind - https://vectorspacebio.science/.
-
-About Karma Water:
-
-                                                                                                    Page 4 of 5
-   New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs
-                         on Bloomberg TV as a Sponsored Programming on July 4....
-
-Karma Water provides an immediately-infused beverage that gives consumers satisfaction. The Karma Difference:
-While other brands may make empty promises, Karma's patented Push Cap protects the active ingredients until the
-minute you're ready to drink, guaranteeing you'll receive the highest nutritional benefits. The Company offers Karma
-Energy Water, Karma Probiotic Water, and Karma CBD Water products, all using the Company's patented Push
-Cap—https://drinkkarma.com/.
-
-About Hapbee Technologies, Inc. (OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) ($HAPBF):
-
-Hapbee Technologies, Inc. (OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) ($HAPBF) ("Hapbee") is a digital
-wellness technology company that aims to help people take control of how they sleep, perform, and feel. Hapbee's
-digital wellness library of Blends and Routines utilizes patented ultra-low radio frequency energy (ulRFE®)
-designed to help optimize users' sleep, productivity, recovery, and downtime. Hapbee products are available at
-Hapbee.com and through a growing network of select distributors - www.Hapbee.com.
-
-About Sustainable Green Team, Ltd. (OTC: SGTM) ($SGTM):
-
-Sustainable Green Team, Ltd. (OTC: SGTM) ($SGTM) is a leading Company in climate reversing technologies, a
-provider of sustainable solutions to improve environmental health, promote sustainable practices, and deliver eco-
-friendly products and services. SGTM aims to make significant contributions to global sustainability; learn more by
-visiting the Company website, https://thesustainablegreenteam.com/, SGTM's YouTube Channel, corporate
-commercial          -       https://www.youtube.com/watch?v=d_0rLESvJJ0,           corporate           video      -
-https://www.youtube.com/watch?v=xJ7Dp9Coi88&t=1s                and           SGTM's              Blogs           -
-https://thesustainablegreenteam.com/sgtm-blog.
-
-About Sekur Private Data Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF):
-
-Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) is a cybersecurity and internet
-privacy provider of Swiss-hosted solutions for secure communications and secure data management. The
-Company distributes a suite of secure cloud-based storage, disaster recovery, document management, encrypted
-emails, and secure communication tools. It sells its products through its websites, www.sekur.com, approved
-distributors, and telecommunication companies worldwide. Sekur Private Data, Ltd. serves consumers, businesses,
-and governments worldwide - https:/sekurprivatedata.com and https://sekur.com; Twitter: @sekurprivate.
-
-About New to The Street:
-
-New to The Street is an FMW Media production that operates one of the longest-running US and International
-sponsored and syndicated Nielsen-rated programming television brands, "New to The Street." Since 2009, New to
-The Street has run biographical interview segment shows across major U.S . television networks. The Nielsen-rated
-and sponsored broadcast programming platform reaches millions of homes in the US and international markets.
-FMW's New to The Street show appears on Bloomberg and the FOX Business Network as sponsored
-programming. FMW is also one of the nation's largest buyers of linear television, long and short-form paid
-programming - https://newtothestreet.com/.
-
-Forward-Looking Statements Disclaimer US/Canada:
-
-This press release contains forward-looking statements within Section 27A of the Securities Act of 1933, as
-amended, and Section 21E of the Securities Exchange Act of 1934. In some cases, you can identify forward-looking
-statements by the following words: "anticipate," "believe," "continue," "could," "estimate," "expect," "intend," "may,"
-"ongoing," "plan," "potential," "predict," "project," "should," "will," "would," or the negative of these terms or other
-comparable terminology. However, not all forward-looking statements contain these words. Forward-looking
-statements do not guarantee future performance or results and will not necessarily be accurate indications of when
-such performance or results are achieved. This press release should be considered in all filings of the Companies
-contained in the Edgar Archives of the Securities and Exchange Commission at www.sec.gov.
-
-                                                                                                    Page 5 of 5
-   New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs
-                         on Bloomberg TV as a Sponsored Programming on July 4....
-
-This press release contains forward-looking information within the meaning of applicable Canadian securities laws.
-Forward-looking information is often, but not always, identified by the use of words such as "seek," "anticipate,"
-"believe," "plan," "estimate," "expect," "likely," and "intend" and statements that an event or result "may," "will,"
-"should," "could" or "might" occur or be achieved and other similar expressions. These statements reflect
-management's current beliefs and are based on information currently available to management as of the date
-hereof. Forward-looking information in this press release includes, without limiting, the foregoing expectations.
-Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the
-TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
-
-CONTACT:
-
-New to The Street Monica Brennan monica@NewtoTheStreet.com https://newtothestreet.com/ 1-917-330-2564
-
-A         photo        accompanying        this      announcement         is       available                       at
-https://www.globenewswire.com/NewsRoom/AttachmentNg/35adc5a2-e3b1-40e1-8f1d-f9602ed47611
-
-New to The Street Celebrates the July 4th Holiday with Five Fantastic Business Interviews. Episode 579 Airs on
-Bloomberg TV as a Sponsored Programming on July 4, 2024, at 9:30 PM PT
-
-July 4th Show: 1). Vector Space Biosciences, Inc. (SBIO) 2). Karma Water 3). Hapbee Technologies, Inc. (OTCQB:
-HAPBF) (TSXV: HAPB) (FSE: HA1) ($HAPBF) 4).Sustainable Green Team, Ltd. (OTC: SGTM) ($SGTM) 5). Sekur
-Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) (Sekur®) - www.newtothestreet.com
+Integration with StorMagic SvSAN are available immediately.Additional Resources●Web page●Solution BriefAbout
+AcronisAcronis unifies data protection andcybersecurityto deliver integrated, automated cyber protection that solves
+the safety, accessibility, privacy, authenticity, and security (SAPAS) challenges of the modern digital world. With
+flexible deployment models that fit the demands of service providers and IT professionals, Acronis provides superior
+cyber protection for data, applications, and systems with innovative next-generation antivirus,backup, disaster
+recovery, and endpoint protection management solutions powered by AI. With advanced anti-malware powered by
+cutting-edge machine intelligence and blockchain based data authentication technologies, Acronis protects any
+environment - from cloud to hybrid to on premises - at a low and predictable cost.Acronis is a Swiss company,
+founded in Singapore. Celebrating two decades of innovation, Acronis has 1,800+ employees in 45 locations.
+Acronis Cyber Protect solution is available in 26 languages in over 150 countries and is used by 20,000+ service
+providers to protect over 750,000 businesses.About StorMagicStorMagic is solving the world's edge data problems.
+We help organizations store, protect and manage data at and from the edge. StorMagic's solutions ensure data is
+always protected and available, no matter the type or location, to provide value anytime, anywhere. StorMagic's
+storage and security products are simple, flexible, reliable and cost-effective, without sacrificing enterprise-class
+features, for organizations with one to thousands of sites. Visitwww.stormagic.com.Join the ConversationFollow
+StorMagic onFacebook,Instagram,LinkedIn, and Twitter, and subscribe to our corporateblogandYouTube
+channel.All product and company names herein may be trademarks of their registered owners.Media
+ContactMatter Communications, Matter Communications, 1 781.307.5691,stormagic@matternow.com View
+original     content:https://www.prweb.com/releases/stormagic-and-acronis-partner-to-deliver-highly-available-data-
+protection-solutions-302090068.htmlSOURCE StorMagic
 
 
-Load-Date: July 3, 2024
+Load-Date: March 19, 2024
 
 
   

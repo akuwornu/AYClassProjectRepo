@@ -1,103 +1,154 @@
 
 
-                                                                                                  Page 1 of 2
-    Backblaze Partners with Coalition to Elevate Cyber Risk Protection and Compliance Cloud backup innovator
-                           and cyber insurance company close gaps in business cont....
+                                                                                                       Page 1 of 3
+                                                 Editorial Roundup: West Virginia
 
 
 
 
-   Backblaze Partners with Coalition to Elevate Cyber Risk Protection and
-  Compliance; Cloud backup innovator and cyber insurance company close
-    gaps in business continuity planning by adding Backblaze Computer
-     Backup to the Coalition Control® cyber risk management platform
-                                                         GlobeNewswire
-                                              June 13, 2024 Thursday 6:00 AM PT
+                                       Editorial Roundup: West Virginia
+                                                 Associated Press State & Local
+                                            April 11, 2024 Thursday 11:10 AM GMT
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 Associated Press All Rights Reserved
 
-
-
-
-Section: BUSINESS CONTRACTS; PARTNERSHIPS; PRODUCT / SERVICES ANNOUNCEMENT
-Length: 880 words
+Section: STATE AND REGIONAL
+Length: 1219 words
+Byline: The Associated Press
 
 Body
 
 
-SAN MATEO, Calif., June 13, 2024 (GLOBE NEWSWIRE) -- Backblaze, Inc. (Nasdaq: BLZE), the cloud storage
-innovator providing a modern alternative to traditional cloud providers, today announced a new partnership with
-Active Cyber Insurance provider Coalition to help businesses proactively reduce their cyber risk. The partnership
-provides Coalition’s customers with direct access to Backblaze Computer Backup, an enterprise-grade, unlimited,
-and automatic endpoint backup solution, via the Coalition Control® cyber risk management platform.
+Charleston Gazette-Mail. April 4, 2024.
 
-Many businesses have gaps in their cyber security posture that disqualify them from cyber insurance coverage,
-especially when it comes to immutable, off-site backups. With ransomware continuing to rise over 15% (FY '22 to
-FY ’23) and the average ransomware demand increasing to nearly $1.4m, cyber insurance has become
-increasingly important for risk mitigation. Businesses of all sizes need access to reliable backups to gain adequate
-coverage and better secure their most valuable data. “Adding Backblaze’s industry-leading cloud backup as the
-recommended backup solution in Coalition Control will help our customers improve their business continuity plans
-and cyber incident remediation through reliable data backups,” said John Roberts, General Manager, Security, at
-Coalition. “Backblaze’s accessible solution delivers businesses a win-win with increased compliance and enhanced
-incident preparedness.”
+Editorial: West Virginians show resiliency through storm
 
-Backblaze Computer Backup combines simplicity—including preconfigured installers for faster “time to security,”
-backing up all user data by default, and predictable pricing for unlimited capacity—with available enterprise
-administration features that businesses need to protect business-critical data across hundreds or thousands of
-workstations—including fine-grained access controls, OIDC authentication support tools like for Azure AD and Okta,
+Tuesday morning was frightening for West Virginians across most of the state.
 
-                                                                                                 Page 2 of 2
-   Backblaze Partners with Coalition to Elevate Cyber Risk Protection and Compliance Cloud backup innovator
-                          and cyber insurance company close gaps in business cont....
+Cellphones blared emergency warnings, as did televisions and radios. Sirens sounded in some towns. This was not
+a drill. In homes and businesses, power flickered off. Residents and workers headed for basements, bathrooms or
+the most secure place they could find in a solid structure.
 
-and advanced backup lockdown and recovery settings.“Partnering with Coalition means we can take another step
-forward in making data protection and disaster recovery accessible to businesses of any size,” said Elton Carneiro,
-Senior Director, Partnerships, at Backblaze. “We are excited to work with experts in cyber insurance to play our part
-in bolstering protection against threats and shoring up compliance.”
+The wall of rain propelled by furious winds of up to 90 miles per hour started in the western part of the state and
+proceeded to sweep east, hitting one location shortly after another. Trees and windows rattled. Visibility was nil in
+the gray squall. Then it was over, and everyone emerged to take stock of the damage.
 
-Coalition supplies policyholders in the United States, Canada, Australia, and the United Kingdom with access to
-industry-leading cyber security tools through its cyber risk management platform, Coalition Control®. Insurance
-products offered by Coalition help over 80,000 customers face rapidly evolving digital risk with comprehensive
-cyber insurance coverage.
+Many were and remain without power, cellphone or internet service. Massive steel structures holding billboards
+meant to grab the eye of motorists on Interstate 64 snapped in half and collapsed into roadways and parking lots.
+Debris was everywhere. Trees fell onto cars and into homes. Roofs were torn from buildings. Bricks were ripped
+from building facades and spilled into city streets. Power lines were down. Traffic lights were out. Some cars and
+trucks were overturned.
 
-About Backblaze
+The governor declared a state of emergency. Schools were shut down. City officials and disaster responders
+across the state scrambled to respond, and are still on the job.
 
-Backblaze is the cloud storage innovator providing a modern alternative to traditional cloud providers. We deliver
-high-performance, secure cloud object storage that customers use to develop applications, manage media, secure
-backups, build AI workflows, protect from ransomware, and more. Backblaze helps businesses break free from the
-walled gardens that traditional providers lock customers into, enabling them to use their data in open cloud
-workflows with the providers they prefer at a fraction of the cost. Headquartered in San Mateo, CA, Backblaze
-(NASDAQ: BLZE) was founded in 2007 and serves over 500,000 customers in 175 countries around the world. For
-more information, please go to www.backblaze.com.
+In a word, the whole thing was catastrophic. And yet, it could’ve been worse.
 
-About Coalition
+As of Wednesday afternoon, there had been no fatalities reported as a result of the storm. Frankly, that’s amazing,
+and a tribute to the National Weather Service and media outlets that got those alerts out quickly. It also shows that
+West Virginians across the state took those warnings seriously and responded appropriately by getting to shelter.
 
-Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. By
-combining comprehensive insurance coverage and cybersecurity tools, Coalition helps businesses manage and
-mitigate potential cyber-attacks. Leveraging its relationships with leading global insurers and capacity providers,
-including Coalition Insurance Company, Coalition offers Active Insurance products to businesses in the U.S., the
-U.K., Canada, and Australia. Policyholders can receive automated cyber alerts and access expert advice and global
-third-party risk management tools through Coalition's holistic cyber risk management platform, Coalition Control®.
+Yes, injuries have been reported. And, as with any disaster that strikes the Mountain State, it will take time for
+emergency responders and work crews to clear all the debris and restore power. It will take time and money for
 
-Insurance products are offered by Coalition Insurance Solutions Inc. (“CIS”), a licensed insurance producer and
-surplus lines broker with its principal place of business in San Francisco, CA (Cal. license #0L76155), acting on
-behalf of a number of unaffiliated insurance companies and available on an admitted basis through certain carriers.
-Insurance products offered through CIS and CIC may not be available in all states. CIS may receive compensation
-from an insurer or other intermediary in connection with the sale of insurance. All decisions regarding any insurance
-products referenced herein, including approval for coverage, premium, commission, and fees, will be made solely
-by the insurer underwriting the insurance under the insurer’s then-current criteria. All insurance products are
-governed by the terms, conditions, limitations, and exclusions set forth in the applicable insurance policy. Please
-see a copy of your policy for the full terms, conditions, and exclusions. Copyright © 2024. All rights reserved.
-Coalition and the Coalition logo are trademarks of Coalition, Inc. or its affiliates.
+                                                                                                         Page 2 of 3
+                                           Editorial Roundup: West Virginia
 
-Press Contact
+business and homeowners to rebuild. These tasks are always difficult, especially in such a rural state. Some might
+be left without a house. Some who lost everything might not have the immediate support network to get through
+such a terrible event.
 
-Jeanette FosterCommunications Manager, Backblaze jfoster@backblaze.com
+This is one of those times when West Virginians need to prove their reputation for looking out for one another is
+deserved. So far, they’re excelling in that task.
+
+___
+
+The Herald-Dispatch. April 6, 2024.
+
+Editorial: New agreement will benefit MCTC and MU students
+
+It took a few years, but Marshall University and Mountwest Community and Technical College have agreed to a
+program that provides an easier path for MCTC students to transfer their credits to Marshall.
+
+MCTC has had similar agreements with other four-year schools in this region for years, but for whatever reasons,
+such agreements with Marshall had been out of reach.
+
+The presidents of the two schools signed their new agreement on Monday, April 1. It makes the transition easier for
+MCTC students wishing to transfer or continue their education at Marshall.
+
+Karen McComas, interim associate vice president for academic affairs, said part of the agreement was making sure
+that students who want to transfer to Marshall once they have an associate’s degree at MCTC can do so
+seamlessly. She said the steps for transferring and the credits that may be carried over are now clearly laid out for
+students, making the process easier, with more credits transferring over, and overall less time-consuming.
+
+“That helps the students, but it also helps our administrative offices at Marshall because we’ve written it down for
+them. They don’t have to go back and look it up every time,” McComas told The Herald-Dispatch reporter Katelyn
+Aluise. “I know that in some cases, students couldn’t register until they found out if this class was going to count for
+something else, and then they lose seats in other classes. So it’s more communication, it’s more documentation
+and it’s more oversight and assessment.”
+
+Marshall has begun new programs that use what students have learned at MCTC. The agreement should
+encourage more students with two-year degrees from MCTC to continue their education at Marshall by pursuing
+four-year degrees or even advanced degrees.
+
+Marshall’s new bachelor of applied science degree is considered a two-year “completer degree,” which adds more
+skills onto the technical education students at MCTC have already received, said McComas. The idea for the
+changes partially came from student demand and also from the schools recognizing more jobs are available in
+West Virginia that require at minimum a bachelor’s degree, she said.
+
+“West Virginia has so many jobs for people with bachelor’s degrees, and they can’t find enough people with them.
+So really, the time was kind of right to say, how can we get these people into that,” McComas said.
+
+To quote Marshall President Brad D. Smith, “Our purpose is to ensure that we provided affordable and flexible and
+achievement-oriented education for anyone who has the aspiration and grit to try.”
+
+There may have been good reasons that Marshall and MCTC were slow to cooperate in the past. Times have
+changed, and to survive — let alone grow — higher education must adapt to the realities of the regional and
+national economies. State-supported two- and four-year schools need not compete. Their student bodies have
+different goals and different needs, but the desired outcome is the same: acquiring the knowledge and skills they
+need to advance in life. The new agreement should be of benefit to students of both schools.
+
+___
+
+                                                                                                         Page 3 of 3
+                                           Editorial Roundup: West Virginia
+
+The Intelligencer. April 10, 2024.
+
+Editorial: W.Va. Students Are Setting the Standard
+
+West Virginia schools have a long way to go to meet the standards we expect for our children. But the reality is, if
+we want what we should for our future, education officials will never be able to rest on past gains.
+
+Should you need proof we are getting at least some things very right, look to the recent state Science and
+Engineering Fair in Charleston. Public school students in third through 12th grades showed off science, math and
+engineering projects that would make many adults’ heads spin.
+
+Sydney Bostic, a junior at Spring Mills High School in Martinsburg, will represent West Virginia at the Regeneron
+International Science Fair in Los Angeles in May. Bostic’s project was called “Bridging the Gap Using EdTech and
+Artificial Intelligence.” It hinges on an app she designed that will translate college-level text into other proficiency
+levels.
+
+“Everybody can use the same materials and learn at the same level at the same time,” Bostic said.
+
+Impressive, right?
+
+Bostic’s bright idea was just one of hundreds from the minds of youngsters.
+
+“They have some pretty amazing science and it’s exciting when they get to explain that to our judges, because
+again, it’s about learning, we get to see just how much learning those students have done,” said West Virginia
+Department of Education Director of Pre K-12 Academic Support Erika Klose.
+
+It is good to know our students are learning to think, to ask questions, to explore their world and their own big ideas.
+Mountain State kids are showing us they’ve got what it takes to lead us into a bright future. Now we just have to let
+them.
+
+END
 
 
-Load-Date: June 13, 2024
+Load-Date: April 11, 2024
 
 
   

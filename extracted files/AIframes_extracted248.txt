@@ -1,137 +1,173 @@
 
 
-                                                                                                    Page 1 of 3
-    U.K. Firms Turn to Hybrid Clouds for Security, Compliance Companies in the U.K. are shifting away from on-
-                          premises environments and moving toward managed hostin....
+                                                                              Page 1 of 3
+    FROM FLOOD RESILIENCY TO PUBLIC SAFETY, CONGRESSWOMAN LIZZIE FLETCHER SECURES
+  NEARLY $16 MILLION FOR TEXAS ' SEVENTH CONGRESSIONAL DISTRICT, VOTES TO FUND GOVER....
 
 
 
 
-  U.K. Firms Turn to Hybrid Clouds for Security, Compliance; Companies in
-   the U.K. are shifting away from on-premises environments and moving
-    toward managed hosting services, ISG Provider Lens(TM) report says
-                                                   Business Wire
-                                       July 18, 2024 Thursday 9:00 AM GMT
+FROM FLOOD RESILIENCY TO PUBLIC SAFETY, CONGRESSWOMAN LIZZIE
+   FLETCHER SECURES NEARLY $16 MILLION FOR TEXAS' SEVENTH
+     CONGRESSIONAL DISTRICT, VOTES TO FUND GOVERNMENT
+                                               States News Service
+                                            March 6, 2024 Wednesday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 1089 words
-Dateline: LONDON
+Length: 1080 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Enterprises in the U.K. are looking beyond public clouds and increasingly seeking services from private and hybrid
-cloud providers, according to a new research report published today by Information Services Group ( ISG )
-(Nasdaq: III ), a leading global technology research and advisory firm.
+The following information was released by the office of Texas Rep. Lizzie Fletcher:
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.K. finds both large
-and midmarket companies shifting their cloud environments away from public clouds and back to private clouds or
-to a hybrid of both. Among the factors driving this shift are growing needs for strengthened security and compliance
-with changing regulations, the ISG report says.
+Today, Congresswoman Lizzie Fletcher (TX-07) voted for the Consolidated Appropriations Act, 2024, H.R. 4366, a
+bipartisan government funding bill that funds essential programs, addresses many of the challenges our country
+faces, and provides nearly $16 million for fourteen local projects that Congresswoman Fletcher specifically
+requested through the Community Funded Projects process. These projects will provide funding for the Harris
+County Flood Control District, METRO, Fort Bend County Transit, and the Cities of Houston and Sugar Land,
+among others. Congress is expected to consider an additional funding bill in the coming weeks.
 
-"Service providers can assist midmarket enterprises in developing these hybrid cloud strategies," said Anthony
-Drake, ISG partner, North Europe. "They offer reduced deployment costs, disaster recovery solutions and access
-to modern computing technologies such as serverless architecture, database as a service and DevOps practices."
+"I was pleased to vote today to continue to fund important programs in our government and to bring to our district
+nearly $16 million in federal funding," said Congresswoman Lizzie Fletcher . "Each of the projects I worked to
+secure funding for will make a positive impact in our community from protecting our community from flooding to
+supporting safety and transit improvements to enhancing community centers for seniors and people with disabilities.
+These projects touch every corner of our district, and I look forward to working with local leaders and advocates on
+these projects once this legislation is signed into law and building on our partnerships to deliver for the people of
+Texas' Seventh Congressional District."
 
-Hybrid clouds are not the only alternative open to companies who seek greater security and compliance, the ISG
-report says. According to the report, enterprises in the U.K. are gradually shifting their focus from on-premises
-environments to outsourced services such as managed hosting for data storage and business continuity purposes.
+For TX-07, Congresswoman Fletcher secured $15,985,080 for the following fourteen Community Funded Projects:
 
-In addition to reducing the burden of operating a private data center while maintaining control over the hosted data,
-managed hosting provides enterprises with additional flexibility and features, such as multi-cloud connectivity, low-
-latency network connectivity, bare metal services, platform-agnostic operating systems and database support, the
-ISG report says.
+$5,782,558 for the Southwest Houston Redevelopment Authority's Southwest Community Campus for
+redevelopment for a community senior center;
 
-Data centers in the U.K. are positioning themselves as connectivity hubs, the ISG report says. They offer access to
-advanced communication infrastructure such as fiber, dark fiber, internet exchange points (IXPs) and subsea
-cables, the ISG report says. In response to the increasing demand for high speed, this supplies U.K. enterprises
-with low-latency connectivity for both local and international communications, the report says.
+$1,000,000 for the Sugar Land Regional Public Safety Center to add improvements for additional first responder
+training;
 
-                                                                                                   Page 2 of 3
-   U.K. Firms Turn to Hybrid Clouds for Security, Compliance Companies in the U.K. are shifting away from on-
-                         premises environments and moving toward managed hostin....
+$1,000,000 for renovations to the City of Houston Metropolitan Multiservice Center for People with Disabilities on
+West Gray;
 
-"Large enterprises in the U.K. are looking for providers who can offer reliable uptime, secure data storage and high-
-performance network connectivity," said Jan Erik Aase, partner and global leader, ISG Provider Lens Research.
-"The priorities for midsize enterprises lean toward comprehensive technical support, including 24/7 monitoring,
-rapid incident response and proactive maintenance that will ensure maximum uptime and availability."
+                                                                              Page 2 of 3
+    FROM FLOOD RESILIENCY TO PUBLIC SAFETY, CONGRESSWOMAN LIZZIE FLETCHER SECURES
+  NEARLY $16 MILLION FOR TEXAS ' SEVENTH CONGRESSIONAL DISTRICT, VOTES TO FUND GOVER....
 
-The report also examines how providers are adopting FinOps practices to optimize costs while maintaining
-sustainability goals.
+$963,000 for the City of Houston Forensic Science Center's Forensic Evidence Data System to improve the
+collection, tracking, management, and processing of forensic evidence through the criminal justice system;
 
-For more insights into the private/hybrid cloud and data center services challenges that enterprises in the U.K. face,
-including rising energy costs and data security concerns, and ISG's advice for addressing them, see the ISG
-Provider Lens(TM) Focal Points briefing here .
+$963,000 for the Rice University / Houston ISD Planetary and Space Exploration Education Project to create a
+space and planetary science pilot program for students exploring planetary sciences and related careers through
+innovative programming at local schools;
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.K. evaluates the
-capabilities of 57 providers across four quadrants: Managed Services for Large Accounts, Managed Services for
-Midmarket, Managed Hosting and Colocation Services.
+$959,752 for the Harris County Flood Control District project to construct a dry bottom detention basin with green
+stormwater infrastructure features to reduce flooding along Keegans Bayou near Old Richmond Road ;
 
-The report names Fujitsu as a Leader in three quadrants, while Claranet, DXC Technology, Ensono, Kyndryl,
-Rackspace Technology and T-Systems are named as Leaders in two quadrants each. Accenture/Accenture
-(Navisite), Atos, Capgemini, Computacenter, Digital Realty, Equinix, Global Switch, HCLTech, Hexaware, Infosys,
-LTIMindtree, NTT GDC / NTT Global Data Centers, Pulsant, Redcentric, TCS, Telefonica Tech, Telehouse, Unisys
-and Wipro are named as Leaders in one quadrant each.
+$850,000 for the Westchase District's Meadowglen West Complete Streets Project for street and safety
+improvements;
 
-In addition, Hexaware and Tech Mahindra are named as Rising Stars - companies with a "promising portfolio" and
-"high future potential" by ISG's definition - in one quadrant each.
+$850,000 for the Memorial Heights Safe Sidewalk and Path Connections for multimodal improvements in Harris
+County Precinct 1;
 
-In the area of customer experience, Green is named the global ISG CX Star Performer for 2024 among
-Private/Hybrid Cloud - Data Center Services partners. Green earned the highest customer satisfaction scores in
-ISG's Voice of the Customer survey, part of the ISG Star of Excellence(TM) program , the premier quality
-recognition for the technology and business services industry.
+$850,000 for METRO's Gessner BOOST Bus Stop to improve the transit experience for METRO riders on one of
+the busiest transit corridors on the 46 Gessner route;
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.K. is available to
-subscribers or for one-time purchase on this webpage .
+$833,470 for the International District Beechnut and Cook Intersection Safety Program for street and safety
+improvements in Harris County Precinct 4;
 
-About ISG Provider Lens(TM) Research
+$573,300 for historic preservation of the City of Houston's Rasmus Park Heritage Housein Alief;
 
-The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
-empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
-advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
-appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
-recommendations to ISG's enterprise clients. The research currently covers providers offering their services
-globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
-Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
-more information about ISG Provider Lens research, please visit this webpage .
+$500,000 for the University of Houston at Sugar Land Artificial Intelligence and Manufacturing Technology Center
+to drive collaboration and innovation in emerging technologies;
 
-About ISG
+$500,000 for improvments and reconstruction of facilities at Fort Bend ISD's Mission Bend Elementary School; and
 
-ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
-business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
-committed to helping corporations, public sector organizations, and service and technology providers achieve
-operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
-automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
-services; strategy and operations design; change management; market intelligence and technology research and
-analysis. Founded in 2006, and based in Stamford, Conn., ISG employs 1,600 digital-ready professionals operating
-in more than 20 countries-a global team known for its innovative thinking, market influence, deep industry and
+$360,000 for Fort Bend County Transit to fund a new scheduling and dispatch system for local transit users.
 
-                                                                                                   Page 3 of 3
-   U.K. Firms Turn to Hybrid Clouds for Security, Compliance Companies in the U.K. are shifting away from on-
-                         premises environments and moving toward managed hostin....
+The Consolidated Appropriations Act, 2024, H.R. 4366, combines six out of the twelve annual appropriations bills to
+fund crucial programs and initiatives to boost the economy, protect the environment, honor our veterans, support
+the underserved, and advance our infrastructure, including:
 
-technology expertise, and world-class research and analytical capabilities based on the industry's most
-comprehensive marketplace data. For more information, visit www.isg-one.com .
+Food and Nutrition Programs
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240718437970/en/
+$7.03 billion for the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC);
+
+$119 billion for the Supplemental Nutrition Assistance Program (SNAP);
+
+$33 billion for child nutrition programs;
+
+$389 million for the Commodity Supplemental Food Program (CSFP); and
+
+$80 million for The Emergency Food Assistance Program (TEFAP).
+
+Support for Veterans
+
+$16.2 billion for veteran mental health care, including $559 million for suicide prevention outreach;
+
+$3.1 billion for veteran homeless assistance programs;
+
+$231 million for substance use disorder programs;
+
+$715 million for opioid misuse prevention and safety programs;
+
+                                                                              Page 3 of 3
+    FROM FLOOD RESILIENCY TO PUBLIC SAFETY, CONGRESSWOMAN LIZZIE FLETCHER SECURES
+  NEARLY $16 MILLION FOR TEXAS ' SEVENTH CONGRESSIONAL DISTRICT, VOTES TO FUND GOVER....
+
+$943 million for veterans medical and prosthetic research; and
+
+$1.3 billion to continue modernizing VA electronic health records.
+
+Commerce and Justice
+
+$4.5 billion in grants for state and local law enforcement;
+
+$713 million for Violence Against Women Act prevention and prosecution programs to prevent domestic violence,
+dating violence, sexual assault, and stalking while improving access to essential support services such as health
+care and safe housing for all survivors;
+
+$560 million for the Legal Services Corporation to help expand the availability of free legal aid for underserved
+communities; and
+
+$68.3 million for the Minority Business Development Agency.
+
+Energy and Water Infrastructure
+
+$8.7 billion for Army Corps of Engineers water infrastructure projects; and
+
+$15 billion for the research, development, demonstration, and deployment of clean energy and secure, domestic
+energy supply chains.
+
+Transportation and Infrastructure
+
+$60.8 billion for the Federal Highway Administration to improve the safety and long-term viability of our highway
+systems;
+
+$252 million for the Federal Transit Administration to assist transit agencies in purchasing low and no emission
+buses, improving transit systems, and carrying out local projects; and
+
+$3.3 billion for the Community Development Block Grant Disaster Recovery program for the long-term housing,
+infrastructure, and economic recovery needs for areas impacted by a natural disaster.
+
+Environment and Conservation
+
+$1.7 billion for the U.S. Fish and Wildlife Service;
+
+$3.3 billion for the National Park Service;
+
+$3.9 billion for the Environmental Protection Agency's (EPA) science and environmental programs;
+
+$6.1 billion for Wildland Fire Management programs; and
+
+$900 million for the Land and Water Conservation Fund (LWCF).
+
+For a more detailed summary, click here; for the full text of the Consolidated Appropriations Act, 2024, click here.
 
 
-CONTACT: Press Contacts:Sarah Ye, ISG
-+44 7833 567868
-
-sarah.ye@isg-one.com Will Thoretz, ISG
-+1 203 517 3119
-
-will.thoretz@isg-one.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: July 23, 2024
+Load-Date: March 17, 2024
 
 
   

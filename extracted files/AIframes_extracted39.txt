@@ -1,266 +1,280 @@
 
 
-                                                                                                   Page 1 of 5
-   New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-                              Tonight Monday, August 26, 2024, at 10:30 PM PT
+                                                                                                          Page 1 of 5
+                                         SOME OF MY BIG 2024 QUESTIONS
 
 
 
 
- New to The Street Announces its Five Corporate Interviews, Airing Episode
-  591 on the Fox Business Network, Tonight Monday, August 26, 2024, at
-                               10:30 PM PT
-                                                         GlobeNewswire
-                                              August 26, 2024 Monday 6:15 AM PT
+                                     SOME OF MY BIG 2024 QUESTIONS
+                                                States News Service
+                                             January 11, 2024 Thursday
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Section: COMPANY ANNOUNCEMENT
-Length: 3070 words
+Length: 3183 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-NEW YORK, Aug. 26, 2024 (GLOBE NEWSWIRE) -- FMW Media's New to The Street, a nationally broadcasted
-business TV show, announces episode 591, airing on the Fox Business Network tonight, Monday, August 26, 2024,
-at 10:30 PM PT.
+The following information was released by the Cato Institute:
 
-New to The Street's 591st TV episode line-up features the following five (5) Corporate interviews:
+Scott Lincicome
 
-1). Biopharmaceutical - Acurx Pharmaceuticals, Inc.'s (NASDAQ: ACXP) ($ACXP) David Luci, President/CEO.
+As you may recall, we started out 2023 with some of my Big Questions about what the year might hold for U.S. and
+international economic policy. Since I like how that column aged in retrospect (see, e.g., my tepid skepticism of both
+a U.S. recession and China rebound in 2023), we'll do the same this week, looking at big, open questions for this
+yearquestions that, instead of playing pundit and confidently predicting an outcome, I'll gladly admit relative
+ignorance as to how they'll turn out. (Yes, I know, this is why I'll never make it in politics.)
 
-2). "Game Changers" segment interview with Iagon's (CRYPTO: IAG) ($IAG) Dr. Navjit Dhaliwal, CEO.
+So let's get to it.
 
-3). "Game Changers" segment interview with GreenLite Ventures, Inc.'s (OTC: GRNL) ($GRNL) (No Limit
-Technology Holdings, Inc.) Rafael Groswirt, CEO
+Soft" Landing Watch
 
-4). Sustainable Solutions - The Sustainable Green Team, Ltd.'s (OTC: SGTM) ($SGTM) Tony Raynor, CEO and
-Founder.
+Easily the biggest economic question in the United States last year was whether we'd fall into a recession. Back
+then, a large majority of economists surveyed by Bloomberg, the Wall Street Journal, and other reputable sources
+saw a near" term recession as more likely than not, but a vocal minority predicted the much" fantasized, rarely
+achieved "soft landing," whereby the Federal Reserve would tighten U.S. monetary policy just enough to cool labor
+demand and other economic activity without the whole thing tipping into contraction.
 
-5). "Sekur Privacy & Sekur Security – The Weekly Hack” segment with internet privacy expert Alain Ghiai, CEO,
-Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) (Sekur®).
+Will we avoid a recession? Will China's recovery continue to fizzle? Is this the year for AI? And more.
 
-Episode 591
+After a string of upside surprises and no wobbles in various recession indicatorsespecially in the surprisingly strong
+labor marketprofessional sentiment shifted dramatically. By December, most economists were optimistic that
+inflation was (mostly) under control, that the United States would avoid a full" on recession altogether, and that the
+Fed would aggressively cut interest rates this year (signaling that the worst of inflation is over and fueling economic
+growth):
 
-                                                                                                  Page 2 of 5
-  New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-                             Tonight Monday, August 26, 2024, at 10:30 PM PT
+Wonks will continue to debate why, exactly, we avoided a hard landing (the interminable fight between Team
+Transitory and Team Persistent over inflation's causes and future direction), and it's certainly worth considering
+what last year's big miss says about the economic forecasting profession. (My take: Predictions are hard, especially
 
-From the Nasdaq MarketSite Studio, New to The Street's TV Host Jane King talks with David Luci, the
-President/CEO of Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) ($ACXP) ("Company"), a late-stage
-biopharmaceutical Company that publicly trades on the NASDAQ market. ACXP is developing a new class of small
-molecular antibiotics for the most common life-threatening bacterial infections. Recently, the Company completed
-its FDA Phase 2 clinical trials on its Ibezapolstat drug, a treatment for patients with Clostridioides difficile Infections
-(CDI). Management is now meeting with the FDA regarding the steps necessary to complete the Phase 3 clinical
-trial on the drug. Concurrently, ACXP is meeting with the FDA on the drug manufacturing processes, which must
-meet the government's standards. Management remains confident that Ibezapolstat can be manufactured and
-inventoried before the conclusion of 2024. The United States Patent and Trademark Office (USPTO) has issued a
-patent because the drug can, in treated patients, maintain and restore microbiome bacteria. Most pharmaceuticals
-destroy the gut's microbiome bacteria, which is the major cause of diseases and reinfections, typically caused by
-competitor drugs for CDI. The issued patent remains valid until June 2042. The Company is working globally with
-several entities seeking partnerships and other collaborations on non-dilutive financing arrangements for the
-funding needs of the FDA Phase 3. The objective is to get funded without using ACXP's stock, which will not dilute
-shareholders' value. David started a program to work with college students, being a mentor to assist students in
-bringing their scientific ideas to market. With the FDA and USPTO continuing to provide timely approvals, the
-Company has shown that its Ibezapolstat drug effectively treats CDI with no reinfections. The on-screen QR code is
-available during the show; download or visit Acurx Pharmaceuticals, Inc. - https://www.acurxpharma.com/.
+                                                                                                        Page 2 of 5
+                                       SOME OF MY BIG 2024 QUESTIONS
 
-New to The Street airs its "Game Changers" segment with TV Host and Multi-media Journalist Ana Berry, who talks
-with Dr. Navjit Dhaliwal ("Nav"), CEO of Iagon (CRYPTO: IAG) ($IAG). As a decentralized cloud storage platform
-that leverages blockchain technology, Iagon is disrupting the data storage industry. As "Game Changers," Iagon
-redefines the concept of data storage and transmission, providing individuals and organizations with security and
-transparency. The typical data storage business model has information on a single server at a location. Many Big
-Tech platforms providing this centralized service have had many server cybersecurity breaches, with data stolen.
-The Iagon approach is uniquely different; it is a decentralized platform with enhanced security features offered
-through the blockchain. Because the decentralization of data allows for information to be stored globally on many
-different nodes and servers, data is more secure, diminishing the chances of data hacking. Iagon's platform fully
-complies with the needs of many industries and agencies, which require secure and transparent data platforms
-under governmental rules, regulations, and laws. All end-users have complete control of stored data files. Another
-benefit is cost savings. Since Iagon does not need expensive infrastructure and servers, it can offer services at a
-fraction of the cost compared to centralized systems. Iagon allows individuals and organizations to bring their
-storage capacities onto a decentralized AI platform and receive IAG coins as a reward. The Company has two new
-product offerings, the "Cyclone" and "May Net Compute," which provide individuals and organizations easy access
-to a decentralized data storage and transmission platform while offering security and transparency. As "Game
-Changers," Iagon's AI blockchain decentralized data storage ecosystem continues to grow, giving onboard end-
-users complete data control with advanced data storage and security methods. The on-screen QR code is available
-during the show; download or visit Iagon - https://iagon.com/.
+coming out of a black" swan global pandemic.) But what really isn't up for debate today is that experts think the U.S.
+economic outlook is better today than it was at this time last year.
 
-New to The Street's "Game Changers" segment interview is with Rafael Groswirt, CEO of GreenLite Ventures, Inc.
-(OTC: GRNL) ($GRNL) ("Company"). TV Host Ana Berry talks with Rafel talk about the Company's "Game
-Changers" in the digital sports and finance industries. Recently, the GRNL completed the merger and acquisition of
-No Limit Technology Holdings, Inc. ("No Limit'), a business in the sports betting and cryptocurrency markets. Rafael
-explains the process and the eventual success of the merger and gives an overview of the value proposition of
-being a public entity. Management is looking to advance its capabilities in the digital sports betting arena with a
-decentralized ecosystem. Rafael believes GRNL has a huge competitive advantage over its competitors through
-blockchain technology, cryptocurrency, AI, and other technologies. With new business developments with multiple
-digital platforms while looking to launch media channels, No Limit believes it can revolutionize and disrupt the
-industry while giving end-users a new and unique fantasy sports betting experience that is otherwise unavailable on
-competitors' platforms. GRNL's digital sports and financial platform are "Game Changers." The on-screen QR code
-is available during the show; download or visit No Limit Technology Holdings, Inc. -
-https://www.nolimitfantasysports.com/.
+This doesn't mean, however, that we're out of the woods entirely. The Fed and most economists might think things
+look good, but others aren't nearly as sanguine. This most notably includes corporate CEOs, 72 percent of whom
+told the business research organization the Conference Board last quarter that they were still planning for a
+recession in the next 12 to 18 months:
 
-                                                                                                  Page 3 of 5
-  New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-                             Tonight Monday, August 26, 2024, at 10:30 PM PT
+Meanwhile, American consumers continue to spend, but they remain pretty sour on the state of the economy for the
+same reasonsinflation, higher interest rates, etc.that we discussed in October. This "vibescession" may be ending,
+in line with research showing that consumer sentiment lags inflation by several months, but it's not done quite yet.
+(For those interested in the relationship between consumer sentiment and U.S. economic performance, check out
+this fascinating new paper.)
 
-The Sustainable Green Team, Ltd.'s (OTCQX: SGTM) ($SGTM) ("Company")Tony Raynor, CEO and Founder, is
-with New to The Street's TV Host Jane King. Talking about the Company from the Nasdaq MarketSite Studio,
-viewers get an insight into SGTM's environmentally sustainable solutions. Tony informs viewers about the
-Company's partnership with Jimmy Houston, founder of Jimmy Houston Outdoors, a TV Host, and a Social Media
-influencer, who has an extensive media and online network and is known for product and service endorsements.
-With millions of followers and a highly rated show on ESPN, Jimmy always promotes a sustainable agenda to
-protect fish and wildlife. SGTM and Jimmy will work together to promote SGTM's sustainable product lines and offer
-a platform for SGTM to launch new goods and services. SGTM creates, produces, and sells sustainable, chemical-
-free products by converting waste into high-value, nutrient-rich products. New products forthcoming will focus on
-the health and well-being of livestock and wildlife. Jimmy offers SGTM a platform to endorse current and future
-products. Tony informs viewers that the Company is producing a media program that will air on Bloomberg TV as a
-"Bloomberg Original" series. The show will focus on global problems, educating many on how sustainable solutions
-can restore and replenish the Earth. Influential leaders and businesspeople will be on the show, highlighting current
-global environmental concerns and the solutions available to make people, plants, and animals healthier; a healthy
-planet makes for healthy inhabitants. SGTM is soon rolling out new product lines, becoming available at "Big Box"
-retailers. The Company has a YouTube channel with many informative videos about the Company and its
-sustainable initiatives and products. The on-screen QR code is available during the shows: The Sustainable Green
-Team, Ltd. - https://www.thesustainablegreenteam.com/.
+Finally, the U.S. labor marketand thus, the U.S. economymight not be as strong as it first appears. For one thing,
+the big driver of job growth in 2023 was "acyclical" industries that aren't reflective of the broader economy:
 
-New to The Street airs its "Sekur Privacy & Sekur Security – The Weekly Hack" segment. Alain Ghiai, an
-internationally acclaimed internet privacy expert and the CEO of Sekur Private Data, Ltd. (OTCQX: SWISF) (CSE:
-SKUR) (FRA: GDT0) ($SWISF) (Sekur®) talks with TV Host and Multi-media Journalist Ana Berry about another
-hack at AT&T. It appears that hackers stole at least six months of its customers' calls and text message records.
-AT&T used a 3rd party cloud base database to store these records, which became compromised. Unfortunately,
-five to seven of the largest technology companies control the world's data storage and transmissions. One of those
-is CrowdStrike, which recently had a significant outage, shutting down thousands of its customers' access to
-programs and data. CrowdStrike program failure completely shut down Delta Airlines, frustrating passengers and
-employees. Sekur is different, providing close-loop access with military encrypted programs on the Company's own
-and controlled servers in Switzerland. Individuals, businesses, and governmental agencies can all benefit from
-subscribing to Sekur. To avoid cyberhackers' attempts, subscribers send information through the Company's
-SekurVPN, SekurMail, and SekurMessenger services, giving end-users private and secure electronic
-communications. SekurMail, with SekurSend/SekurReply options, sends a link to a recipient to open an email in the
-closed loop encrypted military platform. The service protects both the subscriber and the recipient, even if the
-recipient is not a Sekur subscriber. SekurMessenger offers many secure options that prevent text messages from
-appearing on open BIG Tech platforms. Using SekurMail with the Company's SekurVPN adds another layer of
-encryption that protects its subscribers' IP addresses and website traffic information. Any entity under regulatory
-scrutiny can comply with Sekur services. The services are available through iOS and Android apps, and those not
-interested in downloading apps can use the Company's web-based platforms. Alan states that being more invisible
-on the net and shrinking your cybersecurity footprint should most likely lessen the chances of becoming a hacked
-victim. Under Swiss law, your IP address is private property protected by stringent regulations. The Company never
-tracks your devices, never sells data, doesn't use 3rd party platforms, never asks for phone numbers, and keeps
-one's internet traffic private and secure. PROMO CODE: PRIVACY is now available, giving 15% savings toward
-monthly and yearly subscriptions, and the discount will remain active for five years. Viewers, please tune in next
-time for the newest cybersecurity topic on the "Sekur Privacy & Sekur Security– Weekly Hack" segment. The on-
-screen QR code is available during the shows to download more info or visit Sekur Private Data, Ltd. –
-https://sekurprivatedata.com/, http:/sekur.com/ and https://sekur.com/en/vpn. Privacy has arrived!
+Many labor economists also are concerned that job openings data, which remain elevated versus pre" pandemic
+levels, aren't accurate, and that both the string of downward revisions to the jobs figures (all but one month in 2023)
+and recent declines in labor force participation indicate a cooler labor market than may first appear. For you data
+nerds, part of the problem is the "complete disconnect" between the payroll survey (where we get the topline jobs
+number) and the household survey (unemployment rate and participation). The latter is looking much more
+pessimistic than the former:
 
-About Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) ($ACXP):
+Other data give more reasons for pause: The Institute for Supply Management surveys of services and
+manufacturing managers have gotten much more pessimistic (see below); workers are quitting much less often
+(typically what happens as recessions approach); and employers are hiring less, too.
 
-Acurx Pharmaceuticals,             Inc.(NASDAQ:            ACXP)               ($ACXP)                is a late-
-stage biopharmaceutical company focused on developing a new class of small-molecule antibiotics for difficult-to-
-treat bacterial infections. The Company's approach is to develop antibiotic candidates with a Gram-positive
+None of this means that a big crash or even a mild recession is imminent (and I still tend to side with the Soft
+Landing Crowd), but it does mean that we should probably hold off on turning Jay Powell's birthday into a national
+holidayat least just yet.
 
-                                                                                                  Page 4 of 5
-  New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-                             Tonight Monday, August 26, 2024, at 10:30 PM PT
+What Will Happen to Commercial Real Estate and the Banks Supporting It?
 
-selective spectrum (GPSS®) that blocks the active site of the Gram-positive specific bacterial enzyme DNA
-polymerase IIIC (pol IIIC), inhibiting DNA replication and leading to Gram-positive bacterial cell death. Its R&D
-pipeline includes antibiotic product candidates that target Gram-positive bacteria, including Clostridioides difficile,
-methicillin-resistant Staphylococcus aureus (MRSA), vancomycin-resistant Enterococcus (VRE), and drug-resistant
-Streptococcus pneumoniae (DRSP) - https://www.acurxpharma.com/.
+Another reason to pause the soft" landing parade is also another big thing I'm watching closely in 2024: the
+commercial real estate market. As the Wall Street Journal just reported, in fact, almost 20 percent of major metro
+office space was vacant at the end of 2023a new record dating back to the late 1970s:
 
-About Iagon (CRYPTO: IAG) ($IAG):
+Much of this is, as we've discussed (and podcasted), driven by remote work, housing costs, and other quality" of"
+life issues. Yet contrary to what you might think, the hardest hit commercial real estate markets today aren't in
+expensive coastal metros like San Francisco, D.C., or New York (which have certainly struggled, too). They're
+mainly in the South ("the three major U.S. cities with the country's highest office" vacancy rates are Houston, Dallas
+and Austin, Texas") where the aforementioned post" pandemic issues fuel fires already burning from earlier
+decades of commercial overbuilding and where they make a big turnaround less likely. As one real estate pro
+explained, "The bulk of the vacant space are buildings that were built in the 1950s, '60s, '70s and '80s"and good
+luck getting that space rented in today's still" strong remote work environment.
 
-Iagon (CRYPTO: IAG) ($IAG) was founded in 2017 in Hamar, Norway, because people need to control their data.
-The idea started as an attempt to solve significant issues related to how healthcare data is stored, with modern
-solutions severely lacking transparency for individuals at a national and international level. The protocol will allow
-storage providers to earn rewards by trading their excess storage to resource consumers on a marketplace at a
-transparent price while ensuring data privacy, security, and accessibility. Its token-based economy is based on
-computer, server, and data center owners who join the storage and processing power grids. In return for sharing the
-capabilities of their machine, they will be granted Iagon tokens that can be traded back to fiat money, while any
-party who wishes to utilize their capabilities will purchase tokens to distribute to the parties that provide their
-services to the blockchain grid - https://iagon.com/.
+Converting these properties to much" needed residential housing could help with this problem (especially since
+older properties are typically easier to convert), and conversions are popping up around the country. But not all
+properties can be converted, and the ones that can likely need two big things: 1) buy" in from local regulators and
+voters (to revise building codes, zoning rules, and other regulationssee this new paper for a glimpse at the
+regulatory burden commercial properties face); and 2) a big haircut from current owners to make the conversion
+numbers work without massive government subsidies. Here's one recent example of types of price cuts that may be
+needed:
 
-About GreenLite Ventures, Inc. (OTC: GRNL) ($GRNL)/ No Limit Technology Holdings, Inc.:
+                                                                                                          Page 3 of 5
+                                        SOME OF MY BIG 2024 QUESTIONS
 
-Greenlite Ventures, Inc. (OTC: GRNL) ($GRNL) acquired No Limit Technology Holdings, Inc., a fantasy sports
-betting platform. With the use of AI and cryptocurrency, the Company's NoLimitCoin (CRYPTO: NLC2) offers a
-unique payment platform for end-users on its online gaming application. End-users making wagers on No Limit's
-fantasy sports platform bet on the best possible outcome on players' performances. Winners who make successful
-wagers are rewarded based on performances - https://www.nolimitfantasysports.com
+This haircut is where the recession linkage may come in. While the U.S. commercial real estate market alone
+(probably) isn't big enough to start a recession, a new paper provides an eye" opening look at how current
+commercial weakness could infect the U.S. banking sector (emphasis mine):
 
-About Sustainable Green Team, Ltd. (OTC: SGTM) ($SGTM):
+Using loan" level data we find that after recent declines in property values following higher interest rates and
+adoption of hybrid working patterns about 14% of all loans and 44% of office loans appear to be in a "negative
+equity" where their current property values are less than the outstanding loan balances. Additionally, around one"
+third of all loans and the majority of office loans may encounter substantial cash flow problems and refinancing
+challenges. A 10% (20%) default rate on CRE loansa range close to what one saw in the Great Recession on the
+lower endwould result in about $80 ($160) billion of additional bank losses. If CRE loan distress would manifest
+itself early in 2022 when interest rates were low, not a single bank would fail, even under our most pessimistic
+scenario. However, after more than $2 trillion decline in banks' asset values following the monetary tightening of
+2022, additional 231 (482) banks with aggregate assets of $1 trillion ($1.4 trillion) would have their marked to
+market value of assets below the face value of all their non" equity liabilities. To assess the risk of solvency bank
+runs induced by higher rates and credit losses, we expand the Uninsured Depositors Run Risk (UDRR) financial
+stability measure developed by Jiang et al. (2023) where we incorporate the impact of credit losses into the market"
+to" market asset calculation, along with the effects of higher interest rates. Our analysis, reflecting market
+conditions up to 2023:Q3, reveals that CRE distress can induce anywhere from dozens to over 300 mainly smaller
+regional banks joining the ranks of banks at risk of solvency runs.
 
-Sustainable Green Team, Ltd. (OTC: SGTM) ($SGTM) is a leading Company in climate reversing technologies, a
-provider of sustainable solutions to improve environmental health, promote sustainable practices, and deliver eco-
-friendly products and services. SGTM aims to make significant contributions to global sustainability; learn more by
-visiting the Company website, https://thesustainablegreenteam.com/, SGTM's YouTube Channel, Corporate
-Bloomberg      TV     commercial    -   https://www.youtube.com/watch?v=d_0rLESvJJ0,        corporate      video  -
-https://www.youtube.com/watch?v=xJ7Dp9Coi88&t=1s                and           SGTM's              Blogs           -
-https://thesustainablegreenteam.com/sgtm-blog.
+Numerous media reports show pressures at regional banks with substantial exposure to the commercial real estate
+market, and bigger banks face similar (albeit smaller) risks: "Commercial property, and in particular mortgages on
+less" full office buildings, had been one of the biggest factors pushing up problem debts." As the New York Times
+reported earlier this year, moreover, "In its annual report released last week, the Financial Stability Oversight
+Council a watchdog created in the wake of the 2008 banking crisis called commercial real estate the biggest
+financial risk to the economy." How this all shakes out could go a long way to determining, deservedly or not,
+whether future Jay Powell Days are happy or somber occasions.
 
-About Sekur Private Data Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF):
+Is 2024 the Year American Manufacturing Is Actually Great Again?
 
-Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) is a cybersecurity and internet
-privacy provider of Swiss-hosted solutions for secure communications and secure data management. The
-Company distributes a suite of secure cloud-based storage, disaster recovery, document management, encrypted
-emails, and secure communication tools. It sells its products through its websites, www.sekur.com, approved
-distributors, and telecommunication companies worldwide. Sekur Private Data, Ltd. serves consumers, businesses,
-and governments worldwide - https:/sekurprivatedata.com and https://sekur.com; Twitter: @sekurprivate.
+Last year was a bit of a weird one for U.S. manufacturing and industrial policy. On the one hand, there was a big
+and undeniable increase in manufacturing" related construction across the countrya stat the Biden administration
+and literally every Democratic partisan and industrial policy fan on the planet (I assume) cited constantly to show
+that Biden had truly, finally made American manufacturing great again. Meanwhile, the actual U.S. manufacturing
+sectori.e., the one actually producing stuff and hiring actual manufacturing (not construction) workersstruggled all
+year, thanks to higher interest rates, continued materials inflation, worker shortages, economic uncertainty, tariffs
+and trade disputes, and other headwinds. For example, the ISM's private survey of manufacturing purchasing
+managers (aka the "PMI") just recorded its 14th straight month in contraction territory; the entire U.S. manufacturing
+sector added a mere 12,000 jobs for all of 2023 (assuming December isn't also revised downward); output and
+productivity are stagnant; and sentiment in the industryespecially for small and midsize firmswas below the
+historical average:
 
-About New to The Street:
+We've thus been experiencing a sort of "two" tier" industrial economy. In Tier One, you have big companies in
+industries preferred by the government (semiconductors, EVs, batteries, other renewables) and, to a lesser extent,
+reshoring operations because of pandemic" related uncertainties. They're investing, more optimistic, and,
+theoretically at least, poised to grow in 2024 and beyond. In Tier Two, however, you have existing U.S.
+manufacturers, especially smaller ones and ones not targeted for government support, that are weaker and more
+pessimistic.
 
-New to The Street is an FMW Media production that operates one of the longest-running US and International
-sponsored and syndicated Nielsen-rated programming television brands, "New to The Street." Since 2009, New to
-The Street has run biographical interview segment shows across major U.S . television networks. The Nielsen-rated
-and sponsored broadcast programming platform reaches millions of homes in the US and international markets.
-FMW's New to The Street show appears on Bloomberg and the FOX Business Network as sponsored
+As readers of this newsletter surely know, I'm skeptical that the trillions of U.S. industrial policy dollars and related
+private investment will be worth the cost (i.e., that they'll generate thriving industries and broader economic growth,
+not just a few random successes or obviously unrelated coincidences), and there are some clouds already on the
+horizondelayed or canceled projects, grumbling politicians, unspent subsidies, regulatory obstacles, trade disputes,
+etc. (You were warned.) Textbook criticisms of targeted subsidies and tariffs, moreover, have long cautioned
 
-                                                                                                  Page 5 of 5
-  New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-                             Tonight Monday, August 26, 2024, at 10:30 PM PT
+                                                                                                          Page 4 of 5
+                                        SOME OF MY BIG 2024 QUESTIONS
 
-programming. FMW is also one of the nation's largest buyers of linear television, long and short-form paid
-programming - https://newtothestreet.com/.
+thatespecially absent major supply" side liberalizationthese policies won't actually expand the economic pie but
+instead simply redistribute existing resources (money, materials, manpower, etc.) at a net loss for the overall
+economy.
 
-Forward-Looking Statements Disclaimer US/Canada:
+But it's far too soon to boldly conclude this is all a bust: Federal funds will keep flowing to Tier One firms this year,
+and some rate cuts and stronger growth might cure much of what ails the Tier Two guys. (It certainly won't be better
+trade or immigration policy!) So, maybe the sector rebounds in 2024.
 
-This press release contains forward-looking statements within Section 27A of the Securities Act of 1933, as
-amended, and Section 21E of the Securities Exchange Act of 1934. In some cases, you can identify forward-looking
-statements by the following words: "anticipate," "believe," "continue," "could," "estimate," "expect," "intend," "may,"
-"ongoing," "plan," "potential," "predict," "project," "should," "will," "would," or the negative of these terms or other
-comparable terminology. However, not all forward-looking statements contain these words. Forward-looking
-statements do not guarantee future performance or results and will not necessarily be accurate indications of when
-such performance or results are achieved. This press release should be considered in all companies' filings
-contained in the Edgar Archives of the Securities and Exchange Commission at www.sec.gov.
+Regardless, you can rest assured I'll be here to cover it.
 
-This press release contains forward-looking information within the meaning of applicable Canadian securities laws.
-Forward-looking information is often, but not always, identified by the use of words such as "seek," "anticipate,"
-"believe," "plan," "estimate," "expect," "likely," and "intend" and statements that an event or result "may," "will,"
-"should," "could" or "might" occur or be achieved and other similar expressions. These statements reflect
-management's current beliefs and are based on information currently available to management as of the date
-hereof. Forward-looking information in this press release includes, without limiting, the foregoing expectations.
-Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the
-TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+Speaking of fizzling rebounds ...
 
-CONTACT: New to The Street Monica Brennan monica@NewtoTheStreet.com                     https://newtothestreet.com/ 1-
-917-330-2564
+What's Next for China?
 
-A         photo        accompanying        this      announcement        is       available                           at
-https://www.globenewswire.com/NewsRoom/AttachmentNg/6bb75ce3-639a-4971-9114-4a2c3a0d2893
+Since we just discussed China at length a few weeks ago, I won't belabor the issue too much today, but the future
+of the world's second" largest economy is still important and uncertain for 2024. Since we last reviewed this in early
+December, things in China remain a mess, with problem signs almost everywhere you look, including in the military:
 
-New to The Street Announces its Five Corporate Interviews, Airing Episode 591 on the Fox Business Network,
-Tonight Monday, August 26, 2024, at 10:30 PM PT
+Economic weakness in China not only means weakness abroad (e.g., for exporters and investors) but also
+increased geopolitical uncertainty, as Chinese President Xi Jinping and the Chinese Communist Party
+couldtheoretically, at leasttry to deflect local attention on widespread domestic problems by starting various
+overseas shenanigans. (Though fortunately, all the "Taiwan invasion" stuff had cooled way downeven before the
+latest military corruption scandals emerged.)
 
-Episode 591: 1).Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) ($ACXP) 2). Iagon (CRYPTO: IAG) ($IAG) 3).
-GreenLite Ventures, Inc. (OTC: GRNL) ($GRNL) (No Limit Technology Holdings, Inc.) 4). The Sustainable Green
-Team, Ltd. (OTC: SGTM) ($SGTM) 5). Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0)
-($SWISF) (Sekur®) - www.newtothestreet.com
+Instead of reversing course and reembracing markets, moreover, Xi is reportedly doubling down on the Marxism
+and industrial policy (but I repeat myself! LOL). Both carry big risks: The former could further depress the Chinese
+citizenry, foreign investors, and the economy more broadly; the latter can't fully offset domestic real estate,
+consumption, and other economic problems, but it can ignite even more trade conflicts as subsidized overcapacity
+reaches foreign markets and angers local politicians, many of whom are running for reelection in 2024.
+
+As usual, I must caution that this doesn't mean China or the CCP will collapse anytime soon, and there are even
+some tepid signs that the economy may have hit bottom. Regardless, it's a wildly important and uncertain situation
+amplified by the U.S. elections, and thus makes for must" see" TV throughout 2024.
+
+Will This Be AI's Earthquake Year?
+
+This time last year, everyone was freaking outin good ways and badabout ChatGPT and other "artificial
+intelligence" products that were acing human tests, making cool "original" art, and writing (superficially) impressive
+prose in response to simple language "prompts." As we discussed in February, numerous reports warned that these
+products would quickly usher in an era of mass joblessness and other sci" fi dystopias. In March, Elon Musk and
+another 1,000 or so "tech leaders" were so rattled by AI that they openly called for a six" month moratorium on the
+most advanced systems, warning that they present "profound risks to society and humanity."
+
+Then ... nothing happened.
+
+Ok, fine, not nothing: Last year, the technology continued to improve at a rapid clip, was increasingly adopted by
+U.S. businesses, catalyzed some amazing scientific breakthroughs, and certainly destroyed some American jobs
+(including fashion models!). However, the public" facing tech still has some problemssee, for example, this recent
+analysis from Stanford economist Joy Buchanan and colleagues about GPT-4's continued "hallucinations" (e.g.,
+fake citations) or this new image showing how AI image creators still suffer from basic spelling problems. AI is also
+(predictably) helping to support U.S. companies and jobs, not just destroy them, because humans are quickly
+adapting to incorporate the technology into their routines or to adjust their work to do things AI still can't do well.
+And, of course, there are the not" insignificant facts that unemployment in the United States remains well below
+historical averages, and thatnow almost four months since the AI moratorium would've endedthe techno"
+apocalypse is nowhere in sight.
+
+                                                                                                          Page 5 of 5
+                                        SOME OF MY BIG 2024 QUESTIONS
+
+AI technology thus appears to be following the same general trajectory as the earth" shattering ones before
+itgradual, uneven advancement causing real" but" manageable disruptions thanks to good ol' human ingenuity and
+adaptation. Will 2024 be any different?
+
+What Will Happen in Argentina?
+
+Finally, there's Argentina and the aftermath of this fall's shock presidential election victory of brash libertarian(ish)
+economist Javier Milei.
+
+When Milei first started gaining steam, I was of two minds. On one hand, Argentina's economy has long been a
+statist disaster, and Milei was saying lots of good free" market things about how to turn things around. On the other
+hand, the guy was ... umm ... quirky and saying lots other things that would give even an open" minded libertarian
+like me serious pause. His election was, as my Cato colleague Ian Vasquez said at the time, itself a remarkable
+accomplishment "articulating a clear, liberal alternative to Peronism with popular support and electoral success"but
+governing was another story. Beyond his personality quirks, Milei was a political neophyte inheriting an economy in
+crisis and a divided government full of bureaucratic enemies. He'll have his every move scrutinized by skeptical
+media hoping to confirm anti" libertarian biases. And, as such, there remain plenty of reasons to worry that the
+"libertarian government" in Argentina willfairly or notbecome a cautionary tale instead of a vindicating success.
+
+However, there's a lot Milei can do without Argentina's legislature, and his early speeches, appointments and free"
+market policy movesaka "economic shock therapy"have been mostly well" received by financial markets and wonks
+(not just libertarians!) alike. Just this week scholars with the center" left Peterson Institute called Milei's early
+movesdevaluing the currency, cutting spending and regulation, lifting price controls, slashing civil service jobs,
+privatizing state" owned enterprises, liberalizing trade, and weakening unionsand his future plans "full of economic
+and political risks" but seemingly offering "the maximum chances of success given the constraints he faces."
+
+But, boy, are there big constraints and risks remaining. Beyond the economy's legacy problems and the inevitable
+(promised) pain that reforms will inflict, strong resistance to Milei's agenda has unsurprisingly materialized. A court
+last week, for example, suspended his sweeping labor reforms after the country's biggest union challenged it
+(Milei's team will appeal), and protests have erupted in Buenos Aires. Many of his plans, especially dollarization,
+remain unfinished and/ or dependent on legislative support. There's still a very long road to hoe.
+
+Still, what's emerged so far is undeniably positive and unlike the chainsaw" wielding "Trump" like" caricature of Milei
+we Westerners saw in the media before Argentina's presidential election. (Some of that caricature was undoubtedly
+intentional by Milei, if only to attract attention.) I challenge you to watch this video from the indispensable Milei
+Explains account on Twitter and not be blown away by both the discussion (substance and delivery) and the idea
+that this guy is anything (hair" notwithstanding) like Donald J. Trump:
+
+I honestly have no idea how Milei's time running Argentina will turn out. Parts of his agenda and persona still give
+me pause. But it's not an understatement to say that his policy work in Argentina this year will be some of the most
+relevantfor better or worsereforms undertaken anywhere in the world. Fingers crossed.
 
 
-Load-Date: August 26, 2024
+Load-Date: January 11, 2024
 
 
   

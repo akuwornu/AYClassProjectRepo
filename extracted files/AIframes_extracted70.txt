@@ -1,193 +1,213 @@
 
 
-                                                                                                Page 1 of 4
-  Network International Slashes Fraud Rates in MEA with Cloud-Hosted FICO Solution Digital commerce solution
-                            provider deploys industry-leading FICO® Falcon® Fraud....
+                                                                                                         Page 1 of 4
+                NIST & NSF Award Nearly $7.1 Million to 15 Universities to Support Disaster Resilience
 
 
 
 
- Network International Slashes Fraud Rates in MEA with Cloud-Hosted FICO
-   Solution; Digital commerce solution provider deploys industry-leading
-FICO® Falcon® Fraud Manager across MEA to help drive down fraud losses;
-Network International wins 2024 FICO Decision Award for Cloud Deployment
-                                                   Business Wire
-                                       August 19, 2024 Monday 8:00 AM GMT
+ NIST & NSF Award Nearly $7.1 Million to 15 Universities to Support Disaster
+                               Resilience
+                                                     Targeted News Service
+                                            January 19, 2024 Friday 8:20 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1489 words
-Dateline: LONDON & DUBAI, United Arab Emirates
+
+
+
+Length: 1209 words
+Byline: Targeted News Service
+Dateline: GAITHERSBURG, Maryland
 
 Body
 
-FICO (NYSE: FICO):
 
-Highlights:
-    •     Network International LLC (NI), headquartered in Dubai, has helped banks in the Middle East and Africa
-          prevent fraud using an on-prem and cloud-hosted version of the industry leading FICO® Falcon® Fraud
-          Manager
-    •     More than 40 financial institutions in United Arab Emirates, Saudi Arabia, Egypt and South Africa are using
-          the solution to help protect 20+ million customers, reducing fraud basis points of sales by 82% in 2022
-    •     Network International has won a 2024 FICO® Decision Award for Cloud Deployment.
+(TNSres) -- The U.S. Department of Commerce's National Institute of Standards and Technology issued the
+following news:
 
-Global analytics software leader FICO announced today that Network International LLC (NI), headquartered in
-Dubai, has helped banks in the Middle East and Africa help prevent fraud using a cloud-hosted version of the
-industry-leading FICO® Falcon® Fraud Manager. More than 40 financial institutions in United Arab Emirates, Saudi
-Arabia, Egypt and South Africa are using the solution to protect 20+ million customers, processing more than 180
-million transactions, representing USD18 billion in value. Collectively, NI and FICO Falcon Fraud Manager have
-reduced fraud basis points of sales by 82% in 2022, and increased fraud detection rates by 25%. Network
-International has won a 2024 FICO® Decision Award for Cloud Deployment.
+The U.S. Department of Commerce's National Institute of Standards and Technology (NIST) and the National
+Science Foundation (NSF) have awarded nearly $7.1 million in grants to fund research that will improve the ability
+of buildings, infrastructure and communities to withstand severe natural hazards. The projects are funded through
+the Disaster Resilience Research Grant (DRRG) program, which is jointly managed by NIST and NSF.
 
-More information: https://www.fico.com/en/products/fico-falcon-fraud-manager
+"These grants support science-based methods of improving resilience, including improved planning, policy,
+decisions, design, codes and standards," said Joannie Chin, NIST's Engineering Laboratory director. "They can
+also help educate the next generation of engineers and designers and ensure that a diversity of communities is
+considered and given the tools they need to protect their futures."
 
-"Considering the continuously evolving nature of fraud and increased regulatory scrutiny on issuers, it is imperative
-for banks to establish a robust strategy, processes, technology, and resources to prevent financial and reputational
-losses," said Arindam Chatterjee, group head, Safety and Security Solutions at Network International. "But
-deploying an on-premises fraud management solution is complex, challenging, time-consuming, and costly. FICO
-Falcon Fraud Manager, which we host as a service, has successfully resolved a complex puzzle for banks and
+Applicants were asked to consider natural hazards such as hurricanes and tornadoes; sustained rain, coastal and
+inland flooding, and tsunamis; wildland-urban interface fires; and earthquakes and how communities could reduce
+their vulnerabilities to them and increase their resilience.
 
-                                                                                                Page 2 of 4
-  Network International Slashes Fraud Rates in MEA with Cloud-Hosted FICO Solution Digital commerce solution
-                            provider deploys industry-leading FICO® Falcon® Fraud....
+"NSF's investment aims to reduce the disastrous economic and societal impacts of natural hazards," said Susan
+Margulies, NSF's assistant director for engineering. "Our partnership with NIST accelerates the novel ideas and
+approaches we support into planning, building codes and decision-making -- strengthening our nation's resilience to
+natural hazards."
 
-payment service providers that have entrusted NI with the end-to-end responsibility of managing fraud across
-payment channels on their behalf."
+The eight research projects funded by NIST are:
 
-NI adopted FICO Falcon Fraud Manager to address their customers' unmet need to use a single platform for
-preventing and detecting fraud across both card (debit, credit and prepaid) and non-card (retail banking, corporate
-banking, alliance banking and others) product portfolios. FICO Falcon Fraud Manager at NI gives customers
-complete flexibility in choosing the channels they want to integrate, deploying the solution in phases and scaling
-their operations according to business requirements, fraud perception and regulatory priorities. It enables
-organizations to address fraud comprehensively with a 360° customer view using a unified platform featuring
-advanced AI and machine learning models for all payment and service channels.
+University of Notre Dame ($400,000)
 
-"Because it's a hosted service, institutions in any country can use it regardless of the size of their customer base or
-economy, without concerns about the substantial capex of on-premises deployment and onsite support," said
-Chatterjee. "NI-hosted FICO Falcon Fraud Manager suits the requirements equally well for a new bank, small bank,
-mid-sized bank or a large multi-national bank. We can deploy it faster than an on-premises solution for a customer,
-and reduce their capital expenditure, resource and training costs. They get effective fraud management from day
-one."
+                                                                                                       Page 2 of 4
+              NIST & NSF Award Nearly $7.1 Million to 15 Universities to Support Disaster Resilience
 
-In addition to managing the anti-fraud application, environment, network and integrations with client's payment
-systems, NI also provides continuous analytics and rule management services, and 24/7/365 fraud monitoring
-operations carried out by a dedicated team work on case investigations and disposition.
+To improve predictions of the impacts storm wave- or current-carried debris could have on elevated structures, to
+support the goals of the American Society of Civil Engineers' Flood Loads Subcommittee.
 
-Deploying Across the Middle East and Africa
+***
 
-In some countries with stringent data residency requirements imposed by central banks and regulators, such as the
-Saudi Central Bank, banks cannot process their data outside their country borders. In response, NI adopted a
-customer-centric approach and established FICO Falcon Fraud Manager instances as close to the clients as
-possible, in UAE, Saudi Arabia, Egypt, and South Africa. These deployments leveraged FICO Falcon Fraud
-Manager's native capabilities, including:
-    •   Infrastructure flexibility: on-premises or cloud-agnostic deployments
-    •   Modular architecture
-    •   Containerised components
-    •   Scalability encompassing both vertical and horizontal expansion
-    •   API-based interfaces
-    •   Cross-data centre replication between production and disaster recovery
+University of Delaware ($399,988)
 
-Because of these capabilities, the NI technology teams could effectively replicate one successful FICO Falcon
-Fraud Manager deployment across other key regions with substantial growth potential. These regions
-predominantly serve developing economies during the transition from cash-based transactions to digital payment
-systems.
+To improve understanding of the risks to acute care access and flood impacts to improve service providers' and
+communities' disaster preparedness and help ensure continuity of care, reducing morbidity and mortality
+associated with missing treatment in future disasters.
 
-Lower Fraud Losses and Higher Detection Rate
+***
 
-"To date, with a review rate of just 1.13%, we have saved an impressive amount of fraud losses, aggregating to
-USD9.7 million, which has provided 7.45X ROI to our clients in the current financial year alone," said Chatterjee.
+University of Texas at San Antonio ($399,922)
 
-One of those clients is a small-sized yet fast-growing UAE-based bank that deploys FICO Falcon Fraud Manager at
-an enterprise level to monitor transaction fraud across cards, retail banking, channels and corporate banking
-accounts. After implementing FICO Falcon Fraud Manager real-time transaction fraud prevention technology, the
-bank has a fraud detection rate of over 90%, more than three times as high as when they first started leveraging the
-solution.
+To develop artificial intelligence-powered methods and tools to support adaptive restoration of regional
+transportation networks and other types of infrastructure, such as power and water, following earthquake, hurricane,
+flood or wildfire.
 
-                                                                                                Page 3 of 4
-  Network International Slashes Fraud Rates in MEA with Cloud-Hosted FICO Solution Digital commerce solution
-                            provider deploys industry-leading FICO® Falcon® Fraud....
+***
 
-"FICO Falcon Fraud Manager is far and away the industry leader in fraud detection, protecting more than 4 billion
-payment accounts worldwide," said Nikhil Behl, EVP for software at FICO. "We applaud Network International's
-achievements in bringing this powerful solution to firms of all sizes across the region. They are helping to keep their
-customer's customers safe from all kinds of fraud. Bravo!"
+State University of New York at Albany ($399,391)
 
-"The judging panel was impressed by the expansive scale of Network International's deployment of FICO Falcon
-Fraud Manager," added Eric Kavanagh, CEO Bloor Group and host of InsideAnalysis, who was one of the FICO
-Decisions Awards judges. "By providing fraud prevention-as-a-service to the region, they demonstrated a
-groundbreaking approach to threat detection. This innovative business model, democratizing advanced technology
-for a diverse range of organizations, stood out as a testament to their vision and execution, making Network
-International's achievement truly impressive."
+For the development of sociological and engineering methods, modeling and road maps to support the security and
+resiliency of electrical power infrastructure in coastal regions and islands when exposed to climate change-induced
+extreme weather.
 
-About the FICO® Decisions Awards
+***
 
-The FICO Decisions Awards recognize organizations that are achieving remarkable success using FICO solutions.
-A panel of independent judges with deep industry expertise evaluates nominations based on measurable
-improvement in key metrics; demonstrated use of best practices; project scale, depth and breadth; and innovative
-uses of technology. The 2024 judges are:
-    •   Andrew Birmingham, editor, Mi3
-    •   Eric Kavanagh, CEO Bloor Group and host, InsideAnalysis
-    •   Elizabeth Lumley, deputy editor, The Banker
-    •   Paul Mah, senior editor, CDO Trends
-    •   Laura Martins, editor, IT Forum
-    •   Paul Robinson, VP credit management at Canadian Tire Bank (Previous Winner)
-    •   Shiv Sehgal, EVP audience analytics at RSG Media (Previous Winner)
-    •   Nick Vitchev, director at Chartis
+Oklahoma State University ($398,071)
 
-The winners of the FICO Decisions Awards were spotlighted at FICO® World 2024 , held in April 2024 in San
-Diego, California.
+To develop a performance-based wildland-urban interface (WUI) fire resilience assessment model that can be used
+to create customized community emergency management plans for mitigation, preparedness, response and
+recovery, and which takes into account the unique built environment and human interactions with it.
 
-About Network International LLC
+***
 
-Network International LLC is the Middle East and Africa's largest and leading digital payments company. Our
-purpose is to help businesses and economies grow by simplifying payments and commerce. We operate in 50+
-countries serving governments, banks, fintechs, merchants and public sector companies. We have 2,000+
-employees based in our markets serving over 250 financial institutions and 130,000+ merchants.
+University of California San Diego ($397,820)
 
-About FICO
+To develop, validate and assess an efficient and practical design method that will integrate resilience and
+performance criteria in support of resilience-based design to reduce the cost and impact of disasters on the built
+environment.
 
-FICO (NYSE: FICO) powers decisions that help people and businesses around the world prosper. Founded in
-1956, the company is a pioneer in the use of predictive analytics and data science to improve operational decisions.
-FICO holds more than 200 US and foreign patents on technologies that increase profitability, customer satisfaction
-and growth for businesses in financial services, insurance, telecommunications, health care, retail and many other
-industries. Using FICO solutions, businesses in more than 100 countries do everything from protecting 4 billion
-payment cards from fraud, to improving financial inclusion, to increasing supply chain resiliency. The FICO® Score,
-used by 90% of top US lenders, is the standard measure of consumer credit risk in the US and has been made
-available in over 40 other countries, improving risk management, credit access and transparency.
+***
 
-Learn more at https://www.fico.com
+University of Notre Dame ($394,577)
 
-                                                                                                Page 4 of 4
-  Network International Slashes Fraud Rates in MEA with Cloud-Hosted FICO Solution Digital commerce solution
-                            provider deploys industry-leading FICO® Falcon® Fraud....
+To address fundamental knowledge gaps in support of a design procedure for thunderstorm/downburst winds
+based on a web-enabled enhanced gust effects factor (EGEF) framework and ensuring the dissemination of data
+and knowledge with a focus on diversity, equity and inclusivity.
 
-FICO and Falcon are registered trademarks of Fair Isaac Corporation in the U.S. and other countries.
+***
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240819819454/en/
+Virginia Polytechnic Institute and State University ($388,419)
+
+To develop an open-source, computationally efficient model that can be used by the engineering community to
+assess the risk of infrastructure ignition due to ember, or firebrand, showers caused by fires in the wildland-urban
+interface where communities abut undeveloped land.
+
+                                                                                                        Page 3 of 4
+              NIST & NSF Award Nearly $7.1 Million to 15 Universities to Support Disaster Resilience
+
+The 10 research projects funded by NSF are:
+
+University of Washington ($400,000)
+
+To develop a fundamental understanding of the behavior of cast-in-place floor slabs, or "diaphragms," in reinforced
+concrete buildings and develop tools for their design and for probabilistically quantifying their expected performance
+during an earthquake.
+
+***
+
+University of California, Los Angeles ($399,933)
+
+To use principles from artificial intelligence to develop near real-time infrastructure damage prediction models for
+use in the immediate post-event environment of a major hazard event (e.g., wildfire, earthquake and flood), thereby
+enhancing the emergency response and recovery planning phases that follow.
+
+***
+
+University of Illinois Urbana-Champaign ($399,851)
+
+To examine how characteristics of thunderstorm winds, including design-level peak wind speeds, relate to the
+different generating mechanisms of such winds. The project will also investigate spatial variabilities and temporal
+intermittencies associated with these mechanisms.
+
+***
+
+University of Mississippi ($399,475)
+
+To establish a standard monitoring approach for impoundments of mine tailings (massive geotechnical structures
+that store mining waste), thereby revolutionizing infrastructure monitoring and hazard management during extreme
+weather events.
+
+***
+
+North Carolina State University ($398,891)
+
+To advance understanding of how local erosion events contribute to floods in neighboring communities; how these
+floods can be managed by allowing barrier sections to return to nature; and how such a transformation, when
+informed and deliberated on by community stakeholders, may affect community place meanings.
+
+***
+
+George Mason University ($397,365)
+
+To incorporate equity into wildfire preparedness strategies and minimize the equity-of-access gap to resources
+between disadvantaged and advantaged communities.
+
+***
+
+Johns Hopkins University ($391,951)
+
+To develop a novel system to provide rapid, scalable and joint assessments of cascading hazards (e.g., ground
+shaking, landslide and liquefaction) during seismic events by leveraging the causal dependencies among them.
+
+***
+
+George Mason University ($385,353)
+
+                                                                                                        Page 4 of 4
+              NIST & NSF Award Nearly $7.1 Million to 15 Universities to Support Disaster Resilience
+
+To evaluate the effect of extreme heat on efficacy of disinfection in drinking water distribution systems and evaluate
+a novel engineering solution to increase resiliency to extreme heat disasters.
+
+***
+
+Oklahoma State University ($367,706)
+
+To investigate the potential role of social networks and micromobility (lightweight vehicles such as bicycles or
+scooters) in enhancing the planning and operation of resilience hubs, an emerging infrastructural concept that has
+the potential to support more equitable disaster response and recovery efforts.
+
+***
+
+Louisiana State University ($363,852)
+
+To model power grid resilience equity by considering the hardships faced by different communities and taking
+account of these hardships in the protection of power infrastructure against flood-induced hazards.
+
+***
+
+Original    text  here:    https://www.nist.gov/news-events/news/2024/01/nist-and-nsf-award-nearly-71-million-15-
+universities-support-disaster
+
+Contact: Lawrence Goodman, lawrence.goodman@nist.gov
+
+Copyright Targeted News Services
+
+MSTRUCK-8451197 MSTRUCK
 
 
-CONTACT: Corporate Communications
-Network International
-Dubai, UAE
-Tel: +9714 303 2431
-
-lambert.espedido@network.global Srishti Soni
-ASDA'A BCW | +9714 450 7600
-
-srishti.soni@bcw-global.com For further comment contact:
-FICO UK PR Team
-Wendy Harrison/Parm Heer/Matthew Enderby
-
-ficoteam@harrisonsadler.com
-0208 977 9132
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 19, 2024
+Load-Date: January 19, 2024
 
 
   

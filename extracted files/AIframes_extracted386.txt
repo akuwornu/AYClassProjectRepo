@@ -1,227 +1,191 @@
 
 
-                                                                                                 Page 1 of 4
-     Managed Services Market Projected to Hit USD 518.8 Billion at a 7.20% CAGR by 2032- Report by Market
-                                           Research Future (MRFR)
+                                                                                                      Page 1 of 4
+                Geospatial Program Helps Millions Get Post-Disaster Aid Sooner Damage Assessment
 
 
 
 
-     Managed Services Market Projected to Hit USD 518.8 Billion at a 7.20%
-          CAGR by 2032- Report by Market Research Future (MRFR)
-                                                   iCrowdNewswire (English)
-                                           June 25, 2024 Tuesday 10:00 PM GMT
+  Geospatial Program Helps Millions Get Post-Disaster Aid Sooner Damage
+                               Assessment
+                                                     Targeted News Service
+                                           March 30, 2024 Saturday 7:50 AM EST
 
 
 
-Copyright 2024 iCrowdNewswire, LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
 
-Length: 1734 words
+Length: 1387 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Managed Services Market: A Comprehensive Overview The managed services market has experienced substantial
-growth in recent years, driven by the increasing complexity of IT infrastructure and the growing need among
-businesses to focus on core competencies while outsourcing non-core functions. [...]
+The U.S. Air Force Auxiliary Civil Air Patrol issued the following news:
 
-Managed Services Market: A Comprehensive Overview
+By Anne Saita, Contributing writer
 
-The managed services market has experienced substantial growth in recent years, driven by the increasing
-complexity of IT infrastructure and the growing need among businesses to focus on core      competencies while
-outsourcing non-core functions. Managed services encompass a wide array of offerings including managed
-security, managed network, managed data center, managed mobility, and        managed communications, among
-others. The Managed Services Market industry is projected to grow from USD 277.5 Billion in 2023 to USD 518.8
-Billion by 2032, exhibiting a compound annual growth     rate (CAGR) of 7.20% during the forecast period (2024
-2032).
+By the time most of the world became aware of deadly wildfires ripping through Lahaina and Kula on Maui, a small
+team of Civil Air Patrol and Federal Emergency Management Agency members had already remotely identified 800
+damaged or destroyed structures.
 
-According to recent industry reports, the global managed services market is projected to continue its upward
-trajectory, reaching significant valuation figures by the end of the forecast     period. This growth is fueled by the
-proliferation of cloud computing, the rise of digital transformation initiatives, and the increasing adoption of IoT
-(Internet of Things) devices across      various industry verticals.
+Using publicly available imagery and artificial intelligence technology, within days the remote team assessed
+some 2,000 homes and businesses and deemed more than 1,800 destroyed or damaged. They drew on satellite
+imagery and airborne imagery from both Vexcel Imaging and CAP's Hawaii Wing,
 
-Request         To         Free        Sample         of                      This        Strategic           Report
-https://www.marketresearchfuture.com/sample_request/2424
+Working with FEMA, the CAP team created a map of the damaged structures-- which President Joe Biden used in
+issuing a federal disaster declaration to expedite financial aid to fire victims. A White House social media post on
+federal support to Hawaii showed the president viewing the assessment map.
 
-Key Market Segments
+"In his hand he was holding a map -- and it was our team's map," said Maj. Scott Kaplan, volunteer manager for the
+CAP Geospatial Program.
 
-Managed Security Services: With cybersecurity becoming a top priority for organizations worldwide, managed
-security services (MSS) are witnessing robust growth. These services include threat    detection and response,
-vulnerability management, and compliance monitoring, aimed at protecting sensitive data and ensuring regulatory
-adherence.
+"We never thought the products our team helped FEMA create would be given to the president."
 
-                                                                                                Page 2 of 4
-    Managed Services Market Projected to Hit USD 518.8 Billion at a 7.20% CAGR by 2032- Report by Market
-                                          Research Future (MRFR)
+That small but rewarding recognition was among many highlights for the relatively young CAP program. Last year it
+assessed more than 63,000 structures in 18 states and territories, amounting to more than 1,000 volunteer hours
+that helped speed relief to millions of Americans in need.
 
-Managed Network Services: As businesses expand globally, the demand for efficient and secure network
-infrastructure management grows. Managed network services provide enterprises with reliable connectivity,
-network monitoring, and troubleshooting capabilities.
+Not bad for a program only 5 years old.
 
-Managed Data Center Services: With the shift towards hybrid and multi-cloud environments, managed data center
-services offer organizations scalable and flexible solutions for data storage, backup, and disaster recovery.
+                                                                                                        Page 2 of 4
+               Geospatial Program Helps Millions Get Post-Disaster Aid Sooner Damage Assessment
 
-Managed Mobility Services: In the era of remote work and mobile-first strategies, managed mobility services are
-essential for managing devices, applications, and security protocols across diverse platforms.
+"I've joked all along that as a program, we're still crawling or walking. But really, we've been running with scissors
+since we started," said Kaplan, who recently served as deputy commander for Virginia Wing Group 3.
 
-Managed Communication Services: Unified communications as a service (UCaaS) and VoIP (Voice over Internet
-Protocol) solutions are integral components of managed communication services, enabling        seamless
-collaboration and connectivity.
+He's employed as the senior adviser to the chairman of the Civil Applications Committee at the U.S. Geological
+Survey, where he's on a joint assignment from the National Geospatial-Intelligence Agency.
 
-Buy Now Premium Research Report Get Comprehensive Market Insights.
+Kaplan was tapped to create what was then called the CAP Geographic Information Systems (GIS) team -- now
+known as the CAP Geospatial Program to reflect a broader mission beyond the use of GIS.
 
-Industry Latest News
+Today, in addition to airborne and satellite imagery, the team heavily leverages open-source videos and photos and
+even hand-held imagery collected through phone applications.
 
-Recent developments in the managed services market highlight its dynamic nature and evolving trends:
+A GIS tool uses all this remote sensing data to visualize the material and create geospatial information. The
+program continues to expand its ranks with CAP members, including cadets who help gather and analyze images
+and other information far from a disaster zone.
 
-Acquisitions and Partnerships: Leading managed service providers (MSPs) are actively pursuing mergers and
-acquisitions to broaden their service portfolios and expand their geographical reach.
+Just recently, the program has been at work providing geospatial assessments for two other events of national
+importance - destructive wildfires in the Texas panhandle and a tornado outbreak in the Midwest.
 
-Focus on AI and Automation: Integration of artificial intelligence (AI) and machine learning (ML) technologies is
-enhancing the predictive capabilities of managed services, enabling proactive            problem resolution and
-optimization.
+During its formation, leadership established three main goals for the program:
 
-Rise of Edge Computing: Edge computing solutions are gaining traction, driving the demand for managed services
-that can effectively manage edge devices and ensure low-latency data processing.
+* Help augment federal, state, and county emergency response teams in times of natural disasters with GIS-trained
+personnel.
 
-Security Enhancements: Continuous advancements in cybersecurity frameworks and regulations are prompting
-MSPs to bolster their managed security offerings, addressing emerging threats and vulnerabilities.
+* Provide visualized data to help CAP internally understand capabilities from National Headquarters down to the
+squadron level.
 
-Managed Services Companies
+* Offer a potential career path for cadets in the geospatial industry.
 
-Several key players dominate the managed services market, each offering unique strengths and capabilities:
+Soon after the program was made official on July 31, 2019, Category 5 Hurricane Dorian struck the Bahamas and
+eastern U.S.
 
-IBM Corporation: Known for its comprehensive managed IT services, IBM provides a range of solutions including
-cloud management, cybersecurity, and infrastructure services.
+Partnering with GIS technology provider Environmental Systems Research Institute Inc., better known as Esri, to
+use its ArcGIS mapping and spatial analytics tools, the team got to work building a geospatial story map and
+dashboard to assist CAP incident commanders.
 
-Accenture: A global leader in consulting and managed services, Accenture offers extensive expertise in digital
-transformation, cloud migration, and business process outsourcing.
+Then in January 2020, a powerful earthquake struck Puerto Rico. The team equipped Puerto Rico Wing adult
+members and cadets with geospatial handheld applications developed by CAP and the National Alliance for Public
+Safety GIS.
 
-Cisco Systems: Renowned for its managed network services and cybersecurity solutions, Cisco Systems delivers
-secure and scalable networking infrastructures for enterprises worldwide.
+Ground teams gathered images provided to the tool, which provided a comprehensive picture of the earthquake's
+impact.
 
-Hewlett Packard Enterprise (HPE): HPE specializes in managed data center services, hybrid cloud management,
-and edge computing solutions, catering to diverse industry verticals.
+The images taken were the first vetted images provided to FEMA, accelerating a presidential disaster declaration.
 
-NTT Ltd.: As a leading MSP, NTT Ltd. offers managed security services, IT infrastructure management, and global
-network solutions, supporting organizations in their digital journeys.
+Soon after that, COVID-19 hit, and the Geospatial Team was tasked with helping provide CAP the big picture of
+infection rates for members across the country.
 
-Browse In-depth Market Research Report (173 Pages, Charts, Tables, Figures) on Managed Services Market
-https://www.marketresearchfuture.com/reports/managed-services-market-2424
+Using smartphone-based applications with a survey completed by squadron commanders showed how many
+members tested positive for the virus in the previous week. Leveraging geospatial technology, the team was able to
+show CAP's national leadership exactly how COVID was affecting membership.
 
-Market Drivers
+Over just the first few disasters, "we helped augment FEMA during times of a natural disaster with CAP Geospatial
+personnel; we helped CAP internally; and we got kids involved because we allowed them to use the same tools we
+use," Kaplan said.
 
-                                                                                                Page 3 of 4
-    Managed Services Market Projected to Hit USD 518.8 Billion at a 7.20% CAGR by 2032- Report by Market
-                                          Research Future (MRFR)
+"In doing so, we had met all three goals of the program," he said.
 
-Several factors are driving the growth of the managed services market:
+                                                                                                           Page 3 of 4
+              Geospatial Program Helps Millions Get Post-Disaster Aid Sooner Damage Assessment
 
-Cost Efficiency: Outsourcing IT operations to MSPs allows organizations to reduce operational costs associated
-with infrastructure management and maintenance.
+One of the Geospatial Program's biggest draws is that anyone can participate, regardless of location, age, gender,
+or disability.
 
-Focus on Core Competencies: Managed services enable enterprises to focus on strategic initiatives and core
-business functions, enhancing overall productivity and innovation.
+"We allow everyone to be involved, and that's been a big piece of our program since its inception," Kaplan stressed,
+adding that even visually impaired volunteers are welcomed. "Even if someone is blind, we'll find a way for them to
+help."
 
-Scalability and Flexibility: Cloud-based managed services offer scalability and flexibility, accommodating fluctuating
-business demands and enabling rapid deployment of IT resources.
+Maj. P. Adrian Carnes, the National Emergency Services Academy-Southeast chief of staff and South Carolina
+Wing director of logistics, has participated in nine Geospatial Disaster Assessment Teams - including tornado and
+hurricane coverage that earned team members some of the highest honors awarded by state governors and CAP
+national leadership.
 
-Complexity of IT Environments: As IT environments become more complex with hybrid cloud architectures and
-diverse endpoints, the need for specialized managed services increases.
+"You're helping other people in their darkest moment," Carnes said, "people who've lost everything, and we try to
+help them pull their lives back together again."
 
-Regional Insights
+Carnes' daughter Casey, now a hospice nurse, was a top-ranked cadet as a youth, and he believes one of the
+Geospatial Program's best aspects is the opportunity for young cadets to work alongside adult members.
 
-The adoption of managed services varies significantly across different regions:
+"These kids can do the same job I can do because they are trained just as I am," he said. "To have them develop a
+sense of pride in themselves, and then carry that forward, is among the things I like most about CAP."
 
-North America: Leading the global market, North America benefits from early adoption of cloud technologies and
-robust cybersecurity regulations.
+1st Lt. John Roberts
 
-Europe: Increasing investments in digital transformation initiatives drive the demand for managed services,
-particularly in GDPR-compliant data management solutions.
+First Lt. John Roberts, homeland security officer for the Massachusetts Wing, joined the Geospatial Program in May
+2022 as another way to contribute.
 
-Asia-Pacific: Rapid industrialization and the proliferation of mobile devices propel the growth of managed services,
-with countries like India and China emerging as key markets.
+"You can do it from your chair or anywhere, at any time of the day," Roberts said. "More importantly, it gives
+members the ability to contribute in real missions."
 
-Latin America: Growing awareness of cybersecurity threats and regulatory compliance fosters the adoption of
-managed security services among enterprises.
+He recalls helping with damage assessments in Florida after Hurricane Ian damaged 24,546 structures in
+September 2022. Roberts had family in Florida displaced by the storm, and because of the work he and others did,
+his sister received financial assistance from FEMA in a matter of days.
 
-Ask for Customization Get a customized version of the report by submitting a customization request.
+"Anything we can do to improve that speed and get those resources and money allocated is our real mission," he
+said.
 
-Conclusion
+In addition to expediting FEMA payments, the Geospatial Program's damage assessments can help combat
+insurance fraud by matching claims against their evaluations -- something even artificial intelligence solutions still
+struggle to accurately detect. For instance, a solar panel on a perfectly intact house could be misread as destruction
+because the machine sees what looks like a massive black hole in the image.
 
-In conclusion, the managed services market continues to evolve, driven by technological advancements, shifting
-business priorities, and regulatory developments. As organizations navigate     digital transformation journeys and
-seek to optimize IT operations, managed services play a pivotal role in enhancing efficiency, scalability, and
-cybersecurity. With key players expanding      their service portfolios and innovating with AI-driven solutions, the
-future of managed services looks promising, promising continued growth and evolution in the years to come.
+Recently Roberts and Carnes were among team members volunteering to help the Massachusetts Institute of
+Technology's Lincoln Laboratories improve AI models to prevent such misinterpretations. Volunteers were divided
+into three groups to label thousands of CAP-generated images and later confirm or reject results from the AI
+program.
 
-Explore MRFR s Related Ongoing Coverage In ICT Domain:
+"The value CAP is providing MIT Lincoln Labs is massive," Roberts said.
 
-Logistics           Automation            Market                     https://www.globenewswire.com/en/news-
-release/2022/01/27/2373967/0/en/Logistics-Automation-Market-Expected-to-Surpass-the-Market-Value-of-USD-89-
-72-Billion-by-2024-Report-by-Market-Research-Future-MRFR.html
+For the Geospatial Program Damage Assessment Team, AI is now used to augment efforts - but it won't replace
+them. "We're still better than the AI models," Kaplan said.
 
-Contactless           Payment            Market                    https://www.globenewswire.com/en/news-
-release/2021/10/27/2321952/0/en/Contactless-Payment-Market-Expected-to-Grow-at-a-CAGR-of-11-2-by-2025-
-Report-by-Market-Research-Future-MRFR.html
+"We have some of the best damage assessment imagery experts for natural disasters in the country," he added.
+And he has a spate of awards to back it up, including the Making a Difference Award given at Esri's federal
+government conference and the CAP JanEX Prize for Innovation.
 
-Remote         Sensing       Technology        Market             https://www.globenewswire.com/en/news-
-release/2022/07/04/2473394/0/en/Remote-Sensing-Technology-Market-Projected-to-Garner-USD-16-35-Billion-by-
-2030-Growing-at-11-5-CAGR-Report-by-Market-Research-Future-MRFR.html
+"I love what I do," Kaplan said. "At the end of the day, we're helping people, and that's what matters."
 
-                                                                                                Page 4 of 4
-    Managed Services Market Projected to Hit USD 518.8 Billion at a 7.20% CAGR by 2032- Report by Market
-                                          Research Future (MRFR)
+                                                                                                    Page 4 of 4
+              Geospatial Program Helps Millions Get Post-Disaster Aid Sooner Damage Assessment
 
-Insurtech Market       https://www.globenewswire.com/news-release/2023/06/06/2683035/0/en/Insurtech-Market-
-Worth-USD-264-9-Billion-at-a-53-50-CAGR-Market-Research-Future-MRFR.html
+***
 
-AI in IoT Market https://www.globenewswire.com/en/news-release/2023/06/02/2681182/0/en/AI-in-IoT-Market-to-
-Growing-USD-60-8-Billion-at-a-28-20-CAGR-By-2032-Market-Research-Future-MRFR.html
+Original text here: https://www.cap.news/geospatial-program-helps-millions-get-post-disaster-aid-sooner/
 
-Intelligent      Process       Automation          Market             https://www.globenewswire.com/en/news-
-release/2022/10/07/2530241/0/en/Intelligent-Process-Automation-Market-is-Predicted-to-Hit-USD-29-38-Billion-at-
-a-CAGR-of-11-91-by-2030-Report-by-Market-Research-Future-MRFR.html
+Copyright Targeted News Services
 
-Software           Engineering           Market                     https://www.globenewswire.com/en/news-
-release/2022/10/12/2533225/0/en/Software-Engineering-Market-to-Reach-USD-123-5-Billion-With-a-11-26-CAGR-
-by-2030-Report-by-Market-Research-Future-MRFR.html
-
-About Market Research Future:
-
-At Market Research Future (MRFR), we enable our customers to unravel the complexity of various industries
-through our Cooked Research Report (CRR), Half-Cooked Research Reports (HCRR), Raw     Research Reports
-(3R), Continuous-Feed Research (CFR), and Market Research & Consulting Services.
-
-MRFR team have supreme objective to provide the optimum quality market research and intelligence services to
-our clients. Our market research studies by products, services, technologies,          applications, end users, and
-market players for global, regional, and country level market segments, enable our clients to see more, know more,
-and do more, which help to answer all their most     important questions.
-
-Also, we are launching Wantstats the premier statistics portal for market data in comprehensive charts and stats
-format, providing forecasts, regional and segment analysis. Stay informed and     make data-driven decisions with
-Wantstats.
-
-Tags: Europe Managed Services Market, Japan Managed Services Market, Managed Services Market, Managed
-Services Market Growth, Managed Services Market Share, Managed Services Market Size,    Managed Services
-Market TrendsSee Campaign:https://www.marketresearchfuture.com/reports/managed-services-market-2424
-
-Contact Information:
-
-Contact Us:Market Research Future (Part of Wantstats Research and Media Private Limited)99 Hudson Street, 5Th
-FloorNew York, NY 10013United States of America+1 628 258 0071 (US)+44 2035                               002
-764 (UK)Email: sales@marketresearchfuture.comWebsite: https://www.marketresearchfuture.com
-
-Tags:
-Research Newswire, English
+MSTRUCK-8553628 MSTRUCK
 
 
-
-
-Load-Date: August 2, 2024
+Load-Date: March 30, 2024
 
 
   

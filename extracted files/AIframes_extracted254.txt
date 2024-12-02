@@ -1,89 +1,116 @@
 
 
-                                                                                                        Page 1 of 2
-                      Ecrio and GXC Win Award in NSIN Catastrophic Communications Challenge
+                                                                                                 Page 1 of 3
+      Zayo Expands Managed Edge Offerings through Strategic Partnership with Security Service Edge Leader
+                       Netskope The new collaboration brings industry-dominating se....
 
 
 
 
-Ecrio and GXC Win Award in NSIN Catastrophic Communications Challenge
-                                                           PR Newswire
-                                           July 17, 2024 Wednesday 1:00 AM EST
+ Zayo Expands Managed Edge Offerings through Strategic Partnership with
+   Security Service Edge Leader Netskope; The new collaboration brings
+    industry-dominating secure service edge (SSE) protection to Zayo's
+              comprehensive edge-to-core-to-cloud solutions
+                                                    Business Wire
+                                      March 6, 2024 Wednesday 1:00 PM GMT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-Length: 1007 words
-Dateline: AUSTIN, Texas and CUPERTINO, Calif., July 17, 2024
+Length: 858 words
+Dateline: DENVER
 
 Body
 
 
-PR NewswireEcrio's iota-e Software Integrates with GXC ONYX™ Solution to Offer 5G Critical Communication
-Network-in-a-BoxAUSTIN, Texas and CUPERTINO, Calif., July 17, 2024 /PRNewswire-PRWeb/ -- GXC, a leading
-provider of private cellular network solutions, and Ecrio, the foremost supplier of Mobile Communications and
-Messaging for Private LTE/5G Networks, today announced the two companies have won a joint award in the
-Catastrophic Communications Challenge (C2C), hosted by the National Security Innovation Network (NSIN) in
-collaboration with the Washington Air National Guard's (WA ANG) 194 Communications Squadron. The event is a
-prestigious competition designed to discover innovative solutions for emergency communication in disaster
-scenarios. With significant investment from the Department of Defense (DoD), the challenge seeks to advance
-technologies that enhance emergency communication capabilities for various defense applications.Ecrio and GXC
-have formed a strategic relationship to deliver Mission Critical Connectivity and Communication for 5G Network-in-
-a-Box (C-NiB) solutions. The collaboration between the two companies leverages Ecrio's expertise in secure critical
-communications and GXC's leadership in providing LTE and 5G RAN networks.
+Zayo Group , a leading global communications infrastructure provider, today announced its partnership with Secure
+Access Service Edge (SASE) leader Netskope. The partnership brings Netskope's best-in-class Security Service
+Edge (SSE) capabilities to Zayo's Managed Edge portfolio to deliver the most robust network protection and
+application performance for Zayo customers - from edge to core to cloud.
 
-Each self-contained C-NiB node integrates Ecrio's iota-e critical communication software with GXC's industry-
-leading 5G RAN and Core platforms.Headquartered in Austin, TX, GXC provides innovative private cellular network
-solutions through its advanced GXC ONYX™ platform. This turnkey system offers resilient and scalable LTE/5G
-coverage using private cellular mesh or star topology backhaul, making it ideal for applications requiring distributed
-critical connectivity.Ecrio, based in Cupertino, CA, is a leader in end-to-end communication software, providing a
-comprehensive platform for deploying private LTE/5G networks. This includes a suite of standards-compliant
-voice/video calling, messaging, and mission-critical Push-to-Talk (MCX). Ecrio's proven track record features
-successful deployments across various industry verticals, including mobile carriers, public safety, and defense.The
-GXC ONYX™ platform integrates Ecrio's iota-e software to deliver 3GPP and GSMA compliant communication
-software in a compact form factor, which is perfectly suited for both near and far edge-based private networks. The
-solution supports voice and video communication for first responders and frontline workers as well as worker-to-
-machine interactions. It integrates seamlessly with leading AI and ML frameworks, cameras and sensors to deliver
-Edge AI workflows for perimeter security and worker safety. With its modular and scalable architecture, iota-e can
-be deployed with Native Dialing or as an Over-the-Top Voice/Video Calling and MCPTT solution with a companion
-app for ruggedized phones and tablets."We are thrilled to be recognized in this prestigious competition for enabling
-edge-based critical communications for 5G Private Cellular Networks," said Michel Gannage, Founder and CEO of
-Ecrio. "With GXC's unmatched network-in-a-box and mesh technology, we look forward to versatile and scalable
-deployments of our combined solutions.""We are delighted and proud to receive this award," said Hardik Jain, co-
+According to Gartner, by 2025, 80% of enterprises will have adopted a strategy to unify web, cloud services, and
+private application access using a SASE/SSE architecture. But to fully realize the benefits of SASE, seamless
+integration of security, networking, and performance is essential. Now enhanced with Netskope - which was named
+a leader in the 2023 Gartner SSE Magic Quadrant - Zayo's Managed Edge provides industry-leading management
+and security to defend against network security threats, meet regulatory compliance requirements, and enable
+seamless and scalable hybrid work.
 
-                                                                                                         Page 2 of 2
-                    Ecrio and GXC Win Award in NSIN Catastrophic Communications Challenge
+"Every month, Zayo defends organizations of all sizes from data breaches, ransomware, downtime, and disaster
+by securing their core networks, the edge, and the cloud," said Michael McKerley, Senior Vice President of
+Managed Services at Zayo. "Our partnership with Netskope is enhancing how we secure our managed edge-to-
+core-to-cloud solution even further. Zayo brings the largest independent fiber network, customized management,
+and AI-driven network observability. Netskope brings a feature-rich, industry-leading secure service edge. The
+result is an enhanced SASE offering with stronger security for the most demanding cybersecurity needs."
 
-founder and CTO of GXC. "Our partnership with Ecrio allows us to offer an out-of-the-box, compact, full-featured
-5G voice, video, and data communication solution for specialized deployments in defense, public safety,
-manufacturing, logistics and transportation. Our work with Ecrio enables us to deliver a solution that can satisfy the
-security and performance needs for these markets.""Congratulations to GXC and Ecrio and their advanced Private
-5G Communication Network-in-a-Box solution on winning the NSIN Catastrophic Communications Challenge," said
-Tanya Parypa, NSIN Northwest Regional Director. "This life-saving technology assures warfighters have the
-communications tools they need to perform in degraded environments."To learn more about the NSIN Catastrophic
-Communications Challenge,Click HereAbout GXCFounded in 2016, GXC is an Austin, Texas-based company that
-provides groundbreaking private cellular network solutions for enterprises. Through its turnkey proprietary platform,
-GXC Onyx, the company delivers comprehensive connectivity both indoors and out, enabling highly secure,
-resilient, and scalable coverage that supports critical business operations in manufacturing, logistics, transportation,
-agriculture, and other commercial venues. GXC is the only provider to offer private cellular mesh technology,
-building this capability based on years of advanced research. The company partners with leading technology
-providers and systems integrators to ensure that each system is professionally deployed and meets the
-expectations of sophisticated enterprises.About EcrioEcrio is the leading supplier of end-to-end communication
-software, essential for deploying 5G/LTE private networks. Ecrio offers a comprehensive suite of standards-
-compliant Edge Communication Server and Device Client Software, optimized to run as a Network-in-a-Box, on-
-premises, or in Operator MEC, via its FlexEDGE™ architecture. Ecrio's Edge solutions enable two-way interactive
-human-to-machine communication for command and control of drones, robots, and cameras in verticals such as
-defense, disaster response, and industrials. Ecrio's Device Client Software for phones, tablets, wearables, FWA
-gateways, XR, and IoT devices is built on the patented FlexIMS™ Architecture and has been deployed in over 100
-million devices. Ecrio's Voice, Video, and Messaging solutions are 3GPP and GSMA compliant, supporting VxLTE,
-VoNR, VoWiFi, MCPTT, and RCS. For more information, please visitwww.ecrio.com.FlexIMS™ and FlexEDGE™
-are trademarks of Ecrio Inc.Media ContactLina Martin, Ecrio Inc., 1 4089737290, ,www.ecrio.com View original
-content:https://www.prweb.com/releases/ecrio-and-gxc-win-award-in-nsin-catastrophic-communications-challenge-
-302198437.htmlSOURCE Ecrio Inc.
+"As businesses continue to adopt cloud technologies, secure access and advanced data protection becomes
+paramount," said Dave Rogers, Senior Vice President of Global Alliances and Channel Sales at Netskope. "A well-
+designed SASE solution enables businesses to strike the right balance between staying secure and getting work
+done, without trade-offs. We are pleased to partner with Zayo to offer the best in managed SSE capabilities, which
+provide the security needed for successful SASE."
+
+In addition, Zayo has enhanced its software-defined wide-area network (SD-WAN) with co-hosted gateways that
+provide a direct, private, and secure link into the cloud, legacy network infrastructure, and all locations. With these
+
+                                                                                                   Page 2 of 3
+        Zayo Expands Managed Edge Offerings through Strategic Partnership with Security Service Edge Leader
+                         Netskope The new collaboration brings industry-dominating se....
+
+enhancements, Zayo's Managed Edge provides a complete, co-managed, end-to-end networking solution with
+comprehensive connectivity, security, monitoring, and management.
+
+Why This Matters:
+    •      Location integration: Zayo's Managed Edge allows customers to seamlessly integrate legacy network
+           infrastructure, on-net, and off-net locations, bringing off-net buildings into the Zayo fiber network.
+    •      Reduced network costs: Zayo's Managed Edge reduces cloud egress fees and eliminates pricey network
+           builds. Zayo's co-hosted gateways integrate with fiber into private cloud gateways to create a true edge-to-
+           core-to-cloud solution.
+    •      Optimized network performance: Zayo's co-hosted gateways ensure reliable application and cloud
+           performance by seamlessly integrating with Zayo's fiber network for private, always-available enterprise
+           network connections.
+
+"Organizations are often hesitant to utilize SASE and SD-WAN because transitioning from their prior network
+connectivity can be difficult and cumbersome," continued McKerley. "This partnership and the SD-WAN
+enhancements we've made give our customers the best of all worlds. We're thrilled to be able to offer our
+customers an efficient network that's secure, stable, scalable, and sustainable."
+
+Zayo's newest Managed SASE solution and SD-WAN enhancements are immediately available via Zayo's
+Managed Edge solution. For more information, visit: https://www.zayo.com/services/managed-edge/ .
+
+About Zayo
+
+For more than 15 years, Zayo has empowered some of the world's largest and most innovative companies to
+connect what's next for their business. Zayo's future-ready network spans over 17.5 million fiber miles and 142,500
+route miles. Zayo's tailored connectivity and edge solutions enable carriers, cloud providers, data centers, schools,
+and enterprises to deliver exceptional experiences, from core to cloud to edge. Discover how Zayo connects what's
+next at www.zayo.com and follow us on LinkedIn and Twitter .
+
+About Netskope
+
+Netskope, a global SASE leader, helps organizations apply zero trust principles and AI/ML innovations to protect
+data and defend against cyber threats. Fast and easy to use, the Netskope platform provides optimized access and
+real-time security for people, devices, and data anywhere they go. Netskope helps customers reduce risk,
+accelerate performance, and get unrivaled visibility into any cloud, web, and private application activity. Thousands
+of customers trust Netskope and its powerful NewEdge network to address evolving threats, new risks, technology
+shifts, organizational and network changes, and new regulatory requirements. Learn how Netskope helps
+customers be ready for anything on their SASE journey, visit netskope.com .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240306365394/en/
 
 
-Load-Date: July 17, 2024
+CONTACT: Zayo Group
+
+press@zayo.com
 
 
-  
+http://www.businesswire.com
+
+
+Load-Date: March 7, 2024
+
+                                                                                             Page 3 of 3
+  Zayo Expands Managed Edge Offerings through Strategic Partnership with Security Service Edge Leader
+                   Netskope The new collaboration brings industry-dominating se....
+
+
+

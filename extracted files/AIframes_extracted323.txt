@@ -1,129 +1,161 @@
 
 
-                                                                                                           Page 1 of 3
-                   Switch Up Teaching and Assessment to Help Teachers Combat Chatbot-Cheating
+                                                                                                       Page 1 of 3
+                    THE FUTURE OF EUROPE'S AVIATION SECTOR: EMBRACING INNOVATION
 
 
 
 
-   Switch Up Teaching and Assessment to Help Teachers Combat Chatbot-
-                                Cheating
-                                                     Targeted News Service
-                                             July 4, 2024 Thursday 9:40 AM EST
+THE FUTURE OF EUROPE'S AVIATION SECTOR: EMBRACING INNOVATION
+                                               States News Service
+                                              March 18, 2024 Monday
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 840 words
-Byline: Targeted News Service
-Dateline: ADELAIDE, Australia
+Length: 1723 words
+Byline: States News Service
+Dateline: BRUSSELS, Belgium
 
 Body
 
 
-(TNSres) -- The University of South Australia issued the following news release:
+The following information was released by the European Organisation for the Safety of Air Navigation
+(EUROCONTROL):
 
-It's the chatbot technology that can write an essay in a second, but despite its vast capabilities, generative AI is
-creating headaches for education, particularly when it comes to student integrity and cheating.
+The seamless integration of new technologies into existing systems is a critical challenge, writes Julie Garland,
+CEO of aviation training organisation Avtrain.
 
-Now, new research from the University of South Australia, shows that teachers can combat AI by adopting a
-transformative approach to teaching and assessments: Design Thinking.
+The aviation industry, a cornerstone of global connectivity and economic progress, is undergoing a paradigm shift.
+Europe, at the forefront of this revolution, is witnessing a confluence of innovation in autonomy, digital services,
+sustainability and inclusivity reshaping the future of air travel. Here we delve into how these advancements are
+transforming Europe's air traffic management (ATM) services and the broader aviation sector, particularly pilot
+training, and how using the drone industry is accelerating us towards a fully integrated ATM/UTM (uncrewed aircraft
+system traffic management). These innovations will have a profound impact on traditional aviation and, in particular,
+on ATM services.
 
-Design Thinking is a human-centric and curiosity-driven methodology that can be easily adapted to the classroom.
-It builds student creativity, critical thinking, and collaboration - skills that cannot easily be replicated by AI - while
-concurrently enabling teachers to monitor and assess student learning in a formative manner.
+The drone industry is the foundation for the future of passenger-carrying, fully autonomous aircraft. We can use the
+current regulatory environment and technology to test out the reliability, certification standards and ecosystem
+requirements (such as off-airport vertiports), and then scale for the future where we have larger aircraft with
+precious cargo (people). Autonomous aircraft are not just a leap in technology but a stride towards enhanced
+safety, efficiency and environmental sustainability. These uncrewed systems need a reimagined approach to
+ATM/UTM, where traditional human-centric models evolve to seamlessly integrate autonomous operations.
 
-Lead researcher and UniSA PhD candidate Maria Vieira, says by adopting a Design Thinking approach, teachers
-can address integrity issues posed by generative AI.
+There has been a positive uptake by the public of delivery drone services and the desire for immediate, on-demand
+services will continue to support growth in this area. However, we have a lot more work to do to see eVTOL (electric
+Vertical Take-off and Landing) aircraft being widely accepted or demanded by the public, as can be seen in recent
+comments from French local councils when discussing the upcoming Paris flights by Volocopter at the Olympics.
+Some use cases are immediately acceptable such as medical emergencies/ evacuation/disaster zones, while
+others (such as widespread air taxis) will require more engagement with the community, highlighting the positivity of
+this green mode of transport, so long as the electricity for charging is generated sustainably.
 
-"Teachers at all levels of education are challenged by the dilemmas presented by generative AI, with one of the
-biggest issues being academic honesty and authenticity," Vieira says.
+                                                                                                           Page 2 of 3
+                  THE FUTURE OF EUROPE'S AVIATION SECTOR: EMBRACING INNOVATION
 
-"Chatbots like ChatGPT, Meta AI or Microsoft Copilot are a great temptation for students, particularly when an
-essay can be produced with just a single click. We know that new technologies are not going away, so as teachers,
-we need to find ways to promote and assess authentic learning.
+The role of pilots is undergoing a dramatic trans- formation. In the early stages of the Advanced Air Mobility (AAM)
+industry, the public and regulators will want pilots onboard aircraft that carry people. But will pilots be pilots as we
+know them? Will they even be called pilots? What skills will they require? Given the levels of autonomy on these
+new generation aircraft should they be redefined as systems operators? Certainly, while the industry is new, we will
+have commercially qualified, possibly even instrument-rated pilots with eVTOL-type ratings flying these aircraft. But
+can the industry support this long term? There is a significant pilot shortage globally and the cost of the training and
+salary of an airline pilot will not be sustainable in the AAM industry. So, we need to redefine the role, the
+requirements, the training syllabus, the delivery of training, the licensing of these systems operators and the role of
+the human in the loop interaction. And when do we remove them from the aircraft and allow remotely piloted aircraft
+to carry passengers as a stepping stone towards fully autonomous passenger carrying flights?
 
-"Design Thinking* requires students to work through several phases of learning: empathy, definition, ideation,
-prototyping, testing and evaluation, with each step requiring a specific outcome, an opportunity for feedback, and
-importantly, a touchpoint for prompt feedback and formative assessment.
+The cargo industry, on the other hand, will be an early adopter of eVTOL as this sector is traditionally the least
+environmentally friendly in the industry with older, fuel-inefficient aircraft. The sector is likely to use fully
+autonomous flight before we carry passengers autonomously.
 
-                                                                                                            Page 2 of 3
-                    Switch Up Teaching and Assessment to Help Teachers Combat Chatbot-Cheating
+Collaborations between aviation authorities, OEMs, ATM/UTM providers, educational institutions and industry
+stakeholders are crucial in developing comprehensive training programmes. These initiatives should focus on
+virtual/augmented reality (VR/AR) and mixed reality, AI, machine learning and a combination of these not yet seen
+in the aviation industry.
 
-"Unlike traditional classroom settings where there is often a 'right' answer, Design Thinking addresses problems
-without predetermined solutions, challenging students to think more critically and creatively.
+While we embrace technology as an industry, we do not generally move forward quickly; however, the AAM
+industry will require regulators to keep pace with technological advances.
 
-"The beauty of Design Thinking is that it allows teachers to assess student progress at any point of the process,
-and at either individual or group level, which immediately presents a solution to integrity issues posed by generative
-AI."
+Aviation businesses must adopt agile and forward- thinking strategies to stay relevant. This involves investing in
+research and development, fostering a culture of innovation and adapting business models to incorporate new
+technologies and practices. A positive example of this is the work Avtrain carried out with ASL Airlines to achieve
+their EASA Light Unmanned Aircraft Systems Certification (LUC) in 2023. ASL Future Flight, as one of the largest
+movers of freight in Europe, will use the certification to "train and gain experience on drone operations before
+moving onto heavier and longer- range operations", according to the company. LUC is the equivalent of an Air
+Operator Certificate (AOC) for drones.
 
-Design Thinking can lead to a multitude of different creative outputs, including prototypes, mind maps, and
-presentations, and enables assessment both at individual level (through evidence of research or self-reflection
-pieces) and group levels (based on output produced).
+The seamless integration of new technologies into existing systems is a critical challenge. Collaborations between
+technology providers, aviation companies and regulatory bodies are essential to ensure that this integration is
+efficient, safe and compliant with existing regulations. Many ATM systems are based on archaic technology that
+might not support a fully automated environment.
 
-As the phases occur in an iterative loop, students can revisit and review their work, which encourages continuous
-improvement, and helps them learn how to provide and receive constructive peer feedback.
+SESAR 3 Joint Undertaking (SESAR-JU) is a European partnership between private and public sector partners that
+was set up to accelerate, through research and innovation, the delivery of the Digital European Sky. SESAR is
+harnessing, developing and accelerating the take-up of the most cutting-edge technological solutions to manage
+conventional aircraft, drones, air taxis and vehicles flying at higher altitudes.
 
-"During the Design Thinking process, students have the opportunity to navigate ambiguity, develop empathy,
-recognise failure as part of the learning process, and collaborate - all skills that are essential for the 21st century,"
-Vieira says.
+EALU-AER is a technology infrastructure integration and demonstration project. EALU-AER aims to establish
+Ireland's first Digital Sky Demonstrator (DSD), located at Future Mobility Campus, Ireland's (FMCI) recently
+established vertiport site, in Shannon, Ireland. The aims of the project are to:
 
-"This teaching method encourages students to take greater ownership of their learning, allowing teachers to shift
-their focus from delivering content, to observing and supporting their students in the classroom, being more
-attentive to their development and learning process.
+prove the feasibility, reliability and operational efficiency of transport services provided by various eVTOL aircraft for
+a variety of use cases and applications;
 
-"While Design Thinking may not be the only solution for the future of education, it is undoubtedly a successful
-strategy that can be readily adopted across K-12 education systems to address some of the most pressing
-challenges associated with AI and global digitalisation."
+foster and accelerate the development of autonomous software solutions for the control, monitoring, data
+gathering/orchestration and overall interaction and safety of eVTOL aircraft;
 
-To learn more about Design Thinking, teachers can access a free online course presented by Maria Vieira and
-offered through the Education Futures Academy.
+develop, deploy, and continually test/optimise the use of UAM, rural/remote air transport/ freight delivery, and UTM
+systems in support of eVTOL services;
 
-***
+                                                                                                         Page 3 of 3
+                    THE FUTURE OF EUROPE'S AVIATION SECTOR: EMBRACING INNOVATION
 
-Notes to editors:
+develop, deploy and refine operational systems in general eVTOL-based services across multiple use cases and
+political jurisdictions;
 
-*An example of Design Thinking for the problem: "How might we use satellite technologies to minimize the negative
-impact of bushfires in South Australia?"
+define possible Separation Standards for Aircraft and UAVs in controlled airspace through partnership with Air Nav
+Ireland.
 
-1. Empathise: Students watch videos and interview industry partners to better understand how existing technologies
-work and to put themselves in the shoes of someone experiencing a bushfire.
+This project will see the integration of a UTM technology platform as part of the FMCI operations site, which will
+leverage a UTM technology solution that encompasses a UAS platform (WebUAS), a backhaul network (AGN),
+command and control (C2) and surveillance equipment, and advanced three-dimensional phased array radar
+(Skyler). This technology solution will be integrated as part of FMCI's vertiport and associated facilities to
+demonstrate the proposed U-space architecture operations and enable U1/U2 services and integration with
+ATM/ATC. To demonstrate a range of UAM operations, across the range of U-space services projected through the
+SESAR U-space CONOPS, the project will execute a number of use cases across the three-year period of the
+programme that capture the operational requirements, vehicle dynamics and technology demonstrations associated
+with the projected near-term UAM services market, such as local inspection, light-freight, long distance logistics, air-
+taxi operations, etc.
 
-2. Define: They create a mind map with several keywords related to this problem and frame a second, specific
-question. For example, they might decide whether to focus on pre-disaster, during-disaster, or post-disaster, or
-even on a specific audience (such as elderly people, or farmers).
+The use cases are intended to operate in a compounding fashion to build upon prior phases and prior activities
+carried out in previous SESAR and external programmes. Outputs of these operations are intended to inform and
+validate the concept of operations, demonstrate and validate the U-space architecture and pave a way for
+enhanced automation and U3, U4 services such as detect and avoid and dynamic capacity management.
 
-3. Ideate: With their specific question in mind, they develop ideas using divergent and convergent thinking.
+"By embracing a culture of continuous learning, the aviation sector can soar to new heights of safety, efficiency and
+sustainability."
 
-4. Prototype: They build visual representation that best explain their solutions (sketches, models, etc).
+EALU-AER is intended to be an infrastructure platform that can be leveraged to support further developments
+through future SESAR programmes and work streams (see panel on page 25). The UTM technology solution being
+implemented in this project is intended to be modular and scalable and aligned with the proposed U-space
+architecture. EALU-AER will feature an integration effort that will see advanced UTM, C2 and surveillance
+technologies from Collins Aerospace (a leading aerospace systems integrator) being brought together as part of a
+consortium that will leverage Ireland's first vertiport (developed as part of a wider transport automation research and
+demonstration campus) at FMCI, with Avtrain as the regulatory expert for drones, risk management, operator
+certification, AAM and UTM; AirNav Ireland as the air navigation service provider (ANSP); Shannon Airport Group
+as the operator of an international airport; Deep Blue as a leading research consultant for safety, security and
+human performance; and Manna Drone representing the OEM and operator. While the project is for a three- year
+period, it is planned to build the ecosystem and infrastructure that will continue well into the future.
 
-5. Test: They build a narrative to their solution, presenting their ideas to peers and industry partners and receive
-feedback.
-
-6. Evaluate: They use critical thinking to analyse which feedback should be incorporated to improve their solutions
-and how.
-
-***
-
-Original text here: https://www.unisa.edu.au/media-centre/Releases/2024/switch-up-teaching-and-assessment-to-
-help-teachers--combat-chatbot-cheating/
-
-                                                                                             Page 3 of 3
-                Switch Up Teaching and Assessment to Help Teachers Combat Chatbot-Cheating
-
-Contact: Annabel Mansfield, +61 479 182 489, Annabel.Mansfield@unisa.edu.au; Maria Vieira, Researcher,
-Maria.Vieira@unisa.edu.au
-
-Copyright Targeted News Services
-
-T40-MgEditor-8707966 T40-MgEditor
+The future of Europe's aviation sector, shaped by autonomy, digitisation and sustainability, presents challenges and
+opportunities. To harness the full potential of these innovations, a concerted effort is needed to bridge the skills gap
+for pilots, regulators and ANSPs through projects such as EALU-AER DSD. By embracing a culture of continuous
+learning, fostering collaborations and adapting to new business and institutional models, the aviation sector can
+soar to new heights of safety, efficiency and sustainability. The journey ahead is complex but promising, paving the
+way for a brighter, more connected future in European skies.
 
 
-Load-Date: July 4, 2024
+Load-Date: March 18, 2024
 
 
   

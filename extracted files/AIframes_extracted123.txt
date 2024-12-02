@@ -1,126 +1,818 @@
 
 
-                                                                                                 Page 1 of 3
-        FalconStor Software Announces Second Quarter of 2024 Results Continued Hybrid Cloud ARR Run-Rate
-                                                    Growth
+                                                                                             Page 1 of 15
+       USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
 
 
 
 
-FalconStor Software Announces Second Quarter of 2024 Results; Continued
-                   Hybrid Cloud ARR Run-Rate Growth
-                                                     Business Wire
-                                       August 7, 2024 Wednesday 8:30 PM GMT
+   USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins
+                      University Bloomberg Center
+                                                     Targeted News Service
+                                         January 31, 2024 Wednesday 7:30 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 807 words
-Dateline: AUSTIN, Texas
+
+
+
+Length: 10181 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
-FalconStor Software, Inc. (OTCMarkets.com: FALC), a trusted data protection leader modernizing disaster
-recovery and backup for the hybrid cloud world, today announced financial results for its second quarter of 2024,
-which ended on June 30, 2024.
 
-"In Q2, we continued to effectively manage operating expenses and bolster our cash position, while we once again
-grew hybrid cloud ARR run-rate by over 100% compared to Q2 2023," said Todd Brooks, CEO of FalconStor. "Our
-growth is fueled by the expansion of FalconStor's data protection and migration technology across the IBM global
-ecosystem, spanning on-premises, cloud, and MSP segments of the IBM Power customer base. Additionally, Q2
-marked the go-to-market expansion of FalconStor technology into AI, as we completed certification of StorSafe and
-StorGuard integration with IBM Storage Ceph, IBM's on-premises AI data lake solution. We are excited by the
-continued strength of our partnership with IBM."
+The U.S. Agency for International Development issued the following remarks on Jan. 30, 2024, by Administrator
+Samantha Power at the Johns Hopkins University Bloomberg Center:
 
-Second Quarter 2024 Financial Results
-    •      Hybrid Cloud ARR Run-Rate: 112% increase year-over-year
-    •      Ending Cash: $2.5 million, compared to $1.3 million in the Second Quarter of fiscal year 2023
-    •      Total Revenue: $2.4 million, compared to $2.4 million in the Second Quarter of fiscal year 2023
-    •      Total Cost of Revenue: $0.4 million, compared to $0.4 million in the Second Quarter of fiscal year 2023
-    •      Total Operating Expenses: $2.0 million, compared to $2.2 million in the Second Quarter of fiscal year 2023
-    •      Non-GAAP EBITDA: $0.11 million, compared to $(0.05) million in the Second Quarter of fiscal year 2023
-    •      GAAP Net Income (Loss): $(0.03) million, $(0.46) million in the Second Quarter of fiscal year 2023
+***
 
-"Our focus remains on operating efficiency and alignment with the industry's adoption of hybrid cloud solutions. We
-are committed to further enhancing our financial performance as we pursue ongoing growth and innovation," said
-Vincent Sita, FalconStor CFO.
+ADMINISTRATOR SAMANTHA POWER: We miss you in government but your students and colleagues are
+incredibly lucky to have you here thinking about how to apply ideas to the toughest problems in the world.
 
-Non-GAAP Financial Measures
+I also want to acknowledge, though he's not here, Mike Bloomberg because he has been a trailblazer in advancing
+climate action around the world. This Center's mission to advance innovation for the public good is particularly
+urgent now, as the world is gripped, as Jim spoke to, by near-constant so-called climate shocks.
 
-                                                                                              Page 2 of 3
-     FalconStor Software Announces Second Quarter of 2024 Results Continued Hybrid Cloud ARR Run-Rate
-                                                 Growth
+We have been seeing that term - climate shocks - a lot in recent years. And in a way it's curious: because standing
+before you today, I don't think there's anything that I could say about the climate disasters that the world is facing
+that would come as any kind of shock.
 
-The non-GAAP financial measures used in this press release are not prepared in accordance with generally
-accepted accounting principles and may be different from non-GAAP financial measures used by other companies.
-The Company's management refers to these non-GAAP financial measures in making operating decisions because
-they provide meaningful supplemental information regarding the Company's operating performance. In addition,
-these non-GAAP financial measures facilitate management's internal comparisons to the Company's historical
-operating results and comparisons to competitors' operating results. We include these non-GAAP financial
-measures (which should be viewed as a supplement to, and not a substitute for, their comparable GAAP measures)
-in this press release because we believe they are useful to investors in allowing for greater transparency into the
-supplemental information used by management in its financial and operational decision-making. The non-GAAP
-financial measures exclude (i) depreciation, (ii) amortization, (iii) restructuring expenses, (iv) severance expenses,
-(v) board expenses, (vi) stock based compensation, (vii) non-operating expenses (income) including income taxes
-and interest & other expenses (income). For a reconciliation of our GAAP and non-GAAP financial results, please
-refer to our Reconciliation of Net Income (Loss) to Adjusted EBITDA presented in this release.
+Superlatives like "hottest" and "costliest" and "deadliest" no longer really elicit surprise. Many have become numb to
+the images of orange skies choked with wildfire smoke; cities turned into rivers; roads and doorknobs literally
+melting in the scorching heat.
 
-Please click this link to see the accompanying financial charts.
+Yet despite the fact that we know that these disasters will continue - despite the fact that we all expect them to get
+much worse - the world is still not investing in preparing our communities for these disasters at anywhere near the
+scale that we need. Even the more chronic, slow-moving disasters - like droughts that extend from months to years
+to decades, or coastlines that sink inch-by-inch into the sea - even those are catching us flat-footed somehow.
 
-About FalconStor Software
+                                                                                            Page 2 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
 
-FalconStor is the trusted data protection software leader modernizing disaster recovery and backup operations for
-the hybrid cloud world. The Company enables enterprise customers and managed service providers to secure,
-migrate, and protect their data while reducing data storage and long-term retention costs by up to 95%. More than
-1,000 organizations and managed service providers worldwide standardize on FalconStor as the foundation for
-their cloud first data protection future. Our products are offered through and supported by a worldwide network of
-leading managed service providers, system integrators, resellers, and original equipment manufacturers.
+Indeed, although these occurrences have lost the power to shock our psyches, they are in fact massively shocking
+our systems, destroying crops and infrastructure and livelihoods. We know what is coming; yet we are not
+adequately preparing ourselves.
 
-FalconStor and FalconStor Software are trademarks or registered trademarks of FalconStor Software, Inc., in the
-U.S. and other countries. All other company and product names contained herein may be trademarks of their
-respective holders.
+Now, it's important to note that over the last five years, we have seen rapid growth in global climate investment -
+total climate investments have more than doubled, in fact. But the vast majority of this growth came from supporting
+efforts to transition to renewable energy and to reduce emissions - a vital cause, not though, from investments in
+equipping countries and communities to avoid the most harmful impacts of hotter temperatures.
 
-Links to websites or pages controlled by parties other than FalconStor are provided for the reader's convenience
-and information only. FalconStor does not incorporate into this release the information found at those links nor does
-FalconStor represent or warrant that any information found at those links is complete or accurate. Use of
-information obtained by following these links is at the reader's own risk.
+We all know that we waited far too long to begin aggressively cutting fossil fuel emissions, and we all know that we
+still have a really long way to go. But our fight to reduce emissions showed us that however belatedly, progress can
+be accelerated - it can be accelerated by identifying priority needs, spurring innovation on affordable solutions, and
+dramatically scaling finance in the Global South.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240807254868/en/
+So that is a kind of playbook, a playbook again that was deployed too late, and where we still have a very long way
+to go in terms of implementation, but nonetheless the elements of what can instruct about how to handle the big
+challenge for building climate resilience. So today, I am here to discuss why there is such a gap between what is
+needed and what is being done to prepare countries and communities to withstand new climate perils. And then I
+want to outline how we can apply the lessons we learned too late in curbing emissions to jumpstart progress on
+building resilience.
+
+The urgent appeal that I hear the most when I talk with leaders around the world is: "Please help us protect
+ourselves against the weather, please help."
+
+And some of the most awkward conversations I have had have been with world leaders or community leaders,
+during climate-related emergencies who remind me of just how paltry a share of global emissions their countries
+produced. Who then thank me for the humanitarian relief that the American people are providing - which has been
+exceptional - and then who say, "we would really prefer not to need your aid. We'd prefer to equip our communities
+to manage what we know is going to keep happening."
+
+So if that is the message, the demand signal, if we have all this knowledge about what lies ahead, why is the world -
+why are all of us failing to adequately answer these appeals?
+
+And many of you, I'm sure, have your own way of answering that question. Early on, these efforts didn't get as
+much attention as the urgent quest to reduce emissions - particularly because that urgent request was not being
+pursued with that said urgency. Some saw the pursuit of the mobilization of resources around climate resilience as
+kind of giving up on saving the planet. I think it took a little bit of time to achieve broad recognition that one effort
+cannot come at the expense of the other. We also live in a world with zero sum of resources, in many instances.
+
+At the same time, here in the United States, what is commonly called "climate adaptation" is caught up in the
+broader societal and political divisions on resourcing the battle against climate change generally. And this, despite
+the fact, that there is actually broad bipartisan support for the elements of what we are talking about here today:
+giving farmers the tools to predict weather patterns, building watersheds to buffer against landslides and floods,
+giving technical advice to governments to build infrastructure differently so that it is not washed away during the
+next disaster, equipping communities to manage scarce resources together so as to reduce the risk of conflict. So
+those are just some of the elements. And again, we have broad bipartisan support for those elements.
+
+If we don't invest in these ways moreover, it is going to undermine all of our other investments which bipartisan
+majorities have rallied behind. Already, climate shocks have thrown millions into hunger and reversed progress in
+combating diseases from malaria to dengue fever to cholera. In Africa, climate disasters are already slowing
+economic growth between five and 15 percent a year.
+
+Even for those though who understand and are mobilized and want to act, in truth, this domain, the domain of
+building climate resilience, the scope and severity and geographical breadth of the need to build that resilience can
+just overwhelm, it can feel paralyzing. Because the amount of funding required to help developing countries build
+
+                                                                                            Page 3 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+resilience to the changing climate is 10-18 times higher than current investment flows, it is sometimes just hard to
+know even where to start.
+
+But as I mentioned earlier, one of the places we can start is by studying why governments, citizens, and businesses
+have come around - most of them, if belatedly - to transitioning to renewable energy sources. After all, for decades,
+that, too, seemed so large and so expensive a challenge that many thought it impossible. Should we invest in
+natural gas as a transition fuel, or focus on renewable energy sources like solar and wind? Was it smart to invest in
+biofuels, or to develop electric cars that don't need fuel at all? So many of those questions to which there were so
+many answers. And analysis at times lead to paralysis.
+
+But at a certain point, scientists, economists, and business leaders conducted research to show us where to
+concentrate our resources for maximum impact. In 2007, for instance, McKinsey released a groundbreaking cost
+curve that showed which solutions delivered the highest greenhouse gas reductions per dollar. They found that
+among the most immediate and affordable changes that we could make were to make cars more fuel efficient and
+for each of us and businesses, to replace inefficient light bulbs.
+
+When it comes to blunting the harms being inflicted by the world's changing climate now, the problem of identifying
+the highest priority solutions is even more complex, because they differ by place: adapting to increasing floods
+requires very different solutions than adapting to crippling heat waves, for example.
+
+So, nearly two decades ago, USAID teamed up with NASA to create a program called SERVIR, which helps
+countries understand the very particular risks that extreme weather variability poses for them. Today, SERVIR uses
+satellite imagery across 50 countries to deliver advanced projections and real-time data on everything from floods to
+forest fires to potential breeding grounds for crop-destroying locusts. And it offers tools to predict longer-term trends
+in things like crop yields and droughts.
+
+This kind of forecasting can guide immediate, lifesaving action. In Malawi, for instance, SERVIR worked with
+communities to integrate satellite data into their local flood early warning systems. Recently in January 2022, two
+cyclones, Ana and Gombe, hit Malawi. SERVIR had supported alert systems, those alert systems then sent texts
+and emails to residents in affected communities with more than two weeks of warning. People were able to
+evacuate and take their valuables with them. Malawi's Department of Disaster Management Affairs announced that
+early action prompted by these alerts prevented $40 million in monetary losses and, even more importantly, saved
+many, many lives.
+
+Today, I can announce that USAID is going to commit an additional $11 million, this year, to SERVIR. This data will
+not just help guide immediate lifesaving action, but it will forecast long-term needs to help countries prioritize
+solutions - an essential effort as countries now draft their National Adaptation Plans. USAID is supporting our
+partners in drafting and implementing these Plans - and factoring their resilience needs into all budget and policy
+work, from infrastructure planning to capital budgets.
+
+To inform these efforts, countries are improving their ability to anticipate not only the climate risks that they face, but
+also the knock-on-risks - the knock-on-effects of those climate risks that in previous years may not have been top of
+mind. I'll give you a great example. Take the horrific floods that left a third of Pakistan underwater in 2022. I visited
+the country, it was like nothing I'd ever seen. You fly out in a helicopter, you look down, you're sure you're over
+ocean, but you're in fact 300 miles from the coast. That is what flooding that covers a third of the country looks like.
+In the wake of the disaster, our local partners were already anticipating that the water was going to be a breeding
+ground for mosquitoes - which would of course then go on to spread malaria. They proved right: the year before the
+floods, total cases during the high season for malaria in Pakistan were around 193,000. The year after these floods,
+in the same time span, they climbed to 1.2 million - and that is the knock-on-effect of a climate-related emergency.
+
+But because health officials anticipated the spike in malaria cases when the floods began, the Global Fund was
+able to take quick action to procure and distribute insecticide-treated nets and to enable Pakistan to provide free
+malaria diagnostic and treatment through mobile health units. So now, USAID is supporting a pioneering malaria
+early warning tool, called EPIDEMIA, to track climate data to better predict malaria outbreaks. We are prototyping
+this system in Ethiopia and hoping to replicate it in other countries as well.
+
+                                                                                            Page 4 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+Ultimately, we need more investment in this kind of global data collection and analysis - the first step to build
+climate resilient communities and reduce the harms to property, infrastructure, livelihoods, and lives.
+
+Now once countries have drawn on data to identify their most important needs for themselves, policymakers have
+to work with the private sector to spur innovation on affordable solutions to meet those needs.
+
+At the beginning of the push to bring down emissions, many of the most impactful solutions were prohibitively
+expensive - or simply didn't exist yet, we all remember those days. So the U.S. invested in foundational research in
+technologies like battery storage and offered subsidies to companies to help overcome the risks of developing
+climate technologies. And in 2022, thanks to President Biden's leadership, Congress passed the Inflation Reduction
+Act, the largest climate legislation in history, which offered incentives to further drive down costs.
+
+And while we still, of course, have a long way to go, costs are coming down: in the last decade, the price of a
+residential solar system has been cut by over 80 percent. External analysts project that the Inflation Reduction Act
+is going to further drive down the cost of certain clean energy technologies by as much as 25 percent, helping
+speed deployment of these technologies, not just here in the United States, but all around the globe.
+
+Innovation to strengthen climate resilience however, is currently lagging. And we need to change that. Take
+drought-resilient agriculture. Drought is now touching more than a quarter of humanity - levels that are only
+projected to rise. These droughts wreak havoc on the world's smallholder farmers, scorching the crops and killing
+large swaths of the livestock they depend on. And because those smallholder farmers are crucial for feeding not
+just their communities, but entire continents, increasing levels of drought can have catastrophic implications for
+global food security.
+
+Through Feed the Future, our nation's landmark global hunger initiative, we have invested in foundational research
+with university partners to develop new drought-tolerant seeds and growing techniques. We have given grants to
+agriculture companies and to universities to develop seeds for staple crops like corn and rice that can better
+withstand drier climates. And through the Vision for Adapted Crops and Soils - so called VACS - we are extending
+that work alongside the State Department and African researchers to create more resilient versions of indigenous
+crops like cowpea and millet as well.
+
+But simply developing improved seeds is not enough - we need to help get those seeds in the hands of farmers
+who are facing a crisis on their fields. Last year, as much of the African continent was pummeled by drought and
+high food prices, we worked with the Gates Foundation and over 80 local seed companies to get these drought-
+tolerant seeds into the hands of seven million farm families, covering 20 million acres. Even in tough climate
+conditions, those seeds boosted crop yields by an average of 25 percent, helping cut food costs for around 44
+million people, while generating an additional $1.5 billion in continent-wide GDP.
+
+Drought resilient seeds are just the beginning. Ultimately, we know that many of the most important innovations
+come from the communities on the front lines of the climate crisis, who know their needs. Yet research from these
+locales is severely underfunded. Today, I am pleased to announce $5 million, an initial investment, to support the
+work of young researchers focused on local climate issues in Africa, the Pacific, Latin America and the Caribbean,
+administered through the University of Arizona.
+
+We already see a lot of exciting resilience innovation from companies around the world: Solar systems that create
+drinkable water from condensation in the air. Pavements that absorb water during floods. Heat resistant vaccines
+that don't need refrigeration.
+
+But developing new technologies like these is inherently risky, so it can be tough for innovators to find investors -
+particularly when their solutions are designed for low-resource environments. So donor governments have to play a
+role in offering catalytic grants that help companies prove their concepts and get past that earliest, riskiest stage of
+innovation.
+
+At USAID, we just gave a grant to a company called Floodbase, this a groundbreaking data company that is helping
+extend insurance to rural Africa, where insurance providers have had a hard time succeeding. Premiums and
+
+                                                                                            Page 5 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+potential payouts are relatively small and the cost of conducting physical inspections to set premiums and assess
+damage after a disaster - that can be prohibitive for companies.
+
+So Floodbase is collecting satellite data on water flows and working with a company called Africa Risk Capital
+Limited to offer insurance based on this real-time data, instead of those costlier physical inspections, to determine
+premiums and get farmers quick payouts after flood damage. With quick insurance payouts, farmers don't have to
+do things like selling vital livestock to make ends meet, which can be incredibly destructive to their long-term
+earning potential, instead those farmers quickly get access to the resources that they need to replant and rebuild.
+
+Floodbase is using this USAID grant to prove their concept in Mozambique and Malawi. The hope is that once they
+have proof of concept, they can draw in private investors to quickly scale across Africa.
+
+The more we can harness ideas and capital from around the world to help jumpstart innovations like these, the
+faster that we can build affordable solutions to keep climate disasters from shocking our systems.
+
+And finally, once we have identified priority needs, and spurred innovation and affordable solutions to meet those
+needs, we need to dramatically scale both public and private investment in the Global South so that people there
+are able to take advantage of these solutions.
+
+While total needs are difficult to quantify, some recent estimates suggest that developing nations need an estimated
+$215 billion a year to adapt to a changing climate. Even in good economic times, that would be a tough amount of
+money for governments to mobilize. After years of COVID and high inflation - and yes, climate disasters - 70 low-
+and middle-income countries are in, or approaching, debt distress right now, with ballooning payments that siphon
+off resources that they might otherwise be able to use to safeguard their communities.
+
+The multilateral development banks [MDBs] can play a critical role in helping to address these dual crises - debt
+and climate. So the Biden Administration has prioritized essential reforms at the MDBs that are now in train:
+already, as many of you know, the World Bank has unlocked $50 billion and the Asian Development Bank $100
+billion in new lending from their existing capital over the next decade. And at COP28, in large part thanks to U.S.
+leadership, ten banks committed to expand their lending capacity and further step up financing for adapting to the
+worst effects of climate change.
+
+With financing, too, there is plenty of room for innovation that can help meet the needs of countries facing dual
+crises from climate and debt. The World Bank and four other MDBs have recently announced an important effort to
+help countries pause debt payments in the wake of climate disasters - so that countries can invest in rebuilding,
+rather than servicing debt. But thus far, these pauses have only been for small island developing states. These
+banks should use their experience with this policy to consider expanding it to every country whose debt burden
+interferes with their ability to respond to climate disasters.
+
+And MDBs should build on the success of "debt for nature" swaps, where countries conserve essential ecosystems
+while also restructuring significant amounts of national debt. We have seen great results implementing these swaps
+through collaboration between USAID, Treasury, and State, and the Development Finance Corporation, which is
+becoming a major player in environmental protection, the drive to renewables, and adaptation. Going forward,
+banks can build on this progress with "debt for adaptation" swaps. Barbados is in the process of finalizing a first-of-
+its kind debt-for-adaptation swap with the European Investment Bank and Inter-American Development Bank that
+will relieve a portion of Barbados' debt in exchange for investments in water and sewage infrastructure that can
+make the island more resilient to the next storm.
+
+But for this financing to meet the most urgent needs, local leaders have to be able to access it - because they have
+the best sense of how to address those needs. And right now, this often requires navigating lengthy, convoluted
+processes that small countries and local organizations have neither the staff, nor the bandwidth, nor resources to
+be able to manage. So as part of the G20 convenings this year, the U.S. Treasury Department is going toco-chair
+an independent review of the four major international climate funds' processes and propose changes to streamline
+access to funding.
+
+                                                                                            Page 6 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+In the meantime, USAID is working in the field, directly with local leaders to build up their capacity to access this
+finance. In the Pacific Islands, USAID's so-called Climate Ready program offered resources and project
+management training to help island governments - often so understaffed - to shape successful finance proposals.
+This $24 million dollar program called Climate Ready, helped connect local leaders to over $500 million in financing
+for resilience. Today, I am pleased to announce that we are launching a similar program called Caribbean RESET
+to help local leaders develop viable project proposals and jump through bureaucratic hoops so as to obtain the
+funding that they need to protect their people.
+
+Even as we race to get countries and leaders more public capital to invest in climate resilience, which is what I've
+just been talking about, we know that there will be no way to meet the scale of need when it comes to climate
+resilience without drawing in substantial investment from the private sector - where the operating environments
+often present risks that keep foreign investment away.
+
+Now, again, let's remember, we faced a parallel challenge in our efforts to crowd in renewable energy investments.
+We have worked with our partner countries around the world to help them create the regulatory environments and
+incentive structures that reduce risks for private investors. And we have connected potential investors with sources
+of public funding, from USAID and others, that can take on some of the risks in investing in emerging economies.
+
+These efforts are helping drive vital progress: Over the past ten years, USAID programs have helped increase
+investment in clean energy generation by $330 billion in more than 45 countries. In the developing world last year -
+thanks to efforts by many organizations, governments, individuals - fully 80 percent of all new energy capacity
+added was from renewable sources. That's an extraordinary statistic.
+
+Now, we are using a similar approach to scale investments in building resilience.
+
+In a landmark report that BCG [Boston Consulting Group] released last month analyzing the state of business
+investment in resilience, they found that a pipeline of opportunities is emerging that can yield attractive, long-term
+returns for private investors. But, again, high risks still keep out many companies and investors. Today, just two
+percent of tracked private finance in the climate domain is going to investments in climate resilience.
+
+So we are supporting governments to design resilience projects with openness, transparency, and community buy-
+in - because doing so is both better for communities and, in the end, is going to be far less risky for investors.
+
+We are using our own set of innovative blended finance tools to take on some of the risks of investing in these
+emerging markets.
+
+In just a few days, a company unlike any other is going to launch on the London Stock Exchange: the Green
+Guarantee Company. This is the first ever privately-run company offering investment grade guarantees for climate
+investments in the least developed countries, launched with $10 million in seed funding from the United States, and
+additional contributions from partners from the United Kingdom, Nigeria, Norway, and the Green Climate Fund. This
+Green Guarantee Company invests money alongside private sector partners while committing to covering any
+losses.
+
+Because providing these investment grade guarantees vastly increases the number of investors that can support
+these projects, the Green Guarantee Company is projected to catalyze $1 billion in new investment to least
+developed countries for climate action.
+
+This is just one example of the kind of blended finance tool that USAID, the DFC, and our partner organizations can
+offer.
+
+Forward-looking companies are also increasingly investing in building climate resilience into their own supply
+chains. Just weeks ago at the World Economic Forum, the number one risk to business that CEOs identified was
+extreme weather. They found that companies have a great deal to gain by recognizing this risk as real before it is
+actually realized: for every dollar that companies invest in resilient operations and supply chains, they are saving a
+median of $5 in avoided revenue losses and costs.
+
+                                                                                            Page 7 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+So increasingly, companies are seeing the wisdom of investing in resilience, and working with us to become first
+movers. Last year at COP27, I announced the PREPARE Call to Action, a call to private sector leaders to invest in
+resilience. Ten companies joined the initial call with investments and in-kind services that have mobilized more than
+$600 million.
+
+AUDIENCE MEMBER: [off-mic] 27,000 people have been killed. You know what would cause a lot of climate shock
+- is a bombardment of Gaza, that is an article from The Guardian. If you want to do something about climate change
+and climate shock, speak out.
+
+ADMINISTRATOR POWER: Thank you.
+
+AUDIENCE MEMBER: 26,000 people, 26, many under rubble, many injured. Mainly maimed or having [inaudible]
+without anesthesia. This has got to stop. This has got to stop and it's only escalating.
+
+ADMINISTRATOR POWER: Let me just say - [cross talk]
+
+ADMINISTRATOR POWER: Thank you. What I would propose, when we sit down to do the questions, that I start
+by responding to your comments, particularly again, on the suffering that is occurring again in Gaza, and the work
+that we are trying to do to address that suffering at USAID. Thank you.
+
+This year at COP28, we were able to triple the size of that cohort in a single year. Today, Danone is investing in
+regenerative agriculture that helps dairy farmers in its supply chain keep their animals healthy and productive in
+changing weather. Visa is working with Oxfam to scale a project called B-ready, which will use early warning data
+from impending disasters to provide advance humanitarian assistance payments before a disaster so people have
+the resources they need to protect themselves and their assets. A tech company called Xylem is working with
+industrial manufacturers to adopt technologies that require less water. These are just a few examples of the actions
+that these thirty companies and organizations are taking - with combined new commitments of investments and in-
+kind services now amounting to more than $2.3 billion. So those, again, are some of the kinds of innovations in
+financing that we are going to need, but we are going to need public and private sector actors to step up together.
+
+Ultimately, for climate disasters to no longer shock our systems, we need people and organizations across our
+systems to prepare for them.
+
+More companies can join the PREPARE Call to Action - and become a part of the growing global movement for
+resilience. I, indeed, invite interested companies and investors to engage with us, and with our missions around the
+world to see how we can work together.
+
+Foundations can invest too: at COP last month, a group of nearly 20 foundations committed to increase their
+support for building resilience.
+
+International finance institutions must continue on their reform paths to become more responsive, more innovative,
+more accessible to the communities they were built to serve.
+
+Governments in the Global South can build climate resilience considerations into their entire budget and
+policymaking processes - while donor governments can do much more to provide information, innovation, and
+financing that makes it possible for them to take decisive action.
+
+And individual citizens, particularly young people like the students here today - you can be a part of the work to
+develop solutions. There is old wisdom out there about innovation that the hardest part is identifying the right
+problems to solve in the first place. Well, maybe the kind of perverse silver lining of beginning your careers in this
+time of monumental global need is that there are problems for the taking. You are not going to have trouble
+identifying problems to try to solve. And you, especially with the training you're getting here, just might find an
+important answer.
+
+As daunting as this era of climate disasters can feel, human history is full of examples of transforming shocks into
+manageable events.
+
+                                                                                            Page 8 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+During the Industrial Revolution, as humans moved en masse to cities, communities were plagued by frequent,
+large-scale, catastrophic urban fires. But we didn't just accept this as the new normal.
+
+Activists and policymakers created fire codes that mandated safe escape routes. Builders used fire retardant
+materials like concrete and stone, and scientists worked to create even more advanced materials to stop fires in
+their tracks. Urban planners installed fire hydrants on city corners. Communities agreed to fund fire stations that
+were ready to respond, so that a fire that started in a barn wouldn't envelop an entire metropolis.
+
+In the face of growing dangers, we didn't remain in a state of perpetual shock. We made cities safer. We kept each
+other healthy. We boosted the standard of living.
+
+In other words, we did what humans do best: we adapted. And today, we can and we must come together to adapt
+once again.
+
+Thank you.
+
+MS. PEGGY COLLINS: Good morning, everyone. I'm Peggy Collins, bureau chief for Bloomberg News here in
+Washington. And I'm delighted to have the opportunity to dig into some of the elements of that speech with you,
+Administrator Power. Thank you so much. We will leave some time for questions from the audience, but I think we
+should start, as you mentioned, with a question about Gaza.
+
+ADMINISTRATOR POWER: Yeah. I mean, let me, again, thank our guest for raising the issue she raised. USAID is
+one of the world's lead responders to the humanitarian crisis unfolding in Gaza. It is a devastating situation where
+not enough resources are getting in, via the Rafah crossing or the Kerem Shalom crossing. And we are working
+24/7 to try to dramatically expand the flow of food, medicine, shelter - I mean, so much is needed. But, you know,
+you have families right now that are living in unimaginable conditions.
+
+In addition, of course, the greatest loss of life has come from the war itself and from the bombing, and more than
+25,000 civilians have been killed. There is not a single call that President Biden makes, or engagement that
+anybody in the Biden administration does, that doesn't put the importance of civilian protection and international
+humanitarian law, at the top of the conversation.
+
+At the same time, of course, you also have families whose loved ones are still in Hamas' hands, the harrowing
+experience of not knowing whether a hostage, whether a loved one, is even still alive. We are working, as some of
+you have been reading in the press just in the last 24 hours, as we have been for many weeks, but really working
+aggressively now to try to secure a humanitarian pause that would allow a respite from the war - for people inside
+Gaza who have suffered so much, would allow hostage releases and would allow a dramatic increase in the scale
+of supplies to get inside Gaza.
+
+So again, civilian life, a human life is sacred. And, again, just as the horror that was inflicted on October 7
+galvanized outrage, so too it is - important it is that we mobilize everything we can in terms of diplomatic resources,
+in terms of humanitarian resources, excuse me, to reach the needs of families. 1.8 million people are estimated to
+have been displaced, all of us can imagine what it'd be like to be fleeing with our family and not know whether we're
+going to be able to provide for our kids. So I take it as a great responsibility at USAID, to do everything we can to
+meet the needs of civilians, even as, again, our diplomats work around the clock to secure the release of hostages
+and to try to, again, secure an extended humanitarian pause.
+
+MS. COLLINS: Administrator, as you were pointing out in your speech, and have traveled around the world to see
+the very human impact of climate change, you noted at the top that there has been some good news - that in the
+past five years total climate investments have actually doubled, though mostly around the efforts to reduce
+emissions or mitigation. What lessons, though, have you learned from those investments in that success that you
+can apply to trying to shift some of these investments and raise more capital around building resilience and
+adaptation, rather than just dealing with the damage?
+
+                                                                                            Page 9 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+ADMINISTRATOR POWER: Yeah, I mean, it's a great question. I mean, that's what I tried to do today is to sort of
+reflect, again, with no sense of self satisfaction or collective satisfaction about the effort against emissions, but still
+to say, what can we learn? And, you know, when you hear people say, particularly those who are first movers in the
+private sector in the realm of adaptation, you hear a little bit of a debate, which is, is private sector interest and
+investment in climate adaptation lagging 10 years behind the private sector's interests and investment in mitigation?
+Or is it five years behind? Or is it 15 years behind? But there's a recognition, kind of broadly, that the market is
+going to move in that direction in the way that it has for renewables.
+
+And you're seeing out of President Biden's nearly $400 billion investment through the Inflation Reduction Act, that
+the invisible hand is working at an even more accelerated pace to bring prices down and spur innovation than the
+economists had forecast before the Inflation Reduction Act was passed. And I think what BCGs recent report really
+tries to do is crunch the data, look at those companies who have been first movers in building resilience, show the
+profit that can be made. People are very uncomfortable, I've found, in the business world talking about making
+money off climate resilience. So often, if I were on a panel with CEOs who are investing who do see the business
+case for such investment, they talk more like a USAID Administrator, and I talk more like a CEO in the sense that
+they talk about their duty, and the sense of obligation. But it's very hard to get businesses to be out there talking
+about self interest.
+
+They're, again, like profit calculus when it comes to adaptation, I mean, understandably so. It's something that's a
+little, might sound a little off putting. So thankfully, BCG came along, and sort of did it for the companies that are
+active in this space. And, you know, they've shown that the valuation as well of these companies is way lower than
+the revenue that they're earning now, as an order of magnitude, lower than it is going to be just in a matter of two,
+three, five years. I mean, some companies, they project, and they get into this in the report, their revenues are
+going to increase by 44 times.
+
+And yet, again, there are broader questions, even if we weren't talking about climate adaptation, we sometimes
+struggle to excite countries about investment in emerging markets. There's a big debate about whether risk
+perception is out of step with the risk reality. The Green Guarantee Company, that I mentioned, because one of the
+lessons of the renewable quest is about derisking. Is fundamentally making it, trying to buffer those early
+investments before it's become commonly embraced and understood that you can make money and that the return
+is worth the risk. But the Green Guarantee Company leadership, they're very interested, they say, we think we we
+have enough of an empirical track record here, we've crunched the data, we believe that if we, in a sense, just
+provide this transitional guarantee where it's just enough to get a company, or an investor over the cusp, then they
+have the experience of actually investing in a community, seeing the ROI, the return on investment, then we believe
+that we can move on to another sector, or to another country, or to another market.
+
+And I think that is what has happened with renewables. Is it was heavily subsidized at the start, and now, yes, we
+have the Inflation Reduction Act that is continuing to accelerate that, but prices have come down, consumers are
+leaping at these technologies because they are so much cheaper than they were. And because now, actually, over
+time, they're so much cheaper than the dirtier energy sources. And so something like that really has to happen. The
+products need to become affordable for governments to be able to embed them, but the risk calculus for the
+investor has to be adjusted, and that's where the public sector has to come along, to be catalytic at this stage.
+Because you're just seeing a lot of companies who are seeing losses, imagining, knowing, that they need to do
+what they can to avert losses, because this is maybe a consumer base that they can tap, or maybe already tapping,
+is at risk.
+
+But adaptation, it's, again, the sense of an unproven proposition, so how do we lower the barriers to entry, get them
+involved, then the next BCG report, we'll have a much more extensive database of companies to crunch, and we'll
+start to see the kind of virtuous cycle that we eventually saw on investment in renewables.
+
+MS. COLLINS: So just staying on that idea of risk for another beat here, when you talked about the Global South in
+your speech, one of the things we've reported on at Bloomberg is that there had been some big climate deals
+announced just even in past year in places like Indonesia, but we've ultimately seen it hard to get the private
+investment dollars to really unlock. In part, because once investors get in there, they're realizing, sometimes, that
+
+                                                                                           Page 10 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+the scope of something like coal dependency is much larger than they expected. So on that idea of risk, you're just
+talking about the Green Guarantee Company, what else are you doing to help private investors really understand
+the scope of their risk?
+
+ADMINISTRATOR POWER: Well, I mean, far be it for me to tell the company what's in its interest. That is
+something that people are paid very well to calculate. But, I think, what we can do, as I indicated with a Green
+Guarantee example or some of these insurance schemes, again, where USAID or DFC might bear first loss is we
+try to create a kind of glide path to get them over the threshold. But the second thing we do is we actually listen to
+them. And they tell us, you know, one of the reasons that we don't want to make an investment here is it - I'm not
+talking about any particular country or community here - but it's corruption. You know, another reason it's
+impossible, actually, to do investment because the paperwork burdens and the sludge around working with the
+Ministry of - equivalent to the Ministry of Commerce, or finance, or trade or, you know, or trading investment,
+whoever the interlocutor is - it's just too bureaucratic, we don't know who to call. So maybe we provide an entree, or
+maybe we have a tiny little program that's $100,000 worth of embedding a couple advisors, to make it - to just
+basically look at what the legislative or regulatory changes need to be to actually change that cost benefit for a
+potential investor.
+
+So, that's where, maybe just stepping back, especially for young people here who might want to get into public
+service, USAID has missions in 80 [82] countries, programs in 100 countries, we have a staff of about 13,000, the
+majority of whom work overseas. Our superpower, in many ways, is what are called our Foreign Service Nationals.
+So three quarters of our staff overseas are nationals of the countries in which we work. So in Uganda, it's
+Ugandans, if we're in Lebanon, it's Lebanese. And they are professionals, engineers, and economists, and doctors,
+and former health ministry officials. And they know everybody, and they speak the languages, and they're out there.
+And so, when, let's say an American company, or even a local company comes to us and says, "we hear you, we
+know the need is there, we would like to avert losses, at the very least, indeed, when we see a competitor that's
+been disruptive in some other market or some other country and we're kind of intrigued, but man, like, they're just
+making it so hard, then we tap that well of expertise among our Foreign Service Nationals, and try to problem solve
+working side by side with the company.
+
+And I want to be clear, because I had a section in my remarks about public sector investment in the climate
+resilience, which needs to increase as part of that, rendering public money more accessible to lower income
+countries and to local organizations. The Green Climate Fund has been really, really hard for local actors and for
+small island states to access because it's just a very complex, competitive set of processes people have to go to.
+But I then shifted, and you and I've talked, already, a lot about the private sector, but I am a public official, a
+government official, by no means are we trying to sort of fob this off on the private sector and say, let the market
+work, like the market won't work on its own, it's not working right now for adaptation. Or we wouldn't have this
+statistic that only two percent of climate financing is going to adaptation, that number would be higher. And so the
+market is not working. So the question is, what can we do to address what amounts to a market failure on behalf of
+not only humanity, but actually business and the global economy.
+
+I mean, if you look at the, again, the losses that the failure to adapt for supply chains, for communities, for
+livelihoods, I mean, it's a chronicle foretold. So that's where we have to just be, I think, more creative. And there's
+so many people I'm learning from, to try myself to think about how USAID can view itself more as much as a
+hustler, and a catalyzer, and, yes, a grant giver, for sure, using the precious resources that the taxpayer gives us,
+but always taking on that responsibility to try to turn a public dollar into much more. And that's what the PREPARE
+initiative, which I was talking about, and really expanding the number of private sector partners who are part of a
+coalition to drive private sector investment, but who are also coming to us and saying, this is what is standing in the
+way. And then we take advantage of all of our programming, in economic resilience, in agriculture, in anti
+corruption, etc. To try to expand the number of countries who see that cost benefit differently.
+
+MS. COLLINS: You also mentioned that there are so many superlatives that are used in this space, hottest being
+one of them. And my colleague, Zahra Hirji, who's here today from Bloomberg, has written a lot about how last year
+we saw around the world record heat. Can you talk a little bit more about what the Agency is doing this year to try
+and deal with that challenge?
+
+                                                                                           Page 11 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+ADMINISTRATOR POWER: Thank you for asking. I mean, I should thank the climate and environmental reporters
+who must just feel like canaries in the coal mine, who for years have been doing the reporting on the warnings, and
+then lo and behold, we are living with the consequences. And I think, and I'm digressing a little bit, but I think as a
+former reporter I would just say the reporters are doing a really good job marrying facts and data and statistics,
+which are hard for readers to consume alone, but marrying them with the human stories, and just what the human -
+[Audio Break]
+
+MS. COLLINS: And we're back.
+
+ADMINISTRATOR POWER: Oh, we were talking about heat.
+
+MS. COLLINS: And again, there is no fire.
+
+ADMINISTRATOR POWER: Yes, no fire. Where there's heat here, there's not fire. So I think that heat, the
+developmental effects of heat are only beginning to be broadly understood. I was complimenting the press was
+what I was doing at that moment. So just to say that again, marrying the human story and the statistics are very
+important. The statistics on heat, I mean, they're really, really jarring. I mean, in addition to heat requiring more air
+conditioning for those who live in developed economies, and have the luxury of that, and that then causing more
+emissions, and keeping us in this doom loop, there are projections that older people around the world, the over
+sixty-fives, that the rate of heat related deaths could quadruple by the middle of the century, which is not that far
+away, quadruple over sixty-five.
+
+And, so I think, this is an area that we are beginning to explore. DHS, our domestic kind of counterpart in thinking
+about resilience and adaptation, convened a heat summit last year - USAID is going to do the same to really get
+into sort of what some of the best practices are. I met on Friday with a Filipino former paint entrepreneur whose
+passion project is going around the world painting roofs white, which cools what happens in houses and reflects sun
+back in a way that's very useful from a greenhouse gas capture standpoint.
+
+The mayor of Freetown has now nicknamed Freetown, Sierra Leone - has named her town Freetown treetown. And
+has mobilized entire communities to plant 1 million trees, which has brought down temperatures in downtown
+Freetown, materially, and given people shade, of course, but also employed young people who are keeping track of
+the trees and their growth. And so, again, solutions are being piloted and pioneered, everywhere. I think we could
+do a better job harnessing those solutions. But again, the effects on health, agriculture, pretty much every sector
+that USAID and other development partners had before the pandemic lodged a lot of success in, we were moving
+toward, not fast enough, but meeting the Sustainable Development Goals. Heat is a game changer in many of
+those, and so we have to treat it as such.
+
+But it brings us back to the resource question. It's one thing to come up with a solution and to pioneer it and to know
+what works in blunting the impact, but then how do we scale it? And that's, again, where more public sector
+resources, more accessible public sector resources, and enlisting the private sector in believing that there's a
+business case for these investments is so key.
+
+MS. COLLINS: I want to ask you one last question about the future, and then open it up to some audience
+questions. Looking ahead to this year, we have a presidential election in this country. From your perspective, what's
+at stake in this election when it comes to the issue of climate change?
+
+ADMINISTRATOR POWER: Thank you, well, I am not somebody who's going to comment on the election per se,
+but I will say that we are, in multiple ways, racing against multiple clocks. And, we see this - our imaginations don't
+really have to stretch very much in thinking about the kinds of places USAID works, or many of you may be from, or
+like to work in, or care about, because they're ticking clocks in our own country. I mean, whether it's shutting down
+schools, because of smoke from Canada wildfires, or from California, or the devastation in Hawaii, so recently, or
+just there's a lot of concern about debt and deficit up on Capitol Hill, one hears a lot about it. The amount of money
+having to be invested domestically in emergency response, it's just growing and growing and growing. And, the
+number of climate emergencies that we are experiencing just goes - it's just exponentially increasing rather than
+increasing on a steep trajectory.
+
+                                                                                           Page 12 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+So, that is a ticking clock, the domestic investments in resilience, and in lowering emissions. And then globally,
+again, the countries where USAID works, so many communities are living on the edge. And climate change and its
+effects are hitting the most vulnerable communities in the U.S., and internationally, hitting them the hardest. And so,
+when it comes to avoiding, we're already, all the harms that we've been talking about are here. And, because of the
+temperature rise that has already occurred, we know that those harms are accelerating. And the question is, how
+much more are they going to accelerate? How much worse is it going to get?
+
+And so, this, just - Davos, World Economic Forum, felt like COP frankly. I was there trying to hustle up private
+sector investments, some of these causes. And, every room you went into, or panel you saw, had some nexus with
+this. The biggest game changing element, alongside technology and AI, that citizens, governments, and businesses
+can talk about, but how much worse are we going to let it get, that is going to turn on the aggressiveness with which
+we lower emissions and contain the temperature rise.
+
+And so everything we're talking about here, all my statistics, which are so paralyzing, and so chilling, and
+harrowing, and all of the harms, and vulnerabilities, and pain, it's a question of how much more of that can we
+stand. And it's really, really important in democracy to vote your preferences. And it's really important in democracy
+to look ahead and think about the important - what matters to you, and what mobilizes you. Young people really
+care about climate change, and now that we see, again, the effects of heat, I don't think there's broad knowledge of
+the effects of heat, but I do think it is affecting older communities more. And the data, again, is gradually being
+unearthed to show that.
+
+So it's hard to think, again, about a community or a sector in this country that is not being affected. But this remains
+a polarizing issue, so I think it's very important, as we talk about this issue, to break it into its digestible
+components. Talk about how much more affordable a solar panel is over time, how much more affordable a car that
+is powered on renewable energy is - to talk in terms of bread and butter issues. And then for young people to really
+make the case that there is something we can do, because I think the biggest challenge with young people in terms
+of political engagement, but also in terms of civic engagement, is just feeling despair. And, believing that there's -
+that it's too big a problem. There's nothing they can do and so turning their sights down or elsewhere. And so, it's
+our job to show that there are pathways that we can make a difference, we can contain the temperature rise, and
+that we can do something about the effects that are already upon us.
+
+MS. COLLINS: So we'll try to get a couple of questions in from the audience in each go, so one from this side and
+one from that side.
+
+QUESTION: Hi, Administrator Power. My name is Hannah, I am a student here at SAIS as well as a contract
+specialist at USAID. My question is that the U.S. funded genocide in Gaza has really left us unable to be moral
+leaders on climate change, and all the other pressing development and humanitarian issues those of us who work
+at USAID care so much about. How are you leading us to reckon with and overcome this hypocrisy in U.S. foreign
+policy? Thank you.
+
+ADMINISTRATOR POWER: Thank you. Well, I think we have to go back to a core challenge in what is happening
+in Gaza, which is, I've already spoken, again, to the humanitarian consequences, and our mobilization to try to
+reduce those consequences, the need to get a humanitarian pause where people will not be at risk of getting killed
+from bombing, will be able to access basic resources and dignity. That's incredibly important. The core challenge is
+that the people who carried out - an additional challenge, but the root cause, fundamentally, of the war that is
+causing such humanitarian pain, is that the people who carried out October 7 would do it again, in a heartbeat if
+they could.
+
+And, at that fundamental fact, makes it impossible for us to look at the situation and say that it can't happen again.
+When Hamas leadership is at large, those same kinds of attacks, the same kind of hostage taking, the same kind of
+sexual assault, that can happen again. And so, we have had within USAID, a lot of discussion, and I very much
+hear and completely respect the views across the Agency. Again, there's a lot of concern as well about the fate of
+the hostages, huge concern about the fate of Palestinian civilians, this is a devastating war. And the sooner it can
+
+                                                                                           Page 13 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+come to an end, the better. At the same time, again, it is very important that what happened on October 7 never
+happen again. And so that is the core challenge.
+
+In terms of what we are doing in other parts of the world, for the same reason that we are doing everything in our
+power to address humanitarian needs inside Gaza, we should be doing everything in our power to be addressing
+humanitarian needs in Sudan. To be doing everything in our power to support the cause of democracy, given the
+march of authoritarians. Doing everything in our power to help countries prepare for climate emergencies.
+
+We have, as public servants, the privilege of being stewards of vast resources to try to make a difference in
+people's lives. And, I absolutely understand, again, the perspectives of people who wish the United States were
+doing something differently on Gaza, or on Sudan, but we have jobs to do, and these jobs are a great privilege. And
+I can say that as somebody who had the chance to serve in government for eight years, advocates fiercely within
+government, for human dignity, and will continue to do so.
+
+But, maybe the only thing that is harder about being in government, wrestling with these incredibly tough
+challenges, wrestling with humility about positions to take or not take, the only thing harder, I found, in my life, is not
+having the opportunity to be in those debates. And to be on the sidelines watching things that one would wish to
+see happen differently. And, so again, I consider it an ongoing privilege that we get to continue to work, including in
+Gaza, to try to ameliorate the suffering there.
+
+MS. COLLINS: I think we have time for one more question from this side.
+
+AUDIENCE QUESTION: Hello, my name is Brianna Stinsman, I'm 2022 Payne Fellow here at SAIS. My question is
+related to how USAID, the U.S. government in general, is merging artificial intelligence and emerging technology
+in the area of disaster risk reduction - particularly in small developing island countries, and how we can bring this
+cross-sector approach to save lives. Thank you.
+
+ADMINISTRATOR POWER: Thank you, we're counting on you to become a Foreign Service Officer, come to
+USAID and delve into that question. Because, again, across the U.S. government, we are having exactly this kind of
+debate, but I don't think anybody would say that we are yet optimizing the employ of these new tools for
+development benefits. I think we are seeing, already, first movers and the risks of these tools in terms of surveilling
+people and crunching data to assess whether they are enemies of the state, and they really, already, very swift
+adoption, in terms of repressive functions. And again, I'd imagine that those trends are going to accelerate in places
+that are undemocratic or interested in employing those tools in those ways.
+
+I got a taste, I think, of the potential. Quite recently I was in the Maldives, and my gosh, I've never been to the
+Maldives before, but just suc
+
+a sprawling archipelago, and so much vulnerability. And USAID and the Green Climate Fund together have made
+investments harnessing, basically, large data pools. I can't say, again, we're fully tapping the potential of AI, but I
+think it's a taste of it, such that what you now have our predictive models that don't just tell you this amount of
+rainfall on this island with this amount of notice, but actually, and now are turned into text alerts, tell you the road
+next to this school is going to have three inches of rain for approximately four and a half days. Starting at 3 p.m.
+cars will be able to drive, you know, again, a day sooner the donkeys will be able to... I mean, this incredible
+tailoring of geospatial - the canvassing of geospatial data, qualitative surveys and data crunched, and then overlaid
+with some of the kinds of data I was alluding to in the speech.
+
+It's almost like the old expression news, you can use, much more tailored for a citizen's ability to change their day
+and their life. Do they move to another side of the island? This amount of time you'll be displaced, but you'll be able
+to come back at this amount of - I mean, it's a life saving flag. But these islands are so small, that you have to know
+actually where to go because if it's risky in this part you're just, most of us just, citizens kind of seeing a storm
+coming but again, taking advantage of digital penetration, and sort of the, the machine learning, and the crunching
+of these huge data sets. I think that's maybe a taste of where we can go.
+
+                                                                                           Page 14 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
+
+We are not resourced as USAID, or as the U.S. government, to be aggressive funders in this space yet, nor are we
+sufficiently resourced on climate, which places a premium, again, on being catalytic. We would have to be even
+more catalytic in this space because it is a really, really paltry - important because we're getting some proof of
+concept. But compared to, we know, like I mentioned earlier, the two biggest game changers: climate change and
+technology and artificial intelligence. And we need to close the gap. The State Department created a new bureau
+on cybersecurity and technology that's going to be a very important partner also in diplomacy, in making sure
+countries do the regulatory things that they need to do, we'll be pushing that as well.
+
+But in terms of funding partners, to integrate AI across every sector that USAID is working in, we have a major
+doctor and health worker shortage in places, but there's a way to use them. I mean, Atul Gawande is our global
+health lead, as you may know, and he's out there pounding the pavement to try to understand how AI. Even as we
+work on trying to train healthcare workers, and mobilize resources, and make sure there isn't a brain drain of
+doctors and health workers from the Global South, or from some subset of countries in the Global South, these
+technological tools can enable people to get the diagnosis they need without maybe even seeing a physician, the
+first instance. Again, it's not first best right now. But then, maybe it's worth then the transportation cost of going to
+the big city, because you know you can get the treatment you need, where there's more health professionals.
+
+The last thing I'd say, because another thing I want to encourage young people to be a part of is - we need to shift
+power and decision-making to local communities and to local organizations. It goes without saying, large
+development agencies are massively weighted toward funding large international organizations, or U.S. based
+contracting partners organizations - they're terrific partners - but for the gains to be sustainable, we're trying to shift
+resources toward local organizations. There are many barriers to entry, I was critical of the barriers to entry for the
+Green Climate Fund, the same could be said for USAID. It's very hard to work with us, the compliance
+requirements, so we can avoid fraud, waste, and abuse or onerous. It's one thing if you're a huge contracting
+partner, you have the accountants, the lawyers, but if you're a plucky NGO in Fiji trying to do climate work, like
+that's going to be really hard.
+
+So, we're doing a number of things, now's not the time to get into all of that, I've spoken about that a lot. But, to
+lower the barriers to entry, AI can be incredibly helpful for a local organization, at least in doing a chat GPT first
+version, potentially, of an application that they then tailor, maybe they do it in their local language. I mean, think
+about indigenous communities, how can they apply? We're now finally translating our request for proposals into
+many local languages, but we may not have that indigenous language - maybe machine learning comes along and
+allows an indigenous community to compete in a way that they never would have had a chance to. That would have
+just been one extra layer too many in both directions, because we wouldn't have had the capacity to read it, they
+wouldn't have capacity to tailor the proposal around.
+
+So you know, again, that that's just a small example. But when you think about local empowerment and local
+agency, it's easy to dwell, and it needs - that the costs and the harms, and the risks need to be top of mind. We
+cannot lose sight of them. And that's some resourcing about really problem spotting and embedding safeguards into
+the use of these technologies. But at the same time, we're only scratching the surface in terms of the imagination,
+and how this can help us not only in so many sectors, but in pursuit of so many reform priorities to make
+development agencies, like USAID, more fit for purpose in this much faster moving world.
+
+MS. COLLINS: Well, Administrator Power, thank you so much for your time and for sharing your insights today. And
+thanks for all of you for coming.
+
+***
+
+Original text here: https://www.usaid.gov/news-information/speeches/jan-30-2024-administrator-samantha-power-
+end-climate-shocks
+
+Copyright Targeted News Services
+
+MSTRUCK-8467894 MSTRUCK
+
+                                                                                           Page 15 of 15
+      USAID Deputy Administrator Coleman Issues Remarks at Johns Hopkins University Bloomberg Center
 
 
-CONTACT: CONTACT INFORMATION
-For more information, contact:
-Vincent Sita
-Chief Financial Officer
-FalconStor Software Inc.
-
-investorrelations@falconstor.com CONTACT US AROUND THE GLOBE
-
-Corporate Headquarters
-111 Congress Avenue
-Suite 500
-Austin, Texas 78701
-Tel: +1.631.777.5188
-
-salesinfo@falconstor.com
-
-                                                                                             Page 3 of 3
-    FalconStor Software Announces Second Quarter of 2024 Results Continued Hybrid Cloud ARR Run-Rate
-                                                Growth
-
-Europe Headquarters
-GERMANY
-Landsberger Straße 302
-80687 München, Germany
-
-salesemea@falconstor.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 7, 2024
+Load-Date: January 31, 2024
 
 
   

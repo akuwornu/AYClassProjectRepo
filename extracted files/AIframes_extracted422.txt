@@ -1,108 +1,117 @@
 
 
-                                                                                                       Page 1 of 2
-                                              Putting Cyber Powers on the Table
+                                                                                               Page 1 of 3
+       AI-Media Memperkenalkan Lexi Tool Kit yang Ditingkatkan di NAB 2024 Pemimpin Dunia dalam Solusi
+                   Pemberian Teks yang Didukung AI Memperkenalkan Produk Terbaru LE....
 
 
 
 
-                                    Putting Cyber Powers on the Table
-                                                     Targeted News Service
-                                             June 17, 2024 Monday 9:30 AM EST
+    AI-Media Memperkenalkan Lexi Tool Kit yang Ditingkatkan di NAB 2024;
+       Pemimpin Dunia dalam Solusi Pemberian Teks yang Didukung AI
+    Memperkenalkan Produk Terbaru LEXI DR (Disaster Recovery) dan LEXI
+                                Recorded
+                                           GlobeNewswireGlobeNewswire Indonesian
+                                               April 9, 2024 Tuesday 11:24 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved All Rights Reserved
 
 
 
 
-Length: 760 words
-Byline: Targeted News Service
-Dateline: BEDFORD PARK, Australia
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 917 words
 
 Body
 
 
-(TNSres) -- Flinders University issued the following news:
+NEW YORK, April 10, 2024 (GLOBE NEWSWIRE) -- AI-Media, pemimpin global dalam solusi teknologi
+pemberian teks yang didukung AI, akan meluncurkan dua produk barunya di ajang bergengsi NAB Show 2024,
+yang dijadwalkan digelar mulai tanggal 14-17 April di Las Vegas AS. AI-Media yang terkenal akan inovasi
+canggihnya yang melayani industri penyiaran menghadirkan penawaran terbaru berupa LEXI DR (Disaster
+Recovery) dan LEXI Recorded yang digadang-gadang akan merevolusionerkan pasar pemberian teks.
 
-Strong network cybersecurity has never been more important, with the potential for 'deep-fake signals' and other
-technologies to interfere with aviation and transport systems and cause inconvenience, even danger to citizens who
-rely on critical infrastructure including water and power supplies.
+Selain menghadirkan banyak pembaruan pada produk seperti LEXI serta IP kami dan rangkaian enkoder untuk
+SDI, AI-Media kini sangat bersemangat untuk menampilkan produk terbarunya LEXI DR, solusi penuh terobosan
+yang memastikan pemberian teks tanpa gangguan sekalipun dihadapkan dengan gangguan cloud dan konektivitas.
+Dengan LEXI DR, lembaga penyiaran bisa merasa lebih tenang karena teks mereka akan tetap tayang dengan
+gangguan minimal, berkat integrasi alur kerja teks yang lancar, server redundan lokal, dan opsi penyiapan yang
+fleksibel melalui mesin virtual atau perangkat keras. Solusi ini menawarkan waktu beroperasi teks yang mencapai
+99,99%, skalabilitas dengan hingga 10 instance yang tersedia per unit LEXI DR., serta keyakinan bahwa data tetap
+aman berkat penerapan enkripsi dan tindakan keamanan yang tangguh. LEXI DR menggambarkan komitmen AI-
+Media untuk menyediakan solusi pemberian teks yang andal, tangguh, dan aman untuk industri penyiaran.
 
-To build the next generation of specialist IT professionals, Flinders University experts in Network and Cybersecurity
-Systems have set up 'real world' testbeds including a 'Smart City' to show how AI, remote internet and Cloud
-systems may be used by hostile players to exploit weaknesses in vital transport and power supplies.
+AI-Media juga akan memperkenalkan LEXI Recorded, yang dirancang untuk menyederhanakan proses pemberian
+teks untuk konten rekaman. Solusi ini menawarkan kecepatan waktu penyelesaian dan efisiensi biaya yang lebih
+baik dari sebelumnya sehingga sempurna untuk klik berita, sorotan, dan promo yang berbatas waktu. LEXI
+Recorded memiliki beberapa fitur unggulan seperti pemrosesan massal, akurasi di atas 98%, tipe output file yang
 
-"With all of these emerging technologies, we need to be able to find weaknesses in our industrial, network and
-infrastructure systems to anticipate how they might be hacked," says Flinders University Associate Professor
-Alireza Jolfaei, an expert in cyber-physical systems security.
+                                                                                              Page 2 of 3
+      AI-Media Memperkenalkan Lexi Tool Kit yang Ditingkatkan di NAB 2024 Pemimpin Dunia dalam Solusi
+                  Pemberian Teks yang Didukung AI Memperkenalkan Produk Terbaru LE....
 
-"We always need to find new methods for security-aware modelling, analysis and design of safety-critical cyber-
-physical systems in the presence of many kinds of cyber-adversaries, including ageing infrastructure systems and
-software vulnerabilities."
+fleksibel, opsi multibahasa, serta dapat diintegrasikan ke alur kerja teks sehingga file dapat diberikan teks tanpa
+perlu keluar dari sistem manajemen media. Dengan LEXI Recorded, lembaga penyiaran dapat memastikan proses
+pemberian teks yang cepat dan hemat biaya pada konten rekaman mereka dengan presisi dan kemudahan yang
+tidak tertandingi.
 
-Professor Sam Drake, a co-director of the Centre for Defence Electromagnetic Research and Training at Flinders,
-adds that deep-fake signals from remote locations can interfere with GPS, aviation and shipping communications.
+"Di AI-Media, kami berdedikasi untuk mendorong batasan inovasi guna memenuhi kebutuhan pelanggan kami yang
+terus bertambah," ujar James Ward, selaku Chief Sales Officer di AI-Media. "Kami senang sekali akan
+memperkenalkan LEXI Recorded dan LEXI DR di NAB Show 2024, dengan menunjukkan upaya gigih kami untuk
+mengejar keunggulan dalam teknologi pemberian teks. LEXI DR menggambarkan komponen utama dalam
+mencapai otomatisasi pemberian teks yang menyeluruh. LEXI DR melengkapi otomatisasi pada proses pemberian
+teks. Sebelumnya, intervensi oleh tenaga manusia berfungsi sebagai cadangan, tetapi LEXI DR merevolusionerkan
+hal ini dengan meniadakan kebutuhan akan pengawasan manual.”
 
-"As technologies become ever-more sophisticated, we need to constantly monitor the potential for interference in
-critical systems to find possible weaknesses and mitigate risk," says Professor Drake.
+Selain peluncuran, AI-Media akan menampilkan "Innovation Station" di stan NAB, di mana peserta dapat
+mengeksplorasi teknologi baru dan menarik yang merupakan bagian dari peta jalan produk perusahaan. Pratinjau
+ini akan menampilkan kemajuan dalam AI generatif dan aplikasinya dalam membuat model topik, yang juga disebut
+sebagai kamus kustom. Model topik ini meningkatkan akurasi dengan menawarkan saran kata dan pengucapan
+yang relevan secara kontekstual berdasarkan tema, topik, dan bidang tertentu. Selain itu, pratinjau akan
+menampilkan inovasi seperti subtitel atau sulih suara pembicaraan, serta deskripsi audio yang otomatis. AI-Media
+dapat memanfaatkan pengalaman siaran selama beberapa dekade untuk memastikan solusi pemberian teks dapat
+dioperasikan di berbagai alur kerja, standar video, dan wilayah. Sebagai inovator terdepan dalam industri
+pemberian teks, AI-Media: tetap berkomitmen untuk mendorong kemajuan dan membentuk masa depan dari media
+yang mudah diakses di seluruh dunia.
 
-"As well as experience in technologies such as cloud, Internet of Things, AI and blockchain, the testbeds aim to
-give hands-on training in security analysis, threat detection and mitigation strategies for addressing hardware and
-software misconfigurations and how they relates to everyday systems."
+Untuk informasi selengkapnya tentang AI-Media dan solusi pemberian teksnya yang penuh terobosan, kunjungi:
 
-                                                                                                        Page 2 of 2
-                                          Putting Cyber Powers on the Table
+AI-Media: AI-Media.tv
 
-Senior Lecturer Dr Saeed Ur Rehman, an expert in wireless communication security, emphasises the dual nature of
-convenience and risk inherent in the pervasive integration of wireless devices.
+LEXI DR (Disaster Recovery): https://hubs.ly/Q02rWtMD0
 
-"The ubiquitous integration of low-cost wireless devices facilitates our lives, but on the other hand, it poses a
-significant security threat. For instance, a low-cost wireless device such as a wireless security camera connected to
-home WiFi can serve as a gateway for hackers, compromising the privacy of home network and potentially
-triggering cascading attacks."
+LEXI Recorded: https://hubs.ly/Q02rWtLS0
 
-Flinders Associate Professor Elena Snitnikova says the new Urban Table testbed gives a practical insights into the
-complex real-life potential for big breakdowns in critical infrastructure systems, including hostile cyber-attacks, and
-training in preparing for incidence response, disaster recovery and "business continuity management and
-governance".
+Tentang AI-Media:
 
-The testbed model includes software and hardware systems linking a large metropolitan hospital, electrical
-substation and backup power generation and traffic intersections.
+AI-Media yang didirikan di Australia pada tahun 2003 merupakan perusahaan teknologi pelopor dalam solusi alur
+kerja pemberian teks yang inovatif. Sebagai pemimpin global, AI-Media: menyediakan teknologi dan solusi
+pemberian teks langsung dan rekaman serta terjemahan berkualitas tinggi yang didukung AI untuk beragam
+pelanggan dan pasar di seluruh dunia. Untuk pertama kalinya pada bulan Februari 2024, AI-Media mampu
+menampilkan data penuh terobosan yang menunjukkan kelebihan produk pemberian teksnya yang didukung AI,
+LEXI, daripada alur kerja tradisional dengan bantuan manusia. Pencapaian ini lebih lanjut memantapkan posisi AI-
+Media: sebagai pemimpin teknologi AI terkemuka dalam solusi alur kerja pemberian teks langsung dan rekaman.
+Dengan komitmen untuk memanfaatkan pengalaman kami yang mendalam dalam industri ini dan teknologi canggih
+AI untuk menciptakan solusi yang menyederhanakan dan mempermudah proses, AI-Media mendukung lembaga
+penyiaran, perusahaan, dan badan pemerintah terkemuka di seluruh dunia untuk memastikan aksesibilitas dan
+inklusivitas yang lancar dalam konten mereka. Ai-Media (ASX: AIM) memulai perdagangan di ASX pada tanggal 15
+September 2020.
 
-Dr Fabiana Santana, Flinders University Pro Vice-Chancellor (Research Enterprise and Infrastructure), opened a
-special event at Flinders University's Tonsley campus this month.
+Foto          yang        menyertai      pengumuman           ini       dapat       diakses                      di
+https://www.globenewswire.com/NewsRoom/AttachmentNg/0fde5af3-8765-4882-abaa-03746dcde8af
 
-The 'Australia-Korea Protection of Critical Infrastructure and Systems of National Significance' project aims to
-collaborate and encourage the most pressing cybersecurity problems facing emerging critical technologies.
-
-"Protecting our critical infrastructure is key to securing our way of life," says Dr Santana.
-
-"The innovative tech testbeds at Tonsley will strengthen Flinders' research in cybersecurity, AI, connectivity, and
-cloud, helping our teams contribute to the security and resilience of critical infrastructure nationwide."
-
-She says Flinders and other research tackling 'real-world' problems will encourage bilateral relationships and
-facilitate joint ventures in the Indo-Pacific region.
-
-Another workshop is planned for Seoul, Korea later this year to further investigate emerging critical cybersecurity
-technologies including artificial intelligence, next-gen telecom systems and the Internet of Things. Industry
-partners at this month's Tonsley event included Fortinet and Cybenus, as well as representatives from Incheon
-National University, Korea and DefenceSA.
-
-Acknowledgements: The project is supported by an Australian Government Department of Foreign Affairs and
-Trade Australia-Korea Foundation grant.
-
-***
-
-Original text here: https://news.flinders.edu.au/blog/2024/06/17/putting-cyber-powers-on-the-table/
-
-Copyright Targeted News Services
-
-MSTRUCK-8679538 MSTRUCK
-
-
-Load-Date: June 17, 2024
+Kontak Media: Fiona Habben – Fiona.habben@ai-media.tv
 
 
-  
+
+Load-Date: April 9, 2024
+
+                                                                                            Page 3 of 3
+    AI-Media Memperkenalkan Lexi Tool Kit yang Ditingkatkan di NAB 2024 Pemimpin Dunia dalam Solusi
+                Pemberian Teks yang Didukung AI Memperkenalkan Produk Terbaru LE....
+
+
+
+

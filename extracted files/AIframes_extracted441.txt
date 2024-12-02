@@ -1,110 +1,139 @@
 
 
-                                                                                Page 1 of 2
-        ADVANCING DIGITAL TRANSFORMATION IN SALVADOR, BRAZIL 'S PUBLIC HEALTH SECTOR
+                                                                            Page 1 of 3
+  OPENING STATEMENT OF COMMISSIONER KRISTIN N. JOHNSON: THE STATE OF ACCESS TO CREDIT
+            AND THE BENEFITS AND CHALLENGES OF AI AND AUTOMATION IN FARMING
 
 
 
 
-ADVANCING DIGITAL TRANSFORMATION IN SALVADOR, BRAZIL'S PUBLIC
-                       HEALTH SECTOR
-                                                States News Service
-                                              June 13, 2024 Thursday
+  OPENING STATEMENT OF COMMISSIONER KRISTIN N. JOHNSON: THE
+STATE OF ACCESS TO CREDIT AND THE BENEFITS AND CHALLENGES OF
+                AI AND AUTOMATION IN FARMING
+                                               States News Service
+                                              April 11, 2024 Thursday
 
 
 
 Copyright 2024 States News Service
 
-Length: 892 words
+Length: 1178 words
 Byline: States News Service
 Dateline: WASHINGTON
 
 Body
 
 
-The following information was released by the World Bank:
+The following information was released by the Commodities Futures Trading Commission:
 
-At 9:30 a.m. on a bustling Friday morning at the Imbu Basic Health Unit in Salvador, family physician Suzane Arajo
-is with Clayton Arapiraca, a 62-year-old retiree in for a routine post-surgery check-up. Instead of sifting through
-physical files, Dr. Arajo simply logs into the Vida+ system on her computer. This digital tool, a key component of the
-municipality's public health digital overhaul, allows her to review Clayton's medical history, medications,
-vaccinations, and more, and to update his records on the spot.
+Good morning. I am very pleased to join everyone for this Agricultural Advisory Committee (AAC) meeting. I thank
+Chair Behnam and Swati Shah, Designated Federal Officer for the AAC, as well as Scott Herndon, President, Field
+to Market: The Alliance for Sustainable Agriculture, for their efforts to organize today's meeting. I look forward to
+hearing and learning about liquidity, interest margin, access to credit through farm lending, interest rate risk, and
+land values in farming communities as well as options growth in the farming community.
 
-"Back when I worked in rural areas, I dealt with countless aged, yellowing paper files. Going digital has simplified
-everything," Dr. Arajo remarks. Digital storage also offers the added benefit of safeguarding information, particularly
-in disaster scenarios.
+Two of the issues that may impact small and medium-sized farming enterprises are part of today's agenda. I am
+looking forward to hearing from Ty Kreitman of the Federal Reserve Bank of Kansas City, Joe Koenigsman of the
+FDIC, and Scott Donnelly of the Farm Credit Administration who will examine access to farm lending. I also look
+forward to hearing from Derek Samman of CME regarding options growth in agricultural markets.
 
-The Vida+ system's development and deployment stand out as significant achievements of the Salvador Social
-Project, an initiative led by the mayor's office of Bahia's capital with the World Bank's support. Over five years, the
-project has spurred the local government's long-held aspirations in healthcare, education, and social welfare.
+Both topics seek to enable farmers and ranchers and other end users to have the resources that they need to
+manage and mitigate risks particularly during periods of sustained pricing volatility. These market challenges are
+sometimes exacerbated by frequent severe weather conditions and exogenous factors such as geopolitical events.
 
-Healthcare professionals across 175 locations, including basic health units, dental specialty centers (CEO),
-specialized care services (SAES), and polyclinics, now utilize the Vida+ systemsurpassing the original target of 126
-sites. The next step is to integrate the system into the Psychosocial Care Centers (CAPS) and Emergency Care
-Units (UPAs).
+For example, in previous Ag Advisory Committee meetings and in my meetings with milling companies in Michigan
+and ranchers in Texas, we have discussed the challenges presented by too much or too little rain. Drought presents
+a global challenge for irrigation but also creates greater costs for logistical operations such as shipping and
+distribution. At an Ag Advisory Committee meeting last year, a representative from the Army Corps of Engineers
+described the impact of low water levels on the Mississippi River. Today, we are witnessing similar low water levels
+in the Panama Canal. Alongside these issues, markets have navigated the price volatility of energy inputs and grain
+outputs in connection with Russia's invasion of Ukraine. Conflicts in the Middle East further reduce shipping lanes,
+and just a little over a week ago, a barge that lost power collided with the Francis Scott Key Bridge, creating
+additional pressures on shipping logistics.
 
-"Once Vida+ is up and running in the CAPS and UPAs, we'll be able to track a patient's entire therapeutic journey
-within our network," explains Alcione Anuncia o, the strategic project unit coordinator for Salvador's Municipal
-Health Secretariat (SMS).
+                                                                            Page 2 of 3
+  OPENING STATEMENT OF COMMISSIONER KRISTIN N. JOHNSON: THE STATE OF ACCESS TO CREDIT
+            AND THE BENEFITS AND CHALLENGES OF AI AND AUTOMATION IN FARMING
 
-The platform also plays a crucial role in prenatal care, linked to the mayor's office's Madre Salvador program. It
-ensures that vulnerable women have access to essential services, including transportation cards for expectant
-mothers and birth support.
+As we explore the issues in the agenda today, I am thoughtful about solutions that may aid farmers and ranchers in
+increasing yields and thus profits with the same amount of inputs or achieve an equivalent yield with fewer inputs.
+One such example is precision agriculture, a transformative approach that integrates technology and data analytics
+to optimize farming practices and enhance agricultural productivity.[1] It represents a pivotal advancement in
+enhancing farming efficiency, sustainability, and resilience.[2] Precision agriculture uses a wide range of
+technologies, from remote sensing platforms to in-ground sensors, to gather data about soil conditions, weather
+patterns, crop health, and other relevant factors.[3]
 
-                                                                               Page 2 of 2
-       ADVANCING DIGITAL TRANSFORMATION IN SALVADOR, BRAZIL 'S PUBLIC HEALTH SECTOR
+Precision agriculture empowers farmers to make data-driven decisions that optimize resource allocation and
+enhance crop yields. Moreover, it may increase the efficiency of chemical and fertilizer use, helping farmers to
+avoid excess application and improve the environmental sustainability.[4]
 
-Setting up such a comprehensive service demanded meticulous coordination among SMS's data and IT
-professionals, along with significant infrastructure investments. Not all health units were initially equipped for high-
-speed internet, which is essential for the Vida+ system's data input and transmission. The project also required the
-procurement of printers and other hardware, with the Salvador Social project providing substantial support.
+Federal agencies have expressed support for precision agriculture's adoption and development. In particular, the
+U.S. Department of Agriculture has provided financial assistance and loans and has established partnerships with
+the National Science Foundation to support such practices, including through the development of artificial
+intelligence research institutes.[5]
 
-Privacy is paramount when handling sensitive health information. "We take it very seriously," states Rosa
-Fernandes, the chief advisor to the SMS's Planning Advisory.
+Amidst the backdrop of dynamic technological advancements, we must navigate these changes thoughtfully and
+proactively. While precision agriculture may provide substantial benefits, there are challenges related to the use of
+precision agriculture, such as high up-front acquisition costs, lack of uniform standards, and concerns regarding
+farm data sharing.[6]
 
-Information Mapping for Decision-Making
+I recently had the privilege of traveling to Zambia and South Africa, where I delivered keynote remarks at an event
+on emerging technologies hosted by the South African Reserve Bank. Zambia is currently facing a severe drought
+that has devastated the agricultural sector.[7] This crisis poses a significant threat to national food security as well
+as water and energy supply.[8] Technological advances like precision agriculture may mitigate similar challenges in
+the futurebut only if they are accessible and affordable.
 
-As thousands of patients receive care across various health centers, a diverse team of professionals operates
-within the newly established Situation Room at the Municipal Health Secretariat. Launched in December 2022, this
-hybrid physical and digital workspace gathers sanitarians, epidemiologists, statisticians, system analysts, and
-administrative personnel to analyze healthcare data, aiding policymakers in swift decision-making. They employ a
-business intelligence dashboard that visualizes data through charts and maps.
+As the proliferation of precision agriculture technologies generates vast amounts of agricultural data, it is also
+important to ensure that farmers maintain control over their data and to safeguard against unauthorized access to
+or misuse of data. Large agriculture machine companies aggregate significant quantities of data in order to improve
+the accuracy of predictions.[9] In the face of such advances, we cannot lose sight of concerns around data
+privacyfor example, concerns of farm owners that their data could be sold to competitors or commodity traders.[10]
+Data privacy is a critical issue that I have devoted significant attention to. As I have previously noted in discussing
+the Commission's efforts to understand the uses of artificial intelligence, we must safeguard data privacy by
+ensuring that data "is stored securely and used only for its intended purpose."[11]
 
-Rosa reflects on the realization of this long-held vision, made possible by the Salvador Social project's phases 1
-and 2: "The project funded the necessary equipment and software to set up the room."
+As we explore the potential of precision agriculture to revolutionize farming practices, we must remain mindful of its
+broader implications for food security, environmental sustainability, and global economic development. I look
+forward to our discussions and the insights that will emerge as we delve into this critical topic at the intersection of
+agriculture and innovation.
 
-She recalls the pivotal role of the COVID-19 Emergency Operations Center (COE) pilot project, which harnessed
-data from Vida+, as a precursor to the Situation Room.
+Thank you.
 
-Previously, healthcare data were scattered across uncoordinated spreadsheets. "We used to spend 80% of our
-time generating information and only 20% on decision-making. Now, that ratio has flipped," says Jessidenes Leal,
-known as Jessi, the SMS's strategic projects manager. Beyond technology and skilled professionals, standardizing
-data collection and analysis was crucial, achieved by collaborating with health surveillance, primary care, and
-regulatory departments.
+[1] Precision Agric. Connectivity Task Force, Task Force for Reviewing the Connectivity and Technology Needs of
+Precision Agriculture in the United States 18 (Nov. 6, 2023), https://www.fcc.gov/sites/default/files/2023-Report-
+FCC-Precision-Ag-Task-Force.pdf.
 
-The SMS team, utilizing business intelligence tools, uncovered that 85-95% of Salvador's complex medical cases
-originated from the surrounding rural areas. This insight led the municipality to renegotiate service costs and
-payments with other Bahian municipalities.
+[2] Id.
 
-Looking Ahead: Ambitions and Challenges
+[3] U.S. Gov't Accountability Off., GAO-24-105962. Precision Agriculture: Benefits and Challenges for Technology
+Adoption and Use (2024).
 
-With the Situation Room in full swing, the SMS team is setting its sights on integrating artificial intelligence to
-enhance predictive capabilities. "It's an ambitious goal, but it's the direction the world is heading. We aim to set the
-standard," Rosa declares.
+[4] Id.
 
-To achieve this, training health managers to effectively utilize data for planning and action is essential. A data
-science course for SMS's strategic leadership, funded by the Salvador Social project, marked the first step,
-teaching professionals to collaboratively develop situation room indicators through hands-on case studies.
+                                                                            Page 3 of 3
+  OPENING STATEMENT OF COMMISSIONER KRISTIN N. JOHNSON: THE STATE OF ACCESS TO CREDIT
+            AND THE BENEFITS AND CHALLENGES OF AI AND AUTOMATION IN FARMING
 
-Another focus is designing integrated care strategies for mental health and geriatric services, considering the
-impacts of the COVID-19 pandemic and an aging population.
+[5] U.S. Gov't Accountability Off., GAO-24-105962. Precision Agriculture: Benefits and Challenges for Technology
+Adoption and Use (2024).
 
-Regardless of the obstacles, Salvador's healthcare professionals are now equipped with state-of-the-art technology,
-a transformation that will influence both managerial decisions and the everyday interactions between doctors and
-patients like Dr. Arajo and Clayton.
+[6] Id.
+
+[7] See United Nations, Press Release, United Nations Responds to Zambia's Drought Disaster and Emergency,
+(Mar, 4, 2024), United Nations Responds to Zambia's Drought Disaster and Emergency (unicef.org).
+
+[8] See id.
+
+[9] Linda Wu, From Farm to Cloud: Precision Agriculture, Kleinman Ctr. for Energy Policy (June 9, 2022),
+https://kleinmanenergy.upenn.edu/news-insights/from-farm-to-cloud-precision-agriculture/.
+
+[10] Id.
+
+[11] Commissioner Kristin Johnson, Statement on the CFTC RFC on AI: Building a Regulatory Framework for AI in
+Financial Markets (Jan. 25, 2024), https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement012524.
 
 
-Load-Date: June 14, 2024
+Load-Date: April 12, 2024
 
 
   

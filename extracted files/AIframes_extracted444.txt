@@ -1,96 +1,604 @@
 
 
-                                                                                               Page 1 of 2
-    Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's BVLOS Connectivity Solution to
-                         Achieve Precise Data Collection in its Oil & Gas Pipeline....
+                                                                                                Page 1 of 11
+      House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                                Testimony by Robert Califf, FDA Commissioner
 
 
 
 
- Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's
- BVLOS Connectivity Solution to Achieve Precise Data Collection in its Oil &
-              Gas Pipeline Inspections over Difficult Terrain
-                                                           PR Newswire
-                                            June 13, 2024 Thursday 3:41 AM EST
+  House Oversight and Accountability Committee Hearing; "Oversight of the
+     Food and Drug Administration."; Testimony by Robert Califf, FDA
+                             Commissioner
+                                           Congressional Documents and Publications
+                                                             April 11, 2024
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 1023 words
-Dateline: OR YEHUDA, Israel, June 13, 2024
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 7187 words
 
 Body
 
 
-PR NewswireOR YEHUDA, Israel, June 13, 2024 /PRNewswire/ -- Leading manufacturer of unmanned aerial
-vehicles Event 38 and AviSight, a provider of critical infrastructure inspections, announced the use of Elsight's
-(ASX: ELS) Halo, an AI-based UAV connectivity solution, to enable beyond the visual-line-of-sight (BVLOS)
-inspections with precise data collection in extensive oil & gas pipeline inspections over difficult terrain.At the heart of
-this collaboration is Elsight's Halo, a lightweight, highly reliable communications system. Halo's AI-based software
-aggregates multiple IP links to a secure bond using public and private cellular, satellite, and RF technologies
-ensuring uninterrupted drone communications even in the most challenging environments. Whether it's disaster
-response, surveillance, deliveries or lengthy remote inspections, UAV (uncrewed aerial vehicle) flights powered by
-the Elsight Halo complete the mission with continuous transmission of high-bandwidth video and data to the
-command-and-control center (C2).When facing the operational and economic challenges of data collection from
-major pipelines, AviSight's CEO, Suzanne Herring, was quite rigorous in her selection of the optimal VTOL drone
-and the BVLOS connectivity solution for these missions and required connectivity with the highest bandwidth,
-lowest latency, highest redundancy, and of course, the most reliable link."AviSight's reputation is dependent on our
-ability to provide accurate, timely and consistently critical infrastructure inspections through the use of unmanned
-ariel systems in a cost-effective manner.
+Introduction
 
-In a technology market that is rapidly developing, it is essential to remain innovative in our systems methodology
-while also embodying the challenges of an efficient execution of the mission. With C2 linkage being a primary
-priority for our BVLOS missions, it was essential to find a partner with the capabilities to maintain communications
-throughout our volatile terrains. Elsight has provided us with the ability to maintain C2 through vast wetlands,
-mountainous regions, and remote areas. While Event 38's E455 has given us the ability to fly extensive linear
-inspections efficiently and more cost effectively," said CEO of AviSight, Suzanne Herring."We sought the right
-combination to maintain command and control over more than 2,000 miles of pipeline inspections in a variety of
-terrains. Event 38 and Elsight enabled us to overcome terrain and distance challenges and provide precise data to
-our customers ensuring their regulatory compliance," added Herring.Event 38 Unmanned Systems latest VTOL, the
-E455 is a premier fixed wing, vertical takeoff and landing (VTOL) drone. At 55lbs, the E455 offers a 2.5-hour flight
-endurance on battery power alone. The E455 is designed to carry a diverse range of payloads, including mapping
+Chair Comer, Ranking Member Raskin, and members of the Committee, thank you for the opportunity to testify
+before you to discuss the Food and Drug Administration's (FDA or the Agency) policies and priorities.
 
-                                                                                              Page 2 of 2
-   Event 38 Unmanned Systems Teams Up with AviSight in Selecting Elsight's BVLOS Connectivity Solution to
-                        Achieve Precise Data Collection in its Oil & Gas Pipeline....
+In the United States, the safety of medical, food, and cosmetic products depends on the actions of both FDA and
+industry. Industry bears the responsibility of creating a supply of medical, food, and cosmetic products that are safe
+and protect and promote public health. FDA guides and oversees industry to help ensure that Americans can have
+confidence about the medical, food, and cosmetic products they are using and that they are duly warned about the
+risks of tobacco products.
 
-sensors, LiDAR, and EO/IR surveillance sensors, meeting the strict demands of various applications such as
-lengthy pipeline inspections."The high bandwidth and low power usage of the Elsight Halo paired with the E455
-open endless possibilities of inspections over long distances and rugged terrain that were not possible previously,"
-said Jeff Taylor, CEO of Event 38 Unmanned Systems. "Our E455 VTOL was able to get closer to the pipelines
-with the help of Elsight.""Working with Event 38 and AviSight has been very fulfilling from both technological and
-business perspectives. Our Halo was designed for mission-critical goals, particularly, in difficult situations," said
-Yoav Amitai, CEO of Elsight. "Elsight optimizes the use of drones in many industries with reliable BVLOS
-connectivity for operational effectiveness. At the same time, we enable industry growth by using only one operator
-to control a drone fleet from remote locations anywhere. This is how we see our Halo as a market catalyst for
-drones in pipelines, and inspections in many industries, in which removing the human element delivers better and
-safer results."About AviSightAviSight provides industrial inspections of critical infrastructure and advanced data
-solutions for regulatory compliance, asset management, and predictive maintenance. We work with fortune one
-hundred partners in all verticals of critical infrastructure including Power, Gas, Oil, Telecom, and Transportation.
-Our mission is to create a generational paradigm shift in data collection and actionability that increases safety
-exponentially while achieving significant cost savings for our clients. We have been working with our partners and
-customers on legislative activity and regulatory expansion to ensure the ability to create BVLOS programs that will
-help take inspections into the 21st century.www.avisight.comAbout Event 38 Unmanned SystemsEstablished in
-2011 and with customers all over the world, Event 38 Unmanned Systems is a leading provider of Unmanned
-Aircraft Systems (UAS). Our customers use their drones in diverse fields including Security, Surveying, and
-Environmental Conservation. Our hybrid fixed wing VTOL aircraft offer an extended endurance capability for
-covering dozens of miles or hundreds of acres. With a variety of payload options and customizable solutions
-available, our aircraft collect thermal, multispectral and high-resolution imagery and with centimeter-level
-geotagging accuracy.www.event38.comAbout ElsightElsight (ASX: ELS) Elsight delivers Connection Confidence
-with proprietary bonding connectivity that incorporates both software and hardware elements to deliver reliable,
-secure, high bandwidth communications - even in the most challenging areas for stationary, portable, or actively
-mobile situational requirements. Elsight provides robust, secured connectivity to unmanned aerial and ground
-systems manufacturers, operators, and integrators globally.www.elsight.comContact:
-Susan Becker
-Marketing Director
-Elsight
- View original content:https://www.prnewswire.com/news-releases/event-38-unmanned-systems-teams-up-with-
-avisight-in-selecting-elsights-bvlos-connectivity-solution-to-achieve-precise-data-collection-in-its-oil--gas-pipeline-
-inspections-over-difficult-terrain-302171791.htmlSOURCE Elsight Ltd
+FDA's workforce is dedicated to helping Americans face extraordinary challenges and navigate extraordinary
+opportunities. We are responsible for protecting the public health by ensuring the safety, efficacy, and security of
+human and veterinary drugs, biological products, and medical devices; and by ensuring the safety of our nation's
+food supply, cosmetics, and products that emit radiation. FDA also has responsibility for regulating the
+manufacturing, marketing, and distribution of tobacco products to protect the public health by reducing death and
+disability caused by use of tobacco products, especially in young people. In addition, the Agency is charged with
+advancing the public health by helping to expedite innovations that make medical products more effective, safer,
+and more affordable and by helping the public get the accurate, science-based information they need to use
+medical products and foods to maintain and improve their health. FDA also plays a significant role in the nation's
+counterterrorism capability by ensuring the security of the food supply and by fostering development of medical
+products to respond to deliberate and naturally emerging public health threats.
+
+In the last four years, we have experienced a once-in-a-lifetime global pandemic that resulted in the death of over
+one million Americans; disrupted our way of life by impacting peoples' mental and physical health and quality of life;
+led to a decline in trust in public health institutions; and exposed vulnerabilities in global supply chains, especially
+for medical and food products. We also saw the value and importance of vaccines, therapeutics, and diagnostics for
+COVID-19, and the role these products played in saving lives. We have extraordinary opportunities as well, with
+
+                                                                                               Page 2 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+technological advancements such as mRNA vaccines, artificial intelligence (AI), and gene-editing and other gene
+therapy technology, potentially enabling treatment for thousands of rare diseases that have been unapproachable
+until now.
+
+We have all witnessed the effect of rapidly advancing technology has had on the 21st Century. FDA is adapting to
+this evolving world by embracing both the challenges and opportunities we face. We are leveraging flexibilities in
+our regulatory pathways to enable breakthroughs in medical science that can be translated into medical products
+that improve health outcomes. We are reshaping our regulatory processes and creating a nimble workforce that
+adapts to new technologies, medical products, biomedical science, food science, and public health.
+
+Globalization: Lessons Learned from the COVID-19 Pandemic
+
+As we reflect on the devastating losses and lasting impacts the COVID-19 pandemic has had in the United States
+and worldwide, we are using the lessons learned to be thoughtful about preparing for future public health
+emergencies and to inform our everyday best practices.
+
+Supply Chain Vulnerabilities
+
+Every industry FDA regulates is at risk from global supply chain issues, and these risks have resulted in real world
+consequences. During the COVID-19 pandemic, supply chain vulnerabilities, including a lack of resiliency and
+redundancy, impacted the availability of multiple drug products, medical devices, and infant formula.
+
+Employing its current authorities and resources, the Agency established new and more comprehensive programs to
+help address these supply chain vulnerabilities, including:
+
+* Monitoring the availability of pharmaceuticals and medical devices by integrating data from a wide variety of
+mandatory and voluntary reporting sources such as commercially available data sets, product manufacturers,
+component suppliers, and active ingredient manufacturers;
+
+* Forecasting supply chain vulnerabilities and risks by integrating data sets for analysis using artificial intelligence,
+including natural language processing and machine learning, thereby enabling preemptive intervention to prevent
+hundreds of threatened shortages;
+
+* Preventing or mitigating shortages for pharmaceuticals and medical devices with strategies such as shelf-life
+extensions, expedited review of manufacturing supplements and generic drug applications, exercising temporary
+enforcement discretion for new sources of medically necessary drugs, and requesting that manufacturers establish
+risk management plans to mitigate the potential for shortages;
+
+* Initiating a new inspection planning system that will be more efficient, transparent, and adaptable to changing
+needs, including by returning to a pre-pandemic inspection cadence in which high-impact inspections are prioritized;
+
+* Building a workflow management system for inspections that will provide a single source of data and real-time
+access to information to support the best regulatory decisions; and
+
+* Developing new approaches to assess facilities using novel advanced techniques, such as remote regulatory
+assessments and remote interactive evaluations.
+
+We are also working to further pharmaceutical manufacturing innovation and quality to facilitate domestic advanced
+manufacturing, which is a collective term for new medical product manufacturing technologies that can improve
+drug quality, address shortages of medicines, and speed time-to-market. Adoption of advanced manufacturing
+technologies could also result in fewer interruptions in production. For example, since 2014, the Center for Drug
+Evaluation and Research's (CDER) Emerging Technology Program has held over 160 meetings with sponsors to
+discuss, identify, and resolve potential technical and regulatory issues regarding the development and
+implementation of novel technology. Additionally, CDER's work on advanced manufacturing has facilitated the
+approval of 21 applications that use advanced manufacturing for a variety of purposes, including continuous
+
+                                                                                               Page 3 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+manufacturing of finished dosage forms, a dialysis solution, an active pharmaceutical ingredient, a biological
+product; 3-D printing technology; advanced process analytical technologies for monitoring and control of a drug
+substance bioprocess; and a novel glass container closure system for a parenteral drug product. substance
+bioprocess; and a novel glass container closure system for a parenteral drug product. substance bioprocess; and a
+novel glass container closure system for a parenteral drug product. substance bioprocess; and a novel glass
+container closure system for a parenteral drug product. substance bioprocess; and a novel glass container closure
+system for a parenteral drug product. substance bioprocess; and a novel glass container closure system for a
+parenteral drug product. substance bioprocess; and a novel glass container closure system for a parenteral drug
+product.
+
+Similarly, we are working to improve manufacturers' quality management systems to support a more reliable drug
+supply chain. CDER is developing a quality management maturity (QMM) program that will encourage drug
+manufacturers to implement quality management practices that go beyond current good manufacturing practice
+(CGMP) requirements in order to minimize risks to product availability and better assure reliable market supply.
+Drug manufacturers can achieve higher levels of QMM when they successfully integrate business and
+manufacturing operations with quality practices and technological advances to optimize product quality, enhance
+supply chain resiliency, and drive proactive continuous improvement. Adopting advanced quality management
+practices supports a more reliable drug supply chain by reducing the occurrence of quality-related failures and
+improving the ability of establishments to maintain performance during expected and unexpected supply chain
+disruptions.
+
+FDA remains concerned about the consolidation within the infant formula industry, which relies on inflexible supply
+chains with insufficient redundancies. There are only three major domestic producers of these formulas--only two of
+which produce specialized medical formulas. This means that any potential disruption--whether it be a recall or a
+natural disaster--could stress formula supply. We are adopting a regulatory framework to encourage more
+resiliency and redundancy in the infant formula supply, as required in Food and Drug Omnibus Reform Act of 2022
+(FDORA), but many of the factors that influence global supply chains and business decisions are outside of FDA's
+control. As part of this work, on March 28, 2023, FDA released the Immediate National Strategy on Infant Formula
+to further increase the resiliency of the U.S. infant formula market. n1
+
+FDA is working within its authorities to help mitigate supply chain issues, but FDA's authorities were not designed
+with a complex 21st Century supply chain in mind, including the consumer's expectations for the availability of
+essential products. Efforts are underway across government to address these challenges, encouraging redundancy
+and resiliency measures throughout the supply chain, as well as requiring a broad governmental and industry effort
+with shared responsibility. However, the Agency has identified numerous gaps in its authorities to protect
+consumers and patients and the supply chain generally. Providing greater transparency into supply chains is
+needed to improve resiliency and prevent and mitigate shortages of medical products and the food supply. These
+priorities will enhance national security and improve public health preparedness.
+
+The FY 2025 President's Budget includes several critical legislative proposals intended to promote FDA's efforts to
+bolster supply chains and address current vulnerabilities. For drug products, this includes enhancing FDA's insight
+into the drug supply chain to more effectively products, this includes enhancing FDA's insight into the drug supply
+chain to more effectively products, this includes enhancing FDA's insight into the drug supply chain to more
+effectively products, this includes enhancing FDA's insight into the drug supply chain to more effectively products,
+this includes enhancing FDA's insight into the drug supply chain to more effectively products, this includes
+enhancing FDA's insight into the drug supply chain to more effectively products, this includes enhancing FDA's
+insight into the drug supply chain to more effectively products, this includes enhancing FDA's insight into the drug
+supply chain to more effectively products, this includes enhancing FDA's insight into the drug supply chain to more
+effectively products, this includes enhancing FDA's insight into the drug supply chain to more effectively products,
+this includes enhancing FDA's insight into the drug supply chain to more effectively
+
+FDA also seeks authority to modernize regulation of critical foods to help ensure the safety of foods consumed by
+one of the most vulnerable populations--infants and young children. We propose doing this by, among other things,
+
+                                                                                               Page 4 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+establishing binding contamination limits in foods and requiring critical foods manufacturers to report product
+positive test results for pathogens to FDA regardless of whether the product has left the facility. The Agency is also
+requesting new authorities to improve our oversight and enforcement activities, including to require provision of
+requested records or other information in advance of (or in lieu of) inspections of food, tobacco, and cosmetic
+facilities; requiring certain remote regulatory assessments; and requiring the destruction of FDA-regulated product
+offered for import that has been refused entry and presents a significant health concern. FDA stands ready to work
+with Congress on these and other legislative proposals.
+
+Preparing for Public Health Emergencies
+
+FDA has played a key role in pandemic and public health emergency response. Preparation for future public health
+emergencies depends on diverse strategies--often decades in the making--as well as the establishment and
+refinement of authorities and flexibilities that allow the Agency to identify and mitigate risks while promoting
+innovation.
+
+FDA used every tool in its toolbox during the COVID-19 public health emergency. FDA helped make COVID-19
+vaccines available as quickly as possible while upholding our rigorous scientific and regulatory standards by
+streamlining reviews. During the once in a lifetime pandemic, FDA scientists and employees worked around the
+clock, cooperatively, intensively, and efficiently alongside researchers and manufacturers to minimize the time
+between the clinical development process, manufacturing scale-up, and the regulatory review process. COVID-19
+vaccines are one of the most significant and important public health interventions in our history, and the available
+data continue to demonstrate that vaccines produce a substantial reduction in the most serious outcomes of
+COVID-19, including severe illness, hospitalization, and death.
+
+In addition, FDA granted emergency use authorization to over 500 COVID-19 tests including point-of-care (POC)
+tests, rapid at-home tests; multi-analyte tests that can detect both COVID-19 and flu; tests using various sample
+types, including saliva tests; and the first test using breath samples. FDA was also the first regulatory agency to
+encourage development of at-home and over-the-counter (OTC) tests. We were the first to provide emergency use
+authorization for an at-home test, and we ultimately authorized 41 OTC tests for emergency use, 11 of which were
+authorized in four weeks or less, and five of which were authorized within a week.
+
+We also approved and authorized several treatment options for COVID-19 with a major effect on the risk of severe
+illness, hospitalization, and death. The Agency will continue to support efforts on future COVID-19 vaccine and
+treatment needs, including pivoting as the virus adapts and continuing to help advance medical products to protect
+the most vulnerable populations. We are also leveraging lessons learned from the COVID-19 response in our
+everyday reviews, including review of rare disease therapies where ongoing and informal communication with the
+Agency can be especially beneficial.
+
+Additionally, when tackling a public health crisis, accurate, science-based communication is of paramount
+importance. Improving trust in science-based organizations requires a collaborative effort. FDA is working to build
+more effective relationships with the public, front line clinicians (doctors, nurses, pharmacists, etc.), biomedical
+scientists, and educators; we plan to improve their ability to provide more accurate and reliable information to inform
+choices about health and healthcare.
+
+As we reflect on the devastating losses and lasting impacts the COVID-19 pandemic has had worldwide, we will
+use the lessons learned and knowledge gained to be thoughtful about preparing for future public health
+emergencies and to inform our future response efforts both in times of crisis and in everyday best practices. This
+includes continuing to leverage existing relationships with entities outside of FDA in emergency response situations.
+The Agency's capacity to drive future emergency responses depends on positive relationships and communication
+channels from continued collaborations with regulatory, academic, state, tribal, local, territorial, and industry
+partners even in the absence of a crisis.
+
+Improving Life Expectancy
+
+                                                                                               Page 5 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+The trends in life expectancy in the United States are concerning, which show us below most of our high-income
+peer countries. Many highly educated and wealthy Americans have a life expectancy near that of other high-income
+counties, while various combinations of race, ethnicity, sex, lifestyle, education, and rural or underserved urban
+location result in a large part of the U.S. population with high mortality rates and poor health throughout their
+lifespan--from high infant mortality rates to excess deaths from chronic diseases.
+
+As we experience an unprecedented reversal of previous progress in chronic diseases, mental health, and drug
+overdoses, FDA is reviewing what we can do to help the industries we regulate more successfully promote health
+and longevity. The dramatic improvement in cancer and rare disease therapies and the COVID-19 response shows
+that if we are strategic in pursuit of the science, we can move disease outcomes in a positive direction, particularly if
+we combine improved screening, diagnosis, and therapy with access and affordability.
+
+Poor nutrition, tobacco use, and drug overdoses are also key health factors directly in our purview, and FDA can
+make important differences in these areas. Fully recognizing the importance of social determinants of health and
+health system priorities, we are working to understand all that we can do within our sphere of direct influence to
+reverse these negative understand all that we can do within our sphere of direct influence to reverse these negative
+
+Food Safety and Nutrition
+
+FDA continues to make great progress on our food safety and nutrition efforts, which can help to combat the
+epidemic of diet-related disease.
+
+The United States has one of the safest food supplies in the world as judged by an independent review by The
+Economist. Tremendous progress has been made, working with the broad ecosystem of states, territories, local
+governments, tribes, and the industry to make the American food supply as safe as it has ever been. Since the
+passage of the FDA Food Safety Modernization Act in 2011, we have worked diligently to implement the landmark
+law and modernize our food safety regulatory oversight and capabilities. We have also developed and used
+advanced technology, such as whole genome sequencing, n2 to reduce foodborne illness cases, enhancing not
+only our response to outbreaks but also our surveillance of foodborne pathogens.
+
+As part of our role in safeguarding the food supply, FDA is continuing to take action. For example, as part of the
+Agency's work to continue enhancing the safety of infant formula, FDA sent a letter to industry with
+recommendations for industry-wide improvements to identify and address Cronobacter. We are also working to
+learn more about Cronobacter to provide guidance to industry to help control for it in the manufacturing
+environment. Additionally, we are evaluating the use of chemicals as food ingredients and substances that come
+into contact with food and monitor the food supply for contaminants. The Agency takes action when we find that a
+food is unsafe. For example, in 2023, FDA took action within a few days after it was made aware of extremely high
+levels of lead contamination in certain applesauce products. FDA informed the public and worked with state officials
+and the manufacturer, collecting additional information to investigate the source of lead contamination, and taking
+steps to remove all unsafe products from the market as well as implementing increased screening of imported
+products. This example also highlights the important role that state, local, and territorial governments play in helping
+to ensure a safe food supply. However, we currently face limitations on sharing certain regulated commodity
+information in real time with states. We are requesting the authority for focused disclosure of non-public information
+to state, local, and U.S. territorial government agencies with counterpart functions related to FDA-regulated
+products, which would allow FDA to take swift action to protect the supply chain integrity and the public.
+
+In addition to monitoring the food supply in general, FDA has prioritized reducing childhood exposure to
+contaminants in food. Environmental contaminants can be present in foods because they are in the soil, water, or
+air where foods are grown, raised, or processed. FDA's Closer to Zero initiative sets forth the Agency's approach to
+reducing exposure to lead, arsenic, cadmium, and mercury in foods commonly eaten by babies and young children
+to the lowest possible levels. We have prioritized babies and young children given their vulnerability to the harmful
+effects of these contaminants. It is a multi-phase, science-based, iterative approach to encourage industry to adopt
+
+                                                                                               Page 6 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+agriculture and processing practices and achieve our goal of getting levels of these environmental contaminants in
+foods closer to zero over time.
+
+Nutrition is also a priority at FDA. Americans are facing an ever-growing epidemic of diet-related chronic diseases
+such as cardiovascular disease, diabetes, and arthritis, with many of these problems associated with combinations
+of poor nutrition and obesity. We are committed to finding new ways to help consumers build healthy eating
+patterns, including through improved information about healthier nutritional choices, given our unique position and
+authorities. Front and center is FDA's development of a front-of-package labeling system to quickly communicate
+and provide additional context to certain nutrition information. This has the potential to be as iconic as the Nutrition
+Facts label. Front-of-package labeling could help consumers, especially those who may be less familiar with
+nutritional information, identify foods that can help them build a healthy eating pattern.
+
+Relatedly, FDA is also working on an improved framework to regulate dietary supplements. This enormous industry
+continues to grow, and dietary supplements are now part of everyday life for many families. We will continue to
+work with Congress to gain authority to require dietary supplement manufacturers to list their products, including
+their ingredients, with FDA. In the long run, with these authorities, we would have a better understanding of how the
+landscape is evolving with new ingredients coming onto the market, so that FDA will be better able to quickly
+identify dangerous or illegal products and protect consumers.
+
+Combating the Overdose Crisis
+
+Preventing substance use disorders and reducing overdose deaths remain areas of major focus for FDA. We
+continue to take actions aligned with the HHS Overdose Prevention Strategy and the President's Unity Agenda
+commitment to beating the opioid epidemic, and the four priorities outlined in FDA's Overdose Prevention
+Framework, including primary prevention, harm reduction, evidence-based treatment, and protecting the public from
+unapproved, diverted, or counterfeit drugs. With overdose deaths at an all-time high, FDA is doing all we can to
+help ensure life-saving opioid overdose reversal agents, like naloxone, are more accessible. We also required
+industry to update the prescribing information for all opioids to provide additional guidance for safe use. In
+alignment with recommendations from an independent evaluation of our opioid-related activities, we are focusing on
+evidence generation and clinical trial designs to better understand when long-term use of opioids is beneficial and
+when they should be discontinued in a safe manner, as well as considering additional authorities needed to further
+help ensure the safe use of these products.
+
+Cannabis and Hemp-Derived Products
+
+In January 2023, FDA concluded that the existing regulatory pathways for foods and dietary supplements are not
+appropriate for cannabidiol (CBD). However, we recognize that consumers want access to these products. That is
+why FDA announced that the Agency is prepared to work with Congress on a new regulatory pathway that would
+provide access, safeguards, and oversight over products containing CBD in ways that existing pathways cannot.
+Under the Federal Food, Drug, and Cosmetic Act, any substance, including CBD, must meet specific safety
+standards to be lawfully marketed as a dietary supplement or food additive. n3 The use of CBD raises safety
+concerns, especially with long-term use. Studies have shown evidence of liver toxicity, interactions with certain
+medications and possible harm to the male reproductive system. CBD exposure is particularly concerning for
+children and during pregnancy. Accordingly, FDA has exposure is particularly concerning for children and during
+pregnancy. Accordingly, FDA has exposure is particularly concerning for children and during pregnancy.
+Accordingly, FDA has exposure is particularly concerning for children and during pregnancy. Accordingly, FDA has
+
+Regulating Tobacco Products
+
+FDA's Center for Tobacco Products (CTP) reached several important milestones in 2023, including the release of a
+new five-year strategic plan in December. The plan was the outcome of a year-long process that sought input from
+CTP staff and external stakeholders, including a public listening session. Guided by the new strategic plan, CTP
+aims to reduce the negative health effects caused by tobacco product use by providing information to discourage
+
+                                                                                               Page 7 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+people from starting to use tobacco products, encourage people who use tobacco products to quit, and reduce the
+harm caused by tobacco product use.
+
+Over the past year, there has been significant progress in key tobacco product use behaviors in the U.S.
+population. For example, cigarette smoking--which is responsible for the overwhelming burden of tobacco-related
+disease and death in the United States--has declined steadily among adults and youth for decades and currently
+remains at unprecedented lows. Moreover, over the past year, there was a significant decrease in overall tobacco
+product use among high school students, which was primarily driven by a decline in e-cigarette use. There are now
+less than half the number of U.S. youth using e-cigarettes compared with the peak in 2019. However, despite these
+important wins for public health, our work is not finished. Almost 30 million U.S. adults continue to smoke cigarettes
+and in 2023, more than two million U.S. youth use e-cigarettes. We will continue to advance public health through
+our application review process, regulation development, and public education efforts.
+
+Regarding compliance and enforcement actions, in 2023, the Agency issued warning letters to more than 120
+manufacturers and distributors and more than 400 retailers; filed over 40 civil money penalty complaints against
+manufacturers and over 65 against retailers; and collaborated with our federal partners at the U.S. Customs and
+Border Protection to seize approximately 1.4 million units of unauthorized e-cigarette products with an estimated
+retail value of more than $18 million; among other actions. We remain committed to advancing our important, life-
+saving vision to reduce the health burden of tobacco product use in the United States, which remains the leading
+cause of preventable disease and death nationally.
+
+Emerging Technologies
+
+Staying ahead of the rapid advancements made across regulated industries is one of the most challenging and
+exciting aspects of FDA's work. Biomedical discovery science, computing, and engineering take decades to mature
+to develop safe and effective products. FDA is most effective when our regulatory strategies provide pathways for
+innovative products to be developed in a manner that most effectively balances innovation, access, and safety. We
+are at such a point with gene editing for rare diseases and in the application of artificial intelligence across the
+spectrum of products FDA regulates. Through cooperation with private industry, Congress, and the public, we
+believe that FDA can help harness these groundbreaking advancements to benefit the American people.
+
+Artificial Intelligence (AI) and Machine Learning (ML)
+
+FDA recognizes that the increased use of AI, including ML, across all our regulated industries presents new and
+unique challenges and opportunities. For example, FDA has seen a significant increase in the number of drug and
+biologic application submissions using AI/ML components over the past few years. We have been preparing for this
+major technology wave and, to respond to this evolving landscape, FDA has accelerated its efforts to create an
+agile regulatory ecosystem that can facilitate innovation while safeguarding public health.
+
+As part of this effort, CDER, in collaboration with the CBER and the Center for Devices and Radiological Health
+(CDRH), issued an initial discussion paper to communicate with a range of stakeholders and to explore relevant
+considerations for the use of AI/ML in the development of drugs, biological products, and medical devices intended
+to be used with drugs. n4 The Agency will continue to solicit feedback as it advances regulatory science in this
+area.
+
+CDRH has reviewed and authorized a growing number of devices with AI/ML through various authorization
+pathways across many different fields of medicine--and expects this trend to continue. Supporting responsible
+development of AI/ML medical devices and assuring timely access for U.S. patients has been a top priority for
+years; the Center continues work with innovators and relevant institutions to have clear, predictable, and timely
+potential paths to market to facilitate patient access to innovative, safe, and effective devices. FDA has approved,
+authorized, or cleared over 700 AI/ML devices, including:
+
+* A cardiac ultrasound software that uses AI to guide the user;
+
+                                                                                               Page 8 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+* An AI-based device that assists clinicians in detecting lesions (such as polyps or suspected tumors) in the colon in
+real time during a colonoscopy;
+
+* A diagnostic aid for autism spectrum disorder; and
+
+* An AI-based device to detect greater than a mild level of the eye disease diabetic retinopathy in adults who have
+diabetes.
+
+Overall, FDA's efforts are focused on ensuring that the United States is a leader in AI/ML medical devices, including
+by ensuring that the Agency's approaches keep the United States ahead of its global competitors and so AI is
+developed and deployed responsibly in healthcare. FDA believes there is no "one-size fits all" approach for AI.
+FDA's Digital Health Center of Excellence within CDRH leads policy and evaluation of medical devices with AI and
+other digital health technologies at FDA and has worked to be a resource for developers of cutting-edge technology
+by publishing an AI Action Plan, providing guidance, issuing guiding principles on good machine learning practices,
+and engaging on efforts towards international harmonization, among other efforts.
+
+AI will undoubtedly play a critical role in medical product development, and FDA is making every effort to remain
+nimble and support innovation. Furthermore, the use of AI to optimize supply chains and reach consumers is
+already having a significant impact on food and tobacco, and we will be prepared to deal with the changing
+landscape beyond the medical product arena. As we consider and adopt a risk-based regulatory framework we will
+need Congress' support. We look forward to working together to promote innovation while protecting patient safety.
+
+Real World Data and Evidence
+
+FDA has a long history of using real-world data (RWD) and real-world evidence (RWE) to support marketing
+authorization of medical devices and monitor and evaluate the post-market safety of drugs and devices. FDA is
+working with sponsors, patient advocates, and other stakeholders, such as data aggregators, to realize the full
+potential of RWD and RWE in clinical trial design to facilitate development of novel medical products. We are
+committed to realizing the full potential of fit-for-purpose RWD to generate RWE that will advance the development
+of therapeutic products and strengthen regulatory oversight of medical products across their lifecycle.
+
+New Approvals and Pathways
+
+Accelerating the availability of safe and effective drugs and therapeutics that treat serious diseases is in everyone's
+interest, especially when the drugs are the first available treatment or have advantages over existing treatments.
+The Agency continues to evaluate a wide variety of new drugs, biologics, and therapies, including for new settings,
+new uses, and new patient populations, and whether such products meet the requirements for marketing
+authorization. As a science-led organization, FDA uses the best scientific and technological information available to
+make decisions through a deliberative process.
+
+For example, in 2023 CBER approved gene therapies for the treatment of rare diseases such as sickle cell disease
+and Duchenne muscular dystrophy. CBER also approved vaccines to prevent respiratory syncytial virus (RSV)
+disease (including the first maternal vaccination to protect infants from RSV disease). In 2023, CDER also approved
+therapies for neurological conditions, such as Alzheimer's disease and migraines. Moreover, we took approval
+actions for drugs targeting type 2 diabetes in children, different types of anemia, and chronic weight management,
+among other heart, blood, kidney, and endocrine disorders. In oncology, approvals included treatments for
+colorectal, prostate, lung, and low-grade gliomas (tumors that start in the brain). In the area of women's health,
+CDER approved treatments for postpartum depression, hot flashes due to menopause, and over-the-counter oral
+contraception.
+
+The Agency is also committed to helping patients with rare diseases, recognizing that they often have no or few
+treatment options. In 2023, over half of new molecular entities approved were indicated for orphan-designated
+diseases or conditions. Examples include a therapy for acid sphingomyelinase deficiency (Niemann-Pick disease
+
+                                                                                               Page 9 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+type A, B, A/B, an inherited disease that affects fat metabolism); generalized pustular psoriasis (a life-threatening
+skin disease); and obstructive hypertrophic cardiomyopathy (a disease in which the heart muscle thickens).
+
+Through our Humanitarian Device Exemption pathway, we approved devices for acute kidney injury due to sepsis in
+children as small as 22 pounds, and a non-invasive and radiation-free therapy for osteoid osteomas, a benign but
+painful bone tumor that occurs predominantly in children and young adults. In addition, there have been approvals
+to prevent, diagnose or treat rare diseases including drugs for Friedreich's ataxia (an inherited, degenerative
+disease that damages the nervous system); paroxysmal nocturnal hemoglobinuria (a disease that causes red blood
+cells to break apart); and activated phosphoinositide 3-kinase delta (a genetic disorder that impairs the immune
+system).
+
+FDA balances regulatory flexibility, necessary to address challenges in rare disease drug development, with the
+need to adhere to statutory and regulatory requirements for establishing safety and effectiveness to support an
+approval. Regulatory flexibilities include, for example, Accelerated Approval based on a surrogate or intermediate
+clinical endpoint for serious conditions with an unmet medical need, reliance on one adequate and well-controlled
+trial, use of natural history study data as a source of external control data, novel trial designs, and novel statistical
+methodologies.
+
+In addition, under FDA's Breakthrough Devices Program, the Agency may consider health disparities and unmet
+needs in rare disease populations when evaluating requests for breakthrough device designation. That program has
+recently supported the marketing authorization of digital health technologies assisting in the management of rare
+conditions such as seizure disorders and obstruction to cerebrospinal fluid flow. FDA knows much of the
+groundbreaking technology in science will benefit rare disease populations in particular, and we are already thinking
+through creative solutions and changes to our regulatory processes that may be needed as these innovations come
+to the market.
+
+FDA also continues its commitment to fostering innovation in the medical device industry and helping to bring
+important new technologies to patients, as we continue to see high numbers of novel medical device authorizations.
+In 2023, CDRH authorized the highest number of novel devices on record (excluding EUAs) in CDRH's more than
+40-year history. n5 One example includes our clearance of the first over-the-counter fentanyl test--a testament to
+the Agency's commitment to further advance bringing health care into the home setting.
+
+Animal Health and the One Health Approach
+
+The world is in a period of rapid change in a way that calls for the evolution of animal and veterinary products.
+Climate change, human encroachment on previously wild environments, international conflict, and global travel and
+trade all have the potential to increase disease transmission, environmental stressors, and pathologic challenges.
+FDA and the industries we regulate have access to an array of modern technologies to combat these threats,
+including new technologies that can deliver a more resilient and robust food production system, to help ensure food-
+producing animals and their environments are healthier, hardier, and deliver consumers more choices in the foods
+they eat. These technologies can be used to monitor, prevent, control, and treat increasing animal health
+challenges, such as zoonotic and animal infectious disease threats--leading to healthier animals, communities, and
+ecosystems.
+
+FDA's Center for Veterinary Medicine (CVM) takes a One Health approach, recognizing that human, animal, and
+environmental health are connected, and that innovative transdisciplinary approaches and technologies hold great
+potential to address challenges across these sectors. CVM is facilitating animal and veterinary product development
+across the board, developing strategies for approval pathways that enable the relevant industries to develop more
+safe, novel products and products for unmet human and animal needs--such as monoclonal antibody therapies,
+gene therapies, intentional genomic alterations (IGAs) in animals, cell-based animal foods, and animal cell and
+tissue-based products. We are continuously improving efficiencies in our thorough, risk and science-based review
+processes.
+
+Agency's Largest Reorganization in History
+
+                                                                                             Page 10 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+Lastly, the Agency has made significant progress on plans to create a unified Human Foods Program (HFP) and a
+new model for the Office of Regulatory Affairs (ORA). These proposed changes will strengthen the Agency's
+oversight and protection of the human food supply and enhance our oversight of the broad expanse of regulated
+products. After more than a year of proposal development and engaging with internal and external constituencies
+following the findings and recommendations of the Reagan-Udall Foundation (RUF) evaluation, FDA transmitted a
+reorganization package to Congress on March 8, 2024.
+
+FDA's reorganization proposal is Agency-wide, closely tracks the Agency's implementation of the RUF
+recommendations, and enhances the Agency's infant formula response processes following the Abbott infant
+formula recall in February 2022. For example, FDA's vision is to:
+
+* Unify human foods functions currently split across the Agency, including the Center for Food Safety and Applied
+Nutrition (CFSAN), the Office of Food Policy and Response (OFPR), and certain ORA functions into the new HFP
+under the direction of the Deputy Commissioner for Human Foods.
+
+* Create a Nutrition Center of Excellence that prioritizes the Agency's efforts to reduce diet-related chronic disease.
+We have proposed establishing an Office of Critical Foods (OCF), as directed by the 2023 Consolidated
+Appropriations Act, within this Center.
+
+* Reevaluate the Agency's infant formula staffing needs and provided substantive input for the development of
+OCF. FDA has now begun to announce, interview, and staff many positions related to the OCF as well as other
+positions, which will help to support infant formula oversight and regulation.
+
+* Establish an Office of Integrated Food Safety System Partnerships, which will enable greater collaboration with
+our state and local regulatory partners and support state-level inspectional activities to help meet the vision of an
+Integrated Food Safety System, as envisioned in the FDA Food Safety Modernization Act of 2011, more effectively.
+
+* Improve the process for handling whistleblower and consumer complaints at HFP and the Centers, which will
+refine the processing of complaints, ultimately improving our ability to detect and address issues sooner.
+
+* Focus ORA's mission and rename ORA as the Office of Inspections and Investigations (OII), solidifying its role as
+the frontline of FDA's field-based inspection, investigation, and import operations.
+
+* Establish a specialized critical foods investigator cadre, which will solely focus on the inspection and oversight of
+the infant formula (and other critical foods) industry. Hiring for the cadre is currently underway, and specialized
+training programs are continuously being developed, piloted, and deployed as a part of that effort.
+
+* Establish an Office of the Chief Medical Officer (OCMO) in the Office of the Commissioner to strengthen central
+coordination of cross-agency medical issues, including special populations such as people with rare diseases and
+children. This includes a new Office of Public Health Preparedness and Response to support medical
+countermeasure policy, Public Health Preparedness and Response to support medical countermeasure policy, *
+Merge the Office of Counterterrorism and Emerging Threats (OCET) and the Office of
+
+* Create an Office of Enterprise Transformation in the Office of the Commissioner to work across FDA to drive high-
+priority cross-cutting business process improvement efforts in order to use Agency resources more efficiently and
+strategically.
+
+FDA remains committed to keeping Congress and the public up to date as the proposal is finalized.
+
+Conclusion
+
+The essential work of the Agency continues in thousands of ways that Americans and the world count on every day.
+This work is accomplished thanks to the dedication and perseverance of FDA staff. We look forward to continuing to
+work with Congress on the Agency's mission, including by strengthening FDA's authorities in the areas of supply
+chain resiliency, hemp-derived products, infant formula, and more. Thank you again for the opportunity to testify.
+
+                                                                                             Page 11 of 11
+     House Oversight and Accountability Committee Hearing "Oversight of the Food and Drug Administration."
+                               Testimony by Robert Califf, FDA Commissioner
+
+n1         https://www.fda.gov/news-events/press-announcements/fda-outlines-immediate-national-strategy-further-
+increase-resiliency-us-infant-formula-market
+
+n2 https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-fast-facts
+
+n3    https://www.fda.gov/news-events/press-announcements/fda-concludes-existing-regulatory-frameworks-foods-
+and-supplements-are-not-appropriate-cannabidiol
+
+n4 https://www.fda.gov/media/167973/download?attachment
+
+n5 https://www.fda.gov/media/175479/download?attachment
+
+Read this original document at: https://oversight.house.gov/wp-content/uploads/2024/04/FDA-House-Oversight-
+and-Accountability-Testimony.pdf
 
 
-Load-Date: July 15, 2024
+Load-Date: April 15, 2024
 
 
   

@@ -1,15 +1,15 @@
 
 
-                                                                                                        Page 1 of 3
-                 The quest for clean water: National Water Quality Month buoys Virginia Tech research
+                                                                                               Page 1 of 17
+          House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
 
 
 
 
-The quest for clean water: National Water Quality Month buoys Virginia Tech
-                                  research
+  House Financial Services Subcommittee Issues Testimony From X-energy
+                           VP Reinke (Part 1 of 2)
                                                      Targeted News Service
-                                             July 30, 2024 Tuesday 8:47 PM EST
+                                          February 13, 2024 Tuesday 9:30 AM EST
 
 
 
@@ -18,147 +18,959 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 1460 words
+Length: 10781 words
 Byline: Targeted News Service
-Dateline: BLACKSBURG, Virginia
+Dateline: WASHINGTON
 
 Body
 
 
-Virginia Tech issued the following news:
-
-Water is abundantly present in our lives drinking fountains and showers, garden sprinklers, swimming pools,
-reservoirs and streams that it can become invisible, always in sight but often out of mind. Yet, contamination risks
-can endanger that abundance. August is National Water Quality Month, a time to contemplate conserving natural
-water sources and consider what households and communities can do to ensure and preserve access to clean,
-safe water.
-
-Many researchers at Virginia Tech pursue this goal, whether through teaching communities how to detect problems
-and protect their water sources, pioneering new approaches to removing pollutants, or even seeking new
-understanding of how water moves across the ocean floors. To schedule an interview with any of the researchers
-below, please contact mediarelations@vt.edu
-
-Reducing forever chemicals and contaminants
-
-Leigh-Anne Krometis and Erin Ling lead projects examining private water supplies such as wells, concentrating on
-contaminants like bacteria, arsenic, and PFAS, or forever chemicals. Krometis, a professor and Turner Faculty
-Fellow of Biological Systems Engineering for the College of Agriculture and Life Sciences, and Ling, coordinator of
-the Virginia Household Water Quality Program, have also studied contaminating metals found in plumbing like lead
-and copper. Krometis has additional projects focused on bottled water reliance and other coping behaviors like
-reliance on roadside springs in rural Appalachia, as well as home water and sanitation access and wastewater
-surveillance in the rural United States.
-
-Managing water sources in new ways
-
-Cities have long treated stormwater, wastewater, and drinking water as siloed entities, but the Occoquan
-Watershed Monitoring Laboratory, led by Stanley Grant, is on a mission to change that through a new concept
-
-                                                                                                         Page 2 of 3
-               The quest for clean water: National Water Quality Month buoys Virginia Tech research
-
-called "One Water" that is gaining momentum among urban water practitioners. Implementing this novel approach
-could be essential to meeting new Environmental Protection Agency standards for the reduction of PFAS, or forever
-chemicals, in drinking water.
-
-"We are aiming to stop thinking of water as three separate things and start treating it all as a single resource," said
-Grant. "This will take innovative methods and technologies to tackle water quality challenges as a unified system."
-
-Grant and assistant professor Megan Rippy are also working to address freshwater salt pollution. Many human
-activities, such as applying salt to roads and sidewalks in the winter, worsen the pollution, which threatens safe
-drinking water and leads to declines in biodiversity and critical freshwater habitats. "If we don't figure out how to
-reverse this trend of salt pollution soon, it may become one of our nation's top environmental challenges," Grant
-said.
-
-Advancing water management in rural settings
-
-Alasdair Cohen conducts research on drinking water contamination, treatment, and supply and health outcomes,
-especially in the Central Appalachian region. Cohen, an assistant professor of environmental epidemiology in the
-Department of Population Health Sciences and the Public Health Program in the Virginia-Maryland College of
-Veterinary Medicine, explained that "our research group's overarching goal is to help advance programs and
-policies for improving drinking water, sanitation, and health in rural and lower-income settings."
-
-Empowering communities through technology
-
-Cholera afflicts millions annually, especially in regions with poor sanitation and water infrastructure. Working with a
-community in rural Bangladesh, Kevin Boyle from Virginia Tech, in collaboration with researchers from Moravian
-University, Penn State, and the University of Rhode Island, developed an Android-based smartphone app that
-delivers real-time cholera risk forecasts to households. By utilizing NASA satellite data, CholeraMap predicts
-cholera risks based on factors like rainfall, temperature, and historical incidence. The app creates a model that
-could assist in similar regions worldwide.
-
-Training communities to protect water supplies
-
-Anthropologist and associate professor of history Nick Copeland is part of a team of Virginia Tech researchers
-using water science to respond to the concerns of rural and Indigenous communities in Guatemala and empowering
-communities to conduct their own monitoring to protect their waterways. They have taught these communities how
-to use field testing kits in areas where residents fear that sugar cane, palm oil plantations, and extractive industries
-are contaminating waterways. The team also is exploring ways that Indigenous environmental justice movements
-can use water science to address industrial development.
-
-Laying groundwork for pipe replacement
-
-Marc Edwards' research looks at water contaminants such as lead and deadly microbes including Legionella. His
-team used citizen science to help expose the 2001-2004 D.C. lead crisis and the 2014-2016 Flint water disaster.
-His research exposed how antiquated pipes, including those made of lead, are endangering public health, laying
-the groundwork for billions of dollars in federal funding for pipe replacement. "Our past failures threaten the health
-and welfare of every American," Edwards said, adding "if consumers can't trust the water coming out of the tap as
-provided by a government water utility, how can we hope to solve more complicated problems?"
-
-Reducing pollution from fracking
-
-A research team led by Wencai Zhang at Virginia Tech received a $1.9 million grant from the Department of Energy
-to recover high-demand metals, such as lithium and other rare earth elements, from naturally occurring water that
-comes out of the ground during hydraulic fracking. "High-demand metals and minerals, such as lithium, play an
-essential role in electric vehicle production and are present in virtually every battery worldwide," said Zhang. "Our
-goal is to contribute to the supply chain of these critical materials while also making a positive environmental
-
-                                                                                                         Page 3 of 3
-               The quest for clean water: National Water Quality Month buoys Virginia Tech research
-
-impact." The research aims to reduce the environmental consequences associated with water produced by
-fracking, removing pollutants and making it safer for affected communities.
-
-Underwater robots bring new understandings
-
-Dan Stilwell and his team develop autonomous underwater robots that can operate without human intervention.
-Recently, they have been deployed to rapidly search for hazards to navigation, search large areas of ocean for
-sources of methane that bubble up from the seafloor and characterize the flow of microplastics through Virginia's
-waterways. Because these robots can make intelligent decisions based on their real-time measurements of their
-surroundings, they can conduct investigations in the ocean that would be nearly impossible with a human onboard.
-This technology can help determine how concentrated microplastics have become in the ocean and how that could
-affect wildlife. The robots could also help to map the ocean floor, contributing to a more complete picture of the
-Earth's climate.
-
-Artificial intelligence and water quality forecasts
-
-Computer engineer Anuj Karpatne's research explores the potential for artificial intelligence to forecast water
-quality in lakes that supply drinking water. To develop this technology, he recently collaborated on a project
-intended to provide real-time forecasts of water quality for the Falling Creek Reservoir in Roanoke, Virginia. "This
-reservoir is a major source of drinking water for Roanoke residents, and we are interested in forecasting its
-temperature, chlorophyll content, and other water quality variables," Karpatne said. "We aim to generate better
-forecasts of water quality in lakes and reservoirs that can directly impact the people who depend on their water."
-
-Defending water supply cybersecurity
-
-The research conducted by Feras Batarseh and his AI & Cyber for Water & Ag lab ACWA for short, pronounced
-"aqua" highlights a different way of protecting water resources. The team collects data in order to develop artificial
-intelligence algorithms that can help defend water systems from cyber-attacks and other threats. Batarseh is
-associated with the Commonwealth Cyber Initiative, Virginia's central hub for cybersecurity research. He also works
-with the Center for Advanced Innovation in Agriculture, an entity in the College of Agriculture and Life Sciences that
-focuses on cyberbiosecurity. "The ACWA lab provides a test bed for stakeholders such as water treatment plants
-and utilities all over the country to come to Virginia Tech and evaluate the security levels at their utilities, and how
-they can improve," Batarseh said.
+The House Financial Services Subcommittee on National Security, Illicit Finance and International Financial
+Institutions issued the following written testimony by Benjamin T. Reinke, vice president of global business
+development at X-energy LLC, involving a hearing on Jan. 17, 2024, entitled "International Financing of Nuclear
+Energy":
 
 ***
 
-Original text here: https://news.vt.edu/articles/2024/07/national-water-quality-month-2024.html
+Thank you Chairman Luetkemeyer and Ranking Member Beatty for holding this important hearing. Thank you also
+for the invitation to share my experience on behalf of X-energy.
+
+***
+
+Introduction
+
+My name is Benjamin Reinke and I serve as X-energy's Vice President of Global Business Development. After
+completing a Ph.D. in Nuclear Engineering at Ohio State, I joined the Majority professional staff of the Senate
+Committee on Energy and Natural Resources and later served as the senior policy advisor to the U.S. Secretary of
+Energy while serving as the Executive Director of the Department of Energy's Office of Strategic Planning and
+Policy. During my time in government, I had the opportunity to craft and shape many clean energy policies,
+including a heavy dose of nuclear policy, and have seen first-hand many of the existing government programs to
+support nuclear energy technology development in the U.S. and deployment at-home and abroad. I then joined X-
+energy, where I ran our Corporate Strategy function for about two years before taking the lead on our business
+development efforts about one year ago. I also hold an unpaid position as a non-resident Senior Fellow of the
+Atlantic Council's Global Energy Center.
+
+X-energy is a nuclear reactor and fuel design engineering company headquartered in Rockville, Maryland, with over
+400 employees and hundreds more contractors that are part of our design team. To-date, the federal government
+
+                                                                                              Page 2 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+and the private sector have invested over $600 million in the development of our intellectual property and
+infrastructure, all focused on bringing our reactors and fuel to market in a disruptive way that scales with global
+demand.
+
+X-energy was founded 15 years ago by Dr. Kam Ghaffarian our Executive Chairman to bring energy technology to
+the market that is clean, affordable, safe, and secure. Kam's journey led him to Generation IV reactors, often called
+advanced reactors, and he selected the High-Temperature Gas-Cooled pebble-bed Reactor (HTGR) because of its
+technology maturity, demonstrated safety case, and ability to provide both affordable electricity and high-
+temperature process heat. Moreover, the investments that the U.S government had previously made in developing
+HTGR technology, and more importantly the fuel that powers them formed the platform from which X-energy was
+launched.
+
+Today, X-energy has three main products:
+
+* The Xe-100: our commercial, advanced grid-scale High Temperature Gas-Cooled small modular reactor, which
+produces 200 megawatts-thermal or 80 megawatts-electric;
+
+* Mobile Micro Reactor: which is a 5 megawatt-electric commercial variant of the mobile micro reactor we
+developed for the U.S. Department of Defense under Project Pele; and our ongoing work is sponsored by the DoD
+and DOE; and
+
+* TRISO-X Fuel: our proprietary version of tri-structural isotropic (TRISO) coated particle fuel, developed and
+improved over 60 years. We manufacture our own proprietary version (TRISO-X) to ensure supply and quality
+control.
+
+We also have teams focusing on space applications of our HTGR technology and coated particle fuel, for nuclear
+propulsion systems and fission power for the lunar surface, work supported by NASA, DOE, and DOD.
+
+To bring these products to market, a combination of:
+
+* Technology maturity;
+
+* Risk-tolerant private investment;
+
+* U.S. Government support; and
+
+* Addressable market were all required.
+
+I will address each of these throughout this testimony, but it is important to highlight that they work together
+positively to reinforce our position that the time is now for American advanced nuclear technology to enter the
+global market and to enable the U.S. to reestablish is global nuclear energy leadership position.
+
+***
+
+The Global Race Against Russia and China
+
+To begin, I want to recognize the critical topic of this hearing and the importance of its timing. There is a global race
+underway for the development, and more importantly the deployment, of clean energy technologies.
+
+The geostrategic focus on energy security, evidenced by the pivot away from Russian and Chinese sources of
+energy and infrastructure marks a pivotal moment in global history. The atrocious invasion by autocratic Russia of
+its democratic neighbor Ukraine sparked an evolution in the fundamental nature of Western customers views
+toward the state-owned energy enterprises of Russia and China, which were inherently tools of their undemocratic
+regimes, used to undermine free enterprise in the Western global order. However, the pivot began much earlier, as
+many Central and Eastern Europe nations expressed their desire to break free from their historical ties to Russian
+natural gas and nuclear energy. Similarly, the United Kingdom recognized the risks associated with Chinese state-
+
+                                                                                             Page 3 of 17
+        House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+owned telecom infrastructure and changed its laws to extricate critical national security industries from ties to
+companies controlled by the Chinese Communist Party.
+
+Yet, it is important that we recognize today that decades have past since the U.S. held its proper role as the global
+nuclear energy leader and in that vacuum Russian and Chinese state-owned enterprises have firmly established
+their positions. This is all the more troubling when we consider the 80-100 year relationships enabled between a
+nuclear exporting nation and a client nation and when we recognize that nations that are not competitive in the
+global nuclear marketplace, with leading technologies, abdicate their seats at the global non-proliferation table.
+
+To put this in context, today, the U.S. has just finished constructing two new nuclear reactors from scratch for the
+first time in 30 years. During that period we have built very few reactors abroad. We currently have a handful of U.S.
+government-supported projects under way, including X-energy's first project (described in greater detail below).
+Meanwhile, together China and Russia together account for 70% of planned or under-construction reactors
+worldwide./1
+
+The good news is that the U.S. is positioned to jump back into the lead. The very nature of the next generation of
+nuclear technologies under develop in the U.S. will provide an asymmetric advantage in the marketplace that will
+disrupt today's global nuclear energy order, as described in further detail below.
+
+Thanks to the examples provided by countless disruptive/breakthrough technologies developed through U.S.
+private sector innovators, often in partnership with U.S. government-sponsored research and development, we can
+have confidence that recapturing global market share is achievable. For example, today, the U.S. dominates
+technologies ranging from data centers to Artificial Intelligence, enabling it to lead on digital services and
+technologies in the global marketplace. Importantly, our technology leadership position enables the U.S. to also
+lead in discussions around the global rules of the road and the potential nefarious uses of these technologies. This
+market segment is a fruitful analogy, because the underlying technologies were first developed here and the most
+cutting-edge technologies in this sector still emerge from the cauldron of competition and the hotbed of innovation
+based in the U.S.
+
+However, advanced nuclear is not yet back in this position. In fact, the U.S. nuclear sector is more like a once
+globally dominant steel forge. The fundamentals are still there - the best and brightest nuclear engineers, the most
+innovative nuclear energy technologies, the most trusted nuclear regulatory body, and the transparency of a truly
+private-sector nuclear industry that is supported by the U.S. government. Led by private sector entrepreneurs and
+stoked by a combination of visionary investors and government support, the U.S. is today developing and deploying
+the world's most advanced nuclear technologies; it is pulling the forge out of cold standby and reigniting the flame.
+
+The opportunity is enormous. However, major challenges remain.
+
+Today, I will describe several critical challenges and hope to leave you with proposed solutions, across several key
+themes:
+
+1. We must deploy domestically before we can sell internationally, and U.S. deployment relies upon a fully
+implemented ARDP, a technology-neutral tax environment that enables the deployment of new clean energy
+technologies, and the redevelopment of a nuclear fuel supply chain that inspires confidence in U.S.-led energy
+security for our allies and partners;
+
+2. We must remove barriers to entry for new advanced nuclear technologies, first in the U.S. and then abroad;
+
+3. We must have all possible financing tools in the toolkit to support U.S. nuclear exports; and
+
+4. We must lead from the front on nuclear energy.
+
+***
+
+1 https://asia.nikkei.com/Business/Energy/China-and-Russia-account-for-70-of-new-nuclear-plants
+
+                                                                                              Page 4 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+***
+
+TRISO-X
+
+It really all starts with the fuel. The safety and economic cases for our reactors comes from our TRISO-X fuel. In
+fact, we like to say that we design our reactors from the fuel out. Five years ago, when X-energy won its first
+cooperative agreement with DOE, we decided that we needed to make our own fuel so that we could meet the
+schedule, quality, and the quantity requirement of fuel that we be required for the deployment of our reactors.
+Indeed, today TRISO-X is a pivotal part of our business case and business model.
+
+This decision built upon over $350M of Federal investment in TRISO fuel that was enabled through the Advanced
+Gas Reactor fuel program, enabled by the Bipartisan Energy Policy Act of 2005. The AGR campaign involved
+fundamental R&D that evolved the chemistry of TRISO fuel kernels to allow for higher burnup to be achieved. It also
+funded a fuel testing and qualification campaign leading to a series of experiments that validated the safety case of
+this next generation TRISO fuel and a U.S. NRC-reviewed Topical Report/2 for TRISO fuel qualification. Under the
+AGR program, TRISO particles made to spec were demonstrated to provide a barrier to radiation release (99.999%
+of radioactive fission products retained) at 1800 degrees Celsius over a 12+ day period. The success of this fuel
+campaign led the Department of Energy to call TRISO fuel "the most robust nuclear fuel on Earth."/3
+
+X-energy's TRISO-X fuel is a proprietary version of the fuel qualified in this program, a successful
+commercialization of fundamental R&D sponsored by DOE's Office of Nuclear Energy in partnership with several of
+its National Laboratories, in particular Oak Ridge National Laboratory (ORNL) and Idaho National Laboratory (INL).
+
+X-energy's founder's investment was then leveraged against an initial 5-year funding program from DOE to the tune
+of $40M (with a $13M X-energy cost-share) to build a TRISO pilot-scale manufacturing facility at ORNL that we
+have been running since 2017. We chose to build not a lab, but a single commercial production line, to enable our
+licensing process, produce TRISO-X kernels and pebbles, analyze them, and develop the quality control and quality
+assurance processes that would be required to ensure adherence to the Advanced Gas Reactor standards for
+qualified TRISO fuel.
+
+At the heart of the TRISO-X fuel particle is the uranium oxycarbide kernel, which utilizes high-assay low-enriched
+uranium ("HALEU") for higher energy content than the uranium used in conventional LWRs. Each kernel is
+surrounded by four barrier layers that act in concert to support the uranium-containing kernel, moderate nuclear
+reactions, ensure passive safety, and contain fission products. These particles retain their integrity during all
+foreseeable adverse conditions and the set of boundary layers act as functional containment for the radioactive
+fission products in the fuel kernel, obviating the requirement for the typical expensive and large concrete and steel
+containment structures required in conventional reactors. The robust graphite pebble, about the size of a billiard
+ball, contains approximately 18,000 of these TRISO particles.
+
+***
+
+2 https://www.epri.com/research/products/000000003002015750
+
+3                                    https://www.energy.gov/ne/articles/triso-particles-most-robust-nuclear-fuel-
+earth#:~:text=TRISO%20particle%20fuel%20is%20structurally,temperatures%20than%20traditional%20reactor%20
+fuels.&text=TRISO%20particles%20have%20a%20fuel,then%20coated%20with%20four%20layer.
+
+***
+
+We plan to provide our Xe-100 customers with their initial fuel loads and refueling needs throughout their
+anticipated 60-plus-year Xe-100 plant lives.
+
+***
+
+Xe-100
+
+                                                                                              Page 5 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+The Xe-100 is an HTGR with advantages in sustainability, economics, reliability, and safety over conventional
+LWRs and other advanced SMR designs. The Xe-100 is a Generation-IV advanced nuclear technology that has
+been designed to remedy weaknesses associated with traditional LWR designs. The Xe-100 can efficiently produce
+electricity or process heat. The Xe-100 produces 200 megawatts of thermal power in the form high-temperature
+superheated steam at 565 degrees Celsius and 16.5 megapascals. When configured for electricity generation, each
+reactor can power an 80 megawatt-electric turbine generator. We anticipate that many customers will select a 4-
+pack 320 MW electric power plant orientation. However, with our modular design, the number of reactors (scale of
+the plant) can be matched to the needs of each customer, with up to 12 reactors operating from a single control
+room in our largest plant configuration.
+
+Our elegant and simple design maximizes the use of factory-manufactured components, which will be shipped to
+site using existing road and rail networks. The design affords a high level of modularization of plant systems, and
+we are working to optimize modularity in our construction plans.
+
+The Xe-100 has the following characteristics:
+
+* Safe - Each Xe-100 will use 220,000 of our TRISO-X fuel pebbles, with approximately 18,000 uranium oxycarbide
+TRISO fuel particles in each pebble, which helps to contain fission products and aids in long-term nuclear-waste
+storage.
+
+* Designed to not Melt - High-temperature-tolerant graphite-based fuel structure does not melt under any accident
+scenario.
+
+* High Temperature Technology - By using a helium coolant as compared to water the Xe-100 is designed to deliver
+heat at higher temperatures (750 C helium outlet temperature and 565 C steam from the steam generator) than
+conventional reactors, providing a clean solution for various use cases, including power generation and process
+heat for critical industrial applications.
+
+* Online refueling - Online refueling capabilities provide an average of 95% plant availability, unlike conventional
+nuclear facilities, which requires shutdown and refueling every 18-24 months.
+
+* Efficient - High burn-up fuel cycle (160,000 megawatt-days per ton of uranium) means the Xe-100 more efficiently
+utilizes its fuel than conventional reactors.
+
+* Resilient - Designed for a 60-year operational life.
+
+* Load-following - high-temperature reactors offer the ability to truly load-follow the fluctuations in power production
+that accompany high penetrations of renewables; the Xe-100 can load follow in increments of 5% of reactor power
+per minute between 40% and 100% power, meaning it can ramp up or down from 40 to 100% power in 12 minutes.
+
+***
+
+Mobile Micro-Reactor
+
+The X-energy mobile micro-reactor is a commercial variant of a micro-reactor that we originally developed as part of
+the U.S. Department of Defense's Strategic Capabilities Office Project Pele. Our Project Pele design had very strict
+performance requirements, such as:
+
+* Rail, truck, and U.S. military transport aircraft compatibility;
+
+* All components housed in standard ISO containers;
+
+* The ability to operate at full power for more than 3 years, with a 100% duty cycle;
+
+* Utilizing our proprietary TRISO-X fuel that is designed to not melt; and
+
+* Producing 1 MW or more of electric power at 4160 volts.
+
+                                                                                              Page 6 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+Since then, we have pivoted the innovation developed by our design team to a commercial variant with less
+stringent transportation requirements that we believe can potentially address the following use cases:
+
+* Remote communities - Island and remote communities, especially in Canada and Alaska, rely on petroleum fuel to
+maintain their power. Delivery disruptions and service difficulties can significantly affect availability and reliability of
+power in these settings, while the diesel generators are a source of air pollutants and greenhouse gases.
+
+* Disaster Relief - The mobile micro-reactor is a transportable and flexible electricity solution that does not require
+fueling for years and can power critical infrastructure like hospitals, water purification facilities, railyards, and ship
+harbors on rapid deployment timelines.
+
+* Defense and military - As the U.S. military prepares to further "electrify" the warfighter, highly portable, reliable
+power will be a revolutionary technology, and resilient power for permanent military installations can enable a more
+nimble and reliable defense posture for our troops.
+
+* Off-grid small industrial sites - Smaller industrial sites in harsh conditions, such as at altitude or in high latitudes, or
+island operations, are similarly currently exposed to expensive diesel supply chains.
+
+Today, our Mobile Micro-Reactor design team is working under a follow-on expanded Project Pele contract and a
+DOE Cooperative agreement to further the design and study the market applicability of a 5 megawatt-electric
+variant of our mobile micro-reactor.
+
+***
+
+Global Business Development
+
+To be very clear, the most important datapoint I can share with you today from discussions with international
+customers is that we must build first in the U.S. before we can build abroad. Many customers in the U.S. and
+abroad, comprised of both heavy industrials and utilities, are engaging with X-energy and our competitors. We
+conduct most of this business under strict confidentiality agreements until a customer is ready to make a public
+announcement. Much of the early work involves developing a relationship with a customer and earning their trust
+while we jointly define the customer's requirements and assess the applicability of our technology.
+
+We work under paid contracts to estimate the economics of projects and to determine whether a customer's site is
+suitable from a nuclear regulatory perspective. This work allows a customer to take a risk-adjusted approach to our
+engagement and move a project through the customer's gate review process. This is the work that my team lives
+and breathes every day as we manage the contractual work for our customers and work with them to the point that
+they are prepared to make a substantial investment in a project.
+
+International customers want to see any technology that they would consider deploying first deployed in its country
+of origin. In other words, most foreign customers want to see the Xe-100 licensed and constructed in the U.S.
+before they move forward. Why? Customers require social license and technology demonstration for the
+deployment of new reactor technologies. While many global customers say they want to work with the U.S. and
+likeminded nations, they want to see a top tier regulator provide a "stamp of approval" regarding the safety case for
+a reactor before they ever begin major investment in new nuclear. Historically, many international nuclear
+customers were either owned by their governments or were at least closely coordinated with their governments.
+This means that there has been a heavy-handed role to play in government-to-government relationships to enable
+and allow a business-to-business or business-to-government sale to move forward. It is no surprise that such sales
+structures require the U.S. technology vendor to first successfully navigate its own home-government regulatory
+process. This is one of the key differentiators between the U.S. and China or Russia. As discussed above, the
+Russians and Chinese have been deploying technologies at home and then supporting sales of the demonstrated
+reactors abroad. It is time for the U.S. to get back in the game.
+
+***
+
+Market Opportunity for Advanced Nuclear
+
+                                                                                              Page 7 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+X-energy has initially targeted the U.S., Canada, and the United Kingdom for the deployment of Xe-100s. The
+selection is not coincidental. These three nations have substantial power needs and substantial heavy industry,
+requiring a combination of heat/steam and power. All three have a substantial decarbonization policy. Finally, all
+three have existing nuclear industries and top tier nuclear regulators - these nations have a strong nuclear
+pedigree. When taken together, the market opportunity is substantial and the market has a regulator that is ready to
+receive an application for an Xe-100 project from an X-energy customer. These are the markets with the greatest
+short-term need and opportunity for us.
+
+According to PA Consulting, the U.S., U.K. and Canada comprise approximately one-third of potentially serviceable
+global electricity usage. Across these three geographies, there is an estimated Total Addressable Market (TAM) of
+471 gigawatts and 676 gigawatts of cumulative capacity additions by 2040 and 2050, respectively. Of this TAM, PA
+Consulting estimates that 67 GW and 134 GW of the cumulative capacity additions by 2040 and 2050, respectively,
+will be best served by SMRs, considering grid needs, siting efficiencies, demand for zero carbon generation and co-
+generation. These capacity additions, which represent all potential use cases for SMRs, including utility power
+generation, industrial applications, and behind-the-meter ("BTM") generation, imply a need for approximately 400
+Xe-100 reactor 4-packs, representing an estimated $500 billion market opportunity for SMRs in 2040, growing to
+approximately $1 trillion by 2050. To put this in further context, the deployment of 134 GW by 2050 implies more
+than 400 Xe-100 reactor 4-packs in these three nations alone. We believe this to be a conservative TAM in the
+three nations and anticipate an even greater TAM will become accessible as we grow our engagements in other
+nations.
+
+Indeed, the global market for SMRs is likely to be much bigger. There is evidence around the globe that nuclear
+energy is back in vogue and that the fundamentals are better now than they have ever been. For example, in its
+Commercial Liftoff Report,/4 the Department of Energy estimates that the U.S. alone will actually require an
+additional 550 - 700 gigawatts of clean and firm power by 2050, with nuclear being one of the few technologies
+available. The report estimates an incremental 200 gigawatts of new nuclear in the U.S. by 2050, from today's
+approximately 100 gigawatts. This ambition for tripling nuclear power was carried forward by the Biden
+Administration to COP 28, where it received support from an additional 21 nations, which all pledged to triple
+nuclear capacity by 2050./5
+
+And, the International Energy Agency's tracking of energy poverty showed recently that three quarters of a billion
+people still live in energy poverty./6
+
+If the world is able to eliminate energy poverty while decarbonizing, economic growth will be ignited in developing
+nations and countless people will be lifted from hunger and abject poverty. In such a scenario, global power
+demand will increase further.
+
+In each of the above scenarios, SMRs are positioned to capture a larger portion of the market and Gen-IV reactors
+that are able to achieve higher temperatures will have a larger TAM within the market because of their applicability
+to industrial power and decarbonization. This is fundamentally due to the fact that not all customers need, or can
+afford, a gigawatt-scale reactor like today's fleet of large light-water reactors. In fact, the scale of these projects is
+inherently self-limiting; there are only so many places in the world that need incremental power in a gigawatt-size
+chunk. There are many more economies and customers that require less power. Moreover, a project that is
+gigawatt-scale typically comes with a $20+ billion price tag, which is another reason that most customers of large
+light-water reactors are state-owned utilities. In those cases, backing by a federal government is required to finance
+megaprojects of this scale. This is not the case for SMRs, which will be projects on the order of low-single-digit
+billions, bite sizes that more customers can afford to take and to which more financial institutions will be willing to
+lend. These are inherently less complicated and expensive projects. As we've seen with most energy technologies,
+when projects become smaller and less complicated, deployment scales faster with increasingly available financing.
+SMRs will follow the deployment-at-scale demonstrated by coal in the 20th century and renewables and natural gas
+in the 21st century.
+
+***
+
+                                                                                              Page 8 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+4 https://liftoff.energy.gov/advanced-nuclear/
+
+5          https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-
+recognizing-key
+
+6             https://www.iea.org/commentaries/for-the-first-time-in-decades-the-number-of-people-without-access-to-
+electricity-is-set-to-increase-in-2022
+
+***
+
+At X-energy, we have already seen growing evidence of customer interest from around the world. In Central and
+Eastern Europe there has been a growing drumbeat for a pivot away from Russian nuclear technologies toward
+U.S. and allied nuclear technologies. We have already conducted a paid study for a coal-to-nuclear conversion
+feasibility study in this region to understand the fundamentals of an Xe-100 project and are bullish on the
+opportunities to deploy throughout the region in the 2030s, with multiple customer interactions underway. We have
+seen similar increasing support for new nuclear in Northern Europe as multiple nations that had previously banned
+new nuclear have pivoted to supporting new projects. Meanwhile, the Middle East is showing increased interest in
+SMRs, driven by its heavy industrial decarbonization challenge. While at COP 28 in Dubai, we participated in
+multiple nuclear energy events hosted by the Emirates and signed an MOU with the Emirates Nuclear Energy
+Corporation focused on the deployment of our Xe-100 nuclear technology in the UAE, with a particular focus on
+decarbonizing their heavy industry. Additionally, the U.S. Government recently completed a 123 Agreement with the
+Philippines, a signal that the need for power and electricity in the IndoPacific region is growing. We at X-energy
+have already seen tremendous interest in the region, evidence by a strategic investment in our company made by
+one of the region's top construction and engineering firms, South Korea's DL E&C. Finally, African nations have
+been strong participants in U.S. Government programs to support nuclear industry like the State Department's
+Foundational Infrastructure for the Responsible use of SMR Technologies, or FIRST Program, partnering with
+Ghana and the Three Seas Initiative. The interest and TAM will continue to grow.
+
+Global Electricity Demand: Initial X-energy target markets - the U.S., U.K., and Canada - comprise about a third of
+serviceable global electricity usage, so the rest of the world represents additional upside to market size
+
+TAM: Cumulative potential use cases for SMRs and all energy alternatives, including utility power generation,
+industrial applications, and BTM generation
+
+* TAM is driven by retirement of existing U.S. capacity (e.g., coal) and expected growth in energy demand
+
+Serviceable Addressable Market ("SAM"): Share potentially served by SMRs, which identifies GWs that are best
+served by SMR due to differentiated attributes such as ability to provide energy, capacity, and steam
+
+* SMRs are anticipated to capture 20% of the TAM by 2050
+
+* SMRs are well positioned to gain market share at higher electrification levels as it becomes increasingly difficult to
+site reliable clean alternatives
+
+***
+
+The Advanced Reactor Demonstration Program
+
+Adopted as part of the Energy Policy Act of 2020, the Nuclear Energy Leadership Act (NELA) coalesced various
+initiatives needed by the advanced reactor community into an overall advance nuclear policy. Of these, the
+cornerstone was the Advanced Reactor Demonstration Program, or ARDP, which was a bold policy initiative
+designed to restore U.S. global nuclear leadership by enabling the commercial demonstration of advanced reactors
+by the end of the decade through a government cost-share program. The Department of Energy initiated the
+procurement for this program in 2020. Two companies, X-energy and TerraPower, were selected for initial
+deployments, which would demonstrate two different advanced reactor technologies. Terrapower is demonstrating
+
+                                                                                              Page 9 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+a molten salt reactor with a thermal storage system in partnership with Pacificorp. at a former coal plant site in
+Kemmerer, Wyoming. X-energy is demonstrating a High Temperature Gas Reactor, in partnership with Dow at an
+existing polyethylene manufacturing facility in Seadrift, Texas. Both the TerraPower and X-energy technologies are
+considered Generation-IV technologies, as they do not use water in the reactor cores like today's light-water
+reactors. In comparison to existing reactors, proposed non-light water SMR designs are generally simpler, and the
+safety concept for SMRs often relies more on passive systems and inherent safety characteristics of the reactor,
+such as low power and operating pressure. This means that in such cases no human intervention or external power
+or force is required to shut down systems, because passive systems rely on physical phenomena, such as natural
+circulation, convection, gravity, and self-pressurization. Physics-based systems increase safety margins, in some
+cases, which can eliminate or significantly lower the potential for unsafe releases of radioactivity to the environment
+and the public in case of an accident.
+
+In 2020 we were awarded our contract and signed our cooperative agreement with the U.S. Department of Energy
+(DOE) to deliver an HTGR to market. ARDP is not like a conventional government research and development
+program. We must deliver a nuclear power plant to market. Government funds must be matched with non-Federal
+capital on a dollar-for-dollar basis - a 50%-50% cost-share. We had to bring a customer with us during the
+application that was willing to participate from the time of selection. Finally, we needed to provide a business plan
+that shows real potential for multiple sales beyond the first reactors. Our ARDP goal is to commercially demonstrate
+the Xe-100 and show that it can be affordably deployed.
+
+Under ARDP X-energy will accomplish three objectives:
+
+1. Complete the design and licensing of the Xe-100, a goal that is significant because no nuclear power plant in the
+U.S. has ever been fully designed, through detailed construction drawings and plans, before construction begins.
+
+2. Construct a commercial-scale TRISO-X Fuel Fabrication Facility, which we call TX-1, with sufficient capacity to
+support our ARDP plant and further early deployment Xe-100 projects.
+
+3. Construct the first Xe-100 plant for Dow, commission the plant, and demonstrate commercial-scale operations.
+
+Under the ARDP, X-energy and its investors match dollar-for-dollar the investment by the taxpayer in objectives 1 &
+2, completing design of the Xe-100 and completing licensing and construction of TX-1, our first fuel facility. Dow, as
+the customer of the Xe-100 nuclear power plant matches the government cost-share for 3, the overnight capital
+expenditure required to construct and commission the Xe-100 nuclear power plant.
+
+The X-energy engineering team is in the detailed design phase of our technology development (final of three typical
+nuclear engineering design phases) and will docket our construction permit application with the NRC to begin
+formal review for the Dow project later this year. Our first commercial scale fuel facility, the TX-1, is currently under
+licensing review by the NRC,/7 which remains on track to support the Dow project and we will complete
+construction and begin licensed operations in 2026. There are currently no commercial-scale fuel fabrication
+facilities in the U.S. capable of fabricating HALEU fuel (Category II facilities), and thus we believe the TX-1 will
+address a key gap in the advanced nuclear fuel supply chain.
+
+Our partnership with Dow on ARDP is significant in several ways. Not only will this be the Global West's first grid-
+scale Gen-IV nuclear plant, and quite possibly the first commercial grid-scale small modular reactor deployed in the
+West, but it will be the first nuclear power plant to provide combined heat and power to a heavy industrial facility.
+Nuclear advocates have always discussed the promise of Gen-IV reactors achieving higher temperature, high
+enough to provide industrial process heat in addition to electricity. But, there has never been a true commercial
+demonstration of such an industrial deployment, because the technology and market were not ready. This decade,
+that will change.
+
+Dow uses approximately 10 gigawatts of energy from fuel to produce heat, power, and steam at 25 major
+manufacturing sites worldwide - that's enough energy for more than 7 million homes, which is more than the
+number of homes in Michigan and Louisiana combined (6.64 MM homes). That energy powers more than 50 gas
+and steam turbines and boilers, as well as more than 100 furnaces around the world. Dow's corporate goals are to
+
+                                                                                            Page 10 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+deliver a 30% reduction in scope 1 and 2 carbon emissions since 2005 by 2030, and to achieve carbon neutrality by
+2050.
+
+Out of these facilities, Dow selected Seadrift because it is an important manufacturing site for current and future
+products. The Seadrift site covers 4,700 acres and the Xe-100 nuclear plant will occupy a little over 30 acres in
+total. The site manufactures more than 4 million pounds of materials per year used across a wide variety of
+applications including food packaging and preservation, footwear, wire and cable insulation, solar cell membranes,
+and packaging for medical and pharmaceutical products. Dow currently operates three natural gas boilers that
+provide steam and electricity to the manufacturing facilities at Seadrift. This existing infrastructure is coming to the
+end of its useful life and will be replaced by a four-unit Xe-100 plant by the end of the decade. The four reactors will
+provide extremely highly reliable steam production to match Dow's expectation of greater than 99% reliable uptime
+for its operations. It will also provide all of the electricity required for the site, with the excess power sold into the
+Texas market, or to secondary off-takers. By deploying four 80 megawatt-electric reactors, Dow will be able to
+achieve the redundancy in power supply required to match its reliability requirements, while offering excess power
+into a market that is in need of excess firm capacity. Dow estimates that when deployed, the reactors will displace
+approximately 440,000 metric tons of CO2 emissions from the site annually./8
+
+Navigating the deployment challenges will require continued engagement between the private sector and federal
+government, particularly around the financial and operating risks to early adopters of this technology. As Dow's Vice
+President of Energy and Climate, Edward Stones, testified recently before the U.S. Senate Energy and Natural
+Resources Committee: "To realize the opportunity of advanced nuclear technology in the U.S., we see three key
+areas of risk and opportunity and they are all inextricably linked: fuel, timing, and budget.
+
+***
+
+7 https://www.nrc.gov/info-finder/fc/triso-x.html & https://www.nrc.gov/info-finder/fc/triso-x/project-status.html
+
+8     https://x-energy.com/media/news-releases/dows-seadrift-texas-location-selected-for-x-energy-advanced-smr-
+nuclear-project-to-deliver-safe-reliable-zero-carbon-emissions-power-and-steam-production
+
+***
+
+1. Fuel Assurance: Concerns about the long-term availability and geopolitical issues related to uranium supply
+could impact the sustainability of nuclear power. Industrial customers need confidence that fuel supply will enable
+steady operation and operating costs.
+
+2.Timing: Most industrial users will install advanced nuclear technologies to replace existing assets reaching end-of-
+life. Therefore, projects must be delivered on strict timelines. Ensuring that regulatory frameworks are adaptable
+and efficient is crucial to avoiding prolonged approval timelines.
+
+3. Budget: Capital costs must be clear, competitive, and constant. Significant changes in timing affect costs. And
+the lack of a fuel source affects both timing and costs."
+
+The ARDP program offers a unique pathway for the deployment of advanced reactors. However, we must
+recognize that these are first-of-a-kind reactors that require a strong public-private partnership through the delivery
+of the project. We must further recognize that circumstances and economic conditions change over time. For
+example, when ARDP was launched, we were in a pre-inflationary environment with infrastructure funding flowing
+freely and growth capital markets flush with investment. Since then, the global economic picture has changed
+substantially affecting all clean energy infrastructure projects, with the costs of materials, labor, and financing
+increasing substantially. The U.S. has only built only a handful of reactors in the past 30 years. This is why, in
+addition to a firm commitment to ARDP, we must also have a durable set of clean energy deployment incentives to
+support early movers in deploying new nuclear.
+
+Historically, nuclear has not had equal treatment on the U.S. tax credit system to other technologies, despite its
+many positive attributes. For example, the Advanced Nuclear Production Tax Credit (PTC) that existed since the
+
+                                                                                            Page 11 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+adoption of the Energy Policy Act of 2005, could not sufficiently move the needle to incentivize new nuclear projects
+- project Vogtle was the only new nuclear project to continue forward under that tax credit. Simultaneously, the
+Wind PTC and Solar Investment Tax Credit (ITC) rapidly incentivized the deployments of both wind and solar
+technologies enabling each to march down the cost curve and achieve substantial reductions in overall project cost.
+Those tax credits were further enhanced by state laws to enable, and sometimes require, the deployment of solar
+and wind. Today, we finally have tax credit parity under the Inflation Reduction Act. There is a single ITC and a
+single PTC available for any technology that is clean, putting new nuclear on the same level as wind and solar. This
+is moving the needle in the marketplace with customers. Such a technology-neutral tax credit is critically important
+for our customers to agree to move forward and take on early project development risk with an otherwise new
+technology. Furthermore, we are seeing states stepping up to further enable new nuclear, often with an emphasis
+on SMRs or advanced reactors in particular. Several states have removed previous prohibitions, many are in the
+process of studying policy mechanisms, and several are putting nuclear energy into their clean energy standards.
+You can find an updated list of active state policies and policy considerations in a compendium produced by my
+fellow panelist Maria Korsnick's Nuclear Energy Institute team./9
+
+For example, I currently serve on the Texas Advanced Nuclear Reactor Working Group, which operates under the
+Texas Public Utilities Commission, chartered by Texas Governor Abbott, and will make policy recommendations
+before the end of the year to the Governor and Legislature of Texas. It is critically important that the technology
+neutral clean energy incentives under the IRA be maintained.
+
+Finally, the U.S. nuclear fuel supply chain is a shell of its former strength. Importantly, all steps in the supply chain,
+prior to fuel fabrication, were decimated over the past two decades by a combination of effects of global slumping
+demand for nuclear fuel (driven by Fukushima, political decisions to shut down reactors before the end of their
+useful life (e.g. Germany), and a dearth of new deployments in the Global West) and state-owned enterprises in
+Russia and its allies strategically undercutting Western-based market participants.
+
+***
+
+9 https://www.nei.org/resources/reports-briefs/state-legislation-and-regulations
+
+***
+
+The effects were the lowest uranium mining records in U.S. history, an extended mothballing of the only U.S.
+nuclear fuel conversion facility (Honeywell's Converdyn facility), and the failure to launch of a U.S.-based
+enrichment company from the denationalization of our former federally-owned domestic enrichment company. The
+notable exception was the market entrance of Urenco USA, a U.S.-based subsidiary of Urenco, an enrichment
+company owned by the UK government, Dutch government, and two German utilities. However, even Urenco was
+not able to expand operations during this period due to sustained low fuel supply chain commodity prices. Now
+today, the advanced nuclear industry faces a further challenge - the only global supplier for the level of enrichment
+required in most advanced reactors, including both ARDP technologies, referred to as high-assay low-enriched
+uranium (HALEU), is the Russian state-owned enricher Tenex.
+
+Fortunately, the U.S. Government has already begun supporting a solution, and utilities around the world are
+sending the market signal that they want off Russian and Russian-aligned suppliers. Under a DOE-funded program,
+the U.S. enrichment company Centrus has been able to successfully demonstrate HALEU enrichment at its
+Piketon, Ohio facility at pilot levels. Meanwhile, as directly authorized by the previously discussed Nuclear Energy
+Leadership Act, enacted as part of the Energy Act of 2020, the Department of Energy has begun implementing the
+HALEU Availability Program, with an existing total appropriation of $700 million to support the initial procurement of
+HALEU enrichment and deconversion services to help launch the domestic supply chain. While all engaged
+stakeholders agree that this is not enough money to build a successful program, Congress is currently considering
+over $2 billion in additional funding under bipartisan negotiations for the supplemental military aid supplemental, as
+the funding is directly tied to increasing our national security position by enabling U.S. nuclear fuel security.
+Furthermore, the U.S. led a group of five allies in announcing ambitions for a total of $4.2 in enrichment funding
+support on the sidelines of COP 28 just last month./10
+
+                                                                                           Page 12 of 17
+        House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+This was closely followed by a commitment from the United Kingdom (one of the five signatories) to make a 300
+million pound investment in HALEU production domestically./11
+
+While DOE has worked closely with X-energy and Dow to secure sufficient supplies for several years of operations
+of our first plant, our fast-following customers need to see the development of the U.S. HALEU nuclear fuel supply
+chain and Dow needs security of supply for its long-term operations of the X-energy plant. We are at a critical
+crossroads and increased appropriations for securing our domestic nuclear fuel supply chains will greatly increase
+our likelihood of launching the U.S. advanced reactor industry and greatly enhance its perception in the global
+marketplace.
+
+A full treatment of the HALEU supply chain issues and recommendations, consistent with my recommendations
+above can be found in the work of numerous non-partisan and partisan think tanks, including the excellent work of
+my fellow panelist Niko McMurray's team at ClearPath./12
+
+I would like to make final point. The world is watching us. China has just started operating an HTGR under a project
+they began over a decade ago. In recent discussions with Emirates Nuclear Energy Corporation, they cited the
+value of actually being able to see the Chinese reactor operating. Similarly, both China and Russia are pursuing
+molten salt reactor designs. The race to globally dominate in an advanced nuclear energy world is on today and the
+combination of ARDP, a consistent and supportive technology-neutral tax credit policy like the ITCs and PTCs
+provided under the IRA, and the reestablishment of a U.S. nuclear fuel supply chain are the three required features
+to enable U.S. innovators to catch up to Russian and Chinese state-owned enterprises. We must remain dedicated
+to the path that allows us to demonstrate here and deploy abroad.
+
+***
+
+10        https://www.energy.gov/articles/cop28-us-canada-france-japan-and-uk-announce-plans-mobilize-42-billion-
+reliable-global
+
+11         https://www.reuters.com/business/energy/britain-invest-300-mln-pounds-next-generation-nuclear-fuel-
+programme-2024-01-07/
+
+12 https://clearpath.org/our-take/re-establishing-american-uranium-leadership/
+
+***
+
+* Take-home message
+
+1: We must deploy domestically before we can sell internationally, and U.S. deployment relies upon a fully
+implemented ARDP, a technology-neutral tax environment that enables the deployment of new clean energy
+technologies, and the redevelopment of a nuclear fuel supply chain that inspires confidence in U.S.-led energy
+security for our allies and partners.
+
+***
+
+Market Segments
+
+Industrial Heat and Power Generation
+
+In the US, gross domestic industry represents nearly one-third of the total primary energy-related Greenhouse Gas
+and CO2 emissions annually. Of that one-third, nearly half come from the energy-intensive industrial sectors of
+petroleum process refining, chemicals manufacturing, iron and steel production, along with the production of
+cement-lime production, and even including food and beverage production.
+
+Within petroleum refining and production, crude hydrocracking, distillation, and steam methane reforming represent
+the largest consumption of steam and electrical energy within the downstream process. Similar to petroleum
+refining, chemical processing and manufacturing methods also utilize a combination of both high-temperature
+
+                                                                                            Page 13 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+process heat, often in the form of high-quality steam and electrical power. Iron and steel production represent one
+of the largest and most energy-intensive industrials within global commerce due to the amount of energy input
+required for the chemical reduction of iron. Meanwhile, the cement and lime production industry needs high levels of
+heat to perform calcination in kiln and other operations with large amounts of electricity to operate production
+facilities.
+
+The use of nuclear energy to decarbonize the process heat and electricity requirements of the backbone sectors of
+American and international industrial commerce is a novel use case of nuclear power and a massive opportunity.
+Using nuclear energy will provide clean, carbon emissions-free process heat and electricity to the varied industry
+sectors with deep decarbonization of the hardest-to-abate sectors of the economy. Gen-IV Advanced SMRs such
+as the Xe-100 Plant, will demonstrate the best form, fit, and function to decarbonize power and heat generation for
+industrial applications that require electricity and high-temperature process heat. Furthermore, not all industrial
+commerce happens in convenient locations. X-energy's SMR offers the ability to site carbon-free, quality heat and
+power for remotely located campuses and facilities, at the point of need and highest demand, without the need for
+extensive cross country transmission infrastructure. As described above, our first project with Dow is bringing this
+former dream of the nuclear industry into reality and opening up markets that were never previously achievable.
+
+X-energy is actively engaged and working with numerous industrial market customers who have recognized the
+global challenge to carbon and other greenhouse gas emissions and have already stepped up to decarbonize their
+industrial portfolio. X-energy is currently or has recently conducted work under contract to support projects within
+the steel manufacturing and hydrogen production industries and expects to soon begin work for customers in the oil
+and gas and mining sectors. For example, X-energy is currently performing a pre-feasibility assessment and study
+for a leading North American producer of iron and steel that wants to drive deep decarbonization within the steel
+producing industry. X-energy's scope of work includes performing feasibility, siting, and other advanced
+characterization and pre-investment studies to assess the overall suitability of the client's facilities to deploy the Xe-
+100 SMR.
+
+***
+
+Utility Power Generation - Baseload Generation
+
+Global energy and electricity demand is up and continues to rise at a staggering pace as more and more e-
+technologies continue to develop. In opposition to the energy demand is the need to drastically reduce carbon and
+other greenhouse gas emissions within the power generation industry, and supply clean green decarbonized
+electricity to the national grid. Traditional power generating utilities across the globe are seeking advanced nuclear
+reactors as their most logical choice to meet the clean and carbon-free demand. Our utility customers are seeking a
+carbon-free baseload power source that can be located near their largest and most needed load center demands.
+X-energy is working with many global and domestic utilities with a varied pedigree of nuclear ownership and
+operations.
+
+Our DOE-ARDP fast-follower project is with Energy Northwest, in Richland, WA for a project to develop a minimum
+of four reactors and up to 12 Xe-100 SMR units on their central WA project site. Energy Northwest is a nuclear plant
+owner and operator, whose primary nuclear plant asset is the Columbia Generating Station. Just last week, Energy
+Northwest announced that Puget Sound Energy, a large investor-owned utility is investing $10 million in the project.
+X-energy is performing work today for Energy Northwest under contract to support the delivery of the project. Also
+previously announced is the selection of the Xe-100 by Grant Public Utility District, a member of Energy Northwest,
+which has stated its desire to bring online a four unit Xe-100 plant by 2032 at the latest, to be sited nearby in
+Central Washington State. While a few utilities like Energy Northwest and Grant PUD are moving forward with their
+projects, there are many more, including large traditional nuclear operators that we expect to begin deploying
+reactors in the mid-2030s. All utilities must struggle with the challenges of large light-water reactor deployment, as
+evidenced by the significant cost and schedule overruns at the Plant Vogtle AP1000 project. This has led several
+utilities to signal their desire to build SMRs through their IRP process such as Duke Energy,/13 Dominion
+Energy,/14 and Northwestern Energy/15 to name a few. While these utilities must find creative ways to move
+projects forward in light of their prudence doctrine requirements and regulatory oversight by state boards, there is a
+
+                                                                                            Page 14 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+growing recognition of the role that SMRs must play in an economic decarbonized future U.S. grid and many utilities
+will look to deploy those SMRs that are most successfully demonstrated in the mid-2030s and beyond.
+
+***
+
+Utility Power Generation - Coal-to-Nuclear Transition
+
+A specific business case within the power generation market segment, Coal-to-Nuclear (C2N) transition, is
+receiving great attention worldwide. Transitioning an existing coal-fired power generation asset at end of economic
+life, could be more affordable and feasible for new market entrants and could be a lower initial investment and
+capital expense. In general, the retrofit decarbonization of coal-fired power plants, usually includes three main
+options 1) Repowering of a coal power unit with a new low-carbon energy source, 2) Conversion of feedstock from
+coal to a new fuel source (i.e., natural gas), or 3) Installation of carbon capture at a coal power unit. Repowering
+and retrofitting a coal-fired power plant to operate carbon-free means replacing the fossil fuel energy source with a
+nuclear energy resource. That is, replacing the coal-fired boiler and combustion ancillaries with a nuclear island
+steam supply system consisting of a nuclear reactor and primary coolant circulation and heat exchange system. A
+similar approach has been demonstrated widely in switching from coal-to-natural gas which re-uses the steam and
+heat rejection systems while decommissioning the coal boilers and further installing natural gas turbines and a heat
+recovery steam generator(s). Retrofitting a coal fired plant with a nuclear heat source is similar in reconstruction to
+the conversion and reconstruction using natural gas in that a coal-fired boiler is removed and replaced in whole by a
+nuclear steam supply system. However, in X-energy's experience, having conducted multiple C2N preliminary
+feasibility assessments, the utilization of much the available remaining generation infrastructure is often not
+economically viable due to fit or lifespan of existing equipment. Nonetheless, existing transmission infrastructure
+and rights-of-way, water infrastructure and water rights, available workforce, and community acceptance are all key
+features that could enhance a given project.
+
+***
+
+13 https://www.duke-energy.com/our-company/about-us/irp-carolinas
+
+14 https://www.dominionenergy.com/-/media/pdfs/global/company/desc-2023-integrated-resource-plan.pdf
+
+15                 https://www.northwesternenergy.com/docs/default-source/default-document-library/about-us/erp-
+irp/2023_montana_irp_final.pdf?Status=Master/2023_Montana_IRP_Final.pdf                                       &
+https://www.northwesternenergy.com/docs/default-source/default-document-library/about-us/regulatory/2022-south-
+dakota-irp.pdf X Energy, LLC
+
+***
+
+X-energy is currently or has recently conducted contract work for major, top-tier US and European utilities on C2N
+transition projects where the customer is seeking to transition and convert active coal power plant facilities and
+assets to generate electricity using an Xe-100 plant in place of the coal combustion systems and components, and
+potentially utilizing existing infrastructure. For each of these clients, X-energy is performing various facility and asset
+evaluations as well as system and component assessments. Our approach considers technical, regulatory,
+schedule, and risks, in addition to many other various key factors.
+
+***
+
+Datacenter and Cloud Infrastructure
+
+The single largest demand growth driver in the developed world is the need for clean energy with high load
+reliability for datacenters and cloud computing infrastructure clientele. The increase in the amount of data created
+and the need for indefinite security and storage is exponential. Datacenters have grown from locally owned and
+operated, computer mainframe hardware/software components, with dedicated power constructs to modern,
+hyperscale, massive data processing and storage capacities, with high load demands for secure, reliable, and
+
+                                                                                           Page 15 of 17
+        House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+quality electrical power. Furthermore, modern hyperscale datacenters are geographically located facilities and
+campuses that serve data infrastructure for a multitude of clients and cloud-based enterprise and hyperscale
+demand is expected to rapidly grow based on the accelerating use of Artificial Intelligence. To put this in concrete
+terms, Dominion Energy's previously referenced IRP for Virginia is projecting annual electric load growth for the
+coming decades, heavily driven by data centers, to achieve percentage increases surpassing GDP growth and not
+seen since the U.S. grid was first developed.
+
+***
+
+Nuclear Project Structures and Financing
+
+Nuclear projects are long-term commitments that require trust-building between vendors, customers, and financiers.
+They take many years to complete and substantial overnight capital investment. To put this in context, a typical Xe-
+100 project today takes about 7 years to achieve commercial operations from the start of significant work with a
+customer. The phases of nuclear project development generally fall into mostly sequential categories of feasibility,
+engineering, procurement, construction, and commissioning. Each phase increases the required capital expenditure
+(roughly in order-of-magnitude steps) for the customer, while simultaneously decreasing risk. Licensing spans this
+period, from early project environmental sampling and pre-licensing engagement through receipt of an operations
+license. Typically, the early years of project development require all equity investment, while later stages can be
+mostly funded through debt. This makes sense as debt enters the equation during the higher spend phases, which
+are also lower risk phases of the project.
+
+For simplicity's sake imagine two nuclear projects, one is a large light-water reactor deployment for two gigawatt-
+scale reactors at a cost of $20-30 billion. The second is an SMR project of around 300 megawatts (an order of
+magnitude smaller) and a price tag of one-tenth, or $2-3 billion. Typical nuclear projects require 20-30% equity and
+70-80% debt. As you can see, the first project requires a customer raise around $7.5 billion in equity and $22.5
+billion in debt. These are substantial figures. As described above there are far fewer customers globally that can
+handle such a large equity investment in a nuclear project when compared to alternatives. Then even if the
+customer has the will and capacity for the equity investment, they will then need to find financing to support the debt
+portion of the project. This scale is an impediment to getting a project off the ground, which is why government and
+multi-lateral financial institutions are so important in global nuclear exports.
+
+***
+
+On the other hand, the SMR project requires an order of magnitude less equity and debt, $750 million and $2.25
+billion, respectively (taking the higher end of the $2-3 billion range for argument's sake). These numbers are far
+more accessible for customers and financial institutions, which could enable the scale described above in the TAM
+discussion for SMRs. Nonetheless, these are still substantial figures. In the U.S. the applicability of the DOE Loan
+Program is of crucial importance in enabling projects and abroad, various national export financing mechanisms
+and multilateral banks (as discussed below) will play a critical role in enabling follow-on private financing of SMR
+exports.
+
+One day we will see financing structures similar to those achieved today by renewables and natural gas power
+plants, in which new sources of capital seek to enter nuclear projects in a "project finance" model, with project
+developers leading the way and various levels of equity and debt joining projects from early investors, to traded
+infrastructure funds, to bonds and bank debt-financing. We believe that future is not far off, but it will not be
+achieved until we first demonstrate on-time and on-budget delivery of nuclear projects in the U.S.
+
+***
+
+International Financing Mechanisms
+
+International financing mechanisms for civil nuclear projects are necessary for several reasons. Historically, nuclear
+has been considered a higher risk technology due to regulatory uncertainty, intervener risk, and the difficulty of not
+being able to transfer from one technology vendor to another to complete a project. As a result, commercial lenders
+
+                                                                                            Page 16 of 17
+         House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+seek guarantees or to only finance projects after a technology and vendor have been perceived to be de-risked.
+Moreover, some financial institutions, including multilateral governmental financial institutions like the World Bank
+have outright bans on loaning to nuclear projects as a matter of policy, often due to outdate perceptions of nuclear
+power. In this vacuum, Russia and now China have sought to force other nations' vendors out of the market by
+filling the role of both vendor and lender (and sometimes equity investor) by creating packaged deals that cut
+across their own technology and financial state-owned institutions. They will sell you a reactor and offer a low-
+interest loan with very generous terms to finance the deal, often with other quid pro quo strings attached.
+
+The Export-Import Bank (ExIm) of the United States, or ExIm, is the primary source of U.S. financing for U.S.
+nuclear export projects. ExIm provides financing to foreign buyers as a function of the value of U.S. goods and
+services provided for individual nuclear projects. Exim's flexibility provides it with broad applicability in terms of
+countries and project sizes for financing nuclear projects. The nuclear industry relies on ExIm loans and guarantees
+to foreign buyers throughout the project lifecycle, including feasibility, engineering, procurement, and construction.
+ExIm can cover:
+
+* The lesser of 85 percent of the value of all eligible goods and services in the U.S. supply contract or 100 percent
+of the U.S. content in all eligible goods and services in the U.S. supply contract;
+
+* Between 30 and 50 percent of local costs, depending on the country;
+
+* Valuable debt financing for pre-construction engineering work; and
+
+* Loan terms of up to 22 years.
+
+Once ExIm has committed to lend to a project, it is typically much easier to attract commercial lender participation.
+Putting it simply, knowledge of the nuclear industry is lacking among financial institutions broadly, especially private
+financial institutions. In a world where infrastructure lending leans conservative, private financial institutions will
+often look to the country of origin's government to understand if there is "skin in the game" as a signal of overall
+project risk.
+
+ExIm is authorized through 2026, and it is fundamental to US commercial nuclear competitiveness that it continue
+to be thereafter, as it is often a necessary tool to counter generous foreign government support for Chinese and
+Russian state-owned competitors. While our terms will likely never match those provided by China and Russia, our
+technology could become the superior market option once again (as outlined above through U.S. demonstration of
+advanced nuclear technologies like the Xe-100), and the U.S. is the trustworthy partner. Therefore, if we can ensure
+that our ExIm tools are applicable to the broad range of new technologies under development, SMRs in addition to
+today's large light-water reactors, we will be well-positioned to again compete for global market share against our
+adversaries.
+
+As China has become more active in supporting its export projects in third countries (see the well documented Belt
+and Road Initiative), Congress has authorized ExIm to match terms and compete through the China and
+Transformational Export Program in 10 transformational export areas. However, commercial nuclear energy is not
+included in the renewable energy, storage, and efficiency area eligible for support. Nor is there a similar program or
+authority to allow ExIm to match Russian offers that are subsidized or diverge from OECD financing standards. This
+situation allows Chinese and Russian companies an advantage that US suppliers do not today have the tools to
+counter. These authorities should be amended to allow nuclear technologies equal treatment among export energy
+technologies and to allow ExIm to match both Chinese and Russian terms in the marketplace.
+
+Other agencies and tools while more focused in purpose and/or limited in capacity remain important. These include
+the:
+
+* International Development Finance Corporation, which plays a significant role in providing debt and equity support
+for projects in countries with lower per capita GDPs;
+
+                                                                                           Page 17 of 17
+        House Financial Services Subcommittee Issues Testimony From X-energy VP Reinke (Part 1 of 2)
+
+* US Trade and Development Agency, which funds very early-stage feasibility projects, albeit with repayment terms
+for U.S. participants, which can be less useful in a world in which customers of nuclear technologies typically pay
+for project development work at-profit;
+
+* US Department of State's Foundational Infrastructure for Responsible Use of Small Modular Reactor Technology
+(FIRST) program, which supports capacity building for SMR deployment in partner countries; and
+
+* The many programs of the U.S. Department of Energy, U.S. Nuclear Regulatory Commission (NRC), and the U.S.
+Department of Commerce to advocate for U.S. nuclear exports and support knowledge transfer and capacity
+building bilaterally or through multinational programs like those of the OECD's Nuclear Energy Agency and United
+Nations' International Atomic Energy Agency.
+
+***
+
+(Continues with Part 2 of 2)
+
+***
+
+URL: X-energy
+
+***
+
+Original text here: https://docs.house.gov/meetings/BA/BA10/20240117/116742/HHRG-118-BA10-Wstate-ReinkeB-
+20240117.pdf
 
 Copyright Targeted News Services
 
-MSTRUCK-8751266 MSTRUCK
+T40-MgEditor-8485598 T40-MgEditor
 
 
-Load-Date: July 30, 2024
+Load-Date: February 13, 2024
 
 
   

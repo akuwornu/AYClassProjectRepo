@@ -1,102 +1,107 @@
 
 
-                                                                                                 Page 1 of 2
-   BDx Indonesia and NeutraDC Unveil Phase I of Interconnected Data Center Ecosystem: Driving AI Innovation
-                                      through Strategic Collaboration
+                                                                                                       Page 1 of 2
+                                    2024 IAA Election Results and Presidential Address
 
 
 
 
-  BDx Indonesia and NeutraDC Unveil Phase I of Interconnected Data Center
-     Ecosystem: Driving AI Innovation through Strategic Collaboration
-                                                   Business Wire
-                                      August 26, 2024 Monday 3:30 AM GMT
+                      2024 IAA Election Results and Presidential Address
+                                                     Targeted News Service
+                                          January 11, 2024 Thursday 9:17 PM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 628 words
-Dateline: JAKARTA, Indonesia
+
+
+
+Length: 798 words
+Byline: Targeted News Service
+Dateline: OTTAWA, Canada
 
 Body
 
 
-BDx Indonesia, a joint venture between BDx Data Centers, Indosat Ooredoo Hutchison (IOH), and Lintasarta, along
-with NeutraDC, a subsidiary of Telkom Indonesia, is thrilled to announce the launch of the first phase of their
-interconnected Internet Exchange (IX) ecosystem in Indonesia.
+The International Actuarial Association issued the following news release on Jan. 10, 2024:
 
-This      press      release     features   multimedia.             View        the      full     release       here:
-https://www.businesswire.com/news/home/20240824300099/en/
+The International Actuarial Association (IAA) is pleased to announce that, at its meeting on November 20, 2023 in
+Lisbon, Portugal, the Council of the IAA approved the following individuals to serve as Officers of the IAA effective
+January 1, 2024.
 
-Mayank Srivastava, CEO BDx Data Centers, and Andreuw Th.A.F, CEO NeutraDC, when unveiling Phase 1 of the
-Strategic Alliance collaboration in Bali, Monday, 26 August 2024. (Photo: Business Wire)
+President: Charles Cowling (UK)
 
-The initiative, first revealed at a Memorandum of Understanding (MoU) signing ceremony at the Pacific
-Telecommunications Council (PTC) 2024 conference in January, will result in the establishment of a portfolio of 108
-interconnected colocation and edge sites across Indonesia. Phase-1 includes the operational launch of BDx's
-CGK3 & 3A campus in Jakarta and NeutraDC's Cikarang facility. These sites will serve as internet aggregation
-points, creating a hyperconnected and resilient internet backbone that will support Indonesia's digital
-transformation.
+President-Elect: Bozenna Hinton (Australia)
 
-NeutraDC and BDx Indonesia will operate independent Internet Exchanges (IXs) that are interconnected to each
-other's data center ecosystem, offering a seamless customer experience. The BDx IX PoP is live at CGK3A and set
-to launch at NeutraDC's Cikarang facility in September 2024. The NeutraDC and BDx IXs will be connected on a
-multi-terabit fiber ecosystem, creating high speed resilient network on IOH and Telkom networks.
+Immediate Past President: Micheline Dionne (Canada)
 
-"BDx is proud to collaborate with NeutraDC in the spirit of Gotong Royong to advance Indonesia's digital
-infrastructure," said Mayank Srivastava, CEO of BDx Data Centers. "This initiative will go a long way in enhancing
-the quality of internet infrastructure, enhancing the user experience for all customer segments."
+All terms of office are for one year ending on December 31, 2024
 
-At the launch event for the first phase of the interconnected Internet Exchange (IX) ecosystem in Indonesia,
-NeutraDC's CEO, Andreuw Th.A.F, emphasized the importance of the partnership in advancing the nation's digital
-landscape. He highlighted that this collaboration is not just about enhancing infrastructure, but also about setting a
-new standard for digital connectivity across the country.
+Mr. Cowling's involvement in the work of the IAA started in 2011 as a delegate of the Institute and Faculty of
+Actuaries on the Pensions and Employee Benefits Committee. Most recently, he served as Chair of the Advance
+Committee. In addition, he was a member of the Executive Committee, Chair of the Renewal Task Force, Vice-
+Chair and Chair of Pensions and Employee Benefits Committee, IAA Delegate to the OECD/IOPS, IAA Delegate to
+the IASB, and IAA Delegate to the PBSS Section. His complete bio is available online.
 
-                                                                                                 Page 2 of 2
-   BDx Indonesia and NeutraDC Unveil Phase I of Interconnected Data Center Ecosystem: Driving AI Innovation
-                                      through Strategic Collaboration
+Mr. Cowling offered these comments upon assuming the position of IAA President:
 
-"Our strategic partnership with BDx Indonesia marks a significant milestone in supporting Indonesia's digital
-transformation. This collaboration is designed to democratize internet access, ensuring that even the most remote
-areas are connected to a resilient and robust digital network. By working together, we will democratize internet
-access and foster a transformative digital landscape," said Andreuw Th.A.F.
+I am delighted to be taking a leadership role in the Actuarial Profession at this challenging time. Actuaries have
+always been known for their deep analytical skills in the areas of insurance and pensions. But more recently our risk
+management and data analytical skills have proved invaluable in the areas of banking, data science, climate
+change and pandemic modelling. Indeed the IAA team, composed of Rade Musulin and Simon Curtis, recently
+came back from a very successful week of engagements at COP28 - thank you both. And we are now excited to be
+doing more work on the UN's Sustainable Development Goals - particularly in the area of water-related risks.
 
-This initiative will significantly advance internet connectivity across the region, benefiting businesses, driving
-economic growth, and enhancing digital inclusion. With 108 interconnected sites, it offers improved resilience, faster
-access, scalability, and robust disaster recovery. BDx's specialized AI data centers are designed to meet the
-demanding requirements of AI training, while the interconnected infrastructure mesh supports inference at the
-edge, creating a future-proof distributed AI model. Additionally, customers not hosted at BDx or NeutraDC facilities
-can connect to the ecosystem from anywhere in the country by setting up a backhaul to the nearest BDx or
-NeutraDC telco-neutral site, ensuring seamless regional integration and connectivity.
+                                                                                                         Page 2 of 2
+                                 2024 IAA Election Results and Presidential Address
 
-Key cities like Batam, Surabaya, Medan, Makassar, Bandung, and Semarang are part of the phase 2 of the
-expansion plan.
+Globally, we face many challenges and, as actuaries, we want to play our part in helping Society combat the impact
+of climate change and solving some of the many difficult problems of protection gaps around the world. Too many
+people have insufficient savings or financial protection in the event of disaster. We actuaries have an important role
+to play in making the world a better and safer place for all.
 
-About BDx Data Centers https://www.bdxworld.com/
+However, there is one challenge in particular I want to focus on in my year as President - and that is the huge
+opportunities, and threats, posed by artificial intelligence, or AI. AI is already changing our world in so many
+ways. It is offering great medical advances and huge improvements in global productivity and growth. In the
+actuarial world it is giving us access to ever more powerful tools and the ability to process huge amounts of data
+and provide much better solutions to our clients. For example, actuaries are working with smallholder farmers in
+Africa and South America, developing mobile phone apps that not only provide access to detailed short term and
+long-term weather information, enabling much better management of crops; but they also provide easier access to
+affordable insurance, ensuring farming communities are much better protected in the event of crop failure.
 
-About NeutraDC https://www.neutradc.com/
+But AI also comes with threats - threats to privacy and intellectual property, threats from inappropriate usage of
+data, threats from financial instability caused by the use of ever more complicated models in financial markets
+whose impact isn't always fully understood. The Actuarial Profession has a really important role to play in
+encouraging the responsible use of AI, supporting not only its ethical and professional use, but also promoting the
+responsible development of AI in Society's interests. I will therefore, next year, be hosting the first global actuarial
+summit on AI where we will bring experts together from around the world to debate and plan for how the actuarial
+profession can best respond to the challenge of AI. Please look out for more communications on how you can
+support the IAA's AI initiative in 2024.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240824300099/en/
+Finally, I want to thank all our volunteers and member associations for your hard work, inspiring ideas and
+wonderful support for the important work of the IAA - which is only possible with the fantastic collaboration and
+cooperation of you all. Please do continue to give the IAA your support as we face ever greater challenges going in
+to 2024.
+
+In closing, I would like to thank my predecessors, Roseanne and Micheline, for their outstanding leadership and
+diligence in pursuing the goals of the IAA. I have learnt so much from them and hope I can live up to the high
+standards they have set.
+
+I wish you all a Happy New Year and look forward to a successful and productive 2024.
+
+***
+
+Original                                              text                                          here:
+https://www.actuaries.org/IAA/Documents/Publications/News_Releases/2024/News_Release_2024_Presidential_A
+ddress_EN.pdf
+
+Copyright Targeted News Services
+
+MSTRUCK-8439372 MSTRUCK
 
 
-CONTACT: Richa Babbar
-
-richa.babbar@bdxworld.com
-
-
-http://www.businesswire.com
-
-
-
-Graphic
-
-
-Mayank Srivastava, CEO BDx Data Centers, and Andreuw Th.A.F, CEO NeutraDC, when unveiling Phase 1 of the
-Strategic Alliance collaboration in Bali, Monday, 26 August 2024. (Photo: Business Wire)
-
-
-Load-Date: August 26, 2024
+Load-Date: January 11, 2024
 
 
   

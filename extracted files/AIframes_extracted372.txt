@@ -1,141 +1,194 @@
 
 
-                                                                                                 Page 1 of 3
-            Lamar University: Dockens Addresses AI in Higher Education Through Research and Training
+                                                                                                      Page 1 of 4
+                 GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
 
 
 
 
-     Lamar University: Dockens Addresses AI in Higher Education Through
-                           Research and Training
-                                                     Targeted News Service
-                                          June 26, 2024 Wednesday 12:17 PM EST
+     GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID
+                           SOONER
+                                               States News Service
+                                             March 28, 2024 Thursday
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 1180 words
-Byline: Targeted News Service
-Dateline: BEAUMONT, Texas
+Length: 1369 words
+Byline: States News Service
+Dateline: Maxwell AFB, AL
 
 Body
 
 
-(TNSres) -- Lamar University issued the following news:
+The following information was released by Civil Air Patrol (CAP):
 
-Dr. Ashley Dockens began her professional journey with a deep commitment to audiology. However, her career
-trajectory has taken an unexpected turn, leading her to become a prominent figure in the field of generative
-artificial intelligence (AI) in higher education.
+Damage assessment
 
-"I am an audiologist by trade. I have my clinical doctorate; I have my Ph.D. in Communication Sciences and
-Disorders, and never even expected to be in higher education," Dockens said. "I ended up in higher education
-because there were things out in my field that I didn't love, and I didn't know how to fix without simply teaching other
-people not to do it. I decided that I would take my Ph.D. and go teach, so I came to Lamar a little over 10 years
-ago."
+By the time most of the world became aware of deadly wildfires ripping through Lahaina and Kula on Maui, a small
+team of Civil Air Patrol and Federal Emergency Management Agency members had already remotely identified 800
+damaged or destroyed structures.
 
-Her problem-solving nature soon led her into administrative roles,
+Using publicly available imagery and artificial intelligence technology, within days the remote team assessed
+some 2,000 homes and businesses and deemed more than 1,800 destroyed or damaged. They drew on satellite
+imagery and airborne imagery from both Vexcel Imaging and CAP's Hawaii Wing,
 
-"I also didn't expect to end up in administration, but I'm a problem-solving person, and so I ended up as director of
-the audiology program within just a few years of starting here and was Director of Audiology for a long while," she
+Working with FEMA, the CAP team created a map of the damaged structures which President Joe Biden used in
+issuing a federal disaster declaration to expedite financial aid to fire victims. A White House social media post on
+federal support to Hawaii showed the president viewing the assessment map.
+
+Wildfires view
+
+"In his hand he was holding a map and it was our team's map," said Maj. Scott Kaplan, volunteer manager for the
+CAP Geospatial Program.
+
+"We never thought the products our team helped FEMA create would be given to the president."
+
+That small but rewarding recognition was among many highlights for the relatively young CAP program. Last year it
+assessed more than 63,000 structures in 18 states and territories, amounting to more than 1,000 volunteer hours
+that helped speed relief to millions of Americans in need.
+
+Not bad for a program only 5 years old.
+
+                                                                                                        Page 2 of 4
+                GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
+
+"I've joked all along that as a program, we're still crawling or walking. But really, we've been running with scissors
+since we started," said Kaplan, who recently served as deputy commander for Virginia Wing Group 3.
+
+He's employed as the senior adviser to the chairman of the Civil Applications Committee at the U.S. Geological
+Survey, where he's on a joint assignment from the National Geospatial-Intelligence Agency.
+
+Kaplan was tapped to create what was then called the CAP Geographic Information Systems (GIS) team now
+known as the CAP Geospatial Program to reflect a broader mission beyond the use of GIS.
+
+Today, in addition to airborne and satellite imagery, the team heavily leverages open-source videos and photos and
+even hand-held imagery collected through phone applications.
+
+A GIS tool uses all this remote sensing data to visualize the material and create geospatial information. The
+program continues to expand its ranks with CAP members, including cadets who help gather and analyze images
+and other information far from a disaster zone.
+
+Maj. Scott Kaplan
+
+Just recently, the program has been at work providing geospatial assessments for two other events of national
+importance destructive wildfires in the Texas panhandle and a tornado outbreak in the Midwest.
+
+During its formation, leadership established three main goals for the program:
+
+Help augment federal, state, and county emergency response teams in times of natural disasters with GIS-trained
+personnel.
+
+Provide visualized data to help CAP internally understand capabilities from National Headquarters down to the
+squadron level.
+
+Offer a potential career path for cadets in the geospatial industry.
+
+Soon after the program was made official on July 31, 2019, Category 5 Hurricane Dorian struck the Bahamas and
+eastern U.S.
+
+Partnering with GIS technology provider Environmental Systems Research Institute Inc., better known as Esri, to
+use its ArcGIS mapping and spatial analytics tools, the team got to work building a geospatial story map and
+dashboard to assist CAP incident commanders.
+
+Then in January 2020, a powerful earthquake struck Puerto Rico. The team equipped Puerto Rico Wing adult
+members and cadets with geospatial handheld applications developed by CAP and the National Alliance for Public
+Safety GIS.
+
+Ground teams gathered images provided to the tool, which provided a comprehensive picture of the earthquake's
+impact.
+
+Flooding assessment
+
+The images taken were the first vetted images provided to FEMA, accelerating a presidential disaster declaration.
+
+Soon after that, COVID-19 hit, and the Geospatial Team was tasked with helping provide CAP the big picture of
+infection rates for members across the country.
+
+Using smartphone-based applications with a survey completed by squadron commanders showed how many
+members tested positive for the virus in the previous week. Leveraging geospatial technology, the team was able to
+show CAP's national leadership exactly how COVID was affecting membership.
+
+                                                                                                        Page 3 of 4
+               GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
+
+Over just the first few disasters, "we helped augment FEMA during times of a natural disaster with CAP Geospatial
+personnel; we helped CAP internally; and we got kids involved because we allowed them to use the same tools we
+use," Kaplan said.
+
+"In doing so, we had met all three goals of the program," he said.
+
+One of the Geospatial Program's biggest draws is that anyone can participate, regardless of location, age, gender,
+or disability.
+
+"We allow everyone to be involved, and that's been a big piece of our program since its inception," Kaplan stressed,
+adding thateven visually impaired volunteers are welcomed. "Even if someone is blind, we'll find a way for them to
+help."
+
+Maj. P. Adrian Karnes
+
+Maj. P. Adrian Carnes, the National Emergency Services Academy-Southeast chief of staff and South Carolina
+Wing director of logistics, has participated in nine Geospatial Disaster Assessment Teams including tornado and
+hurricane coverage that earned team members some of the highest honors awarded by state governors and CAP
+national leadership.
+
+"You're helping other people in their darkest moment," Carnes said, "people who've lost everything, and we try to
+help them pull their lives back together again."
+
+Carnes' daughter Casey, now a hospice nurse, was a top-ranked cadet as a youth, and he believes one of the
+Geospatial Program's best aspects is the opportunity for young cadets to work alongside adult members.
+
+"These kids can do the same job I can do because they are trained just as I am," he said. "To have them develop a
+sense of pride in themselves, and then carry that forward, is among the things I like most about CAP."
+
+1st Lt. John Roberts
+
+First Lt. John Roberts, homeland security officer for the Massachusetts Wing, joined the Geospatial Program in May
+2022 as another way to contribute.
+
+"You can do it from your chair or anywhere, at any time of the day," Roberts said. "More importantly, it gives
+members the ability to contribute in real missions."
+
+He recalls helping with damage assessments in Florida after Hurricane Ian damaged 24,546 structures in
+September 2022. Roberts had family in Florida displaced by the storm, and because of the work he and others did,
+his sister received financial assistance from FEMA in a matter of days.
+
+"Anything we can do to improve that speed and get those resources and money allocated is our real mission," he
 said.
 
-Dr. Dockens' current role as the Associate Dean of Policy and Procedure for the College of Graduate Studies, but
-even more so as the Director of the Center for Teaching and Learning Enhancement (CTLE) at Lamar University
-became a catalyst for her deeper involvement with AI.
+In addition to expediting FEMA payments, the Geospatial Program's damage assessments can help combat
+insurance fraud by matching claims against their evaluations something even artificial intelligence solutions still
+struggle to accurately detect. For instance, a solar panel on a perfectly intact house could be misread as destruction
+because the machine sees what looks like a massive black hole in the image.
 
-"Around January or February of last year, there had been a lot more [news] coming out about generative AI and its
-applications in higher education. The fear was growing because people were worried that it would cause students to
-cheat or that it would take away people's jobs and those kinds of things," Dockens said. "But we were still pretty
-early on, and not everybody really knew very much and the more I was talking to people on campus, the more I
-realized no one's educating them; not because the university was avoiding it, but because it was just so new."
+Recently Roberts and Carnes were among team members volunteering to help the Massachusetts Institute of
+Technology's Lincoln Laboratories improve AI models to prevent such misinterpretations. Volunteers were divided
+into three groups to label thousands of CAP-generated images and later confirm or reject results from the AI
+program.
 
-                                                                                                Page 2 of 3
-           Lamar University: Dockens Addresses AI in Higher Education Through Research and Training
+"The value CAP is providing MIT Lincoln Labs is massive," Roberts said.
 
-Dr. Dockens saw an opportunity to bridge this knowledge gap.
+                                                                                                           Page 4 of 4
+                GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
 
-"I thought at the very least what I'd do was start posting articles that exist out there on our CTLE social media," she
-said.
+For the Geospatial Program Damage Assessment Team, AI is now used to augment efforts but it won't replace
+them. "We're still better than the AI models," Kaplan said.
 
-When questions began to arise from both the community and the Office of Academic Affairs about the university's
-policies, Dockens noted the increasing curiosity and concern surrounding the matter and acted.
+"We have some of the best damage assessment imagery experts for natural disasters in the country," he added.
+And he has a spate of awards to back it up, including the Making a Difference Award given at Esri's federal
+government conference and the CAP JanEX Prize for Innovation.
 
-"I thought I could at least put out maybe some fact sheets and information about what it is and help people kind of
-build a sense of information and calm," she said. "I initially put together a factsheet on ChatGPT and other
-generative AIs and what they can and can't do. I started having more and more calls coming in asking for more
-information, and it kind of just hit me. People were starving for information."
+"I love what I do," Kaplan said. "At the end of the day, we're helping people, and that's what matters."
 
-Dockens quickly moved to meet this demand.
+_____
 
-I started creating guides, and one of them, probably the thing I'm asked for the most, is the first one I created last
-summer. It's a giant guide that had 100 different ways you could essentially redesign your class assignments to
-make them either resistant to AI or to make them inclusive of AI," Dockens said. "That document has been used
-now by universities all over and they've contacted me about it. It just tells ways to make assignments much more
-authentic, much more hands-on, much more experiential, even if it's an online course."
+Anne Saita
 
-Her expertise began to expand beyond healthcare, exploring how generative AI could revolutionize various sectors.
-Dr. Dockens started publishing information and presenting at conferences, showcasing how AI could augment
-human capabilities, enhance research methodologies, and transform educational practices.
-
-"I started attending every possible higher education webinar training that I could possibly attend. I've easily
-attended 60 plus trainings. I've done every course I could possibly find and became certified in generative AI with
-Blockchain Council. I am a lead for my field," Dr. Dockens said, "the national, well, international accreditor is the
-Council for Academic Programs and Communication Sciences and Disorders. I became the chair of their AI Task
-Force to create policy and procedure for our field in the academic sector. My research and grants have shifted to
-AI. Essentially, I eat, sleep, and breathe generative AI."
-
-Now, Dr. Dockens' expertise in generative AI extends beyond her presentations; she is also actively involved in and
-leading policy and guideline development. Notably, she has and is contributing to the creation of policies and
-guidelines for the Council of Academic Programs in Communication Sciences and Disorders, Lamar University, and
-the College of Graduate Studies, among others. She also consults with other universities and K-12 school systems
-on building their trainings, policies, and guides.
-
-Moreover, Dr. Dockens is at the forefront of research in AI in higher education. As the primary investigator on
-multiple grants, including grants from the Lamar University Center for Resiliency, she is dedicated to enhancing
-faculty attitudes and self-efficacy in AI integration for post-disaster higher education resilience. Additionally, she is
-conducting ongoing research surveys to gauge both faculty and student knowledge, usage, ethics, and beliefs
-about generative AI tools. Her research will be used to create more informative training sessions for faculty at
-Lamar University and beyond.
-
-"I've found that the best way to get faculty excited about it and get over the fear is to show them how they can use it
-in their own everyday workflow. Once they realize it doesn't have to be evil, it becomes a useful tool - once they get
-past that fear of it. That's been helpful," Dockens said.
-
-By demonstrating practical applications in their daily workflows, Dockens found that faculty members began to
-overcome their initial apprehensions.
-
-"I think it's upon us to show our value and how we can leverage these new tools to improve higher education,"
-Dockens said. "It helps faculty improve and support their teaching goals. It assists in meeting all the hectic
-requirements of expectations of faculty work. I also think it's going to help with accessibility because it can create
-alternate outputs to make accessible aids and formats for various needs."
-
-                                                                                                Page 3 of 3
-           Lamar University: Dockens Addresses AI in Higher Education Through Research and Training
-
-As AI becomes increasingly prevalent in various industries, Dockens underscored the necessity for students to
-develop AI literacy within a safe and conducive learning environment.
-
-"Now that AI is out there, it's not going anywhere. It's starting to become a part of the industries in the workplaces
-where our students are going to go. I think there's starting to become an expectation that you as a person who will
-be in the workforce later needs to be AI literate," Dr. Dockens said. For that reason, you must learn how to use it.
-And you can only want to use it if you use it in a safe space, and to me, that's where the classroom is; it should be a
-safe space to learn."
-
-***
-
-Original   text   here:   https://www.lamar.edu/news-and-events/news/2024/06/dockens-addresses-ai-in-higher-
-education-through-research-and-training.html
-
-Copyright Targeted News Services
-
-T40-MgEditor-8694591 T40-MgEditor
+Contributing writer
 
 
-Load-Date: June 26, 2024
+Load-Date: March 29, 2024
 
 
   

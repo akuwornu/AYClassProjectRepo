@@ -1,442 +1,490 @@
 
 
-                                                                                                        Page 1 of 8
-                           The Latest: Trump interview with Elon Musk on X plagued by glitches
+                                                                                                   Page 1 of 9
+                                   Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
 
 
 
-      The Latest: Trump interview with Elon Musk on X plagued by glitches
-                                                  Associated Press International
-                                            August 13, 2024 Tuesday 2:51 AM GMT
+                    Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
+                                                     Targeted News Service
+                                            January 26, 2024 Friday 9:00 AM EST
 
 
 
-Copyright 2024 Associated Press All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Section: BUSINESS NEWS; DOMESTIC NEWS; POLITICAL NEWS
-Length: 3729 words
-Byline: The Associated Press
+
+
+
+Length: 3944 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Vice President Kamala Harris and former President Donald Trump are painting much different pictures as they meet
-with voters on the campaign trail. Harris, by turns, is pushing “joy” — branding the Democratic ticket, which includes
-her running mate, Minnesota Gov. Tim Walz, “as joyful warriors.”
+(TNSres) -- The U.S. Census Bureau issued the following tip sheet (No. 2):
 
-Trump, meanwhile, has promoted a gloomier view for Republicans, saying at a news conference last week that,
-“We have a lot of bad things coming up.”
+***
 
-Voters will hear more from both candidates and their running mates in the days ahead.
+Upcoming
 
-Trump's live interview on X, the social platform from which he was banned for nearly two years, was plagued with
-technical issues with many users unable to access the conversation. The conversation began 41 minutes after its
-initial start time.
+2024 Product Calendar
 
-Follow the AP’s Election 2024 coverage at: https://apnews.com/hub/election-2024.
+The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
+scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
+updated as needed throughout the year.
 
-Here’s the Latest:
+Census Scientific Advisory Committee: Call for Nominations
 
-Trump wraps more than two-hour live interview with Musk
+The U.S. Census Bureau is requesting nominations to the Census Scientific Advisory Committee (CSAC) through
+the Federal Register Notice (FRN). CSAC provides recommendations on the design, operation and implementation
+of Census Bureau programs. New members will serve a 3-year term. Nominations must be submitted through the
+FRN by February 2, 2024.
 
-It had a somewhat rocky start, with Musk blaming technical issues on a DDOS attack that caused a more than 40-
-minute delay to the event, hosted on X.
+2030 Preparation
 
-But once they got going, Trump and Musk chatted on a variety of issues, with much of Trump’s responses mirroring
-some of the multitopic stem-winding that’s typical of his rallies and speeches. That included anecdotes about his
-interactions with North Korean leader Kim Jong Un and Russian President Vladimir Putin, as well as critiques on
-what both men characterized as Democrats’ failures in securing the U.S.-Mexico border and tamping down crime in
-American cities.
+Initial Strategies for 2030 Census Preparations
 
-There was also specific discussion of Harris, with both Trump and Musk warning of the direction into which they felt
-she would lead the U.S. as president.
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in February.)
 
-                                                                                                         Page 2 of 8
-                        The Latest: Trump interview with Elon Musk on X plagued by glitches
+2020 Census
 
-Much of the convivial back and forth sounded less like a newsmaker interview and more like a conversation
-between similarly minded allies.
+                                                                                                      Page 2 of 9
+                              Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-Musk endorsed Trump just after the assassination attempt at a Pennsylvania campaign rally last month.
+Detailed DHC-B Proof of Concept
 
-Trump says illustration of Harris looks like Melania
+The Census Bureau will release a proof of concept and host a webinar and for the 2020 Census Detailed
+Demographic and Housing Characteristics File B (Detailed DHC-B) for public review and feedback. The Detailed
+DHC-B includes household type and tenure data for approximately 1,500 detailed racial and ethnic groups and
+American Indian and Alaska Native tribes and villages. This proof of concept illustrates the proposed 2020 Census
+Detailed DHC-B data product design and disclosure avoidance settings using 2010 Census data. A 30-day public
+feedback period on the proof of concept concludes on February 28. The final Detailed DHC-B based on 2020
+Census     data    will   be    released    in     September      2024.    Learn       more     at  the    webinar
+(https://www.census.gov/data/academy/webinars/2024/disclosure-avoidance-series/dhc-b-proof-of-concept.html) on
+January 29 from 3-4 p.m. EST. (Scheduled for release January 29.)
 
-Trump likened the recent Time magazine cover illustration of Harris to another highly visible woman adjacent to
-American politics: his own wife.
+2020 Island Areas Censuses Detailed Cross-Tabulations Data
 
-“She looked very much like our great first lady, Melania,” Trump told Musk, as they discussed the cover image of
-Monday’s issue.
+The Census Bureau will release detailed cross-tabulation data for the U.S. Island Areas: American Samoa, the
+Commonwealth of the Northern Mariana Islands, Guam and the U.S. Virgin Islands. The release includes 95
+demographic, social, economic and housing characteristics tables. These characteristics are cross tabulated by
+race, age, sex, place of birth, educational attainment, labor force status, occupation, industry, and income and
+earnings. Housing characteristics are cross tabulated by age of householder, household income in 2019, household
+size, tenure, units in structure and year built. This final release of 2020 Island Areas Censuses data include the
+Island Area and county levels of geography. More information is available on the 2020 Island Areas Censuses Data
+Products       webpage          (https://www.census.gov/programs-surveys/decennial-census/decade/2020/planning-
+management/release/2020-island-areas-data-products.html#demprofile). (Scheduled for release February 15.)
 
-Time’s new cover story on Harris features the phrase, “Her Moment,” alongside a black-and-white illustration of the
-vice president.
+American Community Survey
 
-The magazine has caught some critique for putting out the story, for which Harris declined to be interviewed, amid
-Republican reproval that she hasn’t sat for a media interview since Biden quit the campaign, making way for her.
+2022 Community Resilience Estimates, New Winter Weather and Flooding Ranking Tables
 
-Trump praises president of Argentina
+The U.S. Census Bureau will release the 2022 Community Resilience Estimates (CRE) and new ranking tables of
+U.S. areas most socially vulnerable to winter weather and flooding. The CRE interactive tool and datasets pages
+will also be updated with the new 2022 CRE data. Community resilience is the capacity of individuals and
+households within a community to absorb the external stresses of a disaster. The CRE measures the social
+vulnerability of a community that inhibits community resilience based on 10 topics from the American Community
+Survey, including poverty status, disability status, age, broadband internet access, and health insurance coverage.
+(Scheduled for release January 30.)
 
-Trump praised Argentina President Javier Milei and his extreme austerity measures that have laid off more than
-70,000 public sector workers and cut pensions by 30% to reverse spending that caused the country to default on its
-debts.
+New Report on the Nation's Foreign-Born Population
 
-“He’s great,” Trump told Musk. “I hear he’s doing really a terrific job. He’s going to make Argentina great again.”
+The U.S. Census Bureau will release new data products highlighting select demographic and socioeconomic
+characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report compares 2010
+and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing composition of
+the foreign-born population in the United States. The Highlights of the Foreign-Born Population data visualization
+displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of geography
+(national, state and county). (Tentatively scheduled for release February 21.)
 
-Annual inflation in the South American country still tops 270%, among the highest rates in the world, outpacing
-salaries. And unemployment has become a bigger concern for the leader as the government freezes infrastructure
-projects.
+Demographic
 
-Trump replays the hits
+Household Pulse Survey
 
-Trump’s friendly interview with Musk has so far revealed little new information about the former president's thinking
-or his plans should he win a second term.
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
 
-Trump has spent much of the conversation discussing his favorite topics, including the border and illegal
-immigration.
+                                                                                                     Page 3 of 9
+                              Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-Fact Focus: Trump's immigration claim is unsubstantiated
+with data dissemination, including detailed data tables and public- use files on a monthly basis. (Scheduled for
+release February 22, March 21 and April 18.)
 
-Trump: “You have millions of people coming in a month. And they have another 5 months.”
+Economic
 
-U.S. Customs and Border Protection reported 7.1 million arrests for illegal crossings from Mexico between January
-2021 and June 2024. That’s arrests, not people. Under pandemic-era asylum restrictions, many people made
-multiple crossing attempts until they succeeded because there were no legal consequences for getting turned back
-to Mexico. So the number of people is lower than the number of arrests.
+Transitioning multiple annual economic surveys to the new Annual Integrated Economic Survey
 
-In addition, CBP said it stopped migrants 1.1 million times at official land crossings with Mexico between January
-2021 and June 2024, largely under an online appointment system to claim asylum called CBP One.
+The U.S. Census Bureau will announce the launch of the Annual Integrated Economic Survey (AIES) beginning in
+March. This new program replaces seven annual economic surveys, streamlining reporting by consolidating all
+necessary questions into one convenient survey. The AIES will replace the Annual Capital Expenditures Survey
+(ACES), Annual Retail Trade Survey (ARTS), Annual Survey of Manufactures (ASM), Annual Wholesale Trade
+Survey (AWTS), Manufacturers' Unfilled Orders Survey (M3UFO), Report of Organization (COS), and the Service
+Annual Survey (SAS). Companies selected to participate in the AIES will receive a survey invitation in March of
+2024.
 
-U.S. authorities also admitted nearly 500,000 migrants from Cuba, Haiti, Nicaragua and Venezuela under
-presidential authority if they had financial sponsors and arrived at an airport.
+The statistics created from that data will provide key measures of economic activity, including the only
+comprehensive national and subnational data on business revenues, expenses and assets on an annual basis. For
+more information on the AIES, visit census.gov/aies.
 
-All told, that’s nearly 8.7 million encounters. Again, the number of people is lower due to multiple encounters for
-some.
+2022 Annual Wholesale Trade Survey
 
-                                                                                                        Page 3 of 8
-                        The Latest: Trump interview with Elon Musk on X plagued by glitches
+The U.S. Census Bureau will release data tables from the 2022 Annual Wholesale Trade Survey (AWTS). This
+survey produces national estimates of total annual sales, e-commerce sales, end-of-year inventories, purchases,
+operating expenses, gross margins and commissions for wholesale businesses located in the United States. The
+AWTS provides statistics for merchant wholesalers of durable and nondurable goods; manufacturers' sales
+branches and offices; and wholesale electronic markets, agents and brokers. (Scheduled for release January 29.)
 
-Musk asks Trump about assassination attempt
+2022 Annual Retail Trade Survey
 
-Musk opened by asking Trump about the assassination attempt at his Pennsylvania rally last month.
+The U.S. Census Bureau will release data tables from the 2022 Annual Retail Trade Survey (ARTS). This survey
+produces national estimates of total annual sales, e-commerce sales, end-of-year inventories, purchases, total
+operating expenses and gross margins for retail businesses located in the United States. The data are published on
+a North American Industry Classification System (NAICS) basis and the estimates are used to benchmark the
+monthly retail sales and inventories estimates each spring. (Scheduled for release January 29.)
 
-“I didn’t know I had that much blood,” Trump said, of the shooting, while also saying it was the “best alternative you
-could think about” as he wasn’t more gravely injured.
+Census Business Builder Version 5.4
 
-“I’m a believer, now. I’m more of a believer in God, I think,” Trump said, following the shooting.
+The U.S. Census Bureau will release version 5.4 of the Census Business Builder tool. This update will feature a
+new enhancement that will allow users to evaluate declared disaster areas and their impacts. CBB v5.4 will also
+include enhancements to existing functionality and the latest data available. More information on Census Business
+Builder is available online (https://www.census.gov/data/data-tools/cbb.Help_&_FAQs.html.html). (Scheduled for
+release in February.) *Updated Jan. 29, 2024.
 
-The interview has begun
+2022 Service Annual Survey
 
-Musk finally began speaking at 8:41 p.m. ET, saying a “massive attack” had “saturated” X’s lines.
+The U.S. Census Bureau will release new data tables from the 2022 Service Annual Survey (SAS). The SAS
+provides statistics on revenue, payroll, sources of revenue, expenses, exports, inventory, revenue from electronic
+sources and other selected industry-specific data for service industries. The data are accompanied by supporting
+materials, including a data visualization that provides revenue statistics for all sectors covered by the SAS.
+(Scheduled for release January 30.)
 
-Trump congratulated Musk “on breaking every record in the book tonight” with the number of people trying to get in
-to listen.
+2020 Nonemployer Statistics by Demographics Data
 
-The interview has still not begun
+The U.S. Census Bureau will release the 2020 Nonemployer Statistics by Demographics (NES-D). Included in this
+release are demographic data by urban and rural classification, receipt size of firm and legal form of organization
+plus characteristics of nonemployer business owners. The NES-D is an annual statistical series that uses existing
 
-After blaming technical issues on a DDOS attack, Musk posted that the interview would “proceed with the smaller
-number of concurrent listeners at 8:30 ET” and an audio recording would be posted afterward.
+                                                                                                         Page 4 of 9
+                               Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-The electronic elevator music has stopped, now silence. There are currently more than 900,000 people logged on
-to listen to Trump’s interview with Musk, according to an X tally. The interview has still not begun.
+administrative records and census data to link demographic characteristics to the universe of nonemployer
+businesses. (Scheduled for release February 8.)
 
-Trump previously mocked DeSantis over glitchy presidential campaign launch
+"Studying Workers' Travel Patterns to Employment Centers Using Census Data"
 
-When Florida Gov. Ron DeSantis launched his primary campaign with an interview on X that was marred by
-technological glitches, Trump mocked his former rival and Musk's platform.
+The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration with the Council
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute presents,
+"Studying Workers Travel Patterns to Employment Centers Using Census Data." This study explores workers
+historical travel patterns, utilizing the Longitudinal Employer-Household Dynamics (LEHD) Origin-Destination
+Employment Statistics (LODES) data to gain insight into the relationship between demographic characteristics and
+primary employment centers in the San Diego region. Results of this study will help local policy makers and key
+stakeholders to institute data driven programs and policies to improve regional transportation systems leading to
+reduced congestion and emissions. (Schedule for release February 21.)
 
-“Wow! The DeSanctus TWITTER launch is a DISASTER!” he wrote in May 2023 on his Truth Social network. “His
-whole campaign will be a disaster. WATCH!”
+2022 Annual Capital Expenditures Survey
 
-DeSantis dropped out of the race after a disappointing finish in Iowa’s kickoff caucuses.
+The U.S. Census Bureau is set to release data from the 2022 Annual Capital Expenditures Survey (ACES)
+highlighting the industries with the largest total capital expenditures for structures and equipment for companies
+with employees in 2022. Data are based on the 2022 North American Industry Classification System (NAICS). The
+ACES provides the only comprehensive estimates of annual U.S. capital expenditures data covering all domestic
+nonfarm businesses and detailing investments by type and industry. (Tentatively scheduled for release February
+28.)
 
-Musk blames technical issues on DDOS attack
+Business Trends and Outlook Survey
 
-Musk posted on X that the platform was under a “massive” DDOS, or denial-of-service attack, which is a federal
-criminal act that involves flooding a site with data in order to overwhelm it and knock it offline. Outage tracker
-Downdetector reported a spike in reports of X being inaccessible to users starting before 8 p.m. ET but, it could not
-be immediately verified whether this was due to a malicious attack. Musk also said that X tested its system with 8
-million concurrent listeners earlier in the day.
+The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
+experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+released in March 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
 
-Trump campaign advisor jokes about breaking the internet
+Monthly Business Formation Statistics
 
-Senior adviser for the Trump campaign Chris LaCivita is joking about having broken the internet. He responded to a
-post on X using that phrase, writing, ” @realDonaldTrump did.”
+Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
+business formations monthly. The data are available at the state, regional and national levels and by industry sector
+at the national level. The next monthly BFS will be released February 14 and include January 2024 data. Business
+Formation Statistics - Release Schedule (https://www.census.gov/econ/bfs/release_schedule.html).
 
-Issues with Elon Musk's Trump interview maintain
+Stats for Stories
 
-X users are continuing to have trouble accessing Donald Trump’s interview with Elon Musk. The conversation,
-which was supposed to begin at 8:10 p.m. ET has continued to be plagued with technical difficulties.
+Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to current
+events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story mining
+and producing content for their respective audiences.
 
-The issues were reminiscent of the technology-plagued interview that Musk did with Florida Gov. Ron DeSantis,
-who chose the site to launch his Republican primary campaign.
+* Grammy Awards: February 4, 2024
 
-Trump’s interview with Elon Musk hasn’t started, but the tech issues have
+* National Weatherperson's Day: February 5, 2024
 
-                                                                                                          Page 4 of 8
-                        The Latest: Trump interview with Elon Musk on X plagued by glitches
+* Lunar New Year: February 10, 2024
 
-Entrepreneur Elon Musk is set to sit down for a conversation with Republican presidential nominee Donald Trump
-on the social media platform X. But with more than 120,000 people joining the event hosted by Trump’s X account,
-there are already some tech issues. Some are receiving error messages and are unable to log in ahead of the
-advertised live interview.
+* Inventors' Day: February 11, 2024
 
-Musk, who had described himself as a Democrat until a few years ago, endorsed Trump’s candidacy two days after
-the former president was wounded during an attempted assassination at a Pennsylvania rally last month.
+                                                                                                   Page 5 of 9
+                             Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-Judge rules against RFK Jr. in fight to be on New York’s ballot, says he is not a state resident
+* Super Bowl LVIII: February 11, 2024
 
-A judge ruled Monday that independent presidential candidate Robert F. Kennedy Jr. falsely claimed a New York
-residence on nominating petitions, invalidating the documents he needs to appear on the ballot in the state.
+* Mardi Gras: February 13, 2024
 
-Judge Christina Ryba’s ruling after a short trial in state court is expected to be appealed. If upheld, it could open the
-door to challenges in other states where Kennedy used an address in New York City’s northern suburbs to gather
-signatures.
+* Oregon 165th Anniversary of Statehood (1859): February 14, 2024
 
-The lawsuit backed by a Democrat-aligned political action committee claims Kennedy’s state nominating petition
-falsely listed a residence in well-to-do Katonah, while he actually has lived in the Los Angeles area since 2014
-when he married “Curb Your Enthusiasm” actor Cheryl Hines.
+* Valentine's Day: February 14, 2024
 
-Kennedy argued during the trial that he has lifelong ties to New York and intends to move back.
+* Singles Awareness Day: February 15, 2024
 
-Trump falsely claims a crowd photo from Harris’ campaign rally in Detroit was created using AI
+* Presidents' Day: February 19, 2024
 
-Republican presidential nominee Donald Trump has been spreading false claims that an image of thousands of
-people waiting at Detroit’s airport as Democrat Kamala Harris arrived for a campaign rally was fabricated with the
-help of artificial intelligence.
+***
 
-Reporters, photographers and video journalists representing The Associated Press and other news organizations
-who either traveled with Vice President Harris or were on the airport tarmac documented the crowd size last
-Wednesday as she arrived on Air Force Two. Hany Farid, a University of California, Berkeley, professor who
-focuses on digital forensics and misinformation, analyzed the photo and found no evidence of manipulation. Harris’
-campaign also denied the photo in question was manipulated and posted about it on social media.
+Recently Released
 
-Fifteen thousand people attended the Detroit airport rally, Harris’ campaign said.
+(Released since January 12, 2024)
 
-Trump started pushing false theories about the Harris campaign photo a few days after he held a news conference
-at his Florida estate on Thursday and was asked about the crowds at his Democratic rival’s rallies. Trump said no
-one draws crowds as big as he does.
+Census Open Innovation Summit 2024 January 17-19
 
-▶ Read more here.
+Summit 2024 brought together trailblazers in the government innovation space for important discussions about
+technology, business investment and entrepreneurship, local government innovation, human-centered data and
+more. Each session included leading data experts and community leaders, showcasing cross-sector collaboration
+and federal-community partnership.
 
-Trump and his allies once cheered hacked materials. No longer, now that they say he’s a target
+2020 Census
 
-Donald Trump was once a cheerleader of publicizing hacked materials.
+Census Bureau Announces Completion of 2020 Census Review Operations
 
-“Russia, if you’re listening,” Trump said during a press conference in his 2016 presidential run, when Hillary
-Clinton’s deleted personal emails were a hot topic, “I hope you are able to find the 30,000 emails that are missing.”
+January 24 -- The U.S. Census Bureau announced it has completed two operations that allowed governmental units
+to seek review of their 2020 Census counts. The Census Bureau officially notified all participants of the Count
+Question Resolution (CQR) and 2020 Post-Census Group Quarters Review (PCGQR) operations of review results
+by January 3.
 
-“I think you will probably be rewarded mightily by our press,” he said back then.
+American Community Survey
 
-That changed when Trump’s latest presidential campaign declared this weekend it had been hacked by Iran. “Any
-media or news outlet reprinting documents or internal communications are doing the bidding of America’s enemies
+2018-2022 American Community Survey 5-year Public Use Microdata Sample (PUMS) and Variance Replicate
+Estimates
 
-                                                                                                     Page 5 of 8
-                        The Latest: Trump interview with Elon Musk on X plagued by glitches
+January 25 -- The 2018-2022 American Community Survey (ACS) 5-year Public Use Microdata Sample (PUMS)
+files were released through the ACS website, FTP site, and the microdata analysis tool on data.census.gov. The
+ACS PUMS files enable data users to create custom estimates and tables that are not available through pre-
+tabulated ACS data products. These data are available for the nation, regions, divisions, states, the District of
+Columbia, Puerto Rico, and Public Use Microdata Areas (PUMAs).
 
-and doing exactly what they want,” Steven Cheung, the campaign’s communications director, said in a statement
-on Saturday announcing that the campaign had been hacked.
+The 2018-2022 ACS 5-year Variance Replicate Estimates were released through the ACS website
+(https://www.census.gov/programs-surveys/acs/data/variance-tables.html)             and           FTP        site
+(https://www2.census.gov/programs-surveys/acs/replicate_estimates/2022/data/5-year/). These tables allow
+advanced data users to calculate margins of error when collapsing data within a table or across geographies.
 
-The campaign has not responded to questions about why its view on hacking changed, including a query on
-Monday from The Associated Press. But its new position is a striking change from 2016, when Trump heartily
-embraced the Russian hacking of his opponent Clinton’s aides and the Democratic National Committee.
+Release of Additional American Community Survey Selected Population Tables and American Indian and Alaska
+Native Tables
 
-▶ Read more here.
+January 25 -- Additional 2017-2021 American Community Survey (ACS) 5-Year Selected Population Tables (SPT)
+and American Indian and Alaska Native Tables (AIANT) were released Thursday, January 25 to address over-
+suppression for some groups and geographies within the original June 2023 release. Visit the Race, Ethnicity,
+Ancestry and American Indian & Alaska Native Tables page (https://www.census.gov/programs-
 
-FBI is investigating allegations that sensitive documents were stolen from Trump campaign
+                                                                                                        Page 6 of 9
+                               Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-The FBI said Monday it is investigating allegations that sensitive documents from the Trump campaign were stolen
-in a cyber intrusion days after the campaign declared it had been hacked by Iran.
+surveys/acs/data/race-aian.html) for more information about geographic area/group combinations that will be
+receiving additional tabulations. The SPT and AIANT data products contain the greatest level of statistical detail for
+detailed race, Hispanic origin, tribal and ancestry group populations.
 
-The FBI released a brief statement reading, “We can confirm the FBI is investigating this matter.”
+2018-2022 American Community Survey 5-Year Citizen Voting Age by Race and Ethnicity Special Tabulation
 
-The campaign provided no specific evidence of Iran’s involvement, but the claim came shortly after Microsoft issued
-a report detailing foreign agents’ attempts to interfere in the U.S. campaign in 2024.
+January 23 -- The U.S. Census Bureau released the 2018-2022 American Community Survey 5-Year Citizen Voting
+Age by Race and Ethnicity (CVAP) Special Tabulation. This special tabulation is created for use in voting rights
+analysis and is published for a series of geographies, down to block-group level. Publication of this special
+tabulation is only available for download from the Census Bureau Citizen Voting Age by Race and Ethnicity
+webpage (https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html).
 
-The report cited an instance of an Iranian military intelligence unit in June sending “a spear-phishing email to a
-high-ranking official of a presidential campaign from a compromised email account of a former senior advisor.”
-Iran’s mission to the United Nations, when asked about the claim of the Trump campaign, has denied being
-involved.
+Census Bureau Begins Posting Public Comments on Proposed Changes to 2025 American Community Survey
 
-Looking ahead to Jan. 6, one group calls on Congress to pledge to certify the 2024 election results
+January 22 -- The U.S. Census Bureau has begun posting the public's feedback on proposed changes to the 2025
+American Community Survey (ACS) and Puerto Rico Community Survey (PRCS) to regulations.gov. In October, the
+Census Bureau published a Federal Register notice inviting the public to comment on proposed changes to the
+survey covering several topics, including household roster, educational attainment, health insurance coverage,
+disability and labor force questions.
 
-Counting down the days until Jan. 6, 2025, a group is calling on Congress to pledge to certify the election results
-and prevent a repeat of 2021, when a mob of Trump supporters stormed the U.S. Capitol trying to overturn the
-2020 election.
+Economic
 
-Rep. Joe Morelle of New York, the top Democrat on the House Administration Committee, said with the nation on
-the cusp of the presidential election, “we should never forget” what happened on Jan. 6, 2021.
+2022 Economic Census First Look
 
-Morelle on Monday joined a virtual press conference with former police officers Aquilino Gonell and Michael Fanone
-who were both gravely injured that day as they battled the mob.
+January 25 -- The U.S. Census Bureau released first look estimates from the 2022 Economic Census. The
+economic census is the U.S. government's official five-year measure of businesses in the United States. It provides
+the most comprehensive business and economic data available at the national, state and local levels - and serves
+as the benchmark for current economic activity, such as the Gross Domestic Product and Producer Price Index.
 
-With 147 days to go until Jan. 6, when Congress is again expected to gather to count the electoral votes, the group
-Courage for America is urging officials not to spread election disinformation and is asking lawmakers to accept the
-outcome of the November election. The group noted that 147 Republicans in Congress voted against certification in
-2021.
+First-Look 2023 Annual Business Survey
 
-“We can’t let this time be anything like the last,” said Gonell.
+January 25 -- The U.S. Census Bureau released an infographic and preliminary data from the Annual Business
+Surveys (ABS), covering data year 2022. The infographic shows the profitability of employer businesses by race.
+The preliminary data showed the financing practices for employer firms by sex, ethnicity, race, minority status and
+veteran status. Data in the infographic and tables are shown for the percentage of employer businesses in 2022.
+The ABS is conducted jointly by the U.S. Census Bureau and the National Center for Science and Engineering
+Statistics (NCSES) within the National Science Foundation.
 
-Early Harris-Walz rallies feature big crowds, talk of ‘joy’ and unsolicited GOP counterprogramming
+America Counts: Stories Behind the Numbers
 
-Big crowds, go-to applause lines, talk of joy — and some unsolicited Republican counterprogramming.
+America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
+such as families, housing, employment, business, education, the economy, emergency preparedness and the
+population. New stories include:
 
-These were common themes during the first big campaign swing for Vice President Kamala Harris and her running
-mate, Minnesota Gov. Tim Walz, as the new Democratic ticket barnstormed through five battleground states this
-past week on a get-to-know-us tour.
+* Pandemic's Impact on Indoor and Outdoor Recreation Revenue (January 17)
 
-They opened with a boisterous rally in Philadelphia on Tuesday, hours after Harris announced Walz as her running
-mate. From there it was a march through Wisconsin, Michigan, Arizona and Nevada. Planned stops in Georgia and
-North Carolina were washed out by Tropical Storm Debby.
+* Improving Access to Funding for Indigenous Communities (January 12)
 
-                                                                                                      Page 6 of 8
-                       The Latest: Trump interview with Elon Musk on X plagued by glitches
+* MLK Day: Only Federal Holiday Designated as National Day of Service (January 11)
 
-The tour was a way to help both candidates introduce themselves to voters, especially independent and undecided
-voters in states where the Democrats are in tight races against Republican nominee Donald Trump and his running
-mate, Ohio Sen. JD Vance.
+Stats for Stories
 
-▶ Take a look back at the campaign swing.
+Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
+relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
+in story mining and producing content for their respective audiences.
 
-Latinos are excited about Harris, but she has work to do to win the crucial voting bloc, experts say
+* Mail Carrier Day: February 4, 2024
 
-Latino voters and leaders say they are enthusiastic about Kamala Harris as the Democratic presidential nominee,
-but for her to win their crucial support, they want to know where she stands on issues like the economy, immigration
-and education.
+                                                                                                        Page 7 of 9
+                               Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-As the nation’s largest minority group — 19.5% of the total population, according to the 2020 census — Latinos
-form a key voting bloc in what’s shaping up to be a tight presidential election. Harris, the daughter of immigrants,
-has won the backing of influential Latino groups, and some feel her success hinges on energizing young Latino
-voters.
+* National Women Physicians Day: February 3, 2024
 
-▶ Read more about where Harris stands with Latino voters.
+* Groundhog Day: February 2, 2024
 
-Trump reportedly used a slur against Harris in private conversations
+* American Heart Month: February 2024
 
-Former President Donald Trump reportedly has used a slur often targeted at women to describe Vice President
-Kamala Harris during at least two private conversations. His campaign denies it.
+* National Spouses Day: January 26, 2024
 
-The New York Times cited two people who, on different occasions, heard Trump call Harris a “b——.” The people
-were granted anonymity to describe private discussions.
+* National Popcorn Day: January 19, 2024
 
-In response, Trump campaign spokesperson Steven Cheung said, “That is not language President Trump has used
-to describe Kamala and it’s not how the campaign would characterize her.”
+* Martin Luther King, Jr. Day: January 15, 2024
 
-Trump, a Republican, has a history of making derogatory statements about women and his political opponents. He
-has called Harris, the Democrats’ presidential candidate, and other women, including 2016 Democratic nominee
-Hillary Clinton, “nasty,” and he bragged about grabbing women’s genitalia in the infamous “Access Hollywood” tape.
+* National Pharmacist Day: January 12, 2024
 
-▶ Read more here.
+* National Milk Day: January 11, 2024
 
-From Biden to Gabbard, here’s what Harris’ past debates show before a faceoff with Trump
+* National Hot Tea Month: January 2024
 
-Vice President Kamala Harris has repeatedly taunted her opponent’s seeming reluctance to debate, telling a series
-of raucous audiences about Donald Trump’s criticisms of her: “As the saying goes, if you’ve got something to say,
-say it to my face.”
+* National Poverty in America Awareness Month: January 2024
 
-After first backing out of an agreement, Trump reversed himself and said he’d meet Harris on Sept. 10 for an event
-hosted by ABC. That sets up a long-anticipated faceoff between the Democratic and Republican nominees — and,
-indeed, the chance for both of them to deliver their attack lines directly at one another.
+Blogs
 
-Sharing a stage with Trump presents a critical chance for Harris to define herself and her opponent in a truncated
-campaign, with many open questions about her policy positions. But it also sets up a major test — one that
-President Joe Biden failed badly enough that he ended his campaign and made way for her.
+2030 Census Planning: What 2024 Brings
 
-▶ Read more about Harris' past debates.
+Deborah Stempowski, Associate Director for Decennial Census Programs -- January 23 -- Happy New Year! As we
+embark on a new year filled with possibilities, it's time to share exciting updates and innovations that will shape the
+2030 Census. Conducting a census is an incredibly complex undertaking that takes years of planning, and we want
+to keep you informed on our progress and thinking along the way.
 
-Democrats launch first paid ad campaign for the Harris-Walz ticket in battleground states
+Remembering Katherine Wallman
 
-                                                                                                          Page 7 of 8
-                       The Latest: Trump interview with Elon Musk on X plagued by glitches
+Written by: Robert L. Santos, Director -- January 22 -- With great sadness, we share the news of the passing of
+Katherine Wallman, former Chief Statistician of the United States. As a longtime colleague and friend of Ms.
+Wallman, I know firsthand her profound, positive impact on our federal statistical system - and indeed, on the field
+of statistics as a whole. I feel privileged and so fortunate to have known and worked with her.
 
-With a solidified presidential ticket stumping across the country and a massive amount of money to spend, the
-Democratic Party is targeting seven critical battleground states with paid advertising for Vice President Kamala
-Harris and her running mate, Minnesota Gov. Tim Walz.
+Resources
 
-The Democratic National Committee announced the Harris-Walz advertising push on Monday, which includes more
-than 70 billboards across the key battleground states: Arizona, Georgia, Michigan, North Carolina, Nevada,
-Pennsylvania and Wisconsin. It’s the ticket’s first paid advertising blitz since Walz joined the campaign — and the
-first of many to come in areas that are poised to determine the outcome of the presidential election in November.
+Emergency Management/Disaster Resources -- When major disasters strike, visit our Emergency Management
+webpage (https://www.census.gov/topics/preparedness.html) for demographic and economic data on impacted
+areas. Each disaster will include data from our key emergency management tools: OnTheMap for Emergency
+Management, Community Resilience Estimates, Census Business Builder: Regional Analyst Edition, and other
+useful resources.
 
-The billboards will be in several key urban areas across the battleground states, such as Atlanta, Detroit, Charlotte
-and Philadelphia, according to the DNC. Many are set up along major interstates and highways, including Interstate
-95 and Interstate 10.
+Learn What Surveys Are Being Conducted in Your Community -- Discover which of the U.S. Census Bureau's 130-
+plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving from
+the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
 
-▶ Read more about the ad campaign.
+* Atlanta
 
-Will Trump's and Harris' mismatched moods matter?
+* Chicago
 
-At the top of his first speech as her running mate, Minnesota Gov. Tim Walz turned to Vice President Kamala Harris
-and declared, “Thank you for bringing back the joy.” The next day, Harris took the theme a step further, branding
-the Democratic ticket “joyful warriors.”
+* Denver
 
-Contrast that with former President Donald Trump, who opened a news conference at his Mar-a-Lago club in
-Florida a few days later by saying, “We have a lot of bad things coming up,” and predicting the U.S. could fall into
-an economic depression unseen since the dark days of 1929 or even another world war.
+* Los Angeles
 
-Two-thirds of Americans reported feeling very or somewhat pessimistic about the state of politics, according to
-polling by The Associated Press-NORC Center for Public Affairs Research from last month. Roughly 7 in 10 said
-things in the country are heading in the wrong direction.
+* New York
 
-But Jason Miller, a senior adviser to the former president, said people don’t care about “vibe checks.”
+                                                                                                   Page 8 of 9
+                              Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
 
-“That’s not making gas or food or housing less expensive,” Miller said.
+* Philadelphia
 
-▶ Read more about whether the mismatched moods matter.
+* All Surveys
 
-Vance hails Trump’s Fed idea and pushes back against criticism over past words on American families
+* Data Tools
 
-Republican vice presidential nominee JD Vance used a round of Sunday news show appearances to disparage the
-Democratic ticket and promote Donald Trump’s record and second-term plans and defend himself from criticism
-over past remarks that have become a campaign issue.
+Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage
+(https://www.census.gov/data/data-tools.html).
 
-The Ohio senator, in a series of taped interviews, said there was merit to Trump’s suggestion that presidents have
-more control of U.S. monetary policy and kept up the GOP line that Minnesota Gov. Tim Walz, the Democrats’ vice
-presidential candidate, had exaggerated his military record.
+Census Geocoder -- Provides interactive & programmatic (REST) access to users interested in matching addresses
+to geographic locations and entities containing those addresses.
 
-Vance, who shadowed Vice President Kamala Harris and Walz during their recent visits to several battleground
-states, was quizzed about abortion and his past comments about American family life, among other topics.
+EDA (Economic Development Administration)-Census Poverty Status Viewer -- This interactive tool measures high
+poverty areas and persistent poverty counties using data from the American Community Survey, SAIPE, and
+decennial census.
 
-▶ Read more about some of his other appearances.
+Migration Patterns: Young Adult Migration -- Use this resource to discover where people in your hometown moved
+as young adults.
 
-Trump campaign says its emails were hacked
+Training Opportunities
 
-Former President Donald Trump’s presidential campaign said Saturday that it had been hacked and suggested
-Iranian actors were involved in stealing and distributing sensitive internal documents.
+Census Bureau Training Opportunities -- Webinars are available on a regular basis to help the public access and
+use Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level. Descriptions of upcoming sessions are available on our Census Academy webpage
+(https://www.census.gov/data/academy/webinars/upcoming.html). Login details are provided at least one week
+before a webinar.
 
-                                                                                                        Page 8 of 8
-                       The Latest: Trump interview with Elon Musk on X plagued by glitches
+* 2020 Census Race & Ethnicity Data: The Detailed DHC-B Proof of Concept (Monday, January 29, 3-4 p.m. EST)
 
-The campaign provided no specific evidence of Iran’s involvement, but the claim comes a day after Microsoft issued
-a report detailing foreign agents’ attempts to interfere in the U.S. campaign in 2024.
+* 2024 Commercial Outlook for Business, Bank and International Trade (Tuesday, January 30,3-4 p.m. EST)
 
-It cited an instance of an Iranian military intelligence unit in June sending “a spear-phishing email to a high-ranking
-official of a presidential campaign from a compromised email account of a former senior advisor.”
+* A Thematic Session on Diversity, Equity, and Inclusion: Evidence from the * * Microdata (Wednesday, January 31,
+2024, 1-2 p.m. EST)
 
-Trump campaign spokesperson Steven Cheung blamed the hack on “foreign sources hostile to the United States.”
-A spokesperson for the National Security Council said in a statement that it takes any report of improper foreign
-interference “extremely seriously” and condemns any government or entity that attempts to undermine confidence
-in U.S. democratic institutions, but said it deferred to the Justice Department on this matter.
+* An Overview of Hispanics in America (Thursday, February 8, 2-3 p.m. EST)
 
-▶ Read more here.
+* The Annual Business Survey and The Economic Census (Thursday, February 8, 2-3:30 p.m. EST)
 
-Walz to hold first solo events as Harris' running mate
+* Studying Workers' Travel Patterns to Employment Centers Using Census Data (Wednesday, February 21, 1:30-
+3:00 p.m. EST)
 
-Tim Walz is holding his first solo events as Vice President Kamala Harris’ running mate, traveling on Tuesday to
-Los Angeles to speak at the American Federation of State, County and Municipal Employees convention, before
-attending a series of fundraisers around the country.
+* Exploring the Diversity and Growth of the Asian American Population (Thursday, February 22, 2-3 p.m. EST)
 
-After his speech in Los Angeles, the Minnesota governor will hit five states in three days, beginning with a
-fundraiser in Newport Beach, California.
+* Comparing the American Community Survey to the Household Pulse Survey (Wednesday, February 28, 2-3 p.m.
+EST)
 
-He will headline two more fundraisers on Wednesday in Denver and Boston. He’ll speak at fundraisers in Newport,
-Rhode Island, and Southampton, New York the following day.
+Archived Training Resources
 
-Harris introduced Walz as her running mate during a joint rally last week in Philadelphia, and the pair then
-campaigned together in Wisconsin, Michigan, Arizona and Nevada. The vice president is set to campaign with
-Biden in Maryland this week, and also has promised to detail her policy proposals on the economy.
+Visit the Census Bureau's Educational Resource Library (https://www.census.gov/data/academy/webinars.html) for
+previously recorded, free training available at your convenience. The library includes presentations, recorded
+webinars, tutorials and other helpful materials.
 
+***
 
-Load-Date: August 12, 2024
+Original text here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-02.html
+
+                                                                                     Page 9 of 9
+                              Census Bureau Issues Tip Sheet No. 2 - Jan. 26, 2024
+
+Copyright Targeted News Services
+
+MSTRUCK-8474568 MSTRUCK
+
+
+Load-Date: February 4, 2024
 
 
   

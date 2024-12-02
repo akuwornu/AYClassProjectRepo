@@ -1,424 +1,643 @@
 
 
-                                                                                                                 Page 1 of 8
-                                             Jabil Posts Third Quarter Results
+                                                                                                  Page 1 of 11
+               Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
 
 
 
 
-                                     Jabil Posts Third Quarter Results
-                                                         Business Wire
-                                         June 20, 2024 Thursday 11:45 AM GMT
+       Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News
+                              Briefing on April 4
+                                                     Targeted News Service
+                                              April 5, 2024 Friday 11:47 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 2890 words
-Dateline: ST. PETERSBURG, Fla.
+
+
+
+Length: 5784 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Today, Jabil Inc. (NYSE: JBL), reported preliminary, unaudited financial results for its third quarter of fiscal year
-2024.
+The U.S. Department of Defense issued the following transcript of a news briefing on April 4, 2024, by Press
+Secretary Air Force Maj. Gen. Pat Ryder:
 
-"It's clear that Jabil has navigated a period of significant transformation this fiscal year: a year in which we divested
-our Mobility business, captured growth in the AI datacenter space, and experienced softness across multiple end-
-markets," said CEO Mike Dastoor. "Despite these moving pieces, we remain on track to deliver 5.6% in core
-margins and $8.40 of core diluted EPS in FY24, while generating more than $1 billion in adjusted free cash flow. At
-the same time, we've been working towards our commitment to repurchase $2.5 billion of our shares. And
-importantly, in the mid-to-longer-term we remain well-positioned to benefit from many of the world's powerful trends
-in areas like datacenter power and cooling, electric and hybrid vehicles, healthcare and pharma solutions, semi-cap
-equipment, and automated warehousing to name a few," he concluded.
+***
 
-Third Quarter of Fiscal Year 2024 Highlights:
-      · Net revenue: $6.8 billion
-      · U.S. GAAP operating income: $261 million
-      · U.S. GAAP diluted earnings per share: $1.06
-      · Core operating income (Non-GAAP): $350 million
-      · Core diluted earnings per share (Non-GAAP): $1.89
+MAJOR GENERAL PAT RYDER: All right. Good afternoon, everyone. Just a few things at the top and then I'll get
+right to your questions.
 
-Fourth Quarter of Fiscal Year 2024 Outlook:
-       · Net revenue                                                         $6.3 billion to $6.9 billion
-       · U.S. GAAP operating income                                          $285 million to $355 million
-       · U.S. GAAP diluted earnings per share                                $1.40 to $1.88 per diluted share
-       · Core operating income (Non-GAAP)(1)                                 $365 million to $425 million
-       · Core diluted earnings per share (Non-GAAP)(1)                       $2.03 to $2.43 per diluted share
+So as many of you are aware, today is the 75th anniversary of the North Atlantic Treaty Organization. Secretary
+Austin released a statement earlier today on this notable milestone, which is available on the DOD website.
 
-       __________________
-       (   Core operating income and core diluted earnings per share exclude anticipated adjustments of $12 million for
-       1 amortization of intangibles (or $0.09 per diluted share) and $18 million for stock-based compensation expense
-       )   and related charges (or $0.14 per diluted share) and $50 million to $40 million (or $0.40 to $0.32 per diluted
-           share) for restructuring, severance and related charges.
+Formed in the wake of World War II, NATO promotes security in the North Atlantic area, safeguards freedom and
+democracy, and provides collective defense for the alliance. Starting with an original group of 12 countries to the
+most recent accession of Sweden as the 32nd member, NATO is stronger and more united than ever.
 
-                                                                                                           Page 2 of 8
-                                             Jabil Posts Third Quarter Results
+As we look forward to hosting NATO's historic 75th anniversary summit here in Washington this July, we will
+continue to strengthen our collective defense and deterrence through the development of advanced systems across
+all domains, combined training and common purpose to defend each other against all emerging threats today and in
+the future.
 
-Fiscal Year 2024 Outlook:
-      · Net revenue                                                              $28.5 billion
-      · Core operating margin (Non-GAAP)                                         5.6%
-      · Core diluted earnings per share (Non-GAAP)                               $8.40 per diluted share
-      · Adjusted free cash flow (Non-GAAP)                                       $1+ billion
+To quote Secretary Austin's statement, quote, "America's network of allies and partners built and sustained by
+successive generations of wise and bipartisan post-war American leadership remains a core strategic strength that
+no rival can match and that no foe should doubt. Today, we salute NATO's achievements and we pledge to build
+upon them," end quote.
 
-(Definitions: "U.S. GAAP" means U.S. generally accepted accounting principles. Jabil defines core operating
-income as U.S. GAAP operating income less amortization of intangibles, stock-based compensation expense and
-related charges, restructuring, severance and related charges, distressed customer charges, loss on disposal of
-subsidiaries, settlement of receivables and related charges, impairment of notes receivable and related charges,
-goodwill impairment charges, business interruption and impairment charges, net, gain from the divestiture of
-businesses, acquisition and divestiture related charges, plus other components of net periodic benefit cost. Jabil
-defines core earnings as core operating income, less loss on debt extinguishment, loss (gain) on securities, other
-components of net periodic benefit cost, income (loss) from discontinued operations, gain (loss) on sale of
-discontinued operations and certain other expenses, net of tax and certain deferred tax valuation allowance
-charges. Jabil defines core diluted earnings per share as core earnings divided by the weighted average number of
-outstanding diluted shares as determined under U.S. GAAP. Jabil defines adjusted free cash flow as net cash
-provided by (used in) operating activities less net capital expenditures (acquisition of property, plant and equipment
-less proceeds and advances from sale of property, plant and equipment). Jabil reports core operating income, core
-earnings, core diluted earnings per share and adjusted free cash flow to provide investors an additional method for
-assessing operating income, earnings, diluted earnings per share and free cash flow from what it believes are its
-core manufacturing operations. See the accompanying reconciliation of Jabil's core operating income to its U.S.
-GAAP operating income, its calculation of core earnings and core diluted earnings per share to its U.S. GAAP net
-income and U.S. GAAP earnings per share and additional information in the supplemental information.)
+Today also marks the official start of Defender '24, the largest U.S. Army exercise in Europe, as ships depart the
+United States carrying equipment for the event. Scheduled to occur through May 31st, Defender '24 will - will
 
-Forward Looking Statements: This release contains forward-looking statements, including those regarding our
-anticipated financial results for our third quarter of fiscal year 2024 and our guidance for future financial
-performance in our fourth quarter of fiscal year 2024 (including, net revenue, U.S. GAAP operating income, U.S.
-GAAP diluted earnings per share, core operating income (Non-GAAP), core diluted earnings per share (Non-GAAP)
-results and the components thereof, including but not limited to amortization of intangibles, stock-based
-compensation expense and related charges and restructuring, severance and related charges); and our full year
-2024 (including net revenue, core operating margin (Non-GAAP), core diluted earnings per share (Non-GAAP)
-results and Adjusted Free Cash Flow (Non-GAAP)) and our plans to repurchase stock. The statements in this
-release are based on current expectations, forecasts and assumptions involving risks and uncertainties that could
-cause actual outcomes and results to differ materially from our current expectations. Such factors include, but are
-not limited to: our determination as we finalize our financial results for our third quarter of fiscal year 2024 that our
-financial results and conditions differ from our current preliminary unaudited numbers set forth herein; unexpected
-costs or unexpected liabilities that may arise from the Mobility transaction; scheduling production, managing growth
-and capital expenditures and maximizing the efficiency of our manufacturing capacity effectively; managing rapid
-declines or increases in customer demand and other related customer challenges that may occur; the effect of
-COVID-19 on our operations, sites, customers and supply chain; our dependence on a limited number of
-customers; our ability to purchase components efficiently and reliance on a limited number of suppliers for critical
-components; risks arising from relationships with emerging companies; changes in technology and competition in
-our industry; our ability to introduce new business models or programs requiring implementation of new
-competencies; competition; transportation issues; our ability to maintain our engineering, technological and
-manufacturing expertise; retaining key personnel; risks associated with international sales and operations, including
-geopolitical uncertainties; energy price increases or shortages; our ability to achieve expected profitability from
-acquisitions; risk arising from our restructuring activities; issues involving our information systems, including security
-issues; regulatory risks (including the expense of complying, or failing to comply, with applicable regulations; risk
-arising from design or manufacturing defects; risk arising from compliance, or failure to comply, with environmental,
-health and safety laws or regulations and intellectual property risk); financial risks (including customers or suppliers
-who become financially troubled; turmoil in financial markets; tax risks; credit rating risks; risks of exposure to debt;
+                                                                                                 Page 2 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
 
-                                                                                                        Page 3 of 8
-                                          Jabil Posts Third Quarter Results
+involve more than 40,000 service members from over 20 allied and partner nations, demonstrating the strong
+defensive relationships that are the foundation of European peace.
 
-currency fluctuations; and asset impairment); changes in financial accounting standards or policies; risk of natural
-disaster, climate change or other global events; and risks arising from expectations relating to environmental,
-social and governance considerations. Additional factors that could cause such differences can be found in our
-Annual Report on Form 10-K for the fiscal year ended August 31, 2023 and our other filings with the Securities and
-Exchange Commission. We assume no obligation to update these forward-looking statements.
+The exercise, linked to NATO's Steadfast Defender, consists of three sub exercises - Saber Strike, Immediate
+Response, and Swift Response. Defender '24 focuses on strategic deployment, interoperability and readiness,
+while seeking to deter potential adversaries and strengthen the NATO alliance. For questions about the exercise, I'd
+refer you to U.S. European Command Public Affairs.
 
-Supplemental Information Regarding Non-GAAP Financial Measures: Jabil provides supplemental, non-GAAP
-financial measures in this release to facilitate evaluation of Jabil's core operating performance. These non-GAAP
-measures exclude certain amounts that are included in the most directly comparable U.S. GAAP measures, do not
-have standard meanings and may vary from the non-GAAP financial measures used by other companies.
-Management believes these "core" financial measures are useful measures that facilitate evaluation of the past and
-future performance of Jabil's ongoing operations on a comparable basis.
+Switching gears, Secretary Austin spoke by phone yesterday with Israeli Minister of Defense Yoav Gallant. The two
+leaders continued their regular dialogue on U.S. and Israeli efforts to ensure the defeat of Hamas and secure the
+release of all hostages.
 
-Jabil reports core operating income, core earnings, core diluted earnings per share and adjusted free cash flows to
-provide investors an additional method for assessing operating income, earnings, earnings per share and free cash
-flow from what it believes are its core manufacturing operations. Among other uses, management uses non-GAAP
-financial measures to make operating decisions, assess business performance and as a factor in determining
-certain employee performance when determining incentive compensation.
+As was highlighted in our readout last night, Secretary Austin expressed his outrage at the Israeli strike Tuesday on
+a World Central Kitchen humanitarian aid convoy that killed seven aid workers, including an American citizen.
 
-The Company determines an annual normalized tax rate ("normalized core tax rate") for the computation of the
-non-GAAP (core) income tax provision to provide better consistency across reporting periods. In estimating the
-normalized core tax rate annually, the Company utilizes a full-year financial projection of core earnings that
-considers the mix of earnings across tax jurisdictions, existing tax positions, and other significant tax matters. The
-Company may adjust the normalized core tax rate during the year for material impacts from new tax legislation or
-material changes to the Company's operations.
+Secretary Austin stressed the need to immediately take concrete steps to protect aid workers and Palestinian
+civilians in Gaza after repeated coordination failures with foreign aid groups. Secretary Austin also urged Minister
+Gallant to conduct a swift and transparent investigation into this incident, to share their conclusions publicly, and to
+hold those responsible to account.
 
-Detailed definitions of certain of the core financial measures are included above under "Definitions" and a
-reconciliation of the disclosed core financial measures to the most directly comparable U.S. GAAP financial
-measures is included under the heading "Supplemental Data" at the end of this release.
+Additionally, Secretary Austin again raised the need for a rapid increase of aid coming through all crossings in the
+coming days, particularly to communities in northern Gaza that are at risk of famine. During the call, the Secretary
+also reiterated U.S. support for Israel's defense against a range of regional threats. A full readout is available on
+Defense.gov.
 
-Meeting and Replay Information: Jabil will hold a conference call today at 8:30 a.m. ET to discuss its earnings for
-the third quarter of fiscal year 2024. To access the live audio webcast and view the accompanying slide
-presentation, visit the Investor Relations section of Jabil's website, located at https://investors.jabil.com . An
-archived replay of the webcast will also be available after completion of the call.
+And to close out, sharing some good news, this week, the U.S. Army Corps of Engineers reached a milestone in
+Maui, where they cleared hazardous debris from the 500th residential property since the devastating wildfires.
 
-About Jabil: At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering
-comprehensive engineering, manufacturing, and supply chain solutions. With over 50 years of experience across
-industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to
-deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to
-build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around
-the globe. Discover more at www.jabil.com .
-       JABIL INC. AND SUBSIDIARIES
-       CONDENSED CONSOLIDATED BALANCE SHEETS
-       (in millions)
+The Army Corps of Engineers is working hand-in-hand with FEMA, EPA, the state of Hawaii, and others to ensure
+these sites are safe for the people of Hawaii. For more information, please contact U.S. Army Corps of Engineers
+Public Affairs.
+
+And with that, I'll be glad to take your questions. We'll go to Associated Press first on the phone. Got, Lita?
+
+Q: Hi, Pat. Thank you very much. A couple of questions on the call he had with Gallant. Can you say whether or not
+the Secretary is involved in any ongoing U.S. assessment to determine if Israel has made any of these tangible
+changes that the White House talked about a short time ago?
+
+Can you say whether the Secretary was one of the people dialed in with the President's call? The White House
+mentioned Secretary Blinken and - and others were. Was Secretary Austin also listening in on that call?
+
+And finally, did the Secretary mention at all to Minister Gallant anything about the U.S. limiting or conditioning
+military sales on any of these improvements? Thanks.
+
+GEN. RYDER: Anything else, Lita?
+
+GEN. RYDER: I think those are all of the questions for the day.
+
+All right, so just taking it - taking it from the top, you know, in terms of the - the concrete steps that have been
+highlighted and that the White House highlighted, you know, Secretary Austin of course maintains a professional
+relationship with Minister Gallant. They communicate frequently, as you know. And so I expect that to be a - a topic
+of discussion going forward.
+
+In terms of today's call with the Prime Minister, to my knowledge, the Secretary was not in on that call or listening in
+on that call.
+
+                                                                                                 Page 3 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+And then as far as your - your last question, you know, what I've provided in the readout is what was discussed.
+And again, the Secretary reiterated U.S. support for helping Israel defend itself from a range of regional threats. So
+I'd just leave it there.
+
+Let me come back into the room here. Jennifer?
+
+Q: Pat, are you re-thinking the employment of the so-called JLOTS, the seaborne delivery of humanitarian aid to
+Gaza, in the wake of the World Central Kitchen disaster?
+
+GEN. RYDER: No. The JLOTS continues to be en route. We expect to achieve full operations capability by the end
+of the month, early May - as - as we talked about, approximately 60 days - although of course, we are working to -
+to move as quickly as we can on that front.
+
+And so once operational, again, the capability that that will provide is the ability to send upwards of two million
+meals per day into Gaza. And so planning for that continues. We're on - on track, in terms of the timeline, and we
+continue to work closely with partners in the region.
+
+As you've heard others say, Israel has committed to providing security on the shore for that effort. When it comes to
+the receiving and then onward distribution of that aid, we're working with USAID and others to finalize those details.
+I don't have anything to provide to you now.
+
+Q: So many groups now saying they won't distribute in Gaza, they're pulling out. The UAE has just frozen relations.
+How do you plan to distribute aid and not have either chaos or a security situation?
+
+GEN. RYDER: Yes, again, I mean, the - the situation there - and of course, this strike certainly doesn't make that
+job easier - but that has not deterred us from continuing to work with groups and NGOs to - to come up with
+solutions. That's what we've been tasked to do and we'll continue to do that.
+
+Q: What's the Pentagon's assessment of Israel's plan to enter Rafah?
+
+GEN. RYDER: To my knowledge, we haven't seen a detailed plan at this point. As has been mentioned, we've been
+briefed on concepts. As you know, there was a - a meeting at the - the White House, a virtual meeting, earlier this
+week to continue having that conversation.
+
+And so again, I'd refer you to Israel in terms of their plan, but we continue to highlight the fact that any operation
+needs to incorporate civilian safety and ensuring that, you know, humanitarian assistance can get in.
+
+Q: But essentially no plan has been shared with you? There's no plan at this point?
+
+GEN. RYDER: To my knowledge, we've not received a detailed plan.
+
+Q: After his call with President - the - Prime Minister Netanyahu, the President in the statement said, you know, the
+U.S. will change his policy, if Israel doesn't make some changes in -- in sort of Gaza war effort, given the Europe
+planning organization, and you started planning and looking at what aid you would can -- condition if those sorts of
+benchmarks aren't met by President Biden.
+
+GEN. RYDER: Yes. Thanks, (inaudible). At this point, I'm just not going to get into hypotheticals.
+
+Q: And secondly, in the call yesterday, did the Secretary get a better understanding of how the Israelis could
+unintentionally try -- strike three vehicles over one and a half kilometer?
+
+GEN. RYDER: You know, again, obviously, as we highlighted in the readout, the strike did come up. The Israelis
+have initiated an investigation. I think they've spoken, at least initially on some of the preliminary findings. But of
+course, we don't want to get ahead of that investigation. So, we need to wait and see what comes out of that.
+
+Q: Last one. Why does the Secretary feel that Minister Gallant will now listen to him? I think the last time this book,
+the Israelis been killed aid workers a week later. So why now? Why would he listen now?
+
+                                                                                                 Page 4 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+GEN. RYDER: Look again, the Secretary and the Minister have had an ongoing dialogue. They -- the Secretary
+respects Minister Gallant, you know, they have obviously communicated very closely on the situation. And
+Secretary Austin has very clearly communicated our position on what needs to be done in terms of safeguarding
+civilians. And so, expect those conversations to continue to go on.
+
+Let me go to Oren.
+
+Q: Pat, we're now roughly the six month point of the war. Can you say looking back, having spoken repeatedly
+about the need to protect civilians, that you have seen Israel take some sort of concrete steps that has improved
+their protection of civilian airstrikes? Because what we see doesn't look like it?
+
+GEN. RYDER: Yes. Well, I mean, clearly not enough, has been done, which is, again, what I've highlighted in the
+readout and was part of the conversation that the Secretary had with Minister Gallant. That conversation is
+happening at multiple echelons within the U.S. government.
+
+I mean, to answer your question, in certain areas, we have seen them take action, but clearly not enough. And so
+again, we're going to continue to set that expectation, and we're going to continue to have those conversations.
+
+Yes, sir?
+
+Q: Yes. (Inaudible) for Italian News Journal. I have two questions. One is about Gaza and the other one about
+Ukraine. The first question is, what are the steps suggested from the Secretary to de-escalate the situation in Gaza,
+looking to the escalation between Israel and Iran was very dangerous at this time. So, what are the steps suggested
+toward peace?
+
+And then the second question, it would be about Ukraine and Russia, the situation in Ukraine, from the European
+perspective, although there are a lot of aids coming in, it seems stalling. And so again, what the Pentagon suggest,
+to -- to move the situation and -- and find the solution toward peace? Because Europe is afraid of that war.
+
+GEN. RYDER: Sure. Well, when it comes to the situation in Gaza, and you know, broader escalation throughout the
+Middle East, the Department of Defense continues to remain focused on four primary areas. Number one is the
+protection of U.S. citizens and service members throughout the region. Number two is working with Israel and
+others in the region to the -- for the release of hostages that are being held by Hamas. And then the other two
+objectives are ensuring that Israel has the ability to defend itself from future terrorist attacks and broader regional
+threats. And then finally preventing a broader regional escalation.
+
+And so that has included, you know, not just on the Department of Defense side, but across the U.S. government,
+both diplomatic efforts, but then also by us for having forces in the region that are able to support regional
+deterrence, as well as provide us options should we need to respond.
+
+Again, at the end of the day, we recognize Israel's engaged in a -- in a -- in a very difficult conflict with Hamas in
+Gaza. But, you know, we're going to do everything we can to again, prevent this from spreading further.
+
+Q: Prime Minister Netanyahu is not really listening, it looks like to what the President is suggesting.
+
+GEN. RYDER: Yes, I can't speak for the Prime Minister. And I'm sorry, your second question.
+
+Q: Briefly, can say something about the situation in Ukraine, the stalling of the war. What is the Pentagon is
+suggesting to move forward? And maybe finding some sort of sort of solution?
+
+GEN. RYDER: Yes, well, I mean, you know, our focus is on supporting Ukraine and its ability to defend itself and
+take back sovereign territory. And so that will continue to be our focus.
+
+And we go to Missy.
+
+                                                                                                  Page 5 of 11
+               Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+Q: Just going back to that Gallant call. Did Secretary Austin convey the same message that Biden conveyed to
+Netanyahu that the U.S. policy of Gaza would depend on these particular things?
+
+GEN. RYDER: No.
+
+Q: OK. And, because the -- the assistance Israel's mostly military, I want to ask you the question sort of that, that
+John Kirby was asked today, which is that, you know, if they're saying that, suggesting that the U.S. could change
+his policy, vis-a-vis Gaza, if Israel doesn't take the specified steps, it suggests that the U.S. could curtail or suspend
+military aid. Do you -- is that an accurate understanding of what that means?
+
+GEN. RYDER: Well again, like I -- I know that Mr. Kirby spoke to this, I'm not going to get ahead of the -- the White
+House on this or preview it. So, I think, you know, all that the President's words the -- the White House's word stand
+on their own. Thanks.
+
+(Inaudible).
+
+Q: Thank you, General. I believe when the Secretary was at the Hill, he mentioned another back then 25,000
+civilian deaths in Gaza. And he said majority, majority of whom were women and children. And yesterday on the call
+for the first time, we read that he expressed outrage at the death of aid workers. Why wasn't the Secretary outrage
+before yesterday?
+
+GEN. RYDER: The Secretary has been clear all along, that this is a tragic situation. None of us want to see
+innocent civilians killed in this conflict. That is a conversation that he has had with Mr. Gallant from the very
+beginning of this conflict. So, to -- to make the accusation that somehow one set of people killed is unacceptable
+versus the other. That's just an inaccurate characterization.
+
+Q: I didn't make that accusation, you made it.
+
+GEN. RYDER: No, you -- you. You made you made it.
+
+Q: I would have said it. You know, I'm very (inaudible).
+
+GEN. RYDER: OK.
+
+Q: But thanks for making (inaudible). The second question. We've been asking the same question over and over
+again and receive the same answer.
+
+GEN. RYDER: I know.
+
+That there are no conditions on USA to Israel. At the end of the day, this is an Israel operation. Suddenly, today, we
+hear a different tone, that there is going to be conditions if Israel doesn't do it, this and this, and this. Would such a
+warning coming before today would have saved innocent lives in Gaza, including an American aid worker?
+
+GEN. RYDER: I'm not going to get into hypotheticals, but thanks.
+
+Yes, sir?
+
+Q: Thanks, General. At the White House briefing, John Kirby said that in the past couple of months, the U.S. hasn't
+provided any emergency military aid to Israel. Is that because Israel hasn't requested any aid along those lines? Or
+has the U.S. been turning down those requests?
+
+GEN. RYDER: No, look, I mean, as you know, we've got a long-standing security relationship with Israel. And as he
+also highlighted, foreign military sales, foreign military financing. Many of those requests are years in the making.
+And so, it's a combination of the two.
+
+But as we've highlighted shortly after October 7 very shortly, we were able to rush some additional security
+assistance to help meet Israel's immediate needs.
+
+                                                                                                 Page 6 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+Q: No additional assistance has been rushed in that way since the (inaudible).
+
+GEN. RYDER: And we continue to support Israel with the capabilities that they've purchased as well as requested,
+but I don't have anything specific to read out to you. We go to Janne.
+
+Q: Thank you, General. Two questions. Experts said North Korea's recent launch of a solid fuel ballistic missile
+could pose a threat to the U.S. air stationed in Pohang. What is your comment on this, or how did you assess this
+report ?
+
+GEN. RYDER: Well, you know, look, we're aware, of course, of the testing. We're consulting closely with our allies
+in the region. But I'll just leave it at that.
+
+Q: And the second one.
+
+GEN. RYDER: Yes.
+
+Q: And President -- Russian President Putin and Chinese President Xi Jinping have a meeting -- meeting in next
+month.
+
+And regarding what concern do we have about the military cooperation between China and Russia, as well as
+movement in military cooperation between North Korea, China, and Russia?
+
+GEN. RYDER: Well, again, look, our focus in the region is on working with allies and partners to ensure regional
+security and stability. And that will continue to remain our focus. Each of the nations that you highlighted are
+sovereign nations. And they're going to make decisions about who they cooperate with and who they don't. Where it
+becomes a problem is when there -- we start to see malign activity in terms of providing Russia, for example, with
+capabilities that they're then in turn using to attack Ukraine. So again, we'll continue to monitor that closely.
+
+All right. Let me go to the phones here real quick. Let me go to Patty, Task & Purpose.
+
+Q: Hi, Pat. So there was reporting from an Israel based magazine, 972, about the IDF's Lavender System, which
+found that they were systematically targeting Individuals while they were in their homes at night, while their families
+were present rather than military activity. I understand that you won't -- that you can't comment on IDF policy, but
+I'm wondering if you can just talk about does the U.S. support using AI for targeting?
+
+GEN. RYDER: Yes. So I've seen those press reports, Patty. I don't have anything as you highlight. I'd refer you
+back to the Israelis to talk about any capabilities they may or may not have. Laura.
+
+Q: The JLOTS capabilities, when is that expected to arrive in Gaza? And do you have a committed partner yet that
+will distribute aid from this pier when it's built?
+
+GEN. RYDER: Yes, I think I answered that earlier. But right now, again, we are expecting JLOTS to be online by
+the end of the month, early May on schedule. Again, we continue to work closely with USAID and other partners
+NGOs to discuss the aid delivery and distribution. And so as we have more information to provide on that front, we
+will.
+
+Q: Are you -- is -- are you going to continue setting up the pier once they arrive if they don't -- you don't have a
+committed partner in terms of security for the U.S. Personnel setting up the pier and in terms of protection?
+
+GEN. RYDER: Yes. Again, as I highlighted, Lauren, sorry, maybe I wasn't clear. Israel has committed to providing
+security on shore. So we're continuing to work with them on the details of that. And again, we're not changing the
+mission. We've been tasked to provide a temporary pier. Everything is on track on schedule at this point. And so
+again, as more details come in, we'll be sure to give you an update.
+
+Q: So, just to be clear, even if you don't have anybody that's going to distribute the aid -- GEN. RYDER: Yes, I'm
+not going to get into hypotheticals.
+
+                                                                                                  Page 7 of 11
+               Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+Q: Well, I mean, that's not a hypothetical --
+
+GEN. RYDER: Courtney?
+
+Q: -- that's true?
+
+GEN. RYDER: No, you're saying if you don't, we're not there yet. The pier is not stood up yet. And they haven't
+arrived in theater yet. And we're continuing to work through those things. So we'll keep you updated. Courtney.
+
+Q: Just one clarification on that. So there's -- Yes, the Israelis have agreed to do security on the shore. Are they
+doing security for the distribution though as well? Is that -- GEN. RYDER: Again, we're working through all the
+details. Clearly, Israel will be an important partner when it comes to security for all the obvious reasons in Gaza. I'm
+not going to get into the specifics, you know? Again, we're working through a lot of those details. But as this comes
+online, we'll have much more to say.
+
+Q: Is that part of the conversation last night, those kinds of specifics with -- or yesterday afternoon with the
+Secretary and his Israeli counterpart?
+
+GEN. RYDER: They did discuss maritime delivery of aid, yes.
+
+Q: The IDF for providing security throughout the whole process?
+
+GEN. RYDER: Well, providing security, yup. So, okay. Luis?
+
+Q: Going back to one of your earlier answers, I think to Jen's question about distribution, distributing the aid coming
+through the Maritime Corridor, you said that this strike certainly doesn't make that job easier. Can you provide some
+context as to what you're talking about there and how it makes it more difficult for Pentagon?
+
+GEN. RYDER: Yes. Well, I mean, a couple of things, Luis. So I mean, first of all, you know, the -- I was reading an
+article earlier today that highlighted the fact that it's -- that, you know, this is a dangerous place. It's a combat zone.
+And so, you know, certainly, the aid groups that are there operating in that environment under extremely difficult
+circumstances.
+
+And so the fact that you are delivering aid within a combat zone, the fact that you saw what we saw earlier this
+week in terms of the Israeli strike, despite the fact that by all accounts, the World Central Kitchen had coordinated
+with the Israelis to be able to access that area, those kinds of things need to be flushed out and ironed out to
+ensure that any aid distribution can safely do that.
+
+So I know that USAID and others are working closely on that issue. And I'll just leave it there. Thanks. Let me go
+back to Jennifer.
+
+Q: Just a quick follow up on the Lavender System. Is there any indication that the Lavender System or any AI-
+generated targets was responsible for this World Central Kitchen attack?
+
+GEN. RYDER: Again, I can't get ahead of an Israeli investigation. I know they're looking into this, so I'd have to
+refer you to them.
+
+Q: And why wasn't Secretary Austin on the call with the Prime Minister, given the military component of this current
+operation and discussion?
+
+GEN. RYDER: Yes. Look, I don't think that that's, again, unusual. I mean, we do a series of phone calls -- senior
+leaders do series of phone calls all the time depending on the topic to be discussed based on schedules. So that in
+and of itself is not unusual.
+
+GEN. RYDER: Ashley.
+
+                                                                                                 Page 8 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+Q: Just a follow up questions since it's evolving situation right now and things are rapidly changing. Is the U.S.
+prepared to do its own investigation into the strike on the aid workers?
+
+GEN. RYDER: Not to my knowledge.
+
+Q: And then also, do you have a total you can provide us of military aid provided to Israel since October 7?
+
+GEN. RYDER: We don't -- I don't have anything in front of me here today actually. Thank you. Ma'am?
+
+Q: Valerie Shelbourne with (inaudible) News. Has there been any impact to U.S. operations with the Danish frigate
+that had the faulty missile launcher that's blocking entrance to the Baltic shipping lanes?
+
+GEN. RYDER: I don't have anything on that. Thanks. Let me get a couple other folks that haven't called on here.
+Mike?
+
+Q: Yes. Thanks, Pat. In August 21, 2021, the U.S. launched a drone strike that killed seven children and three
+adults for several days. People in this building, including your predecessor and the former chairman, insisted it was
+a righteous nation. Nobody was punished for it. Nobody lost their job over it. I mean, is it really -- is the U.S. really in
+a position to be outraged about what happened in Israel since it seems to almost mirror what happened in the --
+what the U.S did in Afghanistan?
+
+GEN. RYDER: Yes, Mike, I mean, I - I appreciate the question but, you know, I - I - I'm not going to be able to talk
+about the past. All I can talk about today is the present. And the fact is, you know, seven civilians who were
+delivering food to people who are in extreme need were killed in an airstrike. So it's a tragic situation, I think we can
+all agree. And so I'll just leave it there.
+
+Sir?
+
+Q: Thank you, General. Alan Fisher from Al Jazeera English. Can you remember yourself any time that the
+Secretary has expressed publicly his outrage at the death of aid workers in Gaza, including the more than 160 that
+died before the attack on World Central Kitchen? And if you can't, can you point me in the direction of times where
+he expressed publicly his outrage at the death of aid workers before that incident?
+
+GEN. RYDER: Yes, look, this Secretary clearly feels this is an important issue. He's addressed the situation - the -
+the civilian and humanitarian situation in Gaza on multiple occasions. Nearly every single time he speaks to Minister
+Gallant, this is a topic of discussion, and it will continue to be an important topic.
+
+Let me go to the phone here. Konstantin?
+
+Q: Can you remember any time he expressed his public outrage? Because it seems to me this is the first time he's
+done that, when an American has died and there's a lot of publicity globally about what's happened to World Central
+Kitchen.
+
+GEN. RYDER: Look, again, the Secretary feels it's an important issue. I - I appreciate the opportunity to, you know,
+communicate your sentiment in that way, but I can assure you that this is an important topic for the Secretary.
+
+Let me go to Konstantin, Military.com.
+
+Q: Thanks, Pat. On the - on the JLOTS plans, I know you said that plans are still ongoing, that you guys are
+committed to putting the system in place, but has the World Food Kitchen (sic) strike altered those plans or caused
+you guys to think about any aspect of these plans differently? And sort of related to that I suppose, can you speak
+as to whether those plans involve any U.S. Navy war ships being present in the area? Thanks.
+
+GEN. RYDER: Yes, thanks, Konstantin. You know, so the - the short answer is we continue to plan apace and
+continue to, as I mentioned, work towards implementation of JLOTS on schedule. Certainly, like any military
+operation, you're going to take factors in the operating environment into consideration, to include the things that I
+
+                                                                                                 Page 9 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+mentioned earlier as far as the security situation and ensuring that security is taken into consideration as it relates
+to aid distribution. And so that will be taken into account.
+
+As far as any additional assets, like Navy ships, I don't have anything to announce right now, but again, you know,
+we're always going to put the safety and security of our forces as a top priority in any of these operations. Thanks.
+
+Lara?
+
+Q: ... just in follow-up, you said that the Israel - the Israelis have committed to providing security for the pier. Why
+would you trust the IDF to protect the U.S. personnel setting up the pier when they struck the food assistance
+convoy after they had already cleared their route with the IDF?
+
+GEN. RYDER: Look, again, I know Israel's investigating, in terms of the - the strike on World Central Kitchen, and
+we trust that Israel will provide the security that we need on the shore.
+
+Let me go to Jared.
+
+Q: Thank you, sir. Nearly a month ago, a group of UN experts reported, quote, "over 14 recorded incidents of Israeli
+forces shooting, shelling, and targeting groups gathered to receive urgently needed supplies from trucks or airdrops
+between mid-January and the end of February of 2024." The quote goes on - "Israel had also opened fire - has also
+opened fire on humanitarian aid convoys on several occasions despite the fact that the convoys share their
+coordinates - coordinates with Israel." That signal was issued on March 5th.
+
+Does the department see the strike on the World Central Kitchen convoy as part of a pattern? And have department
+officials told their Israeli counterparts to stop the IDF from firing on aid convoys or civilians gathered to receive aid
+since ...
+
+GEN. RYDER: Well, look, Jared, I think I addressed that, you know, in the - in the top there, where Secretary Austin
+again highlighted to Minister Gallant the need to take concrete steps to protect aid workers and Palestinian civilians
+after repeated coordination failures with foreign aid groups.
+
+And so I think our expectation is that yes, they will obviously need to do much better when it comes to ensuring that
+that aid is not only delivered more frequently into Gaza but done so in a way that's safe and secure for those who
+are receiving that aid.
+
+Q: So the subject of Israeli forces open firing on civilians gathered to receive aid, this has been a subject of
+discussion in the past - in past weeks and months ...
+
+GEN. RYDER: I think the - the topic of taking civilian safety into account when conducting operations has been a
+topic almost since the beginning of this conflict. Thank you.
+
+Sir?
+
+Q: Thank you. I have one on Ukraine and one on the Pacific. What is the Pentagon saying about the idea voiced by
+Jens Stoltenberg about moving the Ukraine Defense Contact Group under NATO leadership, given the concerns
+about the lack of support of the United States?
+
+GEN. RYDER: So I don't have any announcements to make regarding a shift in the overall, you know, management
+of the UDCG. As - as you know, Secretary Austin continues to convene this international forum. We just held our
+most recent session at Ramstein last month.
+
+Of course, you know, there's always conversations that are going on to look at - at how we can work with allies and
+partners to ensure that support for Ukraine is done in a systemic, sustainable, deliberate way. That's why you see
+things like the capability coalitions that have been stood up, the national armaments directors' meetings.
+
+                                                                                               Page 10 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+So going forward, we'll continue to work with allies and partners on that front, but - but when it comes to, you know,
+NATO playing a bigger role, I just - I don't have anything on that.
+
+Q: Another one from our colleagues. So John Kirby told Voice of America today that the Pentagon would have more
+on joint U.S.-Japan-Philippine naval operations today. Could you - can you give us some details about those
+operations?
+
+GEN. RYDER: So I don't - I don't have anything to announce today. We will in the very near future, so just stay
+tuned. Thank you.
+
+Nancy?
+
+Q: You've mentioned that the Secretary wasn't a part of today's phone call with the Prime Minister. Has he been a
+part of any of the phone calls between the President and the Prime Minister?
+
+GEN. RYDER: You're talking about over the history of time? I ...
+
+Q: Let's say since October.
+
+GEN. RYDER: I - I don't have an answer to that.
+
+Q: Is that something we could get an answer on?
+
+GEN. RYDER: You know, look, the - you know, again, as I highlighted, there is going to be phone calls that the
+President does. If he wants Cabinet ministers to join, you know, certainly that - that's his prerogative. But I'd refer
+you to the White House to talk about who's joining White House calls. It's really not my purview to be able to
+respond for the White House.
+
+Q: Pat, your purview is saying that the Secretary is on a call? I guess I don't understand why it's secret or un-
+releasable if the Secretary participates in such an important call. There haven't been that many since October.
+
+GEN. RYDER: Any other questions?
+
+Q: No, I just think - I'd appreciate you taking the question. I don't - I don't think it's something that should go to the
+White House.
+
+GEN. RYDER: OK. Anyone else? Yes, sir?
+
+Q: Yes, thank you. Just one quick question. So Ukraine has struck a number of Russian oil refineries, and it seems
+like they're ramping up those attacks. Has the Pentagon communicated with Ukraine about this? And do you
+support these attacks at all?
+
+GEN. RYDER: Ukraine attacks against Russian oil refineries? You know, look, the - the assistance that we're
+providing to Ukraine is intended for them to defend their sovereign territory and - and to take back their sovereign
+territory. We don't provide any assistance for use outside of that. I'd refer you to Ukraine to talk about their
+operations. Certainly, our focus is on making sure that they can defend themselves.
+
+Q: And are you communicating with them about these ...
+
+GEN. RYDER: We have frequent conversations with our Ukrainian counterpart - counterparts on a variety of topics,
+so.
+
+Did you have one more?
+
+Q: Yes.
+
+GEN. RYDER: OK.
+
+                                                                                               Page 11 of 11
+              Pentagon Press Secretary Air Force Maj. Gen. Ryder Conducts News Briefing on April 4
+
+Q: (Inaudible) since you called on me. Would you say, General, that the administration now is - is willing to use
+leverage against Israel to enact some changes in Gaza?
+
+GEN. RYDER: You know, Fadi, again, I'd - I'd point you back to the readout - the President's phone call and the
+readout and just leave it at that. Again, I - I can't get into hypotheticals, I can't, you know, preview any potential
+future actions, other than to say I'd - I'd refer you back to the President's statement.
+
+Q: ... I mean, this is - it signals a certain shift, whether this is my reading or others. What would you say back to this
+point to make hints at conditional support?
+
+GEN. RYDER: Again, I - I appreciate the question. That would - that's a presidential decision, so it's really more
+appropriate for the White House to address that question.
+
+And I can take one more. Yes, ma'am?
+
+Q: Thank you, General. At the Japanese (inaudible) summit scheduled for next week. I think the security issues,
+such as a mobilization of U.S.-Japan asset to - expected to be a main topic? And I know you're not going to get
+ahead of the outcome, but as DOD, what results do you expect from the summit?
+
+And a trilateral summit with - between U.S., Japan, and Philippines was - is scheduled. And considering the current
+situation of South China Sea, what kind of cooperation do you expect from those three countries?
+
+GEN. RYDER: Sure. So as you highlight, I don't want to get ahead of this summit, other than to say, you know, we
+certainly look forward to the opportunity to talk with our Japanese allies and further bolster our cooperation and our
+relationship as one of our most pivotal allies in the region.
+
+When it comes to the - the United States and the Philippines and, you know, working trilaterally on the South China
+Sea, again, as I highlighted earlier, our main focus is on working together to ensure that the Indo-Pacific region
+remains free, it remains open, and that there's security and stability throughout the region. That is what our focus is.
+And so we'll continue to coordinate with one another and look at areas where we can cooperate to ensure that
+that's the case.
+
+Thank you very much, everybody. Appreciate it.
+
+***
+
+Original text here: https://www.defense.gov/News/Transcripts/Transcript/Article/3731825/pentagon-press-secretary-
+air-force-maj-gen-pat-ryder-holds-a-press-briefing/
+
+Copyright Targeted News Services
+
+T40-MgEditor-8560529 T40-MgEditor
 
 
-                                                                                   May 31,
-                                                                                   2024
-                                                                                   (unaudited)     August 31,
-                                                                                                   2023
-       ASSETS
-       Current assets:
-       Cash and cash equivalents                                                   $ 2,457         $ 1,804
-       Accounts receivable, net                                                      3,382            3,647
-
-                                                                                                  Page 4 of 8
-                                          Jabil Posts Third Quarter Results
-
-Contract assets                                                                 1,121         1,035
-Inventories, net                                                                4,439         5,206
-Prepaid expenses and other current assets                                       1,494         1,109
-Assets held for sale                                                            -             1,929
-Total current assets                                                            12,89         14,73
-                                                                                3             0
-Property, plant and equipment, net                                              2,963         3,137
-Operating lease right-of-use asset                                              366           367
-Goodwill and intangible assets, net                                             810           763
-Deferred income taxes                                                           129           159
-Other assets                                                                    288           268
-Total assets                                                                  $ 17,44       $ 19,42
-                                                                                9             4
-LIABILITIES AND EQUITY
-Current liabilities:
-Current installments of notes payable and long-term debt                      $ -           $ -
-Accounts payable                                                                5,398         5,679
-Accrued expenses                                                                5,929         5,515
-Current operating lease liabilities                                             96            104
-Liabilities held for sale                                                       -             1,397
-Total current liabilities                                                       11,42         12,69
-                                                                                3             5
-Notes payable and long-term debt, less current installments                     2,879         2,875
-Other liabilities                                                               331           319
-Non-current operating lease liabilities                                         285           269
-Income tax liabilities                                                          112           131
-Deferred income taxes                                                           143           268
-Total liabilities                                                               15,17         16,55
-                                                                                3             7
-Commitments and contingencies
-Equity:
-Jabil Inc. stockholders' equity:
-Preferred stock                                                                 -             -
-Common stock                                                                    -             -
-Additional paid-in capital                                                      2,881         2,795
-Retained earnings                                                               5,632         4,412
-Accumulated other comprehensive loss                                            (18     )     (17       )
-Treasury stock, at cost                                                         (6,21   )     (4,32     )
-                                                                                9             4
-Total Jabil Inc. stockholders' equity                                           2,276         2,866
-Noncontrolling interests                                                        -             1
-Total equity                                                                    2,276         2,867
-Total liabilities and equity                                                  $ 17,44       $ 19,42
-                                                                                9             4
-
- JABIL INC. AND SUBSIDIARIES
- CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
-
-                                                                                                Page 5 of 8
-                                      Jabil Posts Third Quarter Results
-
-(in millions, except for per share data)
-(Unaudited)
-
-
-                                                               Three months       Nine months ended
-                                                               ended
-                                                               May       May      May 31,       May
-                                                               31,       31,      2024          31,
-                                                               2024      2023                   2023
-Net revenue                                                    $ 6,7     $ 8,4    $ 21,         $ 26,
-                                                                  65        75      91             24
-                                                                                    9              4
-Cost of revenue                                                  6,1        7,7     19,            24,
-                                                                 57         78      90             14
-                                                                                    6              3
-Gross profit                                                     60         69      2,0            2,1
-                                                                 8          7       13             01
-Operating expenses:
-Selling, general and administrative                              26         30      89            91
-                                                                 8          7       0             1
-Research and development                                         9          8       29            25
-Amortization of intangibles                                      12         7       27            24
-Restructuring, severance and related charges                     55         -       25            45
-                                                                                    2
-Gain from the divestiture of businesses                          -          -       (94     )     -
-                                                                                    4
-Acquisition and divestiture related charges                      3          -       64            -
-Operating income                                                 26         37      1,6           1,0
-                                                                 1          5       95            96
-Interest and other, net                                          60         69      19            20
-                                                                                    7             4
-Income before income tax                                         20         30      1,4           89
-                                                                 1          6       98            2
-Income tax expense                                               72         73      24            22
-                                                                                    8             9
-Net income                                                       12         23      1,2           66
-                                                                 9          3       50            3
-Net income attributable to noncontrolling interests, net of      -          -       -             -
-tax
-Net income attributable to Jabil Inc.                          $ 12       $ 23    $ 1,2         $ 66
-                                                                 9          3       50            3
-Earnings per share attributable to the stockholders of Jabil
-Inc.:
-Basic                                                          $ 1.0      $ 1.7   $ 10.         $ 4.9
-                                                                 8          6       01            6
-Diluted                                                        $ 1.0      $ 1.7   $ 9.8         $ 4.8
-                                                                 6          2       6             6
-Weighted average shares outstanding:
-Basic                                                            11         13      12            13
-                                                                 9.9        2.3     4.9           3.6
-Diluted                                                          12         13      12            13
-                                                                 1.7        5.1     6.9           6.4
-
-JABIL INC. AND SUBSIDIARIES
-CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
-(in millions)
-(Unaudited)
-
-                                                                                                              Page 6 of 8
-                                        Jabil Posts Third Quarter Results
-
-
-                                                                                    Nine months ended
-                                                                                    May 31,            May 31,
-                                                                                    2024               2023
-Cash flows provided by operating activities:
-Net income                                                                          $ 1,250            $ 663
-Depreciation, amortization, and other, net                                            557                752
-Gain from the divestiture of businesses                                               (944         )     -
-Change in operating assets and liabilities, exclusive of net assets acquired          318                (367      )
-Net cash provided by operating activities                                             1,181              1,048
-Cash flows provided by (used in) investing activities:
-Acquisition of property, plant and equipment                                          (660         )     (860      )
-Proceeds and advances from sale of property, plant and equipment                      115                180
-Cash paid for business and intangible asset acquisitions, net of cash                 (90          )     (30       )
-Proceeds from the divestiture of businesses, net of cash                              2,108              -
-Other, net                                                                            (6           )     (28       )
-Net cash provided by (used in) investing activities                                   1,467              (738      )
-Cash flows used in financing activities:
-Borrowings under debt agreements                                                      1,895              3,556
-Payments toward debt agreements                                                       (1,98        )     (3,36     )
-                                                                                      7                  9
-Payments to acquire treasury stock                                                    (1,82        )     (442      )
-                                                                                      4
-Dividends paid to stockholders                                                        (32          )     (34       )
-Net proceeds from exercise of stock options and issuance of common stock              31                 27
-under employee stock purchase plan
-Treasury stock minimum tax withholding related to vesting of restricted stock         (68          )     (36       )
-Other, net                                                                            (4           )     (6        )
-Net cash used in financing activities                                                 (1,98        )     (304      )
-                                                                                      9
-Effect of exchange rate changes on cash and cash equivalents                          (6           )     (4        )
-Net increase in cash and cash equivalents                                             653                2
-Cash and cash equivalents at beginning of period                                      1,804              1,478
-Cash and cash equivalents at end of period                                          $ 2,457            $ 1,480
-
-JABIL INC. AND SUBSIDIARIES
-SUPPLEMENTAL DATA
-RECONCILIATION OF U.S. GAAP FINANCIAL RESULTS TO NON-GAAP MEASURES
-(in millions, except for per share data)
-(Unaudited)
-
-
-                                                           Three months ended              Nine months ended
-                                                           May 31,       May 31,           May 31,      May 31,
-                                                           2024          2023              2024         2023
-Operating income (U.S. GAAP)                               $ 26          $ 37              $ 1,6        $ 1,0
-                                                             1             5                 95           96
-Amortization of intangibles                                  12            7                 27           24
-Stock-based compensation expense and related                 3                 18             72              80
-charges
-
-                                                                                                          Page 7 of 8
-                                       Jabil Posts Third Quarter Results
-
-  Restructuring, severance and related charges(1)            55            -              25             45
-                                                                                          2
-  Net periodic benefit cost                                  2             4              7              11
-  Business interruption and impairment charges,              14            -              14             -
-  net(2)
-  Gain from the divestiture of businesses(3)                 -             -              (94   )        -
-                                                                                          4
-  Acquisition and divestiture related charges(3)             3             -              64             -
-  Adjustments to operating income                            89            29            (50    )       16
-                                                                                         8              0
-  Core operating income (Non-GAAP)                         $ 35         $ 40           $ 1,1          $ 1,2
-                                                             0            4              87             56
-  Net income attributable to Jabil Inc. (U.S. GAAP)        $ 12         $ 23           $ 1,2          $ 66
-                                                             9            3              50             3
-  Adjustments to operating income                            89           29             (50    )       16
-                                                                                         8              0
-  Net periodic benefit cost                                  (2    )       (4    )       (7     )       (11     )
-  Adjustments for taxes                                      14            11             51             32
-  Core earnings (Non-GAAP)                                 $ 23         $ 26           $ 78           $ 84
-                                                             0            9              6              4
-  Diluted earnings per share (U.S. GAAP)                   $ 1.0        $ 1.7          $ 9.8          $ 4.8
-                                                             6            2              6              6
-  Diluted core earnings per share (Non-GAAP)               $ 1.8        $ 1.9          $ 6.2          $ 6.1
-                                                             9            9              0              8
-  Diluted weighted average shares outstanding (U.S.          12           13             12             13
-  GAAP & Non-GAAP)                                           1.7          5.1            6.9            6.4
-
-__________________
-(   Charges recorded during the three months and nine months ended May 31, 2024, related to the 2024
-1 Restructuring Plan.
-)
-(   Charges recorded during the three months and nine months ended May 31, 2024, related to costs associated
-2 with product quality liabilities.
-)
-(   We completed the divestiture of our mobility business and recorded a pre-tax gain of $944 million, subject to
-3 certain post-closing adjustments that are still being finalized. We incurred transaction and disposal costs in
-)   connection with the sale of approximately $64 million during the nine months ended May 31, 2024.
-
-JABIL INC. AND SUBSIDIARIES
-SUPPLEMENTAL DATA
-ADJUSTED FREE CASH FLOW
-(in millions)
-(Unaudited)
-
-
-                                                                                      Nine months ended
-                                                                                      May 31,         May 31,
-                                                                                      2024            2023
-Net cash provided by operating activities (U.S. GAAP)                                 $ 1,18          $ 1,04
-                                                                                        1               8
-Acquisition of property, plant and equipment ("PP&E")(1)                                (660    )       (860        )
-Proceeds and advances from sale of PP&E(1)                                               115             180
-Adjusted free cash flow (Non-GAAP)                                                    $ 636           $ 368
-
-__________________
-(   Certain customers co-invest in PP&E with us. As we acquire PP&E, we recognize the cash payments in
-1 acquisition of PP&E. When our customers reimburse us and obtain control, we recognized the cash receipts in
-
-                                                                                            Page 8 of 8
-                                         Jabil Posts Third Quarter Results
-
-     )    proceeds and advances from the sale of PP&E.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240620182688/en/
-
-
-CONTACT: Investor Contact
-Adam Berry
-Senior Vice President, Investor Relations and Communications
-
-Adam_Berry@jabil.com
-
-
-Media Contact
-Timur Aydin
-Senior Director, Enterprise Marketing and Communications
-
-Timur_Aydin@jabil.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: June 20, 2024
+Load-Date: April 5, 2024
 
 
   

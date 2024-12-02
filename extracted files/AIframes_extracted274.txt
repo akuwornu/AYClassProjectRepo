@@ -1,14 +1,14 @@
 
 
-                                                                                                   Page 1 of 8
-                                  Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
+                                                                                                   Page 1 of 9
+                                  Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
 
 
 
 
-                   Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
+                   Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
                                                      Targeted News Service
-                                            July 13, 2024 Saturday 10:47 AM EST
+                                            March 9, 2024 Saturday 8:31 AM EST
 
 
 
@@ -17,14 +17,14 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 3124 words
+Length: 3738 words
 Byline: Targeted News Service
 Dateline: WASHINGTON
 
 Body
 
 
-(TNSres) -- The U.S. Census Bureau issued the following tip sheet on July 12, 2024:
+(TNSres) -- The U.S. Census Bureau issued the following tip sheet (No. 5) on March 8, 2024:
 
 ***
 
@@ -36,249 +36,294 @@ The U.S. Census Bureau has posted anticipated release dates for each regular and
 scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
 updated as needed throughout the year.
 
-Census Bureau Releases Updated Community Resilience Estimates for Heat
+***
 
-The U.S. Census Bureau will release an updated version of the experimental data product Community Resilience
-Estimates (CRE) for Heat. Community resilience is the capacity of individuals and households within a community
-to absorb the external stresses of a disaster. While the standard Community Resilience Estimates (CRE)
-measures social vulnerability that inhibits community resilience, the experimental CRE for Heat measures social
-vulnerability in the context of extreme heat exposure. (Scheduled for release July 16.)
+2030 Census Preparation
+
+Census Scientific Advisory Committee 2024 Spring Meeting
+
+The U.S. Census Bureau will host the Census Scientific Advisory Committee Meeting March 14-15. Experts and
+representatives of various organizations from across the nation will attend the virtual meeting to discuss census
+programs, operations and innovative processes.
+
+Initial Strategies for 2030 Census Preparations
+
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in March.)
+
+                                                                                                       Page 2 of 9
+                              Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
 
 ***
 
-2030 Census
-
-2030 Census Advisory Committee Meeting
-
-The U.S. Census Bureau will host the 2030 Census Advisory Committee Summer Virtual Meeting July 26, 2024.
-This will be the first meeting of the 2030 Census Advisory Committee. Representatives of various organizations
-from across the nation will provide insight, perspectives, and expertise through recommendations on planning and
-
-                                                                                                        Page 2 of 8
-                              Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
-
-implementation of the 2030 Census. The meeting will be open to the public via webcast. For more information, visit
-2030 Census Advisory Committee Summer Virtual Meeting.
-
-2026 Census Test Locations to be Announced
-
-The U.S. Census Bureau is scheduled to hold the fourth in a series of webinars to share updates on its efforts to lay
-the groundwork for the 2030 Census. The upcoming webinar will announce the sites selected for the 2026 Census
-Test; the first of two major on-the-ground tests planned to prepare for the 2030 Census. The webinar will discuss
-the Census Bureau's criteria and the rigorous, data-driven approach used to identify the sites. (Scheduled for July
-22.)
-
 American Community Survey
 
-American Community Survey Timeline for Implementing Updated 2024 Race and Ethnicity Data Standards
+New Report on the Nation's Foreign-Born Population
 
-The Census Bureau is inviting public feedback through a Federal Register notice (FRN) on the timeline to
-implement the Office of Management and Budget's updated race and ethnicity standards, outlined in Statistical
-Policy Directive No. 15 (SPD 15), into the American Community Survey. The information gathered through this FRN
-will be taken into consideration as the Census Bureau continues to develop plans to implement the updated
-standards. The public may submit comments on or before August 12.
+The U.S. Census Bureau is scheduled to release new data products highlighting select demographic and
+socioeconomic characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report
+compares 2010 and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing
+composition of the foreign-born population in the United States. The Highlights of the Foreign-Born Population data
+visualization displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of
+geography (including national, state and county). (Tentatively scheduled for release in April.)
 
 ***
 
 Demographic
 
-Small Area Health Insurance Estimates
+County Population and Components of Change and Population of Metropolitan and Puerto Rico Municipios
+Estimates: July 1, 2023
 
-The U.S. Census Bureau will release new data from the Small Area Health Insurance Estimates (SAHIE) Program,
-the only source for single-year estimates of the number of people with and without health insurance coverage in
-each of the nation's 3,143 counties. County statistics will be available by sex and age groups and at income levels
-that reflect thresholds for state and federal assistance programs such as the Patient Protection and Affordable Care
-Act (ACA) and Medicaid eligibility. State estimates also include health insurance coverage by race and Hispanic
-origin. (Scheduled for release July 25.)
+Internet tables and detailed downloadable files will show annual population estimates for county population and
+demographic components of population change, metropolitan and micropolitan statistical area population, and
+Puerto Rico municipio population since the 2020 Census. (Scheduled for embargo starting March 12; public release
+March 14.)
+
+New 2022 Congressional Election Voting Report
+
+The U.S. Census Bureau will release a new report, Voting and Registration in the Election of November 2022,
+based on data from the 2022 Current Population Survey (CPS) Voting and Registration Supplement. The report
+highlights patterns in voter turnout over time among the citizen voting-age population (CVAP) and explores
+demographic groups over- and under-represented in the 2022 congressional elections compared to the CVAP as a
+whole. (Tentatively scheduled for release March.)
+
+Parental Mortality Brief
+
+The U.S. Census Bureau will be releasing a new research brief on parental mortality based on the 2022 Survey of
+Income and Program Participation (SIPP). This report presents national level statistics for the percentage of people
+who lost a mother or father and how these estimates varied by age and race/ethnicity. (Tentatively scheduled for
+release in March.)
+
+Census Bureau Releases New U.S. Population Estimates by Age and Sex
+
+The U.S. Census Bureau is set to release a downloadable file containing estimates of the nation's resident
+population by sex and single year of age as of July 1, 2023. In the coming months, the Census Bureau will release
+additional population estimates for cities as well as population estimates by age, sex, race and Hispanic origin for
+the nation, states, metropolitan and micropolitan statistical areas, and counties. (Tentatively scheduled for release
+April 11.)
 
 Household Pulse Survey
 
-The experimental Household Pulse Survey (HPS) is an effort by the U.S. Census Bureau and other federal
-statistical agencies to measure how emergent issues are impacting U.S. households from a social and economic
-perspective. Phase 4.1 topics include employment status, spending, food security, housing, health, mental health,
-natural disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, disability, income,
-social connection, child care arrangements and a section on participation with the arts. Data collection for phase 4.1
-began April 2, with data dissemination, including detailed data tables, an interactive data tool and public-use files,
-on a monthly basis. (Scheduled for release July 11 and August 8.)
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
+
+                                                                                                        Page 3 of 9
+                              Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
+
+with data dissemination, including detailed data tables and public-use files on a monthly basis. (Scheduled for
+release March 21 and April 18.)
+
+***
 
 Economic
 
-2023 Annual Integrated Economic Survey Due
+New Annual Integrated Economic Survey Set to Launch
 
-The due date for the 2023 Annual Integrated Economic Survey (AIES) has officially passed. Businesses can report
-by logging on to the respondent portal and accessing their survey card. For more information or assistance with
-completing this survey, visit www.census.gov/aies/information or call the AIES customer help line at 1-800-681-
-3012, Monday-Friday, 8 a.m.-8 p.m. ET.
+The U.S. Census Bureau will launch its newest survey, the Annual Integrated Economic Survey (AIES), beginning
+in March. This new program replaces seven annual economic surveys and streamlines reporting by consolidating
+all necessary questions into one convenient survey. Companies selected to participate in the AIES will receive a
+survey invitation in March of 2024.
 
-My Community Explorer Update
+The statistics created from collected data will provide key measures of economic activity, including the only
+comprehensive national and subnational data on business revenues, expenses and assets on an annual basis. For
+more information on the AIES, visit census.gov/aies.
 
-                                                                                                       Page 3 of 8
-                              Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
+2021 Nonemployer Statistics
 
-The U.S. Census Bureau will release an update to My Community Explorer (MCE), an interactive map-based data
-tool which allows users to understand the relationship between disasters and the vulnerability of the impacted
-communities. Version 4.2 includes Community Resilience Estimates for Heat; features allowing users to view FEMA
-Emergency Disaster Declarations by County, recent earthquakes by Magnitude and Shake Intensity, and
-expanded Basemaps. Users can view and change layers and maps by using the drop-down menus at the top right
-corner of the map. (Scheduled for release July 16.)
+The U.S. Census Bureau is set to release the 2021 Nonemployer Statistics (NES). This annual series provides
+subnational economic data for businesses that have no paid employees or payroll, are subject to federal income tax
+and have receipts of $1,000 or more ($1 or more for the Construction sector). The data consist of the number of
+businesses and total receipts by industry and are available for approximately 470 industries at detailed geographic
+levels, including national, state, county, metropolitan/micropolitan statistical areas and combined statistical areas.
+(Scheduled for release March 14.)
 
-Exploring Census Data Webinar Series: Services in the United States
+Cannabis Excise Sales Tax Collections: 4th Quarter 2023
 
-Census Bureau subject matter experts will present data related to the services sector. You will learn about current
-data available and the future of services statistics in the Annual Integrated Economic Survey. Discover
-demographic characteristics about the sector from the American Community Survey and learn about data access
-and utilization. Engage directly with our experts through live chat and the Q&A segment. This webinar is part 4 of 6
-in a series to help data users discover Census Bureau data related to people, places, and the economy. (Scheduled
-for July 25.)
+The U.S. Census Bureau will release experimental data and an updated data visualization featuring quarterly tax
+collections at the state level for cannabis sales. Data for cannabis sales taxes were reported in the Quarterly
+Summary of State and Local Government Tax Revenue and were first released for the second quarter of 2023. The
+data visualization will provide cannabis revenue as a percent of the states total tax revenue where available and
+percent change from the prior quarter. More information about this data can be found online
+(https://www.census.gov/data/experimental-data-products/cannabis-excise-sales-tax-collections.html). (Scheduled
+for release March 14.)
 
-New Nonemployer Statistics by Demographics Data
+Quarterly Summary of State and Local Government Tax Revenues: 4th Quarter 2023
 
-The U.S. Census Bureau will release the 2021 Nonemployer Statistics by Demographics (NES-D). New to this data
-series is the inclusion of county-level statistics. Also within this release are demographic data by urban and rural
-classification, receipt size of firm, and legal form of organization plus characteristics of nonemployer business
-owners. The NES-D is an annual statistical series that uses existing administrative records and census data to link
-demographic characteristics to the universe of nonemployer businesses. (Tentatively scheduled for release August
-8.)
+The Census Bureau will release a summary of quarterly estimates of state and local government tax revenue at the
+national level as well as detailed tax revenue data for individual states. This report will produce two income and
+sales data tables and one table for tax collections by state. More information about this release is available in the
+2023 Quarterly Summary of State & Local Tax Revenue Tables at census.gov.(Scheduled for release March 14.)
 
-"The Intergenerational Transmission of Employers and the Earnings of Young Workers"
+2024 Local Employment Dynamics Partnership Virtual Workshop
+
+The U.S. Census Bureau will host the 2024 Local Employment Dynamics Partnership Virtual Workshop May 14-16.
+This year's theme is "Multidimensional Perspectives of the Labor Market" and will feature Julia Pollak, chief
+economist at ZipRecruiter, as the keynote speaker. The workshop will highlight the work of State Labor Market
+Information (LMI) partners, state and local data users, and Census Bureau researchers. Here is more information
+on the workshop and the call for presenters. Proposals to present are due by March 15.
+
+"New Enhancements of the Census Business Builder (CBB)"
 
 The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration with the Council
-for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes
-Matthew Staiger as he presents, "The Intergenerational Transmission of Employers and the Earnings of Young
-Workers." This study shows how the intergenerational persistence in earnings is shaped by jobs obtained at a
-parent's employer. Combining data from the Longitudinal Employer-Household Dynamics (LEHD) program and
-Decennial Census provides information on parent-child and employer-employee linkages. (Scheduled for August
-20.)
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes Nidaal
+
+                                                                                                         Page 4 of 9
+                               Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
+
+Jubran as he presents, "New Enhancements of the Census Business Builder." Recently the U.S. Census Bureau
+released version 5.4 of the Census Business Builder tool. This update will feature a new enhancement that will
+allow users to evaluate declared disaster areas and their impacts. CBB v5.4 will also include enhancements to
+existing functionality and the latest data available including workforce data from the Quarterly Workforce Indicators.
+More information on Census Business Builder is available online (https://www.census.gov/data/data-
+tools/cbb.Help_&_FAQs.html). (Scheduled for release March 20.)
+
+2022 Annual Capital Expenditures for Robotic Equipment
+
+The Census Bureau will release new Annual Capital Expenditures Survey (ACES) estimates. ACES estimates by
+business type add details to national-level estimates of investment in machinery and equipment. The estimates
+reflect data defined by 2017 North American Industry Classification System (NAICS) industries in which robotic
+investment was made. (Tentatively scheduled for release April 10.)
+
+Commodity Flow Survey Expanded Hazardous Materials Supplement
+
+The U.S. Census Bureau will release a new experimental data product, the Commodity Flow Survey Expanded
+Hazardous Materials (EHM) Supplement. The EHM is a supplemental set of questions about the packaging of
+hazardous materials that were added to the first and fourth quarters of the 2022 Commodity Flow Survey (CFS).
+Data were collected for the Pipeline and Hazardous Materials Safety Administration (PHMSA). The EHM will
+include annual data for 2021 and 2022. (Tentatively scheduled for release in March/April.)
+
+Census Business Builder Version 5.5
+
+The U.S. Census Bureau will release version 5.5 of the Census Business Builder (CBB) tool. This update will
+introduce a new Supply Chain view in the CBB dashboard, which will allow users to report on the economic impact
+of FEMA declared disasters areas by NAICS code at Ports of Entry to the U.S. Version 5.5 will also include a
+cartographic representation of Supply Chain data, as well as enhancements to reports and the latest data available.
+More information on Census Business Builder is available online. (Scheduled for release in April.)
 
 Business Trends and Outlook Survey
 
 The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
 experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
-The data allow greater insight into the state of the economy by providing continuous, timely information for key
-economic measures. Data are released biweekly and are available by sector, state, employment size, and the 25
-most populous metropolitan statistical areas. Additional details on artificial intelligence use and types used were
-added for one cycle and released March 28, 2024. Because of the change in sample composition, BTOS data from
-before September 11, 2023, are not directly comparable with data after that date.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+released in March 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
 
 Monthly Business Formation Statistics
 
 Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
 business formations monthly. The data are available at the state, regional and national levels and by industry sector
-at the national level. The next monthly BFS will be released July 11 and will include June 2024 data. Business
-Formation Statistics - Release Schedule (census.gov).
+at the national level. The next monthly BFS will be released March 12 and will include February 2024 data.
+Business Formation Statistics - Release Schedule (census.gov).
+
+***
+
+Stats for Stories
+
+Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to current
+events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story mining
+and producing content for their respective audiences.
+
+                                                                                                      Page 5 of 9
+                              Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
+
+* Certified Nurses Day: March 19, 2024
+
+* National Poultry Day: March 19, 2024
+
+* National Single Parent Day: March 21, 2024
+
+* World Water Day: March 22, 2024
+
+* MLB Opening Day: March 28, 2024
+
+* National Mom and Pop Business Owners Day: March 29, 2024
+
+* National Vietnam War Veterans Day: March 29, 2024
+
+* National Doctors Day: March 30, 2024
 
 ***
 
 Recently Released
 
-                                                                                                      Page 4 of 8
-                              Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
-
-(Released since June 28, 2024)
-
-Community Resilience Estimates: Summer Rankings
-
-July 9 -- The U.S. Census Bureau released new tables for its Community Resilience Estimates (CRE) Summer
-Rankings data product. These tables will highlight the nation's counties and neighborhoods most socially vulnerable
-to hurricanes, wildfires and strong winds.
-
-***
+(Released since February 23, 2024)
 
 2020 Census
 
-2023 Planning Database and New 2020 Census Operational Data
+Census Bureau Releases Final 2020 Census CQR Errata Tables
 
-July 10 -- The U.S. Census Bureau released the 2023 Planning Database (PDB), which includes new 2020 Census
-operational data on response rates, return rates and in-processing counts. The 2023 PDB contains a selection of
-housing, demographic, socioeconomic and operational data for block groups and census tracts from the 2020
-Census Redistricting Data (Public Law 94-171) Summary File, 2020 Census Demographic and Housing
-Characteristics File and the 2017-2021 American Community Survey, 5-year estimates.
-
-Census Bureau to Hold Webinar on Release of 2020 Census Detailed Demographic and Housing Characteristics
-File B
-
-July 9 -- The U.S. Census Bureau will hold a prerelease webinar July 23 to discuss information about the 2020
-Census Detailed Demographic and Housing Characteristics File B (Detailed DHC-B) scheduled for public release
-Aug. 1. This data product provides household type and tenure (whether the household is owner or renter-occupied)
-information, including total household counts, for approximately 1,500 detailed race and ethnicity groups and
-detailed American Indian and Alaska Native (AIAN) tribes and villages.
-
-Census Bureau Provides Update on Remaining 2020 Census Data Products
-
-July 8 -- The U.S. Census Bureau today provided an update on the final three data products from the 2020 Census:
-
-* Detailed Demographic and Housing Characteristics File B (Detailed DHC-B) -- Aug. 1.
-
-* Privacy-Protected Microdata Files (PPMF) -- Aug. 5. (tentative)
-
-* Supplemental Demographic and Housing Characteristics File (S-DHC) -- Sept. 19.
-
-The Detailed DHC-B, PPMF and S-DHC may also be accompanied by reports and results in other forms. The
-Census Bureau has moved deliberately to ensure that it produces the high-quality statistics that the public expects.
-The COVID-19 pandemic delayed 2020 Census operations, and the Census Bureau worked diligently to implement
-new confidentiality protections. For more information on 2020 Census data products, visit the About 2020 Census
-Data Products webpage.
+February 28 -- The U.S. Census Bureau released the final, full set of errata tables for the 2020 Census Count
+Question Resolution (CQR) program. The CQR operation gave tribal, state and local governments the opportunity
+to ask the Census Bureau to review their boundaries or housing counts to identify errors that may have occurred
+while processing their 2020 Census counts. The Census Bureau accepted 104 of the 123 cases received for
+research. After reviewing the cases, there were two states with a change at the state level; 21 states with a change
+at the governmental unit level; and 30 states with a change at the tract and block levels. Overall, a total of 148
+governmental units in the United States were affected by CQR.
 
 ***
 
 Demographic
 
-Survey of Income and Program Participation 2023 Data Available
+Making Everyone Count: A Fireside Chat With the U.S. Agency for International Development (USAID) and the U.S.
+Census Bureau
 
-July 11 -- The U.S. Census Bureau released data from the 2023 Survey of Income and Program Participation
-(SIPP). The SIPP is a longitudinal survey that provides comprehensive information about income and assistance
-program participation of individuals and households in the United States. The survey collects data and measures
-change in characteristics like economic well-being, family dynamics, education, assets, health insurance, child care
-and food security.
+February 29 -- USAID Assistant Administrator for Global Health Atul Gawande hosted Director of the U.S. Census
+Bureau, Robert Santos in a fireside chat about the enduring and successful partnership between the two agencies
+of close to 70 years, aimed at fostering collaboration and evidence-based policymaking worldwide. They shared
+perspectives from their agencies on the vital role of population data and data equity in advancing development
+objectives and explore ways to expand and continue to work together. The event has been archived and can be
+viewed on the Census Bureau's YouTube page (https://youtube.com/live/o9Pv9jcfJ-s). More information is available
+at the Census Bureau's International Programs Center.
 
-                                                                                                      Page 5 of 8
-                              Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
+Grandparents and Coresident Grandchildren Report
+
+February 26 -- The U.S. Census Bureau released a report, Grandparents and Their Coresident Grandchildren:
+2021, which provides characteristics of grandparents living with grandchildren under age 18. The report also
+compares the characteristics of grandchildren by whether their parent or grandparent is the householder, and the
+age of the grandparent. Data in the report come from the American Community Survey, Current Population Survey,
+Survey of Income and Program Participation and 1970-2000 Censuses.
+
+                                                                                                         Page 6 of 9
+                               Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
 
 ***
 
 Economic
 
-"Win Grants with LODES Data: Success Stories and Shortcuts from Texas' Largest Community College System?"
+2022 Annual Capital Expenditures Survey
 
-July 10 -- The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership, Council for
-Community and Economic Research (C2ER) and Labor Market Information (LMI) Institute welcomes Camille
-Gilchriest as she presents, "Win Grants with LODES Data: Success Stories and Shortcuts from Texas' Largest
-Community College System." In this presentation, the Dallas College Labor Market Intelligence Center (LMIC)
-highlights case studies that showcase how to utilize the Longitudinal Employer-Household Dynamics Origin-
-Destination Employment Statistics (LODES) data to support a variety of economic development activities, such as
-campus planning, relationship building with external partners and grant development from project design to post-
-award implementation.
-
-2022 Economic Census for the U.S. Virgin Islands
-
-July 9 -- The U.S. Census Bureau released data for the U.S. Virgin Islands from the 2022 Economic Census in July.
-The economic census is the U.S. government's official 5-year measure of businesses in the United States and
-Island Areas. It is the only source of comprehensive, comparable data for the Island Areas at a similar geographic
-level to U.S. counties. The economic census is the major source of statistics about the structure and functioning of
-the economies of each Island Area, serving as part of the framework for the national accounts of the Island Areas.
-
-Using Public Data to Make Decisions Webinar
-
-June 20 -- U.S. Census Bureau subject matter experts presented data available from public sector programs and
-the American Community Survey. This webinar covered different types of business and demographic data including
-statistics available on public employment, payroll, state and local government finances, demographic and other
-characteristics. This webinar is part 3 of 6 in the Exploring Census Data webinar series designed to help data users
-explore and use Census Bureau data related to the nation's people, places and the economy.
+February 28 -- The U.S. Census Bureau released data from the 2022 Annual Capital Expenditures Survey (ACES)
+highlighting the industries with the largest total capital expenditures for structures and equipment for companies
+with employees in 2022. Data are based on the 2017 North American Industry Classification System (NAICS). The
+ACES provides the only comprehensive estimates of annual U.S. capital expenditures data covering all domestic
+nonfarm businesses and detailing investments by type and industry.
 
 ***
 
 Facts for Features
 
-The Fourth of July
+Women's History Month: March 2024
 
-June 24 -- On this day in 1776, the Continental Congress approved the Declaration of Independence setting the 13
-colonies on the road to freedom as a sovereign nation. As always, this most American of holidays will be marked
-with fireworks, parades, red, white and blue flags, and backyard barbecues across the country.
+March 6 -- The roots of National Women's History Month go back to March 8, 1857, when women from various New
+York City factories staged a protest over poor working conditions. The first Women's Day celebration in the United
+States was in 1909, also in New York City, but Congress did not establish National Women's History Week until
+1981 to be commemorated annually the second week of March. In 1987, Congress expanded the week to a month.
 
-Anniversary of Americans With Disabilities Act: July 26, 2024
+National Black (or African American) History Month: February 2024
 
-June 12 -- To commemorate the July 26, 1990, signing of the Americans With Disabilities Act, the U.S. Census
-Bureau presents a wide array of statistical information about people with disabilities.
+December 14 -- To commemorate and celebrate the contributions to our nation made by people of African descent,
+the U.S. Census Bureau presents a collection of demographic and economic statistics about the Black community.
+
+***
 
 America Counts: Stories Behind the Numbers
 
@@ -286,57 +331,93 @@ America Counts tells the stories behind the numbers in a new and inviting way. W
 such as families, housing, employment, business, education, the economy, emergency preparedness and the
 population. New stories include:
 
-* Helping El Salvador Conduct Its First Census in 17 Years (July 11)
+* Seven Annual Economic Surveys Combined into One (March 7)
 
-* Where You Can Get More House for the Money (June 28)
+* How Does Diversity in Social Networks Impact Survey Response? (March 5)
+
+* How Many U.S. Businesses Offer Health Insurance to Employees? (February 29)
+
+* Nearly 327,000 in U.S. Lived in Emergency and Transitional Shelters (February 27)
+
+Is the Gender Wage Gap the Same at Different Education Levels? (February 22)
 
 ***
 
-                                                                                                     Page 6 of 8
-                             Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
-
 Stats for Stories
 
-Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
-relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
-in story mining and producing content for their respective audiences.
+Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to current
+events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story mining
+and producing content for their respective audiences.
 
-* World Population Day: July 11, 2024
+* National Agriculture Week & Day: March 17-23 & 19, 2024
 
-* 2024 Atlantic Hurricane Season: June 1-November 30
+* Potato Chip Day: March 14, 2024
+
+                                                                                                         Page 7 of 9
+                               Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
+
+* Pi Day: March 14, 2024
+
+* Equal Pay Day: March 12, 2024
+
+* 95th Oscars(R)/Academy Awards: March 10, 2024
+
+* Sunshine Week & FOI Day: March 10-16 & 16, 2024
+
+* International Women's Day: March 8, 2024
+
+* Employee Appreciation Day: March 1, 2024
+
+* Frozen Food Month & Day: March & 6, 2024
+
+* Red Cross Month: March 2024
 
 ***
 
 Blogs
 
-2020 Census Operational Statistics on the Planning Database
+Reflecting on Years Past and Looking Forward to 2024 -- Written by: Dr. Ron Jarmin, Deputy Director -- February
+29
 
-Written by: Eric Jensen, Senior Research Scientist for Population Estimates and Coverage Measurement; Fane
-Lineback, Chief, Business Analytics Branch; Luke Larsen, Group Leader, Data Analytics and Research; Earl
-Letourneau, Mathematical Statistician; Yazmin Garcia-Trejo, Chief, Response and Measurement Branch; and
-Chase Sawyer, Technical Lead for Modeled Data Product Development -- July 10 -- The U.S. Census Bureau
-recently released the 2023 Planning Database (PDB), the first PDB to include operational statistics from the 2020
-Census, including metrics on online self-response. The PDB was originally developed in the 1990s as an aid for
-survey and census planning. It includes housing, demographic and socioeconomic statistics from the decennial
-census and the American Community Survey (ACS) at the census tract and block group levels.
+As we welcome 2024, I would like to take some time to reflect on the last year, on our staff and, of course, on our
+agency. I want to thank each member of the U.S. Census Bureau community for the work done to help support our
+mission - it's an honor to work with you all. The Census Bureau is an agency of innovation, continuously
+transforming and advancing to keep up with technology and emerging socioeconomic trends. While the Census
+Bureau faces significant challenges, I know we have the talent, tenacity and teamwork to overcome them and
+deliver the high-quality, trusted data our nation and economy needs.
+
+Looking Ahead to 2024 on Our Collective Journey to Excellence -- Written by: Robert L. Santos, Director, U.S.
+Census Bureau -- February 26
+
+As we navigate the first quarter of the new year, I have been reflecting upon our collective journey to excellence. It's
+a journey that features effective partnerships, continuous communication and working together to understand
+needs, leverage our strength and maximize productivity within recognized constraints. Like federal statistical
+agencies across the nation (and the world!), the U.S. Census Bureau is charged with producing quality statistics in
+the face of declining survey response rates, rising costs and increasing complexities of data collection. Once data
+are collected, we then must address the intricacies of disclosure risks while preserving data utility/granularity. Plus,
+there's the challenge of providing statistical data that meets the myriad needs of increasingly diverse communities
+of users. Statistical data are only as good as their ability to provide the insight sought by federal agencies, tribal
+nations, policymakers, state and local governments, community organizations, businesses, scholars and other
+members of the public.
 
 ***
 
 Resources
 
-Emergency Management/Disaster Resources
+Emergency Management/Disaster Resources -- When major disasters strike, visit our Emergency Management
+webpage (https://www.census.gov/topics/preparedness.html) for demographic and economic data on impacted
+areas. Each disaster will include data from our key emergency management tools: OnTheMap for Emergency
+Management, Community Resilience Estimates, Census Business Builder: Regional Analyst Edition, and other
+useful resources.
 
-When major disasters strike, visit our Emergency Management webpage for demographic and economic data on
-impacted areas. Each disaster will include data from our key emergency management tools: OnTheMap for
-Emergency Management; Community Resilience Estimates; Census Business Builder: Regional Analyst Edition;
-and other useful resources.
+Learn What Surveys Are Being Conducted in Your Community -- Discover which of the U.S. Census Bureau's 130-
+plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving from
 
-Learn What Surveys Are Being Conducted in Your Community
+                                                                                                  Page 8 of 9
+                             Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
 
-Discover which of the U.S. Census Bureau's 130-plus annual surveys are being conducted in your community. In a
-variety of surveys and censuses, evolving from the first census in 1790, the Census Bureau provides official
-information about America's people, businesses, industries and institutions. Learn more about surveys currently
-being conducted in each Census Bureau region:
+the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
 
 * Atlanta
 
@@ -354,52 +435,46 @@ being conducted in each Census Bureau region:
 
 ***
 
-                                                                                                      Page 7 of 8
-                              Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
-
 Data Tools
 
 Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
-annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage
+(https://www.census.gov/data/data-tools.html).
 
-Household Pulse Data Tool
+Census Geocoder -- Provides interactive & programmatic (REST) access to users interested in matching addresses
+to geographic locations and entities containing those addresses.
 
-An interactive application for exploring data from the Household Pulse Survey.
+Data Equity Tools -- The U.S Census Bureau's publicly available data sets and tools to assist in the equitable
+distribution of resources, and identifying underserved communities.
 
-LED Extraction Tool
-
-Provides easy access to the raw data products produced by the Longitudinal Employer-Household Dynamics
-(LEHD) program.
-
-QWI Explorer
-
-Compare, rank and aggregate Quarterly Workforce Indicators (QWI) through interactive charts, maps and tables.
+Small Business Pulse Survey Data -- The Small Business Pulse Survey (SBPS) measures the effect of changing
+business conditions during the Coronavirus pandemic on our nation's small businesses.
 
 ***
 
 Training Opportunities
 
-Census Bureau Training Opportunities
+Census Bureau Training Opportunities -- Webinars are available on a regular basis to help the public access and
+use Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level.    Descriptions   of    upcoming     sessions     are     available   on    our     Census      Academy
+(https://www.census.gov/data/academy/webinars/upcoming.html) webpage. Login details are provided at least one
+week before a webinar.
 
-Webinars are available on a regular basis to help the public access and use Census Bureau statistics. These free
-sessions, which are 60 to 90 minutes each, show users how to navigate Census Bureau databases and mapping
-tools and find demographic and economic statistics at the local or national level. Descriptions of upcoming sessions
-are available on our Census Academy webpage. Login details are provided at least one week before a webinar.
+* Comparing Health Insurance Data from the ACS and the SAHIE Program (Wednesday, March 13, 2-3 p.m. EDT)
 
-* Exploring Census Data Webinar Series: Services in the U.S. (Thursday, July 25, 2-3 p.m. ET)
+* FULL: Navigating the Annual Integrated Economic Survey (AIES) (Wednesday, March 13, 11-12 p.m. EDT)
 
-* Understanding the Differences Between Statistics (Thursday, July 25, 2-3 p.m. ET)
+* Introduction to Geographic Areas (Thursday, March 14, 2-3 p.m. EDT)
 
-* Measuring Housing Affordability: Housing Cost Ratios and Burden (Thursday, August 8, 2-3 p.m. ET)
+* Navigating the Annual Integrated Economic Survey (AIES) (Wednesday, March 20, 11-12 p.m. EDT)
 
-* Que debo incluir en mi propuesta de investigacion? (Wednesday, August 21, 1:30-3:00 p.m. ET)
+* New Enhancements of the Census Business Builder (CBB) (Wednesday, March 20, 1:30-3:00 p.m. EDT)
 
-* Understanding the Differences in Population Estimates and Projections (Thursday, August 22,
+* TIGERweb - Prowling Through Geographic Attributes (Thursday, March 28, 2-3 p.m. EDT)
 
-* 2-3 p.m. ET)
-
-* Exploring Census Data Webinar Series: Gems of Census Data - Highlights of Key Programs & Data (Thursday,
-August 22, 2-3 p.m. ET)
+                                                                                                   Page 9 of 9
+                             Census Bureau Issues Tip Sheet No. 5 - March 8, 2024
 
 Archived Training Resources -- Visit the Census Bureau's Educational Resource Library for previously recorded,
 free training available at your convenience. The library includes presentations, recorded webinars, tutorials and
@@ -407,18 +482,14 @@ other helpful materials.
 
 ***
 
-Original text and links presented by source here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-14.html
+Original text here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-05.html
 
 Copyright Targeted News Services
 
-T40-MgEditor-8722243 T40-MgEditor
+MSTRUCK-8522722 MSTRUCK
 
 
-Load-Date: July 13, 2024
-
-                                                                          Page 8 of 8
-                  Census Bureau Issues Tip Sheet No. 14 - July 12, 2024
+Load-Date: March 9, 2024
 
 
-
-
+  

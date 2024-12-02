@@ -1,103 +1,69 @@
 
 
-                                                                                                        Page 1 of 2
-                     Intermap Announces Subscription Renewal with Leading U.S. Telecom Provider
+                                                                                     Page 1 of 2
+           INTERNATIONAL PATENT: WAVE. AI CO., LTD. , &#51452;&#49885;&#54924;&#49324;
+     &#50920;&#51060;&#48652;&#50640;&#51060;&#50500;&#51060; FILES APPLICATION FOR "AUTO....
 
 
 
 
-     Intermap Announces Subscription Renewal with Leading U.S. Telecom
-                                 Provider
-                                                         GlobeNewswire
-                                               June 4, 2024 Tuesday 2:00 PM PT
+               INTERNATIONAL PATENT: WAVE.AI CO., LTD.,
+                   &#51452;&#49885;&#54924;&#49324;
+     &#50920;&#51060;&#48652;&#50640;&#51060;&#50500;&#51060; FILES
+        APPLICATION FOR "AUTONOMOUSLY TRAVELING DISASTER
+         PREVENTION DEVICE AND CONTROL METHOD THEREFOR"
+                                                        US Fed News
+                                              April 22, 2024 Monday 4:44 AM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
 
 
 
-Section: PRODUCT / SERVICES ANNOUNCEMENT
-Length: 1018 words
+Length: 441 words
+Dateline: GENEVA
 
 Body
 
 
-Real-world elevation data enables efficient network deployment
+GENEVA, April 22 -- WAVE.AI CO., LTD. (1129ho, 1st floor, 6, Cheomdangwagi-ro 208beon-gil,Buk-gu,Gwangju
+61012), &#51452;&#49885;&#54924;&#49324; &#50920;&#51060;&#48652;&#50640;&#51060;&#50500;&#51060;
+(&#44305;&#51452;&#44305;&#50669;&#49884;&#48513;&#44396;&#52392;&#45800;&#44284;&#44592;&#4719
+6;208&#48264;&#44600; 6, 1&#52789; 1129&#54840;) filed a patent application (PCT/KR2023/003823) for
+"AUTONOMOUSLY TRAVELING DISASTER PREVENTION DEVICE, AND CONTROL METHOD THEREFOR" on
+Mar 22, 2023. With publication no. WO/2024/080461, the details related to the patent application was published on
+Apr 18, 2024.
 
-Supporting low latency networks with comprehensive line-of-sight analytics
+Notably, the patent application was submitted under the International Patent Classification (IPC) system, which is
+managed by the World Intellectual Property Organization (WIPO). Inventor(s): LEE, Jun Su (1130ho, 1st floor, 6,
+Cheomdangwagi-ro              208beon-gil,Buk-gu,Gwangju           61011),            &#51060;&#51456;&#49688;
+(&#44305;&#51452;&#44305;&#50669;&#49884;&#48513;&#44396;&#52392;&#45800;&#44284;&#44592;&#4719
+6;208&#48264;&#44600; 6, 1&#52789; 1130&#54840;), YUN, Sam Jeen (1130ho, 1st floor, 6, Cheomdangwagi-ro
+208beon-gil,Buk-gu,Gwangju                           61011),                          &#50980;&#49340;&#51652;
+(&#44305;&#51452;&#44305;&#50669;&#49884;&#48513;&#44396;&#52392;&#45800;&#44284;&#44592;&#4719
+6;208&#48264;&#44600; 6, 1&#52789; 1130&#54840;) Abstract: Disclosed are an autonomously traveling disaster
+prevention device and a control method therefor. The autonomously traveling disaster prevention device of the
+present invention is characterized by comprising: a stereo camera which captures an image of an area in front of
+the disaster prevention device; a sensor module which detects the bearing of the disaster prevention device; a
+travel module which moves the disaster prevention device; a disaster prevention module which drives the
+disaster prevention device; memory; and a processor operatively coupled to the stereo camera, sensor module,
+travel module, disaster prevention module, and memory, wherein the processor drives the travel module by
 
-DENVER, June 04, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
-(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today
-announced a leading provider of fixed wireless broadband services in the United States has renewed its
-subscription to Intermap’s NEXTWave™ telecommunications analytics. This renewal highlights the ongoing value of
-NEXTWave as a cost-effective tool for network planning and optimization.
+                                                                                    Page 2 of 2
+          INTERNATIONAL PATENT: WAVE. AI CO., LTD. , &#51452;&#49885;&#54924;&#49324;
+    &#50920;&#51060;&#48652;&#50640;&#51060;&#50500;&#51060; FILES APPLICATION FOR "AUTO....
 
-Powered by Intermap’s 3D digital surface and terrain models, NEXTWave provides fast and reliable line-of-sight
-and radio frequency signal propagation analysis between radio transmitters and antennas over short and long
-distances. Intermap’s analytics enable network planners to explore the feasibility of new geographic markets, plan
-infrastructure placement, compare antenna frequencies between different hardware and eliminate the need and
-cost of purchasing elevation data to run analyses. Network planners can specify tower location, transmitter and
-receiver heights, radio power, frequencies and other factors, such as rain rate, which can impact signal strength.
-NEXTWave enables users to save time and money by conducting radio connectivity analyses from their desktop,
-reducing the number of false positives and field surveys.
-
-“Intermap’s telecom analytics enable operators to be more efficient and competitive by utilizing high-resolution, real-
-world elevation data to accurately model signal propagation,” said Patrick A. Blott, Intermap Chairman and CEO.
-“Powered by our globally available NEXTMap® elevation data, our telecom analytics are unique in offering high-
-accuracy, web-based or API analytics combined with proprietary, high-acuity terrain information. Operators use
-
-                                                                                                        Page 2 of 2
-                    Intermap Announces Subscription Renewal with Leading U.S. Telecom Provider
-
-Intermap’s proprietary tools to plan their network deployments more efficiently, with greater accuracy and cost-
-effectiveness, enabling clients to select the best location for infrastructure to support low latency networks.”
-
-Learn more about Intermap’s telecom solutions at intermap.com/telecom.
-
-Intermap Reader AdvisoryCertain information provided in this news release, including reference to revenue growth,
-constitutes forward-looking statements. The words "anticipate", "expect", "project", "estimate", "forecast", “will be”,
-“will consider”, “intends” and similar expressions are intended to identify such forward-looking statements. Although
-Intermap believes that these statements are based on information and assumptions which are current, reasonable
-and complete, these statements are necessarily subject to a variety of known and unknown risks and uncertainties.
-Intermap’s forward-looking statements are subject to risks and uncertainties pertaining to, among other things, cash
-available to fund operations, availability of capital, revenue fluctuations, nature of government contracts, economic
-conditions, loss of key customers, retention and availability of executive talent, competing technologies, common
-share price volatility, loss of proprietary information, software functionality, internet and system infrastructure
-functionality, information technology security, breakdown of strategic alliances, and international and political
-considerations, as well as those risks and uncertainties discussed Intermap’s Annual Information Form and other
-securities filings. While the Company makes these forward-looking statements in good faith, should one or more of
-these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary
-significantly from those expected. Accordingly, no assurances can be given that any of the events anticipated by the
-forward-looking statements will transpire or occur, or if any of them do so, what benefits that the Company will
-derive therefrom. All subsequent forward-looking statements, whether written or oral, attributable to Intermap or
-persons acting on its behalf are expressly qualified in their entirety by these cautionary statements. The forward-
-looking statements contained in this news release are made as at the date of this news release and the Company
-does not undertake any obligation to update publicly or to revise any of the forward-looking statements made
-herein, whether as a result of new information, future events or otherwise, except as may be required by applicable
-securities law.
-
-About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
-OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
-terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
-patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
-datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
-elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
-and machine learning, providing customers with critical information to understand their terrain environment. By
-leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
-Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
-enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
-Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
-wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
-telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
-transportation.
-For more information, please visit www.intermap.com or contact: Jennifer Bakken Executive Vice President
-and CFO CEO@intermap.com +1 (303) 708-0955
+running an executable program stored in the memory, setting a destination in the image captured by the stereo
+camera, and then setting a travel direction, corrects the travel direction in response to bearing changes input from
+the sensor module while performing avoidance travel when obstacles are detected, and activates the disaster
+prevention       module     when     crops     are    recognized     in    the    captured    image.    For    more
+information:https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024080461 For any query with respect to
+this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
 
-
-Load-Date: June 4, 2024
+Load-Date: April 21, 2024
 
 
   

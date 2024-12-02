@@ -1,180 +1,119 @@
 
 
-                                                                                                  Page 1 of 4
-     ISG to Assess Providers of Public Cloud Services, Solutions Upcoming ISG Provider Lens(TM) reports will
-                           evaluate providers helping enterprises and public sector....
+                                                                                                      Page 1 of 3
+      University of Washington School of Medicine: Sky-is-Falling Scenarios Distract From Risks AI Poses Today
 
 
 
 
-ISG to Assess Providers of Public Cloud Services, Solutions; Upcoming ISG
- Provider Lens(TM) reports will evaluate providers helping enterprises and
-      public sector organizations get the most of out their public cloud
-                                investments
-                                                   Business Wire
-                                       June 6, 2024 Thursday 1:00 PM GMT
+      University of Washington School of Medicine: Sky-is-Falling Scenarios
+                       Distract From Risks AI Poses Today
+                                                     Targeted News Service
+                                          April 17, 2024 Wednesday 10:15 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1551 words
-Dateline: STAMFORD, Conn.
+
+
+
+Length: 776 words
+Byline: Targeted News Service
+Dateline: SEATTLE, Washington
 
 Body
 
 
-Information Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm, has
-launched a research study examining providers helping organizations adopt, manage and maximize value from
-their multi public cloud environments.
+(TNSres) -- The University of Washington's School of Medicine issued the following news release:
 
-The study results will be published in two comprehensive ISG Provider Lens(TM) reports: Multi Public Cloud
-Services and Multi Public Cloud Solutions, both scheduled to be released in December 2024.
+***
 
-The Services report, covering multiple geographic markets, will examine providers offering public cloud consulting
-and transformation services, managed services, public cloud infrastructure and platform services, FinOps and
-related AI services. The Solutions report, meanwhile, will assess global providers of multicloud FinOps platforms,
-cloud-native observability solutions and cloud-native security platforms.
+In a paper, academic ethicists criticize tech leaders and others who emphasize calamity thinking with artificial
+intelligence.
 
-Buyers will be able to use information from the reports to evaluate their current vendor relationships, potential new
-engagements and available offerings, while ISG advisors use the information to recommend providers to the firm's
-buy-side clients.
+***
 
-Enterprises and public sector entities are seeking to partner with strategic service providers to support their cloud
-transformations leveraging such major hyperscalers as Amazon Web Services (AWS), Microsoft Azure, and Google
-Cloud. They are looking to providers to help them manage and secure workloads, enable observability, and
-optimize costs through FinOps strategies.
+Tech-industry leaders and spotlight-seeking luminaries are monopolizing global discourse about artificial
+intelligence (AI), and often conveying that its adoption carries catastrophic risks beyond humans' comprehension.
+Doomsayers claim that AI carries "an adverse outcome so bad (that) it would either annihilate Earth-originating
+intelligent life or permanently or drastically curtail its potential."
 
-"Organizations are looking for partners and solutions that use intelligent automation and AI-powered tools to
-effectively manage, secure and optimize their public cloud infrastructure," said Heiko Henkes, managing director,
-ISG Provider Lens Research. "The public cloud offers a number of benefits over on-premises data centers,
-including improved performance and scalability and better alignment with sustainability goals."
+These projections of distant-future disasters -- and the media reporters who invite them -- do a disservice to the
+public by taking the focus away from societal problems that AI is causing today, and from consideration of AI's
+benefits.
 
-For the Multi Public Cloud Services study, ISG has distributed surveys to nearly 240 providers. Working in
-collaboration with ISG's global advisors, the research team will produce seven quadrants representing the typical
+A group of ethicists argue these points in an open-access article published this month in the Journal of Medical
+Ethics. Lead author Nancy Jecker is a professor of bioethics at the University of Washington School of Medicine.
 
-                                                                                                 Page 2 of 4
-    ISG to Assess Providers of Public Cloud Services, Solutions Upcoming ISG Provider Lens(TM) reports will
-                          evaluate providers helping enterprises and public sector....
+"Existential risk, which we call 'X-Risk,' refers to activities that threaten grave dangers to humanity, like nuclear
+weapons, climate change and emerging infectious diseases," she said. "These have tremendous capacity to wipe
+out large numbers of people and undermine human well-being. We approach them with a balanced risk assessment
+that includes risks occurring today."
 
-multi public cloud services enterprises are buying based on ISG's experience working with its clients. The seven
-quadrants are:
-    •   Consulting and Transformation Services, assessing providers partnering with multiple public cloud
-        infrastructure providers to help enterprises optimize and transform their IT operations to enhance
-        efficiency, agility and security.
-    •   Managed services, covering managed service providers specializing in multicloud environments,
-        comprising AWS, Azure, Google Cloud and other hyperscalers. These providers adopt a DevOps-centric
-        approach to support continuous integration/continuous delivery (CI/CD) pipelines and provide expertise in
-        site reliability engineering (SRE) and business resiliency.
-    •   FinOps Services and Cloud Optimization, evaluating providers offering consulting and managed services
-        for multicloud infrastructure cost optimization. Leaders demonstrate an ability to predict clients'
-        consumption patterns using AI- and ML-based analytics, as well as using FinOps frameworks to analyze
-        and forecast usage, pricing and financial impact.
-    •   Hyperscale Infrastructure and Platform Services, assessing suppliers providing virtual compute resources,
-        middleware and software in scalable public cloud environments. IaaS providers offer compute services,
-        storage and network resources, as virtual or containerized software-defined offerings, complemented by
-        serverless architectures, while PaaS providers offer multiple microservices and runtime engines for cloud-
-        based application development.
-    •   SAP HANA Infrastructure Services, covering providers offering cloud infrastructures best suited to host
-        SAP's software portfolio, emphasizing SAP S/4HANA workloads and large-scale HANA databases,
-        including operations, facilities, provisioning and scalability. Key criteria include data migration tools,
-        technical support, system imaging, backup and restore capabilities, disaster recovery, resource usage
-        monitoring and more.
-    •   Secure Enterprise Filesharing Services, analyzing vendors offering enterprise-grade cloud filesharing
-        platforms to make business documents accessible via browser, desktop or mobile applications. These
-        services provide strong administrative controls, access management, embedded security, compliance and
-        data protection and recovery.
-    •   Sovereign Cloud Infrastructure Services, evaluating providers offering secure cloud infrastructure for
-        hosting enterprise and public sector workloads and data in data centers located in specific geographies
-        and subject to local jurisdiction, adhering to requirements described in projects including Gaia-X, GDPR
-        and electronic data interchange (EDI).
+                                                                                                      Page 2 of 3
+      University of Washington School of Medicine: Sky-is-Falling Scenarios Distract From Risks AI Poses Today
 
-Geographically focused reports from the study will cover the global multi public cloud services market and examine
-services available in Asia Pacific (excluding China, Hong Kong, Japan, Korea and Taiwan), Brazil, France,
-Germany, the Nordics, Switzerland, the U.K., and the U.S., with a separate focus on filesharing services for
-Germany and sovereign cloud infrastructure services for Europe. ISG analysts Phil Hassey (Asia Pacific), Pedro L.
-Bicudo Maschio (Brazil and France), Meenakshi Srivastava (Nordics and U.K.), Ulrich Meister and Wolfgang
-Heinhaus (Germany and Switzerland), Shashank Rajmane (U.S.) and Bruce Guptill (U.S. Public Sector) will serve
-as authors of the reports.
+With AI, here-and-now concerns involve algorithmic bias leading to gender and racial discrimination, AI-generated
+child sexual abuse, labor exploitation, especially in poorer countries, and displacement of human creative work.
+Misinformation during this election year is another major concern, Jecker said.
 
-For the Multi Public Cloud Solutions study, ISG has distributed surveys to more than 100 solutions providers and
-will evaluate provider capabilities in three quadrants:
-    •   Multicloud FinOps Platforms, covering independent software vendors (ISVs) offering standalone,
-        dedicated/proprietary platforms and solutions for cloud financial management across multiple public clouds
-        to help clients maintain financial accountability for their cloud services.
-    •   Cloud-native Observability Solutions, assessing software vendors that provide dedicated/proprietary
-        platforms and solutions for cloud-native logging, tracing and measuring of containerized applications and
-        infrastructure.
+Media outlets looking for headline clicks are tempted to instead emphasize AI debates that raise the specter of
+distant disaster, she suggested. Likewise, technology leaders who have financial stakes in AI's development know
+that ratcheting up public fears about far-off calamities can eclipse consideration of AI's present harms.
 
-                                                                                                 Page 3 of 4
-    ISG to Assess Providers of Public Cloud Services, Solutions Upcoming ISG Provider Lens(TM) reports will
-                          evaluate providers helping enterprises and public sector....
+"What I'm most concerned about is what's not being said and where the spotlight isn't," Jecker offered. "Most
+people in the tech industry don't need to personally worry about being declined for a job or a bank loan because of
+a sexist or ableist algorithm, or not being considered for parole because of a racist algorithm."
 
-    •   Cloud-native Security Platforms, evaluating ISVs offering dedicated/proprietary platforms and solutions for
-        securing infrastructure and applications in a cloud-native environment, ranging from application
-        development to production and runtime.
+Technology workers, especially leaders, are overwhelmingly white men without disabilities, and this standpoint
+informs their ethics assessments, she suggested.
 
-ISG analysts Shashank Rajmane and Partha Sarathi Chakraborty will serve as co-authors of the Multi Public Cloud
-Solutions report.
+The authors wrote the paper with the hope of broadening AI ethics conversation to include not only technologically
+aware voices but also those who are historically marginalized and whose opportunities are at risk.
 
-A list of identified providers and vendors and further details on the studies are available in these digital brochures:
-Multi Cloud Public Services and Multi Public Cloud Solutions . Companies not listed in either brochure can contact
-ISG and ask to be included in the studies.
+The paper cited a Stanford University 2023 analysis of scholarly AI ethics literature that saw a shift away from
+academic authors and toward authors with tech-industry affiliations; tech authors produced 71% more publications
+than academics between 2014 and 2022.
 
-All 2024 ISG Provider Lens(TM) evaluations feature expanded customer experience (CX) data that measures
-actual enterprise experience with specific provider services and solutions, based on ISG's continuous CX research.
-Enterprise customers wishing to share their experience about a specific provider or vendor are encouraged to
-register here to receive a personalized survey URL. Participants will receive a copy of this report in return for their
-feedback.
+"Tech workers lack formal training in ethics," Jecker said. "They can tell us about choices to be made within AI, but
+they shouldn't lead ethics debates in the public square. Not only are tech leaders not trained to do so, but they also
+have a conflict of interest, given their work in that industry."
 
-About ISG Provider Lens(TM) Research
+One example of positive direction for AI discourse, Jecker said, is the public-private partnership just announced by
+the University of Washington and the University of Tsukuba in Japan, with private sector investment by Amazon,
+Nvidia and other companies. The project aims to further research, entrepreneurship, workforce development and
+social implementation of artificial intelligence
 
-The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
-empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
-advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
-appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
-recommendations to ISG's enterprise clients. The research currently covers providers offering their services
-globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
-Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
-more information about ISG Provider Lens research, please visit this webpage .
+"We need to engage in cross-border efforts that involve diverse groups from different sectors of society to come
+together to work through complex issues," Jecker said.
 
-About ISG
+Catastrophe-fixated comments can also divert attention from AI benefits in areas like medicine, the authors wrote.
+They referenced AI's ability to help radiologists identify high-risk patient cases, to advance precision medicine
+based on genomic analysis, and to scour large datasets to better predict patient outcomes.
 
-ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
-business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
-committed to helping corporations, public sector organizations, and service and technology providers achieve
-operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
-automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
-services; strategy and operations design; change management; market intelligence and technology research and
-analysis. Founded in 2006, and based in Stamford, Conn., ISG employs 1,600 digital-ready professionals operating
-in more than 20 countries-a global team known for its innovative thinking, market influence, deep industry and
-technology expertise, and world-class research and analytical capabilities based on the industry's most
-comprehensive marketplace data. For more information, visit www.isg-one.com .
+"A balanced approach to AI must weigh benefits as well as risks," Jecker said.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240606479522/en/
+***
+
+JOURNAL: Journal of Medical Ethics https://jme.bmj.com/content/early/2024/04/04/jme-2023-109702.full
+
+***
+
+Original text here: https://newsroom.uw.edu/news-releases/sky-is-falling-scenarios-distract-from-risks-ai-poses-
+today
+
+Contact: Brian Donohue, 206/543-7856, bdonohue@uw.edu
+
+Copyright Targeted News Services
+
+T40-MgEditor-8578162 T40-MgEditor
+
+                                                                                                    Page 3 of 3
+    University of Washington School of Medicine: Sky-is-Falling Scenarios Distract From Risks AI Poses Today
 
 
-CONTACT: Press Contacts:
-Will Thoretz, ISG
-+1 203 517 3119
-
-will.thoretz@isg-one.com
-
-
-Julianna Sheridan, Matter Communications for ISG
-+1 978-518-4520
-
-                                                                                                 Page 4 of 4
-    ISG to Assess Providers of Public Cloud Services, Solutions Upcoming ISG Provider Lens(TM) reports will
-                          evaluate providers helping enterprises and public sector....
-
-isg@matternow.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: June 6, 2024
+Load-Date: April 17, 2024
 
 
   

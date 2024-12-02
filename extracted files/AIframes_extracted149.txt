@@ -1,14 +1,14 @@
 
 
-                                                                                                   Page 1 of 3
-                                       Where the Public and Private Sectors Converge
+                                                                                                     Page 1 of 3
+                                  Max Planck Society: 2023 - A Year of Climate Extremes
 
 
 
 
-                         Where the Public and Private Sectors Converge
+                   Max Planck Society: 2023 - A Year of Climate Extremes
                                                      Targeted News Service
-                                             August 2, 2024 Friday 9:20 AM EST
+                                           February 6, 2024 Tuesday 1:18 AM EST
 
 
 
@@ -17,136 +17,109 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 1365 words
+Length: 1030 words
 Byline: Targeted News Service
-Dateline: WASHINGTON
+Dateline: MUNICH, Germany
 
 Body
 
 
-The U.S. Department of Homeland Security Science and Technology Directorate issued the following feature
-article:
+(TNSres) -- The Max Planck Society issued the following news:
 
 ***
 
-The Science and Technology Directorate (S&T) recently hosted its annual Silicon Valley Innovation Program (SVIP)
-Demo Week, bringing together federal government and startup communities to exhibit new technologies, talk
-through ideas and identify opportunities for future collaboration.
+The devastating storms, rainfall, heatwaves and droughts of the past year have become more likely and more
+severe as a result of global warming
 
 ***
 
-Inventions were center stage at the Science and Technology Directorate's (S&T) annual Silicon Valley Innovation
-Program (SVIP) Demo Week in May. Hosted at the United States Patent and Trademark Office (USPTO)
-Headquarters in Alexandria, VA, the home of USPTO's National Inventors Hall of Fame, the spirit of innovation was
-celebrated over two days of exposition, demonstration, and thought leadership.
+2023 was another year of climate extremes. The global average temperature this year was 1.48 degrees Celsius
+above the pre-industrial average. At the same time, there were exceptional heatwaves and droughts, extreme
+storms and catastrophic rainfall. Studies by the European consortium Xaida, in which a team from the Max Planck
+Institute for Biogeochemistry is also involved, now confirm that such anthropogenic climate change makes extreme
+weather and climate events more likely and more severe. Partner organizations in the consortium have now
+presented analyses of how global warming has influenced individual extreme events.
 
-SVIP reshapes how government, entrepreneurs, and industry work together to strengthen national security through
-cutting-edge technology solutions, and Demo Week allows S&T's startup partners to showcase their current crop of
-new designs to both public and private sector audiences. Ultimately, the event serves as a space where the
-innovation community--both nationally and internationally--can connect and find ways to harness the commercial
-research and development (R&D) ecosystem for technologies with government applications and accelerate
-technology transition-to-market.
+From June onwards, every month in 2023 was warmer than the corresponding month in previous years since
+measurement data has been available. In the second half of the year, temperatures were more than 1.5 degrees
+Celsius above pre-industrial levels; on some days they even exceeded 2 degrees more. For the whole of 2023, the
+global temperature rise thus averaged 1.48 degrees above the pre-industrial average temperature, which is
+determined based on temperatures between 1850 and 1900. The warming can be partly explained by the fact that
+the El Nino phenomenon began to develop in the tropical Pacific.
 
-"In this room, we have disruptors, dreamers, and even the occasional tech bro. It's like the ultimate mashup of
-Silicon Valley meets Capitol Hill," said SVIP Managing Director Melissa Oh. "It's a place for government and
-startups to converge in pursuit of innovation and progress."
+The warmer average temperature also intensified some extreme events, as researchers from the Xaida consortium
+have discovered. This is true, for example, of the extreme rainfall of Storm Daniel, which caused two dams to burst
+in Libya in September. The floods claimed thousands of lives and made Daniel the deadliest storm in Africa to date.
+"We estimate that the extreme rainfall associated with Daniel has become at least ten times more likely as a result
+of climate change," says Friederike Otto, a scientist at the Grantham Institute at Imperial College London. Through
 
                                                                                                         Page 2 of 3
-                                  Where the Public and Private Sectors Converge
+                              Max Planck Society: 2023 - A Year of Climate Extremes
 
-Oh kicked off the event by explaining how the best innovations happen when diverse perspectives collide. The
-Apollo 11 moon landing is proof of that, she said. And crab traps actually inspired NASA's model for the craft's
-landing legs--a nod to the inventiveness that can take place in building government technology. Similarly, one of
-SVIP's most successful R&D efforts--Maritime Object Tracking Technology (MOTT), used for accurately marking
-and monitoring objects in the water for recovery--started out as a lobster crate equipped with a dog collar.
+the use of climate models, climate scientists are able to determine the likelihood of a particular extreme event in two
+different climate scenarios: one with the current global average temperature and the other with pre-industrial
+temperature levels.
 
-"We are seeing a tidal wave of dual-use technologies, where commercial tech meets national security, and it's
-propelling economic growth and improving public services," Oh said.
+The amount of precipitation may increase during heavy rainfall because warmer air absorbs more moisture. In
+addition to wind speeds of up to 322 kilometres per hour, this was one reason why Hurricane Otis severely
+devastated Acapulco in October. According to a team from the French CRNS, Otis was an unprecedented event
+that can be attributed to anthropogenic climate change.
 
-SVIP is often an entry point for startups that might not have otherwise worked with government. For instance,
-Birmingham, AL-based SVIP startup Analytical AI was recently awarded a $20 million contract with the Department
-of Homeland Security for its image-based artificial intelligence (AI), used for object recognition screening at
-airports. The development of those algorithms also enabled the company to work with the U.S. Army to outfit the
-next generation of mine-resistant ambush resistant vehicles with AI-powered ability to screen for possible IEDs.
-Another SVIP startup from Brisbane, Australia, female-founded FloodMapp, was awarded a flood modeling contract
-from the City of Boston in April to provide real-time flood monitoring. This technology will help Boston's Emergency
-Operations Center target areas for evacuation and flood mitigation, support ongoing emergency response efforts
-with real-time mapping, and understand maximum flooding extent in order to distribute disaster relief and
-streamline damage assessment.
+* Temperatures above 50 degrees Celsius will also become possible in Europe
 
-S&T's work with these startup companies is force-multiplying; ultimately an investment in cutting-edge capabilities
-that are not only commercially sustainable, but that also meet the immediate needs of the Department of Homeland
-Security's (DHS) operational components. That is why events like Demo Week are so critical--the feedback given
-not only helps to shape the course of the R&D, but also helps to expand horizons and imagine new use cases.
+Partners of the Xaida consortium also analysed the heatwaves in which temperatures rose to more than 50 degrees
+Celsius in the USA and China in July. This level of heat can be fatal. Southern Europe was also exceptionally hot in
+the summer of 2023, and according to a study by ETH Zurich, temperatures of more than 50 degrees Celsius will
+also be possible here in the future.
 
-This year, 36 SVIP startups, including Analytical AI and FloodMapp, presented their technologies in a new "Shark
-Tank" style format, where a panel of experts asked them questions live on-stage in front of an audience. The
-"sharks" brought a blend of operational, technical, and business expertise to challenge the companies and help the
-audience of startups, federal employees, and prospective financiers better understand the technologies to help
-identify potential collaborative opportunities. Separate expert panels judged different topic areas, including sensors,
-healthtech, computer vision, data analytics, cybersecurity, digital credentials, and digital wallets. The sharks asked
-probing questions to ensure participants had anticipated a pathway to commercialization and the potential
-challenges.
+In many parts of the world, exceptionally hot summers are typically also very dry, and droughts are also becoming
+more likely and more severe as a result of climate change. In some cases, this has dire consequences for
+agriculture. Over the past 40 years, heat and drought have reduced crop yields even in the northern hemisphere, as
+a team from the Helmholtz Centre for Environmental Research UFZ has determined. Some regions in the Global
+South are even more heavily affected. Syria and Iraq, for example, have been experiencing an exceptional drought
+for three years. With global warming of 1.2 degrees Celsius, the probability of this happening is already 25 times
+higher than before the onset of anthropogenic climate change.
 
-Beyond the pitch sessions, additional Demo Week panels featured thought leadership discussions among DHS
-experts and provided insights to startups on how to engage with the public sector. In one panel, Partnership
-Pathways for DHS R&D and Commercialization, startups heard from representatives from other Office of Industry
-Partnership (OIP) programs about a variety of ways to engage with the Directorate, including through prize
-competitions, the Homeland Security Startup Studio, and the DHS Small Business Innovation Research (SBIR)
-program.
+* AI-supported predictions on the consequences of extreme events
 
-"We're hyper-focused on ensuring that we have a portfolio of programs that are available to innovators of all sizes.
-So, we don't want to just do all small businesses, we don't want just all large businesses. We're really focused on
-diversifying the people that we work with, the companies we work with, bringing new ideas to the Department, and
-working with our end users to get new technologies into their hands. And developing a commercial market for
-Homeland Security technologies," said Megan Mahle, director of OIP.
+The research that one Max Planck group is conducting in Xaida could therefore be beneficial to agriculture,
+particularly in the countries of the Global South. The team led by Markus Reichstein, Director at the Max Planck
+Institute for Biogeochemistry in Jena, is developing a method to predict the consequences of extreme events for
+vegetation, such as crops. To do so, they analyse extensive meteorological, geographical and biological data with
+the help of artificial intelligence (AI). Among other things, they combine meteorological observations from the
+Sentinel satellites at a spatial resolution of 20 metres with topographical data and data on plant characteristics.
+"The same weather can have very different consequences in different regions," says Markus Reichstein. "For
+example, in 2021 there was just as much heavy rainfall in the Uckermark as in the Ahr Valley, but due to the
+different geography there was no disaster." And drought is less likely to affect plants on a north-facing slope or in a
+hollow than on a south-facing slope.
 
-As part of the AI-focused Empowering the Technologists Who are Securing Our Future panel, DHS Chief
-Technology Officer David Larrimore lauded the startups as the ones "building products people need, not just what
-will sell." Another panelist, Graham Dufault, general counsel for the nonprofit ACT|The App Association, said he is
-really impressed with SVIP for its public-private engagement model and hinted that DHS is further along than other
-federal agencies in developing these types of programs.
-
-"One of the really important things that SVIP has done was to build bridges to companies that may not necessarily
-have a federal client base in mind but that have a customer base that they're looking to serve," Dufault said.
-
-                                                                                                     Page 3 of 3
-                                 Where the Public and Private Sectors Converge
-
-"They're developing a software tool or device that's going to be really amazing for this use case but also, with a
-couple of tweaks, would be incredible put into service as something for [DHS]."
-
-During her keynote speech, Jody M. Hardin, executive director of U.S. Customs and Border Protection's Office of
-Field Operations Innovation and Strategy Directorate, welcomed this, saying that "as quickly as technology is
-advancing, we also need insights from experts like all of you on how technology can be used by our adversaries
-and help us anticipate and close those gaps."
-
-Oh reminded the audience that the goal of the event is to create a "dynamic space for collaboration, discussion and
-discovery." When she asked for a show of hands of how many had connected with someone during Demo Week
-that could become a potential collaborator, hands shot up across the room.
-
-"This is what I'm here for, this is what I want to happen," she said. "Holding this event in Washington, DC, is
-fantastic. We're bringing the startups and the agencies together, and I think a lot of magic can come from it."
+"Predictions that take such differences into account require a level of complexity that is not possessed by physical
+models," explains Markus Reichstein. "What's more, we don't yet fully understand many of the connections."
+Artificial intelligence, however, recognizes patterns in data on past heavy rainfall events or droughts that enable
+predictions to be made about future events. "Aid organizations can then better adapt to this and deploy their
+resources in a targeted manner," says the climate researcher. Although aid organizations are already using weather
+forecasts to prepare for impending disasters, artificial intelligence is set to predict even more precisely in future
+where help will be needed. The Max Planck researchers from Jena will initially apply their method in cooperation
+with the German Red Cross in Somalia and Kenya to help herdsmen there better adapt to drought. "We're not yet
+using AI-based predictions," says Markus Reichstein. "But we want to make progress this year."
 
 ***
 
-To learn more about SVIP's 2024 Demo Week and access recordings, please visit the Demo Week Event Page
-(https://www.dhs.gov/now-leaving?external_url=https%3A%2F%2Fweb.cvent.com%2Fevent%2F8C284A1D-CB71-
-42CF-A8CE-1D987FFBC440%2Fsummary&back_url=https%3A%2F%2Fwww.dhs.gov%2Fscience-and-
-technology%2Fnews%2F2024%2F08%2F01%2Ffeature-article-where-public-and-private-sectors-converge).   For
-related media inquiries, contact STMedia@hq.dhs.gov
+Original text here: https://www.mpg.de/21506133/2023-a-year-of-climate-extremes?c=2249
 
-***
+[Category: Science]
 
-Original text here: https://www.dhs.gov/science-and-technology/news/2024/08/01/feature-article-where-public-and-
-private-sectors-converge
+Contact: Markus Reichstein, +49 3641 57-6273, mreichstein@bgc-jena.mpg.de
+
+                                                                                   Page 3 of 3
+                           Max Planck Society: 2023 - A Year of Climate Extremes
 
 Copyright Targeted News Services
 
-MSTRUCK-8757110 MSTRUCK
+T40-MgEditor-8493559 T40-MgEditor
 
 
-Load-Date: August 2, 2024
+Load-Date: February 24, 2024
 
 
   

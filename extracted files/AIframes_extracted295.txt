@@ -1,136 +1,106 @@
 
 
-                                                                                                  Page 1 of 3
-     Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
-                          Subscriber Experience Eight new concepts at the Fiber Br....
+                                                                               Page 1 of 2
+           PR NO. 58 AHSAN IQBAL REVIEWS PROGRESS OF NATIONAL CENTERS OF EMERGING
+                         TECHNOLOGIES AT NUST ISLAMABAD: MARCH 13, 2024
 
 
 
 
- Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband's
-Ability to Advance Connectivity, Subscriber Experience; Eight new concepts
-at the Fiber Broadband Association's annual conference will help accelerate
-          fiber's future applications throughout the Connected Home
-                                                   Business Wire
-                                      July 10, 2024 Wednesday 1:00 PM GMT
+  PR NO. 58 AHSAN IQBAL REVIEWS PROGRESS OF NATIONAL CENTERS
+  OF EMERGING TECHNOLOGIES AT NUST ISLAMABAD: MARCH 13, 2024
+                                                States News Service
+                                            March 13, 2024 Wednesday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 1125 words
-Dateline: WASHINGTON
+Length: 1114 words
+Byline: States News Service
+Dateline: ISLAMABAD, Pakistan
 
 Body
 
 
-The Fiber Broadband Association (FBA) today announced the Proof of Concept (PoC) demonstrations planned for
-Fiber Connect 2024 , July 28-31, in Nashville, Tenn. Seventeen companies will participate in eight PoC
-demonstrations that showcase how Connected Home innovations and services improve subscriber experience by
-leveraging the capacity, scale, latency, and/or security that only fiber broadband provides.
+The following information was released by the Government of Pakistan:
 
-"These concepts will demonstrate the power of the fiber broadband ecosystem on the subscriber experience and
-fiber's ability to support disruption, change market dynamics, and push the boundaries of possibilities," said Evann
-Freeman, Fiber Broadband Association Board Member and Conference Committee Chair, and Vice President of
-Government & Community Relations at EPB of Chattanooga. "Our industry has some of the brightest minds at work
-to solve the connectivity challenges ahead as we look to connect every household in America, push past current
-technology limitations, and open up new frontiers with AI, Machine Learning, Quantum Networking, and many other
-exciting innovations."
+The newly-appointed Federal Minister for Planning Development and Special Initiatives Professor Ahsan Iqbal on
+Wednesday visited at the National Center of Artificial Intelligence of National University of Science and
+Technology (NUST) to review the progress of the NCAI and other national centers focused on robotics,
+cybersecurity, big data, and cloud computing established by the minister. During his visit, the Minister was given a
+comprehensive briefing on the progress achieved by NCAI and the other national centers. The Minister emphasized
+that with the right guidance from HEC, these centers can uplift the nation's economy through product
+commercialization and digital exports for economic growth. "Technology is the backbone of economies globally and
+countries have started investing heavily in AI for their national transformation, remarked the Minister.
 
-Fiber Connect 2024 PoCs will be collaborative projects involving at least one member company of FBA or
-Broadband Forum (BBF), and many will leverage one of two BBF Connected Home specifications: BBF.247 GPON
-ONU , which focuses on multi-vendor interoperability between OLTs (Optical Line Terminals) and ONUs (Optical
-Network Units), or BBF.369 User Services Platform (USP), which represents a fully realized managed services
-ecosystem for adding value to the connected home. PoCs can also demonstrate one or more services and
-applications outside of these specifications, if they do not apply, that support the conference theme of "Accelerating
-our Fiber Future" and could include innovative IoT, Artificial Intelligence, security, and other Smart Home or
-connectivity options.
+The Minister's visit emphasizes not only a strategic commitment to advancing the national centers of technology but
+also underscores his eagerness for swift progress, emphasizing the crucial role of these institutions in shaping
+Pakistan's technological and economic future. Professor Dr. Yasar Ayaz, Chairman of NCAI, provided an overview
+of the National Center of Emerging Technologies and focused on NCAI's pivotal role in shaping the nation's
+technological landscape. The economic activity through research and industry projects it generated, products
+developed, and deployed across various sectors, including safe cities, crime mitigation, agriculture, climate,
+education, judiciary and disaster management were highlighted. The Minister asked NCAI to launch 2-3 days of AI
+training for federal secretaries and senior public servants so that they understand how AI can transform their
+domains and bring about the right changes through AI integration. Since AI plays a significant role in good
+governance and bringing the right changes is the only way to the future for economic growth and a knowledge-
+based economy, he added. Additionally, he emphasized NCAI to reconvene the Task Force meeting and include AI
+experts from corporate sectors, both international and Pakistani AI top talent. This will maximize their input and
+allow for learning from them, enabling the initiation of the roadmap as soon as possible. Professor Iqbal appreciated
+the multifarious achievements of the centers and urged them to forge sustainability. Subsequently, the minister was
+briefed that NCAI, in 2019, proposed mechanisms for sustainability in the form of two policies - one on sustainability
+and one on spin-off policies. Both policies carried mechanisms for fund management to make it easier to sustain
+the efforts if the policies were approved. However, the policies were still pending approval with HEC. HEC has
 
-"We are delighted to take part in the Fiber Connect PoC presentations and demonstrate how our standards enable
-seamless smart home services and subscriber management beyond the fiber connection point," said Ken Pyle,
-Director of Marketing at Broadband Forum. "These cutting-edge demonstrations will bring together key players from
-across the industry and highlight the importance of interoperability and standardization in creating a customer-
-centric ecosystem, while improving operational efficiency, time-to-market for new applications, and opening up
-business opportunities for service providers."
+                                                                              Page 2 of 2
+          PR NO. 58 AHSAN IQBAL REVIEWS PROGRESS OF NATIONAL CENTERS OF EMERGING
+                        TECHNOLOGIES AT NUST ISLAMABAD: MARCH 13, 2024
 
-                                                                                                 Page 2 of 3
-    Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
-                         Subscriber Experience Eight new concepts at the Fiber Br....
+come up with the idea of having an FandP committee to sustain the labs and the center. Recognizing the critical
+need for sustainability, the Minister emphasized to HEC the importance of revisiting the existing decisions made by
+the National Steering Committee members and policies proposed by NCAI. He directed HEC to address these
+issues on an expeditious basis and come up with an operational plan focusing on commercializing their tech
+products, leveraging support, and enabling them to thrive by connecting them with the industry and fostering co-
+creation of knowledge for all the national centers. Furthermore, he urged HEC to engage in discussions with him
+directly. Highlighting HEC's central role as the guiding force behind the collaborative approach with all centers, the
+Minister emphasized the crucial influence HEC holds in ensuring the success of these initiatives. The Minister
+reiterated the importance of collaboration between academia and industry for the commercialization of tech
+products, curriculum reforms, including the national centers for accreditation and standardization, and the potential
+of AI to drive advancements across various sectors in Pakistan. He applauded NCAI for its dedication to advancing
+AI in Pakistan. Emphasizing sustainability through endowment, the Minister referenced a mechanism proposed
+during the last day of his previous tenure. He urged the HEC to expedite the release of promised funds, address
+delays, and reinforce the crucial role of technology in Pakistan's economic growth. The Planning Minister instructed
+HEC to expedite the release of the long-delayed promised funds of Rs 500 million and the overdue revision of
+salaries for HR in FY 2023-2024. He demanded prompt submission of the revised PC-1s of the national centers in
+accordance with CDWP decisions. Director General PandD HEC assured the Minister of fast progress and
+submission of the pending documents within one week. The Minister specifically urged Chief SandT MoPDandSI to
+diligently follow up and swiftly resolve this pressing issue. Earlier, NCAI also shared updates on its Memorandum of
+Agreement with the Saudi Data and Artificial Intelligence Authority (SDAIA), an international-level collaboration
+agreement approved by the federal cabinet and in the process of signing. Other collaborative initiatives/projects
+with government and non-government bodies, hospitals, malls, startups were discussed. The Minister was briefed
+about NCAI's latest training modules for leaders and professionals, launched on suggestion of Prof Ahsan Iqbal
+during his maiden visit to NCAI during his last tenure right after the oath-taking ceremony. During the briefing
+presentation was also given on the National Center of Robotics and Automation (NCRA) and showcased its
+achievements in agriculture, healthcare collaborations, and advanced robotics for industries. The National Center of
+Cyber Security (NCCS) highlighted the launch of over 50 products, international partnerships with Saudi Arabia,
+and its role in improving Pakistan's global ranking. The center's initiatives include cyber audits for 30+ national
+bodies, launching degree programs, and contributing to the security evaluation of cyber and non-cyber products
+under the Common Criteria Lab framework. ***********
 
-The 2024 Proof of Concept demonstrations include:
-   •    Empowering Connectivity: Collaborative Approach to Overcoming Broadband Challenges in Unserved and
-        Underserved Communities - presented by Ciena, Heights Telecom, Cambridge Industries Group Inc, and
-        Axiros
-       •    This PoC implements a secure, flexible, and cost-effective broadband network to provide rural
-            connectivity while enabling network operators to deliver service differentiation and monetize their fiber
-            investment, generate more significant revenue, and form the basis for long-term financial success.
-   •    B2C Value-Added Services Automation to Maximize CSP Fiber Investments - presented by Incognito,
-        Harmonic, KAON Broadband
-       •    This PoC leverages network automation to reduce OPEX and uses standards and open APIs to reduce
-            IT costs and expedite time to market for new CSP products.
-   •    Fiber Optic Sensing in Telecom Applications - presented by Fiber Optic Sensing Association (FOSA), Luna
-        Innovations, and Underline Infrastructure
-       •    This PoC enables network operators to monitor physical cable plant to detect threats, prevent damage,
-            pinpoint and categorize events, and more.
-   •    Corteca Cloud as a USP-Based, Multi-Vendor Wi-Fi Management + Device Management Solution -
-        presented by Nokia and Singel
-       •    This PoC presents a multi-vendor management platform that supports device management, application
-            management, and Wi-Fi management of a 3rd party Wi-Fi access point in a mesh network.
-   •    Empowering Interoperability to Accelerate Fiber to the Home and Deliver Service Excellence - presented
-        by Calix and Zyxel Communications
-       •    This PoC simplifies integration between systems, devices, and managed services for the connected
-            home, dramatically improving operational efficiency and speed to market.
-   •    Wholesale Open Access for FTTH Networks - presented by Nokia and Condor Technologies
-       •    This PoC presents an enhanced wholesale API and UI for FTTH networks that give VNO tenants
-            autonomy and flexibility and gives operators the ability to increase take rate and ROI of their fiber
-            investment, attract more VNOs, and increase wholesale revenues by 23%.
-   •    Empowering Connectivity: Enhancing Short-Term Rentals with Flexible Internet Packages - presented by
-        CompaxDigital
-       •    This PoC demonstrates a flexible billing and customer management approach that makes it easy to
-            add additional services so short-term rental providers can increase revenue while enhancing customer
-            satisfaction.
-   •    Free Space Optical Communication - presented by Taara
-       •    This PoC showcases the role of wireless optical communication (WOC) technology in helping bridge
-            middle mile gaps in broadband infrastructure and highlights three use cases: fiber backup, high-
-            capacity backhaul at temporary or seasonal event venues, and disaster relief.
+PREVIOUS NEXT
 
-PoCs will be presented in the Fiber Connect 2024 Expo Hall, July 29-30, and evaluated by leading industry
-analysts. Awards will be presented in the following categories: Most Innovative PoC, Best Community Impact, and
-Game Changer.
+ABOUT US
 
-To learn more about Fiber Connect 2024, visit the conference website here or subscribe to FBA's Fiber Forward
-Weekly newsletter here to stay updated on conference news and more.
+Press Information Department is the principal department of Ministry of Information and Broadcasting, headed by
+Principal Information officer (PIO). PID is working since 1947 with the mission to establish an authentic source for
+timely dissemination of information to people through all forms of media.
 
-About the Fiber Broadband Association
-
-                                                                                                 Page 3 of 3
-    Fiber Connect 2024 Proof of Concepts to Demonstrate Fiber Broadband 's Ability to Advance Connectivity,
-                         Subscriber Experience Eight new concepts at the Fiber Br....
-
-The Fiber Broadband Association is the largest and only trade association that represents the complete fiber
-ecosystem of service providers, manufacturers, industry experts, and deployment specialists dedicated to the
-advancement of fiber broadband deployment and the pursuit of a world where communications are limitless,
-advancing quality of life and digital equity anywhere and everywhere. The Fiber Broadband Association helps
-providers, communities, and policymakers make informed decisions about how, where, and why to build better fiber
-broadband networks. Since 2001, these companies, organizations, and members have worked with communities
-and consumers in mind to build the critical infrastructure that provides the economic and societal benefits that only
-fiber can deliver. The Fiber Broadband Association is part of the Fibre Council Global Alliance, which is a platform
-of six global FTTH Councils in North America, LATAM, Europe, MEA, APAC, and South Africa. Learn more at
-fiberbroadband.org .
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240710172607/en/
+PID carries out its operation round the clock through a proper mechanism of media projection, monitoring and
+feedback. It aims to publicize the government policies and also to apprise the Government about the impact of its
+policies.
 
 
-CONTACT: Autumn Minnich
-Connect2 Communications for the Fiber Broadband Association
-
-FBA@connect2comm.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: July 10, 2024
+Load-Date: March 13, 2024
 
 
   

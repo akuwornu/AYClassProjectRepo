@@ -1,70 +1,179 @@
 
 
-                                                                                                      Page 1 of 2
-                                               ePlus Announces Azure Recover
+                                                                                                        Page 1 of 4
+                  GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
 
 
 
 
-                                      ePlus Announces Azure Recover
-                                                           PR Newswire
-                                           June 26, 2024 Wednesday 8:30 AM EST
+     GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID
+                           SOONER
+                                                       US Fed News
+                                            March 28, 2024 Thursday 9:25 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 653 words
-Dateline: HERNDON, Va., June 26, 2024
+
+
+
+Length: 1379 words
 
 Body
 
 
-PR NewswireePlus Disaster Recovery-as-a-Service (DRaaS) offering, powered by Azure Site Recovery, protects
-workloads living on-premises, in Azure, or in other cloudsHERNDON, Va., June 26, 2024 /PRNewswire/ -- ePlus
-inc. (NASDAQ NGS:PLUS–news) today announced the launch of Azure Recover, a fully-managed DRaaS solution.
-Powered by Azure Site Recovery, ePlus Azure Recover helps organizations safeguard their critical services with
-geographic resilience to provide confident recovery in the event of disaster.
+Maxwell Air Force Base, Ala., March 28 -- The U.S. Air Force Auxiliary Civil Air Patrol issued the following news
+release:
 
- The new offering includes:Fully-automated monthly testingFailover event support and ongoing operational support
-post-failoverContinuous recovery validation"We are pleased to offer ePlus Azure Recover, which enables our
-customers to shrink recovery time objectives and provide the data protection necessary to maintain compliance,
-garner brand trust, and keep their business running when unforeseen events occur," said Justin Mescher, vice
-president of artificial intelligence, cloud, and data center solutions at ePlus. "By leveraging a proven disaster
-recovery operating model that revolves around continuous, automated testing and validation, ePlus Azure Recover
-provides peace of mind that their critical workloads will perform with the same security and performance they
-expect, even when unexpected circumstances arise."More information about ePlus Azure Recover for Disaster
-Recovery-as-a-Service       can    be    found    athttps://discover.eplus.com/onepager/eplus-azure-recover/.About
-ePlusinc.ePlus has an unwavering and relentless focus on leveraging technology to create inspired and
-transformative business outcomes for its customers. Offering a robust portfolio of solutions, as well as a broad
-range of consultative and managed services across the technology spectrum, ePlus has proudly achieved more
-than 30 years of success, carrying customers forward through adversity, rapidly changing environments, and other
-obstacles. ePlus is a trusted advisor, bringing expertise, credentials, talent and a thorough understanding of
-innovative technologies, spanning security, cloud, data center, networking, collaboration and emerging solutions, to
-organizations across all industry segments. With complete lifecycle management services and flexible payment
-solutions, ePlus' more than 1,900 associates are focused on cultivating positive customer experiences and are
-dedicated to their craft, harnessing new knowledge while applying decades of proven experience. ePlus is
-headquartered in Virginia, with locations in the United States, UK, Europe, and Asia–Pacific. For more information,
-visitwww.eplus.com, call 888-482-1122, or email . Connect with ePlus onLinkedIn,X,Facebook, andInstagram.
-ePlus, Where Technology Means More®.ePlus®, Where Technology Means More®, and ePlus products
-referenced herein are either registered trademarks or trademarks of ePlus inc. in the United States and/or other
-countries. The names of other companies, products, and services mentioned herein may be the trademarks of their
-respective owners.Forward-Looking StatementsThis press release contains information about management's
-view of ePlus' future expectations, plans and prospects that are not historical facts and may be deemed to be
+By the time most of the world became aware of deadly wildfires ripping through Lahaina and Kula on Maui, a small
+team of Civil Air Patrol and Federal Emergency Management Agency members had already remotely identified 800
+damaged or destroyed structures.
 
-                                                                                                        Page 2 of 2
-                                          ePlus Announces Azure Recover
+Using publicly available imagery and artificial intelligence technology, within days the remote team assessed
+some 2,000 homes and businesses and deemed more than 1,800 destroyed or damaged.-- They drew on satellite
+imagery and airborne imagery from both Vexcel Imaging and CAP's Hawaii Wing,
 
-"forward-looking statements." Actual and anticipated future results may vary materially due to certain risks and
-uncertainties. Certain risks and uncertainties that may affect such "forward-looking statements" are detailed in our
-reports filed with the Securities and Exchange Commission, especially under the heading "Risk Factors". All
-information set forth in this press release is current as of the date of this release and ePlus expressly disclaims any
-duty or obligation to update this information, except as may be required by law. View original content to download
-multimedia:https://www.prnewswire.com/news-releases/eplus-announces-azure-recover-302182810.htmlSOURCE
-EPLUS INC.
+Working with FEMA, the CAP team created a map of the damaged structures- which President Joe Biden used in
+issuing a federal disaster declaration to expedite financial aid to fire victims. A White House social media post on
+federal support to Hawaii showed the president viewing the assessment map.
+
+"In his hand he was holding a map - and it was our team's map," said Maj. Scott Kaplan, volunteer manager for the
+CAP Geospatial Program.
+
+"We never thought the products our team helped FEMA create would be given to the president."
+
+That small but rewarding recognition was among many highlights for the relatively young CAP program. Last year it
+assessed more than 63,000 structures in 18 states and territories, amounting to more than 1,000 volunteer hours
+that helped speed relief to millions of Americans in need.
+
+Not bad for a program only 5 years old.
+
+"I've joked all along that as a program, we're still crawling or walking. But really, we've been running with scissors
+since we started," said Kaplan, who recently served as deputy commander for Virginia Wing Group 3.
+
+                                                                                                     Page 2 of 4
+                GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
+
+He's employed as the senior adviser to the chairman of the Civil Applications Committee at the U.S. Geological
+Survey, where he's on a joint assignment from the National Geospatial-Intelligence Agency.
+
+Kaplan was tapped to create what was then called the CAP Geographic Information Systems (GIS) team - now
+known as the CAP Geospatial Program to reflect a broader mission beyond the use of GIS.
+
+Today, in addition to airborne and satellite imagery, the team heavily leverages open-source videos and photos and
+even hand-held imagery collected through phone applications.
+
+A GIS tool uses all this remote sensing data to visualize the material and create geospatial information. The
+program continues to expand its ranks with CAP members, including cadets who help gather and analyze images
+and other information far from a disaster zone.
+
+Just recently, the program has been at work providing geospatial assessments for two other events of national
+importance - destructive wildfires in the Texas panhandle and a tornado outbreak in the Midwest.
+
+During its formation, leadership established three main goals for the program:
+
+Help augment federal, state, and county emergency response teams in times of natural disasters with GIS-trained
+personnel.
+
+Provide visualized data to help CAP internally understand capabilities from National Headquarters down to the
+squadron level.
+
+Offer a potential career path for cadets in the geospatial industry.
+
+Soon after the program was made official on July 31, 2019, Category 5 Hurricane Dorian struck the Bahamas and
+eastern U.S.
+
+Partnering with GIS technology provider Environmental Systems Research Institute Inc., better known as Esri, to
+use its ArcGIS mapping and spatial analytics tools, the team got to work building a geospatial story map and
+dashboard to assist CAP incident commanders.
+
+Then in January 2020, a powerful earthquake struck Puerto Rico. The team equipped Puerto Rico Wing adult
+members and cadets with geospatial handheld applications developed by CAP and the National Alliance for Public
+Safety GIS.
+
+Ground teams gathered images provided to the tool, which provided a comprehensive picture of the earthquake's
+impact.
+
+The images taken were the first vetted images provided to FEMA, accelerating a presidential disaster declaration.
+
+Soon after that, COVID-19 hit, and the Geospatial Team was tasked with helping provide CAP the big picture of
+infection rates for members across the country.
+
+Using smartphone-based applications with a survey completed by squadron commanders showed how many
+members tested positive for the virus in the previous week. Leveraging geospatial technology, the team was able to
+show CAP's national leadership exactly how COVID was affecting membership.
+
+Over just the first few disasters, "we helped augment FEMA during times of a natural disaster with CAP Geospatial
+personnel; we helped CAP internally; and we got kids involved because we allowed them to use the same tools we
+use," Kaplan said.
+
+"In doing so, we had met all three goals of the program," he said.
+
+One of the Geospatial Program's biggest draws is that anyone can participate, regardless of location, age, gender,
+or disability.
+
+                                                                                                        Page 3 of 4
+               GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
+
+"We allow everyone to be involved, and that's been a big piece of our program since its inception," Kaplan stressed,
+adding that even visually impaired volunteers are welcomed. "Even if someone is blind, we'll find a way for them to
+help."
+
+Maj. P. Adrian Carnes, the National Emergency Services Academy-Southeast chief of staff and South Carolina
+Wing director of logistics, has participated in nine Geospatial Disaster Assessment Teams - including tornado and
+hurricane coverage that earned team members some of the highest honors awarded by state governors and CAP
+national leadership.
+
+"You're helping other people in their darkest moment," Carnes said, "people who've lost everything, and we try to
+help them pull their lives back together again."
+
+Carnes' daughter Casey, now a hospice nurse, was a top-ranked cadet as a youth, and he believes one of the
+Geospatial Program's best aspects is the opportunity for young cadets to work alongside adult members.
+
+"These kids can do the same job I can do because they are trained just as I am," he said. "To have them develop a
+sense of pride in themselves, and then carry that forward, is among the things I like most about CAP."
+
+First Lt. John Roberts, homeland security officer for the Massachusetts Wing, joined the Geospatial Program in May
+2022 as another way to contribute.
+
+"You can do it from your chair or anywhere, at any time of the day," Roberts said. "More importantly, it gives
+members the ability to contribute in real missions."
+
+He recalls helping with damage assessments in Florida after Hurricane Ian damaged 24,546 structures in
+September 2022. Roberts had family in Florida displaced by the storm, and because of the work he and others did,
+his sister received financial assistance from FEMA in a matter of days.
+
+"Anything we can do to improve that speed and get those resources and money allocated is our real mission," he
+said.
+
+In addition to expediting FEMA payments, the Geospatial Program's damage assessments can help combat
+insurance fraud by matching claims against their evaluations - something even artificial intelligence solutions still
+struggle to accurately detect. For instance, a solar panel on a perfectly intact house could be misread as destruction
+because the machine sees what looks like a massive black hole in the image.
+
+Recently Roberts and Carnes were among team members volunteering to help the Massachusetts Institute of
+Technology's Lincoln Laboratories improve AI models to prevent such misinterpretations. Volunteers were divided
+into three groups to label thousands of CAP-generated images and later confirm or reject results from the AI
+program.
+
+"The value CAP is providing MIT Lincoln Labs is massive," Roberts said.
+
+For the Geospatial Program Damage Assessment Team, AI is now used to augment efforts - but it won't replace
+them. "We're still better than the AI models," Kaplan said.
+
+"We have some of the best damage assessment imagery experts for natural disasters in the country," he added.
+And he has a spate of awards to back it up, including the Making a Difference Award given at Esri's federal
+government conference and the CAP JanEX Prize for Innovation.
+
+"I love what I do," Kaplan said. "At the end of the day, we're helping people, and that's what matters." For any query
+with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
 
-Load-Date: July 15, 2024
+Load-Date: March 31, 2024
+
+                                                                              Page 4 of 4
+             GEOSPATIAL PROGRAM HELPS MILLIONS GET POST-DISASTER AID SOONER
 
 
-  
+

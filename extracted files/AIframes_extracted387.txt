@@ -1,14 +1,16 @@
 
 
-                                                                                                        Page 1 of 3
-                                    $2.1M for UH-Led Maui Wildfire Response Research
+                                                                                               Page 1 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
 
 
 
 
-                      $2.1M for UH-Led Maui Wildfire Response Research
+          House Financial Services Subcommittee Issues Testimony From
+          Congressional Research Service Defense Policy Analyst Nicastro
                                                      Targeted News Service
-                                            June 25, 2024 Tuesday 9:17 PM EST
+                                           March 30, 2024 Saturday 7:17 PM EST
 
 
 
@@ -17,108 +19,768 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 920 words
+Length: 7927 words
 Byline: Targeted News Service
-Dateline: HONOLULU, Hawaii
+Dateline: WASHINGTON
 
 Body
 
 
-(TNSres) -- The University of Hawaii issued the following news release:
-
-Following the devastating Maui wildfires of August 2023, the University of Hawaii is spearheading projects totaling
-$2.1 million to address the impacts to air and water quality, public health, ecosystem resilience and community
-evacuation responses. Utilizing cutting-edge techniques such as AI-enhanced data collection and computational
-modeling, researchers aim to deliver crucial insights to boost disaster resilience and enhance emergency response
-strategies. Since fall 2023, more than 30 UH researchers have been involved in 12 National Science Foundation
-(NSF) Rapid Response Research (RAPID) funded projects, with the UH Manoa Water Resources Research Center
-(WRRC) coordinating efforts across the UH System.
-
-"UH is playing a critical role in conducting scientific research on the wide-ranging effects of wildfires on both human
-health and the environment, facilitating informed decision-making and effective disaster response strategies," said
-WRRC Director Tom Giambelluca. "By coordinating research efforts, we hope to ensure collaboration among
-stakeholders, including researchers, government agencies, community groups, and nonprofits."
-
-Drawing on previous experience with the Red Hill water crisis, WRRC quickly convened faculty, staff, and students
-from UH to explore collaborative research approaches to support the community. This led to WRRC assuming a
-central role in facilitating communication among research teams and coordinating UH's research response.
-
-"WRRC has maintained ongoing dialogue among UH researchers involved in Maui's post-fire recovery and has
-played a key role in connecting this research collective with the Maui All Hands Environmental Response group,"
-said Mia Comeros, WRRC Pacific Water Resilience and Security Program lead. "This coalition includes community,
-state, federal agencies, and researchers, collaborating on response and recovery efforts."
-
-Comeros has been instrumental in coordinating the Maui fires response data products in collaboration with Lisa
-Webster, GIS Analyst at the National Disaster Preparedness Training Center, and Lauren Kaiser, Data Manager
-with the Pacific Islands Ocean Observing Systems. This initiative develops decision support tools and enhances
-
-                                                                                                        Page 2 of 3
-                                $2.1M for UH-Led Maui Wildfire Response Research
-
-research coordination using advanced geospatial and data analysis tools. It aims to support environmental
-response and improve communication efforts in Maui.
-
-12 NSF RAPID-funded projects:
-
-* Guohui Zhang: $50,000--Investigates the compounding impacts of Maui wildfires and Hurricane Dora on resident
-and tourist evacuation behavior in response to infrastructure failures.
-
-* Tara O'Neill, Thomas Blamey, Yuriy Mileyko, Monique Chyba: $200,000--Collaborates with the Maui community to
-develop trauma-informed STEM education programs that help youth process and recover from wildfire impacts.
-
-* Alice Koniges: $74,627--Develops computational models for wildfire spread using level-set methods and Hamilton-
-Jacobi equations, incorporating human activity data.
-
-* David Eder, Negar Elhami-Khorasani, Neil Lareau, Sean Cleveland, Hamed Ebrahimian, Timothy Juliano:
-$200,000--Uses AI-enhanced data to tune and validate wildfire models, incorporating social media and time-
-stamped photos for accurate fire propagation analysis.
-
-* Giuseppe Torri: $168,845--Develops models to predict wildfire potential on subseasonal to seasonal timescales,
-aiming to improve preparedness and response.
-
-* Jason Leigh, Thomas Giambelluca, Christopher Shuler: $200,000--Develops an AI-enhanced sensor system to
-monitor and detect multi-hazard conditions such as fires, winds and floods near the Lahaina burn site.
-
-* Andrea Kealoha, Nicholas Hawco, Eileen Nalley, Craig Nelson: $199,948--Studies the stress responses of coral
-reefs to contaminants from urban fires, focusing on changes in water quality and coral health.
-
-* Christopher Shuler, Mia Theresa Comeros, Aurora Kagawa-Viviani, Andrew Whelton: $200,000--Analyzes post-
-wildfire drinking water contamination, focusing on the transport and impact of hazardous chemicals in water
-sources.
-
-* Xiaolong Geng, Tao Yan: $200,000--Evaluates the impact of wildfire-released volatile organic compounds, heavy
-metals, and microbial pathogens on the chemical and microbiological quality of coastal waters using sediment,
-surface water and groundwater samples.
-
-* Yinphan Tsang: $200,000--Surveys and collects post-fire runoff and sediment samples to study the transport and
-deposition of contaminants in coastal and riverine ecosystems.
-
-* Joseph Allen, Sayed Bateni: $199,669--Measures indoor and outdoor levels of volatile organic compounds and
-more in Maui residences post-wildfire and assesses the effectiveness of air and carbon filters.
-
-* Jennifer Honda: $200,000--Investigates the risk and prevalence of lung infections in residents exposed to wildfire
-pollutants, using microbiological and molecular analyses.
-
-The interdisciplinary nature of these projects ensures a robust, well-rounded approach to wildfire management and
-recovery, essential for developing effective, practical and resilient strategies for future natural disasters. To learn
-more, take a look at this online brief (https://storymaps.arcgis.com/briefings/d6dce76df7d04b7db9ca9d1f34534e3b).
+The House Financial Services Subcommittee on National Security, Illicit Finance and International Financial
+Institutions issued the following testimony by Luke Nicastro, an analyst in defense policy at the Congressional
+Research Service, involving a hearing on March 12, 2024, entitled "Mission Critical: Restoring National Security as
+the Focus of Defense Production Act Reauthorization":
 
 ***
 
-Original text here: http://www.hawaii.edu/news/article.php?aId=13317
+Chairman Luetkemeyer, Ranking Member Beatty, and Members of the subcommittee, thank you for the opportunity
+to testify before you. My name is Luke Nicastro, and I am an analyst in defense policy at the Congressional
+Research Service (CRS). CRS provides Congress with analysis that is authoritative, confidential, objective, and
+nonpartisan. Any arguments presented in my written or oral testimony are provided for the purposes of informing
+Congress, not to advocate for a particular policy approach or outcome.
 
-Contact: Mia Comeros, Pacific Water Resilience and Security Program lead, Water Resources Research Center,
-808/388-5719, mcomeros@hawaii.edu
+My testimony today will focus on the purpose, history, and current authorities of the Defense Production Act of 1950
+(DPA). I will also discuss several issues relating to the DPA that Congress may face.
+
+***
+
+Purpose of the DPA
+
+The Defense Production Act of 1950 (P.L. 81-774; codified as 50 U.S.C. Sec.Sec.4501 et seq.), provides the
+President with an array of authorities to "shape national defense preparedness programs and to take appropriate
+steps to maintain and enhance the domestic industrial base."1 Over the past 74 years, successive administrations
+have used the DPA as a tool to manage the nation's defense-related productive capacity, invoking its authorities to
+increase the domestic supply of goods and materials.
+
+                                                                                               Page 2 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+These authorities are grouped into titles: Title I (Priorities and Allocations) allows the President to require private
+businesses to preferentially accept certain contracts and orders, as well as allocate materials, services, and
+facilities; Title III (Expansion of Productive Capacity and Supply) allows the President to provide loan guarantees,
+loans, purchases and purchase commitments, grants, and other financial assistance directly to private businesses;
+and Title VII (General Provisions) provides the President with a variety of authorities, including the power to
+establish voluntary agreements with industry, block certain corporate transactions, and obtain industrial base
+information. In addition, Title VII defines key terms and provides for the termination of most DPA provisions.
+
+***
+
+History of the DPA
+
+Legislative Development
+
+The DPA was enacted in September 1950 to enable the Truman Administration to respond to the industrial and
+economic requirements of the Korean War.2 In addition to the three titles identified above, the Act originally
+included four additional titles that provided the President with broader authorities to manage the domestic economy,
+including the power to requisition property, set price and wage ceilings, settle labor disputes, and control credit
+(these were allowed to lapse as the Korean War drew to a close).3 Because of its economic focus, the DPA fell
+under the jurisdiction of what were then the House and Senate Committees on Banking and Currency--now the
+House Financial Services Committee and the Senate Committee on Banking, Housing, and Urban Affairs,
+respectively--which have retained jurisdiction through the present day.4
+
+***
+
+1 50 U.S.C. Sec.4502.
+
+2 Many of the DPA's provisions were modelled on similar laws in effect during World War II--particularly the War
+Powers Acts of 1941 (P.L. 77-354) and 1942 (P.L. 77-507). For contemporaneous debate surrounding the DPA's
+passage, see U.S. Senate, Hearings on S. 3936 Before the Committee on Banking and Currency - July 24,25, and
+26, 1950 (Washington: Government Printing Office, 1950).
+
+3 The seven original Titles of the Act were: Title I (Priorities and Allocations); Title II (Authority to Requisition); Title
+III (Expansion of Productive Capacity and Supply); Title IV (Price and Wage Stabilization); Title V (Settlement of
+Labor Disputes); Title VI (Control of Consumer and Real Estate Credit); and Title VII (General Provisions). Titles IV
+and V lapsed on April 30, 1953, and Titles II and VI lapsed on June 30, 1953, pursuant to Section 11 of the Defense
+Production Act Amendments of 1953 (P.L. 83-95).
+
+***
+
+Since the legislation's initial enactment, most of the DPA has been subject to a 'sunset' clause, requiring periodic
+re-authorization by Congress to retain effect.5 Congress has re-authorized the DPA dozens of times, most recently
+in 2018 (without congressional action, its expiring provisions will terminate on September 30, 2025).6 In addition to
+reauthorizing the DPA, Congress has also amended many of its provisions. Legislative changes to DPA authorities
+have included:
+
+* Broadening the definition of national defense (and thus, the purposes for which DPA authorities may be used);7
+
+* Designating energy as a strategic and critical material subject to Title I authorities;8
+
+* Changing eligibility for Title III assistance;9 and
+
+* Changing the way Title III assistance is funded, including by establishing and modifying the Defense Production
+Act Fund (DPA Fund).10
+
+                                                                                               Page 3 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+Congress has also enacted numerous modifications to Title III reporting, notification, and authorization
+requirements, and has used Title VII to codify other industrial base-related authorities (for example, those
+associated with the Committee on Foreign Investment in the United States, or CFIUS).11
+
+***
+
+Executive Application
+
+The executive branch's use of DPA authorities has also changed over time. DPA authorities saw their most
+extensive application between 1950 and 1953, and were credited by some policymakers for contributing to the
+nation's productive capacity and economic performance.12
+
+***
+
+4 The DPA also created a Joint Committee on Defense Production, which was composed of Members from the
+standing committees of jurisdiction. This Committee ceased operating in 1977 (the last appropriation for salaries
+and expenses was made for FY1978, in P.L. 94-440), and its authorizing provision was repealed in 1992 (Section
+153 of P.L. 102-558).
+
+5 50 U.S.C. Sec.4564.
+
+6 The most recent reauthorization was enacted through Section 1791 of the John S. McCain National Defense
+Authorization Act for Fiscal Year 2019 (P.L. 115-232).
+
+7 As originally enacted, the DPA defined national defense in the following manner: "The term "national defense"
+means the operations and activities of the armed forces, the Atomic Energy Commission, or any other Government
+department or agency directly or indirectly concerned with the national defense, or operations or activities in
+connection with the Mutual Defense Assistance Act of 1949, as amended." By 1992, the definition (as enacted by
+P.L. 102-558) read: "The term 'national defense' means programs for military and energy production or
+construction, military assistance to any foreign nation, stockpiling, space, and any directly related activity." In 1994,
+P.L. 103-337 added "emergency preparedness," and in 2003, P.L. 108-195 added "critical infrastructure protection
+and restoration." The most recent amendment to this definition was made in 2009, when P.L. 111-67 added "critical
+infrastructure assistance to any foreign nation" and "homeland security." See "Amendments" section of 50 U.S.C.
+Sec.4552.
+
+8 Section 103 of the Defense Production Act Amendments of 1980 (P.L. 96-294) so designated energy by enacting
+what is now 50 U.S.C. Sec.4516.
+
+9 Section 1080 of the National Defense Authorization Act for Fiscal Year 2024 (P.L. 118-31) amended 50 U.S.C.
+Sec.4552 to expand this eligibility to encompass certain businesses in Australia and the United Kingdom
+(previously, it was restricted to businesses in the United States and Canada).
+
+10 The modern DPA Fund was established by Section 122 of the Defense Production Act Amendments of 1992
+(P.L. 102-558).
+
+11 See, for example, 50 U.S.C. Sec.4565. CFIUS is often considered separately from the rest of the DPA, and lies
+outside of the scope of my testimony. For more information, see CRS In Focus IF10177, The Committee on Foreign
+Investment in the United States, by Cathleen D. Cimino-Isaacs and Karen M. Sutter.
+
+***
+
+During this period, the Truman and Eisenhower Administrations established a number of organizations to manage
+industrial mobilization generally and DPA activities specifically, including the Office of Defense Mobilization, the
+Defense Production Administration, and the Small Plants Administration.13 After the end of the Korean War,
+executive invocations of the DPA--particularly Title III--decreased, and between the late 1960s and mid-1980s Title
+
+                                                                                               Page 4 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+III authorities appear to have gone entirely unused.14 In 1985, the Reagan Administration resumed use of Title III
+authorities, which have continued through the present.15 By way of historical illustration, the number of Title III
+projects reported as active by DOD--the largest user of Title III authorities--was 4 in 1994, 37 in 2013, and 56 in
+2024.16 The Department of Defense is the executive department most commonly associated with the DPA, and
+has been consistently involved in the majority of both Title I and Title III actions.17 However, successive
+presidential administrations have delegated DPA-related roles and responsibilities to a variety of executive
+departments and agencies, including the Departments of Commerce, Energy, Health and Human Services,
+Homeland Security, and others. The current pattern of delegation was largely established by Executive Order
+13603, which was issued in March 2012./18
+
+Beginning in 2020, the number and variety of DPA actions appear to have increased significantly. The Trump and
+Biden Administrations used Title I and Title III authorities extensively to respond to the COVID-19 pandemic,
+including through the prioritization of vaccine-related contracts and the provision of financial assistance and
+incentives to domestic producers of medical supplies.19 The Biden Administration has also used Title III authorities
+to respond to the 2022 Russian invasion of Ukraine (through assistance to munitions and strategic/critical materials
+producers), as well as to accomplish other policy priorities such as investing in clean energy technologies and
+expanding the production of strategic/critical materials.20 Another difference between pre- and post-COVID-19
+uses of the DPA may be found in the funds available for DPA activities. Over the ten fiscal years from FY2010
+through FY2019, Congress appropriated approximately $952 million to the DPA Fund, which pays for Title III
+activities. Over the four fiscal years from FY2020 through FY2023, Congress has provided at least $3.1 billion to the
+DPA Fund for Title III purposes.21 These funds were provided through annual defense appropriations acts, as well
+as other legislation, including the CARES Act of 2020 (P.L. 116-136), the Additional Ukraine Supplemental
+Appropriations Act, 2022 (P.L. 117-128), and the Inflation Reduction Act of 2022 (P.L. 117-169). The use of
+supplemental appropriations to fund the DPA represents a change from congressional practice between FY2010
+and FY2019, when all DPA funds were provided through annual defense appropriations acts.
+
+***
+
+12 See, for instance, the May 21, 1953 testimony of Arthur Flemming (director of the Office of Defense Mobilization)
+before the House Committee on Banking and Currency. House of Representatives, "Hearings Before the
+Committee on Banking and Currency (May 21, 22, 25, 26, 27, 28, June 1 and 2, 1953)." (Washington D.C.:
+Government Printing Office, 1953), pp. 7-11.
+
+13 Ibid., p. 7.
+
+14 See House Committee on Banking, Finance, and Urban Affairs' Subcommittee on Economic Stabilization,
+"Briefing on the Defense Production Act of 1950 (March 2, 1983)." (Washington, D.C.: Government Printing Office,
+1983), pp. 5 and 15-16.
+
+15 U.S. General Accounting Office, "Defense Production Act: Foreign Involvement and Materials Qualification in the
+Title III Program," March 1994, pp. 1 and 4.
+
+16 The 1994 figure comes from GAO; the 2013 figure comes from testimony by Frank Kendall, then-Under
+Secretary for Acquisition, Technology, and Logistics, given before the Senate Committee on Banking, Housing, and
+Urban Affairs on July 16, 2013; and the 2024 figure comes from information provided to the author by DOD's
+Manufacturing Capability Expansion and Investment Prioritization office. GAO, "Defense Production Act: Foreign
+Involvement in Title III;" Senate Committee on Banking, Housing, and Urban Affairs, "Oversight of the Defense
+Production Act: Issues and Opportunities for Reauthorization," July 16, 2023; and DOD, "DPA Title III Status of
+Funds," February 6, 2024.
+
+17 The Secretary of Defense is also designated by E.O. 13603 as the DPA Fund manager. Executive Order 13603
+of March 16, 2012, available online at https://www.federalregister.gov/documents/2012/03/22/2012-7019/national-
+defense-resources-preparedness.
+
+                                                                                               Page 5 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+18       Executive      Order      13603     of      March     16,      2012,      available     online             at
+https://www.federalregister.gov/documents/2012/03/22/2012-7019/national-defense-resources-preparedness.
+
+19 Government Accountability Office, COVID-19: Agencies Are Taking Steps to Improve Future Use of Defense
+Production Act Authorities, December 2021. Available online at https://www.gao.gov/assets/gao-22105380.pdf.
+
+20 DOD, "DPA Title III Status of Funds," February 6, 2024; and Department of Energy, "President Biden Invokes
+DPA to Accelerate Domestic Manufacturing of Clean Energy," June 6, 2022, available online at
+https://www.energy.gov/articles/president-biden-invokes-defense-production-act-accelerate-domestic-
+manufacturing-clean.
+
+***
+
+In addition, the American Rescue Plan Act of 2021 (P.L. 117-2) made $10 billion available for use of all DPA
+authorities (not just Title III) for the "purchase, production...or distribution of medical supplies and equipment...
+related to combating the COVID-19 pandemic."22 These funds do not appear to have been provided to the DPA
+Fund in the same manner as other DPA appropriations discussed in my testimony; additionally, after September 30,
+2022, the funds could be used for non-DPA pandemic response efforts.23 The Department of Health and Human
+Services appears to have been designated to administer these funds.24
+
+***
+
+Current DPA Authorities
+
+Title I
+
+Title I of the DPA authorizes the President to:
+
+(1) require that performance under contracts or orders (other than contracts of employment) which he deems
+necessary or appropriate to promote the national defense shall take priority over performance under any other
+contract or order, and, for the purpose of assuring such priority, to require acceptance and performance of such
+contracts or orders in preference to other contracts or orders by any person he finds to be capable of their
+performance, and (2) allocate materials, services, and facilities in such manner, upon such conditions, and to such
+extent as he shall deem necessary or appropriate to promote the national defense.25 The use of this priorities and
+allocations authority is coordinated by an interagency body known as the Defense Production Act Committee
+(DPAC), and implemented by a body of regulations known collectively as the Federal Priorities and Allocations
+System (FPAS).26 The regulation most frequently used is the Defense Priorities and Allocations System (DPAS),
+which is administered by the Department of Commerce's Bureau of Industry and Security and is used to support
+programs managed by the Department of Defense, Department of Energy, Department of Homeland Security, and
+other executive departments and agencies.27
+
+***
+
+21 CRS analysis of annual and supplemental appropriations acts. The figure for FY2010-FY2019 includes
+appropriations made as part of the annual defense appropriations acts for those years. The figure for FY2020-
+FY2023 includes appropriations made as part of the annual defense appropriations acts for FY2020 (approximately
+$64 million), FY2021 (approximately $175 million), FY2022 (approximately $388 million), and FY2023
+approximately ($373 million), as well as the CARES Act of 2020 ($1 billion), the Additional Ukraine Supplemental
+Appropriations Act of 2022 ($600 million), and the Inflation Reduction Act of 2022 ($500 million).
+
+22 American Rescue Plan Act of 2021 (P.L. 117-2)
+
+23 "After September 30, 2022, amounts appropriated in subsection (a) may be used for any activity authorized by
+paragraph (1), or any other activity necessary to meet critical public health needs of the United States, with respect
+to any pathogen that the President has determined has the potential for creating a public health emergency." Ibid.
+
+                                                                                               Page 6 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+24 According to GAO, as of December 2021, HHS had planned to spend at least $6 billion of these funds on
+projects to expand the production of vaccine supplies ($3.4 billion, personal protective equipment ($1.4 billion), and
+testing capacity ($1 billion), among other things. See Government Accountability Office, COVID-19: Agencies Are
+Taking Steps to Improve Future Use of Defense Production Act Authorities, December 2021. Available online at
+https://www.gao.gov/assets/gao-22105380.pdf , pp. 15-16.
+
+25 50 U.S.C. Sec.4511. According to DOD, the allocations authority has not been invoked since 1974, although it
+remains the basis of the Civil Reserve Air Fleet (CRAF) program, which was first established in 1951.
+
+26 The DPAC is established by 50 U.S.C. Sec.4567 (a provision of Title VII). Current DPAC membership includes
+the Secretaries of Agriculture, Commerce, Defense, Energy, Homeland Security, Health and Human Services, the
+Interior, Labor, Transportation, (continued...) Congressional Research Service 5
+
+***
+
+DPAS enables the U.S. government to place priority ratings and specify delivery dates on contracts and purchase
+orders with suppliers.28 DOD is the "primary user" of DPAS, using the system to place an average of 300,000 rated
+orders with industry annually.29 Although most uses of Title I authorities are handled through DPAS, there are also
+systems for the exercise of priorities and allocations authorities in other areas.30 Within the past decade, many of
+the non-DOD uses of Title I have occurred in the context of public health. As part of its COVID-19 response, for
+instance, the Department of Health and Human Services reported issuing 70 priority ratings for health-related
+purposes (including contracts for ventilators, personal protective equipment, vaccines, and diagnostics).31 Some
+other non-DOD uses of Title I authorities have occurred in the context of disaster relief, or relieving commercial
+shortages of goods and materials judged to be important (for example, baby formula and natural gas).32 Title III
+
+Title III of the DPA authorizes the President to provide financial assistance to private industry in order to "create,
+maintain, protect, expand, or restore domestic industrial base capabilities essential for the national defense."33 This
+assistance may take the form of loan guarantees, loans, purchases, purchase commitments, subsidy payments, or
+related aid provided directly to eligible business concerns (i.e., businesses in the United States, Canada, Australia,
+or the United Kingdom that meet the definition of domestic sources under 50 U.S.C. Sec.4552).34 Such assistance
+may be paid for by monies appropriated by Congress to the DPA Fund. Appropriations made to the DPA Fund
+generally remain available to the President until expended, but the fund's unobligated balance at the end of each
+fiscal year may not exceed $750 million.35 and the Treasury, as well as the Attorney General, the Directors of
+National Intelligence and the Central Intelligence Agency, the Administrators of General Services and the National
+Aeronautics and Space Administration, and the Chair of the Council of Economic Advisors. Federal Emergency
+Management Agency, The 2022 Defense Production Act Committee Report, August 1, 2023.
+
+***
+
+27 The DPAS is implemented by 15 CFR Part 700.
+
+28 DPAS allows for two different priority ratings--DX and DO. All DX-rated orders have equal priority with each
+other and take precedence over both DO-rated and unrated orders; similarly, all DO-rated orders have equal priority
+with each other and take precedence over unrated orders. In the event of conflict between orders with equal priority,
+a procedure known as Special Priorities Assistance may be necessary to resolve the issue. See 15 CFR 700.11-
+700.14 and 15 CFR 700.50-700.58.
+
+29 By way of comparison, the Department of Homeland Security reported placing 120 rated orders with industry in
+2022. FEMA, The 2022 Defense Production Act Committee Report, pp. III and 6.
+
+30 Examples include the Agricultural Priorities and Allocations System, or APAS, the Health Resources Priorities
+and Allocations System, or HRPAS, etc. Ibid.
+
+                                                                                               Page 7 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+31 "HHS DPA Authorities," Department of Commerce, Bureau of Industry and Security, June 2022. Available online
+at      chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bis.doc.gov/index.php/documents/2022-
+update-conference/3066-hrpas-slides-bis-2022-conference-v5/file.
+
+32 For more information, see CRS Report R43767, The Defense Production Act of 1950: History, Authorities, and
+Considerations for Congress, by Alexandra G. Neenan and Luke A. Nicastro.
+
+33 50 U.S.C. Sec.4533.
+
+34 Loan guarantees are provided for by 50 U.S.C. Sec.4531 (also referred to as Section 301), loans by 50 U.S.C.
+Sec.4532 (Section 302), and other means of assistance by 50 U.S.C. Sec.4533 (Section 303).
+
+35 The current limit of $750 million was established in 2009 by P.L. 111-67. Congress may also make
+appropriations that are available only for particular periods of time (for example, the appropriations made to the
+DPA Fund via the Inflation Reduction Act of 2022 (P.L. 117-69) expire at the end of FY2024). 50 U.S.C. Sec.4534.
+
+***
+
+Before providing Title III assistance, the President must certify through a written Presidential Determination (PD)
+that:
+
+(A) the industrial resource, material, or critical technology item is essential to the national defense;
+
+(B) without Presidential action... United States industry cannot reasonably be expected to provide the capability for
+the needed industrial resource, material, or critical technology item in a timely manner; and
+
+(C) purchases, purchase commitments, or other action pursuant to this section are the most cost effective,
+expedient, and practical alternative method for meeting the need.36
+
+The President must also notify the congressional committees of jurisdiction of a shortfall prior to taking Title III
+action. If an action proposed under an existing PD would cause the total value of all actions taken under that PD to
+exceed $50 million, the President must have prior congressional authorization, and the action may not be taken
+until 30 days after the committees of jurisdiction have been notified in writing.37 The above certification, notification,
+and authorization requirements may be waived during a period of national emergency declared by Congress or the
+President, or if the President determines that "action is necessary to avert an industrial resource or critical
+technology item shortfall that would severely impair national defense capability."38 E.O. 13603 provides for the
+delegation of Title III authorities (other than those explicitly identified in statute as nondelegable) to "the head of
+each agency engaged in procurement for national defense."39
+
+As with Title I, DOD is involved in a large number of Title III uses. On a day-to-day basis, DOD's Title III activities
+are overseen by the Manufacturing Capability Expansion and Investment Prioritization (MCEIP) office, which
+reports to the Assistant Secretary of Defense for Industrial Base Policy (ASD [IBP]). According to MCEIP, Title III
+assistance is intended to: 1) sustain critical production; 2) commercialize research and development efforts; and 3)
+scale emerging technologies. Current Title III projects include investments in "select kinetic capabilities,
+microelectronics, castings and forgings, critical materials, and batteries and energy storage."40 According to DOD,
+PDs or waivers are currently active for nineteen distinct defense-related industrial/technology areas.41 As of
+February 2024, DOD reported having obligated approximately $683.4 million across 43 separate Title III projects for
+FY2023 and $352.6 million across 13 separate Title III projects for FY2024./42 In addition to DOD, other executive
+departments and agencies also administer Title III projects. For example, in June 2022 the Biden Administration
+issued a PD allowing the Department of Energy (DOE) to execute Title III projects relating to solar energy,
+transformers and other electrical grid components, heat pumps, insulation, and electrolyzers, fuel cells, and
+platinum group metals.43 According to DOE, activities conducted under this PD will be funded by $250 million of
+the $500 million appropriated to the DPA Fund by the Inflation Reduction Act of 2022./44
+
+***
+
+                                                                                               Page 8 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+36 50 U.S.C. Sec.4533(a)(5).
+
+37 50 U.S.C. Sec.4533(a)6).
+
+38 50 U.S.C. Sec.4533(a)(7).
+
+39 Section 801(h) of E.O. 13603 includes "the heads of the Departments of State, Justice, the Interior, and
+Homeland Security, the Office of the Director of National Intelligence, the Central Intelligence Agency, the National
+Aeronautics and Space Administration, the General Services Administration, and all other agencies with authority
+delegated under section 201 of this order." Under Section 201 of the executive order, the additional agencies are
+the Departments of Agriculture, Commerce, Defense, Energy, Health and Human Services, and Transportation. In
+addition, E.O. 13911 of March 27, 2020 delegated certain Title III authorities to the Secretaries of Health and
+Human Services and Homeland Security for the purposes of COVID-19 response.
+
+40 MCEIP, "Defense Production Act Title III," January 2024.
+
+41 Ibid.
+
+42 DOD, "DPA Title III Status of Funds," February 6, 2024.
+
+***
+
+Title VII
+
+Title VII contains various authorities and provisions pertaining to the DPA as a whole, including, inter alia,
+definitions of key terms, the authority to obtain information for industrial base assessments, the authority to form
+voluntary agreements with and among private businesses, the authority to establish a reserve of industry
+executives able to fill senior government positions in an emergency, a standing authorization for certain DPA
+appropriations, a provision for the termination of most DPA provisions, the authority to review and block certain
+transactions involving foreign investment in U.S. companies, and the establishment of a Defense Production Act
+Committee to coordinate the use of Title I authorities. More information on selected provisions is provided below.
+
+***
+
+Definitions of Key Terms
+
+Title VII (50 U.S.C. Sec.4552) defines seventeen key terms, the most significant of which are national defense,
+because this determines the purposes for which DPA authorities may be used, and domestic source, because this
+determines which businesses are eligible for Title III assistance (see inset textbox below for definitions). National
+Defense National Defense and and Domestic SourceDomestic Source, as defined by , as defined by 50 U.S.C.
+Sec.455250 U.S.C. Sec.4552 National Defense. "The term "national defense" means programs for military and
+energy production or construction, military or critical infrastructure assistance to any foreign nation, homeland
+security, stockpiling, space, and any directly related activity. Such term includes emergency preparedness activities
+conducted pursuant to title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C.
+5195 et seq.] and critical infrastructure protection and restoration." Domestic Source. "Except as provided [for the
+purposes of subchapter II] the term "domestic source" means a business concern that performs in the United States
+or Canada substantially all of the research and development, engineering, manufacturing, and production activities
+required of such business concern under a contract with the United States relating to a critical component or a
+critical technology item; and that procures from business concerns [business concerns that perform substantially all
+U.S. government contract work in the United States or Canada] substantially all of any components and assemblies
+required under a contract with the United States relating to a critical component or critical technology item. For
+purposes of subchapter II, [i.e., DPA Title III] the term "domestic source" means a business concern that performs
+substantially all of the research and development, engineering, manufacturing, and production activities required of
+such business concern under a contract with the United States relating to a critical component or a critical
+technology item in the United States or Canada; or... Australia or the United Kingdom; and procures from [business
+
+                                                                                               Page 9 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+concerns that perform substantially all U.S. government contract work in the United States, Canada, Australia, or
+the United Kingdom] substantially all of any components or assemblies required under a contract with the United
+States relating to a critical component or critical technology item." 50 U.S.C. Sec.4552 also establishes additional
+restrictions on Title III assistance to Australia or UK-based businesses, stating that such businesses may be treated
+as domestic sources only for "national defense matters" that cannot be fully addressed with U.S. or Canada-based
+businesses.
+
+***
+
+43 Department of Energy, "President Biden Invokes DPA to Accelerate Domestic Manufacturing of Clean Energy,"
+June 6, 2022, available online at https://www.energy.gov/articles/president-biden-invokes-defense-production-act-
+accelerate-domestic-manufacturing-clean.
+
+44 This has been the subject of some political controversy; see discussion in the "Overseeing Executive Branch
+Use" section below. Ibid.
+
+***
+
+Industrial Base Assessments
+
+Title VII (50 U.S.C. Sec.4555) authorizes the President, by regulation, subpoena, or otherwise, to obtain such
+information from, require such reports and the keeping of such records by, make such inspection of the books,
+records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and
+affirmations to, any person as may be necessary or appropriate, in his discretion, to the enforcement or the
+administration of this chapter and the regulations or orders issued thereunder. The authority of the President under
+this section includes the authority to obtain information in order to perform industry studies assessing the
+capabilities of the United States industrial base to support the national defense.45 This authority is most commonly
+associated with the conduct of surveys and investigations of the U.S. defense industrial base, often referred to as
+"industrial base assessments."46
+
+***
+
+Voluntary Agreements
+
+Title VII (50 U.S.C. Sec.4558) authorizes the President to "consult with representatives of industry, business,
+financing, agriculture, labor, and other interests in order to provide for the making by such persons, with the
+approval of the President, of voluntary agreements and plans of action to help provide for the national defense." To
+protect such representatives from potential legal sanction, this section of the DPA establishes a special legal
+defense for parties to voluntary agreements whose actions may otherwise violate antitrust or contract statutes.47
+Nucleus Executive Reserve
+
+Title VII (50 U.S.C. Sec.4560) authorizes the President to create a volunteer body of industry executives known as
+the "Nucleus Executive Reserve" (also referred to as the National Defense Executive Reserve), who could be
+trained and appointed to fill executive positions within the federal government in the event of an emergency
+requiring their employment.
+
+***
+
+Standing Authorization of DPA Appropriations
+
+Title VII (50 U.S.C. Sec.4561) authorizes $133 million in appropriations to carry out the DPA for each fiscal year,
+along with an additional $117 million to carry out Title III activities for FY2020, FY2021, FY2022, FY2023, and
+FY2024.
+
+***
+
+                                                                                             Page 10 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+Termination of the DPA
+
+Title VII (50 U.S.C. Sec.4564) provides that all DPA provisions not explicitly excepted will terminate on September
+30, 2025./48
+
+***
+
+45 50 U.S.C. Sec.4555.
+
+46 For some examples, see Department of Commerce, "Industrial Base Assessments," available online at
+https://www.bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/industrial-base-assessments.
+
+47 One example of such a voluntary agreement is the Voluntary Intermodal Sealift Agreement (VISA), an
+agreement with maritime shipping firms intended to provide the U.S. military with rapid mobilization, deployment,
+and transportation capabilities in a crisis. For more information, see discussion in CRS Report R43767, The
+Defense Production Act of 1950: History, Authorities, and Considerations for Congress, p. 15.
+
+48 The provisions that are exempt from termination are 50 U.S.C. Sec.4514 (which prohibits both the imposition of
+wage or price controls without prior congressional authorization and the mandatory compliance of any private
+person to assist in the production of chemical or biological warfare capabilities), 50 U.S.C. Sec.4557 (which grants
+persons limited immunity from liability for complying with DPA-authorized regulations), 50 U.S.C. Sec.4558 (which
+provides for the establishment of voluntary agreements), (continued...) and 50 U.S.C. Sec.4565 (the so-called
+Exon-Florio Amendment, which gives the President and CFIUS review authority over certain corporate acquisition
+activities). 50 U.S.C. Sec.4564.
+
+***
+
+Committee on Foreign Investment in the United States
+
+The Committee on Foreign Investment in the United States (CFIUS) is an interagency committee tasked with
+reviewing the national security risks of certain foreign investments in the U.S. economy. Although initially
+established by executive order and not typically considered of a piece with other DPA provisions, many elements of
+CFIUS were statutorily enacted via the amendment of Title VII of the DPA, and are thus codified within Chapter 55
+of Title 50 (particularly 50 U.S.C. Sec.4565).49 For more information, refer to CRS In Focus IF10177, The
+Committee on Foreign Investment in the United States and CRS Report RL33388, The Committee on Foreign
+Investment in the United States (CFIUS).
+
+***
+
+The Defense Production Act Committee
+
+Title VII (50 U.S.C. Sec.4567) establishes the Defense Production Act Committee, an interagency body, to
+"coordinate and plan for the effective use of the priorities and allocations authorities."50
+
+***
+
+Issues Facing Congress
+
+Funding the DPA
+
+One issue Congress regularly faces is the question of how much money to appropriate for DPA activities. As noted
+above, appropriations for DPA activities increased significantly beginning in 2020. Congress may consider whether
+or not to continue to make appropriations at this elevated level going forward. This decision could hinge on a
+number of factors, including the range of areas in which Congress assesses DPA uses are desirable or appropriate,
+as well as Congress' confidence in the executive's ability to effectively spend DPA appropriations.
+
+                                                                                             Page 11 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+Congress may also assess whether or not to change its appropriations practices, as they pertain to the DPA. If
+Congress wishes to exercise more control over how the President spends DPA funds, it could write into such
+appropriations language that designates particular departments or agencies to administer the funds, or that
+specifies the exact purposes for which the funds may be used. If Congress has concerns about the rate of
+executive expenditure, it could also provide for the expiration of DPA appropriations (currently, most appropriations
+to the DPA fund are made as 'no-year money'). On the other hand, if Congress assesses that current requirements
+unnecessarily constrain executive action, it could relax or eliminate some funding requirements for Title III actions
+(such as the stipulation in 50 U.S.C. Sec.4534 that the DPA Fund's unobligated balance may not exceed $750
+million at the end of each fiscal year).
+
+***
+
+Overseeing Executive Branch Use of DPA authorities
+
+Another issue facing Congress is how to oversee the executive branch's use of its DPA authorities. Some
+commentators and policymakers have argued that some uses of DPA authorities have exceeded the intent of the
+statute, expanded executive power at the expense of Congress, and harmed the nation's economic health and
+national security.51 Others maintain that the DPA has been used appropriately and productively, and supporting
+necessary executive responses to major crises including the COVID-19 pandemic, the 2022 Russian invasion of
+Ukraine, and climate change.52 Still others have argued that, at least in the context of disaster response, the
+executive branch has not used the DPA expansively enough.53 With respect to oversight of Title I, scrutiny has
+tended to focus on the unintended consequences of prioritizing non-defense contracts during the COVID-19
+pandemic.54
+
+***
+
+49 CRS Report R43767, The Defense Production Act of 1950: History, Authorities, and Considerations for
+Congress, pp. 17-18.
+
+50 Membership includes "the head of each Federal agency to which the President has delegated authority under
+this chapter; and the Chairperson of the Council of Economic Advisors." 50 U.S.C. Sec.4567
+
+51 For examples of this kind of argument, see Oliver McPherson-Smith, "Manufacturing a Crisis: The Biden
+Administration's Abuse of the Defense Production Act," The America First Policy Institute, January 11, 2024,
+available    online    at   (continued...)   https://americafirstpolicy.com/issues/manufacturing-a-crisis-the-biden-
+administrations-abuse-of-the-defense-production-act; Dominic Pino, "Biden's Flagrant Abuse of Emergency Powers
+Must      Be      Stopped,"      National     Review,       June       7,     2022,      available     online     at
+https://www.nationalreview.com/2022/06/bidens-flagrant-abuse-of-emergency-powers-must-be-stopped/;            Maiya
+Clark and Grace Hermanson, "Biden Abuses Executive Authority to Pursue His Environmental Agenda," The
+Heritage    Foundation,    June     21,    2022,    available    online    at   https://www.heritage.org/renewable-
+energy/commentary/biden-abuses-executive-authority-pursue-his-environmental-agenda;
+
+***
+
+For instance, GAO observed in 2021 that the use of Title I authorities had the potential to exacerbate health-related
+material shortages, and a 2021 journal article--again in the context of COVID-19 response efforts--identified
+"significant ethical issues at stake in the use of the DPA to abruptly alter pharmaceutical manufacturing, even
+temporarily."55 As the DPA authority involving the largest expenditures, Title III tends to attract considerable
+attention from an oversight perspective. One usage that has been subject to acute criticism has been the issuance
+of a PD authorizing the Department of Energy to spend up to $250 million on projects aimed at expanding the
+production of clean energy technologies (see "Title III" section above for more information).56 Although Title VII has
+attracted less scrutiny than the DPA's other titles, some analysts have criticized its presumed invocation (via E.O.
+14110, issued in October 2023) to require certain artificial intelligence developers to share safety test results and
+related information, arguing that "the administration is bending the law to fit its policy goals."57
+
+                                                                                             Page 12 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+***
+
+52 For examples of this kind of argument, see Evergreen Action, "The Defense Production Act Can Be Our Next
+Major Climate Tool," June 14, 2023, available online at https://www.evergreenaction.com/blog/the-defense-
+production-act; Robinson Meyer, "Biden's Climate Goals Rest on a 71-Year-Old Defense Law," The Atlantic, June
+8, 2022, available online at https://www.theatlantic.com/science/archive/2022/06/defense-production-act-biden-
+climate/661215/; and Joshua Gotbaum, "Use the Defense Production Act for More than just Ventilators," Brookings
+Institution, March 30, 2020, available online at https://www.brookings.edu/articles/use-the-defense-production-act-
+for-more-than-just-ventilators/.
+
+53 Jared Brown, "The Defense Production Act and the Failure to Prepare for Catastrophic Incidents," War on the
+Rocks, April 14, 2020, available online at https://warontherocks.com/2020/04/the-defense-production-act-and-the-
+failure-to-prepare-for-catastrophic-incidents/.
+
+54 One pre-COVID oversight issue involving Title I occurred in early 2001, when decisions by the Clinton and Bush
+Administrations to use Title I to compel natural gas suppliers to sell their products to California utilities provoked
+considerable debate, including congressional hearings on the subject. For more information, see United States
+Senate, Hearing Before the Committee on Banking, Housing, and Urban Affairs on Review of the Defense
+Production Act in Relation to the California Energy Crisis - February 9, 2001 (Washington: Government Printing
+Office, 2002).
+
+55 According to GAO: "An HHS official told us that priority ratings were placed on multiple ventilator and N95
+respirator contracts. Ventilators and N95 respirators share a common raw material--meltblown fabric, which was in
+short supply early in the pandemic--and the official said more than 10 companies with priority ratings were trying to
+obtain this material at the same time. To avoid material shortages, HHS officials worked with the ventilator and N95
+companies to identify alternative suppliers and methods for producing meltblown fabric." GAO, COVID-19 Agencies
+Are Taking Steps to Improve Future Use of Defense Production Act Authorities, December 2021, p. 14, available
+online at https://www.gao.gov/assets/gao-22-105380.pdf; and Gabriella Smith, "The Bioethical Problems in
+Applying the Defense Production Act to Pharmaceuticals," Voices in Bioethics, Vol. 7 (2021), available online at
+https://journals.library.columbia.edu/index.php/bioethics/article/view/8678
+
+56 See footnote 51 for some examples of criticism of this action.
+
+57 See Gary J. Schmitt, "The Use and Abuse of the Defense Production Act," American Enterprise Institute,
+November 3, 2023. Available online at https://www.aei.org/social-cultural-and-constitutional-studies/the-use-and-
+abuse-of-the-defense-production-act/. The DPA is invoked in Section 4.2 of E.O. 14110. "Executive Order 14110 of
+October 30, 2023 (Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence)," available
+online     at     https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-
+development-and-use-of-artificial-intelligence.
+
+***
+
+If Congress were to assess that the executive branch is not using DPA authorities in an effective or appropriate
+manner, there are a number of possible responses. Congress could consider legislative provisions directing the
+President and/or Cabinet officials to modify their usage of DPA authorities to conform with congressional priorities
+(this has been done, for example, through the enactment of provisions in National Defense Authorization Acts).58 In
+overseeing Title III actions specifically, Congress may assess the extent to which its own industrial base objectives
+and priorities are reflected in the choice of Title III projects pursued by the executive branch. In addition, it may
+assess the degree to which past Title III projects have successfully created, maintained, or expanded industrial
+base capabilities critical to national defense. It could also consider whether or not to impose conditions on DPA
+appropriations to ensure they are being used according to congressional intent, or create additional notification or
+authorization requirements to constrain the executive's ability to execute Title III projects without congressional
+involvement or awareness.59 More broadly, if Congress were to determine that the existing statutory definitions
+
+                                                                                             Page 13 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+afford the executive too much or too little latitude, it could amend those definitions (particularly national defense and
+domestic source) to encompass broader or narrower usages. And if Congress seeks more information concerning
+executive branch use of DPA authorities, it could institute additional reporting or notification requirements.
+
+Finally, Congress may assess the efficacy of its own internal approach to overseeing the DPA, particularly given the
+large role played by both the committees of jurisdiction and the armed services committees. Congress may
+consider whether or not to pursue additional coordination practices or mechanisms (for example, a joint committee
+to consider DPA matters existed from 1950 to 1977).60
+
+***
+
+Re-Authorization and Other Amendments
+
+Another issue facing Congress is whether or not re-authorize the expiring provisions of the DPA. Per Title VII
+(specifically, 50 U.S.C. Sec.4564), most of the DPA's provisions will expire on September 30, 2025, so, to retain
+effect, Congress would have to consider acting before that date to extend them.
+
+Historically, the Act's re-authorization has served as an occasion to consider other changes to the statute. In
+addition to the potential legislative changes discussed above, Congress may consider whether or not other
+amendments to the Act might be needed to align the Act's authorities with Congress's assessment of broader
+national industrial strategy and objectives. For example, DOD's 2024 National Defense Industrial Strategy (NDIS)
+states that the United States must "update industrial mobilization authorities and planning to ensure
+preparedness."61 Although the NDIS does not provide specific recommendations regarding the DPA, Congress
+may consider whether to support, reject, or seek to modify DOD's approach to the four priorities the NDIS identifies
+(these are: resilient supply chains, workforce readiness, flexible acquisition, and economic deterrence), and
+whether or not changes to the Act may be needed accordingly.62 As part of this consideration, Congress could
+compare the efficacy of DPA actions with other congressionally-funded efforts to strengthen the defense industrial
+base, such as the Industrial Base Fund and the Manufacturing Technology (or ManTech) program, with an eye
+toward understanding the comparative advantages of each, considering whether to address any conflicts or
+redundancies, and, if so, how.
+
+***
+
+58 For example, Sections 848, 852, 9904, and 9907 of the FY2021 NDAA (P.L. 116-283) provided direction to the
+executive branch concerning the use of DPA authorities.
+
+59 As an example of conditions placed on DPA funds, funds appropriated to the DPA Fund via the Inflation
+Reduction Act of 2022 (P.L. 117-169) expire at the end of FY2024. See discussion in "Funding the DPA" above.
+Congress recently amended Title III to impose additional requirements for certain Title III actions, for example. See
+Section 1080 of the FY2024 NDAA (P.L. 118-31).
+
+60 See footnote 4.
+
+61      DOD,    "National  Defense     Industrial  Strategy,"           January     2024,     available     online     at
+https://www.businessdefense.gov/docs/ndis/2023-NDIS.pdf .
+
+***
+
+62 Although the recommendation to "update industrial mobilization authorities" was made under the "flexible
+acquisition" priority, DOD has elsewhere identified DPA activities as efforts aligned with the "economic deterrence"
+priority. See, for example, MCEIP, "Defense Production Act Title III," January 2024.
+
+***
+
+Conclusion
+
+                                                                                             Page 14 of 14
+      House Financial Services Subcommittee Issues Testimony From Congressional Research Service Defense
+                                             Policy Analyst Nicastro
+
+Thank you for the opportunity to testify. I look forward to responding to any questions that you may have. If
+additional research and analysis related to these issues would be helpful, CRS is prepared to assist.
+
+***
+
+Original   text  here:     https://docs.house.gov/meetings/BA/BA10/20240312/116950/HMTG-118-BA10-Wstate-
+NicastroL-20240312.pdf
 
 Copyright Targeted News Services
 
-                                                                              Page 3 of 3
-                           $2.1M for UH-Led Maui Wildfire Response Research
-
-MSTRUCK-8724858 MSTRUCK
+MSTRUCK-8553971 MSTRUCK
 
 
-Load-Date: July 21, 2024
+Load-Date: March 30, 2024
 
 
   

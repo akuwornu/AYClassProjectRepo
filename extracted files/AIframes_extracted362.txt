@@ -1,103 +1,367 @@
 
 
-                                                                               Page 1 of 2
-         EUROPE'S INSURANCE AND PENSION FUND SECTORS STAY RESILIENT AMID TENSE RISK
-                                        LANDSCAPE
+                                                                                                         Page 1 of 7
+                    House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
 
 
 
 
-  EUROPE'S INSURANCE AND PENSION FUND SECTORS STAY RESILIENT
-                  AMID TENSE RISK LANDSCAPE
-                                                States News Service
-                                              June 27, 2024 Thursday
+      House Agriculture Committee Issues Testimony From CFTC Chairman
+                                   Behnam
+                                                     Targeted News Service
+                                            March 26, 2024 Tuesday 7:50 AM EST
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 868 words
-Byline: States News Service
-Dateline: BRUSSELS
+
+
+
+Length: 3953 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-The following information was released by the European Union:
+The House Agriculture Committee issued the following testimony by Rostin Behnam, chairman of the Commodity
+Futures Trading Commission, involving a hearing on March 6, 2024, on CFTC priorities:
 
-The European Insurance and Occupational Pensions Authority (EIOPA) published today its June 2024 Financial
-Stability Report, which offers a stocktake of key developments and risks in Europe's insurance and occupational
-pensions sectors.
+***
 
-Challenging macroeconomic background
+Chairman Thompson, Ranking Member Scott and members of the Committee, thank you for the opportunity to
+appear before you today to provide an update on the work of the Commodity Futures Trading Commission (CFTC),
+our priorities, and some emerging trends in our jurisdictional space.
 
-Insurers and occupational pension funds are navigating a macroeconomic environment marked by high geopolitical
-tensions, a string of elections in large economies, uncertainties about the economic outlook and waning support for
-globalization and international cooperation.
+For over a century, derivatives markets have played a key role in the U.S. economy, contributing to financial
+stability and predictability of prices that impact the daily lives of all Americans, especially our nation's farmers and
+ranchers. Recognizing the historical roots of our agency and the continued importance of derivatives to agricultural
+stakeholders, I am pleased to announce that the CFTC and the Center for Risk Management Education and
+Research (CRMER) at Kansas State University will be hosting the third Agriculture Commodity Futures Conference
+on April 11th and 12th in Overland Park, Kansas.1 I know I speak for all the Commissioners when I thank CFTC
+staff for their commitment to the agency and its mission. My team and I are working closely with staff and their
+union representatives in order to find a suitable work posture, post-pandemic, that honors the importance of being
+present and together in the office with appropriate flexibility, and ensures our accountability as good stewards of
+taxpayer money. The agency's long-term health and success depend on it.
 
-In the final months of 2023, economic activity stalled due to tight financial conditions and cautious consumer
-spending. Economic growth is expected to remain subdued in 2024. Interest rates in the euro area retreated as
-inflation has fallen close to the European Central Bank's 2% medium-term target, but volatility in that respect
-dominates the debate.
+It has been over 13 years since the Dodd-Frank Wall Street Reform and Consumer Protection Act2 expanded the
+CFTC's authority. In that time, derivatives markets have experienced massive growth: trading volumes in exchange-
+traded futures and options have more than doubled; and the swaps market brought within our jurisdiction pursuant
+to the Dodd-Frank Act is now over $350 trillion,3 which is approximately half of the estimated $715 trillion global
+market.
 
-Financial positions stay strong
+                                                                                                          Page 2 of 7
+                  House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
 
-Europe's insurance and occupational pensions sectors have remained robust on aggregate, despite widespread
-challenges. The insurance sector is solidly capitalized. Median SCR ratios for life insurers and composite
-undertakings have improved throughout the shift from low to higher interest rates, as have profitability levels. Gross
-written premiums in the non-life sector continued to grow while the life business saw a more moderate increase.
+Today, technology is having a larger impact on CFTC jurisdictional markets than ever before. Innovators eager to
+meet demand for products and services are proposing traditional and nontraditional models that leverage
+technology in synergistic ways. At the same time, a growing number of less traditional retail participants are
+entering our markets, enabled by mobile phone application technology and an endless stream of information to
+pursue investment opportunities.
 
-Insurers' liquid assets ratio has remained stable over the past years although there is considerable variation across
-countries. Lapse rates in the life business are fairly stable, though there are some signs of vulnerability.
+***
 
-On the guard for emerging risks
+1 See Press Release Number 8857-24, CFTC, CFTC, Kansas State University Announced Featured Panels for
+AgCon2024 (Feb. 8, 2023), CFTC, Kansas State University Announce Featured Panels for AgCon2024 | CFTC;
+Press Release Number 8832-23, CFTC, AgCon2024 Set for April 11-12 (Dec. 8, 2023), AgCon2024 Set for April
+11-12 | CFTC.
 
-                                                                              Page 2 of 2
-        EUROPE'S INSURANCE AND PENSION FUND SECTORS STAY RESILIENT AMID TENSE RISK
-                                       LANDSCAPE
+2 Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2010) (the
+"Dodd-Frank Act").
 
-In response to the zero-interest rate environment of the past decade, institutional investors including insurers and
-pension funds looked for yields in so-called 'alternative assets'. These assets tend to be more illiquid and often
-more complex in their structure and approach to valuation than conventional asset categories.
+3 CFTC, Weekly Swaps Report, Weekly Swaps Report | CFTC.
 
-EIOPA's Financial Stability Report shows that European insurers invest a large part of their portfolio in European
-assets. 87% of their sovereign bond investments, 80% of their equity holdings and 75% of their corporate bond
-investments go towards European states and companies. The overall portfolio is heavily skewed towards fixed-
-income assets like government and corporate bonds, however, a significant part (16%) of their investments is in
-alternative assets, with real estate investments and private debt-related investments as the largest exposures.
-Insurers allocate 5.7% of their investments to real estate through investment funds, mortgages and property.
-Private debt makes up 2.6% of their total investments while 1.9% is allocated to private equity.
+***
 
-Sizeable allocations to alternative assets that are often illiquid, difficult to valuate and whose valuation is highly
-sensitive to interest rates have raised supervisory and financial stability concerns. As a result, supervisors are
-closely monitoring the risks associated with such investments.
+Surveying the current landscape, the CFTC's regulations have developed over decades to oversee markets made
+of individual, discrete entities, each typically performing one function in a multi-step trade cycle. However, we are
+seeing a shift to structures, driven by technology, that combine or compress what have historically been unique and
+separate activities into a single or fewer entities. This compression raises many important questions including those
+regarding conflicts of interest within vertically integrated structures, the strength of capital, margin, and segregation
+requirements, the role and responsibilities of self-regulatory organizations, affiliate risk management, and most
+importantly, customer protections.
 
-Beyond macro and market risks, insurers and pension funds are also grappling with climate-change related risks as
-well as those linked to digitalization and cybersecurity.
+As this Committee continues to consider reauthorization of the CFTC, I believe there are several important policy
+questions that will benefit from broader Congressional consideration and debate regarding market structure,
+permissible products, and retail participation. While our current regulatory agenda demonstrates significant agility
+within our jurisdictional space, we periodically bump up against the limits of what may be contemplated under
+existing law given the relatively rapid evolution of markets, market structure, and technology.
 
-2023 marked yet another year of high natural disaster losses. Climate change-induced extreme weather events
-caused approximately 240 billion in economic losses worldwide, with insurers covering an estimated 86-98 billion.
-Insured losses from severe rainfall and hail over the past two years set new records in Italy and France even as
-insurance covered only around 10% of the damages. This underscores the urgent need for more action to close
-protection gaps and to continuously revisit insurers' risk assessments, models and data.
+To provide a glaring example from the past decade, the recent technology driven increase in direct retail
+participation in the derivatives markets and underlying commodity markets in areas such as digital commodity
+assets has tested the limits of the existing regulatory framework. The CFTC's mission and duties, while providing
+room for some adaptation to new products and structures, are not endlessly flexible: we must be able to ensure that
+the products offered and available are suitable for all participants, that only appropriate persons or entities may
+solicit or handle customer funds, and that the disclosure information provided is material for main street customers.
 
-Supervisors across Europe are also increasingly concerned about risk related to digitalization. While this risk
-category is currently at a medium level, forward-looking assessments point to an increase, with cybersecurity
-weaknesses and hybrid geopolitical conflicts being the primary concerns. Legislative initiatives such as the Digital
-Operational Resilience (DORA), the Artificial Intelligence Act, and the European Single Access Point (ESAP) all
-aim to enhance the financial sectors' resilience to digital threats. Risk transfer mechanisms are also expected to
-play a key role in the growth of the cyber insurance market. In 2022, primary insurers rechanneled more than half of
-their cyber insurance premiums to reinsurers, and 2023 saw the issuance of the first-ever cyber catastrophe bonds.
+As Chairman, I have stressed that new market structures and participants eager to deploy all manner of financial
+technology must comply with the agency's rules and regulations.4 This is especially true when it comes to
+protecting customers, consumers, and the larger financial markets from fraud, money laundering, and other
+financial crimes. For example, when the use of digital assets and related enabling technologies for illicit financial
+purposes threatens national security and may fund acts of war and terrorism, our laws must continue to
+aggressively demand that all market entrants implement and comply with know-your-customer (KYC) and anti-
+money laundering (AML) procedures, and Customer Information Programs (CIPs).
 
-Petra Hielkema, Chair of EIOPA said: "At a time of growing uncertainties and rising skepticism about the future of
-international cooperation, EIOPA remains steadfast in its mission to foster financial stability in Europe's insurance
-and pension markets. Our industries have demonstrated remarkable resilience and have proven their strength in
-the face of various, rapidly evolving challenges. However, we cannot afford to be complacent going forward. We
-must remain vigilant regarding emerging risks and find responses to them that will further strengthen our sector,
-benefit citizens and contribute to a safer and more sustainable world."
+Enforcement matters like the CFTC's globally significant BitMex5 and Binance6 cases amplify the urgency. I believe
+we could do even more to protect customers and markets if given additional authority in the KYC, AML, and CIP
+space and welcome the opportunity to work with Congress on solutions.
+
+***
+
+                                                                                                         Page 3 of 7
+                  House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
+
+4 See, e.g., Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the 2023 U.S Treasury
+Market Conference (Nov. 16, 2023), Keynote of Chairman Rostin Behnam at the 2023 U.S. Treasury Market
+Conference | CFTC.
+
+5 See Press Release Number 8412-21, CFTC, Federal Court Orders BitMEX to Pay $100 Million for Illegally
+Operating a Cryptocurrency Trading Platform and Anti-Money Laundering Violations (Aug. 10, 2021), Federal Court
+Orders BitMEX to Pay $100 Million for Illegally Operating a Cryptocurrency Trading Platform and Anti-Money
+Laundering Violations | CFTC.
+
+6 See Press Release Number 8680-23, CFTC, CFTC Charges Binance and its Founder, Changpeng Zhao, with
+Willful Evasion of Federal Law and Operating an Illegal Digital Asset Derivatives Exchange (Mar. 27, 2023), CFTC
+Charges Binance and Its Founder, Changpeng Zhao, with Willful Evasion of Federal Law and Operating an Illegal
+Digital Asset Derivatives Exchange | CFTC.
+
+***
+
+The Commission's exercise of its enforcement authorities to address misconduct that has a direct impact on CFTC
+jurisdictional markets, affects the larger economy, causes public harm, or interferes with market integrity is one
+facet of our approach to innovation and the evolution of financial markets.
+
+Nowhere have we been more active than in the digital asset space. In FY 2023, we brought 47 actions involving
+conduct related to digital commodities, representing more than 49% of all CFTC actions filed during that period. A
+staggering statistic given the fact that no federal agency retains any direct regulatory authority over the underlying
+(or cash) digital commodity asset market. To date, FY 2024 is demonstrating a similar cadence.
+
+The lack of legislation addressing the regulatory gap over the digital commodity asset spot market has not hindered
+the public's enthusiasm for digital assets, and I continue to believe Congress must act, as the 2022 FSOC report
+highlighted7, and as I have mentioned publicly on multiple occasions.8 I am grateful to members of this Committee
+for your continued leadership in recognizing these gaps, and for leading legislative efforts to provide the CFTC with
+the necessary authority to properly regulate digital commodity assets and protect the U.S. financial system.
+
+A key to the effectiveness of our enforcement division is the CFTC's whistleblower program. The Dodd-Frank Act
+established the Customer Protection Fund9 that supports our Whistleblower Program10 and the Office of Customer
+Education and Outreach (OCEO). As of FY 2023, the Whistleblower program has issued 41 orders granting awards
+totaling almost $350 million since its inception in FY 2010./11 In fiscal year 2024, the program has, thus far,
+awarded $18 million to whistleblowers. The total sanctions ordered in all whistleblower-related enforcement actions
+has surpassed the $3 billion milestone. Without this important program, the CFTC would not be as successful in
+bringing actions against misconduct in the digital commodity asset spot market.
+
+As this Committee knows, the overwhelming success of the Whistleblower Program has unintentionally led to the
+potential for disruptions in these two vital offices due to their funding mechanisms. In addition to the importance of a
+long-term fix to avoid depletions greater than the total balance of the fund, I believe Congress should amend the
+statutory provisions to clarify the permitted uses of the Customer Protection Fund by the OCEO.12 This change
+would allow the Commission to implement a host of new investor protection programs and provide information
+aimed at ensuring American families have the knowledge and tools to not only protect themselves from fraud and
+manipulation, but to more fully engage with the Commission and the markets we oversee.
+
+***
+
+7 Financial Stability Oversight Council, Report on Digital Assets and Financial Stability Risks and Regulation (Oct.
+2022), Report on Digital Asset Financial Stability Risks and Regulation 2022 (treasury.gov).
+
+8 See, e.g., Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the ABA Business Law
+Section Derivatives & Futures Law Commission Winter Meeting (Jan. 26, 2024), Keynote of Chairman Rostin
+Behnam at the ABA Business Law Section Derivatives & Futures Law Committee Winter Meeting | CFTC.
+
+                                                                                                     Page 4 of 7
+                 House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
+
+9 CEA Sec. 23(g), 7 U.S.C 26(g).
+
+10 COMMODITY FUTURES TRADING COMMISSION WHISTLEBLOWER PROGRAM, CFTC's Whistleblower
+Program | Whistleblower.gov.
+
+11 See CFTC, FY 2023 Whistleblower Program & Customer Education Initiatives 2023 Annual Report (Oct. 2023),
+FY 2023 Whistleblower Customer Education Report to Congress.pdf.
+
+***
+
+One very important topic that continues to challenge the derivatives industry and the CFTC is cyber risk. Last year
+at this time, we were addressing the impacts of a cyber-related incident on ION Cleared Derivatives, a third-party
+service provider.13 The severity of the impact on each futures commission merchant's (FCM's) operations, as well
+as each FCM's ability to work-around impacted applications, varied based on the ION application used.14 Notably,
+the incident impacted the timely and accurate submission of positions data to the CFTC, and therefore delayed the
+timely release of the Commitments of Traders (CoT) report.
+
+Under my direction, the Commission voted unanimously in December to issue a notice of proposed rulemaking to
+require FCMs, swap dealers (SDs), and major swap participants (MSPs) to establish an operational resilience
+framework and adopt non-binding Commission guidance related to the management of risks stemming from third-
+party relationships.15 The proposed rule would require the covered entities to establish, document, implement, and
+maintain an Operational Resilience Framework (ORF). This proposal would require a process to identify, monitor,
+manage, and assess risks relating to IT security, third-party relationships, and emergencies or other significant
+disruptions to their operations as a CFTC registrant.16 The ORF would need to include three components: an IT
+security program, a third-party relationship program, and a business continuity and disaster recovery (BCDR) plan.
+
+***
+
+12 See CEA section 23(g)(2); 7 USC 26(g)(2).
+
+13 See CFTC, CFTC Statement on Ion and the Impact to the Derivatives Markets (Feb. 2, 2023), CFTC Statement
+on ION and the Impact to the Derivatives Markets | CFTC; see also, Press Release Number 8655-23, CFTC, CFTC
+Issues Statement on the Ongoing Impact to Reporting (Feb. 10, 2023), CFTC Issues Statement on the Ongoing
+Impact to Reporting | CFTC; Press Release Number 8662-23, CFTC Announces Postponement of Commitments of
+Traders Reports (Feb. 16, 2023), CFTC Announces Postponement of Commitments of Traders Report | CFTC.
+
+14 See Rostin Behnam, Chairman, CFTC, Keynote of Chairman Rostin Behnam at the FIA Boca 2023 International
+Futures Industry Conference, Boca Raton, Florida (Mar. 15, 2023), Keynote of Chairman Rostin Behnam at the FIA
+Boca 2023 International Futures Industry Conference, Boca Raton, Florida | CFTC; Rostin Behnam, Chairman,
+CFTC, Testimony of Chairman Rostin Behnam Regarding "Oversight of the Commodity Futures Trading
+Commission" before the U.S. Senate Committee on Agriculture, Nutrition, and Forestry (Mar. 8, 2023), Testimony of
+Chairman Rostin Behnam Before the U.S. Senate Committee on Agriculture, Nutrition, & Forestry | CFTC.
+
+15 Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap
+Participants, 89 FR 4706 (Proposed Jan. 24, 2024) (to be codified at 17 C.F.R. pts. 1 and 23), 2023-28745a.pdf
+(cftc.gov).
+
+16 See CFTC, Fact Sheet and Q&A - Notice of Proposed Rulemaking to Require Futures Commission Merchants,
+Swap Dealers, and Major Swap Participants to Establish an Operational Resilience Framework (Dec. 13, 2023),
+available at CFTC to Hold a Commission Open Meeting on December 13 | CFTC.
+
+***
+
+As I have often said, we recognize that our rules apply to covered entities that represent many different business
+models, and may be a part of a larger corporate family subject to the concurrent supervision of multiple domestic
+and perhaps international regulators. CFTC staff have strong working relationships with our fellow market and
+
+                                                                                                        Page 5 of 7
+                  House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
+
+prudential regulators. Whether we are working on joint rulemakings or engaging in discussions regarding policy that
+impacts the derivatives markets directly or indirectly, our approach is always aimed at harmonizing where we can
+and avoiding duplicative and unnecessarily burdensome outcomes. We are actively working with our fellow
+regulators on a number of matters that impact CFTC regulated markets.
+
+Another topic presenting challenges and opportunities for the agency is artificial intelligence (AI). I am proud to
+say that recently the CFTC's new AI Task Force issued a request for comment (RFC) on the use of AI in CFTC-
+regulated markets.17 The AI RFC is part of a greater vision I have had since my first days as Chairman: advancing
+analytical capabilities through building talent, leveraging the cloud, and developing a forward-looking AI culture. We
+have a process in place for exploring AI use cases to help the agency better monitor, regulate, surveil, identify
+pockets of stress, and enforce compliance. Further, our OCEO recently issued a Customer Advisory warning the
+public about AI-driven fraud and scams.18 In December, the Commission proposed guidance regarding the listing
+of voluntary carbon credit (VCC) derivative contracts.19 Identified as one of the most important developments for
+the carbon industry,20 this is the first proposed guidance on standards applicable to exchanges listing products
+aimed at providing tools to manage risk, promote price discovery, and help encourage integrity in these markets.21
+All landowners, including America's farmers and ranchers, can benefit from high integrity voluntary carbon markets.
+
+Under my direction as Chairman, the CFTC hired its first ever Chief Diversity Officer (CDO) who oversees the
+agency's Office of Minority and Women Inclusion (OMWI). In the near future, I plan to release the CFTC's first DEIA
+Strategic Plan. Among other things, the Plan will aim to further develop our workforce. Current efforts through our
+OMWI include establishing partnerships and recruiting at minority serving institutions and rural colleges and
+universities, engaging urban and rural communities and related professional associations, and planning a robust
+mass media campaign to enhance our outreach efforts. I am eager to see the CFTC's OMWI statutorily authorized,
+similar to other federal financial regulators.22
+
+***
+
+17 See Press Release Number 8853-24, CFTC, CFTC Staff Releases Request for Comment on the Use of
+Artificial Intelligence in CFTC-Regulated Markets (Jan. 25, 2024), CFTC Staff Releases Request for Comment on
+the Use of Artificial Intelligence in CFTC-Regulated Markets | CFTC.
+
+18 See Press Release Number 8854-24, CFTC, CFTC Customer Advisory Cautions the Public to Beware of
+Artificial Intelligence Scams (Jan. 25, 2024), CFTC Customer Advisory Cautions the Public to Beware of Artificial
+Intelligence Scams | CFTC.
+
+19 Commission Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts; Request for
+Comment, 88 FR 89410 (Dec. 27, 2023), 2023-28532a.pdf (cftc.gov).
+
+20 See Vasil Valev, COP28 Update on Day Six: The Most Important Developments for the Carbon Industry,
+CARBON HERALD (Dec. 5, 2023), COP28 Update On Day Six: The Most Important Developments For The Carbon
+Industry (carbonherald.com).
+
+21 See Rostin Behnam, Chairman, CFTC, Statement of Chairman Rostin Behnam on the Proposed Commission
+Guidance Regarding the Listing of Voluntary Carbon Credit Derivative Contracts (Dec. 4, 2023), Statement of
+Chairman Rostin Behnam on the Proposed Commission Guidance Regarding the Listing of Voluntary Carbon
+Credit Derivative Contracts | CFTC.
+
+***
+
+Under my direction, the agency also is embarking on developing its first centralized workforce succession planning
+program. The lack of adequate succession planning poses several risks to the agency, including disruption to
+processes, workflows, and protocols that can threaten core functions; the loss of mission critical knowledge and
+expertise; and the increased expense of retaining critical talent in urgent situations. Looking at our workforce
+demographics and trajectory, the inescapable conclusion is that roughly a decade of budget uncertainty is
+
+                                                                                                       Page 6 of 7
+                  House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
+
+degrading our ability to effectively and consistently hire and maintain the skilled workforce necessary to keep pace
+with our jurisdictional markets.
+
+As we near the 50th anniversary of President Ford signing of the Commodity Futures Trading Commission Act of
+1974, we should reflect on the past 50 years of market development, evolution, and growth, while also looking
+forward to the next 50 years, and to the role the CFTC will play in the continued health and dominance of the U.S.
+financial markets and economy. We cannot simply sit back and hope that the next 50 years will replicate the
+success of the past 50. Technology is driving change faster than it ever has, and we collectively must keep up, both
+to set the guardrails that will serve as foundations for customer protections and market resiliency, and to allow for
+growth and innovation.
+
+The CFTC has consistently been at the forefront of identifying and addressing risks with a balanced, thoughtful, and
+measured approach. I strongly believe our collective goal is to keep the U.S. derivatives markets the safest,
+strongest, the most effective, and the most desirable in the world. These goals are necessary to maintain America's
+position as the preeminent economy in the world. These goals are also necessary to maintain national security for
+all Americans. As this Committee knows, our nation's agricultural, energy, and precious metals resources are some
+of our most critical assets. I believe that without a robust derivatives market, these assets cannot be optimally
+utilized. An investment in the CFTC is an investment in America. As Chairman of the agency, you have my
+commitment to work with this committee on achieving these goals. I look forward to your questions.
+
+***
+
+22 Section 342 of the Dodd-Frank Act, codified at 12 U.S.C. 5452, required the Departmental Offices of the
+Department of the Treasury, the Office of the Comptroller of the Currency (OCC), the Board of Governors of the
+Federal Reserve System (Board), each of the Federal reserve banks, the Federal Deposit Insurance Corporation
+(FDIC), the National Credit Union Administration (NCUA), the Bureau of Consumer Financial Protection (CFPB), the
+Federal Housing Finance Agency (FHFA), and the Securities and Exchange Commission(SEC) to each establish
+an Office of Minority and Women Inclusion (OMWI) to be responsible for all matters of the agency relating to
+diversity in management, employment, and business activities. The Act also instructed each OMWI Director to
+develop standards for assessing the diversity policies and practices of entities regulated by the respective agency.
+
+***
+
+Rostin Behnam was sworn in as the CFTC's 15th Chairman on January 4, 2022 after being unanimously confirmed
+by the U.S. Senate. Previously, Chairman Behnam served as CFTC Commissioner since September, 2017. The
+members of the Commission elected Commissioner Behnam as Acting Chairman effective January 21, 2021. Since
+joining the CFTC, Chairman Behnam has individually and as sponsor of the CFTC's Market Risk Advisory
+Committee (MRAC) advocated for the CFTC to use its authority and expertise to ensure the derivatives markets
+operate transparently and fairly for participants and customers. Through his MRAC sponsorship, Chairman Behnam
+convened leading market experts and public interest groups to engage in public dialogue on such timely issues as
+global interest rate benchmark reform, central counterparty (CCP) risk and governance, evolving market structures,
+and since the summer of 2019, climate-related market risk. During his time as Commissioner, Chairman Behnam
+also spearheaded efforts to invigorate internal discussions on agency-wide diversity and inclusion initiatives. He
+remains committed to ensuring that the CFTC remains vigilant in building and maintaining an inclusive workforce,
+supportive of employees and reflective of the diversity in the markets it oversees and the public it serves.
+
+Chairman Behnam's arrival at the CFTC followed extensive experiences in financial and agricultural markets. As
+Senior Counsel to Senator Debbie Stabenow of Michigan, Chairwoman of the U.S. Senate Committee on
+Agriculture, Nutrition, and Forestry, he primarily focused on policy and legislative matters related to the CFTC and
+the U.S. Department of Agriculture, agencies within the direct jurisdictional purview of the Committee. Chairman
+Behnam's major responsibilities included advising Senator Stabenow on the implementation of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act and related matters affecting the Treasury Department, the U.S.
+prudential regulators, and the Securities and Exchange Commission. After graduating from Georgetown University,
+Chairman Behnam worked as a proprietary equities trader in New York City before pursuing a Juris Doctorate at
+
+                                                                                                 Page 7 of 7
+                    House Agriculture Committee Issues Testimony From CFTC Chairman Behnam
+
+Syracuse University. During his legal studies, Chairman Behnam interned with the CFTC's Division of Enforcement
+in the New York Regional Office. Upon graduation, he returned to his home state of New Jersey and joined the
+Bureau of Securities within the state's Office of the Attorney General. Following his time with the Bureau of
+Securities, Chairman Behnam practiced law in New York City.
+
+***
+
+Original text here: https://agriculture.house.gov/uploadedfiles/behnam_testimony_package.pdf
+
+Copyright Targeted News Services
+
+MSTRUCK-8546546 MSTRUCK
 
 
-Load-Date: July 27, 2024
+Load-Date: March 26, 2024
 
 
   

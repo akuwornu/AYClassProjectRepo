@@ -1,101 +1,123 @@
 
 
-                                                                                                      Page 1 of 2
-        Redis Cloud Is Now Available in Saudi Arabia on Google Cloud The world's fastest data platform offers
-                          developers in the Saudi Kingdom enhanced data security, re....
+                                                                                                  Page 1 of 3
+   ConnectWise Supercharges Startups Globally with 2024 PitchIT Accelerator Program: Applications Now Open
+                       PitchIT Enables Businesses to Unleash Innovation, Showca....
 
 
 
 
-Redis Cloud Is Now Available in Saudi Arabia on Google Cloud; The world's
-fastest data platform offers developers in the Saudi Kingdom enhanced data
-          security, regional data residency, and fast real-time apps.
-                                                     Business Wire
-                                         August 6, 2024 Tuesday 1:00 PM GMT
+ ConnectWise Supercharges Startups Globally with 2024 PitchIT Accelerator
+  Program: Applications Now Open; PitchIT Enables Businesses to Unleash
+     Innovation, Showcase Solutions at IT Nation Connect, Integrate with
+                   ConnectWise, and Win a $70,000 Grant
+                                                         GlobeNewswire
+                                            February 1, 2024 Thursday 6:00 AM PT
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 746 words
-Dateline: SAN FRANCISCO
+
+
+
+Section: COMPANY ANNOUNCEMENT; CONTESTS/AWARDS
+Length: 1035 words
 
 Body
 
 
-Today, Redis announced the availability of Redis Cloud on Google Cloud in the Kingdom of Saudi Arabia (KSA).
-This expansion empowers businesses across the country to unlock the power of the world's fastest data platform
-with industry-leading security, strong data residency guarantees, and access to a thriving cloud marketplace .
+TAMPA, Fla., Feb. 01, 2024 (GLOBE NEWSWIRE) -- ConnectWise, the world’s leading software company
+dedicated to the success of technology solution providers (TSPs), today announced the highly anticipated launch of
+the 2024 PitchIT Accelerator Program, a prestigious worldwide competition that invites companies to highlight their
+innovative solutions and be discovered for their next-generation technology with the potential to revolutionize the
+industry.
 
-Redis Cloud unlocks the full potential of Redis, from modern caching , to powerful document and vector databases ,
-all delivered as a managed service letting customers fast apps, fast without managing complex infrastructure. Redis
-Cloud unifies all these functionalities under a single platform, streamlining development and maximizing
-performance, while always providing the latest Redis features.
+ConnectWise PitchIT 2024, now in its sixth year, is built to unleash the global power of innovation for the IT channel
+ecosystem. It is a program that enables startup organizations to discover growth paths through the ConnectWise
+comprehensive accelerator program, which offers grant money, access to the IT Nation community, marketplace,
+and expert guidance. This program aims to help platform integrators achieve product-market fit, tap into a hungry
+channel of adopters, and unlock the SMB channel as a lucrative growth market.
 
-Redis Cloud on Google Cloud gives devs in Saudi Arabia access to a data platform that lets them build at global
-scale while meeting local requirements, while reducing infrastructure costs and maintenance. Redis Cloud offers:
-    •     Security: Redis Cloud on Google Cloud meets the Kingdom of Saudi Arabia's strict data privacy
-          requirements offering built-in encryption at rest and in transit, and advanced access controls.
-    •     Data Residency: Keeping data within the Kingdom's borders is crucial for many organizations. Redis Cloud
-          on Google Cloud offers regional deployments, guaranteeing data stays within the Kingdom of Saudi
-          Arabia.
-    •     Speed: Fast in-memory data processing for real-time applications is crucial for key industries in KSA,
-          including financial services, gaming, digital native, and retail. Redis Cloud provides a fast infrastructure for
-          real-time fraud detection, session management, online banking performance, personalized
-          recommendations, API modernization, and microservices architecture.
-    •     Scalability and durability: Redis Cloud can easily adapt to increasing data volumes or user traffic and the
-          system can be seamlessly scaled-out to handle growing demands without sacrificing performance.
-    •     Availability: Within a region Redis Cloud provides 99.99% availability to ensure that businesses have high
-          availability for their Redis deployments, minimizing downtime and data loss. Additionally Redis Cloud offers
-          exceptional reliability for cross-regional deployments, with an impressive 99.999% availability, ensuring
-          near-constant data availability across geographically dispersed locations.
+“In the span of five years, we have had the privilege of hosting 62 companies in this esteemed competition, with last
+year alone witnessing the participation of representatives from six different countries," stated Jason Magee, CEO at
+ConnectWise. "We were truly exhilarated by the exceptional talent showcased by the finalists and Thread, the
+deserving first-place winner. Their innovative, collaborative AI (Artificial Intelligence) solution for MSPs (Managed
+Service Providers) left an impression on judges, attendees, and the IT channel ecosystem. As we eagerly anticipate
+the applications for the 2024 program, we remain committed to fueling new innovations and integrations that bring
+added value to our esteemed partner community.”
 
-                                                                                                      Page 2 of 2
-        Redis Cloud Is Now Available in Saudi Arabia on Google Cloud The world's fastest data platform offers
-                          developers in the Saudi Kingdom enhanced data security, re....
+                                                                                                 Page 2 of 3
+  ConnectWise Supercharges Startups Globally with 2024 PitchIT Accelerator Program: Applications Now Open
+                      PitchIT Enables Businesses to Unleash Innovation, Showca....
 
-    •     Gen AI infrastructure: Vector databases have become crucial for efficiently storing, indexing, and retrieving
-          the high-dimensional vectors used in GenAI apps. Redis Cloud provides the fastest vector database in the
-          market that enables fast similarity searches, handles large-scale data, optimizes performance, integrates
-          seamlessly with AI and machine learning workflows, and supports complex operations on vector data.
+“We are thrilled to witness the tremendous excitement and pride surrounding the remarkable growth of the PitchIT
+program, as well as its expansion with applicants from around the world,” said Sean Lardo, Economy Evangelism
+Director at ConnectWise. “ConnectWise continues to make significant investments in startup technology companies
+globally, further exemplifying our unwavering dedication to fostering economic success. With boots on the ground,
+we are committed to providing the necessary resources and support to empower our valued partners through the
+program and drive their continued growth and prosperity.”
 
-Redis Cloud also maximizes deployment agility and cost efficiency by having a unique and differentiated
-architecture that lets companies deploy Redis databases on-demand, while not multiplying the underlying cloud
-infrastructure footprint. Each Redis database can have its unique configuration for each specific workload in
-isolation so business operations are cheaper, simpler, and more scalable.
+PitchIT exemplifies the company’s commitment to providing a platform for entrepreneurs to highlight their talents
+globally. The IT channel industry presents a vibrant global market that eagerly embraces innovative solutions from
+startups and emerging companies worldwide. ConnectWise actively encourages participation from every continent
+to apply.
 
-Redis Cloud can also be deployed natively on Google Kubernetes Engine (GKE) bringing additional flexibility and
-alignment with container & Kubernetes initiatives. It's also available for Google Cloud Anthos, as well as traditional
-on-premise Kubernetes, VM or bare metal.
+ConnectWise offers customized support to help applicants achieve product-market fit and gain traction among the
+global IT Solution Provider community, whether in EMEA, APAC, or the Americas. The ConnectWise team will work
+closely with them to understand the unique challenges and opportunities for applications, ensuring that they have
+the necessary resources and guidance to succeed. Additionally, the company’s global network and marketplace
+connect businesses with potential users and growth opportunities, enabling growth and expansion into new
+markets.
 
-Google Cloud Marketplace benefits
+Selected applicants will have the opportunity to work closely with respected industry experts from ConnectWise and
+other organizations. Through comprehensive business accelerator sessions covering sales, marketing, value
+proposition, market readiness, and more, contestants will receive invaluable guidance to refine their respective
+offerings. The culmination of this journey will be a live-streamed PitchIT competition later this year, where three
+finalists will be selected.
 
-The Google Cloud Marketplace allows businesses to discover, purchase, and manage the perfect cloud solutions-
-all in one place. Simplifies procurement with online tools and flexible options to scale cloud journey effortlessly.
+Since being recognized as PitchIT winners and joining the ConnectWise ecosystem, the growth experienced by
+these exceptional entrepreneurs has been nothing short of remarkable, with Annual Recurring Revenue soaring up
+to an impressive $125,000.
 
-Redis Cloud is designed to enhance your app's performance and reliability. It's the only version of Redis that
-provides five-nines SLA, global reach with local latency, and cross-region disaster recovery-all while meeting real-
-time data needs at any scale. Visit the Redis Cloud listing on the Google Cloud Marketplace and hit the subscribe
-button to launch a new Redis instance.
+"For any startup looking to collaborate with MSPs, ConnectWise's PitchIT program is the obvious starting point,"
+said Bobby Jacobs, Head of Growth at Thread. "The PitchIT journey prepares and propels startups to succeed in
+the MSP industry and provides an unparalleled opportunity to build connections. These connections continue to
+thrive, and we support each other in navigating the MSP space."
 
-About Redis
+"I would highly recommend the PitchIT program to any startup/emerging product company targeting service
+providers,” Kamalesh Srikanth, Head of Customer Experience at AlertOps. “The grand prize was great, but the
+lessons learned, and friends made were truly invaluable."
 
-Redis is the world's fastest data platform. We provide cloud and on-prem solutions for caching, vector search, and
-more that seamlessly fit into any tech stack. With fast setup and fast support, we make it simple for digital
-customers to build, scale, and deploy the fast apps our world runs on. Learn more at Redis.io.
+Interested participants can submit their applications online until April 30, 2024. PitchIT finalists will be selected from
+the pool of contestants to present their solutions on the grand stage at IT Nation Connect 2024, taking place in
+Orlando, Florida in November. The ultimate prize for the winner is a $70,000 grant, providing invaluable support to
+propel their business forward.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240806956063/en/
+ConnectWise offers global opportunities for startups and emerging companies in the MSP industry. With
+customized regional support, access to a network of over 45,000 partners worldwide, and comprehensive
+empowerment and support, ConnectWise helps entrepreneurs achieve product-market fit and gain traction in their
+local and global markets.
+
+To      learn  more     about     the    PitchIT         Accelerator     Program       and     apply,     please     visit
+https://www.connectwise.com/theitnation/pitchit.
+
+About ConnectWiseConnectWise is the world's leading software company dedicated to the success of IT solution
+providers (TSPs) through unmatched software, services, community, and marketplace of integrations. ConnectWise
+offers an innovative, integrated, and security-centric platform—Asio™—which provides unmatched flexibility that
+
+                                                                                                 Page 3 of 3
+  ConnectWise Supercharges Startups Globally with 2024 PitchIT Accelerator Program: Applications Now Open
+                      PitchIT Enables Businesses to Unleash Innovation, Showca....
+
+fuels profitable, long-term growth for partners. ConnectWise enables TSPs to drive business efficiency with
+automation, IT documentation, and data management capabilities and increase revenue with remote monitoring,
+cybersecurity, and backup and disaster recovery technologies. For more information, visit connectwise.com.
+
+Media Contact: Amanda Lee VP, Corporate Communications Amanda.lee@connectwise.com
 
 
-CONTACT: LaunchSquad
-
-redis@launchsquad.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: August 6, 2024
+Load-Date: February 1, 2024
 
 
   

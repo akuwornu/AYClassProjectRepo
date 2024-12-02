@@ -1,64 +1,411 @@
 
 
-                                                                             Page 1 of 2
-   DISASTER READINESS, QUALITY, BEHAVIORAL HEALTH LEAD FALL EDUCATIONAL OPPORTUNITIES
+                                                                                              Page 1 of 8
+       House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                     Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
 
 
 
 
-     DISASTER READINESS, QUALITY, BEHAVIORAL HEALTH LEAD FALL
-                    EDUCATIONAL OPPORTUNITIES
-                                               States News Service
-                                             August 1, 2024 Thursday
+    House Ways and Means Committee Hearing; "Examining Chronic Drug
+   Shortages in the United States."; Testimony by Stephen Schondelmeyer,
+     Director of the PRIME Institute, University of Minnesota's College of
+                                  Pharmacy
+                                           Congressional Documents and Publications
+                                                             February 6, 2024
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 396 words
-Byline: States News Service
-Dateline: SACRAMENTO, CA
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 4464 words
 
 Body
 
 
-The following information was released by the California Hospital Association (CHA):
+Thank you Chairman Smith, Ranking Member Neal, and other members of the House Committee on Ways and
+Means for this opportunity to address "A Resilient U.S. Drug Supply: Current and Emerging Risks."
 
-Heading into the second half of 2024, there are several exciting educational opportunities from CHA that you and
-your teams depending on their area of responsibility and interest would benefit from attending.
+I am Stephen W. Schondelmeyer, a Professor of Pharmaceutical Management and Economics at the University of
+Minnesota where I serve as Co-Principal Investigator for the Resilient Drug Supply Project (RDSP). In addition, I am
+Director of the PRIME Institute which focuses on research and policy issues related to the pharmaceutical market
+and its impact on society. These remarks are my own views based upon my research and experience in studying
+the pharmaceutical marketplace for the past fifty years. During my career, I have had the opportunity to interact with
+many federal entities that shape and influence our nation's healthcare system including the Department of Health
+and Human Services (DHHS), many of its divisions such as FDA, CMS, ASPE, ASPR, BARDA, as well as other
+federal agencies such as the FTC, DOJ, GAO, and OMB.
 
-Disaster Planning On Sept. 10 and Sept. 11, CHA will host its annual disaster planning conference in Pasadena.
-This year's agenda highlights health care case studies from various disasters, including lessons learned on
-vulnerability assessments and business continuity planning from those who have lived through the worst of it all.
-Breakout sessions enable attendees to drill down on specific topics, such as cybersecurity, after-action reporting,
-surge planning, and more.
+This hearing on chronic drug shortages in the United States will explore reasons for the long-term presence of drug
+shortages and the impact they have had on patients and the U.S. healthcare system. My remarks will address those
+issues as well as emerging vulnerabilities in the market infrastructure that are challenging the resilience of the U.S.
+drug supply.
 
-Volunteers On Sept. 16 and Sept. 17, the California Hospital Volunteer Leadership Conference, in its 61st year, will
-be held in San Diego. With so many hospitals relying on volunteers for ancillary services, patient support, and more,
-gatherings like these are key to reinvigorate volunteer programs and learn from peers about strategies to retain and
-recruit the next generation of these essential members of hospital teams.
+First, let me point out that the relatively recent COVID-19 pandemic is not responsible for the chronic presence of
+drug shortages in the U.S., although COVID-19 has exposed and highlighted several new and emerging
+vulnerabilities including geopolitical risk, quality of production issues, and potential trade barriers.
 
-Quality and Safety On Oct. 20 and Oct. 21, the Hospital Quality Institute's annual conference in Lake Tahoe will
-focus on how new technology is driving change in the patient safety movement. Artificial intelligence (AI) could
-help health care workers diagnose conditions earlier, bridge language barriers, revolutionize telehealth and
-discharge experiences, and more. It also raises equity and ethics questions. Keynote speakers include Gurpreet
-Dhaliwal, MD, UCSF clinician/national expert on AI in health care; Diana Nyad, international long-distance
-swimming champion/hall of famer; and Stephen Shedletzky, Author of Speak-Up Culture: When Leaders Truly
-Listen, People Step Up.
+The Nature of Chronic Drug Shortages and Why They Matter?
 
-Behavioral Health On Dec. 4 and Dec. 5, CHA's annual behavioral health care symposium will be held in Long
-Beach with significant attention on behavioral health care and California's youth population. The agenda is still
-being developed, but registration is open now.
+A reliable U.S. drug supply is an issue of public health, national security, and economic importance. Americans
+depend on a safe, accessible, and affordable drug supply for both personal and public health. When needed drugs
+are inaccessible for any reason, Americans suffer consequences such as lost days of work, disease progression
 
-                                                                             Page 2 of 2
-   DISASTER READINESS, QUALITY, BEHAVIORAL HEALTH LEAD FALL EDUCATIONAL OPPORTUNITIES
+                                                                                             Page 2 of 8
+      House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                    Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
 
-Along with the amazing content being offered at each of these opportunities, there is really no way to quantify the
-value of being among peers and having the chance to share, learn, and laugh with each other. Hope we will see
-many of you soon.
+and complications, increased emergency room visits, hospitalizations, and even premature death. A robust drug
+supply chain is critical infrastructure for the health and well-being of the entire country, as well as the world.
+
+Life-threatening, critical drug shortages can, and do, occur in the U.S. market. For decades, the U.S. market has
+experienced substantial shortages of critical pharmaceuticals that can mean life or death for patients. Market forces
+alone have proven insufficient to resolve these challenges and have failed to provide a consistent drug supply
+chain. The COVID-19 pandemic did make issues in our upstream drug supply chain more visible. During the
+pandemic, there has been an increase in demand for many pharmaceuticals paired with numerous disruptions in
+supply chains. This has further exposed systemic vulnerabilities in the pharmaceutical supply chain in the United
+States and around the globe. Even as we begin to emerge from the COVID-19 pandemic, the number of drug
+shortages has not abated. In fact, a recent Senate hearing (March 2023) reported that "Drug shortages are
+increasing, lasting longer, and impacting patient care." n1 Between 2021 and 2022, new drug shortages increased
+by nearly 30 percent. By the fourth quarter of 2023 the ASHP reports a total of 301 current drug shortages, near an
+all-time high for active drug shortages in the U.S. n2
+
+In the United States we have tracked drug shortages for nearly three decades and the literature has reported on
+specific drug shortages well before our tracking systems were initiated. n3 Over the past decade, there have been
+170 to more than 300 national active drug shortages at any point in time. In the fourth quarter of 2023, the American
+Society of Health-System Pharmacists (ASHP) reported 301 active drug shortages. n4 This level of drug shortages
+and consequences for Americans is clearly not acceptable.
+
+When a patient does not get a critical acute drug in a timely manner (i.e., minutes to hours to days) the
+consequence can be serious leading to emergency room visits, hospitalization, or even premature death. In addition
+to the clinical impact on patients, there are economic costs for patients, providers, health systems, distributors, and
+other stakeholders. Health systems have been estimated to incur extra costs due to shortages for purchasing
+alternate products, adding staff, and notification and training of healthcare personnel. n5 These added costs may be
+as high as $230 million n6 to $359 million per year or more. n7
+
+Virtually everyone in America has used, or needed, prescription drugs at some point in their lifetime. In 2021,
+Americans took about 189 billion daily doses of prescription drugs and 90.7% of those doses were generic products
+vulnerable to drug shortages. n8 Most, but not all, drug shortages involve generic drug products which account for
+only 19% of invoice-level spending on prescription drugs while branded drug products account for 81% of invoice-
+level spending on prescription drugs, but only 9.3% of prescriptions by volume. n9 For this reason, assessments of
+the impact of drug shortages should be based on the volume of daily doses affected and the number of Americans
+impacted. Additionally, drug shortages tend to be found most often in drug products that are generics (84%),
+injectables (67%), and highly-concentrated markets with few suppliers. n10
+
+Chronic drug shortages continued even during the COVID-19 pandemic, and several emerging changes in the
+structure of the pharmaceutical market were exposed and highlighted new vulnerabilities in the upstream U.S. drug
+supply chain. I will briefly describe each of these vulnerabilities including geopolitical risk, quality of production
+issues, and potential trade barriers.
+
+Geopolitical Risk and Drug Supply Resilience
+
+Geopolitical risk is a term that encompasses vulnerabilities in the upstream drug supply chain due to geographic
+location, political orientation, or both for the country where key stages of pharmaceutical production are performed.
+Among these key stages are production of key starting materials, manufacture of active pharmaceutical ingredients
+(API), and manufacture of finished dosage forms (FDF).
+
+A stable drug supply relies on complex interdependencies in international relations, both commercially and
+politically. The United States is heavily dependent on foreign manufacturers for its active pharmaceutical
+ingredients and finished products, particularly China and India. About 45% of finished dose form units and about
+60% the active pharmaceutical ingredients (API) in drug products consumed in the U.S. market come from India
+and/or China. This level of concentration of drug production in specific geographic areas poses significant problems
+
+                                                                                             Page 3 of 8
+      House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                    Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
+
+in the face of natural disasters or pandemics, accidental or intentional adulteration, and trade relations and
+geopolitical risk. Geopolitical conflict and degradation of international trade relations could prove catastrophic for the
+health and national security of all Americans including our military personnel. With drug shortages near an all-time
+high in the U.S., both the U.S. civilian population and military personnel are vulnerable to adverse health
+consequences from these critical drug shortages. Continued disruptions, either intentional or unintentional, in the
+upstream U.S. drug supply threaten the public health and national security of Americans.
+
+Based on research at the Resilient Drug Supply Project (RDSP) using data from CGI Cortellis, FDA, and other
+sources, the following conditions in the upstream market create geopolitical vulnerability for the U.S.:
+
+* The U.S. drug supply is heavily dependent on foreign sources with most generics coming from India and China
+and most patented brands coming from Europe.
+
+* [greater than]60% of all U.S. daily drug doses have API or finished product from China or India.
+
+* India is dependent upon China for about 70% of its API sources,
+
+* India alone and India through China accounts for 47.2% of API facilities (Fig.1).
+
+* China alone and China through India account for 46% of API facilities (Fig.1)..
+
+* The U.S. accounts for only about 10.5% of the API facilities (Fig.1).
+
+* Greater than 80% of...the world's fermentation antibiotics are made in China.
+
+* There...are...about 100...important APIs...made...only in China and nowhere else.
+
+* There...are...about 229...important APIs...made...only in India and nowhere else.
+
+* There...are...about 680...important APIs...made...only outside of the U.S.
+
+* In...the...past decade,...U.S. API facilities have dropped from 3,198 to 1,247 (-61%).
+
+* In...the...past decade,...India's API facilities have grown from 1,433 to 5,109 (254%).
+
+* In...the...past decade,...China's API facilities have grown from 962 to 1,494 (55%).
+
+* In...the...past decade,...Taiwan's API facilities have grown from 58 to 247 (326%).
+
+* In...the...past decade,...Israel's API facilities have grown from 108 to 250 (131%).
+
+* The four countries with the fastest growing API capacity are geopolitical hot spots.
+
+* Most therapeutic categories depend on India or China for [greater than]50% of their API facilities (Fig.2)..
+
+Drug manufacturing has undergone a shift from in-house production to production through Contract Manufacturing
+Organizations (CMOs) and Contract Development and Manufacturing Organizations (CDMOs). Essentially the
+pharmaceutical manufacturer has become like the general contract for home builders--one firm coordinates all of
+the contributors who are building the house, but the general contractor does not actually 'make' the house. Also, it is
+not clear whether the FDA has the same degree of oversight for CMOs and CDMOs and their role in manufacturing
+drug products for the U.S. market.
+
+Another shift in the drug manufacturing process for APIs and FDFs has been the move from U.S.-based facilities to
+facilities in Asian countries, especially India and China. Over the past two to three decades, many firms in the West
+looked to Asian countries for production of API and FDF because of lower cost of labor, lower cost of production,
+fewer environmental regulations, and economy of scale in production and other factors. n11 Asian countries usually
+
+                                                                                             Page 4 of 8
+      House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                    Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
+
+have a 40% to 60% lower cost structure than Western nations when it comes to pharmaceutical production. As
+noted earlier, in just the last decade the number of U.S. API production facilities has decreased more than 60%.
+With strong cost reduction pressures, it will be difficult to move production of API and FDFs back to the West
+without substantial incentives.
+
+The pharmaceutical market needs to move toward API production that has built-in redundancy of production sites.
+Dual sourcing, when possible, should be the minimum best practice with additional locations of production when the
+market is large enough to support them.
+
+The U.S. and other countries should move toward regional markets with re-shoring and friend-shoring of redundant
+API production facilities. The U.S. can encourage some reshoring of API production in the U.S., but it is also
+important to diversify the location of redundant API production facilities. For example, if two API facilities were built
+in Puerto Rico, a single hurricane could disable both of the redundant facilities. As a result of Hurricane Maria in
+2017, a major share of the U.S. large volume parenteral solutions market was disrupted and hospitals throughout
+the U.S. had to find alternative products. n12
+
+The U.S. needs to have visibility into the market-wide upstream supply chain for API and FDF facilities and which
+products each one makes. This upstream drug supply map can then be used to target incentives to the products
+most needed and most likely to experience drug shortages. Drug molecules with only one source of API production
+in the world are vulnerable, and especially if they are located in a country that is geopolitically sensitive. Also, even
+if there are two or three API production facilities, but they are located in the same country, there is more risk than if
+they are located in different countries.
+
+Quality of Production Issues
+
+The quality of drug products is of the utmost importance in the pharmaceutical market. The U.S. FDA has specific
+authorities and appropriations from the U.S. Congress with respect to the quality of production processes used by
+pharmaceutical manufacturers. Within the scope of their authorities, FDA has issued detailed guidelines for Good
+Manufacturing Practices that are to be voluntarily followed by pharmaceutical firms.
+
+There have been concerns over the FDA's ability to assure quality with limited foreign inspection capabilities. Both
+the number of inspections done and the ability to engage in unannounced inspections, limit FDA's opportunity for
+meaningful inspections overseas. In recent years there have been a growing number of recalls and product
+withdrawals because of quality problems. Since 2015 companies have recalled products of more than ten drug
+molecules due to NDMA (or other potential carcinogen) contamination levels. FDA has also recalled batches of eye
+drops and baby formula because of bacterial contamination that led to patient harm and in some cases, deaths.
+While improved and increased frequency of inspections may be helpful in minimizing these quality issues, a broader
+approach to quality assurance is also needed.
+
+In 1990, the U.S. FDA was a founding member of the International Council for Harmonisation of Technical
+Requirements for Pharmaceuticals for Human Use (ICH). There are now 13 countries who are regulatory members
+of the ICH who agree to participate and implement harmonized drug regulations. In addition to the United States,
+other countries participating as members of the ICH include Canada, Mexico, the European Union, Japan, China,
+and others. Notably, India is not a member of the ICH. Recall that India is the single largest producer of drug
+products for use in the United States, yet the country does not participate in the ICH.
+
+Not only does India not harmonize with other countries on drug production and regulation, but the Indian regulatory
+scheme for pharmaceutical production is delegated to each of the 38 state entities within India. India's drug
+manufacturing and regulatory scheme is "a fragmented system spanning 38 drug regulators." n13 There is lack of
+coordination even within India. One observer noted that if one state finds a violation, the violation is not likely to be
+shared with other states or federal regulators.
+
+                                                                                            Page 5 of 8
+     House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                   Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
+
+This situation needs to be addressed by the FDA, the U.S. Trade Representative, the Department of Commerce
+and other sources for exerting leverage on India to participate in the ICH for harmonization of drug regulation with
+the U.S. and other major world partners.
+
+Emerging Trade Opportunities and Barriers
+
+The U.S. needs like-minded trading partners to secure its drug supply chain. Re-shoring the manufacturing of both
+APIs and finished drug products can be part of the solution for a more resilient drug supply. However, it is not
+feasible for the United States to manufacture all, or even most, of its needed pharmaceuticals. Near-shoring to
+markets, such as Canada and Mexico or other places in the Americas, will allow for cost-effective production while
+affording improved geographic access and opportunities for strengthened trade partnerships. While drug firms in
+Mexico, and other countries in the Americas, have expressed interest in developing or increasing the production of
+APIs for export to the U.S., they would require significant policy support and subsidization to be competitive in the
+market with countries like China and India.
+
+The U.S. should pursue trade partnerships with other countries in the Americas as alternative sources of
+pharmaceutical production. The COVID-19 pandemic has challenged global supply chains, in general, and, in
+particular, it has sensitized the United States to the heavy dependence it has on Asian countries and especially
+China and India. Currently, U.S. policymakers are looking for alternative supply channels to decrease the U.S.
+dependence on China and India for critical and essential pharmaceuticals. One solution is encouragement of re-
+shoring to the U.S. of pharmaceutical manufacturing for critical active pharmaceutical ingredients (API) and finished
+dose forms (FDF). In addition to increased U.S. production of pharmaceuticals, there is a need to develop
+geographically diverse supply chains that address environmental, economic, and geopolitical challenges.
+
+Geographic diversity of supply sources is needed in the Americas. Mexico, Canada and other nearby countries can
+provide near-shoring of pharmaceutical production that can decrease the U.S. dependence on more distant Asian
+sources such as China or India. Near-shoring in Mexico, Canada or other countries in the Americas is a means to
+minimize over-concentration of production in Puerto Rico or the mainland of the United States.
+
+Near-shoring can improve logistics and transportation. Mexico, Canada and other nearby countries are
+geographically juxtaposed to the U.S. and offer more efficient shipping and logistical access. For example, Mexico
+is strategically located at the southern edge of the United States where it shares a border with four states (i.e.,
+Texas, New Mexico, Arizona and California). Mexico's proximity and physical border with the U.S. enable
+transportation and shipping routes by rail and road that are entirely over land. This means that shipping of
+pharmaceuticals from Mexico can avoid more expensive and congested sea and air transport.
+
+There may be a lower cost of production through near-shoring. Mexico can produce pharmaceuticals at a cost that
+is 14.4% less than in the U.S. By comparison, Canada can produce pharmaceuticals at a cost that is 4.6% less than
+the U.S. and in Italy, costs are about 1.9% less than in the U.S. n14
+
+Near-shoring can improve inspection access. Pharmaceutical production in Mexico would allow FDA to have
+improved access to manufacturing facilities for inspection and oversight. The FDA does have an office and staff
+based in Mexico, which would facilitate more frequent and efficient inspections for quality and Good Manufacturing
+Practices than can be achieved in Asian countries.
+
+The COVID pandemic, however, precipitated some new trade issues with respect to pharmaceuticals. India, for
+example, imposed export curbs on 13 APIs and 13 drug product formulations. n15 These export bans were to
+ensure that India would have enough drug product to treat the Indian population. Under pressure India reversed the
+ban in one day. China imposed bans on masks and ventilators. Other countries instituted limited bans on
+exportation of drugs and medical supplies. Policy experts worried that if every country turned protectionist in the
+time of a pandemic, only producing countries would have supplies and others would be without needed drugs and
+medical supplies. One article recommended that "The world needs to change how it trades drugs." n16 The trade
+disputes were not over intellectual property rights, but rather access to exports of certain drug products used to
+
+                                                                                            Page 6 of 8
+     House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                   Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
+
+treat pandemic-related conditions. China threatened to embargo trade of certain drugs which would have left the
+U.S. vulnerable or without those certain critical drug products.
+
+One final trade issue with respect to prescription drugs is the importation of drugs from Canada under a program
+proposed by the State of Florida. On January 5, 2024, the FDA authorized Florida's drug importation program. n17
+The Florida program is limited to providing drugs under certain state-run health programs through the Department
+of Children and Families, the Department of Corrections, and the Department of Health.
+
+Prior to approval of the Florida plan, the FDA did not permit importation of prescription drugs from Canada although
+there were a few very specific exceptions. Upon hearing of the FDA approval of the Florida reimportation plan, the
+Canadian government took action to ban export of prescription drugs from Canada, if the export would leave
+Canadians without needed medications.
+
+This FDA-Florida-Canada interaction over importation of prescription drugs from Canada at a low cost will need
+active intervention by the U.S. administration including the FDA, the U.S. Trade Representative, and the
+Department of Commerce, if it's going to work. Keep in mind that Florida has a population of 21.8 million while
+Canada's population is 38.5 million. A robust importation program by Florida could deplete a major portion of the
+drugs in the Canadian market--and Canada is not likely to let that happen.
+
+Strategies to Minimize Geopolitical Risks and Other Vulnerabilities
+
+Just as the U.S. would not rely on its enemy for bullets, neither should we rely on a major geopolitical rival for
+critical drugs to treat the U.S. population or military forces-- the source of our drug supply is a matter of national
+security. The U.S. needs to have a strategic plan for drug supply with policies and incentives to ensure a secure
+and resilient supply of all essential and necessary drugs. Continuous work is needed to identify risks and secure the
+supply of key starting materials and API for critical pharmaceuticals. The U.S. needs improved quality inspection
+and enforcement to prevent unintentional drug quality problems from lack of voluntary compliance and inadequate
+regulatory oversight (e.g., India, China, or even at facilities in the U.S.). The U.S. needs intensified security and
+quality monitoring to prevent deliberate attacks and threats posed by drug production in politically adverse settings.
+
+The U.S. needs to encourage more re-shoring, near-shoring and friend-shoring of API and finished drug production
+especially for critical drugs, increased transparency of drug production sourcing, and de-risking of the supply chain.
+The U.S. lacks a centralized system to effectively map, track, predict, and respond to drug shortages. The FDA
+itself reports difficulties monitoring the production, quality, and distribution of active pharmaceutical ingredients
+(APIs) in foreign countries, especially in locations such as China and India.
+
+The upstream drug supply chain in the U.S. needs to be mapped in order to identify vulnerabilities, to prevent
+disruptions, and to prepare coordinated responses. There is a need for an international global system for
+addressing drug shortages and their causes so that preemptive action can be taken to prevent future drug
+shortages. Comprehensive information on drug supply and drug shortages is needed to provide awareness of
+vulnerabilities that is timely and transparent enough to predict and respond to drug shortages before the public
+faces real and significant consequences.
+
+n1 Chairman Gary Peters, United States Senate Committee on Homeland Security and Governmental Affairs,
+HSGAC Majority Staff Report, Short Supply, The Health and National Security Risks of Drug Shortages, March
+2023, p. 5.
+
+n2 Fox, E, National Drug Shortages, Active Shortages by Quarter - 10 Year Trend, University of Utah Drug
+Information Service, American Society of Health-System Pharmacists, found on February 3, 2024 at:
+https://www.ashp.org/drug-shortages/shortage-resources/drug-shortages-statistics.
+
+n3 Fox, E, Tyler L, Managing drug shortages: Seven years' experience at on health system, Am J Health-Syst
+Pharm, Vol. 60, Feb. 1, 2003, pp. 245-253.
+
+                                                                                             Page 7 of 8
+      House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                    Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
+
+n4 Fox, E, National Drug Shortages, Active Shortages by Quarter - 10 Year Trend, University of Utah Drug
+Information Service, American Society of Health-System Pharmacists, found on February 3, 2024 at:
+https://www.ashp.org/drug-shortages/shortage-resources/drug-shortages-statistics; see, also: Fox, E, National Drug
+Shortages, New Shortages by Year, January 2001 to December 2023, % Injectable, University of Utah Drug
+Information Service, American Society of Health-System Pharmacists, found on February 3, 2024 at:
+https://www.ashp.org/drug-shortages/shortage-resources/drug-shortages-statistics.
+
+n5 Shukar S, Zahoor F, Hayat K, Saeed A, et al., Drug Shortage: Causes, Impact, and Mitigation Strategies,
+Frontiers        in         Pharmacology,           Vol.      12,    July   2021,        found         at:
+https://www.frontiersin.org/articles/10.3389/fphar.2021.693426/full.
+
+n6 Rapaport L, Drug shortages may add $230 million to annual U.S. drug costs, Reuters Health, Sept. 10, 2018,
+found at: https://www.reuters.com/article/us-health-drug-shortages-pricing/drug-shortages-may-add-230-million-to-
+annual-u-s-drug-costs-idUSKCN1M12LC/.
+
+n7 Gu A, Wertheimer AI, Brown B, Shaya FT. Drug Shortages in the US-Causes, Impact, and Strategies.
+(2011).Inov Pharm. Vol 2, p. 6.
+
+n8 Aitken M, Kleinrock M, Drug Shortages in the U.S. 2023, The Use of Medicines in the U.S., Spending and Usage
+Trends and Outlook to 2025, IQVIA Institute, p. 25, May 2021, found at: https://www.iqvia.com/-
+/media/iqvia/pdfs/institute-reports/the-use-of-medicines-in-the-us-2023/the-use-of-medicines-in-the-us-2023.pdf.
+
+n9 Aitken M, Kleinrock M, Drug Shortages in the U.S. 2023, The Use of Medicines in the U.S., Spending and Usage
+Trends and Outlook to 2025, IQVIA Institute, p. 49, May 2021, found at: https://www.iqvia.com/-
+/media/iqvia/pdfs/institute-reports/the-use-of-medicines-in-the-us-2023/the-use-of-medicines-in-the-us-2023.pdf.
+
+n10 Aitken M, Kleinrock M, Pritchett J, Drug Shortages in the U.S. 2023, A Closer Look at Volume and Price
+Dynamics, IQVIA Institute, p. 2, November 2023; found at: https://www.iqvia.com/insights/the-iqvia-institute/reports-
+and-publications/reports/drug-shortages-in-the-us-2023.
+
+n11 Bumpas J, Betsch E, Exploratory Study on Active Pharmaceutical Ingredient Manufacturing for Essential
+Medicines, Health, Nutrition and Population, The World Bank, September 2009, p.12.
+
+n12 McGinley L, Hospitals scramble to avert saline shortage in wake of Puerto Rico disaster, Washington Post,
+Oct. 9, 2017, found at: https://www.washingtonpost.com/news/to-your-health/wp/2017/10/09/hospitals-scramble-to-
+avert-saline-shortage-in-wake-of-puerto-rico-disaster/.
+
+n13 Kaul R, Govt plans common drugs standards for all state regulators, Hindustan Times, March 17, 2023, found
+at:       https://www.hindustantimes.com/india-news/govt-plans-common-drugs-standards-for-all-state-regulators-
+101678990617259.html.
+
+n14 PharmaBoardroom.com, Mexico: Healthcare and Life Sciences Review, Nov. 2015, p.39.
+
+n15 Wallace D, India Curbs Exports Amid Coronavirus, Restricted Products, Include Paracetamol API and
+Formulations, Generics Bulletin, Mar 4, 2020.
+
+n16 Tripathi S, The World Needs to Change How It Trades Drugs, Foreign Policy, April 21, 2020..
+
+n17
+
+Read this original document at: http://docs.house.gov/meetings/WM/WM00/20240206/116801/HHRG-118-WM00-
+Wstate-SchondelmeyerPharmDPhDS-20240206.pdf
+
+                                                                                            Page 8 of 8
+     House Ways and Means Committee Hearing "Examining Chronic Drug Shortages in the United States ."
+                   Testimony by Stephen Schondelmeyer, Director of the PRIME Insti....
 
 
-Load-Date: August 2, 2024
+Load-Date: February 7, 2024
 
 
   

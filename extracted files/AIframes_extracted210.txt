@@ -1,15 +1,14 @@
 
 
-                                                                                                     Page 1 of 4
-                   Outstanding NSW Technology Innovation Showcased at 31st Annual AIIA IAwards
+                                                                                                   Page 1 of 8
+                                   Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
 
 
 
 
-   Outstanding NSW Technology Innovation Showcased at 31st Annual AIIA
-                                IAwards
+                    Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
                                                      Targeted News Service
-                                            July 25, 2024 Thursday 8:20 AM EST
+                                           February 25, 2024 Sunday 9:10 AM EST
 
 
 
@@ -18,203 +17,423 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 1680 words
+Length: 3075 words
 Byline: Targeted News Service
-Dateline: GRIFFITH, Australia
+Dateline: WASHINGTON
 
 Body
 
 
-The Australian Information Industry Association issued the following news release:
-
-Australia's peak industry representative body for innovation technology, the Australian Information Industry
-Association (AIIA), is proud to announce the winners of the 2024 NSW iAwards. As Australia's longest running
-innovation recognition program, the awards unearth, recognise and reward excellence in Australian innovation.
-
-In his keynote address, the Minister for Customer Service and Digital Government, the Hon Jihad Dib MP noted the
-importance of developing digital infrastructure alongside the physical infrastructure, ensuring reliable
-communication channels for NSW citizens. He also spoke about the inevitable need to ride the AI wave already
-here in order to reap the benefits and manage risks with many of the winners in the awards showcasing AI in their
-solutions.
-
-AIIA CEO, Simon Bush, said: "We are incredibly proud to celebrate the 31st annual iAwards this year. The high
-level of ability and passion of our tech innovators that rises up in the iAwards never ceases to amaze and inspire.
-All entrants deserve recognition for their hard work and brilliant ideas. We want to thank them for their continued
-commitment to furthering Australia's capability in innovation technology."
-
-Mr Bush said: "The finalists and winners show the diversity of innovation occurring across the economy and how
-technology can solve both economic and societal issues. The exciting developments we are seeing with the
-adoption of AI highlights the possibilities and productivity gains our economy can harness through innovative
-technologies. The winners of the 2024 iAwards continue to reflect the immense talent in Australia's ICT sector."
-
-The 2024 NSW iAwards are presented to winners and merit recipients in seven categories to showcase the breadth
-of innovation and technology across multiple sectors.The 2024 NSW iAwards winners by category are:
-
-* Business & Industry, sponsored by asana
-
-                                                                                                       Page 2 of 4
-                 Outstanding NSW Technology Innovation Showcased at 31st Annual AIIA IAwards
-
-- Winner: Smart Clinician for accelerating clinical trials by Telstra Health
-
-- Merit recipient: InnerSteps by InnerSteps (Incorporated as Ellie Holdings Pty Ltd)
-
-* Education & Student
-
-- Winner: InnerSteps by InnerSteps (Incorporated as Ellie Holdings Pty Ltd)
-
-* Government & Public Sector, sponsored by the Digital Transformation Agency
-
-- Winner: Aerial Search and Rescue System (ASARS) by University of Technology Sydney(UTS)
-
-- Merit recipient: Water Quality Prediction for Sustainable Future by University of Technology Sydney (UTS)
-
-* Not for Profit & Community, sponsored by AustralianSuper
-
-- Winner: InnerSteps by InnerSteps (Incorporated as Ellie Holdings Pty Ltd)
-
-- Merit recipient: Aerial Search and Rescue System (ASARS) by University of Technology Sydney(UTS)
-
-- Merit recipient: iAgeHealth virtual multidisciplinary clinical hub by McLean Care
-
-* Start-Up, sponsored by CDC
-
-- Winner: Good To Go by Know-Where
-
-- Merit recipient: InnerSteps by InnerSteps (Incorporated as Ellie Holdings Pty Ltd)
-
-* Sustainability & Environmental, sponsored by Lenovo
-
-- Winner: Water Quality Prediction for Sustainable Future by University of Technology Sydney (UTS)
-
-- Merit recipient: Gravitational Energy Storage System by Green Gravity
-
-- Merit recipient: OPENAIR by UTS Institute for Sustainable Futures (ISF)
-
-* Technology Platform, sponsored by Reason Group
-
-- Winner: 1Centre by 1Centre Limited
-
-- Merit recipient: Cost-effective rapidly deployable high data-rate large area WiFi (LAWiFi) system by The University
-of Sydney, UTS, Pivotel, NSW CIN
-
-Details on each of our winners can be found below.
-
-Each of the 2024 NSW iAwards winners will now compete for the coveted National iAwards title which will be
-announced at the Gala event in August.
-
-The AIIA iAwards are supported by the Department of Industry, Science and Resources, the South Australian
-Government, CDC, the Digital Transformation Agency, Lenovo, asana, Reason Group, AustralianSuper and Dell
-Technologies. The AIIA thanks them for their commitment to supporting the tech sector. AIIA is a not-for-profit
-organisation aimed at supporting and advocating for Australia's future social and economic prosperity through
-technology innovation.
+(TNSres) -- The U.S. Census Bureau issued the following tip sheet (No. 4) on Feb. 23, 2024:
 
 ***
 
-AIIA's 2024 NSW iAwards - About the Winners
+Upcoming
 
-Smart Clinician for accelerating clinical trials by Telstra Health
+2024 Product Calendar
 
-                                                                                                           Page 3 of 4
-                 Outstanding NSW Technology Innovation Showcased at 31st Annual AIIA IAwards
-
-Telstra Health's Smart Clinician capability accelerates the conduct of clinical trials at scale to enable translation of
-new evidence to improve the health and wellbeing of Australians. GPs can now easily participate as clinical trial
-study investigators to help identify, screen and recall eligible patients and bring new clinical trials to their patients.
-Patients, regardless of geographic location, can now be informed of and participate in clinical trials and contribute to
-the generation of new evidence via their regular care provider. Clinical trial organisations can now make informed
-decisions about where to set up clinical trials based on the availability of eligible patients and access a culturally
-diverse population that spans rural and metropolitan areas; reducing the administrative burden and time taken to
-enrol eligible patients.
-
-InnerSteps by InnerSteps (Incorporated as Ellie Holdings Pty Ltd)
-
-InnerSteps is a pioneering mobile application designed to address the growing mental health crisis among children
-aged 5-12. Utilising advanced AI technology, InnerSteps offers personalised storytelling based on each child's
-mental health needs, interests, and preferences, integrating clinical strategies to provide therapeutic benefits.
-
-Aerial Search and Rescue System (ASARS) by University of Technology Sydney(UTS)
-
-The ASARS solution introduces a unique approach to Search and Rescue operations in Vietnam and globally, by
-integrating Unmanned Aerial Vehicles (UAVs), Artificial Intelligence (AI), and remote sensing technologies. This
-notable innovation is the world's first pre- and post- disaster surveillance and rescue system developed by UTS,
-achieving a 90% accuracy in detecting target objects, which significantly surpasses the effectiveness of traditional
-aerial surveillance methods.
-
-Water Quality Prediction for Sustainable Future by University of Technology Sydney (UTS)
-
-A water quality prediction toolkit has been implemented to assist the water industry in improving operational
-resilience in adapting to the evolving landscape of potable water quality management.
-
-The proposed solution involved a robust spatial-temporal machine learning approach, incorporating weather and
-upstream effects to predict multiple water quality indicators. The solution benefits over half a million people in
-Sydney and 80% of water users in Melbourne. It has made a further step towards properly using this vital natural
-resource on the earth.
-
-iAgeHealth virtual multidisciplinary clinical hub by McLean Care
-
-iAgeHealth utilises secure video technology, Australian based infrastructure, and modern frameworks to provide on-
-demand access to healthcare. By bringing a multidisciplinary team of healthcare professionals directly to the
-patient's bedside, iAgeHealth enhances the quality of care and improves the quality of life for older individuals,
-ensuring equitable healthcare access regardless of geographical location.
-
-Good To Go by Know-Where
-
-Good To Go specialises in digital readiness checks, operational inspections, and asset visibility solutions for first
-responders. Our solutions streamline the activities associated with managing and maintaining equipment, giving
-valuable time back to personnel throughout their day and ensuring emergency vehicles are "Good To Go".
-
-Gravitational Energy Storage System by Green Gravity
-
-Green Gravity is commercialising a technology utilising legacy mine shafts to move heavy weights vertically,
-creating economic energy storage at a scale likely to provide material storage to the grid. By reusing legacy mining
-infrastructure, the technology provides large scale renewable energy storage while proving for repurposing of
-existing assets. The technology provides a low cost, highly sustainable solution for rapid uptake of renewable
-energy.
-
-OPENAIR by UTS Institute for Sustainable Futures (ISF)
-
-                                                                                                        Page 4 of 4
-                 Outstanding NSW Technology Innovation Showcased at 31st Annual AIIA IAwards
-
-Poor air quality caused by bushfires, wood-fired heaters, agriculture, transportation, industry and urban heat is a
-significant cause of health problems and premature death in Australian communities.
-
-OPENAIR combats this pressing issue by building councils' capacity to capture, share and act on available local
-data that is trusted and reliable. Following OPENAIR's best practice guidance, councils can address air pollution,
-reduce carbon impacts and boost the quality of life of their communities.
-
-1Centre by 1Centre Limited
-
-1Centre is the only unified B2B trade-credit and relationship platform that lets you visualise, engage, decide, and
-prove ROI by sales channel. Their full compliance platform is 90% faster than standard trade-credit processes. It
-comes with built-in credit bureaux integrations for credit checks, government agency integrations for identity checks,
-facial recognition, decisioning tools for custom workflows, anti-fraud smarts to de-risk approvals, on/off features to
-maximise customer onboarding at the point of sale, fully configurable workflows to solve complexities like risk
-profiles and approval processes and more.
-
-Cost-effective rapidly deployable high data-rate large area WiFi (LAWiFi) system by The University of Sydney, UTS,
-Pivotel, NSW CIN
-
-LAWiFi revolutionises wide-area WiFi connectivity with three significant innovations: an innovative WiFi protocol
-stack, an advanced high-gain wide-beam antenna design and a resilient Satellite backhaul solution. LAWiFi's
-transformative technology not only fosters economic development but also enhances operational efficiency across
-multiple industries and strengthens disaster resilience. By enabling seamless connectivity, LAWiFi plays a pivotal
-role in driving global socio-economic progress.
+The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
+scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
+updated as needed throughout the year.
 
 ***
 
-Original text here: https://aiia.com.au/wp-content/uploads/2024/07/2024-07-25-Media-release-NSW-iawards-
-announcements-final.pdf
+2030 Census Preparation
 
-[Category: Industrial Materials]
+Census Scientific Advisory Committee 2024 Spring Meeting
+
+The U.S. Census Bureau will host the Census Scientific Advisory Committee Meeting March 14-15. Experts and
+representatives of various organizations from across the nation will attend the virtual meeting to discuss census
+programs, operations and innovative processes.
+
+Initial Strategies for 2030 Census Preparations
+
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in March.)
+
+                                                                                                      Page 2 of 8
+                              Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+***
+
+American Community Survey
+
+* New Report on the Nation's Foreign-Born Population
+
+The U.S. Census Bureau is scheduled to release new data products highlighting select demographic and
+socioeconomic characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report
+compares 2010 and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing
+composition of the foreign-born population in the United States. The Highlights of the Foreign-Born Population data
+visualization displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of
+geography (including national, state and county). (Tentatively scheduled for release in mid/late March.)
+
+***
+
+Demographic
+
+* Grandparents and Coresident Grandchildren Report
+
+The U.S. Census Bureau will release a report on Grandparents and Their Coresident Grandchildren: 2021, which
+provides characteristics of grandparents living with grandchildren under age 18. The report also compares the
+characteristics of grandchildren by whether their parent or grandparent is the householder, and the age of the
+grandparent. Data in the report comes from the American Community Survey, Current Population Survey, Survey of
+Income and Program Participation and 1970-2000 Censuses. (Scheduled for release February 26.)
+
+* Making Everyone Count: A Fireside Chat With the U.S. Agency for International Development (USAID) and the
+U.S. Census Bureau
+
+USAID Assistant Administrator for Global Health Dr. Atul Gawande will host a fireside chat with Census Bureau
+Director Robert Santos about the enduring and successful partnership between the two agencies of close to 70
+years, aimed at fostering collaboration and evidence-based policymaking worldwide. They will share their agencies'
+perspectives on the vital role of population data and data equity in advancing development objectives and explore
+ways to expand and continue to work together. The discussion will be livestreamed on Census Live. (February 29,
+10-11 am ET.)
+
+* New 2022 Congressional Election Voting Report
+
+The U.S. Census Bureau will release a new Voting and Registration in the Election of November 2022 report based
+on data from the 2022 Current Population Survey (CPS) Voting and Registration Supplement. The report highlights
+patterns in voter turnout over time among the citizen voting-age population (CVAP) and explores how demographic
+groups were over- and under-represented among voters in the 2022 congressional elections compared to the
+CVAP as a whole. (Tentatively scheduled for release in March.)
+
+- Household Pulse Survey
+
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
+with data dissemination, including detailed data tables and public-use files on a monthly basis. (Scheduled for
+release March 21 and April 18.)
+
+***
+
+Economic
+
+                                                                                                        Page 3 of 8
+                                Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+* 2022 Annual Capital Expenditures Survey
+
+The U.S. Census Bureau is set to release data from the 2022 Annual Capital Expenditures Survey (ACES)
+highlighting the industries with the largest total capital expenditures for structures and equipment for companies
+with employees in 2022. Data are based on the 2017 North American Industry Classification System (NAICS). The
+ACES provides the only comprehensive estimates of annual U.S. capital expenditures data covering all domestic
+nonfarm businesses and detailing investments by type and industry. (Scheduled for release February 28.)
+
+* New Annual Integrated Economic Survey Set to Launch
+
+The U.S. Census Bureau will launch its newest survey, the Annual Integrated Economic Survey (AIES), beginning
+in March. This new program replaces seven annual economic surveys and streamlines reporting by consolidating
+all necessary questions into one convenient survey. Companies selected to participate in the AIES will receive a
+survey invitation in March of 2024.
+
+The statistics created from collected data will provide key measures of economic activity, including the only
+comprehensive national and subnational data on business revenues, expenses and assets on an annual basis. For
+more information on the AIES, visit census.gov/aies.
+
+* 2021 Nonemployer Statistics
+
+The U.S. Census Bureau is set to release the 2021 Nonemployer Statistics (NES). This annual series provides
+subnational economic data for businesses that have no paid employees or payroll, are subject to federal income tax
+and have receipts of $1,000 or more ($1 or more for the Construction sector). The data consist of the number of
+businesses and total receipts by industry and are available for approximately 470 industries at detailed geographic
+levels, including national, state, county, metropolitan/micropolitan statistical areas and combined statistical areas.
+(Scheduled for release March 14.)
+
+- "New Enhancements of the Census Business Builder (CBB)"
+
+The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration with the Council
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes Nidaal
+Jubran as he presents, "New Enhancements of the Census Business Builder." Recently the U.S. Census Bureau
+released version 5.4 of the Census Business Builder tool. This update will feature a new enhancement that will
+allow users to evaluate declared disaster areas and their impacts. CBB v5.4 will also include enhancements to
+existing functionality and the latest data available including workforce data from the Quarterly Workforce Indicators.
+More information on Census Business Builder is available online. (Schedule for release March 20.)
+
+- 2024 Local Employment Dynamics Partnership Virtual Workshop
+
+The U.S. Census Bureau will host the 2024 Local Employment Dynamics Partnership Virtual Workshop on May 14-
+16. This year's theme is "Multidimensional Perspectives of the Labor Market" and will feature Julia Pollak, Chief
+Economist at ZipRecruiter, as the keynote speaker. The workshop will highlight the work of State Labor Market
+Information (LMI) partners, state and local data users, and U.S. Census Bureau researchers. See here for more
+information on the workshop and here for more details on the call for presenters Proposals to present are due by
+March 15.
+
+* Business Trends and Outlook Survey
+
+The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
+experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+
+                                                                                                       Page 4 of 8
+                              Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+released in March 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
+
+- Monthly Business Formation Statistics
+
+Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
+business formations monthly. The data are available at the state, regional and national levels and by industry sector
+at the national level. The next monthly BFS will be released March 12 and will include February 2024 data.
+Business Formation Statistics - Release Schedule (census.gov).
+
+***
+
+Stats for Stories
+
+* Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to
+current events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story
+mining and producing content for their respective audiences.
+
+- International Women's Day: March 8, 2024
+
+- Sunshine Week & FOI Day: March 10-16 & 16, 2024
+
+- Equal Pay Day: March 12, 2024
+
+- Pi Day: March 14, 2024
+
+- Potato Chip Day: March 14, 2024
+
+- National Agriculture Day & Week: March 17-23 & 19, 2024
+
+- Certified Nurses Day: March 19, 2024
+
+- National Poultry Day: March 19, 2024
+
+- National Single Parent Day: March 21, 2024
+
+- World Water Day: March 22, 2024
+
+- MLB Opening Day: March 28, 2024
+
+- National Mom and Pop Business Owners Day: March 29, 2024
+
+- National Vietnam War Veterans Day: March 29, 2024
+
+- National Doctors Day: March 30, 2024
+
+***
+
+Recently Released
+
+(Released since February 9, 2024)
+
+2020 Census
+
+* 2020 Island Areas Censuses Detailed Cross-Tabulations Data
+
+February 15 -- The Census Bureau released detailed cross-tabulation data for the U.S. Island Areas: American
+Samoa, the Commonwealth of the Northern Mariana Islands, Guam and the U.S. Virgin Islands. The release
+includes 95 demographic, social, economic and housing characteristics tables. These characteristics are cross
+
+                                                                                                         Page 5 of 8
+                               Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+tabulated by race, age, sex, place of birth, educational attainment, labor force status, occupation, industry, and
+income and earnings. Housing characteristics are cross tabulated by age of householder, household income in
+2019, household size, tenure, units in structure and year built. This final release of 2020 Island Areas Censuses
+data includes the Island Area and county levels of geography. More information is available on the 2020 Island
+Areas Censuses Data Products webpage. Spanish translations available for American Samoa, the Commonwealth
+of the Northern Mariana Islands, Guam and the U.S. Virgin Islands.
+
+***
+
+American Community Survey
+
+* Census Bureau Releases 2022 Community Resilience Estimates Equity Supplement
+
+February 20 -- The U.S. Census Bureau released the 2022 Community Resilience Estimates Equity Supplement,
+an update to the CRE for Equity Interactive Tool, for U.S. areas most socially vulnerable to disasters. The
+Community Resilience Estimates Equity Supplement shows a connection between income inequality and higher
+social vulnerability to the impact of disasters and includes new 2022 equity estimates with race-iterated variables
+that allow users to examine select topics related to social vulnerability by specific racial and Hispanic origin groups.
+
+* New Brief on the Commuting Patterns in the United States and Puerto Rico
+
+February 20 -- The U.S. Census Bureau released a brief highlighting the newest available statistics on commuting
+behavior from the American Community Survey (ACS). Commuting in the United States: 2022 explores recent
+commuting trends in the United States and Puerto Rico using estimates from the 2022 ACS 1-year dataset, with
+comparisons to ACS data from 2019 and 2021. The brief highlights changes in the way people travel to work since
+the onset of the COVID-19 pandemic, variation in commute time by year and across different types of community,
+and shifts in the distribution of workers leaving for work at different times of day between 2019 and 2022.
+
+***
+
+Economic
+
+* Census Bureau to Hold Webinar Highlighting New "My Community Explorer for Puerto Rico" Tool for Underserved
+and At-Risk Communities
+
+February 15 -- The U.S. Census Bureau held a webinar on February 22 to show attendees how to use the new "My
+Community Explorer (MCE) for Puerto Rico 1.0" tool. The tool displays natural disaster layers, such as hurricanes,
+and shows the impact of significant disasters on at-risk communities and underserved neighborhoods.
+
+* "Studying Workers' Travel Patterns to Employment Centers Using Census Data"
+
+February 21 -- The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration
+with the Council for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute
+presented, "Studying Workers' Travel Patterns to Employment Centers Using Census Data." This study explores
+workers' historical travel patterns, utilizing the Longitudinal Employer-Household Dynamics (LEHD) Origin-
+Destination Employment Statistics (LODES) data to gain insight into the relationship between demographic
+characteristics and primary employment centers in the San Diego region. Results of this study will help local policy
+makers and key stakeholders to institute data driven programs and policies to improve regional transportation
+systems leading to reduced congestion and emissions.
+
+***
+
+America Counts: Stories Behind the Numbers
+
+                                                                                                      Page 6 of 8
+                              Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+* America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various
+topics such as families, housing, employment, business, education, the economy, emergency preparedness and
+the population. New stories include:
+
+- 95th Oscars(R)/Academy Awards: March 10, 2024
+
+- Employee Appreciation Day: March 1, 2024
+
+- Frozen Food Month & Day: March & 6, 2024
+
+- Red Cross Month: March 2024
+
+- Presidents' Day: February 19, 2024
+
+- Singles Awareness Day: February 15, 2024
+
+- Oregon 165th Anniversary of Statehood (1859): February 14, 2024
+
+- American Heart Month: February 2024
+
+***
+
+Stats for Stories
+
+* Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
+relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
+in story mining and producing content for their respective audiences.
+
+- Valentine's Day: February 14, 2024
+
+- Mardi Gras: February 13, 2024
+
+- Inventors' Day: February 11, 2024
+
+- Super Bowl LVIII: February 11, 2024
+
+- Lunar New Year: February 10, 2024
+
+- National Weatherperson's Day: February 5, 2024
+
+- Grammy Awards: February 4, 2024
+
+- Mail Carrier Day: February 4, 2024
+
+- National Women Physicians Day: February 3, 2024
+
+- Groundhog Day: February 2, 2024
+
+- American Heart Month: February 2024
+
+***
+
+Resources
+
+* Emergency Management/Disaster Resources -- When major disasters strike, visit our Emergency Management
+webpage for demographic and economic data on impacted areas. Each disaster will include data from our key
+emergency management tools: OnTheMap for Emergency Management, Community Resilience Estimates, Census
+Business Builder: Regional Analyst Edition, and other useful resources.
+
+                                                                                                    Page 7 of 8
+                             Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+* Learn What Surveys Are Being Conducted in Your Community -- Discover which of the U.S. Census Bureau's
+130-plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving
+from the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
+
+- Atlanta
+
+- Chicago
+
+- Denver
+
+- Los Angeles
+
+- New York
+
+- Philadelphia
+
+- All Surveys
+
+***
+
+Data Tools
+
+Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
+
+* My Community Explorer for Puerto Rico -- Interactive map-based tool with demographic & socioeconomic data
+showing capacity of individuals & households to absorb stresses of the impacts of a disaster.
+
+* My Congressional District -- Access selected statistics about your Congressional district collected through the
+American Community Survey (ACS) and County Business Patterns (CBP).
+
+* QuickFacts -- QuickFacts provides frequently requested Census Bureau information at the national, state, county,
+and city level.
+
+***
+
+Training Opportunities
+
+* Census Bureau Training Opportunities -- Webinars are available on a regular basis to help the public access and
+use Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level. Descriptions of upcoming sessions are available on our Census Academy webpage. Login details are
+provided at least one week before a webinar.
+
+- Comparing the American Community Survey to the Household Pulse Survey (Wednesday, February 28, 2-3 p.m.
+EST)
+
+- Community Resilience Estimates (Thursday, February 29, 2-3 p.m. EST)
+
+- Comparing Health Insurance Data from the ACS and the SAHIE Program (Wednesday, March 13, 2-3 p.m. EST)
+
+- Navigating the Annual Integrated Economic Survey (AIES) (Wednesday, March 13, 11-12 p.m. EST)
+
+- Introduction to Geographic Areas (Thursday, March 14, 2-3 p.m. EST)
+
+- New Enhancements of the Census Business Builder (CBB) (Wednesday, March 20, 1:30-3 p.m. EST)
+
+                                                                                                 Page 8 of 8
+                             Census Bureau Issues Tip Sheet No. 4 - Feb. 23, 2024
+
+- TIGERweb - Prowling Through Geographic Attributes (Thursday, March 28, 2-3 p.m. EST)
+
+Visit the Census Bureau's Educational Resource Library for previously recorded, free training available at your
+convenience. The library includes presentations, recorded webinars, tutorials and other helpful materials.
+
+***
+
+Original text here: https://www.census.gov/newsroom/tip-sheets.html
 
 Copyright Targeted News Services
 
-MSTRUCK-8741542 MSTRUCK
+T40-MgEditor-8500722 T40-MgEditor
 
 
-Load-Date: July 25, 2024
+Load-Date: February 25, 2024
 
 
   

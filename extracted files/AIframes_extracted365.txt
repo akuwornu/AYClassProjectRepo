@@ -1,49 +1,180 @@
 
 
-                                                                                                       Page 1 of 1
-                        FEC INACTION ON DEEPFAKES IS DANGEROUS AND INEXCUSABLE
+                                                                                                          Page 1 of 4
+                                            How to 3D-print a school in a war zone
 
 
 
 
-      FEC INACTION ON DEEPFAKES IS DANGEROUS AND INEXCUSABLE
-                                               States News Service
-                                              June 27, 2024 Thursday
+                                 How to 3D-print a school in a war zone
+                                                          CNN Wire
+                                           March 26, 2024 Tuesday 2:26 AM GMT
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Cable News Network All Rights Reserved
 
-Length: 231 words
-Byline: States News Service
-Dateline: WASHINGTON, D.C.
+Length: 1544 words
+Byline: By Rebecca Cairns, CNN
+Dateline: (CNN)
 
 Body
 
 
-The following information was released by Public Citizen:
+        (CNN) - With its soft gray lines and sleek, curving exterior, Project Hive looks less like a school and more
+like a wellness retreat or modern art museum.
 
-It has now been eight months since the FEC closed its comment period on Public Citizen's petition for a new rule to
-regulate the use of generative AI deepfakes in election ads and more than a year since Public Citizen first
-petitioned on the issue. Despite the urgency posed by the rapidly approaching 2024 elections, the FEC has yet to
-make a decision on whether or not to proceed with rulemaking.
+The structure's distinctive appearance, with a texture resembling a cocoon or the structure's namesake beehive, is
+down to the construction method used to build it: 3D printing.
 
-Robert Weissman, president of Public Citizen, released the following statement:
+Standing less than 200 feet from School No.23 in Lviv, Ukraine, the walls of the 3,983-square-foot educational
+facility were printed in just 40 hours with a COBOD gantry printer, which follows digital blueprints to lay concrete like
+piping icing onto a cake.
 
-"Is the Federal Election Commission a real federal agency or just a deepfake version of one?
+It's the first 3D-printed education center in Europe and the first building to be 3D-printed in a war zone, according to
+Jean-Christophe Bonis, founder of Team4UA, the non-profit responsible for the pilot project.
 
-"It's certainly not acting like a real federal agency. With the November election less than five months away and with
-deepfake technology improving seemingly daily, it is imperative that lawmakers and regulators put in place
-protections against a deepfake democratic disaster. Instead, the FEC is refusing, yet again, to do its job. It has
-kicked the can, yet again, on Public Citizen's common-sense petition for the agency to use its existing authority to
-put rules in place to stop deceptive and fraudulent deepfakes.
+"I'm not a builder; I don't want to be an architect or a developer... But through robotics and AI, through technology,
+we can accelerate the (building) process," Bonis told CNN in a video interview.
 
-"Twenty states have passed laws on a bipartisan basis to address the problem. Politicians of all political stripes
-recognize the threat of deceptive deepfakes and want safeguards in place. There's absolutely no excuse for the
-FEC's inaction."
+Soon after Russia launched its full-scale invasion of Ukraine in February 2022, places like Lviv faced a huge
+problem: how to cope with tens of thousands of people fleeing to - and through - the city. In the Lviv region alone,
+there were 173,000 internally displaced people as of December last year, according to the latest figures from the
+United Nations' International Organization for Migration.
+
+Project Hive will provide the school with four extra classrooms to help it accommodate additional students displaced
+by the war, said Bonis. He hopes that, if successful, the project will enable "3D printing to be one of the tools of
+local construction in Ukraine."
+
+Blackouts and bombings
+
+3D-printed construction can be significantly faster and, some experts believe, more sustainable than traditional
+building methods.
+
+                                                                                                          Page 2 of 4
+                                        How to 3D-print a school in a war zone
+
+Team4UA collaborated with Ukrainian studio Balbek Bureau on the school's design, and architecture firm Ars
+Longa on the engineering. The single-story project broke ground in September 2022, and the entire project, from
+foundations to finishings, was originally expected to take just three months.
+
+But Russian air strikes and bombing across the country through October and November 2022 hit major civilian
+infrastructure, including the power grid, causing widespread blackouts in Lviv. With local communities turning to
+power generators, Project Hive was paused while electricity supply became unstable and conditions made it unsafe
+for the printer to be delivered.
+
+It wasn't until last summer that the situation stabilized in Lviv and the power supply was fully restored, finally
+allowing the printer to be delivered. Although it took less than two days, cumulatively, to print the building's concrete
+frame, Team4UA spread this across six weeks so it could deliver training and development sessions on site.
+
+After revising its opening date to January 2024, the project hit another roadblock: funding. Construction costs in
+Ukraine have risen sharply in the past year, and to complete the final finishing work, such as roofing, windows,
+doors and interior design, project organizers say they need to raise another $400,000.
+
+"I'm facing challenges on a daily basis," said Bonis. But he continues undeterred: "(This) is also a way of taking
+technology to give back hope."
+
+A costly option
+
+As a relatively new technology, and with limited data on the resulting buildings' safety and stability, 3D-printed
+construction has predominately been used for one-off projects or research collaborations.
+
+Dutch architecture firm DUS has been experimenting with 3D-printed houses since 2015, and Texas-based
+construction firm ICON has 3D-printed entire communities in Austin, Texas and Nacajuca, Mexico. In 2020, the
+Dubai Future Foundation became the world's first 3D-printed commercial building, and in 2021, the world's first 3D-
+printed school was completed in Malawi, with the walls laid in just 18 hours.
+
+However, when it comes to large-scale construction, the technology is "still in its infancy," said Christian Lange, an
+associate architecture professor at Hong Kong University, where he oversees the Robotic Fabrication Lab.
+
+Lange is skeptical about the benefits of using 3D printing to build in regions with ongoing conflict or disruption.
+
+While technology has the potential to be cheaper than conventional building methods, the up-front costs of the
+printers can be extremely high, and their size can make them difficult and costly to move.
+
+According to Lange, there are cheaper, faster alternatives to 3D printing, such as prefabricated and modular
+buildings. Made using parts that are constructed in factories and quickly assembled on site, prefabs were popular in
+the early 20th century, when they were used to rebuild after World War II and provide cheap housing for displaced
+people.
+
+"Temporary shelter doesn't need to be permanent shelter," said Lange in a phone interview. "Where 3D printing is
+really great is when you have special geometries and shapes, because you're totally free - the robot or the machine
+doesn't care if you build a straight wall or a curved wall."
+
+But in Ukraine, where many technicians, construction workers and industry experts are fighting on the front lines,
+automation may help counter labor shortages, said Olga Gavura, managing partner at 7CI Group, a contractor on
+Project Hive.
+
+"The fact this technology helps to build with a smaller number of specialists is a significant advantage," said
+Gavura, adding that just four experts were required for the construction phase of Project Hive.
+
+                                                                                                             Page 3 of 4
+                                         How to 3D-print a school in a war zone
+
+As Russian airstrikes continue to devastate the nation's infrastructure - 2024 has already seen multiple attacks
+targeting cities, including Lviv, killing civilians and destroying homes - Gavura believes that, for the number of
+structures needing to be rebuilt, 3D printing will become essential.
+
+She believes pilots like Project Hive can not only test construction processes but will help train a generation of
+Ukrainian specialists who "can apply the technology, on their own, in future," she added.
+
+Reconstructing communities
+
+Team4UA is not the only organization to see the potential of 3D-printed construction in disaster and conflict zones.
+
+Arizona-based construction company Diamond Age is currently in discussion with Ukrainian officials about printing
+bomb shelters and military infrastructure, said the firm's CEO Jack Oslan.
+
+Diamond Age uses a patented 3D printing system that, it claims, insulates the buildings' walls. Oslan said his
+company's structures are 30% more energy efficient than those made from lumber frames and are strong enough to
+withstand a Category 5 hurricane or moderate earthquake.
+
+"It's this climate resiliency that gives us the perfect platform to transition into military and humanitarian applications,"
+he said, adding that automation could help reduce casualities when building in war zones: "There (will) be fewer
+people in harm's way, which we think is important."
+
+Damage to Ukrainian infrastructure between Russia's full-scale invasion and September 2023 - including homes,
+schools, energy grids and transport networks - will cost an estimated $151.2 billion to replace, according to a study
+by the Kyiv School of Economics. Researchers found that over 3,500 educational facilities were among the
+buildings damaged or destroyed, along with over 160,000 homes.
+
+Oslan sees huge opportunity for 3D printing to help begin rebuilding the nation. "We would expect that anything we
+deliver to Ukraine today to build military or humanitarian structures would ultimately transition into the building of
+homes, for the reconstruction of (the country's) communities," he added.
+
+'A vision for this country'
+
+Back in Lviv, there's more excitement around Project Hive than one might expect for a primary school building,
+according to Bonis.
+
+"When I'm on the site, I have children coming to me with their parents and telling me in Ukrainian, 'I will be in this
+school, I'm so excited, my school is unique in the country'," he said.
+
+In an email to CNN, the head of Lviv City Council's education department, Andriy Zakaliuk, said the project offered
+"a unique opportunity" to custom-build an environment for young students.
+
+"It is symbolic that they will begin their new stage of life in a new, modern environment," said Zakaliuk. "Now these
+children have the opportunity to see that, with the help of a 3D printer, you can build real buildings."
+
+While he awaits yet another revised opening date for the new school building, Bonis is already planning two more
+ambitious 3D printing projects - a bridge in Kherson, and an eight-story building in the center of Kyiv.
+
+Team4UA hopes these pilot schemes can help it increase its speed and efficiency while cutting costs for future
+projects. Bonis is meanwhile establishing a private company that will purchase two 3D printers to offer "printing as a
+service" in Ukraine, with profits helping to support Team4UA's humanitarian aid work.
+
+"It's not only a concept of printing a school - it's a vision for this country," said Bonis. "This war will be over sooner
+or later. At that moment, we need to get back to life, to build back and turn the page."
+
+         By Rebecca Cairns, CNN
+
+                                                                                    Page 4 of 4
+                                    How to 3D-print a school in a war zone
+
+TM & © 2024 Cable News Network, Inc., a Time Warner Company. All rights reserved.
 
 
-Load-Date: June 28, 2024
+Load-Date: March 26, 2024
 
 
   

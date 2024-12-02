@@ -1,63 +1,763 @@
 
 
-                                                                                     Page 1 of 2
-                  INTERNATIONAL PATENT: &#304;STANBUL GEL&#304;&#350;&#304;M UN
-          &#304;VERS&#304;TES&#304; FILES APPLICATION FOR "ARTIFICIAL INTELLIGENCE BASED
-                                     EMERGENCY DETECTION....
+                                                                                             Page 1 of 14
+    House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                      of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
 
 
 
 
-   INTERNATIONAL PATENT: &#304;STANBUL GEL&#304;&#350;&#304;M
-   UN&#304;VERS&#304;TES&#304; FILES APPLICATION FOR "ARTIFICIAL
-    INTELLIGENCE BASED EMERGENCY DETECTION AND NOTIFICATION
-                            SYSTEM"
-                                                       US Fed News
-                                             June 11, 2024 Tuesday 3:24 AM EST
+ House Armed Services Subcommittee on Readiness And Projection Forces
+  Hearing; "Posture and Readiness of the Mobility Enterprise - TRANSCOM
+   and MARAD."; Testimony by Jacqueline Ovost, commander of the U.S.
+                         Transportation Command
+                                           Congressional Documents and Publications
+                                                             April 11, 2024
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Length: 359 words
-Dateline: GENEVA
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 9669 words
 
 Body
 
 
-GENEVA, June 11 -- &#304;STANBUL GEL&#304;&#350;&#304;M UN&#304;VERS&#304;TES&#304; (Cihangir
-Mahallesi &#350;ehit Jandarma Komando Er Hakan Oner Sk. No:1Avc&#305;lar/Istanbul) filed a patent application
-(PCT/TR2023/050116) for "ARTIFICIAL INTELLIGENCE BASED EMERGENCY DETECTION AND
-NOTIFICATION SYSTEM" on Feb 08, 2023. With publication no. WO/2024/118006, the details related to the patent
-application was published on Jun 06, 2024.
+Who We Are - Our Mission
 
-Notably, the patent application was submitted under the International Patent Classification (IPC) system, which is
-managed by the World Intellectual Property Organization (WIPO). Inventor(s): &#199;ET&#304;NKAYA, Ali
-(Cihangir Mahallesi &#350;ehit Jandarma Komando Er Hakan Oner Sk. No:1Avc&#305;lar/Istanbul) Abstract: This
-invention; It is about the artificial intelligence-based emergency detection and notification system, which was
-developed in order to prevent many people from injury and loss of life by detecting disasters or accidents that may
-occur in areas where crowded groups of people work, such as factories, mines, business centers and its feature is;
-at least one electronic device (2) that makes the operating status of the control panel (1) visible, at least one of the
-sensors (3) or combinations of sensors that measure the air gas level, oxygen quality, carbon dioxide amount,
-carbon monoxide amount, humidity and temperature of the environment according to the objects in the
-environment, artificial intelligence algorithm (5) installed on the processor in the computing or central command
-system, using the information received with the infrastructure established by the IOT sensor module (4) at points
-such as factories and buildings, it contains at least one stimulus (6) that notifies visually or visually that an accident
-or disaster situation will occur as a result of the processing of the data coming from the said sensor (3) by the
-artificial                intelligence              algorithm                (5).                 For                more
-information:https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024118006 For any query with respect to
-this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+U.S. Transportation Command's (USTRANSCOM) enduring purpose is to project and sustain combat power
+whenever and wherever the United States chooses. Within the ever-changing strategic and operational landscape,
+our logistics and mobility enterprise continues to play an integral role in assuring our Nation's defense, as well as
+aiding leaders at all echelons to preserve time and create better options - a decision advantage. The 2022 National
+Defense Strategy (NDS) envisions a future force as lethal, sustainable, resilient, survivable, agile, and responsive -
+our logistics and mobility enterprises will meet this call. USTRANSCOM, its components, and its commercial
+partners are advancing efforts in connectivity, data-driven decision-making, and creating options to support
+integrated deterrence, campaigning efforts, and an enduring advantage for our joint force.
 
-                                                                                   Page 2 of 2
-                INTERNATIONAL PATENT: &#304;STANBUL GEL&#304;&#350;&#304;M UN
-        &#304;VERS&#304;TES&#304; FILES APPLICATION FOR "ARTIFICIAL INTELLIGENCE BASED
-                                   EMERGENCY DETECTION....
+As one of eleven combatant commands, our warfighting team is a diverse force, composed of our component
+commands, as well as a subordinate command, interagency, and commercial partners of the broader Joint
+Deployment and Distribution Enterprise (JDDE) and the Joint Petroleum Enterprise (JPE). The entire enterprise
+works together to move the right capabilities to the right place, at the right time. Our assigned Unified Command
+Plan responsibilities are executed through three component commands (U.S. Army's Military Surface Deployment
+and Distribution Command (SDDC), U.S. Navy's Military Sealift Command, and U.S. Air Force's Air Mobility
+Command), and one subordinate command, the Joint Enabling Capabilities Command (JECC). Our key mobility
+mission areas include sealift, strategic seaports, airports, air refueling, airlift, patient movement, domestic rail, global
+bulk fuel management, and motor transport. The JDDE operates as a Total Force, harnessing the unique skills of
+Active Duty, Reserve, National Guard, government civilians, contractors, and commercial industry teammates who
+are vital to our ability to bolster warfighting readiness.
+
+Annually, USTRANSCOM spends approximately 9.5 billion dollars in organic and commercial transportation
+services to execute Department of Defense (DoD) mission requirements. The Transportation Working Capital Fund
+(TWCF) is the lifeblood of USTRANSCOM's mission to deploy and sustain the joint force. TWCF fiscal resources
+provide the agility necessary to rapidly respond to complex and unplanned operations. We have been below our
+
+                                                                                            Page 2 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+cash thresholds for several years and are working closely with the Department to return the TWCF to our normal
+boundaries while not hindering Services' buying power. An essential part of that solvency plan is to receive a
+supplemental reimbursement for support to Israel. The TWCF has already expensed $172M for transportation costs
+for Israel and projects total costs at $550M for FY24 as of 4 March 2024. The TWCF cannot absorb this amount
+and requires reimbursement to ensure our ability to rapidly respond to emerging needs as requested in the
+Administration's October 2023 supplemental appropriations request.
+
+The DoD's ability to project military forces inextricably is linked to commercial industry, what we like to call our
+fourth component. Our industry partners provide critical transportation capacity, petroleum infrastructure, global
+networks, and contracts, to meet day-today and wartime requirements. USTRANSCOM also partners with other
+U.S. Government Departments and Agencies, such as the U.S. Department of State and U.S. Department of
+Transportation (DOT), especially the Maritime Administration (MARAD), who operates and maintains the
+Government-owned sealift fleet. We also partner with the Federal Highway Administration and Federal Railroad
+Administration within DOT to evaluate the readiness of key road and rail transportation networks to support defense
+requirements, and we collaborate closely with other key logistics partners and Defense Transportation System
+customers, including the Defense Logistics Agency, the General Services Administration, and U.S. Coast Guard, to
+establish supportive policies and guide our efforts.
+
+Where We Are - Strategic Environment
+
+Strategic competition is a daily reality, and our Nation's competitors are maneuvering fluidly between conventional
+and gray-zone activities. Russia's war of aggression against Ukraine, the Houthi attacks on international shipping in
+the Red Sea, and Israel's ongoing conflict in Gaza confirms that this is still a "decisive decade." Mobility obstacles
+exist at every step in the deployment and distribution process, from the homeland to the destination. The increasing
+focus of foreign intelligence entities to map and penetrate the U.S. military/commercial logistics and critical
+infrastructure systems requires an amplified, coordinated response from all Government counterintelligence
+agencies. Over 85 percent of the Joint Force is in the Continental United States, and our mission of moving the
+warfighter to the fight will continue to be threatened by competitors that are on a trajectory to present increasingly
+challenging threats across multiple domains. We acknowledge that the homeland is not a sanctuary.
+
+The President's National Security Strategy (NSS) makes clear that the People's Republic of China (PRC) and
+Russia are working aggressively to undermine democracy and export a model of governance marked by repression
+at home and coercion abroad. The PRC continues to refine and develop its means to contest American power
+projection and sustainment operations in the Pacific. The PRC is carefully studying how the United States sustains
+our Allies and partners in Europe and the Middle East during two of this century's most destabilizing conflicts.
+Without question, the PRC has identified what they perceive to be our vulnerabilities and will attempt to exploit them
+in a future crisis with the West.
+
+In Europe, the war in Ukraine remains at the forefront. Moscow seeks to fracture Western unity and diminish our
+resolve. Our sustainment operations, particularly crucial supplies of artillery and air defenses for Ukraine's military,
+will remain a vital lifeline for them. Of note, the war strengthened Russia and PRC ties, as well as ties between
+Russia and the DPRK, and they view their deepened relationship as a strong counterbalance to the United States.
+
+The Middle East is one of our most enduring security and stability challenges. Iran and its threat network pose risk
+to sustainment operations throughout the region. Recently, we have witnessed numerous attacks on our facilities in
+Iraq and Syria. The ongoing war between Israel and Harakat al-Muqawama al-Islamiya (Hamas) is a powerful
+reminder of the highly unpredictable nature of conflict in the region. The character of this violence and instability
+guarantees that we must remain prepared to conduct mobility and sustainment operations in this volatile part of the
+world with almost no warning. We must assure Israel and our other Middle East partners that we can, and will,
+move decisively and rapidly when and where we are needed to protect our interests in the region.
+
+                                                                                            Page 3 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+Furthermore, regional instability in places such as Africa, Central and Latin America, as well as transborder issues
+like natural disasters and pandemics, will continue to challenge the Joint Force and create formidable hurdles for
+USTRANSCOM.
+
+The JDDE is accustomed to sustaining forward-deployed forces across largely uncontested environments. Logistics
+realities are changing and the JDDE cannot presume it will enjoy similar freedom of maneuver to execute
+operations with full access to our lines of communication on the ground, in the air, and at sea. The PRC has
+developed a sophisticated cyber capability for collection and attack and expanded its electronic warfare and counter
+space capabilities to degrade our Command and Control. The PRC has fielded hypersonic missiles like those used
+by Russia in Ukraine. These long-range weapons threaten our ports, fuel storage sites, stockpiles, warehouses,
+and marshalling areas throughout the Pacific. Additionally, mass drone attacks can overwhelm the battlefield and
+have caught the world's attention -from Russia using Iranian Shahed drones against Ukraine, to terrorist groups
+using one way attack drones in the Middle East as seen in the Bab-el-Mandeb strait. Air power is now available to
+any actor who has the means and will to challenge us.
+
+Our Nation's strategic network of Allies and partners provides capacity, logistical capabilities, intelligence, and
+Access, Basing and Overflight (ABO) agreements that empower the United States to compete successfully against
+global challenges. Assured access to and through foreign nations is cultivated through sustained engagement and
+agreements with our Allies, partners, and geographic combatant commands. This network of Allies and partners
+enables assured force projection and freedom of maneuver, reducing the challenges associated with maintaining
+operational reach over extended distances. This can be seen in action during OPERATION PROSPERITY
+GUARDIAN, which saw collaboration between United States Naval Forces Central Command, U.S. Central
+Command (USCENTCOM), USTRANSCOM and an international coalition protecting the free flow of commerce
+through the Red Sea.
+
+The JDDE relies on the diverse and expansive capacity of global infrastructure, both government-owned and
+commercially owned and operated, to deliver an immediate force tonight and a decisive force when needed. We
+intend to make our supporting systems more resilient and agile in the face of tomorrow's peer threats to preserve
+operational capability and protect key systems. The collective influence of our enterprise and Nation to shape the
+strategic environment can provide competitive advantage, senior leadership decision space, and complicate the
+decision matrix of any potential adversary.
+
+Where We Are Going
+
+In the decades after World War II, most transportation and logistics activities have been conducted in uncontested
+environments, however, the strategic environment has changed dramatically. We must grow our capabilities to
+ensure that logistics never becomes the weak link. We will set the conditions for a strategic environment where the
+JDDE can project and sustain the Joint Force, at the time and place of the Nation's choosing, under persistent, all
+domain attack.
+
+Our competitors' threats are real and the imperative to change is urgent. This decisive decade demonstrates the
+importance of the NDS's priorities of defending the United States homeland; deterring strategic attacks against the
+United States, Allies, and partners; deterring aggression and being prepared to prevail; and building a resilient Joint
+Force and defense ecosystem. USTRANSCOM's capabilities will be the engine that propels the NDS, underwriting
+the Joint Warfighting Concept, ensuring the viability of deterrence operations, and providing our national leadership
+with strategic flexibility.
+
+The command will enable our national priorities through the NDS's strategic ways of Integrated Deterrence,
+Campaigning, and Building Enduring Advantages. By nesting our strategic priorities and campaign objectives within
+the NDS framework, USTRANSCOM is focused on ensuring the JDDE is effectively postured to accomplish its
+mission when called upon.
+
+Integrated Deterrence is predicated on making the adversary doubt they can achieve their objectives. It requires
+working seamlessly across domains and theaters, and leveraging our unmatched network of Allies and Partners, in
+
+                                                                                            Page 4 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+order to demonstrate capability and will. USTRANSCOM remains laser-focused on projecting and sustaining the
+Joint Force by cultivating robust global mobility posture and credible strategic capacity. Strengthening relationships
+with Allies, partners, and commercial industry continues to expand friendly access, basing, and overflight, thus
+creating positional advantage across all domains. Maintaining ready, credible capacity through recapitalization,
+modernization, and a robust multi-national exercise schedule maintains our global power-projection capability while
+demonstrating collective resolve. When used in concert, posture and capacity provide a true asymmetric and
+strategic advantage for the Nation.
+
+Campaigning includes the Globally Integrated Exercise, Pacific Pathways, Keen Edge, and other joint exercises
+that put a premium on closing operational gaps to strengthen deterrence and develop new concepts to prevail.
+Large-scale exercises, fleet readiness activations, and focused wargames will enhance logistics interoperability and
+trust across the Joint Force, with Allies, partners, and the commercial industry.
+
+Building Enduring Advantages begins by addressing critical vulnerabilities and accelerating force development.
+Investing in and hardening a resilient defense ecosystem will strengthen our commercial and military transportation
+and bulk fuel management networks across multiple domains. These investments will modernize our forces for
+increased agility, survivability, and battle space awareness in a contested environment. We expect disruption to our
+operations and are focused on cyber mission assurance and digital modernization to ensure our ability to conduct
+globally integrated command and control, and to generate decision advantage. With significant volumes of data and
+advanced analytics, we expect to posture efficiently, recover quickly, and accelerate our decision advantage.
+
+Finally, our people will make the difference between victory and defeat. We acknowledge the challenges present
+today and continue to develop our warfighting team with a competitive mindset. By embracing the imperative to be
+ready now and in the future, our people understand the mission and are continually adapting to maintain our
+Nation's competitive advantage in power projection.
+
+How We Will Get There - Warfighting Framework
+
+USTRANSCOM is focused on shaping and directing the capabilities and concepts necessary to operate in future
+contested environments, which will include multi modal solutions for transloading cargo, fuel, and personnel,
+including patients, between commercial and military capacity and delivering the last tactical mile. Our analysis goes
+beyond the mobility platforms and integrates key warfighting functions, current wartime demands, and future
+concepts entailing maneuver and distributed operations. We have advanced significantly in our analytic framework
+to better conduct globally integrated mobility operations, manage global bulk fuel delivery, and synchronize our
+Global Mobility Posture, Global Mobility Capacity, and Global Command, Control, and Integration. These critical
+elements create USTRANSCOM's warfighting framework through which we carry out our missions.
+
+Global Mobility Posture
+
+The foundation of USTRANSCOM's power projection mission is our Global Mobility Posture. Domestic agreements
+and diplomatic alignment with our Allies and partners enable a globally distributed and scalable logistics network
+capable of the rapidly deploying personnel and equipment at the time and place of our choosing. This requires a
+whole-of-government approach to solidify and amplify our established nodes and routes. These dense layers of
+contacts and contracts - both military and commercial - are critical to rapidly advance our national security interests,
+deter adversaries, and when necessary, win decisively. While this provides the United States a comparative
+advantage, we must continually strengthen and diversify our global basing, infrastructure, and agreements to
+maintain this advantage, especially as new concepts and operations drive us to evolve.
+
+Deterrence and our ability to project and sustain the Joint Force begins in the homeland. Domestically,
+USTRANSCOM works closely with the DOT on numerous transportation programs including three National Defense
+Programs: Highways, Railroads, and Ports for National Defense. Although USTRANSCOM assesses that our
+Nation's infrastructure is currently capable of supporting military transportation requirements, substantial public and
+private sector investment is needed to sustain the current transportation infrastructure. For sea transportation we
+rely on a collection of DoD and commercially owned U.S. Strategic Seaports. The Strategic Seaport Program
+
+                                                                                            Page 5 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+ensures the DoD has access to sufficient seaport infrastructure to meet the Nation's objectives. Military Ocean
+Terminal Concord (MOTCO), on the West Coast, is the sole strategic ammunition seaport serving the Indo-Pacific
+region. With our U.S. Army Component, SDDC, we have identified the need for significant investments in MOTCO
+to facilitate the safe handling of ammunition and to mitigate the effects of climate change. At Military Ocean
+Terminal Sunny Point on the East Coast, major enabling infrastructure components are approaching the end of
+useful life and must be replaced to allow the terminal to meet ammunition throughput requirements. We continue to
+work with the Department of the Army to preserve and modernize both seaports to reduce risk and prevent
+capability gaps.
+
+Assured access to and through foreign nations may be incorporated into virtually any type of agreement, ranging
+from an exchange of Diplomatic Notes to a comprehensive Mutual Defense Treaty or Defense Cooperation
+Agreement of indefinite duration. The reciprocal exchange of Logistic Support, Supplies, and Services, including
+airlift, sealift, air refueling, and related services, is usually addressed in Acquisition and Cross Servicing
+Agreements (ACSAs) with Allies, partners, and international organizations. USTRANSCOM has the authority to
+negotiate and conclude function- or event-specific ACSA Implementing Arrangements with Allies, partners, and
+international organizations. For treaties, protection agreements, services agreements, ABO agreements, diplomatic
+notes, and implementing arrangements, USTRANSCOM relies on each geographical combatant command to
+initiate negotiations, working closely with the Department of State, and conclude agreements with host nations
+within their areas of responsibility (AORs).
+
+USTRANSCOM also participates with geographic combatant commanders in other host nations' and regional
+alliances' infrastructure planning that could be beneficial to our command's mobility mission. For instance, the
+interface between U.S. European Command's (USEUCOM) development of theater posture and North Atlantic
+Treaty Organization's (NATO) efforts to provide capabilities necessary for its war planning provides USTRANSCOM
+visibility on NATO-built or planned infrastructure possibly available for the command's deployment and distribution
+mission.
+
+Finally, USTRANSCOM engages with Allies and partners through its Security Cooperation program. This program
+promotes interoperability with partner nations and requires persistent engagement with the Security Cooperation
+Functional Community. Tools used for engagement include forums, information sharing, exercises and wargames,
+key leader engagements, participation in lift-sharing consortiums, Mobility Support Advisory Squadrons, and the
+Aerial Refueling Systems Advisory Group.
+
+Global Mobility Capacity
+
+Our capacity includes sealift, air refueling, airlift, patient movement, rail, motor transport, bulk fuel, and the ability to
+fully mobilize the Total Force at the time and point of need. Our commercial partners provide significant mobility
+capacity; however, integrated planning is critical to ensure conditions are set to best enable successful Civil
+Reserve Air Fleet (CRAF), Voluntary Intermodal Sealift Agreement (VISA), and Voluntary Tanker Agreement (VTA)
+operations. Our available capacity, including emergency preparedness programs, continues to represent a credible
+option for delivering fuel, munitions, personnel, and materiel or evacuating patients - regardless of the environment.
+
+In August 2023, USTRANSCOM completed the 2023 Mobility White Paper that assessed the capability and
+associated risk in meeting warfighting demands as outlined in the 2022 National Defense Strategy. The study
+emphasized that ensuring sufficient and credible strategic airlift capacity (C-17 and C-5), continuous modernization
+of our air refueling aircraft (KC-135 and KC-46), and sustained recapitalization of our mobility lift platforms
+(RO/ROs, airlift, and air refueling) is critical to ensure USTRANSCOM can continue to project and sustain the Joint
+Force. The organic sealift fleet is currently sufficient to meet wartime needs at an acceptable level of risk, but an
+aging fleet makes recapitalization an urgent priority. The air refueling fleet remains increasingly challenged in terms
+of threat-driven basing, increasing joint force demands, and adversary actions complicating air refueling output.
+USTRANSCOM has worked with the US Air Force to continue funding over the long term to replace aging aircraft to
+sustain fleet capacity while pursuing critical modernization efforts. The strategic airlift fleet of 275 aircraft (223 C-17
+and 52 C-5M aircraft) remains vital to rapid global mobility. Recent mobility studies validated our current strategic
+
+                                                                                            Page 6 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+airlift capacity is sufficient at elevated risk but will be stressed to meet wartime requirements. Low readiness is a
+key concern across the airlift and air refueling fleets; failure to maintain the current fleets or to modernize them to
+improve survivability in an increasingly contested logistics environment will lead to diminished mobility capacity. The
+theater airlift fleet of 271 C-130 aircraft is heavily stressed to meet the demand for globally integrated plans, which
+include transload movement from commercial aircraft, time-sensitive movement of forces and supplies, and
+battlefield aeromedical evacuation (AE).
+
+Long, contested lines of communications, and the tyranny of distance with a distributed footprint in the Indo-Pacific
+region, present challenges for the JDDE to project, maneuver, and sustain the Joint Force. Analysis highlights a
+tight coupling between intra-theater airlift and sealift assets required to maneuver and sustain fielded forces given
+the scarcity of ground lines of communication. Increased investment in theater sealift is needed. Absent sufficient
+shallow-draft sealift vessels and bulk fuel tankers, mobility requirements shift to intra-theater airlift, exacerbating
+significant demands already levied on the airlift fleet. The challenges of satisfying competing, simultaneous
+demands across significant distances at increasing velocity are compounded by an increasingly contested
+operational environment. This places a premium on the credibility of our capacity: ready, capable mobility forces
+prepared to scale from campaigning to crisis and ensure global power projection requirements are met.
+
+Connectivity is foundational to the air mobility enterprise's ability to project, maneuver, and sustain the Joint Force.
+Without it, our air mobility fleets will continue to lack the battlespace awareness necessary to survive in the
+increasingly complex and contested operational environment projected in conflict against a peer adversary.
+Connectivity is vital to the credibility of our air mobility capacity, and our ability to meet joint force demands at the
+time and place of our choosing. After decades of operations in permissive environments, our air mobility fleets lack
+the ability to leverage current and future Air Force and Joint Battle Networks, leaving them blind to friend and foe
+alike. Our asymmetric advantage to globally project and sustain power on demand depends on air mobility to
+demonstrate our readiness and national will - in crisis or conflict - at relevant velocity and mass. Successful
+prosecution of this mission is a strategic imperative: it relies on the survivability of our air mobility enterprise, for
+which battlespace awareness is a pre-requisite, and unachievable without connectivity. This is an issue of utmost
+consequence; I fully support Air Mobility Command's efforts to rapidly connect its fleets.
+
+Global Command, Control, and Integration
+
+Malign actors in cyberspace pose a real and persistent threat to USTRANSCOM systems. Our global enterprise of
+transportation and logistics services depends on the connectivity these networks provide. Global Command,
+Control, and Integration is the exercise of authority and direction to plan, coordinate, synchronize and control
+operations at-echelon. Expanding vulnerabilities due to data saturation, demand fast and informed decision making
+at an unprecedented scale and scope. Indeed, the rapidly changing character of war means that turning data into
+decisions more quickly and accurately than our adversaries is our new center of gravity. As USTRANSCOM
+transforms into a data-centric organization, we have partnered with the DoD Chief Digital and Artificial Intelligence
+Office to strengthen our ability to treat data as a strategic product, becoming a data-driven organization with the
+capabilities, tools, and culture to gather and analyze information for better business and operational decisions.
+
+Cyber resiliency and digital modernization enable our ability to conduct globally integrated command and control,
+generate decision advantage, enhance response actions to threats posed by cyber adversaries, and reduce
+vulnerabilities across the JDDE.
+
+USTRANSCOM's contribution to daily campaigning and wartime power projection, inherent in integrated
+deterrence, stems from connecting the three elements in the command's mobility warfighting framework: (1) global
+mobility posture through a robust network surface infrastructure and nearly 90 key enroute international airfields
+and seaports in 44 host nations for access, basing, and overflight, (2) credible global mobility capacity leveraging
+both organic and commercial assets for strategic airlift, sealift, air refueling, theater airlift, aeromedical evacuation,
+and enablers for end-to-end connectivity, and (3) global command and control and integration of all elements
+necessary to rapidly align scarce mobility resources to meet the DoD's highest priorities. USTRANSCOM is
+investing resources and leadership focus to adapt to the operational environment's changing conditions. Our goal is
+
+                                                                                            Page 7 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+to be able to sustain mission outcomes under attack and recover rapidly from disruptions that adversaries hope will
+impair our command's role in global logistics. The implementation of Zero Trust principles remains foundational to
+ensuring we can execute our mission, especially as we drive toward our objective of "TRANSCOM Anywhere"
+providing operational, reliable, scalable, and secure access on-demand everywhere and at all times.
+
+In addition to our internal initiatives and as is the case with most organizations, USTRANSCOM is dependent upon
+numerous external capability providers. A key example with profound impact on USTRANSCOM's ability to
+maintain effective command and control while operating globally are the space-based intelligence, surveillance, and
+reconnaissance, satellite communications and positioning, navigation, and timing capabilities provided by the
+
+Intelligence Community, Services and USSPACECOM. To meet our global operations demands, the DoD must
+procure Satellite Communications (SATCOM) as an enterprise system -- from on-orbit down to the ground segment
+and warfighter terminals. To win in a multi-domain fight, future SATCOM systems must have improved system
+resilience, on-orbit endurance through refueling and extended maneuverability, and improved environmental
+situational awareness. Essentially, the systems need to be able to detect and respond to both natural and
+adversarial threats. To provide navigation and positioning information central to effective command and control,
+USTRANSCOM fully recommends that the services are allocated appropriate funding for acquisition of military
+signal (M-code) enabled receivers to ensure connectivity to the Global Positioning System (GPS) capabilities that
+are critical to the warfighter's effectiveness. This funding will allow the services to operate in a GPS contested
+environment and meet congressional directives in the 2017 National Defense Authorization Act.
+
+Finally, and continuing the theme of coordination with external capability providers, USTRANSCOM is
+strengthening partnerships with our transportation service providers to mitigate cyber vulnerabilities and increase
+resiliency. Last year marked the sixth year of contractually requiring our transportation service providers to conduct
+annual cybersecurity selfassessments to track compliance with the National Institute of Standards and Technology
+security guidelines. We are increasing information-sharing and collaboration initiatives with our commercial
+partners, to include no-cost tools and services available from various government agencies, such as the National
+Security Agency, and Department of Homeland Security's Cybersecurity and Infrastructure Security Agency.
+
+Year in Review
+
+Last year, USTRANSCOM continued to demonstrate the positive impact a dedicated logistics combatant command
+can have on global operations. In FY23, USTRANSCOM delivered over 289,000 passengers and over 330,000
+short tons (STONs) by airlift, over 13.1 million square feet of cargo by sealift, and conducted 5,518 patient
+movements, outpacing our FY22 operations. USTRANSCOM's logistical prowess remains on full display as we
+balance the rigors of our global mission.
+
+In 2023, USTRANSCOM delivered more than 325 million pounds of security assistance equipment to Ukraine,
+resulting in more than 650 million pounds total delivered since the command began this effort in January 2022.
+USTRANSCOM delivered $9 million worth of Department of Energy equipment to the embattled nation early in the
+year to reinforce and reconstitute its critical power grid infrastructure, as well as more than 250 air defense systems
+and 2,800 missiles in defense of Ukrainian population centers. Eight Armored vehicle bridges, 78 breaching
+vehicles, 341 personnel-carrying vehicles, 33 tanks, and more than 1.1 million artillery rounds - combined with
+Allied and partner nation donations - have allowed the Ukrainian Armed Forces to maintain battlefield parity across
+a wide front. USTRANSCOM continues to expedite high-priority equipment to the point of need while also balancing
+security assistance requirements within the U.S. Indo-Pacific Command (USINDOPACOM) and USCENTCOM
+AORs.
+
+The command also supported USINDOPACOM's Operation PACIFIC PATHWAYS 23 (OP23), encompassing 13
+exercises in eight countries, by transporting over 660,000 square feet of cargo aboard four Ready Reserve Force
+(RRF) vessels. In support of OP23, we transported over 2,100 personnel and 800 STONS of cargo via organic and
+commercial aircraft into the region. Our support to USINDOPACOM highlights our interconnectedness with the
+
+                                                                                            Page 8 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+command and enhances our relationships with Allies and partners, enabling the United States to counter the PRC
+influence in the region and exercise our capability to surge sealift.
+
+USTRANSCOM remains postured to surge in the event of crisis in support of all combatant commands. In U.S.
+Africa Command and USEUCOM, we transported 2,000 passengers and 2,500 STONs in support of multiple crises.
+In February, we supported our NATO ally the Republic of Turkiye with humanitarian assistance and disaster aid in
+response to the 7.8 magnitude earthquake. In April, we supported the military assisted departure of our Department
+of State teammates in Sudan. Finally, following the coup in Niger, USTRANSCOM delivered critical support to
+counter violent extremist operations in the Sahel region. We project and sustain the Joint Force, and our Allies and
+partners, at the speed of need.
+
+USTRANSCOM, as directed in the Unified Command Plan, is the sole provider, through the Joint Enabling
+Capabilities Command, of rapidly deployable Joint enabling capability packages of communications, planning, and
+public affairs. This force enables combatant commanders to rapidly establish Joint Task Force Headquarters that
+exercise command and control in crisis and contingency. In FY23 the JECC deployed multiple small teams with a
+total of 47 communicators, planners, and public affairs professionals in support of Security Assistance Group-
+Ukraine, Joint Task Force-Red Hill defuel operations, DHS Southwest Border Operations, and the crisis in Niger. As
+we began FY24, the JECC rapidly deployed the same capabilities at home and abroad in response to the Israel's
+war against Hamas. In addition to crisis response, the JECC provided over 21,000 man-days in support to Joint and
+service exercises, Joint capability development initiatives, and Joint strategic planning efforts primarily focused on
+the pacing challenge.
+
+Throughout FY23, USTRANSCOM conducted extensive global operations, delivering over 86.2 million gallons of
+fuel during air refueling missions, which resupplied over 49,000 receiver aircraft on over 26,000 missions (31,779
+sorties). Furthermore, USTRANSCOM supported 42 bomber task force missions, reassuring our partners across all
+six theaters, and reminding adversaries how quickly we can project combat power. These missions in the
+USINDOPACOM and USEUCOM AORs displayed combat credibility and furthered multilateral integration, ABO
+efforts, and deterrence. USTRANSCOM also supported multiple fighter aircraft movements and intelligence,
+surveillance, reconnaissance support missions for USINDOPACOM, USEUCOM, and USCENTCOM solidifying our
+global campaign plan and signaling support to our Allies and partners.
+
+Risk Mitigation Efforts
+
+Proactive mobility recapitalization efforts are crucial for us to effectively operate in a future contested logistics
+environment. USTRANSCOM's assessment of mobility sufficiency under the NDS found our current mobility
+capacity sufficient, but at increased levels of risk due to the focused and persistent efforts of our adversaries. Risk
+is further heightened by an erosion of readiness and capacity in key mobility areas.
+
+National Maritime Strategy
+
+We appreciate and encourage the efforts to develop a national maritime strategy. Our pacing challenge, the PRC,
+has not only developed a robust maritime strategy, but their strategy also seeks to dominate the maritime industry
+world-wide enhancing both economic and national security advantages. It is estimated that the PRC has controlling
+stakes in 96 foreign ports in 53 countries; the PRC builds 100 times the number of ocean-going vessels as
+compared to the
+
+United States, makes 80 percent of ship-to-shore cranes used in the United States and produces 85 percent of the
+world's shipping containers. Additionally, the PRC invests $132 billion in subsidies for shipping and shipbuilding.
+The PRC is militarizing its merchant marine force, not only to compete with Western powers, but also to dominate
+maritime activity in the Pacific. I echo the sentiments of Secretary of the Navy Del Toro where he argues, "no great
+naval power has ever existed without also being a dominant commercial maritime power, encompassing both
+shipbuilding and global shipping... It is imperative that we take decisive action to reclaim America's position as a
+leading maritime power."
+
+                                                                                            Page 9 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+USTRANSCOM is collaborating with the Center for Naval Analysis and MARAD on a study that will inform a U.S.
+National Maritime Strategy. This is a whole of government strategy that should be coordinated, staffed, and issued
+from the highest level of government and endorsed by the National Security Council.
+
+Sealift
+
+One of my highest concerns is the reduction in capacity and readiness in the organic RRF. Our organic sealift fleet
+and commercial transportation partners must continue to present credible deterrence and require proactive efforts
+to recapitalize and modernize. Seventeen of the 47 ships are 50 years old or older, with the oldest being 56 years
+old. Therefore, USTRANSCOM supports the Navy's strategy to recapitalize the government-owned fleet by
+acquiring foreign-built used sealift vessels from the commercial market and further requests to provide the
+Secretary of Defense discretionary authority to purchase foreign built ships to expeditiously replace the aging ships
+under more favorable market conditions. This includes removing the overall limit on the number of used sealift
+vessels DoD can procure, currently authorized at nine ships. We acknowledge Congress' intent to include domestic
+new build sealift ships to recapitalize the RRF and look forward to plans from the Navy and MARAD that will
+complement the Buy Used program and expeditiously renew the fleet. We are already a generation late in
+recapitalizing a ready sealift fleet to meet our national objectives.
+
+Working with MARAD, we have purchased two used RO/RO vessels and three used roll-on/container ships with
+over one million useful square feet capacity. However, the process must be accelerated to keep pace with the
+retirement schedule. To maintain sealift capacity and preserve sealift readiness, we are advocating to accelerate
+used vessel purchases and to continually refine the current retirement plan to manage risk within program
+resources.
+
+Furthermore, we will remain a strong advocate for continued funding for secure communications capabilities to
+support the organic RRF. Continued Navy and MARAD investment in secure data and voice communications
+capabilities will enhance our ability to Command and Control our organic sealift in the most challenging
+environments. Additional investment is required to field and sustain comparable secure communications capabilities
+to support our commercial partners in sufficient quantities to meet the demands of contested operations, and to
+ensure the entire logistics enterprise remains fully capable into the future.
+
+The VISA and the VTA, together with their complementary peacetime programs the Maritime Security Program
+(MSP) and Tanker Security Program (TSP) provide assured access to a fleet of U.S. flagged sustainment sealift
+vessels and product tankers for use during armed conflict or national emergency. The recently implemented TSP
+ensures we have access to industry fuel distribution capabilities for defense needs. Together with MARAD, we
+successfully awarded the initial ten operating agreements with a primary focus on support to underway refueling of
+the U.S. Navy's combat fleet. Though not yet appropriated, the FY 23 NDAA authorized the expansion of TSP from
+10 to 20 vessels. We are working with MARAD and industry partners and intend to target shallow draft tanker
+vessels to address intra-theater bulk fuel distribution in the Indo-Pacific.
+
+In addition to the TSP, we fully support the MSP which provides the DoD with assured access to 60 U.S flag sealift
+vessels. The RRF, the TSP and the MSP are pivotal to enhancing global readiness and safeguarding our nation's
+supply chains. These sealift programs underscore our nation's steadfast commitment to national security and
+economic stability and exemplify the indispensable partnership between MARAD and USTRANSCOM, and
+industry.
+
+The Merchant Marines
+
+The U.S. maritime industry is confronting manpower shortages that create a national security risk. Merchant
+Mariner readiness requires continued assessment to ensure an adequately trained supply of merchant mariners to
+crew our surge fleet while minimizing impacts to commercial industry. USTRANSCOM and Military Sealift
+Command depend on the U.S.-flag merchant marine fleet, with the security benefits of American crews, to move
+sensitive defense materials. Unfortunately, due to a confluence of factors including complications from the COVID-
+
+                                                                                           Page 10 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+19 pandemic, the workforce is shrinking. We look forward to the outcomes of the recently started, congressionally
+mandated, Merchant Mariner Workforce Working Group to find means to mitigate and possibly reverse trends.
+
+We are encouraged by MARAD's efforts to collaboratively identify issues, potential solutions, and support a whole-
+of-government approach to address this national security matter. We will employ Navy Reserve tactical advisors on
+commercial vessels when appropriate and expand our consolidated cargo capability. This will include providing
+regular training opportunities to expand mariner proficiency in consolidated cargo operations and utilize multimodal
+solutions to deliver across dispersed locations in compressed timelines.
+
+Air Refueling
+
+The air refueling fleet remains our most stressed fleet under wartime conditions. It is critical to rapid global mobility
+and is the lifeblood of the Joint Force's ability to deploy and employ the immediate and surge forces across all NDS
+mission areas including the Department's top priorities--defense of the homeland and strategic deterrence. Credible
+air refueling capacity must simultaneously cover multiple high priority global demands, which causes daily and
+wartime concerns within the current air refueling fleet. With the last of the KC-10 aircraft being retired, the
+programmed air refueling fleet of 466 total aircraft will consist of the KC-135 and the KC-46.
+
+When the last KC-46 on contract is accepted into the Air Force, the average age of the remaining KC-135s will be
+67 years old, emphasizing the need for continued recapitalization and investment in the Next Generation Air-
+Refueling System (NGAS). While USTRANSCOM is solution-agnostic, the nature of global demand continues to
+emphasize the time and space aspect of the problem, requiring sufficient booms and drogues in the air at any given
+time to meet the significant number of simultaneous requirements.
+
+It is critical that the Air Force continues to modernize the KC-135 and invest in the NGAS to maintain credible
+capacity and provide the persistent connectivity, improved survivability, and increased agility necessary to operate
+in future contested environments. Strategic Airlift
+
+The combined output of both the C-17 and C-5M fleets is necessary and consequential with no replacement
+capability on the horizon. Fiscal reality indicates that constraints on availability of the significant resources
+necessary to develop a Next Generation Airlift aircraft, or C-X, will limit our ability to replace the C-5M until at least
+the 2040s; therefore, sustaining these platforms into the 2040s is a national security imperative. Strategic airlift is a
+unique U.S. capability, necessary to implement our NDS requirement to rapidly execute and sustain power
+projection globally. The distances required to face our pacing challenge in the Pacific warrant velocity at scale and
+our strategic airlift fleet provides that advantage. Our capacity is significant, with 275 C-17 and C-5M aircraft
+producing only approximately 10 percent less output than the Desert Storm fully mobilized fleets, despite a 30
+percent decrement in aircraft over that same period.
+
+The C-5M fleet is challenged by maintenance issues that makes its availability constrained to confront the scale and
+tempo required for near-peer combat operations in the Pacific. USTRANSCOM applauds efforts by the Air Force to
+enhance this critical asset's reliability which will enhance availability for wartime requirements.
+
+Modernizing the airlift enterprise to deliver, maneuver, and sustain the Joint Force against a peer adversary at
+relevant velocity and location means prioritizing connectivity, which directly enhances battlespace awareness and
+thus survivability. Improving threat-agnostic selfdefense will reduce the potential for attrition while enhancing our
+ability to dynamically apply appropriate airlift capabilities to emergent demands across a spectrum of increasingly
+contested operational environments. For example, when supporting Israel in their ongoing war with Hamas that
+started last Fall, C-17s were prominent in the movement of critical materials and humanitarian support as the C-17
+was the most suitable platform for those missions. What was unseen was the increased use of C-5Ms at the same
+time. When put to the test under these surge conditions in 2023, the C-5M fleet doubled the number of normal daily
+missions and the operational reliability improved. Nevertheless, had the US been in direct conflict with a peer
+adversary during that time, mission accomplishment would be severely challenged without secure connectivity and
+battlespace awareness.
+
+                                                                                           Page 11 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+Underpinned by national policy, our ability to leverage commercial partnerships to rapidly expand capacity by
+hundreds of aircraft for both cargo and passenger airlift is a necessary and cost-effective way to meet national
+defense needs. Our commercial partners remain a critical element of our strategic airlift capacity. While both cargo
+and passenger carriers continue to fully subscribe to the CRAF program, sufficient organic capacity remains
+paramount based on an inability to utilize civil assets in projected contested environments.
+
+Intra-Theater Airlift
+
+Intra-Theater airlift is critical to sustaining and supporting the force to meet time-sensitive and mission critical
+requirements for cargo and passengers. Consistent with previous budget cycles and the FY23 NDAA, the
+President's Budget for Fiscal Year 2025 maintains a fleet of 271 C-130 aircraft across the Future Years Defense
+Program, which USTRANSCOM supports with elevated risk. C-130s provide airlift support necessary to operate
+within any theater to support a sizeable, deployed force engaged in combat operations. Future Joint and Service
+operating concepts entail the maneuvering of forces across long distances and sustaining of forces across broadly
+distributed operating locations, which elevates demands for IntraTheater lift. Lack of theater sealift shifts demand to
+theater airlift, which in turn increases demand on strategic airlift. The interconnectedness of multimodal theater and
+strategic lift is foundational to global force projection, maneuver, and sustainment.
+
+USTRANSCOM's ability to command and control mobility forces, to include C-130s, is contingent on secure
+networks and continuous IT and platform modernization efforts to retain the advantages needed in the cyber and
+space domains.
+
+Patient Movement
+
+With constrained resources and the contested logistics environment, we are at risk meeting Global Patient
+Movement (PM) requirements in conflict. Innovation and mitigation efforts can only reduce this risk so much.
+Fundamentally, our forces are not ready, postured, or scaled to optimize these limited strategic assets. PM is an
+integral function of the JDDE and provides essential support to the geographic combatant commanders. The ability
+to move wounded, ill, and injured service members to lifesaving care emboldens our Commanders, reduces
+negative outcomes, and decreases risk to force and mission. The casualty evacuation estimates in current planning
+scenarios demonstrate the volume of patients requiring evacuation every week during a future peer or near-peer
+conflict will exceed the total of patients moved in FY23. In FY23, USTRANSCOM conducted 5,518 patient
+movements, comprised of 3,809 individual patients and eight battle injured patients. The foundation of PM remains
+the AE system. With our strong partnership with the Air Force, we have increased qualified AE crews and critical
+care air transport teams. While doctrinally, the Air Force executes "care in the air," the PM enterprise should not be
+mistaken as an Air Force-only mission. A Joint Force effort is required to increase capacity through the en-route
+care system. The continuum of patient care must be emphasized to increase survivability, to include initial medical
+response, forward medical resuscitation and stabilization, integrated theater casualty movement, and prolonged
+casualty care capacity. In addition, we must leverage our Allies and partners for large scale combat operations and
+continue development of a joint, multimodal approach to PM. The entirety of the Military Health System must make
+an exhaustive effort to eliminate traditional Military Service and functional boundaries and utilize all available
+resources to preserve
+
+American lives and our fighting force. We will continue to broadcast the risk to conduct end to end PM for
+expediency in funding decisions.
+
+Global Bulk Fuel Management and Delivery
+
+The appointment of USTRANSCOM as the Single Manager for Global Bulk Fuel Management and Delivery
+(GBFMD) has already resulted in positive progress towards closing acknowledged strategic gaps in the DoD bulk
+fuel supply chain since the command achieved Initial Operational Capability on 1 February 2023. Over the past
+year, in collaboration with our key partners in the Office of the Secretary of Defense, DLA Energy, and the Joint
+Staff, we have led the Department to synchronize bulk fuel planning, posture, operations, and capabilities
+
+                                                                                           Page 12 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+development to ensure assured end-to-end distribution of bulk fuel to project and sustain the Joint Force in a near-
+peer fight.
+
+USTRANSCOM is utilizing a holistic approach across the Joint Petroleum Enterprise to close strategic gaps. Some
+of these cross-agency initiatives include increasing maritime tanker capacity and establishing fuel afloat storage in
+the Indo-Pacific, as well as operationalizing the Tanker Security Program. Additionally, our command developed
+new wartime fuel modeling and assessments to better understand the fuel requirements behind the toughest
+strategic problem sets facing our nation. Furthermore, we implemented new command and control concepts and
+structures across our combatant commands to facilitate decision advantage and global prioritization. These are just
+a few examples of how USTRANSCOM is leading the Joint Petroleum Enterprise to deliver positive change today
+and ensure the Department is postured to win a contested environment.
+
+Over the next 12 months our focus will continue to align the Department towards closure of identified gaps in
+assured access to shallow draft maritime tanker capacity, increased integration of allied and partner nation
+capabilities, enhanced collaboration with industry, and an enterprise-level resilient and integrated bulk fuel data
+architecture to ensure the Department can provide increased options at the pace and tempo required in a high-end
+fight. USTRANSCOM is postured to leverage every opportunity available to continue closing strategic gaps and
+ensure we have the capacity and distribution capabilities needed to ensure our national objectives are met. Joint
+Communications Support Element Modernization Program
+
+As a subordinate element of USTRANSCOM's JECC, the Joint Communications Support Element (JCSE) is the
+only joint communications organization in DoD that supports the conventional force. Its Modernization Program
+executes tri-service procurement funding for lifecycle recapitalization of JCSE's equipment to meet emergent
+combatant commander's operational mission requirements and the joint force's evolving tactical mission
+communication demands. Current initiatives include modernizing tactical high frequency radio systems, commercial
+cloud services, supporting Allies and partner interoperability, and developing communications diversity and
+resilience by incorporating cellular, terrestrial Internet, and high throughput commercial satellite terminals. JCSE,
+through the JECC, is working closely with Chief Digital and Artificial Intelligence Office's Global Information
+Dominance Experiment to operationalize the tactical edge aspects of Combined Joint All Domain Command and
+Control Concept and is heavily involved in Mission Partner Environment development. For a relatively small
+investment, this Modernization Program provides the DoD tremendous value as it enables JCSE to rapidly prove
+concepts and technologies in support of joint warfighters, assist in the resolution of service capability gaps, and to
+be effective at the point of crisis.
+
+Defense Personal Property Program (DP3)
+
+Our Defense Personal Property Program team continues to move forward in transforming how DoD provides
+moving services to customers. Service members, DoD civilians, and their families are our most critical asset, and
+we continually seek to improve DP3 processes through all venues possible. The Global Household Goods Contract
+(GHC) is our flagship DP3 transformation effort. In the past year, we have been working closely with the military
+departments and the contract awardee, HomeSafe Alliance (HSA), to bring GHC online.
+
+As I described in our report to the Committees submitted in January, a deliberate, conditions-based phase
+approach of GHC services will allow us to control the volume of shipments to assure continued quality customer
+service, which remains our top priority during the phase-in period. We remain committed to driving the transition at
+the appropriate pace ahead of the upcoming peak moving season, continuing Government and HomeSafe Alliance
+integration with a focus on positive outcomes for customers and their families.
+
+Addressing the information technology challenges we've identified is critical to ensuring an improved experience for
+Service members and their families. Limited IT integration testing conducted in July and August of last year
+identified issues with HomeSafe's software (HomeSafe Connect), on top of known government IT system (MilMove)
+limited initial operating capabilities. Integration must be addressed before we can consider deploying the systems to
+
+                                                                                           Page 13 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+government personnel and customers. In the Fall of 2023, we replaced our lead MilMove IT developer, and
+continue to build on the government's systems initial operating capability.
+
+In mid-January, we brought together personal property representatives from all branches of service to conduct end-
+to-end testing between DOD's MilMove and HomeSafe Alliance's
+
+HomeSafe Connect systems. The users validated the functionality of both systems and confirmed resolution of
+previously identified issues. The locations where we plan to begin issuing GHC task orders have been selected and
+finalized in coordination with the military departments. These locations are designated by selected zip codes in the
+Camp Lejeune, Camp Pendleton, Norfolk, San Diego, and Seattle metro areas. We plan to start with a small
+number of local shipments later this spring and continue through the summer at limited locations, before expanding
+the program this fall once peak season is complete. I would like to reiterate that a quality customer experience is
+our top priority during this transition and will inform the pace determined by USTRANSCOM and the military
+services.
+
+Joint Transportation Management System (JTMS)
+
+In an ever-changing threat environment, cutting edge logistics information technology solutions are critical to
+supporting our Global Mobility Posture, Global Mobility Capacity, and Global Command, Control, and Integration.
+The JTMS will provide the JDDE one primary system to integrate end-to-end transportation operations to deliver
+and sustain the Joint Force. Through the JTMS, USTRANSCOM will connect to the Service and agency logistics
+systems and provide a common platform to integrate global combatant command operations into the JDDE for a
+warfighter competitive advantage - while providing auditability, transparency, and optimized resource allocation.
+Decision advantage will be strengthened by providing warfighters timely, costed options for transportation,
+effectively matching requirements to available commercial and military capacity. Near real-time visibility of Total
+Force movements, to include last tactical mile delivery, will instill operational confidence and maintain competitive
+advantage for combatant commanders as they complete their missions. JTMS will also enable improved logistics
+network resiliency through integrated capability to react to changing logistics environments, allowing maximized
+diversion and challenge mitigations. Implementation of a commercial Enterprise Resource Planning solution will
+position USTRANSCOM and the Department to strategically address the decades-old challenge of transportation
+auditability. Integrated internal controls and transaction level transparency will support mitigation of existing material
+weaknesses and lead to an unmodified audit opinion. USTRANSCOM is collaborating with OUSD(AandS) for the
+procurement and implementation of the JTMS solution.
+
+Conclusion
+
+To remain successful, USTRANSCOM must be ready to project power today and tomorrow, and we will only
+achieve this together. Continued success in the delivery of substantial aid to Ukraine as well as the rapid
+deployment of forces and equipment to the Middle East have validated our reputation and generated momentum.
+While we have achieved success over our 35-year history as a combatant command, we know we must continue to
+innovate and accelerate the changes necessary to remain ready now and into the future. We cannot rest on our
+laurels - the risks are too great. Our competitors are watching our every move and quickly digesting lessons learned
+to improve their own power projection capabilities while also enhancing their ability to disrupt, degrade, or deny our
+capabilities. Contested environments highlight that our actions to deliberately recapitalize organic mobility
+capabilities, and to modernize the JDDE, must continue for the DoD to maintain asymmetric advantages and deliver
+on our national security requirements.
+
+Our command has always met challenges and delivered success with innovation, determination, and
+professionalism. Time after time, when the United States called, we delivered. To deliver in the future requires
+focused attention today. Powered by dedicated men and women, USTRANSCOM underwrites the lethality of the
+Joint Force, advances American interests around the globe, and provides our nation's leaders with strategic
+flexibility to select from multiple options, while creating multiple dilemmas for our adversaries. I thank Congress for
+
+                                                                                           Page 14 of 14
+   House Armed Services Subcommittee on Readiness And Projection Forces Hearing "Posture and Readiness
+                     of the Mobility Enterprise - TRANSCOM and MARAD." Testimony ....
+
+your continued support to the men, women, and mission of USTRANSCOM. We remain dedicated to fight, deliver,
+and win!
+
+Together, We Deliver!
+
+Read this original document at: http://docs.house.gov/meetings/AS/AS28/20240411/117073/HHRG-118-AS28-
+Wstate-VanOvostJ-20240411.pdf
 
 
-Load-Date: June 10, 2024
+Load-Date: April 15, 2024
 
 
   

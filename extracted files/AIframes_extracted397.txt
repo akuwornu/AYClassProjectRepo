@@ -1,131 +1,131 @@
 
 
-                                                                              Page 1 of 3
-           DOCKENS ADDRESSES AI IN HIGHER EDUCATION THROUGH RESEARCH AND TRAINING
+                                                                                                        Page 1 of 3
+                UCONN RESEARCHERS CLOSER TO NEAR REAL-TIME DISASTER MONITORING
 
 
 
 
- DOCKENS ADDRESSES AI IN HIGHER EDUCATION THROUGH RESEARCH
-                        AND TRAINING
-                                                        US Fed News
-                                              June 24, 2024 Monday 5:05 PM EST
+        UCONN RESEARCHERS CLOSER TO NEAR REAL-TIME DISASTER
+                           MONITORING
+                                                States News Service
+                                              April 3, 2024 Wednesday
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 1169 words
+Length: 1111 words
+Byline: States News Service
+Dateline: STORRS, Conn.
 
 Body
 
 
-BEAUMONT, Texas, June 24 -- Lamar University issued the following news release:
+The following information was released by the University of Connecticut:
 
-Dr. Ashley Dockens began her professional journey with a deep commitment to audiology. However, her career
-trajectory has taken an unexpected turn, leading her to become a prominent figure in the field of generative
-artificial intelligence (AI) in higher education.
+Information that once could take weeks to gather now only takes four days with a new method
 
-"I am an audiologist by trade. I have my clinical doctorate; I have my Ph.D. in Communication Sciences and
-Disorders, and never even expected to be in higher education," Dockens said. "I ended up in higher education
-because there were things out in my field that I didn't love, and I didn't know how to fix without simply teaching other
-people not to do it. I decided that I would take my Ph.D. and go teach, so I came to Lamar a little over 10 years
-ago."
+When disaster hits, a quick and coordinated response is needed, and that requires data to assess the nature of the
+damage, the scale of response needed, and to plan safe evacuations. From the ground, this data collection can
+take days or weeks, but a team of UConn researchers has found a way to drastically cut the lag time for these
+assessments using remote sensing data and machine learning, bringing disturbance assessment closer to near
+real-time (NRT) monitoring. Their findings are published in Remote Sensing of Environment.
 
-Her problem-solving nature soon led her into administrative roles,
+Su Ye, a post-doctoral researcher in UConn's Global Environmental Remote Sensing Laboratory (GERS) and the
+paper's first author, says he was inspired by methods used by biomedical researchers to study the earliest
+symptoms of infections.
 
-"I also didn't expect to end up in administration, but I'm a problem-solving person, and so I ended up as director of
-the audiology program within just a few years of starting here and was Director of Audiology for a long while," she
-said.
+"It's a very intuitive idea," says Ye. "For example, with COVID, the early symptoms can be very subtle, and you
+cannot tell it's COVID until several weeks later when the symptoms become severe and then they confirm
+infection."
 
-Dr. Dockens' current role as the Associate Dean of Policy and Procedure for the College of Graduate Studies, but
-even more so as the Director of the Center for Teaching and Learning Enhancement (CTLE) at Lamar University
-became a catalyst for her deeper involvement with AI.
+Ye explains this method is called retrospective chart review (RCR) and it is especially helpful in learning more about
+infections that have a long latency period between initial exposure to the development of obvious infection.
 
-"Around January or February of last year, there had been a lot more [news] coming out about generative AI and its
-applications in higher education. The fear was growing because people were worried that it would cause students to
-cheat or that it would take away people's jobs and those kinds of things," Dockens said. "But we were still pretty
-early on, andnot everybody really knew very much and the more I was talking to people on campus, the more I
-realized no one's educating them; not because the university was avoiding it, but because it was just so new."
+"This research uses the same ideas. When we're doing land disturbance monitoring of things like disasters or
+diseases in forests, for example, at the very beginning of our remote sensing observations, we may have very few
+or only one remote sensing image, so catching the symptoms early could be very beneficial," says Ye.
 
-Dr. Dockens saw an opportunity to bridge this knowledge gap.
+Several days or weeks after a disturbance, researchers can confirm a change, and much like a patient diagnosed
+with COVID, Ye reasoned they could trace back and do a retrospective analysis to see if earlier signals could be
+found in the data and if those data could be used to construct a model for near real-time monitoring.
 
-                                                                            Page 2 of 3
-         DOCKENS ADDRESSES AI IN HIGHER EDUCATION THROUGH RESEARCH AND TRAINING
+                                                                                                              Page 2 of 3
+               UCONN RESEARCHERS CLOSER TO NEAR REAL-TIME DISASTER MONITORING
 
-"I thought at the very least what I'd do was start posting articles that exist out there on our CTLE social media," she
-said.
+Ye explains that they have a wealth of data to work with for example, Landsat data stretches back 50 years so the
+team could perform a full retrospective analysis to help create an algorithm that can detect changes much faster
+than current methods which rely on a more manual approach.
 
-When questions began to arise from both the community and the Office of Academic Affairs about the university's
-policies, Dockens noted the increasing curiosity and concern surrounding the matter and acted.
+"There is so much data and many good products but we have never taken full advantage of them to retrospectively
+analyze the symptoms for future analysis. We have never connected the past and the future, but this work is
+bringing these two together."
 
-"I thought I could at least put out maybe some fact sheets and information about what it is and help people kind of
-build a sense of information and calm," she said. "I initially put together a factsheet on ChatGPT and other
-generative AIs and what they canand can't do. I started having more and more calls coming in asking for more
-information, and it kind of just hit me. People were starving for information."
+Associate Professor in the Department of Natural Resources and the Environment and Director of the GERS
+Laboratory Zhe Zhu says they used the multitudes of data available and applied machine learning, along with
+physical barriers to pioneer a technique that pushes the boundary of near real-time detection to, at most, four days
+as opposed to a month or more.
 
-Dockens quickly moved to meet this demand.
+Until now, early detection was more challenging, because it is harder to differentiate change in the early post-
+disturbance stages, says Zhu.
 
-I started creating guides, and one of them, probably the thing I'm asked for the most, is the first one I created last
-summer. It's a giant guide that had 100 different ways you could essentially redesign your class assignments to
-make them either resistant to AI or to make them inclusive of AI," Dockens said. "That document has been used
-now by universities all over and they've contacted me about it. It just tells ways to make assignments much more
-authentic, much more hands-on, much more experiential, even if it's an online course."
+"These data contain a lot of noise caused by things like clouds, cloud shadows, smoke, aerosols, even the
+changing of the seasons, and accounting for these variations makes the interpretation of real change on the Earth's
+surface difficult, especially when the goal is to detect those disturbances as soon as possible."
 
-Her expertise began to expand beyond healthcare, exploring how generative AI could revolutionize various sectors.
-Dr. Dockens started publishing information and presenting at conferences, showcasing how AI could augment
-human capabilities, enhance research methodologies, and transform educational practices.
+A key point in developing the method is the open access to the most advanced data available at medium-resolution,
+says Ye.
 
-"I started attending every possible higher education webinar training that I could possibly attend. I've easily
-attended 60 plus trainings. I've done every course I could possibly find and became certified in generative AI with
-Blockchain Council. I am a lead for my field," Dr. Dockens said, "the national, well, international accreditor is the
-Council for Academic Programs and Communication Sciences and Disorders. I became the chair of their AI Task
-Force to create policy and procedure for our field in the academic sector. My research and grants have shifted to
-AI. Essentially, I eat, sleep, and breathe generative AI."
+"Scientists in the United States are in collaboration with European scientists, and we combine all four satellites, so
+we have built upon the work of many, many others. Satellite technologies like Landsat I think that's one of the
+greatest projects in human history."
 
-Now, Dr. Dockens' expertise in generative AI extends beyond her presentations; she is also actively involved in and
-leading policy and guideline development. Notably, she has and is contributing to the creation of policies and
-guidelines for the Council of Academic Programs in Communication Sciences and Disorders, Lamar University, and
-the College of Graduate Studies, among others. She also consults with other universities and K-12 school systems
-on building their trainings, policies, and guides.
+Beyond making the images open source, Zhu adds that the data set NASA Harmonized Landsat and Sentinel-2
+data (HLS) was harmonized by a team at NASA, meaning the Landsat and Sentinel-2 data were all calibrated to the
+same resolution, which saves a lot of processing time and allows researchers to start working with the data directly,
 
-Moreover, Dr. Dockens is at the forefront of research in AI in higher education. As the primary investigator on
-multiple grants, includinggrantsfrom the Lamar University Center for Resiliency, she is dedicated to enhancing
-faculty attitudes and self-efficacy in AI integration for post-disaster higher education resilience. Additionally, she is
-conducting ongoing research surveys to gauge both faculty and student knowledge, usage, ethics, and beliefs
-about generative AI tools. Her research will be used to create more informative training sessions for faculty at
-Lamar University and beyond.
+"Without the NASA HLS data, we may spend months to just get the data ready."
 
-"I've found that the best way to get faculty excited about it and get over the fear is to show them how they can use it
-in their own everyday workflow. Once they realize it doesn't have to be evil, it becomes a useful tool - once they get
-past that fear of it. That's been helpful," Dockens said.
+Ye explains they set thresholds based on empirical knowledge from what was seen in previous land disturbances.
+They look at signals in the data, called spectral change, and calculate the overall magnitude of change to help
+distinguish the noise from the early signals of disturbances. This approach ignores other relevant important
+disturbance-related information such as spectral change angle, patterns of seasonality, pre-disturbance land
+condition, says Ye.
 
-By demonstrating practical applications in their daily workflows, Dockens found that faculty members began to
-overcome their initial apprehensions.
+"The new method lets the past data supervise us to find the real signals. For example, some disturbances occur in
+certain seasons, so similarity could be taken into account, and some disturbances have special spectral features
+that will increase at certain bands, but decrease in other bands. We can then use the data to build a model to better
+characterize the changes."
 
-"I think it's upon us to show our value and how we can leverage these new tools to improve higher education,"
-Dockens said. "It helps faculty improve and support their teaching goals. It assists in meeting all the hectic
-requirements of expectations of faculty work. I also think it's going to help with accessibility because it can create
-alternate outputs to make accessible aids and formats for various needs."
+On the other hand, we took advantage of numerous existing disturbance products that could be used as training
+data in machine learning and AI, says Zhu.
 
-                                                                            Page 3 of 3
-         DOCKENS ADDRESSES AI IN HIGHER EDUCATION THROUGH RESEARCH AND TRAINING
+"Once this massive amount of training data is collected, there can be some wrong pixels, but this machine learning
+approach can further refine the results and provide better results. It's as if the physical, statistical rules are talking to
+the machine learning approach and they work together to improve the results."
 
-As AI becomes increasingly prevalent in various industries, Dockens underscored the necessity for students to
-develop AI literacy within a safe and conducive learning environment.
+Co-author and Postdoctoral Researcher Ji Won Suh says the team is eager to continue working on this method and
+to monitor land disturbances nationwide.
 
-"Now that AI is out there, it's not going anywhere. It's starting to become a part of the industries in the workplaces
-where our students are going to go. I think there's starting to become an expectation that you as a person who will
-be in the workforce later needs to be AI literate," Dr. Dockens said. For that reason, you must learn how to use it.
-And you can only want to use it if you use it in a safe space, and to me, that's where the classroom is; it should be a
-safe space to learn." For any query with respect to this article or any other content requirement, please contact
-Editor at contentservices@htdigital.in
+                                                                                                       Page 3 of 3
+              UCONN RESEARCHERS CLOSER TO NEAR REAL-TIME DISASTER MONITORING
+
+"For future directions, I hope we can help to tell the story about socio-economic impacts and what is going on in our
+earth system. If denser times series data are available, and more data storage is available, together with this
+algorithm, we can understand our system more intuitively. I'm very much looking forward to the future."
+
+Zhu says the approach is already attracting interest, and he expects the interest will grow. Their work is open
+source and Zhu says they are happy to help other groups adopt the method. The platform has already been used
+for near-real-time disaster monitoring. In the aftermath of Hurricane Ian, the team quickly employed this method to
+aid in the recovery efforts.
+
+"I think it is extremely beneficial," says Zhu. "If any kind of disaster happens, we can see the damage in the area
+quickly and determine the extent and the estimated cost for recovery. We're hoping to have this comprehensive
+land disturbance monitoring system in near real-time to help people reduce the damage from those big disasters."
 
 
-Load-Date: June 26, 2024
+Load-Date: April 3, 2024
 
 
   

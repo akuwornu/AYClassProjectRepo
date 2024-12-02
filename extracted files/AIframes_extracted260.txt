@@ -1,89 +1,1213 @@
 
 
-                                                                                            Page 1 of 2
-     PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity 30TB NVMe and 24TB HDD
-                    Drives Latest Addition to PAC’s All-Flash Storage Line Excels in Pe....
+                                                                                                              Page 1 of 21
+                    Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
 
 
 
 
-PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity
-  30TB NVMe and 24TB HDD Drives; Latest Addition to PAC’s All-Flash
-         Storage Line Excels in Performance and Cost Efficiency
-                                                         GlobeNewswire
-                                               July 16, 2024 Tuesday 7:00 AM PT
+    Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations;
+                                Highlights
+                                                        Business Wire
+                                        March 6, 2024 Wednesday 11:45 AM GMT
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-
-
-
-Section: PRODUCT / SERVICES ANNOUNCEMENT
-Length: 501 words
+Length: 6001 words
+Dateline: LOS ANGELES
 
 Body
 
-ALISO VIEJO, CA, July 16, 2024 (GLOBE NEWSWIRE) -- PAC Storage, a leading manufacturer and provider of
-innovative data storage solutions, today announced the launch of its cutting edge NVMe system, the PAC Storage
-NVMe 5000. This latest addition to PAC Storage's all-flash storage family delivers up to 1.3M IOPS, 50GB/s
-throughput, and 720TB NVMe capacity within a single appliance.
+Korn Ferry (NYSE: KFY), a global organizational consulting firm, today announced third quarter fee revenue of
+$668.7 million. In addition, third quarter diluted earnings per share was $1.13 and adjusted diluted earnings per
+share was $1.07.
 
-"With the growing need for extreme I/O and throughput in AI, HPC, machine learning, database, and the latest
-video applications, PAC Storage is providing a solution that excels in both performance and cost-efficiency," said
-Rick Crane, CEO of PAC Storage. "Our systems not only offer top-tier performance and availability, but do so at
-roughly half the cost of comparable systems.”
+"I am pleased with our third quarter results, as we generated $669 million in fee revenue, down 2% year-over-year,
+with our non-search offerings providing a substantial buffer against the more cyclically sensitive recruiting offerings.
+Earnings and profitability increased year-over-year and sequentially as we delivered $102 million of Adjusted
+EBITDA, at a 15.2% margin," said Gary D. Burnison, CEO, Korn Ferry.
 
-The competitively-priced PAC Storage NVMe 5000 features a dual-controller system which supports PCIe Gen5
-with up to 200GbE connectivity and runs block, file, and object storage along with cloud gateway options. Designed
-for data-intensive environments, PAC Storage NVMe 5000 excels in applications demanding high IOPS,
-exceptional throughput, and minimal latency.
+"Fee revenue from Consulting and Digital (up 3% and 6% over the prior year, respectively), when combined with
+our Interim fee revenue, now generate 50% of our top line. Our Consulting bill rate increased 12% and our Digital
+subscription and license fee revenue increased 11%," Burnison added. "The strategy is clearly working - I am
+enormously proud of our organization and the results demonstrate the resiliency and potential for Korn Ferry."
 
-In conjunction with the new NVMe system, PAC Storage is also introducing high-capacity 30TB NVMe and 24TB
-HDD drives. These high-density drives maximize space by reducing an organization’s datacenter footprint. With
-these latest drives, the PAC Systems are now scalable up to 21PB, with up to 2.1PB of hybrid storage and 1.4PB of
-NVMe storage in a single appliance. PAC Storage systems exclusively use enterprise-grade, pre-certified drives,
-ensuring reliability and performance. Most systems ship within two to three weeks.
+          Selected Financial Results    (dollars in millions, except per share amounts) (a)
+                                                             Third Quarter                Year to Date
+                                                             FY'24         FY'23          FY'24          FY'23
+          Fee revenue                                        $ 66          $ 68           $ 2,071.       $ 2,104.
+                                                                8.7           0.8           9              5
+          Total revenue                                      $ 67          $ 68           $ 2,095.       $ 2,125.
+                                                                6.9           6.8           6              7
+          Operating income                                   $ 49.         $ 12.          $ 129.5        $ 243.8
+                                                                9             5
+          Operating margin                                      7.5 %         1.8 %         6.2      %     11.6     %
+          Net income attributable to Korn Ferry              $ 59.         $ 11.          $ 104.0        $ 162.0
+                                                                1             2
+          Basic earnings per share                           $ 1.1         $ 0.2          $ 2.00         $ 3.07
+                                                                4             1
+          Diluted earnings per share                         $ 1.1         $ 0.2          $ 1.99         $ 3.05
+                                                                3             1
+          Adjusted Results (b):                                 Third Quarter                 Year to Date
 
-                                                                                           Page 2 of 2
-    PAC Storage Unveils Advanced NVMe System for AI and New High-Capacity 30TB NVMe and 24TB HDD
-                   Drives Latest Addition to PAC’s All-Flash Storage Line Excels in Pe....
+                                                                                                                   Page 2 of 21
+                   Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
 
-“The introduction of both the PAC Storage NVMe 5000 and the new high capacity drives demonstrates our
-commitment to offering only robust products,” said Crane. “These state-of-the-art, affordably-priced systems,
-backed by top-notch, US-based customer service, also ensure optimal ROI. Our long-standing customer base, with
-many clients returning for over a decade, speaks volumes about PAC quality and service.”
+                                                                  FY'24          FY'23          FY'24            FY'23
+          Adjusted EBITDA                                         $ 10           $ 96.          $ 29             $ 35
+                                                                    1.7            1              5.9              9.4
+          Adjusted EBITDA margin                                    15.    %       14.    %       14.     %        17.   %
+                                                                    2              1              3                1
+          Adjusted net income attributable to Korn Ferry (c)      $ 55.          $ 53.          $ 15             $ 20
+                                                                    8              0              8.3              9.1
+          Adjusted basic earnings per share (c)                   $ 1.0          $ 1.0          $ 3.0            $ 3.9
+                                                                    7              1              4                6
+          Adjusted diluted earnings per share (c)                 $ 1.0          $ 1.0          $ 3.0            $ 3.9
+                                                                    7              1              3                3
+      ______________________
+      (     Numbers may not total due to rounding.
+      a
+      )
+      (     Adjusted EBITDA refers to earnings before interest, taxes, depreciation and amortization, further adjusted
+      b     to exclude integration/acquisition costs, impairment of fixed assets, impairment of right of use assets and
+      )     restructuring charges, net when applicable. Adjusted results on a consolidated basis are non-GAAP
+            financial measures that adjust for the following, as applicable (see attached reconciliations):
+                                                                       Third Quarter          Year to Date
+                                                                       FY'2      FY'23        FY'24      FY'23
+                                                                       4
+          Impairment of fixed assets                                   $ -       $ 4.4        $ 1.6       $ 4.4
+          Impairment of right of use assets                            $ -       $ 5.5        $ 1.6       $ 5.5
+          Integration/acquisition costs                                $ 3       $ 2.5        $ 13.       $ 9.5
+                                                                          .                     1
+                                                                          9
+          Restructuring charges, net                                   $ 4       $ 41.        $ 68.       $ 41.2
+                                                                          .         2           6
+                                                                          6
+
+      (        Due to actions taken in connection with the worldwide minimum tax, the Company recorded a $9.7 million
+      c        non-recurring tax benefit in the quarter ended January 31, 2024 that resulted in the release of a valuation
+      )        allowance, which is included in the Company's US GAAP results but excluded from the Adjusted results.
+
+The Company reported fee revenue in Q3 FY'24 of $668.7 million, a year-over-year decrease of 2% at both actual
+and constant currency. Fee revenue decreased primarily due to decreases in our permanent placement talent
+acquisition offerings. This decrease was due to a decline in demand driven by uncertain and challenging global
+economic environment. This was partially offset by the increases in Consulting and Digital fee revenue, as well as in
+the Interim portion of Professional Search & Interim, resulting from the acquisition of Salo ('the Acquisition") which
+was effective February 1, 2023.
+
+Operating margin was 7.5% in Q3 FY'24, compared to 1.8% in the year-ago quarter, an increase of 570bps.
+Adjusted EBITDA margin was 15.2% in Q3 FY'24, compared to 14.1% in the year-ago quarter, an increase of
+110bps. Net income attributable to Korn Ferry was $59.1 million in Q3 FY'24, compared to $11.2 million in Q3
+FY'23 and Adjusted EBITDA was $101.7 million in Q3 FY'24 compared to $96.1 million in Q3 FY'23.
+
+Operating income and margin increased compared to the year-ago quarter primarily due to 1) lower restructuring
+charges, net recorded in Q3 FY'24 compared to the year-ago quarter, 2) a decrease in compensation and benefits
+expense driven by the previous quarter's cost reduction actions, and 3) a decrease in charges for impairment of
+fixed and right of use assets in the year-ago quarter. This increase was partially offset by the decrease in fee
+revenue discussed above, and higher cost of services expense associated with the acquired Interim businesses.
+Net income attributable to Korn Ferry increased due to the same factors discussed above.
+
+                                                                                                                 Page 3 of 21
+                  Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+Adjusted EBITDA and margin increased due to the previous quarter's cost reduction actions, partially offset by the
+decrease in fee revenue discussed above and an increase in cost of services expense associated with the acquired
+businesses.
+
+        Results by Line of Business     Selected Consulting Data (dollars in millions) (a)
+                                                               Third Quarter                   Year to Date
+                                                               FY'24         FY'23             FY'24        FY'23
+        Fee revenue                                            $ 16          $ 16              $ 51         $ 50
+                                                                  6.9             2.2            2.8          1.7
+        Total revenue                                          $ 16          $ 16              $ 52         $ 50
+                                                                  9.9             4.4            1.7          9.0
+
+        Ending number of consultants and execution staff (b)      1,6            1,8             1,6              1,8
+                                                                  87             77              87               77
+        Hours worked in thousands (c)                             38             41              1,2              1,3
+                                                                  1              4               39               40
+        Average bill rate (d)                                   $ 43           $ 39            $ 41             $ 37
+                                                                  8              2               4                4
+
+        Adjusted Results (e):                                   Third Quarter                  Year to Date
+                                                                FY'24         FY'23            FY'24        FY'23
+        Adjusted EBITDA                                         $ 27.         $ 23.            $ 81.        $ 83.
+                                                                   8            3                9            9
+        Adjusted EBITDA margin                                     16. %        14.     %        16. %        16.       %
+                                                                   7            4                0            7
+
+      ______________________
+      (     Numbers may not total due to rounding.
+      a
+      )
+      (     Represents number of employees originating, delivering and executing consulting services.
+      b
+      )
+      (     The number of hours worked by consultant and execution staff during the period.
+      c
+      )
+      (     The amount of fee revenue divided by the number of hours worked by consultants and execution staff.
+      d
+      )
+      (     Adjusted results exclude the following:
+      e
+      )
+                                                                    Third Quarter            Year to Date
+                                                                    FY'2      FY'23          FY'24      FY'23
+                                                                    4
+        Impairment of fixed assets                                  $ -       $ 2.8          $ -       $ 2.8
+        Impairment of right of use assets                           $ -       $ 3.1          $ 0.6     $ 3.1
+        Restructuring charges, net                                  $ 1       $ 10.          $ 18.     $ 10.8
+                                                                       .         8             9
+                                                                       1
+
+Fee revenue was $166.9 million in Q3 FY'24 compared to $162.2 million in Q3 FY'23, an increase of $4.7 million or
+3% at both actual and constant currency. The increase in Consulting fee revenue was primarily driven by growth in
+our organizational strategy offering.
+
+                                                                                                               Page 4 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+Adjusted EBITDA was $27.8 million in Q3 FY'24 compared to Adjusted EBITDA of $23.3 million, in the year-ago
+quarter. Adjusted EBITDA margin in the quarter increased year-over-year by 230bps from 14.4% last year to 16.7%
+this year. This increase in Adjusted EBITDA and Adjusted EBITDA margin resulted primarily from the increase in
+fee revenue discussed above, combined with the previous quarter's cost reduction actions, partially offset by an
+increase in cost of services expense.
+
+         Selected Digital Data   (dollars in millions) (a)
+                                                               Third Quarter               Year to Date
+                                                               FY'24         FY'23         FY'24        FY'23
+         Fee revenue                                           $ 90.         $ 85.         $ 27         $ 26
+                                                                  3            1             5.4          3.2
+         Total revenue                                         $ 90.         $ 85.         $ 27         $ 26
+                                                                  4            1             5.6          3.5
+
+         Ending number of consultants                            27             36           27           36
+                                                                 5              5            5            5
+         Subscription & License fee revenue                    $ 32.          $ 29.        $ 97.        $ 88.
+                                                                 8              6            7            1
+
+         Adjusted Results (b):                                 Third Quarter               Year to Date
+                                                               FY'24         FY'23         FY'24        FY'23
+         Adjusted EBITDA                                       $ 27.         $ 22.         $ 80.        $ 73.
+                                                                  4            2             7            9
+         Adjusted EBITDA margin                                   30. %        26.    %      29. %        28.     %
+                                                                  3            0             3            1
+
+      ______________________
+      (a)     Numbers may not total due to rounding.
+      (b)     Adjusted results exclude the following:
+
+                                                                          Third Quarter      Year to Date
+                                                                          FY'2      FY'2     FY'2      FY'23
+                                                                          4         3        4
+        Impairment of fixed assets                                        $ -       $ 1      $ 1       $ 1.5
+                                                                                       .       .
+                                                                                       5       5
+        Impairment of right of use assets                                 $ -       $ 1      $ -       $ 1.7
+                                                                                       .
+                                                                                       7
+        Restructuring charges, net                                        $ 0       $ 2      $ 9      $ 2.9
+                                                                             .         .       .
+                                                                             6         9       5
+
+Fee revenue was $90.3 million in Q3 FY'24 compared to $85.1 million in Q3 FY'23, an increase of $5.2 million or
+6% at both actual and constant currency. The increase was primarily driven by increases in leadership and
+professional development and assessment & succession solutions.
+
+Adjusted EBITDA was $27.4 million in Q3 FY'24 compared to $22.2 million in the year-ago quarter. Adjusted
+EBITDA margin in the quarter increased year-over-year by 430bps from 26.0% last year to 30.3% this year. The
+increase in Adjusted EBITDA and margin was mainly driven by the increase in fee revenue discussed above.
+
+         Selected Executive Search Data(a)      (dollars in millions) (b)
+                                                        Third Quarter                  Year to Date
+                                                        FY'24             FY'23        FY'24          FY'23
+         Fee revenue                                    $ 199.            $ 212.       $ 607.         $ 663.
+                                                           3                0            5              2
+
+                                                                                                                 Page 5 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+         Total revenue                                 $ 201.           $ 213.           $ 613.         $ 668.
+                                                         2                8                5              7
+
+         Ending number of consultants                    562               616             562            616
+         Average number of consultants                   574               619             582            601
+         Engagements billed                              3,46              4,08            7,26           8,27
+                                                         9                 0               9              2
+         New engagements (c)                             1,36              1,51            4,34           4,83
+                                                         7                 6               9              5
+
+         Adjusted Results (d):                         Third Quarter                     Year to Date
+                                                       FY'24            FY'23            FY'24          FY'23
+         Adjusted EBITDA                               $ 43.4           $ 46.4           $ 125.         $ 163.
+                                                                                           6              2
+         Adjusted EBITDA margin                          21.8    %         21.9     %      20.7 %         24.6     %
+
+      ______________________
+      (     Executive Search is the sum of the individual Executive Search Reporting Segments described in our
+      a     annual and quarterly reporting on Forms 10-K and 10-Q and is presented on a consolidated basis as it is
+      )     consistent with the Company's discussion of its Lines of Business, and financial metrics used by the
+            Company's investor base.
+      (     Numbers may not total due to rounding.
+      b
+      )
+      (     Represents new engagements opened in the respective period.
+      c
+      )
+      (     Executive Search Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP financial measures that
+      d     adjust for the following:
+      )
+
+                                                                       Third Quarter        Year to Date
+                                                                       FY'2      FY'23      FY'24      FY'23
+                                                                       4
+        Impairment of fixed assets                                     $ -       $ -        $ 0.1       $ -
+        Impairment of right of use assets                              $ -       $ -        $ 0.9       $ -
+        Restructuring charges, net                                     $ 2       $ 19.      $ 28.       $ 19.4
+                                                                          .         4         2
+                                                                          3
+
+Fee revenue was $199.3 million and $212.0 million in Q3 FY'24 and Q3 FY'23, respectively, a year-over-year
+decrease of $12.7 million or 6% (down 7% on a constant currency basis). The decrease in fee revenue was
+primarily driven by a decline in executive search activity, resulting from the uncertain and challenging global
+economic environment.
+
+Adjusted EBITDA was $43.4 million in Q3 FY'24 compared to Adjusted EBITDA of $46.4 million in the year-ago
+quarter. The decrease in Adjusted EBITDA was primarily due to the decrease in fee revenue discussed above,
+partially offset by the previous quarter's cost reduction actions. Despite the year-over-year decrease in fee revenue
+and Adjusted EBITDA, Adjusted EBITDA margin remained essentially flat year-over-year due to the previous
+quarter's cost reduction actions.
+
+         Selected Professional Search & Interim Data     (dollars in millions) (a)
+                                                              Third Quarter                  Year to Date
+                                                              FY'24             FY'23        FY'24        FY'23
+         Fee revenue                                          $ 13              $ 11         $ 41         $ 35
+                                                                  0.9              8.0         1.5          1.7
+         Total revenue                                        $ 13              $ 11         $ 41         $ 35
+
+                                                                                                     Page 6 of 21
+            Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                                         1.8           8.6            4.3          4.4
+
+   Permanent Placement:
+   Fee revenue                                        $ 52.         $ 65.          $ 16          $ 21
+                                                        4             0              7.2           8.5
+   Engagements billed                                   1,9           2,4            4,5           6,1
+                                                        01            28             11            04
+   New engagements (b)                                  99            1,4            3,4           5,1
+                                                        5             60             14            22
+   Ending number of consultants                         34            44             34            44
+                                                        4             8              4             8
+   Interim:
+   Fee revenue                                        $ 78.         $ 53.          $ 24          $ 13
+                                                        5             0              4.3           3.1
+   Average bill rate (c)                              $ 12          $ 10           $ 12          $ 11
+                                                        9             7              6             0
+   Average weekly billable consultants (d)              1,2           1,0            1,3           87
+                                                        83            61             52            8
+
+   Adjusted Results (e):                              Third Quarter                Year to Date
+                                                      FY'24         FY'23          FY'24        FY'23
+   Adjusted EBITDA                                    $ 23.         $ 22.          $ 73.        $ 83.
+                                                         8            0              7            6
+   Adjusted EBITDA margin                                18. %        18.    %       17. %        23.    %
+                                                         2            6              9            8
+
+_____________________
+(     Numbers may not total due to rounding.
+a
+)
+(     Represents new engagements opened in the respective period.
+b
+)
+(     Fee revenue from interim divided by the number of hours worked by consultants.
+c
+)
+(     The number of billable consultants based on a weekly average in the respective period.
+d
+)
+(     Adjusted results exclude the following:
+e
+)
+                                                               Third Quarter        Year to Date
+                                                               FY'2      FY'2       FY'24        FY'23
+                                                               4         3
+  Impairment of fixed assets                                   $ -       $ 0        $ -         $ 0.1
+                                                                            .
+                                                                            1
+  Impairment of right of use assets                            $ -       $ 0        $ -         $ 0.6
+                                                                            .
+                                                                            6
+  Integration/acquisition costs                                $ 3       $ 1        $ 12.7      $ 6.6
+                                                                  .         .
+                                                                  8         7
+  Restructuring charges, net                                   $ -       $ 4        $ 3.8       $ 4.8
+                                                                            .
+                                                                            8
+
+                                                                                                             Page 7 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+Fee revenue was $130.9 million in Q3 FY'24, an increase of $12.9 million or 11% at both actual and constant
+currency. The increase in fee revenue was mainly driven by additional fee revenue from the Acquisition, partially
+offset by a decrease in permanent placement fee revenue.
+
+Adjusted EBITDA was $23.8 million in Q3 FY'24 compared to $22.0 million in the year-ago quarter. The increase in
+Adjusted EBITDA was primarily due to the increase in fee revenue discussed above and the previous quarter's cost
+reduction actions, partially offset by higher cost of services expense due to the Acquisition. Adjusted EBITDA
+margin declined slightly (40bps) year-over-year due to the factors noted above as well as a change in the mix of fee
+revenue which included more Interim fee revenue, which has lower profitability but is less cyclical as compared to
+professional search permanent placement which comprised a greater portion of fee revenue in the year-ago
+quarter.
+
+         Selected Recruitment Process Outsourcing ("RPO") Data (dollars in millions) (a)
+                                                        Third Quarter                 Year to Date
+                                                        FY'24         FY'23           FY'24        FY'23
+         Fee revenue                                    $ 81.         $ 10            $ 26         $ 32
+                                                           2             3.5             4.7         4.8
+         Total revenue                                  $ 83.         $ 10            $ 27         $ 33
+                                                           6             4.9             0.5         0.1
+
+         Remaining revenue under contract (b)             $ 69           $ 83           $ 69         $ 83
+                                                            5.8            6.9            5.8          6.9
+         RPO new business (c)                             $ 12           $ 44.          $ 31         $ 48
+                                                            2.1            0              1.2          2.7
+
+         Adjusted Results (d):                            Third Quarter                 Year to Date
+                                                          FY'24         FY'23           FY'24        FY'23
+         Adjusted EBITDA                                  $ 9.3         $ 9.8           $ 28.        $ 43.
+                                                                                          6            6
+         Adjusted EBITDA margin                              11.   %       9.5   %        10. %        13.     %
+                                                             4                            8            4
+
+      ______________________
+      (     Numbers may not total due to rounding.
+      a
+      )
+      (     Estimated fee revenue associated with signed contracts for which revenue has not yet been recognized.
+      b
+      )
+      (     Estimated total value of a contract at the point of execution of the contract.
+      c
+      )
+      (     Adjusted results exclude the following:
+      d
+      )
+                                                                       Third Quarter       Year to Date
+                                                                       FY'2      FY'2      FY'2      FY'23
+                                                                       4         3         4
+        Impairment of right of use assets                              $ -       $ 0       $ 0       $ 0.1
+                                                                                    .        .
+                                                                                    1        1
+        Restructuring charges, net                                     $ 0       $ 3       $ 7       $ 3.1
+                                                                          .         .        .
+                                                                          7         1        9
+
+                                                                                                             Page 8 of 21
+                   Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+Fee revenue was $81.2 million in Q3 FY'24, a decrease of $22.3 million or 22% at both actual and constant
+currency basis. RPO fee revenue decreased due to reduced demand for the number of placements being
+requested by existing clients as a result of the challenging global economic environment as well as a continuation of
+clients "labor hoarding".
+
+Adjusted EBITDA was $9.3 million in Q3 FY'24 compared to $9.8 million in the year-ago quarter. The decrease
+resulted from the decline in fee revenue which was partially offset by cost reductions taken in the previous quarter.
+Despite the year-over-year decrease in fee revenue and Adjusted EBITDA, Adjusted EBITDA margin increased
+190bps year-over-year from 9.5% to 11.4% due to the previous quarter's cost reduction actions.
+
+Outlook
+
+Assuming worldwide geopolitical conditions, economic conditions, financial markets and foreign exchange rates
+remain steady, on a consolidated basis:
+    •     Q4 FY'24 fee revenue is expected to be in the range of $675 million and $695 million; and
+    •     Q4 FY'24 diluted earnings per share is expected to range between $1.06 to $1.14.
+
+On a consolidated adjusted basis:
+    •     Q4 FY'24 adjusted diluted earnings per share is expected to be in the range from $1.09 to $1.17.
+                                                                                         Q4 FY'24 Earnings Per
+                                                                                         Share Outlook
+                                                                                         Low           High
+
+         Consolidated diluted earnings per share                                         $ 1.06          $ 1.14
+         Integration/acquisition and restructuring charges                                 0.05            0.05
+         Tax Rate Impact                                                                   (0.0    )       (0.0    )
+                                                                                           2               2
+         Consolidated adjusted diluted earnings per share(1)                             $ 1.09          $ 1.17
+
+        ______________________
+        (     Consolidated adjusted diluted earnings per share is a non-GAAP financial measure that excludes the items
+        1     listed in the table.
+        )
+
+Earnings Conference Call Webcast
+
+The earnings conference call will be held today at 12:00 PM (EST) and hosted by CEO Gary Burnison, CFO Robert
+Rozek, SVP Business Development & Analytics Gregg Kvochak and VP Investor Relations Tiffany Louder. The
+conference call will be webcast and available online at ir.kornferry.com. We will also post to the investor relations
+section of our website earnings slides, which will accompany our webcast, and other important information, and
+encourage you to review the information that we make available on our website.
+
+About Korn Ferry
+
+Korn Ferry is a global organizational consulting firm. We help clients synchronize strategy and talent to drive
+superior performance. We work with organizations to design their structures, roles, and responsibilities. We help
+them hire the right people to bring their strategy to life. And we advise them on how to reward, develop, and
+motivate their people. Visit kornferry.com for more information.
+
+Forward-Looking Statements
+
+Statements in this press release and our conference call that relate to our outlook, projections, goals, strategies,
+future plans and expectations, including statements relating to expected demand for and relevance of our products
+and services, our workforce reduction plan, and other statements of future events or conditions are forward-looking
+statements that involve a number of risks and uncertainties. Words such as "believes", "expects", "anticipates",
+
+                                                                                                        Page 9 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+"goals", "estimates", "guidance", "may", "should", "could", "will" or "likely", and variations of such words and similar
+expressions are intended to identify such forward-looking statements. Readers are cautioned not to place undue
+reliance on such statements. Such statements are based on current expectations; actual results in future periods
+may differ materially from those currently expected or desired because of a number of risks and uncertainties that
+are beyond the control of Korn Ferry. The potential risks and uncertainties include those relating to global and local
+political and or economic developments in or affecting countries where we have operations, such as inflation,
+interest rates, global slowdowns, or recessions, competition, geopolitical tensions, shifts in global trade patterns,
+changes in demand for our services as a result of automation, dependence on and costs of attracting and retaining
+qualified and experienced consultants, impact of inflationary pressures on our profitability, our ability to maintain
+relationships with customers and suppliers and retaining key employees, maintaining our brand name and
+professional reputation, potential legal liability and regulatory developments, portability of client relationships,
+consolidation of or within the industries we serve, changes and developments in government laws and regulations,
+evolving investor and customer expectations with regard to environmental, social and governance matters, currency
+fluctuations in our international operations, risks related to growth, alignment of our cost structure, including as a
+result of recent workforce, real estate, and other restructuring initiatives, restrictions imposed by off-limits
+agreements, reliance on information processing systems, cyber security vulnerabilities or events, changes to data
+security, data privacy, and data protection laws, dependence on third parties for the execution of critical functions,
+limited protection of our intellectual property ("IP"), our ability to enhance, develop and respond to new technology,
+including artificial intelligence, our ability to successfully recover from a disaster or other business continuity
+problems, employment liability risk, an impairment in the carrying value of goodwill and other intangible assets,
+treaties, or regulations on our business and our Company, deferred tax assets that we may not be able to use, our
+ability to develop new products and services, changes in our accounting estimates and assumptions, the utilization
+and billing rates of our consultants, seasonality, the expansion of social media platforms, the ability to effect
+acquisitions and integrate acquired businesses, including Salo, resulting organizational changes, our indebtedness,
+those relating to the ultimate magnitude and duration of any pandemic or outbreaks. For a detailed description of
+risks and uncertainties that could cause differences from our expectations, please refer to Korn Ferry's periodic
+filings with the Securities and Exchange Commission. Korn Ferry disclaims any intention or obligation to update or
+revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Use of Non-GAAP Financial Measures
+
+This press release contains financial information calculated other than in accordance with U.S. Generally Accepted
+Accounting Principles ("GAAP"). In particular, it includes:
+    •   Adjusted net income attributable to Korn Ferry, adjusted to exclude integration/acquisition costs,
+        impairment of fixed assets, impairment of right of use assets, and restructuring charges, net of income tax
+        effect and to exclude a $9.7 million non-recurring tax benefit from actions taken in connection with the
+        worldwide minimum tax that resulted in the release of a valuation allowance;
+    •   Adjusted basic and diluted earnings per share, adjusted to exclude integration/acquisition costs,
+        impairment of fixed assets, impairment of right of use assets, and restructuring charges, net of income tax
+        effect, and to exclude a $9.7 million non-recurring tax benefit from actions taken in connection with the
+        worldwide minimum tax that resulted in the release of a valuation allowance;
+    •   Constant currency (calculated using a quarterly average) percentages that represent the percentage
+        change that would have resulted had exchange rates in the prior period been the same as those in effect in
+        the current period;
+    •   Consolidated and Executive Search Adjusted EBITDA, which is earnings before interest, taxes,
+        depreciation and amortization, further adjusted to exclude integration/acquisition costs, impairment of fixed
+        assets, impairment of right of use assets and restructuring charges, net when applicable, and Consolidated
+        and Executive Search Adjusted EBITDA margin.
+
+This non-GAAP disclosure has limitations as an analytical tool, should not be viewed as a substitute for financial
+information determined in accordance with GAAP, and should not be considered in isolation or as a substitute for
+
+                                                                                                        Page 10 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+analysis of the Company's results as reported under GAAP, nor is it necessarily comparable to non-GAAP
+performance measures that may be presented by other companies.
+
+Management believes the presentation of non-GAAP financial measures in this press release provides meaningful
+supplemental information regarding Korn Ferry's performance by excluding certain charges that may not be
+indicative of Korn Ferry's ongoing operating results. These non-GAAP financial measures are performance
+measures and are not indicative of the liquidity of Korn Ferry. These charges, which are described in the footnotes
+in the attached reconciliations, represent 1) costs we incurred to acquire and integrate a portion of our Professional
+Search & Interim business, 2) impairment of fixed assets primarily due to software impairment charge in our Digital
+segment in FY'24 and impairment on leasehold improvements due to terminating and deciding to sublease some of
+our office leases in FY'23, 3) impairment of right of use assets due to the decision to terminate and sublease some
+of our offices, 4) Restructuring charges, net to align workforce to the challenging macroeconomic business
+environment arising from persistent inflationary pressures, rising interest rates and global economic and geopolitical
+uncertainty and 5) to exclude a $9.7 million non-recurring tax benefit from actions taken in connection with the
+worldwide minimum tax that resulted in the release of a valuation allowance. The use of non-GAAP financial
+measures facilitates comparisons to Korn Ferry's historical performance. Korn Ferry includes non-GAAP financial
+measures because management believes they are useful to investors in allowing for greater transparency with
+respect to supplemental information used by management in its evaluation of Korn Ferry's ongoing operations and
+financial and operational decision-making. Adjusted net income attributable to Korn Ferry, adjusted basic and
+diluted earnings per share and Consolidated and Executive Search Adjusted EBITDA, exclude certain charges that
+management does not consider on-going in nature and allows management and investors to make more
+meaningful period-to-period comparisons of the Company's operating results. Management further believes that
+Consolidated and Executive Search Adjusted EBITDA is useful to investors because it is frequently used by
+investors and other interested parties to measure operating performance among companies with different capital
+structures, effective tax rates and tax attributes and capitalized asset values, all of which can vary substantially from
+company to company. In the case of constant currency percentages, management believes the presentation of
+such information provides useful supplemental information regarding Korn Ferry's performance as excluding the
+impact of exchange rate changes on Korn Ferry's financial performance allows investors to make more meaningful
+period-to-period comparisons of the Company's operating results, to better identify operating trends that may
+otherwise be masked or distorted by exchange rate changes and to perform related trend analysis, and provides a
+higher degree of transparency of information used by management in its evaluation of Korn Ferry's ongoing
+operations and financial and operational decision-making.
+
+         KORN FERRY AND SUBSIDIARIES CONDENSED CONSOLIDATED STATEMENTS OF INCOME                             (in
+         thousands, except per share amounts)
+
+                                                        Three Months Ended          Nine Months Ended
+                                                        January 31,                 January 31,
+                                                           20          20              202           202
+                                                           24          23              4             3
+                                                        (unaudited)
+         Fee revenue                                    $ 66         $ 68           $ 2,07         $ 2,10
+                                                           8,6         0,7            1,87           4,53
+                                                           79          82             1              4
+         Reimbursed out-of-pocket engagement               8,1         6,0            23,7           21,1
+         expenses                                          94          63             11             78
+         Total revenue                                     67          68             2,09           2,12
+                                                           6,8         6,8            5,58           5,71
+                                                           73          45             2              2
+
+         Compensation and benefits                         45            47            1,38           1,40
+                                                           6,2           9,3           9,95           9,77
+                                                           16            82            6              4
+         General and administrative expenses               62,           72,           194,           202,
+                                                           66            78            315            328
+
+                                                                                            Page 11 of 21
+          Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                                1            5
+Reimbursed expenses                             8,1          6,0          23,7          21,1
+                                                94           63           11            78
+Cost of services                                75,          57,          231,          157,
+                                                81           90           516           152
+                                                4            3
+Depreciation and amortization                   19,          17,          58,0          50,3
+                                                50           03           75            59
+                                                9            7
+Restructuring charges, net                      4,6          41,          68,5          41,1
+                                                12           16           58            62
+                                                             2
+Total operating expenses                        62           67           1,96          1,88
+                                                7,0          4,3          6,13          1,95
+                                                06           32           1             3
+
+Operating income                               49,          12,           129,          243,
+                                               86           51            451           759
+                                               7            3
+Other income, net                              23,          13,           23,5          4,82
+                                               81           09            59            4
+                                               7            7
+Interest expense, net                          (4,    )     (5,    )      (16,   )      (20,     )
+                                               94           37            282           088
+                                               6            8
+Income before provision for income taxes       68,          20,           136,          228,
+                                               73           23            728           495
+                                               8            2
+Income tax provision                           9,0          8,4           29,7          63,5
+                                               18           63            79            75
+Net income                                     59,          11,           106,          164,
+                                               72           76            949           920
+                                               0            9
+Net income attributable to noncontrolling      (64    )     (52    )     (2,9    )     (2,8      )
+interest                                       9            2            84            85
+Net income attributable to Korn Ferry        $ 59,        $ 11,        $ 103,        $ 162,
+                                               07           24           965           035
+                                               1            7
+
+Earnings per common share attributable to
+Korn Ferry:
+Basic                                        $ 1.1        $ 0.2        $ 2.00        $ 3.07
+                                               4            1
+Diluted                                      $ 1.1        $ 0.2        $ 1.99        $ 3.05
+                                               3            1
+
+Weighted-average common shares
+outstanding:
+Basic                                           51,          51,          51,1          51,6
+                                                12           27           29            39
+                                                6            8
+Diluted                                         51,          51,          51,3          51,9
+                                                34           43           29            99
+                                                3            1
+
+Cash dividends declared per share:           $ 0.3        $ 0.1        $ 0.69        $ 0.45
+                                               3            5
+
+                                                                                             Page 12 of 21
+          Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
 
 
+KORN FERRY AND SUBSIDIARIES           FINANCIAL SUMMARY BY REPORTING SEGMENT
+(dollars in thousands) (unaudited)
 
-About PAC Storage
+                                     Three Months Ended          Nine Months Ended January 31,
+                                     January 31,
+                                     202      202      %         2024        2023        %
+                                     4        3        Cha                               Chang
+                                                       nge                               e
+Fee revenue:
+Consulting                           $ 1      $ 1      3     %   $ 512,      $ 501,      2    %
+                                       6        6      .           830         731       .
+                                       6        2      0                                 2
+                                       ,        ,
+                                       9        1
+                                       4        5
+                                       7        5
+Digital                                9        8      6     %     275,        263,      4    %
+                                       0        5      .           395         161       .
+                                       ,        ,      2                                 6
+                                       3        0
+                                       1        7
+                                       7        1
+Executive Search:
+North America                          1        1      (     %     381,        426,      (    %)
+                                       2        3      8     )     459         839       1
+                                       1        2      .                                 0
+                                       ,        ,      6                                 .
+                                       4        8                                        6
+                                       4        1
+                                       9        0
+EMEA                                   4        4      0     %     138,        140,      (    %)
+                                       8        8      .           873         661       1
+                                       ,        ,      1                                 .
+                                       9        9                                        3
+                                       9        6
+                                       9        0
+Asia Pacific                           2        2      (     %     65,1        72,4      (    %)
+                                       1        2      5     )     67          10        1
+                                       ,        ,      .                                 0
+                                       3        6      7                                 .
+                                       2        2                                        0
+                                       4        1
+Latin America                          7        7      (     %     22,0        23,2      (    %)
+                                       ,        ,      1     )     41          83        5
+                                       5        6      .                                 .
+                                       4        5      5                                 3
+                                       1        4
+Total Executive Search (a)             1        2      (     %     607,        663,      (    %)
+                                       9        1      6     )     540         193       8
+                                       9        2      .                                 .
+                                       ,        ,      0                                 4
+                                       3        0
+                                       1        4
+                                       3        5
+Professional Search & Interim          1        1      1     %     411,        351,      1    %
+                                       3        1      0           453         670       7
+                                       0        7      .                                 .
+                                       ,        ,      9                                 0
+                                       8        9
 
-PAC Storage is an enterprise data storage hardware solution. Since 2005, PAC solutions have been the
-cornerstone of data centers nationwide for primary, secondary, backup, and disaster recovery. In 2017, PAC
-introduced its PS Line offering hybrid SAN and NAS, with cloud gateway options. Renowned for the best price point
-in the industry, PAC's feature-rich solutions are robust with high availability, data protection and scalability to
-petabytes of on-premise storage. PAC Storage is an affiliate of BOXX Technologies.
+                                                                                                           Page 13 of 21
+           Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
 
-Learn more at www.pacstorage.com.
+                                              9        8
+                                              0        0
+    RPO                                       8        1       (    %        264,            324,      (     %)
+                                              1        0       2    )        653             779       1
+                                              ,        3       1                                       8
+                                              2        ,       .                                       .
+                                              1        5       6                                       5
+                                              2        3
+                                                       1
+    Total fee revenue                         6        6       (    %        2,07            2,10      (     %)
+                                              6        8       1    )        1,87            4,53      1
+                                              8        0       .             1               4         .
+                                              ,        ,       8                                       6
+                                              6        7
+                                              7        8
+                                              9        2
+    Reimbursed out-of-pocket                  8        6       3    %        23,7            21,1      1     %
+    engagement expenses                       ,        ,       5             11              78        2
+                                              1        0       .                                       .
+                                              9        6       1                                       0
+                                              4        3
+    Total revenue                           $ 6      $ 6       (    %     $ 2,09        $ 2,12         (     %)
+                                              7        8       1    )       5,58          5,71         1
+                                              6        6       .            2             2            .
+                                              ,        ,       5                                       4
+                                              8        8
+                                              7        4
+                                              3        5
+(     Total Executive Search is the sum of the individual Executive Search Reporting Segments and is
+a     presented on a consolidated basis as it is consistent with the Company's discussion of its Lines of
+)     Business, and financial metrics used by the Company's investor base.
 
 
+KORN FERRY AND SUBSIDIARIES                CONDENSED CONSOLIDATED BALANCE SHEETS                    (in thousands,
+except per share amounts)
 
-                                                                                                    #
+                                                                                January 31,           April 30,
+                                                                                2024                  2023
+                                                                                (unaudited)
+ASSETS
+Cash and cash equivalents                                                       $ 736,79              $ 844,02
+                                                                                  7                     4
+Marketable securities                                                             45,727                44,837
+Receivables due from clients, net of allowance for doubtful accounts of           589,71                569,60
+$50,302 and $44,377 at January 31, 2024 and April 30, 2023,                       7                     1
+respectively
+Income taxes and other receivables                                                  63,020                 67,512
+Unearned compensation                                                               60,071                 63,476
+Prepaid expenses and other assets                                                   49,377                 49,219
+Total current assets                                                                1,544,7                1,638,6
+                                                                                    09                     69
+
+Marketable securities, non-current                                                  204,32                 179,04
+                                                                                    6                      0
+Property and equipment, net                                                         163,60                 161,87
+                                                                                    0                      6
+Operating lease right-of-use assets, net                                            167,44                 142,69
+                                                                                    1                      0
+
+                                                                                              Page 14 of 21
+            Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+Cash surrender value of company-owned life insurance policies, net of      216,45          197,99
+loans                                                                      0               8
+Deferred income taxes                                                      121,26          102,05
+                                                                           7               7
+Goodwill                                                                   909,33          909,49
+                                                                           0               1
+Intangible assets, net                                                     95,151          114,42
+                                                                                           6
+Unearned compensation, non-current                                         111,28          103,60
+                                                                           6               7
+Investments and other assets                                               22,765          24,590
+Total assets                                                             $ 3,556,3       $ 3,574,4
+                                                                           25              44
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Accounts payable                                                         $ 46,368        $ 53,386
+Income taxes payable                                                       23,599          19,969
+Compensation and benefits payable                                          423,26          532,93
+                                                                           8               4
+Operating lease liability, current                                         36,895          45,821
+Other accrued liabilities                                                  312,51          324,15
+                                                                           1               0
+Total current liabilities                                                  842,64          976,26
+                                                                           1               0
+
+Deferred compensation and other retirement plans                           427,46             396,53
+                                                                           4                  4
+Operating lease liability, non-current                                     151,15             119,22
+                                                                           9                  0
+Long-term debt                                                             396,75             396,19
+                                                                           5                  4
+Deferred tax liabilities                                                   5,709              5,352
+Other liabilities                                                          25,186             27,879
+Total liabilities                                                          1,848,9            1,921,4
+                                                                           14                 39
+
+Stockholders' equity
+Common stock: $0.01 par value, 150,000 shares authorized, 77,511 and       428,41             429,75
+76,693 shares issued and 52,345 and 52,269 shares outstanding at           3                  4
+January 31, 2024 and April 30, 2023, respectively
+Retained earnings                                                          1,378,1            1,311,0
+                                                                           40                 81
+Accumulated other comprehensive loss, net                                  (102,93   )        (92,764   )
+                                                                           0
+Total Korn Ferry stockholders' equity                                      1,703,6         1,648,0
+                                                                           23              71
+Noncontrolling interest                                                    3,788           4,934
+Total stockholders' equity                                                 1,707,4         1,653,0
+                                                                           11              05
+Total liabilities and stockholders' equity                               $ 3,556,3       $ 3,574,4
+                                                                           25              44
 
 
+  KORN FERRY AND SUBSIDIARIES                RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL
+  MEASURES (dollars in thousands)            (unaudited)
+
+                                                                                           Page 15 of 21
+         Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                             Three Months Ended        Nine Months Ended
+                                             January 31,               January 31,
+                                               20           20            20          20
+                                               24           23            24          23
+
+Net income attributable to Korn Ferry        $ 59,        $ 11,        $ 10         $ 16
+                                               07           24           3,9          2,0
+                                               1            7            65           35
+Net income attributable to non-controlling     64           52           2,9          2,8
+interest                                       9            2            84           85
+Net income                                     59,          11,          10           16
+                                               72           76           6,9          4,9
+                                               0            9            49           20
+Income tax provision                           9,0          8,4          29,          63,
+                                               18           63           77           57
+                                                                         9            5
+Income before provision for income taxes        68,          20,         13           22
+                                                73           23          6,7          8,4
+                                                8            2           28           95
+Other income, net                               (23   )      (13   )     (23    )     (4,     )
+                                                ,81          ,09         ,55          82
+                                                7            7           9            4
+Interest expense, net                           4,9          5,3         16,          20,
+                                                46           78          28           08
+                                                                         2            8
+Operating income                                49,          12,         12           24
+                                                86           51          9,4          3,7
+                                                7            3           51           59
+Depreciation and amortization                   19,          17,         58,          50,
+                                                50           03          07           35
+                                                9            7           5            9
+Other income, net                               23,          13,         23,          4,8
+                                                81           09          55           24
+                                                7            7           9
+Integration/acquisition costs (1)               3,8          2,4         13,           9,4
+                                                99           56          05            72
+                                                                         7
+Impairment of fixed assets (2)                  -           4,3          1,5          4,3
+                                                            75           75           75
+Impairment of right of use assets (3)           -           5,4          1,6          5,4
+                                                            71           29           71
+Restructuring charges, net (4)                  4,6         41,          68,          41,
+                                                12          16           55           16
+                                                            2            8            2
+Adjusted EBITDA                              $ 10         $ 96,        $ 29         $ 35
+                                               1,7          11           5,9          9,4
+                                               04           1            04           22
+
+Operating margin                                7.5   %      1.8   %      6.2   %      11.    %
+                                                                                       6
+Depreciation and amortization                   2.9   %      2.5   %      2.8   %      2.4    %
+Other income, net                               3.5   %      1.9   %      1.2   %      0.2    %
+Integration/acquisition costs (1)               0.6   %      0.4   %      0.6   %      0.4    %
+Impairment of fixed assets (2)                  -     %      0.7   %      0.1   %      0.2    %
+Impairment of right of use assets (3)           -     %      0.8   %      0.1   %      0.3    %
+Restructuring charges, net (4)                  0.7   %      6.0   %      3.3   %      2.0    %
+Adjusted EBITDA margin                          15.   %      14.   %      14.   %      17.    %
+
+                                                                                                         Page 16 of 21
+            Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                                        2              1              3              1
+
+   Net income attributable to Korn Ferry             $ 59,          $ 11,          $ 10           $ 16
+                                                       07             24             3,9            2,0
+                                                       1              7              65             35
+   Integration/acquisition costs (1)                   3,8            2,4            13,            9,4
+                                                       99             56             05             72
+                                                                                     7
+   Impairment of fixed assets (2)                       -              4,3           1,5             4,3
+                                                                       75            75              75
+   Impairment of right of use assets (3)                -              5,4           1,6             5,4
+                                                                       71            29              71
+   Restructuring charges, net (4)                       4,6            41,           68,             41,
+                                                        12             16            55              16
+                                                                       2             8               2
+   Tax effect on the adjusted items (5)                (2,     )       (11    )      (20     )       (13    )
+                                                       09              ,70           ,76             ,41
+                                                       2               5             3               0
+   Tax adjustment (6)                                  (9,     )       -             (9,     )       -
+                                                       71                            71
+                                                       4                             4
+   Adjusted net income attributable to Korn          $ 55,          $ 53,          $ 15           $ 20
+   Ferry                                               77             00             8,3            9,1
+                                                       6              6              07             05
+Explanation of Non-GAAP Adjustments
+(     Costs associated with previous acquisitions, such as legal and professional fees, retention awards and the
+1     on-going integration expenses to combine the companies.
+)
+(     Costs associated with impairment of fixed assets primarily due to software impairment charge in our Digital
+2     segment in FY'24 and impairment on leasehold improvements due to terminating and deciding to sublease
+)     some of our office leases in FY'23.
+(     Costs associated with impairment of right-of-use assets due to terminating and deciding to sublease some
+3     of our office leases.
+)
+(     Restructuring charges incurred to align our workforce to the challenging macroeconomic business
+4     environment arising from persistent inflationary pressures, rising interest rates and global economic
+)     geopolitical uncertainty.
+(     Tax effect on integration/acquisition costs, impairment of fixed assets and right of use assets, and
+5     restructuring charges, net.
+)
+(     Due to actions taken in connection with the worldwide minimum tax, the Company recorded a $9.7 million
+6     non-recurring tax benefit in the quarter ended January 31, 2024 that resulted in the release of a valuation
+)     allowance, which is included in the Company's US GAAP results but excluded from the Adjusted results.
 
 
-   Attachments
+   KORN FERRY AND SUBSIDIARIES RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL
+   MEASURES - CONTINUED (unaudited)
+
+                                                       Three Months Ended            Nine Months Ended
+                                                       January 31,                   January 31,
+                                                         20           20                20          20
+                                                         24           23                24          23
+
+   Basic earnings per common share                     $ 1.1          $ 0.2          $ 2.0         $ 3.0
+                                                         4              1              0             7
+   Integration/acquisition costs (1)                     0.0            0.0            0.2           0.1
+                                                         7              5              5             8
+   Impairment of fixed assets (2)                        -              0.0            0.0           0.0
+
+                                                                                                          Page 17 of 21
+            Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                                                         8                  3             8
+   Impairment of right of use assets (3)                  -              0.1                0.0           0.1
+                                                                         0                  3             0
+   Restructuring charges, net (4)                        0.0             0.8                1.3           0.7
+                                                         9               0                  2             9
+   Tax effect on the adjusted items (5)                  (0.    )        (0.   )            (0.   )       (0.    )
+                                                         04              23                 40            26
+   Tax adjustment (6)                                    (0.    )        -                  (0.   )       -
+                                                         19                                 19
+   Adjusted basic earnings per share                   $ 1.0          $ 1.0               $ 3.0         $ 3.9
+                                                         7              1                   4             6
+
+   Diluted earnings per common share                   $ 1.1          $ 0.2               $ 1.9         $ 3.0
+                                                         3              1                   9             5
+   Integration/acquisition costs (1)                     0.0            0.0                 0.2           0.1
+                                                         7              5                   5             8
+   Impairment of fixed assets (2)                        -              0.0                 0.0           0.0
+                                                                        8                   3             8
+   Impairment of right of use assets (3)                  -             0.1                 0.0           0.1
+                                                                        0                   3             0
+   Restructuring charges, net (4)                        0.0            0.8                 1.3           0.7
+                                                         9              0                   2             8
+   Tax effect on the adjusted items (5)                  (0.    )       (0.    )            (0.   )       (0.    )
+                                                         04             23                  40            26
+   Tax adjustment (6)                                    (0.    )       -                   (0.   )       -
+                                                         18                                 19
+   Adjusted diluted earnings per share                 $ 1.0          $ 1.0               $ 3.0         $ 3.9
+                                                         7              1                   3             3
+
+Explanation of Non-GAAP Adjustments
+(     Costs associated with previous acquisitions, such as legal and professional fees, retention awards and the
+1     on-going integration expenses to combine the companies.
+)
+(     Costs associated with impairment of fixed assets primarily due to software impairment charge in our Digital
+2     segment in FY'24 and impairment on leasehold improvements due to terminating and deciding to sublease
+)     some of our office leases in FY'23.
+(     Costs associated with impairment of right-of-use assets due to terminating and deciding to sublease some
+3     of our office leases.
+)
+(     Restructuring charges incurred to align our workforce to the challenging macroeconomic business
+4     environment arising from persistent inflationary pressures, rising interest rates and global economic
+)     geopolitical uncertainty.
+(     Tax effect on integration/acquisition costs, impairment of fixed assets and right of use assets, and
+5     restructuring charges, net.
+)
+(     Due to actions taken in connection with the worldwide minimum tax, the Company recorded a $9.7 million
+6     non-recurring tax benefit in the quarter ended January 31, 2024 that resulted in the release of a valuation
+)     allowance, which is included in the Company's US GAAP results but excluded from the Adjusted results.
 
 
-    •   PAC Storage NVME 5000 (front)
-    •   PAC Storage NVME 5000 (rear)
-Krista Crane PAC Storage 949.360.9055     krista@pacstorage.com
+      KORN FERRY AND SUBSIDIARIES RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL
+      MEASURES - CONTINUED (unaudited)
+
+                            Three Months Ended January 31,
+                            2024                                      2023
+                            Fee      Tota     Adjuste      Ad         Fee          Tota       Adjuste      Adj
+                            reve     l        d            jus        reve         l          d            ust
+                            nue      reve     EBITD        ted        nue          reve       EBITD        ed
+
+                                                                                        Page 18 of 21
+      Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                              nue       A        EB               nue      A             EB
+                                                 IT                                      IT
+                                                 DA                                      DA
+                                                 ma                                      ma
+                                                 rgi                                     rgi
+                                                 n                                       n
+                    (dollars in thousands)
+Consulting          $ 1         $ 1      $   2   1 %     $ 1      $ 1      $ 2           1 %
+                       6           6         7   6         6        6        3           4
+                       6           9         ,   .         2        4        ,           .
+                       ,           ,         8   7         ,        ,        3           4
+                       9           9         1             1        4        0
+                       4           2         2             5        1        5
+                       7           9                       5        4
+Digital                9           9         2   3 %       8        8          2         2 %
+                       0           0         7   0         5        5          2         6
+                       ,           ,         ,   .         ,        ,          ,         .
+                       3           3         3   3         0        0          1         0
+                       1           9         7             7        8          5
+                       7           4         0             1        7          3
+Executive Search:
+North America         1          1           2   2 %       1        1          3         2 %
+                      2          2           9   4         3        3          0         2
+                      1          3           ,   .         2        4          ,         .
+                      ,          ,           3   2         ,        ,          4         9
+                      4          0           8             8        2          4
+                      4          5           2             1        5          6
+                      9          9                         0        5
+EMEA                  4          4           7   1 %       4        4          7         1 %
+                      8          9           ,   5         8        9          ,         6
+                      ,          ,           7   .         ,        ,          9         .
+                      9          1           9   9         9        1          8         3
+                      9          7           9             6        9          1
+                      9          1                         0        5
+Asia Pacific          2          2           4   2 %       2        2          5         2 %
+                      1          1           ,   1         2        2          ,         4
+                      ,          ,           5   .         ,        ,          5         .
+                      3          3           0   1         6        6          3         5
+                      2          8           0             2        9          8
+                      4          4                         1        4
+Latin America         7          7           1   2 %       7        7          2         3 %
+                      ,          ,           ,   3         ,        ,          ,         2
+                      5          5           7   .         6        6          4         .
+                      4          4           5   2         5        5          6         2
+                      1          3           0             4        8          2
+Total Executive       1          2           4   2 %       2        2          4         2 %
+Search                9          0           3   1         1        1          6         1
+                      9          1           ,   .         2        3          ,         .
+                      ,          ,           4   8         ,        ,          4         9
+                      3          1           3             0        8          2
+                      1          5           1             4        0          7
+                      3          7                         5        2
+Professional          1          1           2   1 %       1        1          2         1 %
+Search & Interim      3          3           3   8         1        1          1         8
+                      0          1           ,   .         7        8          ,         .
+                      ,          ,           7   2         ,        ,          9         6
+                      8          8           9             9        6          6
+                      9          2           5             8        1          9
+                      0          4                         0        6
+RPO                   8          8           9   1 %       1        1          9         9 %
+
+                                                                                                 Page 19 of 21
+      Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                        1        3        ,        1            0          0           ,           .
+                        ,        ,        2        .            3          4           8           5
+                        2        5        9        4            ,          ,           4
+                        1        6        1                     5          9           9
+                        2        9                              3          2
+                                                                1          6
+Corporate               -        -     (      )                 -          -       (       )
+                                       2                                           2
+                                       9                                           7
+                                       ,                                           ,
+                                       9                                           5
+                                       9                                           9
+                                       5                                           2
+Consolidated       $ 6      $ 6      $ 1           1 %     $ 6        $ 6        $ 9               1 %
+                     6        7        0           5         8          8          6               4
+                     8        6        1           .         0          6          ,               .
+                     ,        ,        ,           2         ,          ,          1               1
+                     6        8        7                     7          8          1
+                     7        7        0                     8          4          1
+                     9        3        4                     2          5
+                  Nine Months Ended January 31,
+                  2024                                   2023
+                  Fee         Tota     Adjus    Ad       Fee        Tota       Adjus           Adjuste
+                  reve        l        ted      jus      reve       l          ted             d
+                  nue         reve     EBIT     ted      nue        reve       EBIT            EBITD
+                              nue      DA       EB                  nue        DA              A
+                                                IT                                             margin
+                                                DA
+                                                ma
+                                                rgi
+                                                n
+                  (dollars in thousands)
+Consulting        $ 5         $ 5      $ 8      1 %      $ 5        $ 5        $ 8             1 %
+                     1           2        1     6          0          0          3             6
+                     2           1        ,     .          1          8          ,             .
+                     ,           ,        9     0          ,          ,          9             7
+                     8           6        2                7          9          4
+                     3           7        0                3          9          4
+                     0           5                         1          4
+Digital              2           2        8     2 %        2          2          7             2 %
+                     7           7        0     9          6          6          3             8
+                     5           5        ,     .          3          3          ,             .
+                     ,           ,        6     3          ,          ,          8             1
+                     3           5        7                1          4          5
+                     9           6        8                6          7          5
+                     5           3                         1          9
+Executive
+Search:
+North America       3        3        8           2 %      4          4          1             2 %
+                    8        8        7           3        2          3          1             6
+                    1        6        ,           .        6          1          2             .
+                    ,        ,        5           0        ,          ,          ,             3
+                    4        4        7                    8          2          1
+                    5        0        4                    3          8          6
+                    9        5                             9          6          4
+EMEA                1        1        1           1 %      1          1          2             1 %
+                    3        3        9           3        4          4          4             7
+                    8        9        ,           .        0          1          ,             .
+                    ,        ,        0           7        ,          ,          5             5
+                    8        6        5                    6          4          7
+
+                                                                                                   Page 20 of 21
+                 Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+                                7       2        6                  6        4        7
+                                3       1                           1        3
+           Asia Pacific         6       6        1       2 %        7        7        1       2 %
+                                5       5        4       2          2        2        8       5
+                                ,       ,        ,       .          ,        ,        ,       .
+                                1       4        6       5          4        6        7       9
+                                6       5        9                  1        6        2
+                                7       4        0                  0        9        3
+           Latin America        2       2        4       1 %        2        2        7       3 %
+                                2       2        ,       9          3        3        ,       3
+                                ,       ,        2       .          ,        ,        6       .
+                                0       0        9       5          2        2        8       0
+                                4       5        6                  8        8        6
+                                1       0                           3        9
+           Total Executive      6       6        1       2 %        6        6        1       2 %
+           Search               0       1        2       0          6        6        6       4
+                                7       3        5       .          3        8        3       .
+                                ,       ,        ,       7          ,        ,        ,       6
+                                5       5        6                  1        6        1
+                                4       3        1                  9        8        5
+                                0       0        6                  3        7        0
+           Professional         4       4        7       1 %        3        3        8       2 %
+           Search & Interim     1       1        3       7          5        5        3       3
+                                1       4        ,       .          1        4        ,       .
+                                ,       ,        7       9          ,        ,        5       8
+                                4       3        4                  6        4        8
+                                5       4        6                  7        3        7
+                                3       8                           0        0
+           RPO                  2       2        2       1 %        3        3        4       1 %
+                                6       7        8       0          2        3        3       3
+                                4       0        ,       .          4        0        ,       .
+                                ,       ,        6       8          ,        ,        5       4
+                                6       4        1                  7        1        6
+                                5       6        7                  7        2        2
+                                3       6                           9        2
+           Corporate            -       -        ( )                -        -       ( )
+                                                 9                                   8
+                                                 4                                   8
+                                                 ,                                   ,
+                                                 6                                   6
+                                                 7                                   7
+                                                 3                                   6
+           Consolidated       $ 2     $ 2      $ 2       1 %     $ 2      $ 2      $ 3        1 %
+                                ,       ,        9       4         ,        ,        5        7
+                                0       0        5       .         1        1        9        .
+                                7       9        ,       3         0        2        ,        1
+                                1       5        9                 4        5        4
+                                ,       ,        0                 ,        ,        2
+                                8       5        4                 5        7        2
+                                7       8                          3        1
+                                1       2                          4        2
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240301952759/en/
 
 
+CONTACT: Investor Relations: Tiffany Louder, (214) 310-8407
+Media: Dan Gugler, (310) 226-2645
 
-Load-Date: July 16, 2024
+
+http://www.businesswire.com
+
+                                                                                                  Page 21 of 21
+                Korn Ferry Announces Third Quarter Fiscal 2024 Results of Operations Highlights
+
+
+Load-Date: March 7, 2024
 
 
   

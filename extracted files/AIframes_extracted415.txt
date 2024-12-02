@@ -1,85 +1,130 @@
 
 
-                                                                                               Page 1 of 2
-     CAPE Analytics and Vexcel Enter Strategic Imagery Partnership to Enhance CAPE's AI-Powered Property
-                                             Intelligence Products
+                                                                                                         Page 1 of 3
+                   PolyU Harnesses GeoAI Technologies to Enable Sustainable Urban Development
 
 
 
 
- CAPE Analytics and Vexcel Enter Strategic Imagery Partnership to Enhance
-           CAPE's AI-Powered Property Intelligence Products
-                                                           PR Newswire
-                                            June 18, 2024 Tuesday 12:00 PM EST
+        PolyU Harnesses GeoAI Technologies to Enable Sustainable Urban
+                                Development
+                                                     Targeted News Service
+                                             April 9, 2024 Tuesday 9:17 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 880 words
-Dateline: PALO ALTO, Calif. and CENTENNIAL, Colo., June 18, 2024
+
+
+
+Length: 1021 words
+Byline: Targeted News Service
+Dateline: HONG KONG
 
 Body
 
 
-PR NewswireNew partnership with Vexcel Data Program increases CAPE's coverage to over 99% of U.S.
-households and adds access to post-disaster imagery.PALO ALTO, Calif. and CENTENNIAL, Colo., June 18, 2024
-/PRNewswire/ -- Today, CAPE Analytics, the leader in AI-powered property insights for insurance and real estate
-risk, and Vexcel, the global leader in aerial imaging, are announcing an expansive new partnership. The new
-partnership provides CAPE with aerial imagery at a resolution, accuracy, coverage, and recency to boost its
-property insights and expand its product footprint in the United States, Canada, and Australia.
+(TNSres) -- The Hong Kong Polytechnic University issued the following news release:
 
- For the last decade, CAPE Analytics has pioneered predictive property risk insights now relied upon by over 80
-enterprise clients, including most of the top 30 homeowners insurance carriers in the U.S., and the largest
-investment banks in the world. CAPE generates and instantly delivers 80+ powerful property analytics at massive
-scale, with insights ranging from current roof condition, roof age, and living area to hail and wildfire risk scores.
-These insights allow insurance carriers, financial institutions, and home and business owners to understand,
-manage, and mitigate property-level risk with unprecedented granularity. CAPE's use of Vexcel's high-resolution
-orthomosaic imagery furthers the company's mission to provide clients with the most comprehensive, timely, and
-reliable property risk analytics available anywhere.Vexcel's aerial imagery library covers 99.6% of the U.S.
-population and includes over 127 million households. The company refreshes its aerial imagery in urban areas up
-to three times per year in the U.S. In 2024, Vexcel is on track to capture 4.4 million square kilometers in the U.S.,
-refreshing imagery for 93% of the U.S. population. Vexcel also regularly collects and updates aerial imagery in
-urban areas of Canada, Australia, and New Zealand. With such a vast imagery library, the partnership will over time
-expand CAPE's geographic scope to new states, like Hawaii, rural areas in the U.S., and new countries, such as
-New Zealand. Within days of major weather events impacting properties, CAPE will also provide clients with options
-for accessing Vexcel's post-disaster Gray Sky imagery and associated analytics from CAPE."CAPE Analytics'
-long-term partnership with Vexcel marks a transformative step in enhancing our market-leading property
-intelligence solutions. Powered by Vexcel's extensive imagery coverage, CAPE will continue to deliver the most
-precise, reliable, and up-to-date property risk analytics available," said Ryan Kottenstette, CEO of CAPE Analytics.
-"We look forward to this partnership bringing significant value to insurance carriers and real estate
-stakeholders.""Over the past few years, we've significantly expanded our aerial imagery programs in the U.S. and
-around the globe. We are thrilled to announce our partnership with CAPE Analytics and look forward to seeing how
-our best-in-class imagery will enable and enhance their innovative property analytics across multiple countries,"
+Geospatial artificial intelligence (GeoAI) is an interdisciplinary field that combines geospatial science and artificial
+intelligence (AI). The Hong Kong Polytechnic University (PolyU) is harnessing innovative GeoAI technologies to
+provide ground-breaking solutions for some of the environmental and social challenges facing the world today, in
+various fields including transportation, urban and public safely, planning, climate change and natural disasters.
 
-                                                                                              Page 2 of 2
-    CAPE Analytics and Vexcel Enter Strategic Imagery Partnership to Enhance CAPE's AI-Powered Property
-                                            Intelligence Products
+Prof. Qihao WENG, Chair Professor of Geomatics and Artificial Intelligence of the Department of Land Surveying
+and Geo-Informatics, and Global STEM Professor, established the PolyU Research Centre for Artificial
+Intelligence in Geomatics (RCAIG), to focus on the development of original and innovative AI methodologies and
+technologies for geomatics and their applications in urban areas, with the goal of it becoming a global R&D hub in
+GeoAI. Prof. Weng has recently been honoured with the 2024 American Association of Geographers (AAG)
+Wilbanks Prize for Transformational Research in Geography and the 2024 AAG Remote Sensing Specialty Group
+Lifetime Achievement Honor Award for his ground-breaking contributions in geography.
 
-said Erik Jorgensen, CEO of Vexcel. Vexcel ensures high quality in its Data Program by managing every pixel
-collected. This includes using its own market-leading cameras, a dedicated fleet of aircraft, and a world-class
-imagery processing pipeline. Its high-resolution imagery is consistent across collection areas and is calibrated
-against ground control points to achieve mapping-grade accuracy. These features and many more make Vexcel's
-imagery highly optimized for AI and property analysis.About CAPE AnalyticsCAPE Analytics provides AI-
-powered, geospatial property intelligence for buildings across the United States, Canada, and Australia. CAPE
-enables residential and commercial property stakeholders, including insurance carriers and financial institutions, to
-access valuable and predictive property insights and risk scores instantly. CAPE property intelligence offers the
-accuracy and detail that typically require an on-site inspection but with unparalleled immediacy and coverage.
-Founded in 2014, CAPE Analytics is backed by leading venture capital firms and insurers and is led by machine
-learning, data infrastructure, and property risk experts.Learn more atwww.capeanalytics.comAbout VexcelFor over
-30 years, Vexcel has been the industry leader in the photogrammetric and remote sensing space, building market-
-leading UltraCam sensors, and providing a comprehensive library of cloud-based geospatial data. The Vexcel Data
-Program is the largest and most accurate aerial imagery program in the world, collecting high-resolution imagery
-and location intelligence in 40+ countries. Its dedicated fleet of fixed-wing aircraft capture imagery in the U.S., UK,
-Canada, Australia, New Zealand, Japan, and across Western Europe. Its comprehensive aerial data library better
-informs and helps a variety of industries, such as Government, Telecom, Utilities, Insurance, AEC, Energy,
-Technology, HD Mapping, and more.More at:www.vexceldata.com.                     View original content to download
-multimedia:https://www.prnewswire.com/news-releases/cape-analytics-and-vexcel-enter-strategic-imagery-
-partnership-to-enhance-capes-ai-powered-property-intelligence-products-302175686.htmlSOURCE Vexcel Data
-Program
+One direction for the Research Centre is investigation into human-environment interactions in urbanisation by
+utilising geospatial analytics, GeoAI and big data methods. Another direction is to create various data products of
+global urban areas using Earth Observations (EO) and to provide EO-based urban data services.
+
+As RCAIG Principal Investigator and Director, Prof. Weng said, "Earth observation is important as a guiding
+compass for understanding changes in the environment and society. Our research focuses on diverse fields
+including geospatial big data and AI, remote sensing, ground-based sensors, navigation and positioning, surveying
+and geodesy, laser scanning, and photogrammetry. These technologies play a crucial role in addressing and
+resolving key environmental and social challenges."
+
+                                                                                                         Page 2 of 3
+                 PolyU Harnesses GeoAI Technologies to Enable Sustainable Urban Development
+
+In particular, GeoAI has revolutionised building monitoring by utilising thousands of learnable parameters. An
+illustration of this is its ability to automatically learn and identify general patterns of buildings such as colour and
+shape. This technology is crucially applied to detect disaster-damaged buildings, retrieve building height, identify
+structural changes and estimate building energy consumption. As a result, GeoAI has emerged as a mainstream
+solution for more efficient and insightful building monitoring.
+
+Environmental monitoring
+
+In the field of urbanisation monitoring, an RCAIG research team has developed an impervious surface area based
+urban cellular automata (CA) model that can simulate the fractional change of urban areas within each grid by
+utilising annual urban extent time series data obtained from satellite observations. By categorising the historical
+pathways of urban area growth into different levels of urbanisation, the model offers more detailed insights
+compared to traditional, binary, CA models. This demonstrates its great potential in supporting sustainable
+development.
+
+Research conducted by Ms Wanru HE, an RCAIG doctoral research assistant, and her team was reported in the
+paper "Modeling gridded urban fractional change using the temporal context information in the urban cellular
+automata model", and has been published in Cities. Their model effectively captures the dynamics of urban sprawl
+with significantly improved computational efficiency and performance, and will help enable the modelling of urban
+growth at regional and even global level, under diverse future urbanisation scenarios.
+
+GeoAI for traffic management
+
+In the area of smart traffic management, to enhance the efficiency of ride-hailing platforms and achieve intelligent
+management of their services, the RCAIG research team has developed a multi-agent order matching and vehicle
+repositioning approach. This innovative technology focuses on coordinating the supply and demand of ride-hailing
+services, ultimately aiming to improve their overall efficiency.
+
+Their approach provides a ground-breaking solution to tackle two critical aspects necessary for efficient ride-hailing
+services. Firstly, it addresses order matching by efficiently assigning orders to available vehicles. Secondly, it
+incorporates proactive vehicle repositioning, strategically deploying idle vehicles to regions with potentially high
+demand.
+
+Based on multi-agent deep reinforcement learning, this innovation solves the complex planning issues in
+transportation and offers a new perspective on a long-term spatio-temporal planning problem. The research
+conducted by Ms Mingyue XU, another RCAIG researcher, and her team, was reported in the paper "Multi-agent
+reinforcement learning to unify order-matching and vehicle-repositioning in ride-hailing services", and has been
+published in the International Journal of Geographical Information Science. The study achieved outstanding results,
+including reduced passenger rejection rates and driver idle time.
+
+***
+
+About RCAIG
+
+With a focus on GeoAI, RCAIG is dedicated to conducting research in diverse fields, including urban building and
+energy, urban safety and security, environmental monitoring and conservation, urban resilience and public health.
+This aligns with the 11th United Nations Sustainable Development Goal, which aims to create inclusive, safe,
+resilient and sustainable cities and human settlements. Website: https://rcaig.com/
+
+Learn more about Prof. Qihao Weng's research focus in the video: https://polyu.me/3Vt7yih
+
+***
+
+JOURNAL: Cities https://www.sciencedirect.com/science/article/pii/S0264275122005856
+
+***
+
+                                                                                                Page 3 of 3
+                PolyU Harnesses GeoAI Technologies to Enable Sustainable Urban Development
+
+Original    text     here:     https://www.polyu.edu.hk/media/media-releases/2024/0408_polyu-harnesses-geoai-
+technologies-to-enable-sustainable-urban-development/
+
+Contact: Iris Lai, Manager, Research and Innovation Office, 3400 2492, syiris.lai@polyu.edu.hk; Annie Wong,
+Senior Manager, Communications and Public Affairs, 3400 3853, anniewy.wong@polyu.edu.hk
+
+Copyright Targeted News Services
+
+MSTRUCK-8564160 MSTRUCK
 
 
-Load-Date: July 15, 2024
+Load-Date: April 9, 2024
 
 
   

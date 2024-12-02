@@ -1,163 +1,104 @@
 
 
-                                                                                                      Page 1 of 3
-           NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads
+                                                                                                Page 1 of 2
+    Flexera 2024 State of the Cloud: Managing Cloud Spending is the Top Challenge of Cloud Computing, while
+                            AI, FinOps, Security and Sustainability Demand Attention....
 
 
 
 
-       NetApp Expands Intelligent Data Infrastructure Capabilities to Power
-                          Strategic Cloud Workloads
-                                                     Targeted News Service
-                                            July 11, 2024 Thursday 8:50 AM EST
+   Flexera 2024 State of the Cloud: Managing Cloud Spending is the Top
+Challenge of Cloud Computing, while AI, FinOps, Security and Sustainability
+Demand Attention; 13th annual Flexera State of the Cloud Report illustrates
+   intensified need for FinOps practices for cloud cost optimization and
+                            enhanced efficiency
+                                                         GlobeNewswire
+                                              March 12, 2024 Tuesday 4:30 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 1450 words
-Byline: Targeted News Service
-Dateline: SAN JOSE, California
+Section: MARKET RESEARCH REPORTS
+Length: 849 words
 
 Body
 
+ITASCA, Ill., March 12, 2024 (GLOBE NEWSWIRE) -- Flexera, the company that helps organizations maximize
+business value from their technology investments, today announced the release of its Flexera 2024 State of the
+Cloud Report. The thirteenth annual Flexera State of the Cloud Report explores the thinking of 753 respondents
+from a survey conducted in late 2023. It highlights year-over-year (YoY) changes to help identify trends. The
+respondents—cloud decision-makers and users worldwide—revealed their experiences and insights about the
+public, private and multi-cloud market.
 
-NetApp, a provider of software, systems and services to manage and store data, issued the following news release
-on July 10, 2024:
+The 2024 report is available at https://www.flexera.com/stateofthecloud.
 
-NetApp(R) (NASDAQ: NTAP), the intelligent data infrastructure company, today announced the introduction of new
-capabilities designed for strategic cloud workloads including GenAI and VMware. These enhancements to NetApp
-data and storage services reduce the resources and risks for customers to manage these strategic workloads
-across increasingly complex hybrid multicloud environments.
+“This is a complex year for cloud adoption. Organizations are navigating economic uncertainties by investing in
+generative AI, security and sustainability while prioritizing cost management,” said Brian Adler, Senior Director,
+Cloud Market Strategy at Flexera. “Cloud adoption continues to grow. The shift toward hybrid and multi-cloud
+environments underscores the importance of comprehensive cost management, with nearly half of all workloads
+and data now in the public cloud. FinOps practices and cloud centers of excellence are growing as companies
+move toward centralized, strategic cloud management.”
 
-"Strategic workloads, including GenAI and virtualized environments, are driving business innovation and have
-increasingly complex and resource-intensive infrastructure requirements that are pushing IT teams to the limit," said
-Pravjit Tiwana, Senior Vice President and General Manager, Cloud Storage at NetApp. "NetApp is helping
-customers take back control of their data with intelligent data infrastructure that leverages unified data storage,
-integrated data services, and automated cloud operations. Even when they are up against specific and nuanced
-technology requirements for modern workloads, NetApp gives them the tools they need to optimize and simplify
-their data operations in their environments across the hybrid multicloud."
+Among the highlights:
+    •     Managing cloud spending remains the top challenge over security: This year marks the second year in
+          which managing cloud spending is the top challenge facing organizations. As in previous years, there
 
-To advance intelligent data infrastructure deployments that better support strategic workloads like GenAI and
-VMware environments, NetApp is announcing new capabilities, including:
+                                                                                               Page 2 of 2
+   Flexera 2024 State of the Cloud: Managing Cloud Spending is the Top Challenge of Cloud Computing, while
+                           AI, FinOps, Security and Sustainability Demand Attention....
 
-* NetApp BlueXP Workload Factory - for AWS: This intelligent data infrastructure service uses defined industry
-best-practices to automate the planning, provisioning, and management of cloud resources and services for key
-workloads, including GenAI, VMware cloud environments, and enterprise databases. Customers can use BlueXP
-workload factory to optimize deployment time, cost, performance, and protection of resources for strategic
-workloads as well as their associated data. To simplify workload migrations to the cloud, BlueXP workload factory
-allows users to profile infrastructure requirements for target workloads and compare different resource options for
-cost and performance needs. Then, the service can provision the selected resources, move any existing workload
+        needs to be more resources/expertise. More than a quarter of respondents spend over $12 million a year
+        on cloud (29%), and nearly quarter (22%) spend that much on SaaS.
+    •   Organizations are embracing multi-cloud: Respondents saw a slight increase in multi-cloud usage, up from
+        87% last year to 89% this year.
+    •   Enterprises turn to multi-cloud FinOps and security tools: Sixty-one percent of large enterprises use multi-
+        cloud security, and 57% use multi-cloud FinOps (cost optimization) tools.
+    •   Siloed apps and disaster recovery (DR)/failover are the top multi-cloud implementations: The top two
+        multi-cloud implementations are: apps siloed on different clouds, DR/failover between clouds. Apps siloed
+        on different clouds increased the most (up to 57% from 44% YoY). Data integration between clouds
+        increased to 45% from 37% YoY as organizations looked for the best fit for applications and data analysis.
+    •   AWS and Azure still lead overall: Adoption grew for Amazon Web Services (AWS), Microsoft Azure and
+        Google Cloud. Forty-nine percent of respondents reported using AWS for significant workloads, while 45%
+        reported using Azure and 21% reported using Google Cloud Platform. In contrast, Oracle Cloud
+        Infrastructure, IBM and Alibaba Cloud usage is substantially lower and relatively unchanged compared to
+        the previous year.
+    •   Cloud faces headwinds with small and medium-sized businesses: SMBs are the highest cloud adopters,
+        but fell off slightly from the previous year, with 61% (a drop from 67% last year) of workloads and 60% of
+        data in the public cloud for both years.
+    •   There are big plans for AI: Nearly all platform-as-a-service (PaaS) offerings saw a gain in usage, with the
+        most prominent being in the data warehouse (up to 65% from 56% YoY). Container-as-a-service (52%)
+        and serverless (function-as-a-service) (48%) are both up nine percentage points this year. Machine
+        learning/artificial intelligence (ML/AI) had a modest gain at 41%, up from 36% last year. However, ML/AI
+        is the PaaS offering getting the most attention from companies experimenting (32%) or planning to use it
+        (17%).
+    •   Sustainability trails cost optimization: Forty-eight percent of respondents say they already have defined
+        sustainability initiatives that include tracking the carbon footprint of cloud usage. When asked how
+        sustainability compares to cost optimization, 59% prioritized cost optimization, though an additional 29%
+        say that both cloud cost optimization and sustainability are equally prioritized.
 
-                                                                                                     Page 2 of 3
-          NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads
+The survey tapped 753 IT professionals and executive leaders worldwide, representing a broad cross-section of
+industries and context areas, in the winter of 2023. Flexera sources participants from a rigorously maintained
+independent panel comprised of vetted respondents with detailed profiles.
 
-data to these newly provisioned cloud deployments, and continually optimize the entire environment to ensure the
-required cost and performance targets. AWS users can read guidance on how to deploy this capability on the AWS
-Solutions Library.
-
-* NetApp GenAI Toolkit - Microsoft Azure NetApp Files Version: Customers can now include private enterprise data
-stored in Azure NetApp Files in their retrieval-augmented generation (RAG) workflows in a secure, programmatic
-manner. The result is an enhanced ability to generate unique, high-quality, and ultra-relevant results from GenAI
-projects by combining their proprietary data with pre-trained, foundational models (FMs). The integration of the
-NetApp GenAI Toolkit with Azure NetApp Files represents a powerful synergy that empowers customers to harness
-advanced language generation capabilities.
-
-* Amazon Bedrock with Amazon FSx for NetApp ONTAP Reference Architecture: Amazon Web Services, Inc.
-(AWS) and NetApp have released a joint reference architecture which provides guidance for customers on
-implementing RAG-enabled workflows that bring proprietary data stored on Amazon FSx for NetApp ONTAP into
-their GenAI data pipelines. Amazon FSx makes it easy and cost effective to launch, run, and scale feature-rich,
-high-performance file systems in the cloud. The reference architecture allows developers to use APIs for Amazon
-Bedrock to connect with Amazon FSx for ONTAP data stores, enabling the secure use of proprietary data with a
-choice of high-performing FMs that can be customized to unlock new insights and capabilities.
-
-* Amazon FSx for NetApp ONTAP Enhancements: AWS announced the next-generation Amazon FSx for ONTAP
-cloud storage service with enhanced capabilities to boost scalability and flexibility to provide up to 6 GB per second
-of throughput for a single highly-available (HA) pair from 512 TiB of SSD storage. Next-gen file systems offer
-virtualized workloads more room to grow with a 300 percent increase in network burst throughput and a 150 percent
-boost in disk burst throughput. For large-scale, high-performance workloads like GenAI, second-generation Amazon
-FSx for ONTAP systems support dynamic scalability by adding HA pairs as needed, up to 24 nodes. This delivers
-up to 72 GB per second of throughput from 1 PiB of SSD storage, providing greater flexibility and performance for
-evolving business needs.
-
-* NetApp BlueXP Disaster Recovery Support for VMFS: The BlueXP disaster recovery service, which provides
-guided workflows to design and execute automated disaster recovery plans for VMware workloads across both on-
-premises and cloud environments, has been expanded to support VMFS datastores for on-premises to on-premises
-disaster recovery.
-
-These updates build on NetApp's existing offerings that support storage and data operations for customers that
-need to implement and manage high-powered, strategic workloads such as GenAI and VMware environments. For
-example, NetApp recently announced that its unique BlueXP data classification capability, which automatically
-classifies and categorizes data for enhanced governance and secure ingest into GenAI and RAG data pipelines,
-has become a core control plane capability now available free of charge to all NetApp customers.
-
-"When it comes to GenAI, the prime focus for organizations is to adapt their data strategies to ensure they can
-balance data security, cost efficiency and innovation as they leverage pre-built LLMs to surface relevant, useful
-insights from their proprietary, business-relevant data," said Archana Venkatraman, Senior Research Director,
-Cloud Data Management at IDC. "NetApp's intelligent data infrastructure capabilities can help customers overcome
-the data challenges and offer specific guidance to automate workflows that can securely feed private data directly
-into public cloud providers' LLMs. In addition, NetApp's BlueXP data classification capability has the potential to
-mitigate the risks in data operations for AI because it allows users to discover and categorize data so that the right
-data is fed into the right model without exposing confidential, personal or restricted information."
-
-"Organizations are now facing different economic realities with regards to virtualized environments, and we all need
-to move quickly to address recent industry shifts," said Derek Elbert, Solutions Architect at WWT. "Optimizing the
-cost versus performance equation of VMware workloads has become a primary initiative for us, with the objective of
-continuing to provide scalability and performance while reducing unnecessary system and software resources.
-NetApp's offerings, such as the BlueXP disaster recovery service and the optimization metrics from Cloud Insights,
-
-                                                                                                    Page 3 of 3
-         NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads
-
-help us better ensure the right levels of resource allocation and protection schemes for virtual environments,
-allowing us to focus on putting our infrastructure to work without killing the FinOps metrics."
-
-***
-
-Additional Resources
-
-* When You Realize It's More About Data Than About Storage
-
-* Big News For All NetApp Customers: Classify Your Data With an Industry-Leading Solution at No Cost
-
-* Power Your Generative AI on AWS
-
-***
-
-About NetApp
-
-NetApp is the intelligent data infrastructure company, combining unified data storage, integrated data services, and
-CloudOps solutions to turn a world of disruption into opportunity for every customer. NetApp creates silo-free
-infrastructure, harnessing observability and AI to enable the industry's best data management. As the only
-enterprise-grade storage service natively embedded in the world's biggest clouds, our data storage delivers
-seamless flexibility. In addition, our data services create a data advantage through superior cyber resilience,
-governance, and application agility. Our CloudOps solutions provide continuous optimization of performance and
-efficiency through observability and AI. No matter the data type, workload, or environment, with NetApp you can
-transform your data infrastructure to realize your business possibilities.
-
-***
-
-NETAPP, the NETAPP logo, and the marks listed at www.netapp.com/TM are trademarks of NetApp, Inc. Other
-company and product names may be trademarks of their respective owners.
-
-***
-
-Original text and links presented by source here: https://www.netapp.com/newsroom/press-releases/news-rel-
-20240710-335028/
-
-[Category: BizComputer Technology]
-
-Contact: Kenya Hayes, kenya.hayes@netapp.com; Kris Newton, kris.newton@netapp.com
-
-Copyright Targeted News Services
-
-MSTRUCK-8716122 MSTRUCK
+About Flexera Flexera saves customers billions of dollars in wasted technology spending. A pioneer in hybrid ITAM
+and FinOps, Flexera provides award-winning, data-oriented SaaS solutions for technology value optimization
+(TVO), enabling IT, finance, procurement and cloud teams to gain deep insights into cost optimization, compliance
+and risks for each business service. Flexera One solutions are built on a set of definitive customer, supplier and
+industry data, powered by Technopedia, that enables organizations to visualize their Enterprise Technology
+Blueprint™ in hybrid environments—from on-premises to SaaS to containers to cloud. More than 50,000 customers
+subscribe to Flexera’s technology value optimization solutions, delivered by 1,300+ team members worldwide.
+Learn more at flexera.com.
 
 
-Load-Date: July 11, 2024
+Contact: publicrelations@flexera.com
+
+
+
+Load-Date: March 12, 2024
 
 
   

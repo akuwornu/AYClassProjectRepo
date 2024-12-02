@@ -1,96 +1,169 @@
 
 
-                                                                                                           Page 1 of 2
-                                             JUNE MONTHLY ROUNDUP
+                                                                                                     Page 1 of 3
+   AI could pose 'extinction-level' threat to humans and the US must intervene, State Dept.-commissioned report
+                                                        warns
 
 
 
 
-                                      JUNE MONTHLY ROUNDUP
-                                                  States News Service
-                                                July 11, 2024 Thursday
+AI could pose 'extinction-level' threat to humans and the US must intervene,
+                  State Dept.-commissioned report warns
+                                                        CNN Wire
+                                           March 12, 2024 Tuesday 6:17 PM GMT
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Cable News Network All Rights Reserved
 
-Length: 650 words
-Byline: States News Service
-Dateline: WASHINGTON
+Length: 1350 words
+Byline: By Matt Egan, CNN
+Dateline: (CNN)
 
 Body
 
 
-The following information was released by the office of Maryland Rep. John P. Sarbanes:
+        New York (CNN) - A new report commissioned by the US State Department paints an alarming picture of
+the "catastrophic" national security risks posed by rapidly evolving artificial intelligence, warning that time is
+running out for the federal government to avert disaster.
 
-Dear Friend,
+The findings were based on interviews with more than 200 people over more than a year - including top executives
+from leading AI companies, cybersecurity researchers, weapons of mass destruction experts and national security
+officials inside the government.
 
-I hope you and your family had a safe and happy Independence Day holiday.
+The report, released this week by Gladstone AI, flatly states that the most advanced AI systems could, in a worst
+case, "pose an extinction-level threat to the human species."
 
-Eleven weeks after the tragic collapse of the Francis Scott Key Bridge, the Port of Baltimore officially reopened to
-global commerce on June 12. We owe our gratitude to all those who worked around-the-clock to clear more than
-50,000 tons of debris from the Patapsco River, and without whose dedication, this important step in the ongoing
-effort to restore full operations at the Port would not have been possible.
+A US State Department official confirmed to CNN that the agency commissioned the report as it constantly
+assesses how AI is aligned with its goal to protect US interests at home and abroad. However, the official stressed
+the report does not represent the views of the US government.
 
-Recently, President Biden sent a supplemental funding request to Congress for emergency disaster relief to cover
-the total cost of rebuilding the bridge. The bipartisan Maryland delegation continues to work in lockstep and with our
-federal, state and local partners to pass this critical legislation.
+The warning in the report is another reminder that although the potential of AI continues to captivate investors and
+the public, there are real dangers too.
 
-At the same time, I was proud to celebrate other important investments in Maryland priorities throughout June.
+"AI is already an economically transformative technology. It could allow us to cure diseases, make scientific
+discoveries, and overcome challenges we once thought were insurmountable," Jeremie Harris, CEO and co-
+founder of Gladstone AI, told CNN on Tuesday.
 
-Ellicott City North Tunnel Project Groundbreaking
+"But it could also bring serious risks, including catastrophic risks, that we need to be aware of," Harris said. "And a
+growing body of evidence - including empirical research and analysis published in the world's top AI conferences -
+suggests that above a certain threshold of capability, AIs could potentially become uncontrollable."
 
-I was pleased to attend the groundbreaking of theNorth Tunnel project, an integral part of Howard County's Safe
-and Sound flood mitigation plan in response to the devastating floods that the Old Ellicott City community
-experienced between 2016 and 2018.
+White House spokesperson Robyn Patterson said President Joe Biden's executive order on AI is the "most
+significant action any government in the world has taken to seize the promise and manage the risks of artificial
+intelligence."
 
-When complete, the stormwater conveyance project one of the largest public works initiatives in Howard County's
-history will reduce the risk of flash floods by capturing stormwater at the West End of Old Ellicott City and diverting it
-underground, away from Main Street. I am inspired by the resilience of the Old Ellicott City community and
-commitment of all stakeholders to ensuring a vibrant future for this historic district for years to come.
+                                                                                                     Page 2 of 3
+   AI could pose 'extinction-level' threat to humans and the US must intervene, State Dept.-commissioned report
+                                                        warns
 
-Federal Transportation Grants for Improvements in Annapolis and the Hanover Street Corridor
+"The President and Vice President will continue to work with our international partners and urge Congress to pass
+bipartisan legislation to manage the risks associated with these emerging technologies," Patterson said.
 
-The Maryland delegation also worked to deliver funding, made available through the bipartisan Infrastructure
-Investment and Jobs Act (IIJA), for critical road safety improvements and infrastructure revitalization in our region.
+News of the Gladstone AI report was first reported by Time.
 
-                                                                                                        Page 2 of 2
-                                            JUNE MONTHLY ROUNDUP
+'Clear and urgent need' to intervene
 
-The City of Annapolis will receive $620,000 from the U.S. Department of Transportation (DOT) to implement an
-Intelligent Transportation System that will use Artificial Intelligence-based traffic signal technology to help prevent
-car accidents and ensure the safety of all road users, regardless of their chosen mode of transportation.
+Researchers warn of two central dangers broadly posed by AI.
 
-DOT also awarded over $15 million to the City of Baltimore for the Hanover Street Corridor Revitalization project.
-This federal investment will support planning for infrastructure improvements that will better connect Anne Arundel
-County, South Baltimore and surrounding communities.
+First, Gladstone AI said, the most advanced AI systems could be weaponized to inflict potentially irreversible
+damage. Second, the report said there are private concerns within AI labs that at some point they could "lose
+control" of the very systems they're developing, with "potentially devastating consequences to global security."
 
-Federal-State Partnership to Advance Offshore Wind
+"The rise of AI and AGI [artificial general intelligence] has the potential to destabilize global security in ways
+reminiscent of the introduction of nuclear weapons," the report said, adding there is a risk of an AI "arms race,"
+conflict and "WMD-scale fatal accidents."
 
-The State of Maryland and the U.S. Bureau of Ocean Energy Management recently entered into a memorandum of
-understandingto advance offshore wind projects in the Central Atlantic. At the signing ceremony, I underscored the
-partnership's importance to accelerating the renewable energy transition and achieving Maryland's bold climate
-goals. This collaboration between the Biden-Harris Administration and Governor Wes Moore's Administration will
-help spur economic growth while also creating good paying clean energy jobs, bringing us another step closer to
-ensuring a greener, more sustainable future for Maryland.
+Gladstone AI's report calls for dramatic new steps aimed at confronting this threat, including launching a new AI
+agency, imposing "emergency" regulatory safeguards and limits on how much computer power can be used to train
+AI models.
 
-MD-03's Next Generation of Leaders in the Armed Services
+"There is a clear and urgent need for the US government to intervene," the authors wrote in the report.
 
-Each year, I am honored to nominate residents of Maryland's Third District for admission to the United States
-service academies. I extend my congratulations to this next class of students and look forward to seeing all they will
-accomplish in the future.
+Safety concerns
 
-If you or someone you know is applying for a service academy nomination, please note that the deadline to submit
-materials to my office is 11:59 p.m. on Friday, August 30, 2024.
+Harris, the Gladstone AI executive, said the "unprecedented level of access" his team had to officials in the public
+and private sector led to the startling conclusions. Gladstone AI said it spoke to technical and leadership teams
+from ChatGPT owner OpenAI, Google DeepMind, Facebook parent Meta and Anthropic.
 
-Sincerely,
+"Along the way, we learned some sobering things," Harris said in a video posted on Gladstone AI's website
+announcing the report. "Behind the scenes, the safety and security situation in advanced AI seems pretty
+inadequate relative to the national security risks that AI may introduce fairly soon."
 
-Congressman John Sarbanes
+Gladstone AI's report said that competitive pressures are pushing companies to accelerate development of AI "at
+the expense of safety and security," raising the prospect that the most advanced AI systems could be "stolen" and
+"weaponized" against the United States.
 
-Maryland's Third Congressional District
+The conclusions add to a growing list of warnings about the existential risks posed by AI - including even from some
+of the industry's most powerful figures.
+
+Nearly a year ago, Geoffrey Hinton, known as the "Godfather of AI," quit his job at Google and blew the whistle on
+the technology he helped develop. Hinton has said there is a 10% chance that AI will lead to human extinction
+within the next three decades.
+
+Hinton and dozens of other AI industry leaders, academics and others signed a statement last June that said
+"mitigating the risk of extinction from AI should be a global priority."
+
+Business leaders are increasingly concerned about these dangers - even as they pour billions of dollars into
+investing in AI. Last year, 42% of CEOs surveyed at the Yale CEO Summit last year said AI has the potential to
+destroy humanity five to ten years from now.
+
+Human-like abilities to learn
+
+In its report, Gladstone AI noted some of the prominent individuals who have warned of the existential risks posed
+by AI, including Elon Musk, Federal Trade Commission ChairLina Khan and a former top executive at OpenAI.
+
+                                                                                                     Page 3 of 3
+   AI could pose 'extinction-level' threat to humans and the US must intervene, State Dept.-commissioned report
+                                                        warns
+
+Some employees at AI companies are sharing similar concerns in private, according to Gladstone AI.
+
+"One individual at a well-known AI lab expressed the view that, if a specific next-generation AI model were ever
+released as open-access, this would be 'horribly bad,'" the report said, "because the model's potential persuasive
+capabilities could 'break democracy' if they were ever leveraged in areas such as election interference or voter
+manipulation."
+
+Gladstone said it asked AI experts at frontier labs to privately share their personal estimates of the chance that an
+AI incident could lead to "global and irreversible effects" in 2024. The estimates ranged between 4% and as high as
+20%, according to the report, which noes the estimates were informal and likely subject to significant bias.
+
+One of the biggest wildcards is how fast AI evolves - specifically AGI, which is a hypothetical form of AI with
+human-like or even superhuman-like ability to learn.
+
+The report says AGI is viewed as the "primary driver of catastrophic risk from loss of control" and notes that
+OpenAI, Google DeepMind, Anthropic and Nvidia have all publicly stated AGI could be reached by 2028 - although
+others think it's much, much further away.
+
+Gladstone AI notes that disagreements over AGI timelines make it hard to develop policies and safeguards and
+there is a risk that if the technology develops slower-than-expected regulation could "prove harmful."
+
+How AI could backfire on humans
+
+A related document published by Gladstone AI warns that the development of AGI and capabilities approaching
+AGI "would introduce catastrophic risks unlike any the United States has ever faced," amounting to "WMD-like
+risks" if and when they are weaponized.
+
+For instance, the report said AI systems could be used to design and implement "high-impact cyberattacks capable
+of crippling critical infrastructure."
+
+"A simple verbal or types command like, 'Execute an untraceable cyberattack to crash the North American electric
+grid,' could yield a response of such quality as to prove catastrophically effective," the report said.
+
+Other examples the authors are concerned about include "massively scaled" disinformation campaigns powered by
+AI that destabilize society and erode trust in institutions; weaponized robotic applications such as drone swam
+attacks; psychological manipulation; weaponized biological and material sciences; and power-seeking AI systems
+that are impossible to control and are adversarial to humans.
+
+"Researchers expect sufficiently advanced AI systems to act so as to prevent themselves from being turned off,"
+the report said, "because if an AI system is turned off, it cannot work to accomplish its goal."
+
+        By Matt Egan, CNN
+
+TM & © 2024 Cable News Network, Inc., a Time Warner Company. All rights reserved.
 
 
-Load-Date: July 13, 2024
+Load-Date: March 12, 2024
 
 
   

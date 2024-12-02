@@ -1,107 +1,199 @@
 
 
-                                                                                 Page 1 of 2
-              CMU , PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE CHALLENGE
+                                                                                                    Page 1 of 4
+       Markey, Heinrich, Eshoo, Beyer Introduce Legislation to Investigate, Measure Environmental Impacts of
+                           Artificial Intelligence Rep. Don Beyer (D- VA ) News Relea....
 
 
 
 
-     CMU, PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE
-                            CHALLENGE
-                                                  States News Service
-                                                August 6, 2024 Tuesday
+   Markey, Heinrich, Eshoo, Beyer Introduce Legislation to Investigate,
+Measure Environmental Impacts of Artificial Intelligence; Rep. Don Beyer (D-
+                           VA) News Release
+                                           Congressional Documents and Publications
+                                                             February 1, 2024
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 901 words
-Byline: States News Service
-Dateline: PITTSBURGH, PA
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 2160 words
 
 Body
 
 
-The following information was released by Carnegie Mellon University:
+Senator Edward J. Markey (D-Mass.), chair of the Senate Environment and Public Works Subcommittee on Clean
+Air, Climate, and Nuclear Safety, Senator Martin Heinrich (D-N.M.), founder and co-chair of the Senate AI Caucus
+and a member of the Senate Energy and Natural Resources Committee, Representative Anna Eshoo (CA-16), co-
+chair of the House AI Caucus, and Representative Don Beyer (VA-08), vice-chair of the House AI Caucus, today
+introduced the Artificial Intelligence Environmental Impacts Act of 2024. The legislation would direct the National
+Institute of Standards and Technology (NIST) to develop standards to measure and report the full range of artificial
+intelligence's (AI) environmental impacts, as well as create a voluntary framework for AI developers to report
+environmental impacts.
 
-Team Chiron to use robotics, AI, sensors to detect severe injuries in mass casualty events
+The legislation also requires an interagency study to investigate and measure both the positive and negative
+environmental impacts of AI. While researchers increasingly highlight that AI can help tackle environmental
+challenges, such as by accelerating clean energy innovation, providing better weather forecasts, and improving
+cooling efficiency, the rapid growth of AI also comes with environmental harms. For example, increasing AI use
+could contribute to data center electricity demand doubling by 2026, leading to more carbon emissions. Demand for
+water to cool data centers is already creating concerns about water supplies, and the chips needed to run AI
+software are contributing to a growing mountain of electronic waste.
 
-By: Marylee Williams Email
+"There is a Dickensian quality to the use of AI when it comes to our environment: It can make our planet better, and
+it can make our planet worse," said Senator Markey. "Our AI Environmental Impacts Act would set clear standards
+and voluntary reporting guidelines to measure AI's impact on our environment. The development of the next
+generation of AI tools cannot come at the expense of the health of our planet. I thank Senator Heinrich,
+Representative Eshoo, and Representative Beyer, for their partnership in making sure that AI contributes to a more
+livable future for generations to come."
 
-Every second matters to emergency medical teams as they approach a mass casualty event and identify who
-needs immediate treatment. Breakthroughs in medical triage using robotics, artificial intelligence, drones and
-advanced sensing could save lives by directing medical personnel to people most in need of treatment.
+"AI offers incredible possibilities for our country, but that comes with high environmental costs," said Representative
+Eshoo. "The resources necessary to research and develop AI are intensive, and as AI systems grow in scale and
+become more widely used across various sectors of society, it's critical to understand the environmental impacts of
+AI development and use. I'm proud to introduce the Artificial Intelligence Environmental Impacts Act to conduct a
 
-Team Chiron hopes to make those breakthroughs happen.
+                                                                                                   Page 2 of 4
+      Markey, Heinrich, Eshoo, Beyer Introduce Legislation to Investigate, Measure Environmental Impacts of
+                          Artificial Intelligence Rep. Don Beyer (D- VA ) News Relea....
 
-The team, comprising researchers from Carnegie Mellon University and the University of Pittsburgh, is developing
-noninvasive, remote-detection systems for injury assessment as part of the Defense Advanced Research Projects
-Agency's (DARPA) three-year, $7 million DARPA Triage Challenge(opens in new window). Team Chiron will use an
-aerial drone and several ground robots equipped with multimodal sensor packs to evaluate the severity of injuries
-on mannequins and human actors.
+comprehensive study on AI's environmental impacts, identify standards needed to measure those impacts, and
+create a system for AI developers to report the full range of their environmental impacts."
 
-"A critical outcome of this challenge is to infer lifesaving interventions from injury patterns and globally integrate that
-data with responders for transportation and sustainment response execution," said Kimberly Elenberg(opens in new
-window), the team's principal investigator and a principal project scientist in the Robotics Institute(opens in new
-window) (RI) in CMU's School of Computer Science(opens in new window).
+"Understanding the environmental impacts of this quickly growing technology is critical so that we can begin to
+address those impacts," said Representative Beyer. "While recognizing the ways AI can help us decrease
+emissions in other sectors and develop innovative climate solutions, we need to ensure we are being responsible
+with the adverse impacts it may have on our environment now."
 
-DARPA is hosting the challenge to push advancements in medical triage. Teams from across the world are building
-robotic systems that can detect injuries in a mass casualty event and determine their severity using data captured
-by sensors on autonomous systems. The teams will be scored on the percentage of casualties identified, the
-accuracy in reporting casualty locations and casualty injury classification, the time to complete these casualty
-assessments, and more.
+Cosponsors in the Senate include Senators Ron Wyden (D-Ore.), Peter Welch (D-Vt.), Alex Padilla (D-Calif.), and
+Cory Booker (D-N.J.).
 
-                                                                               Page 2 of 2
-            CMU , PITT RESEARCHERS COMPETE IN 3-YEAR, $7M DARPA TRIAGE CHALLENGE
+Specifically, the Artificial Intelligence Environmental Impacts Act would:
 
-The DARPA Triage Challenge consists of three rounds of competition in three categories: systems, virtual or data.
-Team Chiron is one of 15 teams competing in the systems category. The first-place team in the final round of
-competition in the systems category will win $1.5 million. Millions more in prize money and funding will be awarded
-to teams during the three-year challenge.
+* Require a Study on the Environmental Impacts of AI: The Environmental Protection Agency (EPA) would conduct
+a comprehensive study on the environmental impact of AI within two years. The study would examine AI models
+and hardware's lifecycle, including energy consumption, pollution, and e-waste, as well as assess the positive and
+negative environmental impacts of AI's applications.
 
-Team Chiron tested their robotic system in June to gather data and prepare for the challenge's first competition in
-late September. During the test, robots and drones performed tasks assessing the medical status of casualties in a
-simulated environment. They measured vital signs such as heart and respiratory rate, and used thermal cameras to
-detect body heat. The team tested network reliability through the transmission of data to DARPA's central command
-unit. Overall, these tests aimed to improve the efficiency, accuracy and reliability of medical triage and disaster
-response.
+* Convene an AI Environmental Impacts Consortium: NIST would convene a consortium of stakeholders to identify
+measurement needs and standards for AI's environmental impacts.
 
-During a test, Team Chiron's robots and drones performed tasks to assess the medical status of casualties in a
-simulated environment.
+* Create a Voluntary Reporting System: NIST would develop a system for entities developing or operating AI to
+voluntarily report the full range of AI's environmental impacts.
 
-In the first competition, members of the team will control aerial and ground robots that survey the scene of a mass
-casualty event. In the second- and third-year challenges, the robots must act autonomously. Throughout the
-competition, Team Chiron will benefit from CMU's prior participation in the DARPA Subterranean Challenge(opens
-in new window), where CMU made autonomous robots that mapped and searched underground environments such
-as mines, cave networks and urban infrastructure, said John Galeotti(opens in new window), a senior systems
-scientist in the RI.
+* Direct a Report to Congress: Within four years, the EPA, the Department of Energy, and NIST would submit a joint
+report to Congress, detailing the consortium's findings and describing the voluntary reporting system, as well as
+providing recommendations for further legislative and executive action.
 
-"Right now, we're focused on how to use sensors and AI to estimate these physiological signs of trauma in a
-noncontact way," Galeotti said. "Normally, if a field medic, an EMT or a nurse were there, some of the first things
-they would do is walk up to the patient and take their pulse, touching them. There are a lot of things they would do
-that are hands-on. We can't do any of that.
+The legislation is endorsed by Hugging Face, Data and Society, Climate Change AI, Public Citizen, Sierra Club,
+Electronic Privacy Information Center, Greenpeace USA, Center for AI and Digital Policy, Friends of the Earth
+Action, Kairos Action, Eko, Accountable Tech, Encode Justice, Union of Concerned Scientists, Fidutam, Green
+Web Foundation, Sustainable Digital Infrastructure Alliance, and Access Now.
 
-"One of the biggest parts of this challenge is how we decide what state the casualties are in when we can't get any
-closer than a meter away," he continued. "We and the other teams are focusing heavily on that problem in year
-one, and there is still a lot to be done."
+"Recent advances in AI have great potential to help us tackle big societal challenges," said Emma Strubell,
+Assistant Professor at Carnegie Mellon University. "However, there is increasing evidence that the development
+and use of AI can have a negative impact on the environment due to unprecedented computational requirements.
+Our understanding of the true scale and scope of these impacts is still nascent, limited by access to the necessary
+data and standards for reporting. Senator Markey's AI Environmental Impacts Act provides a roadmap for
+elucidating the complex relationship between AI and the environment, which will be critical to ensuring that AI
+technology is developed and deployed so as to have a net positive impact on our environment and society."
 
-Each team is tackling research questions about how to best use robotics, AI and other technologies to assess and
-identify the severity of injuries. At the end of the three-year competition, Galeotti said, researchers will know how to
-better tackle the problems of medical triage.
+"The environmental impacts of AI technologies are undeniable - from the energy to power model training, and
+deployment, to the water needed to cool data centers and the rare earth metals to manufacture the hardware," said
+Dr. Sasha Luccioni, Climate Lead at Hugging Face. "This bill will help shed some much-needed light on the extent
+of these impacts and how they're evolving over time."
 
-"Whether or not we've solved all the problems, we will hopefully have proven technologies that can solve several of
-the problems," he said. "We're hopeful that, as a tangible outcome of this competition, we begin to see the transition
-of the technologies out of academia into commercially available products that ultimately play a role in saving
-people's lives."
+"Senator Markey and Senator Heinrich's legislation will address a critical, yet underexplored aspect of AI - its
+environmental footprint," said Dr. Roy Schwartz, Senior Lecturer at the Hebrew University of Jerusalem. "The bill
+will promote transparency regarding the environmental aspects of AI tools, allowing organizations to both report
+and, as a result, mitigate their negative environmental effects. This act could not have come at a better time, as
+these tools are becoming ubiquitous, requiring larger amounts of energy to build and deploy them, water for cooling
+their servers, and land to build data centers for them."
 
-Along with Elenberg and Galeotti, RI members of Team Chiron include Sebastian Scherer(opens in new window),
-an associate research professor; Artur Dubrawski(opens in new window), the Alumni Research Professor of
-Computer Science; Laszlo Jeni(opens in new window), an assistant research professor; and Srinivasa
-Narasimhan(opens in new window), the U.A. and Helen Whitaker Professor of Robotics. The team also includes Dr.
-Leonard Weiss, an associate professor in the Emergency Medicine Department at the Pitt School of Medicine.
+                                                                                                   Page 3 of 4
+      Markey, Heinrich, Eshoo, Beyer Introduce Legislation to Investigate, Measure Environmental Impacts of
+                          Artificial Intelligence Rep. Don Beyer (D- VA ) News Relea....
+
+"This legislation provides a crucial step towards aligning society's use of AI with climate change goals, by helping
+us measure the impacts of AI's inputs and applications, and therefore take more targeted action to shape those
+impacts," said Dr. Priya Donti, Co-founder and Chair of Climate Change AI.
+
+"As the use of AI rapidly increases, society needs to understand how this new technology impacts the
+environment," said Erik Kojola, Senior Climate Research Specialist at Greenpeace USA. "This means we need a
+rigorous system for tracking energy use and carbon emissions. The Artificial Intelligence Environmental Impacts
+Act of 2024 is a vital step in creating that system and studying how AI contributes to the climate crisis. This will
+bring much-needed transparency and accountability to the emerging AI industry."
+
+"The Center for AI and Digital Policy strongly supports the Artificial Intelligence Environmental Impacts Act," said
+Merve Hickok, President of the Center for AI and Digital Policy. "Senator Markey and Senator Heinrich's bold
+initiative addresses one of the greatest challenges in the AI sector - the possible acceleration of climate change.
+We need research and analysis to assess the environmental impact of AI systems. The AI Environments Impacts
+Act should be a top priority for Senate consideration."
+
+"Artificial Intelligence has become the latest tool in the Silicon Valley corporate race, with every company trying to
+put out AI-driven products in order to stay competitive," said Dom Leon-Davis, Deputy Director of Program and
+Strategy for Kairos Action. "If left unchecked, this rapid development pushed by tech executives can and will harm
+the planet we live on, particularly affecting poor, Black and Brown communities who already struggle to breathe
+clean air and drink clean water. From increased energy use to e-waste, and impacts that are unknown to us -- we
+need regulation like this now. We're glad to see this act take steps in the right direction of creating a world where
+tech works for all of us."
+
+"The public deserves to know the very basics about how AI tools affect our material world," said Caitriona
+Fitzgerald, Deputy Director at the Electronic Privacy Information Center.
+
+"By creating transparency around AI's impact on our environment, the Artificial Intelligence Environmental
+Impacts Act of 2024 will give the public and policymakers a tool for pressuring technology companies to develop
+their products in line with our collective health and safety."
+
+"As Lord Kelvin wisely stated, 'To measure is to know.' We enthusiastically welcome and are eager to collaborate
+on Senators Markey and Heinrich's initiative, as the United States takes a leading role in driving transparency and
+setting global standards," said Max Schulze, Director of the Sustainable Digital Infrastructure Alliance. "This
+initiative crucially creates visibility for the environmental costs of artificial intelligence, encompassing not just the
+models but their usage as well. We particularly endorse the holistic approach taken, going beyond mere energy
+consumption to consider all environmental impacts across the AI supply chain. This is vital for developing
+sustainable and responsible AI practices globally."
+
+"Right now, there is significant uncertainty about the impact of AI on the environment," said Peter Henderson,
+Assistant Professor at Princeton University. "On one hand, it could be used to improve infrastructure and systems
+for better efficiency, on the other hand it could harm the environment through increased demand for materials,
+manufacturing, and energy usage. The government has a large role to play in ensuring that AI is a net positive for
+the environment, by promoting transparency and innovation around AI's environmental impacts. I applaud Senator
+Markey and Senator Heinrich for introducing this Bill that will provide a roadmap toward positive outcomes."
+
+"One of the many unknowns about AI is its impact on the environment," said Kaili Lambe, Policy and Advocacy
+Director at Accountable Tech. "As rapid advances have led to increasingly widespread use of LLMs and other data-
+intensive AI systems, it's imperative that we understand and take steps to mitigate unintended harm, including the
+potential for environmental degradation. Too often transparency takes a backseat when it comes to Big Tech
+innovation. Senators Markey and Heinrich's legislation offers an opportunity to gain critical insight into the
+environmental impact of AI, and we are eager to see it pass."
+
+                                                                                                   Page 4 of 4
+      Markey, Heinrich, Eshoo, Beyer Introduce Legislation to Investigate, Measure Environmental Impacts of
+                          Artificial Intelligence Rep. Don Beyer (D- VA ) News Relea....
+
+"AI technologies are spreading rapidly, with the potential for major impacts on society," said Jennifer Jones,
+Director of the Center for Science and Democracy at the Union of Concerned Scientists. "We must fully understand
+both the benefits and the risks, of these technologies--including intensive energy consumption and creation of
+environmental waste that harms people and nature. We have a responsibility to track the environmental impacts of
+AI, to ensure this information is publicly available and to help us plan to mitigate those harms. Importantly, the bill
+will allow stakeholders, including civil society, to examine and report on the full life cycle of artificial intelligence
+models, systems, and hardware--bringing the voices of the most impacted communities to the table."
+
+"Right now, we have only a limited understanding of the depth and scale of AI's environmental impacts--but what
+we do know is alarming," said Brian J. Chen, Policy Director at Data and Society. "AI's massive energy
+consumption and pollution effects are likely to exacerbate global warming and climate disaster. The AI
+Environmental Impacts Act lays an important research foundation for a better-grounded understanding of the
+technology's harms to people, communities, and habitats."
+
+"What gets measured gets managed," said Michelle Thorne, Director of Strategy and Partnerships at the Green
+Web Foundation. "We at the Green Web Foundation welcome this bill as an important step towards transparency of
+the environmental impacts of AI. To date, the lack of consistent and comparable data has been a blocker for
+technologists, researchers, policymakers and civil society. This bill will help enable more data-informed discussions
+about how resources are allocated to computing."
+
+Read this original document at: https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6076
 
 
-Load-Date: August 9, 2024
+Load-Date: February 5, 2024
 
 
   

@@ -1,110 +1,114 @@
 
 
-                                                                             Page 1 of 2
-       TWO DAY ANNUAL CONFERENCE OF RELIEF COMMISSIONERS/SECRETARIES (DISASTER
-    MANAGEMENT) AND STATE DISASTER RESPONSE FORCE (SDRF), CIVIL DEFENCE, HOME GUARD
-                                      AND FIRE....
+                                                                                                  Page 1 of 3
+   Check Point Software Technologies Transforms Email Security Again: Patented Unified Administration Boosts
+                           Efficacy and Improves Productivity Innovative One-Scre....
 
 
 
 
-             TWO DAY ANNUAL CONFERENCE OF RELIEF
- COMMISSIONERS/SECRETARIES (DISASTER MANAGEMENT) AND STATE
-DISASTER RESPONSE FORCE (SDRF), CIVIL DEFENCE, HOME GUARD AND
-       FIRE SERVICES OF STATE/UTS-2024 CONCLUDED TODAY
-                                                States News Service
-                                             June 12, 2024 Wednesday
+   Check Point Software Technologies Transforms Email Security Again:
+Patented Unified Administration Boosts Efficacy and Improves Productivity;
+Innovative One-Screen Email Administration Solution with Advanced Threat
+                        Protection Now Available
+                                                         GlobeNewswire
+                                              April 11, 2024 Thursday 6:00 AM PT
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 841 words
-Byline: States News Service
-Dateline: NEW DELHI, India
+
+
+
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 904 words
 
 Body
 
+REDWOOD CITY, Calif., April 11, 2024 (GLOBE NEWSWIRE) -- Check Point Software Technologies Ltd.
+(NASDAQ: CHKP), a leading AI-powered, cloud-delivered cyber security platform provider, today announced new
+email security features that enhance its Check Point Harmony Email & Collaboration portfolio: Patented unified
+quarantine, DMARC monitoring, archiving, and Smart Banners. Since 2023, Check Point has released over 75 new
+features for Harmony Email & Collaboration, further strengthening collaborative email security with preventative
+measures to combat the growing threat of cyber-attacks. The addition of these new features allows for leading
+protection against advanced threats on a single screen.
 
-The following information was released by the Government of India:
+Despite the rise of sophisticated cyber defense technologies, email remains the primary conduit for cyber attacks,
+encompassing phishing attempts, malware, and business email compromise (BEC) scams. According to a CISA
+assessment, within the first 10 minutes of receiving a malicious email, 84% of employees took the bait by either
+replying with sensitive information or interacting with a spoofed link or attachment. With phishing attacks being
+further enhanced by AI to make them even more convincing, it is crucial that organizations give email security top
+priority.
 
-Principal Secretary to PM, Dr. P.K. Mishra, chaired the valedictory session, gave six mantras to deal with disaster
-management
+"As a leading provider of email security solutions, we strive to consistently deliver complete security with our
+Archiving and DMARC capabilities, as well as drive innovation through our recent U.S. patent for unified
+quarantine," said Gil Friedrich, Vice President of Email Security. "With threat actors finding new ways to weaponize
+email, we continue to pioneer a comprehensive, 360-degree security solution that proactively counters
+sophisticated phishing tactics wherever they may occur."
 
-Emphasizes on having disaster management plan up to the local level
+                                                                                                  Page 2 of 3
+   Check Point Software Technologies Transforms Email Security Again: Patented Unified Administration Boosts
+                           Efficacy and Improves Productivity Innovative One-Scre....
 
-States should have the capacity to deal with disaster management for adjoining districts of other states
+The increasing complexity of email-based threats requires advanced protection strategies, including AI-powered
+detection mechanisms. As part of the Check Point Infinity Platform, Harmony Email & Collaboration features
+include:
+    •    Unified Quarantine: This patented feature streamlines email management by allowing administrators and
+         end-users to view and restore all quarantined emails from both Microsoft and Harmony Email through a
+         single, integrated Check Point screen, simplifying the process and reducing administrative effort and
+         redundant friction with end users
+    •    DMARC Monitoring: Allows organizations to protect their brand reputation and prevent impersonation
+         attacks on their customers and partners by maintaining a strict DMARC policy, without impacting business
+         operations
+    •    Archiving: Enables the storage of all internal, incoming and outgoing emails for many years, as well as
+         importing archives from competitors, and to support disaster recovery and legal use cases
+    •    Smart Banners: Educates users on cyber security directly within their emails, promoting policy compliance
+         and enabling precise reporting of suspicious, yet subtly malicious, emails
 
-Future of disaster management lies in focus on resilience not just response
+Listen to what customers around the world are saying:
 
-Viksit Bharat infrastructure should be disaster resilient from the very formation
+Americas: "With Check Point Harmony Email & Collaboration, we're blocking thousands more emails each month,"
+says Pitor Baltakis, Manager of Infrastructure & Security for the City of Kamloops. "Any one of those emails could
+have been clicked on and caused ransomware, identity theft or worse. We feel much more comfortable facing the
+growing wave of phishing and BEC emails that we're seeing."
 
-The two day annual conference of relief commissioners/secretaries (Disaster Management) and State Disaster
-Response Force (SDRF), Civil Defence, Home Guard and Fire Services of State/UTs-2024 concluded in New Delhi
-today. Principal Secretary to the Prime Minister of India, Dr. P. K. Mishra chaired the valedictory session. Union
-Home Secretary, Sh. Ajay Kumar Bhalla, also attended the session along with other senior officers from the Ministry
-of Home Affairs.
+APAC: "Partnering with Check Point offered the most comprehensive and effective solution," says Kinson Chan,
+Chief Executive Officer for eSix. "We chose Check Point for its strong reputation in the cybersecurity industry, ability
+to offer a comprehensive security solution and its commitment to keeping pace with emerging threats."
 
-Speaking on the occasion, Dr. P K Mishra said that India has demonstrated its ability to respond and reach out to
-other countries when disasters have struck. Our international collaborative efforts like Coalition for Disaster
-Resilient Infrastructure (CDRI) and the new G20 Working Group on Disaster risk management have been lauded
-all over the world. He said that while we can take pride in achievements in area of disaster management in and
-around the world, we cannot remain satisfied and need to have a clear vision for the future. Dr. P K Mishra
-highlighted six mantras to be focused in the days to come which will strengthen our position in a long run;
+EMEA: "Check Point has provided an easy-to-configure security environment with strong security guarantees at a
+really economical price compared to other solutions," says Jose Alonso Ayllon Gutierrez, Head of New
+Technologies Service for the Marbella City Council. "This allows us to grow and achieve our objects; the best
+investment is in solutions that allow us to sleep at night."
 
-                                                                             Page 2 of 2
-       TWO DAY ANNUAL CONFERENCE OF RELIEF COMMISSIONERS/SECRETARIES (DISASTER
-    MANAGEMENT) AND STATE DISASTER RESPONSE FORCE (SDRF), CIVIL DEFENCE, HOME GUARD
-                                      AND FIRE....
+To learn more about how Harmony Email                     &   Collaboration    can   protect   your    business    visit:
+https://www.checkpoint.com/harmony/email-security/.
 
-Disaster management should reach the local level, each city, town, village and hamlet, up to the family level should
-have the basic awareness, capacity and resources to deal with disasters.
+Follow         Check        Point       via:LinkedIn:    https://www.linkedin.com/company/check-point-software-
+technologiesTwitter: https://www.twitter.com/checkpointswFacebook: https://www.facebook.com/checkpointsoftware
+Blog: https://blog.checkpoint.com YouTube: https://www.youtube.com/user/CPGlobal
 
-A calendar of mitigation measures should be prepared to avoid repetitive and seasonal problems. Implementing
-basic vulnerability reduction measures like de-silting of drains etc. and better solid waste disposal in cities could
-help tide up urban flooding problems.
+About Check Point Software Technologies Ltd. Check Point Software Technologies Ltd. (www.checkpoint.com) is a
+leading AI-powered, cloud-delivered cyber security platform provider protecting over 100,000 organizations
+worldwide. Check Point leverages the power of AI everywhere to enhance cyber security efficiency and accuracy
+through its Infinity Platform, with industry-leading catch rates enabling proactive threat anticipation and smarter,
+faster response times. The comprehensive platform includes cloud-delivered technologies consisting of Check Point
+Harmony to secure the workspace, Check Point CloudGuard to secure the cloud, Check Point Quantum to secure
+the network, and Check Point Infinity Core Services for collaborative security operations and services.
+                                                 MEDIA CONTACT:                            INVESTOR
+                                                                                           CONTACT:
+        Ana Perez                                Kip E. Meintzer
+        Check Point Software Technologies        Check Point Software Technologies
 
-Focus of disaster management is now shifting from response to resilience. There is a need to plan for the future
-with mitigation and resilience as its pillars. India has institutional mechanism in the form of disaster mitigation fund.
-Much of the infrastructure of the Viksit Bharat is yet to be built. In next few years there is going to be lot of
-expansion in infrastructure. All future infrastructures must have resilience inbuilt in their architecture at the blueprint
-stage itself.
+        press@checkpoint.com                     ir@checkpoint.com
 
-Use of technology, robotics, artificial intelligence, big data etc. to be leveraged in the fields of early warning
-system, common alert protocols, periodical monitoring of lakes through satellite, state of the art equipment for
-rescue and relief etc. He expressed belief that technology is going to be used more and more in future.
-
-Prepare for black swan events that can cause large scale disruptions of economies, societies and well being for eg.
-COVID 19. There is a need to learn from such events and ensure that the learning is not forgotten.
-
-Disasters cannot be managed by the single agency, or department, or ministry on its own. It requires whole of the
-government, whole of the society approach. We need to broaden our efforts to include not only disaster
-management agencies but other stakeholder agencies too. The Silkyara tunnel rescue was a testament of coming
-together of all agencies across the government which pooled their resources and expertise to ensure the rescue of
-the trapped labourers. States will have to develop capacity to assist not only themselves and their own people but
-also the adjoining districts of other states.
-
-The two-day conference was attended by more than 300 delegates from State Governments / UTs,
-Ministries/Departments/Organizations of Central Government and from SDRFs/Fire Services in the States/UTs.
-
-During the two-day conference, various sessions were organized and the experts dwelled upon the subjects like
-Early Warning, Post Disaster Loss Assessment, Roles of Disaster Response Forces, Coastal Hazards, satellite
-based early warning on tsunami, storm surge and cyclones etc.
-
-The Ministry of Home Affairs (MHA) organizes the Annual Conference of Relief Commissioners of States/ UTs
-before the onset of monsoon season, to review their preparedness for dealing with any natural disaster, which may
-occur during the monsoon period. Simultaneously, NDRF organizes capacity building conference for State Disaster
-Response Forces (SDRFs), Civil Defence, Home Guard and Fire Services of States/ UTs for the preparedness of
-response forces.
-
-With a view to bring synergy in response efforts, as well as to take Relief Commissioners/ Revenue Secretaries on
-board for strengthening of SDRF; this year MHA organised a combined conference.
-
-Issues ranging from preparedness on South West Monson as well as how to look into managing emerging risks of
-Glacial Lake Outburst Flood (GLOF), Forest Fire and CBRN were discussed in the conference.
+                                                                                                 Page 3 of 3
+  Check Point Software Technologies Transforms Email Security Again: Patented Unified Administration Boosts
+                          Efficacy and Improves Productivity Innovative One-Scre....
 
 
-Load-Date: June 12, 2024
+Load-Date: April 11, 2024
 
 
   

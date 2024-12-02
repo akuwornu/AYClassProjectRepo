@@ -1,17 +1,17 @@
 
 
-                                                                                             Page 1 of 3
-         HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
-                 Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+                                                                                                   Page 1 of 5
+      New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the FOX Business
+                              Network Monday, March 11, 2024, at 10:30 PM PT
 
 
 
 
- HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards; HYCU R-
-Cloud Continues to Drive Recognition for Its Innovative Approach to Modern
-                        And SaaS Data Protection
+   New to The Street Announces its Five Corporate TV Interviews, Airing
+Episode 561 on the FOX Business Network Monday, March 11, 2024, at 10:30
+                                 PM PT
                                                          GlobeNewswire
-                                               July 15, 2024 Monday 7:01 AM PT
+                                                March 8, 2024 Friday 6:30 AM PT
 
 
 
@@ -20,98 +20,248 @@ Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
-Section: COMPANY ANNOUNCEMENT; PRODUCT / SERVICES ANNOUNCEMENT; PRESS RELEASES;
-CONTESTS/AWARDS
-Length: 944 words
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 3002 words
 
 Body
 
-Boston, Massachusetts, July 15, 2024 (GLOBE NEWSWIRE) -- HYCU, Inc., a leader for modern data protection
-for on-prem, cloud services and SaaS, and one of the fastest growing companies in the industry, announced today
-that CRN®, a brand of The Channel Company, has named HYCU R-Cloud as a finalist for the 2024 CRN Tech
-Innovator Awards. HYCU is being recognized for R-Cloud in the Data Protection, Management, and Resiliency
-category.
 
-This annual award showcases innovative vendors in the IT channel across 36 distinct technology categories
-ranging from cloud to storage to networking to security. The 2024 winners were selected by a panel of CRN editors
-who reviewed hundreds of vendor entries and solution provider testimonials. Standout innovators were selected as
-finalists based on a number of criteria, including key capabilities, uniqueness, technological ingenuity, and ability to
-address customer and partner needs.
+NEW YORK, March 08, 2024 (GLOBE NEWSWIRE) -- FMW Media's New to The Street, a nationally broadcasted
+TV show, announces episode 561, airing on the FOX Business Network Monday, March 11, 2024, at 10:30 PM PT.
 
-HYCU R-Cloud, is a single, integrated SaaS platform that offers enterprise class automated backup, granular
-recovery, data migration, and disaster recovery across on-premises, multi-cloud platforms, cloud services, and
-SaaS applications. Delivered as a true cloud-native SaaS solution, HYCU R-Cloud is built on an agentless
-architecture, eliminating unnecessary additional hardware or software. A key component of R-Cloud is HYCU R-
-Graph that provides data estate discovery and visualization, supporting more than 70 data sources. In January
-2024, HYCU made HYCU R-Cloud easy to extend to new data sources to protect at scale and to help cover new
-data sources efficiently and easily through the HYCU Generative AI Initiative. This Initiative helped to seamlessly
-integrate generative AI technology, including Anthropics' AI assistant Claude with R-Cloud, redefining the
-development process of data protection integrations and creating an easy-to-use way to create SaaS integrations.
+New to The Street's 561st TV episode line-up features the following five (5) Corporate interviews:
 
-                                                                                            Page 2 of 3
-        HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
-                Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+1)."Game Changers" segment interview with PetVivo Holdings, Inc.'s (NASDAQ: PETV) (NASDAQ: PETVW)
+($PETV) John Lai, CEO/President.
 
-This innovation helps partners to develop and reduce the time to build new data protection modules from weeks to
-hours. This is a stark contrast in the time it may take legacy data protection providers to build and add new
-protection capabilities to data sources.
+2). "Game Changers" segment interview with Fetch.ai’s (CRYPTO: FET) ($FET) Humayur Sheikh, CEO.
 
-“We are pleased to recognize the commitment to continuous innovation among this year’s CRN Tech Innovator
-Award finalists. Each of these vendors delivers cutting-edge technology that meets evolving customer needs and
-creates new opportunities for solution providers and the broader IT channel ecosystem,” said Jennifer Follett, VP,
-U.S. Content, and Executive Editor, CRN, The Channel company. “We look forward to future innovations from the
-recipients and to seeing how their solution provider partners use these offerings as the foundation of new, inventive
-solutions.”
+3). Fire Suppression Solutions - General Enterprise Ventures, Inc.’s (OTCPink: GEVI) ($GEVI) wholly owned
+subsidiary Mighty Fire Breaker, LLC.’s (MFB) interview with Steve Conboy, Inventor/ Chief Technology Officer.
 
-“As we know, the proliferation of SaaS application use and the need for modern data protection to make critical
-SaaS application data available and recoverable, has never been higher,” said Simon Taylor, Founder and CEO,
-HYCU. “We developed HYCU R-Cloud to address the data protection challenges of existing on-premises
-infrastructure to the emerging needs of Cloud Services and Platforms and SaaS application data. None of what we
-have accomplished would have been possible without a team of engineers that are immersed in multi-platform,
-database, and SaaS application backup, restoration, and availability. Thank you to CRN’s editors for the selection,
-we are excited to see R-Cloud gain the recognition it so thoroughly deserves.”
+4). Augment Reality (AR) Technology Platform- Rokid’s interview with Misa Zhu, Chief Executive Officer.
 
-The Tech Innovator Awards Finalists can be viewed online at crn.com/techinnovators. Winners will be announced
-on crn.com on August 7, 2024 and will be featured in the August issue of CRN.
+5). “Sekur Privacy & Sekur Security – Weekly Hack” segment with internet privacy expert Alain Ghiai, CEO, Sekur
+Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) (Sekur®).
 
-For more information on HYCU, visit:www.hycu.com, follow us on X (formerly Twitter), connect with us on LinkedIn,
-Facebook, Instagram, and YouTube.
+Episode 561
 
-###About HYCU HYCU is the fastest-growing leader in the multi-cloud and SaaS data protection as a service
-industry. By bringing true SaaS-based data backup and recovery to on-premises, cloud-native and SaaS
-environments, the company provides unparalleled data protection, migration, disaster recovery, and ransomware
-protection to thousands of companies worldwide. As an award-winning and recognized visionary in the industry,
-HYCU solutions eliminate complexity, risk, and the high cost of legacy-based solutions, providing data protection
-simplicity to make the world safer. With an industry leading NPS score of 91, customers experience frictionless,
-cost-effective data protection, anywhere, everywhere. HYCU has raised $140M in VC funding to date and is based
-in Boston, Mass. Learn more at www.hycu.com.
+New to The Street airs its "Game Changers" segment with TV Host and Multi-media Journalist Ana Berry, who talks
+with John Lai, CEO/President of PetVivo Holdings, Inc. (NASDAQ: PETV) (NASDAQ: PETVW) ($PETV)
 
-About The Channel Company The Channel Company enables breakthrough IT channel performance with our
-dominant media, engaging events, expert consulting and education, and innovative marketing services and
-platforms. As the channel catalyst, we connect and empower technology suppliers, solution providers, and end
-users. Backed by more than 40 years of unequalled channel experience, we draw from our deep knowledge to
-envision innovative new solutions for ever-evolving challenges in the technology marketplace.
-thechannelcompany.com
+                                                                                                  Page 2 of 5
+     New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the FOX Business
+                             Network Monday, March 11, 2024, at 10:30 PM PT
 
-Follow The Channel Company: LinkedIn, Facebook, and X
+("PetVivo"). With creative therapeutic medical innovations for pets, PETV is a "Game Changer." Owners of dogs,
+cats, and horses are seeing remarkable results when using the Company's SPRYNG™ with OsteoCushion
+Technology ("SPRYNG™"), an intra-articular injectable veterinary medical device consisting of cellular matrix
+microparticles. Veterinarians are increasingly using the product as an alternative to surgery, helping pet owners
+manage pets with osteoarthritis and other joint-related ailments. John goes over three corporate milestones. First, in
+October 2023, veterinarians presented SPRYNG™'s positive study results on dogs with cranial cruciate ligament
+(CCL) disease. The next milestone was the Company's ability to attract Covetrus North America, LLC, another
+largest veterinarian medical distributor; now, the three largest medical distributors carry SPRYNG™. In January
+2024, the third milestone veterinarian doctors who were keynote speakers at the Veterinary Meeting & Expo (VMX)
+conference in Orlando, Florida, endorsing their successful use of the Company's SPRYNG™ product in small
+animal cases. Also, Ethos Veterinary Health, LLC's study on canine hip dysplasia using the product shows success,
+giving more veterinary doctors information about product uses. The Company expects sales increases for product
+uses for small pets, dogs, and cats, as these recent studies, presentations, and distributors are educating pet
+owners and vets about SPRYNG™ positive treatment outcomes. The Company has five more pending studies, with
+expected results reported before the conclusion of 2024. PETV's SPRYNG™ with OsteoCushion Technology is a
+"Game Changer" medical device that successfully treats pets and gives owners options beyond surgeries. The on-
+screen QR code is available during the show; download or visit PetVivo Holdings, Inc. - https://petvivo.com/ &
+Spryng with OsteoCushion Technology - https://www.sprynghealth.com/.
 
-© 2024 The Channel Company, Inc. The Channel Company logo is a registered trademark of The Channel
-Company, Inc. All other trademarks and trade names are the properties of their respective owners. All rights
-reserved.
+Fetch.ai’s (CRYPTO: FET) ($FET) CEO, Humayun Sheikh, is the second interview on New to The Street's "Game
+Changers" segment with TV Host Ana Berry. Humayun gives a corporate progress update on its AI ecosystem and
+the tools available for developers. Over 25000+ have signed up for access to the platform. Fetch.ai makes AI tools
+available to many who can develop and deploy AI-based apps anytime, anywhere, and on an operational scale. As
+an easy-to-use Fetch AI ecosystem, developers can create and deploy AI-based apps promptly and at an
+affordable price. Humayun believes that large Big Tech entities should not control AI but be mainstream. He,
+however, believes that governmental regulation should be in place to make sure AI is good for humankind. With
+geopolitical tension and a forthcoming US election, AI-generated content needs validation for authenticity and
+truthfulness. As an open platform for the new AI economy, Fetch.ai is the first AI Agent platform that allows
+developers to create 100,000 apps. Fetch AI agents can connect, search, and transact from dynamic interactions,
+promoting social well-being and economic growth. Building, deploying, and monetizing an open AI ecosystem,
+Fetch.ai is a “Game Changer” for the AI technology industry. The on-screen QR code is available during the show;
+download or visit Fetch AI - www.fetch.ai.
 
-   Attachment
+New to The Street airs TV Host Jane King's interview with Steve Conboy, Inventor and Chief Technology Officer of
+ General Enterprise Ventures, Inc. (OTCPink: GEVI) ($GEVI) and its wholly owned subsidiary, Mighty Fire Breaker,
+LLC. (MFB). Recognized as a leading provider of environmentally safe and sustainable solutions, Mighty Fire
+Breaker, LLC products can provide firefighters with a proactive wildfire defense plan. Its CitroTech MFB
+31 Technology (CitroTech) is a fire prevention spray product that can treat lumber and vegetation, making them
+non-combustible. Using CitroTech with GPS tracking, mapping, and recording technology, firefighters have a
+reliable solution when confronted with fires. Current products in the marketplace are toxic, killing wildlife and fish
+when applied to suppress wildfires. After twelve years of development, Steve explained that he had looked at the
+EPA list of food-friendly chemicals and had worked tirelessly to find a fire suppression product that would work
+effectively and be environmentally sound. Many Government agencies and municipal fire departments have been
+approached to adopt the new advanced fire suppression technology. The San Diego California Fire and Rescue
+has recently started using MFB’s product for fire suppression needs. In a proactive method, San Diego fire
+departments will spray emergency road routes with CitroTech to ensure surrounding woods and fields cannot catch
+fire. Unfortunately, emergency routes become fire-compromised, with many victims occurring when leaving fire
+areas. Steve believes many more fire departments and other agencies will adopt the product as many will see how
+well the product works as a non-toxic and non-hazardous spray inhibitor. The on-screen QR code is available
+during the shows; download or visit Mighty Fire Breaker, LLC. (MFB) & General Enterprise Ventures, Inc.
+(OTCPink: GEVI) ($GEVI) - https://mightyfirebreaker.com/index.html and https://generalenterpriseventures.com/.
+
+                                                                                                  Page 3 of 5
+     New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the FOX Business
+                             Network Monday, March 11, 2024, at 10:30 PM PT
+
+Rokid’s Chief Executive Officer, Misa Zhu, talks with New to The Street’s TV Host, Jane King, about the Company’s
+augmented reality (AR) technology platform, Max Pro Smart glasses, and other AR product offerings. Using Optical
+See Through (OST) technology, Rokid has developed a robust AR-based product ecosystem. The Rokid’s Max Pro
+Glasses are lightweight, only 76 grams, have excellent pixel resolution, and resemble traditional eyewear in
+appearance and experience. Max Pro glasses boast spatial interaction AR capabilities and enable end-users to
+enact gestures and auditory interactions, catering to mobile office scenarios with additional features like multi-
+screen displays and virtual keyboards. Rokid's AR Studio, comprising Max Pro glasses, Station Pro, and AR Joy.
+Many industry developers are using the Rokid spatial computing platform for AR applications. One of Japan’s larger
+telecom providers uses the AR platform to create new customer user experiences. Business enterprises and
+personal developers continue to utilize Rokid’s ecosystem, a distinguished AR landscape, a different and unique
+experience beyond Apple's Vison Pro virtual immersion. Misa shares Rokid's future and a commitment to advancing
+its ecosystem with continuing investments in content creation tools and developer support initiatives. Rokid's
+industry success comes from its comprehensive technical groundwork, seamless integration with various use
+cases, and robust AR ecosystem. Rokid holds 30% of the global market in the AR spatial computer industry. The
+on-screen QR code is available during the shows; download or visit Rokid - https://global.rokid.com/.
+
+New to The Street TV airs its "Sekur Privacy & Sekur Security Segment – The Weekly Hack" with internationally
+acclaimed internet privacy expert Alain Ghiai, CEO of Sekur Private Data Ltd. (OTCQX: SWISF) (CSE: SKUR)
+(FRA: GDT0) ($SWISF). TV Host and Multi-media Journalist Ana Berry and Alain discuss a recent report from the
+FBI about Chinese operatives cyberattacking America's energy grid and other critical infrastructure. The FBI
+warning about grid attacks is nothing new; it appears that in each federal election cycle, foreign entities try to hack
+governmental and corporate databases as a form of election interference and for other nefarious reasons. Business
+Email Compromise (BEC) is a problem; 91% of hacks are from compromised email accounts. Alain says that
+businesses and individuals can limit a possible cybersecurity problem by reducing social media posts. Typically, a
+hacker follows a social media post, finds weaknesses in a poster's internet platform, and then exploits those
+weaknesses. A hacker usually monitors email accounts for specific and personal information to hack. They might
+watch emails for weeks, collecting sensitive data long before committing data theft. Sekur offers businesses,
+individuals, and governmental entities affordable encrypted solutions to fend off possible email compromises.
+SekurVPN, SekurMail, and SekurMessenger subscription services provide military-grade encryption with easy-to-
+use features, giving end-users private and secure electronic communications. Many subscribers are realizing the
+benefits of bundling subscriptions with the Company's SekurVPN services, which operate on multiple Sekur servers
+owned and located in Switzerland, a country with very tough privacy laws. Under Swiss law, your IP address is
+private property protected under Swiss laws. The Company never tracks your devices, never sells data, doesn't use
+3rd party platforms, never asks for phone numbers, and keeps one's internet traffic private and secure. PROMO
+CODE: PRIVACY is now available, giving 15% savings toward monthly and yearly subscriptions, and the discount
+will remain active for five years. Viewers, please tune in next time for the newest cybersecurity topic on the "Sekur
+Privacy & Sekur Security– Weekly Hack" segment. The on-screen QR. code is available during the shows to
+download more info or visit Sekur Private Data, Ltd. – https://sekurprivatedata.com/, http:/sekur.com/ and
+ https://sekur.com/en/vpn. Privacy has arrived!
+
+About PetVivo Holdings, Inc. (NASDAQ: PETV) (NASDAQ: PETVW) ($PETV):
+
+PetVivo Holdings Inc. (NASDAQ: PETV) (NASDAQ: PETVW) ($PETV) is an emerging biomedical device company
+currently focused on the manufacturing, commercialization, and licensing of innovative medical devices and
+therapeutics for companion animals. The Company's strategy is to leverage human therapies to treat companion
+animals in a capital and time-efficient way. A vital component of this strategy is the accelerated timeline to revenues
+for veterinary medical devices, which enter the market much earlier than more stringently regulated
+pharmaceuticals and biologics. PetVivo has a robust pipeline of products for treating animals and people. A portfolio
+of twenty-one patents protects the Company's biomaterials, products, production processes, and use methods. The
+Company's lead product, SPRYNG™ with OsteoCushion™ technology, a veterinarian-administered, intra-articular
+injection for the Management of lameness and other joint-related afflictions, including osteoarthritis in cats, dogs,
+and horses, is currently available for commercial sale - https://petvivo.com/.
+
+                                                                                                  Page 4 of 5
+     New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the FOX Business
+                             Network Monday, March 11, 2024, at 10:30 PM PT
+
+About fetch.ai (CRYPTO: FET) ($FET)
+
+Fetch.ai (CRYPTO: FET) ($FET) is an AI (artificial intelligence) Company that builds tools and infrastructure to
+enable a decentralized digital economy. As an open AI decentralized machine learning platform, its distributed
+ledger ecosystem allows secure sharing, connection, and transactions based on any data globally. Fetch.ai’s open-
+source technology network allows any user to connect to the network, access the power of AI on a world-scale
+secure dataset, and carry out complex coordination tasks in the modern economy https://fetch.ai/.
+
+About General Enterprise Ventures, Inc. (OTCPink: GEVI) ($GEVI):
+
+General Enterprise Ventures, Inc. (OTCPink: GEVI) ($GEVI) is a fully integrated technology company providing
+mergers and acquisitions of new and available technology. Management incubates first-to-market products through
+its services and helps existing companies accelerate their product development within all regulatory requirements -
+https://generalenterpriseventures.com/.
+
+About Mighty Fire Breaker, LLC. (MFB):
+
+Mighty Fire Breaker LLC (MFB) is a leading provider of environmentally safe and sustainable solutions for proactive
+wildfire defense. Our portfolio includes EPA Safer Choice Certified Citrotech® Wildfire Inhibitors, mobile and
+stationary spray application systems, and GPS-tracking, recording, and mapping technologies that support
+intelligent, proactive wildfire defense management practices - https://mightyfirebreaker.com/index.html.
+
+About Rokid:
+
+Rokid, a leading innovator in the field, is at the forefront of this exciting development, pushing the boundaries of
+what's possible with smart glasses display technology. The Company's ecosystem is the fascinating world of AI
+smart glasses, exploring their inner workings, diverse applications, and potential impact on various aspects of our
+lives. Renowned for its innovative smart glasses display technology, offering models like the Rokid Max and Rokid
+Air that cater to both consumers and enterprise users. These glasses boast high-resolution displays, powerful AI
+processors, and a wide range of features like voice control, translation, and AR overlays - https://global.rokid.com/.
+
+About Sekur Private Data Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF):
+
+Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) is a cybersecurity and internet
+privacy provider of Swiss-hosted solutions for secure communications and secure data management. The
+Company distributes a suite of secure cloud-based storage, disaster recovery, document management, encrypted
+emails, and secure communication tools. It sells its products through its websites, www.sekur.com, approved
+distributors, and telecommunication companies worldwide. Sekur Private Data, Ltd. serves consumers, businesses,
+and governments worldwide - https:/sekurprivatedata.com and https://sekur.com; Twitter: @sekurprivate.
+
+About New to The Street:
+
+New to The Street is an FMW Media production that operates one of the longest-running US and International
+sponsored and syndicated Nielsen-rated programming television brands, "New to The Street." Since 2009, New to
+The Street has run biographical interview segment shows across major U.S . television networks. The Nielsen-rated
+and sponsored broadcast programming platform reaches millions of homes in the US and international markets.
+FMW's New to The Street show appears on Bloomberg and the FOX Business Network as sponsored
+programming. FMW is also one of the nation's largest buyers of linear television, long and short-form paid
+programming - https://www.newtothestreet.com/.
+
+Forward-Looking Statements Disclaimer US/Canada:
+
+This press release contains forward-looking statements within Section 27A of the Securities Act of 1933, as
+amended, and Section 21E of the Securities Exchange Act of 1934. In some cases, you can identify forward-looking
+
+                                                                                                  Page 5 of 5
+     New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the FOX Business
+                             Network Monday, March 11, 2024, at 10:30 PM PT
+
+statements by the following words: "anticipate," "believe," "continue," "could," "estimate," "expect," "intend," "may,"
+"ongoing," "plan," "potential," "predict," "project," "should," "will," "would," or the negative of these terms or other
+comparable terminology. However, not all forward-looking statements contain these words. Forward-looking
+statements do not guarantee future performance or results and will not necessarily be accurate indications of when
+such performance or results are achieved. This press release should be considered in all filings of the Companies
+contained in the Edgar Archives of the Securities and Exchange Commission at www.sec.gov.
+
+This press release contains forward-looking information within the meaning of applicable Canadian securities laws.
+Forward-looking information is often, but not always, identified by the use of words such as "seek," "anticipate,"
+"believe," "plan," "estimate," "expect," "likely," and "intend" and statements that an event or result "may," "will,"
+"should," "could" or "might" occur or be achieved and other similar expressions. These statements reflect
+Management's current beliefs and are based on information currently available to Management as of the date
+hereof. Forward-looking information in this press release includes, without limiting, the foregoing expectations.
+Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the
+TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+CONTACT:
+
+FMW Media Contact:Monica Brennanmonica@NewtoTheStreet.com 1-917-330-2564
+
+"New to The Street" Business Development Office1-516-696-5900Support@NewToTheStreet.com
+
+A         photo        accompanying        this      announcement         is       available                          at
+https://www.globenewswire.com/NewsRoom/AttachmentNg/227ab651-b5b8-47d5-8f2d-14900d002ae3
 
 
-    •   HYCU Named a Finalist in CRN’s 2024 Tech Innovator Awards
-Don Jennings HYCU, Inc. 617-791-1710         don.jennings@hycu.com        Kristin   DaSilva   The   Channel   Company
-kdasilva@thechannelcompany.com
 
-                                                                                           Page 3 of 3
-       HYCU® Named a Finalist in CRN’s 2024 Tech Innovator Awards HYCU R-Cloud Continues to Drive
-               Recognition for Its Innovative Approach to Modern And SaaS Data Prote....
+New to The Street Announces its Five Corporate TV Interviews, Airing Episode 561 on the Fox Business Network
+Monday, March 11, 2024, at 10:30 PM PT
+
+Show 561: 1). PetVivo Holdings, Inc.(NASDAQ: PETV) (NASDAQ: PETVW) ($PETV) 2). Fetch.ai (CRYPTO: FET)
+($FET) 3).General Enterprise Ventures, Inc. (OTCPink: GEVI) ($GEVI) & Mighty Fire Breaker, LLC.’s (MFB) 4).
+Rokid 5). Sekur Private Data, Ltd. (OTCQB: SWISF) (CSE: SKUR) (FRA: GDT0) ($SWISF) (Sekur®) -
+www.newtothestreet.com
 
 
-Load-Date: July 15, 2024
+Load-Date: March 8, 2024
 
 
   

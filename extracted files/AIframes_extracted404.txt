@@ -1,79 +1,963 @@
 
 
-                                                                                                 Page 1 of 2
-        Clarifai Assessed "Awardable" for Department of Defense Work in the CDAO's Tradewinds Solutions
-                                                  Marketplace
+                                                                                                        Page 1 of 17
+                                     RPM Reports Record Fiscal 2024 Third-Quarter Results
 
 
 
 
-      Clarifai Assessed "Awardable" for Department of Defense Work in the
-                    CDAO's Tradewinds Solutions Marketplace
-                                                           PR Newswire
-                                            June 20, 2024 Thursday 9:00 AM EST
+                   RPM Reports Record Fiscal 2024 Third-Quarter Results
+                                                        Business Wire
+                                             April 4, 2024 Thursday 10:45 AM GMT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-Length: 778 words
-Dateline: WASHINGTON, June 20, 2024
+Length: 6427 words
+Dateline: MEDINA, Ohio
 
 Body
 
+RPM International Inc. (NYSE: RPM), a world leader in specialty coatings, sealants and building materials, today
+reported record financial results for its fiscal 2024 third quarter ended February 29, 2024.
 
-PR NewswireRecognition Highlights Clarifai's Leading Role in Developing AI Solutions for Government and
-Defense ApplicationsWASHINGTON, June 20, 2024 /PRNewswire/ --Clarifai, a global leader in AI orchestration
-and development, and pioneer of the full-stack AI platform, today announced that it has achieved "Awardable"
-status through theChief Digital and Artificial Intelligence Office's (CDAO) Tradewinds Solutions Marketplace.
+"Thanks to the hard work of RPM associates, our third-quarter results demonstrated our continued ability to grow
+sales, expand margins and improve cash flow in a mixed economic environment. This is due to our strategic
+balance, our focus on repair and maintenance and our MAP 2025 operating improvement initiatives, which are
+driving structural financial improvements, and increasing collaboration across our businesses. MAP 2025 was also
+a key reason we generated our fourth consecutive quarter of record cash flow from operating activities, which
+totaled $1.26 billion during the trailing 12-month period. We continue to reinvest a portion of these gains back into
+the business to leverage our entrepreneurial culture and accelerate organic growth," stated Frank C. Sullivan, RPM
+chairman and CEO.
 
- The Tradewinds Solutions Marketplace is the premier offering of Tradewinds, the Department of Defense's (DoD's)
-suite of tools and services designed to accelerate the procurement and adoption of Artificial Intelligence
-(AI)/Machine Learning (ML), data, and analytics capabilities.This designation highlights Clarifai's commitment to
-delivering cutting-edge AI solutions that meet the rigorous standards and strategic needs of the DoD. Being
-"Awardable" signifies that Clarifai's solutions have undergone thorough evaluation and have been recognized for
-their excellence, reliability, and potential to drive innovation within the defense sector.With Clarifai, leading
-enterprises and government groups are orchestrating AI workflows to transform and leverage unstructured data
-using Computer Vision, Large Language Models (LLMs), Large Vision Models (LVMs), and Generative AI. Clarifai's
-platform is designed to enable government users with any experience and background to integrate AI into projects
-such as threat recognition and tracking, detecting objects via aerial and satellite imagery, optimizing capital
-equipment maintenance, finding victims in disaster zones, enhancing security at borders, airports, and government
-locations, and much more. Customers can also tap into Clarifai's deep bench of leading AI researchers, academics,
-and scientists."Clarifai is honored to receive this recognition from CDAO TradeWinds and we look forward to
-furthering our work with the CDAO and to the mission of safeguarding our nation," said Jonathan Padgett, VP
-Public Sector at Clarifai. "In the public sector, the ability to leverage data effectively is crucial, and we are proud to
-be at the forefront of driving meaningful change through AI and data analytics. We remain dedicated to continuing
-our work with the DoD, providing advanced AI capabilities that address complex challenges and deliver significant
-value."Clarifai has more than 400,000 users and has built 1.5 million models for brands such as Amazon,
-OpenTable, Siemens, Nvidia, and others. For U.S. government projects, Clarfai has top secret facility clearance,
-cleared personnel, availability on top secret and unclassified networks, and isalready trustedby JSOC, NGA, DHS,
-and DoD.Clarifai was recognized among a competitive field of applicants to the Tradewinds Solutions Marketplace
-whose solutions demonstrated innovation, scalability, and potential impact on DoD missions. Government
-customers interested in viewing a video demonstration of the solution can create a Tradewinds Solutions
-Marketplace account attradewindAI.com.Learn more hereabout how Clarifai is accelerating AI readiness for
+"Volume growth in Performance Coatings Group and Construction Products Group, combined with MAP 2025
+initiatives and favorable timing of project completions, helped drive a 31.3% increase in consolidated adjusted EBIT
+to a third-quarter record. Consumer Group also leveraged MAP 2025 initiatives to generate record adjusted EBIT,
+despite continued softness in DIY end markets. While sales and adjusted EBIT declined at Specialty Products
+Group, there were signs of stabilization in specialty OEM end markets," Sullivan continued. "Additionally, our
+improved coordination in markets outside the U.S. is showing good progress with strong sales and profitability
+growth in emerging markets and significant margin expansion in Europe."
 
-                                                                                                Page 2 of 2
-       Clarifai Assessed "Awardable" for Department of Defense Work in the CDAO's Tradewinds Solutions
-                                                 Marketplace
+Third-Quarter 2024 Consolidated Results
+          Consolidated
+                                                              Three Months Ended
+          $ in 000s except per share data                     February      February
+                                                              29,           28,
+                                                              2024          2023            $         %
+                                                                                            Change    Change
+          Net Sales                                           $ 1,522,9     $ 1,516,1       $ 6,806   0.4   %
+                                                                82            76
+          Net Income Attributable to RPM Stockholders           61,199        26,974          34,22   126.   %
+                                                                                              5       9
+          Diluted Earnings Per Share (EPS)                       0.47          0.21           0.26    123.   %
+                                                                                                      8
 
-government.About ClarifaiClarifai is a leader in AI orchestration and development, helping organizations, teams,
-and developers build, deploy, and operationalize AI at scale. Clarifai's cutting-edge AI orchestration platform
-leverages today's modern AI technologies like Large Language Models (LLMs), Large Vision Models (LVMs), and
-Retrieval Augmented Generation (RAG), data labeling, inference, and more. Founded in 2013, Clarifai is available
-in cloud, on-premises, or hybrid environments and has been used to build more than 1.5 million AI models with
-more than 400,000 users in 170 countries. Learn more atwww.clarifai.com.For more information or media requests,
-contact:About the Tradewinds Solutions MarketplaceThe Tradewinds Solutions Marketplace is a digital
-repository of post-competition, readily awardable pitch videos that address the Department of Defense's (DoD)
-most significant challenges in the Artificial Intelligence/Machine Learning (AI/ML), data, and analytics space. All
-awardable solutions have been assessed through complex scoring rubrics and competitive procedures and are
-available to Government customers with a Marketplace account. Government customers can create an account
-atwww.tradewindai.com. Tradewinds is housed in the DoD's Chief Digital Artificial Intelligence Office.For more
-information     or     media      requests,      contact:.       View      original   content     to     download
-multimedia:https://www.prnewswire.com/news-releases/clarifai-assessed-awardable-for-department-of-defense-
-work-in-the-cdaos-tradewinds-solutions-marketplace-302177291.htmlSOURCE Clarifai
+                                                                                                                   Page 2 of 17
+                                RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+         Income Before Income Taxes (IBT)                          83,581          42,487           41,09    96.7      %
+                                                                                                    4
+         Earnings Before Interest and Taxes (EBIT)                 93,443          70,520           22,92    32.5      %
+                                                                                                    3
+         Adjusted EBIT(1)                                          110,14          83,907           26,23    31.3      %
+                                                                   0                                3
+         Adjusted Diluted EPS(1)                                   0.52            0.37             0.15     40.5      %
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See tables below titled
+         Supplemental Segment Information and Reconciliation of Reported to Adjusted Amounts for details.
+
+Fiscal 2024 sales were a third-quarter record with positive pricing in all segments to catch up with cost inflation.
+Volume growth was strongest in businesses that were positioned to serve demand for infrastructure, reshoring, and
+high-performance building projects with engineered solutions, and was aided by favorable timing of project
+completions. This growth was offset by lower DIY consumer takeaway at retail stores and challenging comparisons
+in the disaster restoration business.
+
+Geographically, sales growth was strongest in emerging markets with Africa/Middle East increasing 22.9% and
+Latin America increasing 13.5%. Engineered solutions for infrastructure projects were a key driver of the growth in
+these markets.
+
+Sales included a 0.9% organic increase, a 0.1% decline from divestitures net of acquisitions, and a 0.4% decline
+from foreign currency translation.
+
+Selling, general and administrative expenses increased due to incentives to sell higher-margin products and
+services; investments to accelerate long-term growth; and inflation in compensation and benefits. These increases
+were partially offset by expense reduction actions taken in the fourth quarter of fiscal 2023.
+
+Fiscal 2024 third-quarter adjusted EBIT was a record. Adjusted EBIT margin expansion of 170 basis points was
+driven by MAP 2025 initiatives, including the commodity cycle recovery, a positive mix from shifting toward higher
+margin products and services, and improved fixed-cost leverage at businesses with volume growth. In Europe,
+sales declined slightly, driven by a previously announced divestiture, however, a focused strategy to improve
+profitability in the region resulted in strong adjusted EBIT margin expansion.
+
+Third-Quarter 2024 Segment Sales and Earnings
+         Construction Products Group
+                                                         Three Months Ended
+         $ in 000s                                       February        February
+                                                         29,             28,
+                                                         2024            2023                 $ Change      % Change
+         Net Sales                                       $ 495,753       $ 475,187            $ 20,566      4.3   %
+         Income Before Income Taxes                         15,060          6,886                8,174      118. %
+                                                                                                            7
+         EBIT                                               15,728             10,399            5,329      51.2 %
+         Adjusted EBIT(1)                                   20,487             12,066            8,421      69.8 %
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+CPG third-quarter sales were a record with strength in concrete admixtures and repair products as a result of
+increased demand for engineered solutions serving infrastructure and reshoring-related projects, as well as market
+share gains. Businesses serving high-performance building construction and renovation also performed well. Sales
+in Latin America were strong, driven by infrastructure-related demand.
+
+                                                                                                                   Page 3 of 17
+                                RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+Sales included 3.1% organic growth, 0.7% growth from acquisitions, and 0.5% growth from foreign currency
+translation.
+
+Third-quarter adjusted EBIT was driven by MAP 2025 benefits, inclusive of the commodity cycle, favorable mix and
+improved fixed-cost leverage from volume growth. Variable compensation increased as a result of improved
+financial performance and was partially offset by expense reduction actions implemented at the end of fiscal 2023.
+         Performance Coatings Group
+                                                                Three Months Ended
+         $ in 000s                                              February      February 28,
+                                                                29,
+                                                                2024          2023                     $          %
+                                                                                                       Change     Chang
+                                                                                                                  e
+         Net Sales                                              $ 343,53        $ 321,45               $ 22,08    6.9 %
+                                                                  6               4                      2
+         Income (Loss) Before Income Taxes                        47,039          (7,057       )         54,09    N/
+                                                                                                         6        A
+         EBIT                                                     45,835            (7,588     )         53,42    N/
+                                                                                                         3        A
+         Adjusted EBIT(1)                                         47,092            32,453               14,63    45.   %
+                                                                                                         9        1
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+PCG generated record third-quarter sales, which were in addition to strong results in the prior-year period, driven by
+growth in engineered solutions serving reshoring capital projects, including the favorable timing of some project
+completions. Strong growth in Asia/Pacific and Africa/Middle East, which were all recently aligned under PCG, also
+contributed to the record sales, driven by demand for engineered solutions serving infrastructure projects.
+
+Sales included 9.2% organic growth, a 0.7% decline from divestitures, and a currency translation headwind of 1.6%.
+
+Record third-quarter adjusted EBIT was driven by sales growth, favorable mix, and MAP 2025 benefits, inclusive of
+the commodity cycle. Adjusted EBIT growth was achieved in addition to strong results in the prior-year period.
+         Specialty Products Group
+                                                     Three Months Ended
+         $ in 000s                                   February      February
+                                                     29,           28,
+                                                     2024          2023                 $ Change          % Change
+         Net Sales                                   $ 176,49      $ 191,00             $ (14,510       ) (7.6  %)
+                                                        4             4
+         Income Before Income Taxes                     9,803         39,482                 (29,679    ) (75.    %)
+                                                                                                          2
+         EBIT                                           9,713              39,454            (29,741    ) (75.    %)
+                                                                                                          4
+         Adjusted EBIT(1)                               12,101             16,792            (4,691     ) (27.    %)
+                                                                                                          9
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+SPG's third-quarter sales decline was driven by challenging comparisons in the prior-year period when the disaster
+restoration business had strong results in response to freeze-related flooding that did not reoccur to the same
+extent this year, and the impact of the divested non-core furniture warranty business. Specialty OEM end markets
+showed signs of stabilization during the quarter.
+
+                                                                                                                  Page 4 of 17
+                                RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+Sales included a 6.4% organic decline, a 1.4% reduction from divestitures, and 0.2% growth from foreign currency
+translation.
+
+Adjusted EBIT was negatively impacted by the sales decline and under absorption from lower volumes. The
+divestiture of the non-core furniture warranty business also contributed to the adjusted EBIT decline. Investments in
+long-term growth initiatives weighed on adjusted EBIT margins and were partially offset by expense-reduction
+actions in the fourth quarter of fiscal 2023.
+         Consumer Group
+                                                     Three Months Ended
+         $ in 000s                                   February        February
+                                                     29,             28,
+                                                     2024            2023                $ Change          % Change
+         Net Sales                                   $ 507,199       $ 528,531           $ (21,332       ) (4. %)
+                                                                                                           0
+         Income Before Income Taxes                     65,159            68,146            (2,987       ) (4. %)
+                                                                                                           4
+         EBIT                                           64,159            68,128            (3,969       ) (5. %)
+                                                                                                           8
+         Adjusted EBIT(1)                               64,994            48,293            16,701         34. %
+                                                                                                           6
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+The Consumer Group's third-quarter sales decline was driven by weaker DIY takeaway at retail stores, customers
+maintaining lean inventories, and the rationalization of lower-margin products, which were partially offset by market
+share gains.
+
+Sales included a 3.2% organic decline, no impact from acquisitions, and foreign currency translation headwinds of
+0.8%.
+
+Record third-quarter adjusted EBIT was driven by margin expansion enabled by MAP 2025 benefits, inclusive of the
+commodity cycle, and the rationalization of lower margin products, partially offset by under absorption from lower
+volumes, and higher expenses from compensation and benefits.
+
+Cash Flow and Financial Position
+
+During the first nine months of fiscal 2024:
+    •   Cash provided by operating activities was $941.1 million compared to $263.0 million in the prior-year
+        period.
+    •   Capital expenditures were $138.1 million compared to $179.7 million during the prior-year period, driven by
+        the timing of investments, including those related to MAP 2025 initiatives.
+    •   The company returned $210.1 million to stockholders through cash dividends and share repurchases.
+
+As of February 29, 2024:
+    •   The 12-trailing month cash provided by operating activities was $1.26 billion, compared to $285.8 million in
+        the prior year period.
+    •   Total debt was $2.19 billion compared to $2.82 billion a year ago, with the $629.2 million reduction driven
+        by improved cash flow being used to repay higher cost debt.
+    •   Total liquidity, including cash and committed revolving credit facilities, was $1.29 billion, compared to
+        $843.5 million a year ago.
+
+Business Outlook
+
+                                                                                                       Page 5 of 17
+                              RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+"Our strategic balance and consistent execution of MAP 2025 initiatives are expected to drive margin improvements
+in the fourth quarter, resulting in the 10th consecutive quarter of record adjusted EBIT, as well as record sales and
+adjusted EBIT for the full fiscal year that is squarely in the guidance we previously provided. By segment, the
+secular tailwinds of infrastructure and reshoring spending benefitting CPG and PCG are expected to continue,
+although PCG will face some temporary headwinds in the fourth quarter from the timing of project completions,
+included those that were pulled forward into the third quarter. SPG business conditions have shown early signs of
+stabilization, however some end markets remain soft, and the Consumer Group continues to face DIY pressures,"
+Sullivan added. "While end markets remain mixed, the investments we are making now position us to accelerate
+volume growth when end markets recover and will allow us to fully realize the benefits of the margin achievement
+initiatives we have put in place through MAP 2025."
+
+The company expects the following in the fiscal 2024 fourth quarter:
+    •   Consolidated sales to be approximately flat compared to prior-year record results.
+    •   CPG sales to increase in the low- to mid-single-digit percentage range compared to prior-year record
+        results.
+    •   PCG sales to be approximately flat compared to prior-year record results.
+    •   SPG sales to decrease in the mid-single-digit percentage range compared to prior-year results.
+    •   Consumer Group sales to decrease in the mid-single-digit percentage range compared to prior-year record
+        results.
+    •   Consolidated adjusted EBIT to increase in the high-single-digit percentage range compared to prior-year
+        record results.
+
+The company expects the following in the full-year fiscal 2024:
+    •   Consolidated sales to increase near the midpoint of the previous outlook, which was an increase in the
+        low-single-digit percentage range compared to prior-year record results.
+    •   Consolidated adjusted EBIT to increase near the midpoint of the previous outlook, which was an increase
+        in the low-double-digit to mid-teen percentage range compared to prior-year record results.
+
+Earnings Webcast and Conference Call Information
+
+Management will host a conference call to discuss these results beginning at 10:00 a.m. ET today. The call can be
+accessed via webcast at www.RPMinc.com/Investors/Presentations-Webcasts or by dialing 1-844-481-2915 or 1-
+412-317-0708 for international callers and asking to join the RPM International call. Participants are asked to call
+the assigned number approximately 10 minutes before the conference call begins. The call, which will last
+approximately one hour, will be open to the public, but only financial analysts will be permitted to ask questions. The
+media and all other participants will be in a listen-only mode.
+
+For those unable to listen to the live call, a replay will be available from April 4, 2024, until April 11, 2024. The
+replay can be accessed by dialing 1-877-344-7529 or 1-412-317-0088 for international callers. The access code is
+6539229. The call also will be available for replay and as a written transcript via the RPM website at
+www.RPMinc.com .
+
+About RPM
+
+RPM International Inc. owns subsidiaries that are world leaders in specialty coatings, sealants, building materials
+and related services. The company operates across four reportable segments: consumer, construction products,
+performance coatings and specialty products. RPM has a diverse portfolio of market-leading brands, including Rust-
+Oleum , DAP , Zinsser , Varathane , DayGlo , Legend Brands , Stonhard , Carboline , Tremco and Dryvit . From
+homes and workplaces, to infrastructure and precious landmarks, RPM's brands are trusted by consumers and
+
+                                                                                                          Page 6 of 17
+                               RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+professionals alike to help build a better world . The company employs approximately 17,300 individuals worldwide.
+Visit www.RPMinc.com to learn more.
+
+For more information, contact Matt Schlarb, Senior Director of Investor Relations, at 330-220-6064 or
+mschlarb@rpminc.com .
+
+Use of Non-GAAP Financial Information
+
+To supplement the financial information presented in accordance with Generally Accepted Accounting Principles in
+the United States ("GAAP") in this earnings release, we use EBIT, adjusted EBIT and adjusted earnings per share,
+which are all non-GAAP financial measures. EBIT is defined as earnings (loss) before interest and taxes, with
+adjusted EBIT and adjusted earnings per share provided for the purpose of adjusting for one-off items impacting
+revenues and/or expenses that are not considered by management to be indicative of ongoing operations. We
+evaluate the profit performance of our segments based on income before income taxes, but also look to EBIT as a
+performance evaluation measure because interest income (expense), net is essentially related to corporate
+functions, as opposed to segment operations. For that reason, we believe EBIT is also useful to investors as a
+metric in their investment decisions. EBIT should not be considered an alternative to, or more meaningful than,
+income before income taxes as determined in accordance with GAAP, since EBIT omits the impact of interest and
+investment income or expense in determining operating performance, which represent items necessary to our
+continued operations, given our level of indebtedness. Nonetheless, EBIT is a key measure expected by and useful
+to our fixed income investors, rating agencies and the banking community all of whom believe, and we concur, that
+this measure is critical to the capital markets' analysis of our segments' core operating performance. We also
+evaluate EBIT because it is clear that movements in EBIT impact our ability to attract financing. Our underwriters
+and bankers consistently require inclusion of this measure in offering memoranda in conjunction with any debt
+underwriting or bank financing. EBIT may not be indicative of our historical operating results, nor is it meant to be
+predictive of potential future results. See the financial statement section of this earnings release for a reconciliation
+of EBIT and adjusted EBIT to income before income taxes, and adjusted earnings per share to earnings per share.
+We have not provided a reconciliation of our fourth-quarter fiscal 2024 or full-year fiscal 2024 adjusted EBIT
+guidance because material terms that impact such measure are not in our control and/or cannot be reasonably
+predicted, and therefore a reconciliation of such measure is not available without unreasonable effort.
+
+Forward-Looking Statements
+
+This press release contains "forward-looking statements" relating to our business. These forward-looking
+statements, or other statements made by us, are made based on our expectations and beliefs concerning future
+events impacting us and are subject to uncertainties and factors (including those specified below), which are difficult
+to predict and, in many instances, are beyond our control. As a result, our actual results could differ materially from
+those expressed in or implied by any such forward-looking statements. These uncertainties and factors include (a)
+global markets and general economic conditions, including uncertainties surrounding the volatility in financial
+markets, the availability of capital, and the viability of banks and other financial institutions; (b) the prices, supply
+and availability of raw materials, including assorted pigments, resins, solvents, and other natural gas- and oil-based
+materials; packaging, including plastic and metal containers; and transportation services, including fuel surcharges;
+(c) continued growth in demand for our products; (d) legal, environmental and litigation risks inherent in our
+businesses and risks related to the adequacy of our insurance coverage for such matters; (e) the effect of changes
+in interest rates; (f) the effect of fluctuations in currency exchange rates upon our foreign operations; (g) the effect
+of non-currency risks of investing in and conducting operations in foreign countries, including those relating to
+domestic and international political, social, economic and regulatory factors; (h) risks and uncertainties associated
+with our ongoing acquisition and divestiture activities; (i) the timing of and the realization of anticipated cost savings
+from restructuring initiatives and the ability to identify additional cost savings opportunities; (j) risks related to the
+adequacy of our contingent liability reserves; (k) risks relating to a public health crisis similar to the Covid pandemic;
+(l) risks related to acts of war similar to the Russian invasion of Ukraine; (m) risks related to the transition or
+physical impacts of climate change and other natural disasters or meeting sustainability-related voluntary goals or
+regulatory requirements; (n) risks related to our use of technology, artificial intelligence, data breaches and data
+privacy violations; and (o) other risks detailed in our filings with the Securities and Exchange Commission, including
+
+                                                                                                   Page 7 of 17
+                                 RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+the risk factors set forth in our Form 10-K for the year ended May 31, 2023, as the same may be updated from time
+to time. We do not undertake any obligation to publicly update or revise any forward-looking statements to reflect
+future events, information or circumstances that arise after the filing date of this release.
+         CONSOLIDATED STATEMENTS OF
+         INCOME
+         IN THOUSANDS, EXCEPT PER SHARE
+         DATA
+         (Unaudited)
+
+                                                        Three Months Ended       Nine Months Ended
+                                                        February     February    February     February
+                                                        29,          28,         29,          28,
+                                                        2024         2023        2024         2023
+
+         Net Sales                                      $ 1,5        $ 1,5       $ 5,3        $ 5,2
+                                                          22,          16,         27,          40,
+                                                          98           17          11           20
+                                                          2            6           4            4
+         Cost of Sales                                    91           97          3,1          3,2
+                                                          5,8          8,1         43,          67,
+                                                          18           42          10           30
+                                                                                   5            8
+         Gross Profit                                      60          53          2,1          1,9
+                                                           7,1         8,0         84,          72,
+                                                           64          34          00           89
+                                                                                   9            6
+         Selling, General & Administrative Expenses        50          45          1,5          1,4
+                                                           4,7         0,0         59,          25,
+                                                           60          19          08           96
+                                                                                   1            9
+         Restructuring Expense                             6,3         4,1         14,          6,7
+                                                           59          54          09           80
+                                                                                   6
+         Goodwill Impairment                               -           36,         -            36,
+                                                                       74                       74
+                                                                       5                        5
+         Interest Expense                                  28,         30,         90,          85,
+                                                           52          75          69           38
+                                                           7           6           3            5
+         Investment (Income), Net                          (18   )     (2,   )     (36   )      (5,   )
+                                                           ,66         72          ,39          91
+                                                           5           3           3            0
+         (Gain) on Sales of Assets and Business, Net       -           (25   )     -            (25   )
+                                                                       ,74                      ,88
+                                                                       3                        1
+         Other Expense, Net                                2,6         2,3         7,9          7,0
+                                                           02          39          73           65
+         Income Before Income Taxes                        83,         42,         54           44
+                                                           58          48          8,5          2,7
+                                                           1           7           59           43
+         Provision for Income Taxes                        22,         15,         13           11
+                                                           10          24          9,9          4,6
+                                                           3           8           53           83
+         Net Income                                        61,         27,         40           32
+                                                           47          23          8,6          8,0
+                                                           8           9           06           60
+         Less: Net Income Attributable to                  27          26          82           72
+         Noncontrolling Interests                          9           5           0            9
+
+                                                                                                        Page 8 of 17
+                       RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+Net Income Attributable to RPM International      $ 61,           $ 26,         $ 40             $ 32
+Inc. Stockholders                                   19              97            7,7              7,3
+                                                    9               4             86               31
+
+Earnings per share of common stock
+attributable to
+RPM International Inc. Stockholders:
+Basic                                             $ 0.4           $ 0.2         $ 3.1            $ 2.5
+                                                    8               1             8                5
+Diluted                                           $ 0.4           $ 0.2         $ 3.1            $ 2.5
+                                                    7               1             6                4
+
+Average shares of common stock                          12          12               12               12
+outstanding - basic                                     7,7         7,4              7,8              7,5
+                                                        81          95               03               64
+Average shares of common stock                          12          12               12               12
+outstanding - diluted                                   8,3         8,0              8,3              8,7
+                                                        34          35               15               89
+
+SUPPLEMENTAL
+SEGMENT
+INFORMATION
+IN
+THOUS
+ANDS
+(Unaudit
+ed)
+
+                      Three Months Ended                          Nine Months Ended
+                      February 29,       February 28,             February 29,             February 28,
+                      2024               2023                     2024                     2023
+Net Sales:
+    CPG               $ 495,753            $ 475,187              $ 1,940,292              $ 1,794,043
+    Segment
+    PCG                 343,536                321,454              1,096,905                1,041,994
+    Segment
+    SPG                 176,494                191,004              534,427                  605,785
+    Segment
+    Consumer            507,199                528,531              1,755,490                1,798,382
+    Segment
+    Tota              $ 1,522,982          $ 1,516,176            $ 5,327,114              $ 5,240,204
+    l
+
+Income Before
+Income Taxes:
+    CPG
+    Segment
+    Income            $ 15,060             $ 6,886                $ 253,910                $ 187,679
+    Before
+    Income
+    Taxes (a)
+    Interest            (668           )       (3,513         )     (4,619       )           (8,090         )
+    (Expense),
+    Net (b)
+    EBIT (c)            15,728                 10,399               258,529                  195,769
+    MAP                 4,759                  1,667                6,168                    4,056
+    initiatives (d)
+
+                                                                                      Page 9 of 17
+                   RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+Adjusted          $ 20,487          $ 12,066           $ 264,697          $ 199,825
+EBIT
+PCG
+Segment
+Income            $ 47,039          $ (7,057      )    $ 153,362          $ 89,053
+(Loss) Before
+Income
+Taxes (a)
+Interest            1,204              531               3,753              1,058
+Income, Net
+(b)
+EBIT (c)            45,835             (7,588     )      149,609            87,995
+MAP                 1,257              40,041            17,404             42,334
+initiatives (d)
+Adjusted          $ 47,092          $ 32,453           $ 167,013          $ 130,329
+EBIT
+SPG
+Segment
+Income            $ 9,803           $ 39,482           $ 36,345           $ 94,798
+Before
+Income
+Taxes (a)
+Interest            90                 28                293                23
+Income, Net
+(b)
+EBIT (c)            9,713              39,454            36,052             94,775
+MAP                 2,471              3,112             8,116              7,393
+initiatives (d)
+(Gain) on           (83        )       (25,774    )      (1,206      )      (25,774      )
+sales of
+assets and
+business, net
+(e)
+Legal               -                  -                 3,953              -
+contingency
+adjustment
+on a divested
+business (g)
+Adjusted          $ 12,101          $ 16,792           $ 46,915           $ 76,394
+EBIT
+Consumer
+Segment
+Income            $ 65,159          $ 68,146           $ 295,054          $ 278,708
+Before
+Income
+Taxes (a)
+Interest            1,000              18                2,619              45
+Income, Net
+(b)
+EBIT (c)            64,159             68,128            292,435            278,663
+MAP                 835                165               1,249              914
+initiatives (d)
+Business            -                  (20,000    )      (11,128     )      (20,000      )
+interruption
+insurance
+recovery (f)
+Adjusted          $ 64,994          $ 48,293           $ 282,556          $ 259,577
+EBIT
+
+                                                                                                  Page 10 of 17
+                       RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+    Corporate/Ot
+    her
+    (Loss) Before     $ (53,480     )    $ (64,970        )    $ (190,112      )     $ (207,495       )
+    Income
+    Taxes (a)
+    Interest            (11,488     )       (25,097       )       (56,346      )        (72,511       )
+    (Expense),
+    Net (b)
+    EBIT (c)            (41,992     )       (39,873       )       (133,766     )        (134,984      )
+    MAP                 7,458               14,176                28,632                42,704
+    initiatives (d)
+    Adjusted          $ (34,534     )    $ (25,697        )    $ (105,134      )     $ (92,280        )
+    EBIT
+    TOTAL
+    CONSOLIDA
+    TED
+    Income            $ 83,581           $ 42,487              $ 548,559             $ 442,743
+    Before
+    Income
+    Taxes (a)
+    Interest            (28,527     )       (30,756       )       (90,693      )        (85,385       )
+    (Expense)
+    Investment          18,665              2,723                 36,393                5,910
+    Income, Net
+    EBIT (c)            93,443              70,520                602,859               522,218
+    MAP                 16,780              59,161                61,569                97,401
+    initiatives (d)
+    (Gain) on           (83         )       (25,774       )       (1,206       )        (25,774       )
+    sale of
+    assets and
+    business, net
+    (e)
+    Business            -                   (20,000       )       (11,128      )        (20,000       )
+    interruption
+    insurance
+    recovery (f)
+    Legal               -                   -                     3,953                 -
+    contingency
+    adjustment
+    on a divested
+    business (g)
+    Adjusted          $ 110,140          $ 83,907              $ 656,047             $ 573,845
+    EBIT
+
+(   The presentation includes a reconciliation of Income (Loss) Before Income Taxes, a measure defined
+a   by Generally Accepted Accounting Principles in the United States (GAAP), to EBIT and Adjusted
+)   EBIT.
+(   Interest Income (Expense), Net includes the combination of Interest Income (Expense) and
+b   Investment Income (Expense), Net.
+)
+(   EBIT is defined as earnings (loss) before interest and taxes, with Adjusted EBIT provided for the
+c   purpose of adjusting for items impacting earnings that are not considered by management to be
+)   indicative of ongoing operations. We evaluate the profit performance of our segments based on
+    income before income taxes, but also look to EBIT, or adjusted EBIT, as a performance evaluation
+    measure because Interest Income (Expense), Net is essentially related to corporate functions, as
+    opposed to segment operations. For that reason, we believe EBIT is also useful to investors as a
+    metric in their investment decisions. EBIT should not be considered an alternative to, or more
+    meaningful than, income before income taxes as determined in accordance with GAAP, since EBIT
+    omits the impact of interest and investment income or expense in determining operating performance,
+
+                                                                                                        Page 11 of 17
+                      RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+    which represent items necessary to our continued operations, given our level of indebtedness.
+    Nonetheless, EBIT is a key measure expected by and useful to our fixed income investors, rating
+    agencies and the banking community all of whom believe, and we concur, that this measure is critical
+    to the capital markets' analysis of our segments' core operating performance. We also evaluate EBIT
+    because it is clear that movements in EBIT impact our ability to attract financing. Our underwriters and
+    bankers consistently require inclusion of this measure in offering memoranda in conjunction with any
+    debt underwriting or bank financing. EBIT may not be indicative of our historical operating results, nor
+    is it meant to be predictive of potential future results.
 
 
-Load-Date: July 15, 2024
+
+
+(   Reflects restructuring and other charges, which have been incurred in relation to our Margin
+d   Acceleration Plan ("MAP to Growth") and our Margin Achievement Plan ("MAP 2025"), together MAP
+)   initiatives, as follows: - Restructuring and other related expense, net: Includes charges incurred
+    related to headcount reductions, facility closures and asset impairments recorded in "Restructuring
+    Expense" on the Consolidated Statements of Income. Restructuring Expense totaled $6.4 million and
+    $4.2 million for the quarters ended February 29, 2024 and February 28, 2023, respectively, and $14.1
+    million and $6.8 million for the nine months ended February 29, 2024 and February 28, 2023,
+    respectively. Other related expenses include inventory write-offs in connection with restructuring
+    activities recorded in "Cost of Sales" and accelerated depreciation and amortization recorded within
+    "Cost of Sales" or "Selling, General, & Administrative Expenses ("SG&A")" depending on the nature of
+    the expense as well as the increase in our allowance for doubtful accounts as a result of the
+    divestiture of the non-core Universal Sealant's Bridgecare service business within our PCG segment.
+    - Exited product lines: Reflects the sale of inventory that had previously been reserved for as a result
+    of prior product line rationalization initiatives at PCG partially offset by inventory write-offs related to
+    the discontinuation of certain product lines within our SPG segment. These amounts resulted from
+    ongoing product line rationalization efforts in connection with our MAP initiatives and were recorded
+    within "Cost of Sales". - ERP consolidation plan: Includes expenses incurred as a result of our stated
+    goals to consolidate over 75 ERP systems across the organization to four ERP platforms, one per
+    segment, as part of our overall MAP strategy as well as costs incurred for other decision support tools
+    to facilitate our commercial initiatives related to MAP 2025 which have been incurred in our CPG,
+    PCG, SPG and Corporate/Other segments and have been recorded within "SG&A". - Professional
+    fees: Includes expenses incurred to consolidate accounting locations, costs incurred to implement
+    technologies and processes to drive improved sales mix and salesforce effectiveness and cost
+    incurred to implement new global manufacturing methodologies with the goal of improving operating
+    efficiency incurred within our CPG, PCG, SPG, and Corporate/Other segments and recorded within
+    "SG&A". All of this spend is in support of stated MAP goals with the most significant expense incurred
+    within our Corporate/Other segment. - Goodwill impairment: Relates to an impairment charge at our
+    Universal Sealants ("USL") reporting unit as a result of a decision to exit the services portion of that
+    business which has been recorded in "Goodwill Impairment" recorded in the third quarter of fiscal
+    2023. Included below is a reconciliation of the TOTAL CONSOLIDATED MAP initiatives.
+                        Three Months Ended                             Nine Months Ended
+                        February 29,            February 28,           February 29,            February 28,
+                        2024                    2023                   2024                    2023
+    Restructuring $ 7,940                       $ 4,804                $ 26,599                $ 8,658
+    and other
+    related
+    expense, net
+    Exited                -                        -                       (248          )        -
+    product line
+    ERP                   2,169                    2,237                   8,731                  4,486
+    consolidation
+    plan
+    Professional          6,671                    15,375                  26,487                 47,512
+    fees
+    Goodwill              -                        36,745                  -                      36,745
+    Impairment
+
+                                                                                                      Page 12 of 17
+                           RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+     MAP              $ 16,780               $ 59,161               $ 61,569              $ 97,401
+     initiatives
+
+(    Reflects the gain associated with post-closing adjustments for the sale of the furniture warranty
+e    business in the SPG segment which has been recorded in Selling, General & Administrative
+)    Expenses in FY24 and the prior year balance reflects the gains associated with the sale of the
+     furniture warranty business and the sale and leaseback of a facility in the SPG segment recorded
+     within Gain on Sales of Assets and Business, Net.
+(f   Business interruption insurance recovery at our Consumer segment related to lost sales and
+)    incremental costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of a
+     significant alkyd resin supplier, which has been recorded in Selling, General & Administrative
+     Expenses.
+(    Represents incremental expense related to an adverse legal ruling from a case associated with a
+g    business that was divested in the prior year. We strongly disagree with the legal ruling and have filed
+)    an appeal.
+
+SUPPLEMENTAL INFORMATION
+RECONCILIATION OF "REPORTED" TO
+"ADJUSTED" AMOUNTS
+(Unaudited)
+
+                                                             Three Months Ended         Nine Months Ended
+                                                             Februa      Februa         Februa      Februa
+                                                             ry 29,      ry 28,         ry 29,      ry 28,
+                                                             2024        2023           2024        2023
+
+     Reconciliation of Reported Earnings per
+     Diluted Share to Adjusted Earnings per Diluted
+     Share (All amounts presented after-tax):
+     Reported Earnings per Diluted Share                     $ 0           $ 0          $ 3           $ 2
+                                                               .             .            .             .
+                                                               4             2            1             5
+                                                               7             1            6             4
+     MAP initiatives (d)                                       0             0            0             0
+                                                               .             .            .             .
+                                                               1             4            3             6
+                                                               0             1            7             4
+     (Gain) on sales of assets and business, net (e)           -             (     )      (     )       (      )
+                                                                             0            0             0
+                                                                             .            .             .
+                                                                             1            0             1
+                                                                             4            1             4
+     Business interruption insurance recovery (f)               -            (     )      (     )       (      )
+                                                                             0            0             0
+                                                                             .            .             .
+                                                                             1            0             1
+                                                                             2            7             2
+     Legal contingency adjustment on a divested                 -            -            0             -
+     business (g)                                                                         .
+                                                                                          0
+                                                                                          2
+     Income tax adjustment (h)                                  0              -          0              -
+                                                                .                         .
+                                                                0                         0
+                                                                2                         2
+     Investment returns (i)                                     (   )          0          (     )        0
+                                                                0              .          0              .
+                                                                .              0          .              0
+                                                                0              1          1              2
+
+                                                                                                          Page 13 of 17
+                        RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+                                                                 7                            1
+     Adjusted Earnings per Diluted Share (j)                   $ 0           $ 0            $ 3           $ 2
+                                                                 .             .              .             .
+                                                                 5             3              3             9
+                                                                 2             7              8             4
+
+(    Reflects restructuring and other charges, which have been incurred in relation to our Margin
+d    Acceleration Plan ("MAP to Growth") and our Margin Achievement Plan ("MAP 2025"), together MAP
+)    initiatives, as follows: - Restructuring and other related expense, net: Includes charges incurred related
+     to headcount reductions, facility closures and asset impairments recorded in "Restructuring Expense"
+     on the Consolidated Statements of Income. Restructuring Expense totaled $6.4 million and $4.2 million
+     for the quarters ended February 29, 2024 and February 28, 2023 respectively, and $14.1 million and
+     $6.8 million for the nine months ended February 29, 2024 and February 28, 2023 respectively. Other
+     related expenses include inventory write-offs in connection with restructuring activities recorded in
+     "Cost of Sales" and accelerated depreciation and amortization recorded within "Cost of Sales" or
+     "Selling, General, & Administrative Expenses ("SG&A")" depending on the nature of the expense as
+     well as the increase in our allowance for doubtful accounts as a result of the divestiture of the non-core
+     Universal Sealant's Bridgecare service business within our PCG segment. - Exited product lines:
+     Reflects the sale of inventory that had previously been reserved for as a result of prior product line
+     rationalization initiatives at PCG partially offset by inventory write-offs related to the discontinuation of
+     certain product lines within our SPG segment. These amounts resulted from ongoing product line
+     rationalization efforts in connection with our MAP initiatives and were recorded within "Cost of Sales". -
+     ERP consolidation plan: Includes expenses incurred as a result of our stated goals to consolidate over
+     75 ERP systems across the organization to four ERP platforms, one per segment, as part of our overall
+     MAP strategy as well as costs incurred for other decision support tools to facilitate our commercial
+     initiatives related to MAP 2025 which have been incurred in our CPG, PCG, SPG and Corporate/Other
+     segments and have been recorded within "SG&A". - Professional fees: Includes expenses incurred to
+     consolidate accounting locations, costs incurred to implement technologies and processes to drive
+     improved sales mix and salesforce effectiveness and cost incurred to implement new global
+     manufacturing methodologies with the goal of improving operating efficiency incurred within our CPG,
+     PCG, SPG, and Corporate/Other segments and recorded within "SG&A". All of this spend is in support
+     of stated MAP goals with the most significant expense incurred within our Corporate/Other segment. -
+     Goodwill impairment: Relates to an impairment charge at our Universal Sealants ("USL") reporting unit
+     as a result of a decision to exit the services portion of that business which has been recorded in
+     "Goodwill Impairment" recorded in the third quarter of fiscal 2023.
+(    Reflects the gain associated with post-closing adjustments for the sale of the furniture warranty
+e    business in the SPG segment which has been recorded in Selling, General & Administrative Expenses
+)    in FY24 and the prior year balance reflects the gains associated with the sale of the furniture warranty
+     business and the sale and leaseback of a facility in the SPG segment recorded within Gain on Sales of
+     Assets and Business, Net.
+(f   Business interruption insurance recovery at our Consumer segment related to lost sales and
+)    incremental costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of a
+     significant alkyd resin supplier, which has been recorded in Selling, General & Administrative
+     Expenses.
+(    Represents incremental expense related to an adverse legal ruling from a case associated with a
+g    business that was divested in the prior year. We strongly disagree with the legal ruling and have filed
+)    an appeal.
+(    Adjustment to income taxes associated with the prior year sale of the furniture warranty business.
+h
+)
+(i   Investment returns include realized net gains and losses on sales of investments and unrealized net
+)    gains and losses on equity securities, which are adjusted due to their inherent volatility. Management
+     does not consider these gains and losses, which cannot be predicted with any level of certainty, to be
+     reflective of the Company's core business operations.
+(j   Adjusted Diluted EPS is provided for the purpose of adjusting diluted earnings per share for items
+)    impacting earnings that are not considered by management to be indicative of ongoing operations.
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS
+(Unaudited)
+
+                                                                                            Page 14 of 17
+                            RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+
+                                                         February       February       May 31, 2023
+                                                         29, 2024       28, 2023
+Assets
+Current Assets
+Cash and cash equivalents                                $ 248,9        $ 193,8        $ 215,7
+                                                           05             70             87
+Trade accounts receivable                                  1,130,         1,250,         1,552,
+                                                           409            534            522
+Allowance for doubtful accounts                            (58,3    )     (47,3    )     (49,4    )
+                                                           77             22             82
+Net trade accounts receivable                              1,072,         1,203,         1,503,
+                                                           032            212            040
+Inventories                                                1,080,         1,341,         1,135,
+                                                           698            303            496
+Prepaid expenses and other current assets                  344,9          340,9          329,8
+                                                           48             90             45
+Total current assets                                       2,746,         3,079,         3,184,
+                                                           583            375            168
+Property, Plant and Equipment, at Cost                     2,459,         2,237,         2,332,
+                                                           045            743            916
+Allowance for depreciation                                 (1,17    )     (1,07    )     (1,09    )
+                                                           2,164          1,722          3,440
+Property, plant and equipment, net                         1,286,         1,166,         1,239,
+                                                           881            021            476
+Other Assets
+Goodwill                                                   1,309,         1,288,         1,293,
+                                                           744            071            588
+Other intangible assets, net of amortization               523,6          562,7          554,9
+                                                           77             32             91
+Operating lease right-of-use assets                        326,9          327,1          329,5
+                                                           98             79             82
+Deferred income taxes                                      17,51          17,02          15,47
+                                                           7              3              0
+Other                                                      171,0          169,0          164,7
+                                                           04             22             29
+Total other assets                                         2,348,         2,364,         2,358,
+                                                           940            027            360
+Total Assets                                             $ 6,382,       $ 6,609,       $ 6,782,
+                                                           404            423            004
+Liabilities and Stockholders' Equity
+Current Liabilities
+Accounts payable                                         $ 577,8        $ 577,7        $ 680,9
+                                                           61             61             38
+Current portion of long-term debt                          6,225          3,130          178,5
+                                                                                         88
+Accrued compensation and benefits                          237,9          204,5          257,3
+                                                           51             42             28
+Accrued losses                                             30,89          22,10          26,47
+                                                           7              1              0
+Other accrued liabilities                                  349,0          311,9          347,4
+                                                           15             74             77
+Total current liabilities                                  1,201,         1,119,         1,490,
+                                                           949            508            801
+Long-Term Liabilities
+Long-term debt, less current maturities                    2,187,         2,819,         2,505,
+
+                                                                                                Page 15 of 17
+                          RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+                                                         140            432                  221
+Operating lease liabilities                              278,0          283,9                285,5
+                                                         09             81                   24
+Other long-term liabilities                              268,9          239,0                267,1
+                                                         40             46                   11
+Deferred income taxes                                    98,15          92,47                90,34
+                                                         3              4                    7
+Total long-term liabilities                              2,832,         3,434,               3,148,
+                                                         242            933                  203
+Total liabilities                                        4,034,         4,554,               4,639,
+                                                         191            441                  004
+Stockholders' Equity
+Preferred stock; none issued                             -              -                    -
+Common stock (outstanding 128,763; 128,933;              1,288          1,289                1,288
+128,766)
+Paid-in capital                                          1,144,         1,119,               1,124,
+                                                         282            786                  825
+Treasury stock, at cost                                  (844,    )     (769,      )         (784,    )
+                                                         345            933                  463
+Accumulated other comprehensive (loss)                   (593,    )     (604,      )         (604,    )
+                                                         729            821                  935
+Retained earnings                                        2,639,         2,306,               2,404,
+                                                         310            836                  125
+Total RPM International Inc. stockholders' equity        2,346,         2,053,               2,140,
+                                                         806            157                  840
+Noncontrolling interest                                  1,407          1,825                2,160
+Total equity                                             2,348,         2,054,               2,143,
+                                                         213            982                  000
+Total Liabilities and Stockholders' Equity             $ 6,382,       $ 6,609,             $ 6,782,
+                                                         404            423                  004
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+(Unaudited)
+                                                                      Nine Months Ended
+                                                                      February 29,     February 28,
+                                                                      2024             2023
+
+Cash Flows From Operating Activities:
+Net income                                                            $ 408,60               $ 328,06
+                                                                        6                      0
+Adjustments to reconcile net income to net
+cash provided by operating activities:
+Depreciation and amortization                                            126,65                115,18
+                                                                         6                     6
+Goodwill Impairment                                                      -                     36,745
+Deferred income taxes                                                    2,190                 8,506
+Stock-based compensation expense                                         19,457                23,636
+Net (gain) loss on marketable securities                                 (16,496       )       3,241
+Net loss (gain) on sales of assets and businesses                        2,576                 (25,881    )
+Other                                                                    1,244                 684
+Changes in assets and liabilities, net of effect
+from purchases and sales of businesses:
+Decrease in receivables                                                  430,51                202,74
+                                                                         2                     2
+
+                                                                                               Page 16 of 17
+                               RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+       Decrease (increase) in inventory                                       55,118          (142,06   )
+                                                                                              9
+       Decrease in prepaid expenses and other                                 30,349          4,807
+       current and long-term assets
+       (Decrease) in accounts payable                                         (83,960   )     (195,09   )
+                                                                                              3
+       (Decrease) in accrued compensation and benefits                        (20,049   )     (54,747   )
+       Increase (decrease) in accrued losses                                  4,366           (2,119    )
+       (Decrease) in other accrued liabilities                                (19,424   )     (40,690   )
+       Cash Provided By Operating Activities                                  941,14          263,00
+                                                                              5               8
+       Cash Flows From Investing Activities:
+       Capital expenditures                                                   (138,09   )     (179,72   )
+                                                                              3               5
+       Acquisition of businesses, net of cash acquired                        (15,549   )     (47,542   )
+       Purchase of marketable securities                                      (30,591   )     (13,173   )
+       Proceeds from sales of marketable securities                           22,130          9,596
+       Proceeds from sales of assets and businesses, net                      5,749           53,318
+       Other                                                                  2,485           2,127
+       Cash (Used For) Investing Activities                                   (153,86   )     (175,39   )
+                                                                              9               9
+       Cash Flows From Financing Activities:
+       Additions to long-term and short-term debt                             -               489,88
+                                                                                              1
+       Reductions of long-term and short-term debt                            (516,08   )     (354,13   )
+                                                                              6               5
+       Cash dividends                                                         (172,60   )     (159,84   )
+                                                                              1               1
+       Repurchases of common stock                                            (37,488   )     (37,500   )
+       Shares of common stock returned for taxes                              (21,949   )     (15,252   )
+       Payments of acquisition-related contingent consideration               (1,082    )     (3,765    )
+       Other                                                                  (1,586    )     (2,689    )
+       Cash (Used For) Financing Activities                                   (750,79   )     (83,301   )
+                                                                              2
+
+       Effect of Exchange Rate Changes on Cash and
+       Cash Equivalents                                                       (3,366    )     (12,110   )
+
+       Net Change in Cash and Cash Equivalents                                33,118          (7,802    )
+
+       Cash and Cash Equivalents at Beginning of Period                       215,78          201,67
+                                                                              7               2
+
+       Cash and Cash Equivalents at End of Period                          $ 248,90         $ 193,87
+                                                                             5                0
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240404574972/en/
+
+
+CONTACT: Matt Schlarb
+Senior Director of Investor Relations
+330-220-6064
+
+mschlarb@rpminc.com
+
+                                                                                     Page 17 of 17
+                              RPM Reports Record Fiscal 2024 Third-Quarter Results
+
+
+http://www.businesswire.com
+
+
+Load-Date: April 4, 2024
 
 
   

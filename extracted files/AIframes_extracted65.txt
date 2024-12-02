@@ -1,64 +1,900 @@
 
 
-                                                                                 Page 1 of 2
-       VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO DETAIL DEBBY'S DAMAGE
+                                                                                                 Page 1 of 16
+     Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                         China in Emerging Technology."; Testimony by Jamil Jaffer,....
 
 
 
 
-      VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO
-                        DETAIL DEBBY'S DAMAGE
-                                                       US Fed News
-                                            August 19, 2024 Monday 12:32 PM EST
+ Senate Banking, Housing and Urban Affairs Committee Hearing; "National
+Security Challenges: Outpacing China in Emerging Technology."; Testimony
+ by Jamil Jaffer, Founder and Executive Director, National Security Institute
+   and NSI Cyber and Tech Center, Antonin Scalia Law School at George
+                             Mason University
+                                           Congressional Documents and Publications
+                                                             January 18, 2024
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Length: 361 words
+Section: U.S. SENATE DOCUMENTS
+Length: 11536 words
 
 Body
 
 
-BLACKSBURG, Va., Aug. 19 -- Virginia Polytechnic Institute and State University issued the following news
-release:
+I.Introduction
 
-On the morning of Aug. 5, Category 1 Hurricane Debby made landfall near Steinhatchee, Florida, then moved up
-the East Coast. The storm flooded nearly 2,200 square kilometers, or 850 square miles, between Florida and New
-York, according to new findings from Virginia Tech's Earth Observation and Innovation Lab.
+Chairman Brown, Ranking Member Scott, and Members of the Committee: thank you for inviting me here today to
+discuss the national security challenges facing our nation when it comes the pursuit of emerging technologies and
+specifically, the very real threat posed by People's Republic of China (PRC) under the leadership of the Chinese
+Communist Party (CCP) in this domain. n2
 
-By Aug. 9, more than 35 million people from South Carolina to Vermont were under flood alerts. Berkeley County,
-South Carolina, saw as much as 14 inches of rain with Charleston reaching 15 inches. Cities and counties along the
-U.S. Atlantic Coast are already vulnerable to flooding caused by land subsidence and sea level rise, a recent
-Virginia Tech study found.
+I want to thank Chairman Brown and Ranking Member Scott for holding this hearing in the context of the Banking
+Committee's work and oversight responsibilities and, in particular, I want to thank both of you for your leadership in
+highlighting the significant relationship between national security and emerging technologies, particularly as we
+think about investment and innovation in the context of the threat posed by the PRC. As you both know, China is
+the key economic and national security challenge facing our nation going forward and our nation's ability to rapidly
+innovate is--and will remain--central to our ability to effectively address this challenge. I also want to thank both of
+you for your leadership in moving forward bipartisan legislative initiatives on challenges related to China, including
+addressing the very real national security threat posed by Fentanyl coming from the PRC through our southern
+border. I hope this hearing will offer us the opportunity to have a candid and frank discussion on these important
+matters.
 
-Associate Professor Manoochehr Shirzaei and his team tracked Debby's impact by leveraging artificial
-intelligence (AI) and big radar satellite data acquired by Sentinel-1 satellites operated by European Space Agency.
+II.The Threat from the People's Republic of China and its Relationship to Technological Innovation and Emerging
+Technologies
 
-Radar microwave signals penetrate clouds and capture detailed images of the Earth's surface, allowing for accurate
-detection of floodwaters. Radar can measure changes in water levels, track flood progression, and provide critical
-data for emergency response and disaster management.
+The defining national security challenge facing the United States today is threat posed by a rising China, a nation
+that not only oppresses its own people, but which also seeks to expand that repression beyond its borders, both
+within its own region as well as across the globe. One need only look at the PRC's treatment of Muslim Uyghurs in
+the Xinjiang region--which two successive U.S. administrations have determined constitutes genocide and crimes
+against humanity n3--its repression of dissent in Hong Kong and Tibet, its military and economic threats against
 
-Shrizaei's team found that nearly 2,200 square kilometers were flooded during and after Debby's landfall between
-Florida and New York with 1.5 percent of the land area in nine counties inundated. Seven counties experienced
-more than 35 square kilometers of inundation.
+                                                                                                Page 2 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
 
-Debby is the fourth hurricane since 2000 to hit Florida in early August. Its heavy rain and strong winds may be
-linked to a warming atmosphere and oceans, which can hold more moisture.
+Taiwan, its belligerent actions against other U.S. allies in the region, including the Philippines, its export of
+surveillance and other repressive technologies across the globe, its theft of core intellectual property from private
+sector companies in the United States and allied nations, its growing cyber infiltrations of U.S. and allied critical
+infrastructure, its attempts to consolidate its control over key critical minerals and strategic metals and to withhold
+access to them, its belligerent posture to America and allied national security priorities in a wide range of regions,
+and its extortion of dozens of countries under the Belt and Road Initiative (BRI), to see just a few examples of the
+massive and growing threat that the China poses to the United States, our allies, and a host of other nations across
+the globe. And this doesn't even account for China's growing political, economic, and military relationships with
+other global repressors like Russia, Iran, and North Korea.
 
-"As extreme weather events like Debby become more common, it's crucial to rethink how we develop flood-prone
-areas along the U.S. East Coast," Shirzaei said. "Investing in resilient infrastructure and promoting public
-awareness are essential steps in preparing for and adapting to future floodings." For any query with respect to this
-article or any other content requirement, please contact Editor at contentservices@htdigital.in
+At the core of this national security threat that the PRC poses to the United States, as well as our global competition
+with China for supremacy--whether in the economic, political, military, or social spheres--is technological innovation,
+including access to and control over critical emerging technologies, particularly artificial intelligence capabilities.
+n4 In recent decades, the PRC has made aggressive moves to build its own technological innovation base and now
+seeks to expand its capabilities. n5 Much of this effort by the PRC initially began by actively seeking to dominate
+the manufacturing market for technology goods, producing equipment at costs well below those achievable in most
+other economies. n6 This was achieved, in significant part, by exploiting the PRC's theft of U.S. intellectual property
+at industrial scale--referred to as the greatest transfer of wealth in modern human history n7-- which was then
+leveraged to create an entire industry of state-owned and state-influenced enterprises that, when combined today,
+generate a tremendous amount of the technology products and capabilities sold around the globe, including
+producing goods on behalf of a number of highly innovative American companies, competing with others, and
+replacing or coopting yet others in the global market. n8 Worse still, the PRC is now going well beyond
+manufacturing-at-scale and is creating innovation on top of this stolen IP and securing its access to data, as it
+recognizes that whichever nation dominates the technology revolution--particularly in emerging technology areas
+like quantum computing, biotechnology, and artificial intelligence (the latter of which is particularly data reliant)--
+will likely also win the larger geopolitical competition. n9
 
-                                                                               Page 2 of 2
-     VIRGINIA TECH RESEARCH TEAM USES AI, SATELLITE IMAGERY TO DETAIL DEBBY'S DAMAGE
+A key aspect of the PRC's effort to lead in the technology domain is its centralized planning efforts that have been
+in place for well over a decade, including its Made in China 2025 line of effort ("PRC 2025"), a "broad set of
+industrial plans that aim to boost competitiveness by advancing China's position in the global manufacturing value
+chain, 'leapfrogging' into emerging technologies, and reducing reliance on foreign firms." n10 This effort aims to
+enable China to "make major technology breakthroughs, lead innovation in specific industries, and set global
+standards" by 2035 and "[l]ead global manufacturing and innovation with a competitive position in advanced
+technology and industrial systems" by 2049, with key areas of focus including next generation IT and
+telecommunications capabilities, high performance computing, advanced robotics, and artificial intelligence. n11
+And in the critically important AI domain, China released a plan back in 2017--long before the public advent of
+highly-capable generative AI in 2022 and even well prior to the enactment of the U.S. National AI Initiative Act of
+2020--to "lead the world in AI by 2030." n12 While ostensibly emphasizing domestic development in these national
+plans, it is clear that the PRC plans to continue to rely on the "acquisition, absorption, and adaptation of foreign
+technology by PRC entities that recast these capabilities as their own," n13 and then build upon these stolen
+technologies to create additional innovation.
+
+China's acquisition of U.S. and allied emerging technology takes place through a range of vectors: (1) outright theft
+of intellectual property; n14 (2) forced technology transfer from companies seeking to enter the Chinese market;
+n15 (3) requiring new market entrants to establish joint ventures with PRC companies; n16 (4) requiring sensitive IP
+to be kept in China; n17 (5) tax incentives to get production and Randamp;D moved to China; n18 (6) acquisition of
+American and allied companies with sensitive technologies directly or through bankruptcy proceedings; n19 (7)
+corporate and government partnerships with U.S. companies, universities, and individual experts or academics,
+including through PRC talent programs and educational pipeline work; n20 and (8) joining and setting the agenda
+for international standards setting bodies. n21 And China has doubled down on these efforts, making clear that it
+will continue to exploit its foreign research connections, use domestic regulatory measures and influence abroad in
+areas like antitrust, IP, and international standards, n22 as well as make massive investments into key emerging
+technology areas, including quantum computing, robotics, artificial intelligence, and cybersecurity, n23 both
+
+                                                                                                Page 3 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+directly and by offering low-interest and no-interest loans and massive state-driven subsidies--totaling well-over a
+trillion dollars--to enable its companies to compete more favorably in global markets, n24 while also using board
+seats influence corporate decision-making. n25
+
+We know also that China is actively working to get other nations to put Chinese national champion technology
+capabilities--from telecoms to chips--at the heart of their networks, n26 and that it continues to build out its STEM
+workforce, proactively recruiting leading STEM players from around the world, n27 and, having already passed the
+U.S. in the number of annual Ph.Ds awarded many years back, some estimate that the PRC may annually graduate
+nearly double the number of STEM Ph.Ds as the U.S. in the near future. n28 All of these efforts are also buttressed
+by China's longer-term efforts to secure its access to critical minerals, strategic metals, and energy resources, from
+production to processing, n29 and its parallel efforts to exclude U.S. and allied partners from access to such
+resources, all of which are critical to our technological and industrial innovation base. n30
+
+III.The Need for a Strong U.S. Government Response to the Emerging Technology Threat from China
+
+The United States has thus far used a variety of tools to push back on unfair PRC technology practices, including IP
+theft and forced technology transfers, n31 "ramped up law enforcement to counter China's theft of U.S. IP,
+restricted certain PRC firms from U.S. infrastructure, started to scrutinize China's role in federally funded research,"
+n32 and focused efforts on stopping the PRC's exploitation of U.S. technology researchers in academia and
+industry. n33 The Administration has also sought to work both independently and with our allies, like the EU, to limit
+technology transfers to China in critical areas like aerospace technologies n34 and semiconductors, n35 and has
+begun the process of identifying categories of outbound investments that ought be reported or restricted. n36
+Congress, for its part, has provided for additional review of Chinese transactions in the United States, n37
+enhanced American export control laws, n38 and made major new RandD and production investments and
+commitments to fund new efforts in areas like semiconductors, n39 critical minerals, n40 basic science research,
+n41 OPEN-RAN, n42 and other emerging technologies under the CHIPS and Science Act. n43
+
+At the same time, significantly more needs to be done if we are to successfully and effectively take on the threat
+that China poses to our economic and national security.
+
+First, when it comes to government action, there is no question that the United States government to needs to
+expand its efforts and provide the requisite funding necessary to support key basic science research, including
+providing appropriations for some of the key programs authorized in the CHIPS and Science Act, n44 as this type of
+funding has historically supported major breakthroughs in areas like biosecurity, high-performance and accelerated
+computing, quantum computing, and artificial intelligence, to name just a few. n45 For those concerned that such
+funding might involve the government too directly in private markets, it is worth noting that the kind of core capability
+development driven by basic science research is often well removed from the goods that actually enter the market,
+and government funding has long played a central role in providing support for the kind innovation that is
+fundamental to our security interests, from defense technology to telecommunications. Such early-stage base
+funding is particularly important when the applied business uses cases may not be obvious enough to attract core
+private funding. n46
+
+Second, to ensure the U.S. is able to effectively compete with China, the government should provide significant tax
+and other economic incentive to startups, as well as other companies that can rapidly and massively scale up
+(therefore effectively compete with Chinese national champions)--and remove existing regulatory and other
+barriers--for increased private basic and applied RandD investment in critical emerging technology areas like: (1)
+high-performance and accelerated computing; (2) quantum technology; (3) cloud and edge computing capabilities,
+particularly for the warfighter; (4) AI/ML capabilities, including generative AI, as well as capabilities to enhance the
+trust, safety, and security of AI-enabled systems; (5) design and production, in the United States and allied nations,
+of both commodity and bleeding-edge semiconductors, particularly for artificial intelligence and other critical
+applications; (6) production and processing, in the United States and allied nations, of critical minerals necessary
+for national security and technology applications; and (7) enhanced cybersecurity efforts and protection of
+intellectual property.
+
+                                                                                                Page 4 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+Third, while incentivizing such investments, U.S. and allied governments (across both the legislative and executive
+branches), should also ensure that they are not actively taking action--whether through overregulation or otherwise-
+-that would undermine the ability of key American and allied companies to scale their capabilities, disincentivize
+innovation and investment in critical emerging technologies, or take advantage of new innovations in a manner that
+allows us to actively stay ahead of the PRC. This means, for example, not adopting significant new regulatory or
+administrative policies--including adopting new laws or gerrymandering enforcement efforts to focus on a narrow set
+of technology leaders--that would undermine the ability of the United States to effectively compete on a global scale
+and thereby undermine our economic and national security. This also includes, for example, modifying longstanding
+and highly effective antitrust laws to intentionally target some of the most innovative and scalable companies in the
+AI space, n47 particularly given that there is no clear reason to believe existing law can't address any legitimate
+concerns. n48 Indeed, requiring successful American technology companies to give foreign competitors deep
+access to their hardware and software, bypassing traditional security controls, could create a massive nightmare
+and undermine our economic and national security. n49 Ensuring we have the right incentives in place also means
+recognizing that overaggressive or selective enforcement of existing laws in other domains--including the
+environmental and sanctions context--can undermine larger innovation policy efforts. n50 To the extent the
+government has discretion in how the laws or regulatory policies are to be enforced, it should be done in an
+evenhanded manner and should account for the innovation impacts of such enforcement as well.
+
+Fourth, it is critical that the United States both create a STEM-capable workforce here in the United States. In doing
+so, Congress funding some of the key workforce-related programs authorized in the CHIPS and Science Act, n51
+and should consider redirecting existing resources and providing new resources to states in the form of block
+grants, n52 and encouraging them to deploy these grants through public schools, public charter schools (some of
+which have highly innovative curricula in the technology domain), n53 and, as appropriate, private institutions. This
+effort must be partnered with programs that provide incentives innovators and entrepreneurs to stay, develop new
+technology, and build businesses in the United States over the long-term, including tax benefits for building new
+startups in the U.S. and hiring American workers to develop code. Of course, this is a long-term plan, and the fact of
+the matter is that we need to fill the significant existing technology worker gap now. n54 To do so, we must
+fundamentally reform our broken immigration system to ensure that we are recruiting and retaining the best and
+brightest minds the world has to offer. Our current immigration system makes little sense, in that it allows a wide
+range of undergraduate and graduate students to benefit from our world-class higher education system, but then--
+with exception of the small number that are able to obtain H-1B visas or otherwise stay in the United States--forces
+them to return home and build their businesses abroad. n55 Indeed, this poorly thought-out policy actually forces
+American companies to hire high-skilled workers abroad and deprives our own economy of the benefits of their
+employment here, including the tax revenues and spending of these high-skilled, high-wage workers. n56 There is
+no reason why--other than the obvious political challenges--the United States couldn't create a much more sensible
+immigration system that prioritizes those with the key skills we need and provides for a stringent pre-admission
+vetting to address potential IP theft and foreign intelligence concerns. Such a system could provide both a path to
+work and permanent residency for those that build successful businesses here. Such a system would stand in
+sharp contrast to the current lottery system which provides a level of randomness that makes little, if any, sense.
+Examples of ideas that might move us in the right direction can be found in a recent CSIS report, n57 and in more
+limited form in earlier versions of the CHIPS and Science Act, as well as in other proposals that have garnered
+bipartisan support. n58 The ongoing failure to address the very real problem created by our immigration system
+today, as well as the long-term challenge in our educational system when it comes to STEM education is, without a
+doubt, creating significant national security risk at a time when the U.S. can least afford it, particularly as our
+adversaries look to take advantage.
+
+Fifth, the government could do more to identify, target, and limit strategic Chinese investment in the United States.
+Our current laws remain challenged in addressing the threat from China, because they apply in a "country-agnostic
+[manner], treating investment from foreign adversary countries like the PRC the same as that of any other country"
+and also don't provide jurisdiction over certain critical technologies and joint ventures, among other things. n59 The
+China Select Committee in the House of Representatives has recently suggested some potential changes to
+existing laws that are worth taking seriously. n60
+
+                                                                                                Page 5 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+IV. The Critical Role of Private Actors in Emerging Technology Innovation and the Need for Government and
+Industry to Work Collaboratively to Protect Our National Security
+
+Today, private sector research and development funding represents 70% of all RandD expenditures in the United
+States, n61 with technology companies leading the way, making up seven of the top ten RandD spenders, including
+all of the top five. n62 It is this expenditure on core RandD--along with the ability to rapidly iterate and innovate,
+enabled by a permissive economic and legal environment, and the availability of significant amounts of venture and
+growth capital, as well as a highly- skilled workforce--that makes the U.S. the technology innovation hub of the
+globe.
+
+These capabilities are not only at the heart of America's economic success, they are also a core reason why our
+national defense capabilities remain relatively unmatched across the globe today. As such, rather than limiting the
+capabilities of the top RandD investors in the U.S. to continue to make such investments--including the technology
+companies that are in the top five RandD spenders in the nation--it is precisely this RandD spend that the U.S.
+government and our allies ought be encouraging companies to scale up. Likewise, as noted above, to ensure the
+U.S. remains a leader in innovation and investment, we must keep in place and expand on the kind of economic
+incentives and regulatory structures that have worked so well thus far, and must avoid the temptation to artificially
+restrain successful innovators--whether startups or otherwise--in the absence of actual, demonstrable bad behavior.
+
+There is also critical room for private action as well. Free and open societies grounded in economic liberty, like the
+United States, are the engine that drives technological innovation and the expansion of economic opportunities for
+people around the globe. The fact of the matter is that financial investors and capital allocators (whether venture
+capitalists, private equity investors, or their respective limited partners), as well as the entrepreneurs, startups, and
+established companies building innovative capabilities in critical areas of emerging technologies, all benefit from
+being in the United States and key allied countries, particularly because of the economic and political systems that
+undergird our nations.
+
+As such, it is reasonable to expect that the financial investors, entrepreneurs, and companies that benefit from
+these advantages, while seeking significant returns for their investors and powerful capabilities for their customers,
+ought be incentivized to voluntarily take action, consistent with their own investment and corporate mandates and
+objectives, to invest in innovation and capabilities that support the United States and our allies, including those
+capabilities that will enhance the collective defense of our nations. This includes actively promoting innovation in
+key emerging technologies, like artificial intelligence, cloud and edge computing, quantum computing,
+cybersecurity, and underlying capabilities like critical minerals, semiconductors, high performance and accelerated
+computing, as well as capabilities that enhance the trust, safety, and security of such technologies. Likewise, such
+financial investors and companies that work in critical emerging technology areas ought also be incentivized to
+voluntarily avoid investments and transfer of capabilities or technology to adversary nations. Such efforts undermine
+American and allied technological advantage and harm our economic and national security, and thus make it harder
+to protect the very system that permits the innovation and capital allocation that these organizations rely upon in the
+daily course of their businesses.
+
+Unfortunately, there is evidence that suggests American investors and companies are making significant
+investments in leading-edge Chinese companies, including in the artificial intelligence arena. n63 Indeed, by one
+metric, U.S. investors "accounted for nearly a fifth of investment deals in Chinese AI/ML companies from 2015 to
+2021." n64 Countering the PRC's effort to establish technology supremacy also requires starving the CCP of its
+economic lifeblood, capital from abroad, particularly in the form of U.S. investment capital which, while perhaps a
+small relative amount, nonetheless provides a key signaling function to others. Given the alignment of interests, it is
+reasonable to expect that some of amount of voluntary action might be sufficient to address some of the key
+challenges in the current investment environment.
+
+To the extent private action alone does not achieve these goals immediately--whether on investment dollars or
+technology provision--the government ought be cautious not to reach immediately for the regulatory stick. Rather,
+additional carrots, like the tax and research and development incentives noted above, could have some success in
+
+                                                                                                Page 6 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+achieving governmental objectives, as they help ensure that the interests of all actors are fully aligned. Forcing
+companies or investors to do things that are against their financial interests simply ensures that rational economic
+actors will seek ways around such rules, complying with the specific provisions required, but also taking action
+where law or regulation permits. It is therefore critical that government and industry work together to create the right
+tax and regulatory incentives to ensure that American and allied companies invest their money here (and in allied
+nations) to create much-needed capacity and to ensure that we have the skilled workers necessary to build and
+maintain this capacity. Moreover, where government does need to act to specifically bar certain investment or
+technology export activity--potentially even by regulation or statute in critical industries at the heart of U.S. national
+security like high performance computing, semiconductors, critical minerals, cloud computing, artificial
+intelligence, and quantum computing--clear rules of the road are critical. n65 Likewise, the government ought be
+sure to avoid using taxpayer dollars to companies that are spending capital on advanced capabilities in competitor
+nations or transferring advanced technology to such nations, like the PRC. n66
+
+This also means the government needs to take action to open new markets and create the right kind of structures
+that allow and encourage innovative American business to not only sell to or manufacture in nations that are
+already aligned with the United States, but also to do so with nations that we would like to see increasingly align
+with us. The government also ought work with industry to ensure that low-cost capital is available for critical
+emerging technology companies. n67
+
+Seeking address the national security threat presented by China standing alone--whether as individual nations or as
+existing blocs like the EU or the African Union--is also simply untenable. It is critical that the U.S. and our allies work
+hand-in-hand to address these challenges and stave off the depredations of the PRC. We must find a way to make
+common cause with our longstanding allies in both Europe and in the Indo-Pacific, as well as the Middle East and
+Africa, and we must avoid allowing nations that are notionally in our allied bloc from shifting their allegiances and
+policies towards the PRC. n68
+
+Likewise, as we think about the role of allies and the relationship of our most innovative private sector actors taking
+advantage of opportunities in the overseas markets, it is critical that we discourage our allies from implementing
+legislation that undermines the ability of American companies to fairly compete. n69 For example, nations in Europe
+and the EU itself have sought to enact and implement aggressive regulatory legislation, including the General Data
+Protection Regulation (GDPR), the Digital Markets Act (DMA), the Digital Services Act (DSA), and the new AI Act,
+as well as a range of data sovereignty measures, in ways that makes it difficult for American innovation to reach
+Europe and limit the access of innovative US industry to the European market. Similar challenges have appeared in
+the Indo-Pacific as well. n70 The record is clear that these efforts--at least in Europe--are designed not to enhance
+competition but to limit it. n71 Given this backdrop, it is incumbent upon the Executive Branch to more aggressively
+press our allies to align efforts across the Atlantic, including amongst Five Eyes nations, and ensure that we are not
+taking actions that undermine our collective efforts. Moreover, as some advocate for the government to consider
+similar regulatory or legislative action in the United States, n72 it is worth noting that it is the very lack of such
+efforts that have made the United States so innovative as compared to Europe on a range of metrics, including
+GDP growth, n73 the creation of highly successful, highly innovative businesses, n74 and building private
+companies whose technology innovations have a massive benefit for national and economic security. n75 Indeed,
+such measures make little sense at a time when the key threat to our nations collectively, comes not from within the
+alliance, but from a rising superpower, like China, that is actively hostile to the world order crafted by the alliance.
+Indeed, there is support amongst the publics in the U.S. and in our allied nations for increased collaboration on
+technology and security issues with respect China. n76
+
+V. The Critical Transformative Capability of Artificial Intelligence.
+
+AI has the potential to have a massively transformative effect on human society, raising all boats, creating new
+innovation and capability, and allowing a broad range of workers to do ordinary tasks significantly more efficiently,
+while also freeing innovators to create even more productive tools and capabilities. n77
+
+                                                                                                 Page 7 of 16
+     Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                         China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+While much has been written about the potential of AI to cause significant harm, key claims have been so
+overwrought and lacking in substance as to undermine their own credibility n78 or have later been determined to be
+inaccurate. n79
+
+The best approach to protecting U.S. economic and national security in the context of AI--a rapidly moving area of
+technology innovation where a key consideration is ensuring that government regulation does not crush innovation
+and deprive society of AI's potentially massive benefits--is one that allows innovation to flourish, stepping cautiously
+to address legitimate concerns where regulation may be warranted and appropriate, based on traditional
+considerations like demonstrable market failures.
+
+As such, rather than rushing to broad-based regulation, as the European Parliament is doing with the AI Act, n80
+imposing significant burdens that may not be directly regulatory but are likely to have a regulatory impact, n81 or
+directly limiting AI capabilities or applications, n82 the wiser approach, consistent with the American approach to
+innovation, would be to prioritize the voluntary adoption of industry-driven frameworks, before moving to a more
+traditional regulatory posture. n83 To that end, encouraging those closest to the actual creation of the technology--
+the companies, innovators, and investors at the cutting-edge of AI--to craft potential frameworks and industry best
+practices that might guide the trusted, safe, and secure development and implementation of these technologies, is
+likely the best approach in the near term. Indeed, providing safe harbors for the implementation of industry best
+practices and compliance with voluntary, industry-led standards might be a good place for Congress and the
+Administration to start as they consider potential further action.
+
+VI. Conclusion
+
+For at least a half century, if not significantly longer, the United States has been the world's leading engine of
+innovation and investment, driving much of the growth and development of the global information infrastructure,
+including the Internet as we know it today, and developing the leading-edge technologies that are creating to the
+new and novel capabilities of today, like generative artificial intelligence. This innovation engine has benefitted the
+United States economically, politically, and militarily, and has provided the very capabilities that have cemented the
+United States as a global superpower. Today, however, the PRC poses a major strategic challenge to America and
+our allies across the entire economic and national security landscape. There is little chance that standing alone, any
+one nation or current bloc of nations will successfully be able to confront and beat China when it comes to
+economics and (soon) military might. Nor will the any government be able to do it without the cooperation of its
+private sector. Given the centrality of technology innovation to our economic, political, and military success going
+forward--and the critical role of the private sector, including investors, innovators, entrepreneurs, and companies
+alike, in such innovation--it is critical that the United States act now to quickly and significantly shore up our ability to
+ensure we remains the technology capital of the globe, and that we and our allies, working together, are able to
+leverage joint technology innovation, research, and development, as well as combined production capabilities to
+gain a significant measure of economic independence from the PRC. Given our leading position today and the clear
+effort by China to try to take the pole position, if we fail to maintain this advantage now and into the future, we will
+have no one to blame but ourselves.
+
+n1 Jamil N. Jaffer currently serves as Founder and Executive Director of the National Security Institute and the NSI
+Cyber and Tech Center and as an Assistant Professor of Law and Director of the National Security Law and Policy
+and Cyber, Intelligence and National Security Programs at the Antonin Scalia Law School at George Mason
+University. Mr. Jaffer is also a Venture Partner at Paladin Capital Group, a leading global multi-stage investor that
+identifies, supports and invests in innovative companies that develop promising, early-stage technologies to
+address the critical cyber and advanced technological needs of both commercial and government customers.
+Among other things, Mr. Jaffer previously served as Chief Counsel and Senior Advisor to the Senate Foreign
+Relations Committee, Senior Counsel to the House Intelligence Committee, Associate Counsel to President George
+W. Bush in the White House, and Counsel to the Assistant Attorney General for National Security in the U.S.
+Department of Justice. Mr. Jaffer is testifying before the Senate Banking Committee in his personal and individual
+capacity and is not testifying on behalf of any organization or entity, including but not limited to any current or former
+employer.
+
+                                                                                                Page 8 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n2 Significant portions of this testimony have been drawn in whole or in part from an NSI Decision Memo entitled
+Addressing the National Security Threat of Chinese Technological Innovation by Jamil N. Jaffer published in July
+2023. Because much of this testimony is drawn directly from that paper, citations to that paper and quotation marks
+for portions of this testimony drawn from that paper have been omitted, including where significant portions are
+excerpted verbatim. Professor Jaffer would like to thank Devlin Birnie, Jessica Jones, Harrison McClintock, and
+Alex Tokie for their excellent research and editing assistance with the original paper. The original paper can be
+found      at:      https://nationalsecurity.gmu.edu/addressing-the-national-security-threat-of-chinese-technological-
+innovation-2/.
+
+n3 See Michael R. Pompeo, Press Statement: Determination of the Secretary of State on Atrocities in Xinjiang,
+United States Department of State (Jan. 19, 2021), available online at https://2017-2021.state.gov/determination-of-
+the-secretary-of-state-on-atrocities-in-xinjiang/ ("After careful examination of the available facts, I have determined
+that since at least March 2017, the People's Republic of China (PRC), under the direction and control of the
+Chinese Communist Party (CCP), has committed crimes against humanity against the predominantly Muslim
+Uyghurs and other members of ethnic and religious minority groups in Xinjiang....In addition, after careful
+examination of the available facts, I have determined that the PRC, under the direction and control of the CCP, has
+committed genocide against the predominantly Muslim Uyghurs and other ethnic and religious minority groups in
+Xinjiang. I believe this genocide is ongoing, and that we are witnessing the systematic attempt to destroy Uyghurs
+by the Chinese party-state."); see also, e.g., United States Department of State, 2021 Country Reports on Human
+Rights Practices: China (Includes Hong Kong, Macau, and Tibet) (Apr. 12, 2022), available online at
+https://www.state.gov/reports/2021-country-reports-on-human-rights-practices/china/ ("Genocide and crimes
+against humanity occurred during the year against predominantly Muslim Uyghurs and members of other ethnic and
+religious minority groups in Xinjiang.")
+
+n4 See, e.g., The White House, National Security Strategy (Oct. 2022), at 23, available online at
+https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden- Harris-Administrations-National-Security-Strategy-
+10.2022.pdf ("The PRC is the only competitor with both the intent to reshape the international order and,
+increasingly, the economic, diplomatic, military, and technological power to do it...It is using its technological
+capacity and increasing influence over international institutions to create more permissive conditions for its own
+authoritarian model, and to mold global technology use and norms to privilege its interests and values."); Xi
+Jingping, Speech to Members of the Chinese Academy of Sciences, the Chinese Academy of Engineering, and the
+National Congress of China Association for Science and Technology (May 28, 2021) (translated by Zichen Wang),
+available online at https://www.pekingnology.com/p/xi-jinpings-speech-on- science-and?s=r ("[S]cientific and
+technological innovation has become the main battlefield of the international strategic game, and the competition
+around the commanding heights of science and technology is unprecedentedly fierce.").
+
+n5 See, e.g., Tarun Chhabra, et. al, Executive Summary - Global China: Assessing China's Growing Role in the
+World, Brookings Institution (Apr. 2020), available online at https://www.brookings.edu/articles/global-china-
+technology/ ("China's rapid technological advances are playing a leading role in contemporary geopolitical
+competition....While the U.S. has maintained its position as the technologically dominant power for decades, China
+has made enormous investments and implemented policies that have contributed significantly to its economic
+growth, military capability, and global influence. In some areas, China has eclipsed, or is on the verge of eclipsing,
+the United States -- particularly in the rapid deployment of certain technologies."); Bloomberg News, How China
+Aims to Counter US 'Containment' Efforts in Tech, Washington Post (Mar. 30, 2023), available online at
+https://www.washingtonpost.com/business/2023/03/30/explainer-how-china-aims-to-counter-us-containment-efforts-
+in-tech/cea71f0c-cf1d-11ed-8907-156f0390d081_story.html).
+
+n6 See Wayne M. Morrison, China's Economic Rise: History, Trends, Challenges, and Implications for the United
+States,     Congressional     Research     Service    (June     25,  2019),    at   23,     available  online    at
+https://crsreports.congress.gov/product/pdf/RL/RL33534 ("China's abundance of low-cost labor has made it
+internationally competitive in many low-cost, labor-intensive manufactures. As a result, manufactured products
+constitute a significant share of China's trade. A substantial amount of China's imports is comprised of parts and
+
+                                                                                                 Page 9 of 16
+     Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                         China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+components that are assembled into finished products, such as consumer electronic products and computers, and
+then exported.")
+
+n7 See, e.g., Keith B. Alexander, Prepared Statement of GEN (Ret) Keith B. Alexander, A Borderless Battle:
+Defending Against Cyber Threats, House Committee on Homeland Security (Mar. 22, 2017), available online at
+https://www.congress.gov/115/meeting/house/105741/witnesses/HHRG-115-HM00-Wstate-AlexanderK-
+20170322.pdf ("[T]he ongoing theft of intellectual property from American companies...continues to represent the
+greatest transfer of wealth in human history."); Senator Carl Levin, Opening Statement of Chairman Carl Levin in
+Hearing to Receive Testimony on U.S. Strategic Command and U.S. Cyber Command in Review of the Defense
+Authorization Request for Fiscal Year 2013 and the Future Years Defense Program, Senate Armed Services
+Committee (Mar. 27, 2012), at 3, available online at https://www.armed-services.senate.gov/imo/media/doc/12-
+19%20-%203-27-12.pdf ("General Alexander has stated that the relentless industrial espionage being waged
+against U.S. industry and Government chiefly by China constitute 'the largest transfer of wealth in history.'").
+
+n8 See, e.g., Special Competitive Studies Project, Generative AI: The Future of Innovation Power (Oct. 2023), at 3
+and     n.6   (collecting   sources),   10-12     and   23,    available   online    at    https://www.scsp.ai/wp-
+content/uploads/2023/10/economy.pdf; Brady Helwig, et al., National Action Plan for Advanced Compute and
+Microelectronics, Special Competitive Studies Project (Nov. 2023), at 8-9, 13, 32, and 39, available online at
+https://www.scsp.ai/wp-content/uploads/2023/11/National-Action-Plan-for-U.S.-Advantage-in-Advanced-Compute-
+and-Microelectronics.pdf; see also, e.g., John Miller and Sacha Wunsch-Vincent, High-Tech Trade Rebounded
+Strongly in the Second Half of 2020, with New Asian Exporters Benefiting (Mar. 15, 2021), available online at
+https://www.wipo.int/pressroom/en/news/2021/news_0001.html.
+
+n9 Id.
+
+n10 See Karen M. Sutter, "Made in China 2025" Industrial Policies: Issues for Congress, Congressional Research
+Service (Mar. 10, 2023), at 1, available online at https://crsreports.congress.gov/product/pdf/IF/IF10964.
+
+n11 Id.
+
+n12 See SCSP, Generative AI, supra at n. 8, at 3 and n. 6.
+
+n13 Id.
+
+n14 See, e.g., Office of the U.S. Trade Representative, 2023 Special 301 Report, Executive Office of the President,
+The White House (Apr. 2023), at 9, 22-23, 45-47, available online at https://ustr.gov/sites/default/files/2023-
+04/2023Special301Report.pdf; see also Keith B. Alexander and Jamil N. Jaffer, China Is Waging Economic War on
+America. The Pandemic Is an Opportunity to Turn the Fight Around, Barron's (August 4, 2020), available online at
+https://www.barrons.com/         articles/china-is-waging-cyber-enabled-economic-war-on-the-u-s-how-to-fight-back-
+51596587400.
+
+n15 Id.
+
+n16 See, e.g., Sean O'Connor, How Chinese Companies Facilitate Technology Transfer from the United States,
+U.S.-China Economic Security Review Commission, at 7 (May 6, 2019), available online at
+https://www.uscc.gov/sites/default/files/Research/HowChineseCompaniesFacilitateTechTransferfromtheUS.pdf
+
+n17 Id. at 8.
+
+n18 See, e.g., Erica York, et al., Comparing the Corporate Tax System in the U.S. and China, Tax Foundation, at 4
+(May 2022), available online at https://files.taxfoundation.org/20220502152914/Comparing-the-Corporate-Tax-
+Systems-in-the-United-States-and-China.pdf.
+
+                                                                                              Page 10 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n19 See, e.g., Cory Bennet and Bryan Bender, How China Acquires 'The Crown Jewels' of U.S. Technology,
+Politico (May 22, 2018), available online at https://www. politico.com/story/2018/05/22/china-us-tech-companies-
+cfius-572413; Camille A. Stewart, Full Court Press: Preventing Foreign Adversaries from Exfiltrating National
+Security Technologies Through Bankruptcy Proceedings, 10 J. Nat'l Security L. and Pol'y 277, 279-82 (2019).
+
+n20 See, e.g., Alison Snyder, China Talent Program Increased Young Scientists' Productivity, Study Says, Axios
+(Jan. 10, 2023), available online at https://www. axios.com/2023/01/10/china-funding-young-scientists-productivity;
+see also Emily S. Weinstein, Chinese Talent Program Tracker, Center for Security and Emerging Technology,
+Georgetown University (Nov. 2020), available online at https://cset.georgetown.edu/publication/chinese-talent-
+program- tracker/; Federal Bureau of Investigation, The China Threat - Chinese Talent Plans Encourage Trade
+Secret    Theft,    Economic      Espionage,     Federal    Bureau      of  Investigation,  available online     at
+https://www.fbi.gov/investigate/counterintelligence/the-china-threat/chinese- talent-plans.
+
+n21 See, e.g., Arjun Gargeyas, China's '2035 Standards' Quest to Dominate Global Standard-Setting, Hinrich
+Foundation (Feb. 21, 2023), available online at https:// www.hinrichfoundation.com/research/article/trade-and-
+geopolitics/china-2035-standards-project-restructure-global-economy/.
+
+n22 See Sutter, Made in China 2025, supra n. 10 at 2 ("Similarly, the FYP calls for an expanded use of antitrust, IP,
+and standards tools--in China and extraterritorially--to set market terms and promote the export of MIC2025 goods
+and services now coming to market. The FYP also emphasizes the value of China's foreign research ties in
+developing China's own competencies in a range of MIC2025 technology areas.").
+
+n23 See id.
+
+n24 See, e.g., Jill C. Gallagher, U.S. Restrictions on Huawei Technologies: National Security, Foreign Policy, and
+Economic Interests, Congressional Research Service (Jan. 5, 2022), at 7-8, available online at
+https://crsreports.congress.gov/product/pdf/R/R47012/2 (describing how "[n]ational champions [in China], including
+Huawei, received preferential policy treatment, access to low-cost financing, Randamp;D funding, and tax
+benefits"); see also, e.g., Ann Harrison, et al., Can a Tiger Change Its Stripes? Reform of Chinese State-Owned
+Enterprises in the Penumbra of the State, NBER Working Paper No. 25475 (Jan. 2019), at 24, available online at
+https://www.nber.org/system/files/working_papers/w25475/w25475.pdf (noting that former Chinese state-owned
+enterprises, like SOEs themselves, generally "retain ready access to large loans, concessionary interest rates, and
+outright subsidies").
+
+n25 See, e.g., Scott Livingston, The New Challenge of Communist Corporate Governance, Center for Strategic and
+International Studies (Jan. 2021), at 2-4, available online at https://csis-website-prod.s3.amazonaws.com/s3fs-
+public/publication/210114_Livingston_New_Challenge.pdf.
+
+n26 See Joshua Kurlantzick, Assessing China's Digital Silk Road Initiative, Council on Foreign Relations (Dec. 18,
+2020), available online at https://www.cfr.org/ china-digital-silk-road/; Chang Che and John Liu, 'De-Americanize':
+How China Is Remaking Its Chip Business, New York Times (May 11, 2023), available online at https://www.
+nytimes.com/2023/05/11/technology/china-us-chip-controls.html.
+
+n27 See, e.g., Eric Schmidt, To Compete With China on Tech, America Needs to Fix Its Immigration System,
+Foreign Affairs (May 16, 2023), available online at https://www.foreignaffairs.com/united-states/eric-schmidt-
+compete-china-tech-america-needs-fix-its-immigration-system ("While the United States' dysfunctional system
+increasingly deters the world's top scientists, researchers, and entrepreneurs, other countries are proactively
+recruiting them. China is particularly active in doing so, with direction coming from the very top.").
+
+n28 See, e.g., Karin Fischer, China Outpaces U.S. in STEM, Georgetown Center for Security and Emerging
+Technology, Latitudes (Aug. 9, 2021), available online at https://cset.georgetown.edu/article/china-outpaces-u-s-in-
+stem/. ("China could graduate nearly twice as many STEM PhDs as the United States by 2025...China overtook the
+U.S. in PhD production in 2007 and has steadily increased its lead ever since.").
+
+                                                                                              Page 11 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n29 See Jane Nakano, The Geopolitics of Critical Minerals Supply Chains, Center for Strategic and International
+Studies, at 5 (March 2021), available online at https://csis-website-prod.s3.amazonaws.com/s3fs-
+public/publication/210311_Nakano_Critical_Minerals.pdf.
+
+n30 See, e.g., Arjun Kharpal, What are Gallium and Germanium? China Curbs Exports of Metals Critical to Chips
+and Other Tech, CNBC (July 4, 2023), available online at https://www.cnbc.com/2023/07/04/what-are-gallium-and-
+germanium-china-curbs-exports-of-metals-for-tech.html),              available            online              at
+https://www.reuters.com/markets/commodities/      chinas-rare-earths-dominance-focus-after-mineral-export-curbs-
+2023-07-05/.
+
+n31 See, e.g., Office of the U.S. Trade Representative, Section 301 Investigation Fact Sheet, Executive Office of
+the President, The White House (June 2018), available online at https://ustr.gov/about-us/policy-offices/press-
+office/fact-sheets/2018/june/section-301-investigation-fact-sheet (noting that the Trump Administration invoked
+Section 301 authorities and imposed tariffs on most imports from China in response to findings that China's IP
+policies harmed U.S. stakeholders); see also Sutter, Made in China 2025, supra n. 10 at 2 (noting that a January
+2020 bilateral economic and trade agreement resulted in some IP and technology transfer commitments by China
+but left most U.S. concerns unresolved).
+
+n32 Sutter, Made in China 2025, supra n. 10 at 2; see also, e.g., Ana Swanson, Trump's Trade War With China is
+Officially   Underway,      New      York      Times       (July     5,   2018),     available   online     at
+https://www.nytimes.com/2018/07/05/business/china-us-trade-war-trump-tariffs.html.
+
+n33 See, e.g., Snyder, China Talent Program, supra n. 20.
+
+n34 See Sutter, Made in China 2025, supra n. 10 at 2.
+
+n35 See, e.g., Tim Kelly, et al., Japan, Netherlands to Join U.S. in Restricting Chip Equipment Exports to China,
+Bloomberg Reports, Reuters (Jan. 27, 2023), available online at https://www.reuters.com/technology/japan-
+netherlands-join-us-china-chip-controls-bloomberg-2023-01-27/.
+
+n36 See The White House, Executive Order on Addressing United States Investments in Certain National Security
+Technologies and Products in Countries of Concern (Aug. 9, 2023), available online at
+https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/09/executive-order-on-addressing-united-
+states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/.
+
+n37 See John S. McCain National Defense Authorization Act for Fiscal Year 2019, Pub. L. No. 115-232, [Subsec.]
+1701-28 (2018) (Foreign Investment Risk Review Modernization Act of 2018).
+
+n38 See, e.g., Michael Geffroy and Andy Keiser, NSI Policy Brief: Restricting U.S. Outbound Investment to
+Targeted Chinese Sectors, National Security Institute, George Mason University Scalia Law School (May 2023),
+available online at https://nationalsecurity.gmu.edu/restricting-u-s-outbound-investment-to-targeted- chinese-
+sectors/ (discussing export control authorities and the importance of stepping cautiously).
+
+n39 See CHIPS Act of 2022, Pub. L. No. 117-167, [Sec.] 103 (2022).
+
+n40 See, e.g., Infrastructure Investment and Jobs Act, Pub. L. No. 117-58, [Subsec.] 40206, 40210 (2021).
+
+n41 See, e.g., Pub. L. No. 117-167, [Subsec.] 10102-103, 10105-113, 10348-362 (2022).
+
+n42 See CHIPS Act, supra n. 39, [Sec.] 106; see also National Telecommunications and Information Administration,
+Wireless Innovation Fund Notice of Funding Opportunity, U.S. Dept. of Commerce (Apr. 12, 2023), available online
+at https://www.ntia.gov/issues/innovation-fund/notice-of-funding-opportunity.
+
+n43 See, e.g., Pub. L. No. 117-167, [Subsec.] 10104, 10230, 10374 (2022)
+
+                                                                                              Page 12 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n44 See, e.g., Pub. L. No. 117-167, [Subsec.] 10101-114 (basic science); [Subsec.] 10221-235 (basic science);
+[Subsec.] 10311-321 (STEM education and workforce) and [Subsec.] 10501-526 (STEM education and workforce).
+
+n45 See James Manyika et al., Innovation and National Security - Keeping Our Edge, Council on Foreign Relations
+(Sep.      2019),     at     2,     19,   available     online    at     https://   www.cfr.org/report/keeping-our-
+edge/pdf/TFR_Innovation_Strategy.pdf ("Federally supported RandD had a dramatic impact on U.S.
+competitiveness and national security. According to a 2019 study, starting in the 2010s nearly one-third of patented
+U.S. inventions relied on federally funded science []. Touch screens, the Global Positioning System (GPS), and
+internet technologies central to the smartphone are all products of Defense Department research...Between 1988
+and 2010, $3.8 billion of federal investment in genomic research generated an economic impact of $796 billion and
+created 310,000 jobs. A new wave of support for basic research could have similar economic and military
+benefits."); see also Jamie Gaida et al., ASPI's Critical Technology Tracker: The Global Race for Future Power,
+Australian Strategic Policy Institute (Feb. 2023), at 1, available online at https://ad-aspi.s3.ap-southeast-
+2.amazonaws.com/2023-03/ASPIs%20Critical%20 Technology%20Tracker_0.pdf (noting that "China's global lead
+extends to 37 out of 44 technologies that ASPI is now tracking, covering a range of crucial technology fields
+spanning defense, space, robotics, energy, the environment, biotechnology, artificial intelligence (AI), advanced
+materials and key quantum technology areas").
+
+n46 See id. at 21 ("Public spending on basic science drives discoveries that would have been too big and risky for a
+private company to undertake. In effect, federal investment funds RandD with national economic, strategic, and
+social returns, while private sector RandD is motivated by commercial returns. Moreover, public RandD creates
+spillovers that benefit the entire economy and incentivize greater RandD funding in the private sector.")
+
+n47 See, e.g., American Innovation and Choice Online Act, S.2992, 117th Cong. (2021); Open App Markets Act,
+S.2710, 117th Cong. (2021); Bill Evanina and Jamil N. Jaffer, Kneecapping U.S. Tech Companies Is a Recipe for
+Economic Disaster, Barron's (June 17, 2022), available online at https://www.barrons.com/articles/kneecapping-u-
+s-tech-firms-is-a-recipe-for-economic-disaster-51655480902 ("Conservatives are often worried--sometimes for
+good reason--that certain social or mainstream media companies might actively seek to suppress or quiet
+conservative voices. On the liberal side, there are a range of legitimate concerns with technology companies,
+including the displacement of traditional labor in the new gig economy... Yet rather than tackling these concerns
+directly by going after the specific behaviors or actions that trouble ordinary Americans, politicians in Washington
+have chosen instead to vilify some of our most successful companies and to go after them economically."); see also
+David R. Henderson, A Populist Attack On Big Tech, The Hoover Institution (Mar. 3, 2022), available online at
+https://www. hoover.org/research/populist-attack-big-tech-0; Klon Kitchen and Jamil Jaffer, The American
+Innovation and Choice Online Act Is A Mistake, The Kitchen Sync (Jan. 19, 2022), available online at https://www.
+thekitchensync.tech/p/the-american-innovation-and-choice.
+
+n48 See Henderson, A Populist Attack on Big Tech, supra n. 47; Evanina and Jaffer, Kneecapping U.S. Tech
+Companies, supra n. 47.
+
+n49 See Kitchen and Jaffer, The American Innovation and Choice Online Act, supra n. 47; Evanina and Jaffer,
+Kneecapping U.S. Tech Companies, supra n. 47.
+
+n50 See, e.g., Phillip Singerman and Alexander Kersten, Implementing CHIPS: The NEPA Permitting Challenge,
+Center      for     Strategic   and    International       Studies   (May     1,     2023),    available   online     at
+https://www.csis.org/analysis/implementing-chips-nepa-permitting-challenge ("[F]ederal funding under the CHIPS
+Act triggers the federal NEPA review process...This has raised fears that complying with the NEPA review could
+stall projects for over two years and cost the firms billions, undermining the policy imperatives of CHIPS....Currently,
+there is uncertainty about how these rules will apply to the construction of semiconductor fabs stimulated by the
+CHIPS Act....Further, the Council on Environmental Quality (CEQ) claims that between 2013 and 2018
+Environmental Impact Statements took an average of 4.5 years to complete. This implies that any fab that is obliged
+to generate an Environmental Impact Statement would likely face significant delays. Some estimates put delay
+
+                                                                                              Page 13 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+costs for large infrastructure projects as high as 5 percent a year, meaning, for example, that Intel's planned $20
+billion investment in Ohio could encounter about $1 billion in extra expenses for every year delayed.").
+
+n51 See McKinsey and Co., The CHIPS and Science Act: Here's What's in It (Oct. 4, 2022), available online at
+https://www.mckinsey.com/industries/public-sector/ our-insights/the-chips-and-science-act-heres-whats-in-it (noting
+that the CHIPS and Science Act "authorizes (but does not yet appropriate) $174 billion over the next five years to
+various federal science agencies to invest in STEM, workforce development, and RandD, with some $80 billion
+earmarked for the National Science Foundation").
+
+n52 Cf. National Science Teachers Association, FACT SHEET: Title IV, Part A of ESSA: Student Support and
+Academic         Enrichment      Grants      and   Science/STEM      Education,      available      online    at
+https://static.nsta.org/pdfs/ESSATitleIV-ScienceSTEMFactSheet.pdf (describing the $1.65 billion Student Support
+and Academic Enrichment block grant program under The Every Student Succeeds Act (ESSA) enacted in 2014,
+which consolidated the Math and Science Partnership Grants, which is described as "the largest single program at
+the Department of Education devoted exclusively to science/STEM-related classroom purposes," having "received
+$152.7M in FY2016 before it was eliminated").
+
+n53     See,     e.g.,  Digital  Pioneers    Academy,     Our    Academic     Model,     available     online    at
+https://www.digitalpioneersacademy.org/enroll/academic-model (describing the D.C. charter school's unique model
+of two teachers per classroom and requiring one hour of computer science per day for students at all grade levels);
+Digital      Pioneers      Academy,       Computer        Science      Model,       available       online       at
+https://www.digitalpioneersacademy.org/enroll/csmodel (describing the Digital Pioneer's curriculum as requiring
+students to "[t]ake and pass the Computer Science Advanced Placement exam in 10th grade [and] [m]aster two
+programming languages by 12th grade.").
+
+n54 See Schmidt, To Compete with China on Tech, supra n. 27 ("According to current projections, U.S.
+semiconductor companies will have 300,000 unfilled vacancies for skilled engineers by 2030. Targeting, training,
+and recruiting hundreds of thousands of U.S. citizens will be impossible in such a compressed time frame. The only
+way to meet this demand is to recruit many more skilled workers from abroad.").
+
+n55 Id. ("[T]he United States has long relied on its companies and universities to attract the world's best and
+brightest. Brilliant engineers from all around the world helped me turn Google into a world-leading technology
+company. But this did not happen because of the U.S. immigration system. It happened in spite of it.").
+
+n56 See Paayal Zaveri, America's Immigration System is a Nightmare and it's Forcing Tech Companies to Move
+Jobs     Outside      of    the    Country,   Business    Insider  (Mar.   14,    2023),   available   online   at
+https://www.businessinsider.com/us-tech-firms-offshoring-immigration-labor-shortage-issues-remote-work-2023-3
+("[T]he difficulties in bringing immigrants into the US is pushing companies to instead hire them to work in other
+countries. That, in turn, is encouraging those same companies to open branch offices in other countries and recruit
+there, staffing them with people who might otherwise have come to the US to work[.]").
+
+n57 See William Alan Reinsch and Thibault Denamiel, Immigration Policy's Role in Bolstering the U.S. Technology
+Edge, Center for Strategic and International Studs. (Feb. 6, 2023), available online at
+https://www.csis.org/analysis/immigration-policys-role-bolstering-us-technology-edge; see also William R. Kerr and
+Sari Pekkala Kerr, Immigration Policy Levers for U.S. Innovation and Startups, Harvard Business School, Working
+Paper 20-105 (Apr. 2020), available online at https://www.hbs.edu/ris/Publication Files/20-105_aac0d5ae-e6e3-
+4570- 8225-31bcc127f693.pdf.
+
+n58 See H. Comm. On Rules, H.R. 7900, Amend. 117-54 (July 12, 2022), https://amendments-
+rules.house.gov/amendments/LOFGRE_036_xml220705125918927. pdf (showing an unenacted amendment by
+Congresswoman Lofgren (CA-18)); see also Reinsch and Denamiel, Immigration Policy's Role, supra n. 57 ("Last
+year, there was bipartisan support for making available additional green cards with shorter wait times for STEM
+Ph.D.'s. Yet ultimately this initiative was stripped from the final National Defense Authorization Act.").
+
+                                                                                              Page 14 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n59 See, e.g., Select Committee on the Strategic Competition with the Chinese Communist Party, Reset, Prevent,
+Build: A Strategy to Win America's Economic Competition with the Chinese Communist Party (Dec. 12, 2023), at
+31-32,          available        online          at         https://selectcommitteeontheccp.house.gov/sites/evo-
+subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/reset-prevent-build-scc-report.pdf.
+
+n60 Id.
+
+n61 See Jamil N. Jaffer, NSI Backgrounder: The Role of American Technology Sector in Safeguarding U.S.
+Economic and National Security, National Security Institute, GMU Scalia Law School (Dec. 2022), at 1 and n. 6,
+available online at https://nationalsecurity.gmu.edu/the-role-of-american-technology-sector-in- safeguarding-u-s-
+economic-and-national-security/ (citing John F. Sargent, U.S. Research and Development Funding and
+Performance: Fact Sheet, Congressional Research Service (Sept. 13, 2022), available online at
+https://crsreports.congress.gov/product/pdf/R/R44307/18).
+
+n62 See id. at 1 and n. 5 (citing Prableen Bajpai, Which Companies Spend the Most in Research and Development
+(RandD)?, Nasdaq (June 21, 2021), available online at https://www.nasdaq.com/articles/which-compa- nies-spend-
+the-most-in-research-and-development-rd-2021-06-21).
+
+n63 See Emily S. Weinstein and Ngor Luong, U.S. Outbound Investment into Chinese AI Companies, Georgetown
+University Center for Security and Emerging Technology (Feb. 2023), at 11-13, available online at
+https://cset.georgetown.edu/wp-content/uploads/CSET-U.S.-Outbound-Investment-into-Chinese-AI-Companies.pdf;
+see also Alexandra Alper, U.S. Investors Have Plowed Billions into China's AI sector, Report Shows, Reuters (Feb.
+1, 2023), available online at https://www.reuters.com/ technology/us-investors-have-plowed-billions-into-chinas-ai-
+sector-report-shows-2023-02-01/; Select Committee on Strategic Competition with the Chinese Communist Party,
+Letter to Sequoia Capital on its PRC High-Tech Investments, Examine Implications of Announced Split (Oct. 18,
+2023), available online at https://selectcommitteeontheccp.house.gov/media/letters/letter-sequoia-capital-its-prc-
+high-tech-investments-examine-implications-announced.
+
+n64 See Alper, U.S. Investors, supra n. 61; see Weinstein and Luong, U.S. Outbound Investment, supra n. 61, at
+11-12 (showing that 167 U.S. investors took part in 401 transactions, or roughly 17% of the investments into
+Chinese AI companies in the period; those transactions, in total, represented a total $40.2 billion in investment, or
+37% of the total raised by Chinese AI companies in the 6-year period; it is unclear how much of that amount is
+attributable to U.S. investors).
+
+n65 See, e.g., China Select Committee, Reset, Prevent, Build, supra n. 59 at 28-31.
+
+n66 See 15 U.S.C. [Sec.] 4652(a)(5)-(6); see also National Inst. for Standards and Technology, Proposed Rule:
+Preventing the Improper Use of CHIPS Act Funding, 88 FR 17439 (Mar. 23, 2023), available online at
+https://www.federalregister.gov/d/2023-05869; Various Authors, Comments on Proposed Rule: Preventing the
+Improper Use of CHIPS Act Funding, available online at https://www.regulations.gov/docket/NIST-2023-
+0001/comments.
+
+n67 See Alexander and Jaffer, China Is Waging Economic War on America, supra n. 14.
+
+n68 Eric Cheung, Honduras Establishes Diplomatic Ties with China, Severs Them With Taiwan, CNN (Mar. 26,
+2023), available online at https://edition.cnn. com/2023/03/25/asia/honduras-cuts-diplomatic-ties-with-taiwan-intl-
+hnk/index.html), available online at https://www.reuters.com/world/americas/surprise-guatemalan-presidential-
+contender-pitches-closer-china- ties-2023-06-27/.
+
+n69 See, e.g., General Data Protection Regulation, Council Regulation 2016/679, 2016 O.J. (L 119) 1 (EU); Single
+Market For Digital Services (Digital Services Act), Council Regulation 2022/2065, 2022 O.J. (L 277) 1 (EU);
+Contestable and Fair Markets in the Digital Sector (Digital Markets Act), Council Regulation 2022/1925, 2022 O.J.
+(L 265) 1 (EU).
+
+                                                                                              Page 15 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+n70 See, e.g., The Digital Personal Data Protection Bill, 2022, [Subsec.] 1-30, available online at
+https://www.meity.gov.in/writereaddata/files/The%20Digital%20Personal%20Data%20Potection%20Bill%2C%2020
+22_0.pdf; Proposed Digital India Act, 2023, available online at https://www.meity.gov.in/writereaddata/files/
+DIA_Presentation 09.03.2023 Final.pdf; Shivani Bazaz, Explained: India's Upcoming Digital Competition Act and
+What is the Debate Around it All About, CNBC (Jul. 14, 2023), available online at
+https://www.cnbctv18.com/technology/explained--indias-upcoming-digital-competition-act-and-what-is-the-debate-
+around-it-all- about-17222501.htm.
+
+n71 See, e.g., Javier Espinoza, EU Should Focus on Top 5 Tech Companies, Says Leading MEP, Financial Times
+(May 31, 2021), available online at https://www. ft.com/content/49f3d7f2-30d5-4336-87ad-eea0ee0ecc7b ("The EU
+lawmaker who will steer the EU's flagship tech regulation through the European parliament has said it should focus
+on the largest five US tech companies. Andreas Schwab, a German MEP and longtime critic of Google, spoke after
+France and Germany both called for the EU to be tougher on Big Tech. He said Google, Apple, Amazon, Facebook
+and Microsoft, were the 'biggest problems' for EU competition policy."); Adam Satariano, Meta Fined $1.3 Billion for
+Violating E.U. Data Privacy Rules, New York Times (May 22, 2022), available online at https://www.nytimes.
+com/2023/05/22/business/meta-facebook-eu-privacy-fine.html),         available      online    at      https://lahood.
+house.gov/_cache/files/6/8/681fc5f3-dacf-458e-9096-
+0943b2bb2d1f/685FC0EBDAF0D803ED514345D8FEF91A.final-letter-to-president-biden-on-eu-digital-                    trade-
+concerns---june-2023.pdf (describing efforts by the EU "to regulate the digital economy in ways that harm American
+companies and workers" and arguing that "the discriminatory elements of these policies will weaken American
+competitiveness by unfairly advantaging domestic European firms and inadvertently benefitting Chinese, Russian,
+and other foreign-owned competitors").
+
+n72 See Cecilia Kang, As Europe Approves New Tech Laws, the U.S. Falls Further Behind, New York Times (April
+22, 2022), available online at https://www. nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html.
+
+n73 See Jan Rybnicek, Innovation in the United States and Europe, in Report on the Digital Economy, Global
+Antitrust Institute (2020), available online at https://gaidigitalreport.com/2020/08/25/innovation-in-the-united-states-
+and-europe/ ("The United States also has greater and faster GDP growth than Europe. Although not a perfect
+metric, it gives some sense of the contributions that innovative firms have brought to the U.S. economy over time.");
+International Monetary Fund, GDP Per Capita, Current Prices: U.S. Dollars Per Capita (2023), available online at
+https://www.imf.org/external/datamapper/NGDPDPC@WEO/EU/USA .
+
+n74 See id. ("The United States is home to the most innovative companies that span numerous industries. This
+includes the most successful global tech firms at the forefront of technological change. These companies
+consistently outspend their European counterparts on research and development, a key indicator of product
+improvement and development."); Michael Ringel et al., The Most Innovative Companies 2020, The Serial
+Innovation Imperative, Boston Consulting Group, at 16 (June 2020), available online at https://web-
+assets.bcg.com/img-src/BCG-Most-Innovative-Companies-2020-Jun-2020-R-4_tcm9-251007.pdf.
+
+n75 See, e.g., Loren Thompson, Why Reining In Big Tech Could Be Bad News For U.S. National Security, Forbes
+(July 7, 2022), available online at https://www. forbes.com/sites/lorenthompson/2022/07/07/why-breaking-up-big-
+tech-could-be-bad-news-for-us-national-security/?sh=1e40190d32bd ; Jaffer, The Role of American Technology
+Sector, supra n. 59.
+
+n76 See American Edge Project, U.S. and European Views of the Tech Industry (Sept. 2022), available online at
+https://americanedgeproject.org/wp-content/ uploads/2022/09/AEP-US-EU-Survey-Insights-F9.12.22.pdf.
+
+n77 See, e.g., Chris Inglis, et al., As the U.S. Sprints Ahead on AI, Values Can't Be Left Behind, Barron's (Oct 26,
+2023), available online at https://www.barrons.com/articles/ai-regulation-nationalization-innovation-security-
+6d60ba33 (""); see also Michael Chui, et al., Generative AI is Here: How Tools Like ChatGPT Could Change Your
+Business,       McKinsey          and        Co.       (Dec.     20,      2022),       available     online       at
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/generative-ai-is-here-how-tools-like-chatgpt-
+
+                                                                                              Page 16 of 16
+    Senate Banking, Housing and Urban Affairs Committee Hearing; "National Security Challenges: Outpacing
+                        China in Emerging Technology."; Testimony by Jamil Jaffer,....
+
+could-change-your-business; Danny Hajek, et al., What Is AI and How Will It Change Our Lives? NPR Explains.
+(May 25, 2023), available online at https://www.npr.org/2023/05/25/1177700852/ai- future-dangers-benefits.
+
+n78 See, e.g., Geoffrey Hinton, et al., Statement on AI Risk: AI Experts and Public Figures Express their Concern
+About AI Risk, Center for AI Risk (May 30, 2023), available online at https://www.safe.ai/statement-on-ai-risk#open-
+letter ("Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such
+as pandemics and nuclear war."); Max Zahn, AI Leaders Warn the Technology Poses 'Risk of Extinction' Like
+Pandemics         and     Nuclear      War,     ABC     News      (May       30,    2023),    available     online    at
+https://abcnews.go.com/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/
+story?id=99690874.
+
+n79 See Will Knight, Why the Story of an AI Drone Trying to Kill Its Operator Seems So True, Wired (June 8, 2023),
+available online at https://www.wired.com/story/ business-fast-forward/.
+
+n80 Ryan Browne, Europe Takes Aim at ChatGPT With What Might Soon be the West's First A.I. Law. Here's What
+It Means, CNBC (May 15, 2023), available online at https://www.cnbc.com/2023/05/15/eu-ai-act-europe-takes-aim-
+at-chatgpt-with-landmark-regulation.html).
+
+n81 See The White House, Executive Order on the Safe, Secure, and Trustworthy Development and Use of
+Artificial Intelligence
+
+n82 See Europe Takes Aim, supra n. 77 ("The AI Act categorizes applications of AI into four levels of risk:
+unacceptable risk, high risk, limited risk and minimal or no risk. Unacceptable risk applications are banned by
+default and cannot be deployed in the bloc.")
+
+n83 Cf. Framework for Improving Critical Infrastructure Cybersecurity, National Institute of Standards and
+Technology (Apr. 16, 2018), available online at https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf.
+
+Read this original document at: https://www.banking.senate.gov/download/jaffer-testimonyanddownload=1
 
 
-Load-Date: August 21, 2024
+Load-Date: January 21, 2024
 
 
   

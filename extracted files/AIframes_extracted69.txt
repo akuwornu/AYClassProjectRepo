@@ -1,150 +1,165 @@
 
 
-                                                                                                           Page 1 of 3
-                                  Top Benefits of Migrating Your Business to Oracle Cloud
+                                                                            Page 1 of 3
+        SECRETARY MAYORKAS DELIVERS REMARKS AT THE 92ND WINTER MEETING OF THE U.S.
+                                CONFERENCE OF MAYORS
 
 
 
 
-                 Top Benefits of Migrating Your Business to Oracle Cloud
-                                                        Apple World Today
-                                            August 19, 2024 Monday 1:30 AM GMT
+    SECRETARY MAYORKAS DELIVERS REMARKS AT THE 92ND WINTER
+           MEETING OF THE U.S. CONFERENCE OF MAYORS
+                                                States News Service
+                                            January 18, 2024 Thursday
 
 
 
-Copyright 2024 Apple World Today Provided by Syndigate Media Inc. All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 1034 words
+Length: 1748 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-In 2024, finding a good computing service is something that will solve everything from servers, storage, and
-network requirements all the way to your choice of applications and tools for work. It's a major choice and, unwilling
-to take any chances, most entrepreneurs and managers opt for Oracle Cloud. Here are the top benefits of this
-executive decision, for all those who are still on the fence on whether this is really worth it.
+The following information was released by the Department of Homeland Security:
 
-Saving cost and time
+Secretary Mayorkas delivered the following remarks in his keynote address to the 92nd Winter Meeting of the U.S.
+Conference of Mayors in Washington, D.C.
 
-The most important thing about the use of Oracle Cloud is the fact that there's no need to maintain servers or
-operating systems or employ IT experts on the premises.
+Good afternoon.
 
-All of this makes the entire process a lot cheaper than on-premises infrastructure, which ensures a great ROI.
+If I talked about a small group of wealthy Georgia landowners who conspired to kidnap hundreds of people and
+force them to dig onions with their bare hands for 12 or 15 hours a day without pay; if I said that these victims were
+housed in unsanitary conditions, beaten, raped, murdered, and prevented from fleeing at gunpoint, all while the
+perpetrators made millions off their inhumane scheme you could be forgiven for assuming I was speaking of slavery
+in the pre-Civil War South.
 
-Another thing you need to focus on is the fact that you get access to a system that's far simpler than on-premise
-infrastructure. This means that everything will run more smoothly, and there are fewer things that can potentially go
-wrong.
+I am not. Such horrific, monstrous situations are still found in the darkest shadows of our country. What I just
+described was a human and labor trafficking operation that we dismantled only two years ago, in a collaborative law
+enforcement effort dubbed Operation Blue Onion. When I say "we," I mean the Department of Homeland Security's
+human trafficking experts, researchers, investigators, and case workers agents from Homeland Security
+Investigations, United States Citizenship and Immigration Services, and U.S. Customs and Border Protection,
+working alongside and closely with five county Sheriffs' offices in the region, plus other state and federal partners.
 
-You also get a chance to solve complex tasks at minimal cost. Alternatively, you would have to allocate a lot of
-manpower and invest a lot of resources to get the same effect.
+I have spoken with many of you about the increasing frequency and gravity of extreme weather events. Last year, I
+spoke to this Conference about the devastating tornado that struck Mayfield, Kentucky; about the 80 lives lost and
+the $3.5 billion in damages that resulted; and about the work we performed, through FEMA, with Mayor O'Nan and
+her community a community of residents with great strength, resolve, and perseverance.
 
-Enhanced Data Security
+Many other natural disasters that have struck us since. This past August, wildfires ravaged more than 17,000 acres
+on the island of Maui, killing 100 people, destroying 2,207 buildings, and causing $5.5 billion in damages, making it
+the fifth-deadliest wildfire in our country's history. Working closely, every day, with Mayor Bissen, more than 1,000
 
-First of all, when it comes to overall data security, you get built-in encryption for data at rest and in transit. This is
-the only right way to protect sensitive data and the only way to protect it that remains within compliance.
+                                                                            Page 2 of 3
+        SECRETARY MAYORKAS DELIVERS REMARKS AT THE 92ND WINTER MEETING OF THE U.S.
+                                CONFERENCE OF MAYORS
 
-This way, regular security updates and patches will be applied automatically without you having to be directly
-involved in the process. This way, there are no skips or mistakes.
+FEMA personnel were on the ground supporting survivors in Maui, including members of its Disaster Survivor
+Assistance teams. Hawaii received more than $200 million in federal funding, including more than $100 million in
+direct assistance to survivors, and we made more than 50,000 meals, 75,000 liters of water, 5,000 cots, and 10,000
+blankets and shelter supplies available to survivors. The work by Mayor Bissen, local and state officials, and our
+Department continues. The removal of hazardous material and debris, the rebuilding of homes, offices, and lives
+one cannot do it alone. There is a lot more work to do, and we are doing it together.
 
-Then, there's the advanced threat detection and monitoring that you have to engage in so that you can keep up with
-modern threats. With the help of AI-driven technologies, this becomes more dependable than ever before.
+A few days after Thanksgiving, local officials in Las Vegas received a tip a particularly troubling tip in light of the
+significant nationwide increase in threats against Jewish, Muslim, and Arab-American communities following
+Hamas's terrorist attack against Israel on October 7. A 16-year-old boy had posted on social media that he would
+be commencing lone wolf operations in Las Vegas, adding that he was a supporter of the Islamic State and would
+make sure the Zionists in the city knew it. The City of Las Vegas and its Metropolitan Police Department asked the
+Department of Homeland Security and our federal partners to immediately assist in their investigation, through the
+local Southern Nevada Counterterrorism Fusion Center and Joint Terrorism Task Force.
 
-                                                                                                        Page 2 of 3
-                              Top Benefits of Migrating Your Business to Oracle Cloud
+Working together, it took the joint operation only hours to locate the suspect. A tactical team then took the suspect
+into custody without incident. In his possession, they found components for building an improvised explosive device
+and bomb making recipes, along with significant amounts of ISIS propaganda.
 
-Lastly, compliance with industry-specific regulations is important.
+Human trafficking, extreme weather, domestic violent extremism just three of the unique homeland security threats
+that each demand our coordinated efforts.
 
-Improved Privacy Controls
+Our country's ability to successfully mitigate every challenge to its safety and security has always required close
+collaboration and good faith cooperation between all levels of government. This is particularly true with regard to
+our nation's cities, where our partnership with many of you, your teams, and your local stakeholders has saved
+lives, and has also saved time and money.
 
-One of the best ways to improve the security of any organization is to introduce granular access management. In
-other words, you get to grant and restrict access based on one's position and on a need-to-know basis. This is
-much easier with Oracle Cloud.
+Early last year, in the midst of a particularly difficult surge in violent crime, local Baltimore officials asked Agents of
+DHS's Homeland Security Investigations to partner with them on a crime suppression operation. For six weeks,
+members of HSI's public safety unit worked arm-in-arm with the Baltimore Police Department's intelligence unit and
+state officials, helping to make 45 criminal arrests on murder, rape, home invasion, theft, and other violent felony
+charges, as well as significant seizures of fentanyl, heroin, crack cocaine, and illegal firearms. One of the men
+arrested as part of the Operation was wanted for attempted murder after an alleged targeted shooting of a witness
+set to testify in a separate violent crime case. The partnership between local and federal law enforcement was key
+to Baltimore's almost 20% reduction in homicides and 9% reduction in non-fatal shootings last year.
 
-These privacy settings available on Oracle Cloud are configurable to your business needs. This means that every
-business gets a chance to customize the system to meet their unique needs easily.
+So many of us have experienced the crippling effects of a cyberattack. Bad actors criminals and adverse nation-
+states alike have increasingly targeted and damaged hospitals, electricity substations, pipelines, water treatment
+facilities, and other elements of our nation's critical infrastructure. When malicious actors hacked the Cornelius,
+North Carolina Police Department in July, DHS, through its Cybersecurity and Infrastructure Security Agency,
+worked with local officials to flag unusual network activity, identify that a piece of malware was responsible, isolate
+the virus, contain it before it could cause significant damage or pose a greater risk, and, ultimately, investigate its
+origins to prevent other infrastructure from falling victim. In that case, our collaboration with local officials prevented
+serious harm from ever occurring.
 
-Then, you get enhanced user consent management, which allows you to meet compliance demands even in
-regions that have stricter laws.
+These stories, and many others like them across the country, demonstrate more than the enormous breadth,
+diversity, and dynamic nature of the mission of the United States Department of Homeland Security. They
+demonstrate the power of partnership and the critical need for it.
 
-Scalability with Privacy in Mind
+As mayors within counties and states, in states that form one nation, you know that no government can operate
+effectively in a silo. And you know that, when we shun collaboration and reject coordination, and when we treat
+each other as adversaries, not allies, the harmful results speak for themselves.
 
-One of the biggest problems with privacy (in general) is that the more people know about a thing, the less secure it
-becomes. The same is true for digital data privacy. This is why you need a tool that will allow you to scale your data
-storage easily without compromising privacy.
+                                                                           Page 3 of 3
+       SECRETARY MAYORKAS DELIVERS REMARKS AT THE 92ND WINTER MEETING OF THE U.S.
+                               CONFERENCE OF MAYORS
 
-The automatic application of pre-set privacy controls as your business grows is one of the most important things
-you need to bear in mind. You can't change the settings and make adjustments every time your enterprise grows a
-notch. The more autonomous this is, the better.
+Nowhere is this more evident than in our efforts to tackle the significant challenges at our southern border, where
+the level of migrant encounters is high. The collaboration and coordination that is needed is not only between
+federal, state, and local officials. It is also between us and Congress, as we work to fix what everyone agrees is a
+broken immigration system that has needed legislative repair for decades.
 
-This will allow you to adapt to increasing regulatory demands, as well as have a secure and scalable access to
-sensitive information.
+The needed collaboration and coordination is also between us and our international partners. What we are
+experiencing at our southern border reflects a challenge that is not unique to our border, but is one that countries
+throughout our region and throughout our Hemisphere are confronting. The regional challenge requires regional
+solutions.
 
-Global Compliance
+DHS was founded in the wake of 9/11 and charged with facilitating the inter- and intra-governmental cooperation
+necessary to prevent another such terrorist attack against our homeland. In the 20 years since, the threat
+environment that our country faces, and that our Department must confront, has evolved and expanded
+dramatically: foreign terrorism, transnational criminal organizations, and lone offenders; the scourge of fentanyl and
+other synthetic opioids that has been building for years; cybersecurity threats and internet-enabled crimes; the
+increasing aggressiveness of adverse nation-states; human trafficking and online child sexual exploitation and
+abuse the National Center for Missing and Exploited Children uncovered 88 million images of exploited children last
+year; the effects of climate change; significant global and Hemispheric migration to our border; and much more.
 
-Modern enterprises, especially online ones, work all over the globe. This means that they have clients from all over
-the globe, which also means that they have to be compliant with GDPR and CCPA no matter where they are from.
+Our capabilities, our programs, and partnerships have evolved and expanded as well to meet this modern threat
+environment. Our grant funding has increased to help your cities build and strengthen your terrorism prevention
+capabilities; prevent, respond to, and recover from natural disasters; and keep faith-based institutions in your cities
+safe. Our Joint Cyber Defense Collaborative, Cybersecurity Performance Goals, cybersecurity grant program, and
+advisors present in each state have helped your cities and both your public and private institutions build
+cybersecurity prevention, detection, and response protocols. Our Office of Intelligence and Analysis is sharing more
+intelligence and information with your police and sheriffs departments, emergency responders, and fusion centers
+to equip you with the data you need to be prepared for the threats we are seeing. Our use of new technologies,
+including artificial intelligence, is enabling our task forces to detect more contraband, identify and rescue more
+victims, and locate and apprehend more criminals.
 
-The use of Oracle Cloud ensures adherence to global privacy standards, as it's a top cloud service developed to be
-used by online entities, online businesses, and international enterprises.
+These are just some examples of the many resources we have that are available to you, that we provide to, and
+share with you.
 
-Instead of having to resolve data residency issues on your own, you get various compliance options, which makes
-your job so much easier.
+In any and every form, our continued collaboration is fundamental to the security of our homeland and to our shared
+mission of safety, security, stability, and prosperity for all. To borrow the wisdom of the great basketball coach Phil
+Jackson, the strength of our nation comes from each individual community and the strength of each community is
+drawn from the nation. Cities your cities are the engines of the homeland security enterprise, and we have ample
+strength, across every one of the most pressing homeland security challenges, that I urge of you to draw upon.
 
-Overall, you get a simplified approach to GDPR and CCPA compliance, as well as automated compliance reporting
-tools.
+I am grateful to Mayor Schieve and the U.S. Conference of Mayors for convening all of us today and for helping to
+facilitate the critical, continued partnership between the nation's cities and its federal government. Thank you for
+your commitment to this work, and thank you for the honor of speaking with you today.
 
-Disaster Recovery and Privacy Assurance
-
-Then, there's the issue of geo-redundant backups, which allows you to keep all your data safe and sound (and
-recoverable), no matter where you choose to work from. This is especially important in the age of digital mobility
-and digital nomadism.
-
-When using Oracle Cloud, you'll always have the option of rapid data recovery with privacy protection. This means
-that you'll never have to worry about a backup being a potential data liability.
-
-You won't have to look for backups or hope that the backup isn't corrupted, which will significantly minimize the
-downtime you'll face.
-
-Customizable Privacy Settings
-
-                                                                                                           Page 3 of 3
-                               Top Benefits of Migrating Your Business to Oracle Cloud
-
-Sure, different firms require different types of privacy settings, but sometimes, even within the same agency, you
-may need a different approach to privacy settings. Oracle Cloud provides you with options for a tailored privacy
-configuration for different departments.
-
-These are flexible privacy policies adaptable to changing needs, and even if you don't plan on using these options,
-having them available is always a positive thing.
-
-The fact that you get access to user-defined encryption keys adds an extra layer of randomness to your
-cybersecurity, which serves as a serious boost to your enterprise as a whole.
-
-You also get the ability to restrict access based on roles, which is huge, especially in the era of digital work.
-
-Integration with Existing Privacy Frameworks
-
-The most important thing when choosing any tool in 2024 is the seamless integration with your current privacy
-tools. After all, you're already using so many tools, and having to replace them because you're moving to a different
-system would be a serious problem.
-
-This way, you also get compatibility with third-party privacy solutions. This means that while your cybersecurity is
-already at a pretty high level, you always have a simple way to further improve it.
-
-Doing this provides you with consolidated privacy management across platforms, as well as consistent privacy
-policies across your IT ecosystem.
-
-Wrap up
-
-Overall, the use of Oracle Cloud will save you time and money. Now, this is something that you'll get with any
-managed cloud service but oracle just gives you more in terms of reliability and cybersecurity. This is a far more
-significant edge than people give it credit for and a far more compelling reason for migration.
+###
 
 
-Load-Date: August 20, 2024
+Load-Date: January 18, 2024
 
 
   

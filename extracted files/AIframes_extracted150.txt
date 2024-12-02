@@ -1,152 +1,142 @@
 
 
-                                                                                                Page 1 of 3
-       Intermap Further Increases Offering Size to Meet Strong Demand and Files Second Amended Offering
-                                                    Document
+                                                                                                       Page 1 of 3
+                      S&P Global Launches Generative AI Search on the S&P Global Marketplace
 
 
 
 
-  Intermap Further Increases Offering Size to Meet Strong Demand and Files
-                    Second Amended Offering Document
-                                                         GlobeNewswire
-                                               August 2, 2024 Friday 2:15 PM PT
+ S&P Global Launches Generative AI Search on the S&P Global Marketplace
+                                                           PR Newswire
+                                           February 6, 2024 Tuesday 4:15 PM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-
-
-
-Section: FINANCING AGREEMENTS
-Length: 1669 words
+Length: 1815 words
+Dateline: NEW YORK, Feb. 6, 2024
 
 Body
 
 
-The Company has deployed to Indonesia to execute on its $20 million contract
+PR NewswireNew Search Experience Leverages a Large Language Model (LLM) and Natural Language
+Question and Answer to Generate Curated and Relevant OfferingsNEW YORK, Feb. 6, 2024 /PRNewswire/ --
+S&P Global announced today the launch of artificial intelligence (AI)-enabled search on theS&P Global
+Marketplace(Marketplace). Marketplace is S&P Global's data and solution exploration platform that represents
+offerings from all five divisions of S&P Global, Sustainable1, Kensho and curated third-party providers. The
+Marketplace Generative AI search is a global solution designed to simplify and enhance the discovery of S&P
+Global's offerings. It responds to user's natural language queries with detailed answers, making the search process
+more intuitive and efficient. Additionally, it proactively recommends other relevant data sets and services, in turn
+broadening the user's perspective. "This exciting new offering on Marketplace is another example of how S&P
+Global is accelerating the adoption of AI across the company with the purpose of transforming how our customers
+interact with our data assets and solutions and integrate our services into their workflows using AI,"saidBhavesh
+Dayalji,Chief Artificial Intelligence Officer at S&P Global and Chief Executive Officer of Kensho. "The new
+AI-powered search engine revolutionizes the way we serve our customers and enable them to discover new
+datasets in a seamless and intuitive way."The Generative AI search utilizes a Large Language Model (LLM) and is
+powered by the information and metadata on Marketplace, along with S&P Global's leading technical
+documentation.
 
-NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES
+It was developed in partnership by Market Intelligence, the division within S&P Global that provides information
+services and solutions to global markets, and Kensho, the AI-innovation arm of S&P Global. "As data and solution
+demands increase, we saw a compelling opportunity to combine Kensho's Generative AI capabilities with the S&P
+Global Marketplace,"said Justine Iverson, Head of S&P Global Marketplace and Capital IQ Solutions
+Strategy."Our clients now benefit from an innovative search experience that meets them where they are on their
+discovery journey — whether it's initial research to a more technical understanding of our offerings."Since acquiring
+Kensho in 2018, S&P Global has leveraged state-of-the-art AI techniques to enable critical workflows and allow
+customers to unlock deeper insights more quickly with solutions likeScribe,NERD,Classify,ExtractandLink.
+Generative AI search on Marketplace is the latest enhancement powered by Kensho. Most recently, S&P Global
+Market Intelligence upgraded itsS&P Capital IQ Pro platform, incorporating an AI-enabled search experience,
+enriching content accessibility, and delivering enhanced personalization. About S&P Global Market
+IntelligenceAt S&P Global Market Intelligence, we understand the importance of accurate, deep and insightful
+information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering
+with customers to expand their perspective, operate with confidence, and make decisions with conviction.S&P
 
-DENVER, Aug. 02, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
-(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, announces a
-second amendment to the terms of its offering of Class "A" common shares of the Company (“Common Shares”),
-previously announced on July 3, 2024 and initially amended on July 19, 2024, as a result of high demand (as
-further amended as described herein, the “Offering”). Intermap closed the second tranche of the Offering on July
-26, 2024, which included the issuance of 2,085,000 Common Shares at a price of CAD$0.45 per Common Share
-for aggregate gross proceeds of CAD$938,250.
+                                                                                                             Page 2 of 3
+                     S&P Global Launches Generative AI Search on the S&P Global Marketplace
 
-The previously announced closing of the first tranche of the Offering included the issuance of 2,770,000 Common
-Shares at a price of CAD$0.45 per Common Share for aggregate gross proceeds of CAD$1,246,500. To date, the
-Company has issued an aggregate of 4,855,000 Shares under the Offering for aggregate gross proceeds of
-CAD$2,184,750. Due to high demand, the Company is increasing the total maximum number of Common Shares to
-be offered by 482,778 additional Common Shares, for an aggregate maximum under the Offering of up to
-7,149,444 Common Shares when combined with the Common Shares issued under the first and second tranches.
-The additional Common Shares are being offered at the same price of CAD$0.45 per Common Share, for maximum
-gross proceeds under the Offering of up to approximately CAD$3,217,250. Upon issuance, all of the Common
-Shares issued under the Offering will rank pari passu in all respects with the Company’s existing issued Common
-Shares.
+Global Market Intelligence is a division of S&P Global (NYSE: SPGI). S&P Global is the world's foremost provider of
+credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive
+markets. With every one of our offerings, we help many of the world's leading organizations navigate the economic
+landscape       so     they      can       plan    for    tomorrow,      today.     For      more      information,
+visitwww.spglobal.com/marketintelligence.About S&P GlobalS&P Global (NYSE: SPGI) provides essential
+intelligence. We enable governments, businesses and individuals with the right data, expertise and connected
+technology so that they can make decisions with conviction. From helping our customers assess new investments
+to guiding them through ESG and energy transition across supply chains, we unlock new opportunities, solve
+challenges, and accelerate progress for the world.We are widely sought after by many of the world's leading
+organizations to provide credit ratings, benchmarks, analytics and workflow solutions in the global capital,
+commodity and automotive markets. With every one of our offerings, we help the world's leading organizations plan
+for tomorrow, today. For more information, visitwww.spglobal.com.Media ContactsAmanda Oey
+S&P Global Market Intelligence
+P. +1 212-438-1904
+amanda.oey@spglobal.com Roger Cabrera
+S&P Global
+P. +1 646-984-6569
 
-                                                                                               Page 2 of 3
-      Intermap Further Increases Offering Size to Meet Strong Demand and Files Second Amended Offering
-                                                   Document
+roger.cabrera@spglobal.comForward-Looking Statements: This press release contains "forward-looking
+statements," as defined in the Private Securities Litigation Reform Act of 1995. These statements, which express
+management's current views concerning future events, trends, contingencies or results, appear at various places in
+this press release and use words like "anticipate," "assume," "believe," "continue," "estimate," "expect," "forecast,"
+"future," "intend," "plan," "potential," "predict," "project," "strategy," "target" and similar terms, and future or
+conditional tense verbs like "could," "may," "might," "should," "will" and "would." For example, management may
+use forward-looking statements when addressing topics such as: the outcome of contingencies; future actions by
+regulators; changes in the Company's business strategies and methods of generating revenue; the development
+and performance of the Company's services and products; the expected impact of acquisitions and dispositions; the
+Company's effective tax rates; and the Company's cost structure, dividend policy, cash flows or liquidity. Forward-
+looking statements are subject to inherent risks and uncertainties. Factors that could cause actual results to differ
+materially from those expressed or implied in forward-looking statements include, among other things: worldwide
+economic, financial, political, and regulatory conditions (including slower GDP growth or recession, instability in the
+banking sector and inflation), and factors that contribute to uncertainty and volatility, natural and man-made
+disasters, civil unrest, public health crises (e.g., pandemics), geopolitical uncertainty (including military conflict), and
+conditions that may result from legislative, regulatory, trade and policy changes; the volatility and health of debt,
+equity, commodities, energy and automotive markets, including credit quality and spreads, the level of liquidity and
+future debt issuances, demand for investment products that track indices and assessments and trading volumes of
+certain exchange traded derivatives; the demand and market for credit ratings in and across the sectors and
+geographies where the Company operates; the Company's ability to maintain adequate physical, technical and
+administrative safeguards to protect the security of confidential information and data, and the potential for a system
+or network disruption that results in regulatory penalties and remedial costs or improper disclosure of confidential
+information or data; the outcome of litigation, government and regulatory proceedings, investigations and
+inquiries; concerns in the marketplace affecting the Company's credibility or otherwise affecting market perceptions
+of the integrity or utility of independent credit ratings, benchmarks, indices and other services; our ability to attract,
+incentivize and retain key employees, especially in a competitive business environment; the Company's exposure
+to potential criminal sanctions or civil penalties for noncompliance with foreign and U.S. laws and regulations that
+are applicable in the jurisdictions in which it operates, including sanctions laws relating to countries such as Iran,
+Russia, Sudan, Syria and Venezuela, anti-corruption laws such as the U.S. Foreign Corrupt Practices Act and the
+U.K. Bribery Act of 2010, and local laws prohibiting corrupt payments to government officials, as well as import and
+export restrictions; the continuously evolving regulatory environment in Europe, the United States and elsewhere
+around the globe affecting each of our businesses and the products they offer, and our compliance therewith; the
+Company's ability to make acquisitions and dispositions and successfully integrate the businesses we
+acquire; consolidation of the Company's customers, suppliers or competitors; the introduction of competing
 
-The Company intends to close the oversubscribed third and final tranche of the Offering before August 9, 2024. The
-closing of each tranche of the Offering, including the third tranche, is subject to certain conditions including, but not
-limited to, the receipt of all necessary regulatory and other approvals.
+                                                                                                         Page 3 of 3
+                    S&P Global Launches Generative AI Search on the S&P Global Marketplace
 
-In connection with this Offering, Intermap has engaged a third-party finder (the “Finder”) to conduct a best efforts
-private placement of the Common Shares. The Finder will receive the same fee of: (i) an aggregate cash fee equal
-to 1% of the gross proceeds of the Offering; and (ii) an issuance of Common Shares equal to 6% of the Common
-Shares placed by the Finder under Offering.
-
-The Company intends to use the aggregate net proceeds of the Offering for the execution of contracts and for
-working capital. Primarily, the capital will be used to execute on its contract with the government of Indonesia to
-map the island of Sulawesi, representing 10% of Indonesia land mass, as well as on a renewed and expanded
-contract with the U.S. Air Force. The net proceeds of the Offering may also be used in connection with other
-Southeast Asian contract awards as well as a major renewal and expansion of a global insurance client agreement.
-Further details on the use of proceeds are set forth in the Second Amended Offering Document (as defined herein).
-
-“Our $20 million contract with the Indonesian government is the first phase of creating a digital basemap to help the
-country secure its social, environmental and economic future,” said Patrick A. Blott, Intermap Chairman and CEO.
-“We have deployed to Indonesia to begin work on this first phase and expect to be awarded additional contracts to
-map the remaining 90% of Indonesia’s land over the next few years. Part of the use of proceeds from this offering
-will help us execute against phase one as well as other projects in our sales and deployment pipelines. On behalf of
-the Company, I’d like to thank new and existing shareholders for their support.”
-
-Subject to compliance with applicable regulatory requirements, the Common Shares will be offered for sale to
-purchasers resident in Canada (except Quebec) pursuant to the listed issuer financing exemption under Part 5A of
-National Instrument 45-106 – Prospectus Exemptions (the “Listed Issuer Financing Exemption”) and to purchasers
-resident in the United States by way of private placement pursuant to an exemption from the registration
-requirements under the United States Securities Act of 1933, as amended (the “1933 Act”). Because the Offering is
-being completed pursuant to the Listed Issuer Financing Exemption, the securities issued in Canada under the
-Offering will not be subject to a hold period in Canada pursuant to applicable Canadian securities laws.
-
-There is an amended offering document related to this Offering (the “Second Amended Offering Document”) that
-can be accessed under the Company’s profile at www.sedarplus.ca and on Intermap’s website at
-www.intermap.com. Prospective investors should read this Second Amended Offering Document before making an
-investment decision.
-
-The securities described herein have not been, and will not be, registered under the 1933 Act, or any state
-securities laws, and accordingly, may not be offered or sold within the United States except in compliance with the
-registration requirements of the 1933 Act and applicable state securities requirements or pursuant to exemptions
-therefrom. This news release shall not constitute an offer to sell or the solicitation of an offer to buy nor shall there
-be any sale of the securities in the United States or in any other jurisdiction in which such offer, solicitation or sale
-would be unlawful.
-
-Intermap Reader Advisory Certain information provided in this news release, including reference to the availability
-of proceeds from the Offering, the Company’s ability to raise up to the maximum proceeds of the Offering, the use
-of proceeds of the Offering, the expectation that the Offering will close and the anticipated timing thereof, the award
-of new contracts and contract renewals and the use of proceeds in the Offering in connection therewith, successful
-execution of the Company’s existing contracts and the Company’s expectations with respect to receiving contracts
-to map the remaining 90% of Indonesia’s land mass, constitutes forward-looking statements. The words “will”,
-“may”, “intends”, “expected to”, “anticipate”, “subject to”, “phase” and similar expressions are intended to identify
-such forward-looking statements. Although Intermap believes that these statements are based on information and
-assumptions which are current, reasonable and complete, these statements are necessarily subject to a variety of
-known and unknown risks and uncertainties. Intermap’s forward-looking statements are subject to risks and
-
-                                                                                               Page 3 of 3
-      Intermap Further Increases Offering Size to Meet Strong Demand and Files Second Amended Offering
-                                                   Document
-
-uncertainties pertaining to, among other things, cash available to fund operations, availability of capital, revenue
-fluctuations, the nature of government contracts, including changing political circumstances in the relevant
-jurisdictions, economic conditions, loss of key customers, retention and availability of executive talent, competing
-technologies, common share price volatility, loss of proprietary information, software functionality, internet and
-system infrastructure functionality, information technology security, breakdown of strategic alliances, and
-international and political considerations, as well as those risks and uncertainties discussed Intermap’s Annual
-Information Form for the year ended December 31, 2023 and other securities filings. While the Company makes
-these forward-looking statements in good faith, should one or more of these risks or uncertainties materialize, or
-should underlying assumptions prove incorrect, actual results may vary significantly from those expected.
-Accordingly, no assurances can be given that any of the events anticipated by the forward-looking statements will
-transpire or occur, or if any of them do so, what benefits that the Company will derive therefrom. All subsequent
-forward-looking statements, whether written or oral, attributable to Intermap or persons acting on its behalf are
-expressly qualified in their entirety by these cautionary statements. The forward-looking statements contained in
-this news release are made as at the date of this news release and the Company does not undertake any obligation
-to update publicly or to revise any of the forward-looking statements made herein, whether as a result of new
-information, future events or otherwise, except as may be required by applicable securities law.
-
-About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
-OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
-terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
-patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
-datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
-elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
-and machine learning, providing customers with critical information to understand their terrain environment. By
-leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
-Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
-enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
-Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
-wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
-telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
-transportation.
-
-For more information, please visit www.intermap.com               or   contact:Patrick   A.   BlottChairman     and
-CEOCEO@intermap.com +1 (303) 708-0955
+products or technologies by other companies; our ability to develop new products or technologies, to integrate our
+products with new technologies (e.g., artificial intelligence), or to compete with new products or technologies
+offered by new or existing competitors; the effect of competitive products and pricing, including the level of success
+of new product developments and global expansion; the impact of customer cost-cutting pressures; a decline in the
+demand for our products and services by our customers and other market participants; the ability of the Company,
+and its third-party service providers, to maintain adequate physical and technological infrastructure; the Company's
+ability to successfully recover from a disaster or other business continuity problem, such as an earthquake,
+hurricane, flood, civil unrest, protests, military conflict, terrorist attack, outbreak of pandemic or contagious
+diseases, security breach, cyber attack, data breach, power loss, telecommunications failure or other natural or
+man-made event; the level of merger and acquisition activity in the United States and abroad; the level of the
+Company's future cash flows and capital investments; the impact on the Company's revenue and net income
+caused by fluctuations in foreign currency exchange rates; and the impact of changes in applicable tax or
+accounting requirements on the Company. The factors noted above are not exhaustive. The Company and its
+subsidiaries operate in a dynamic business environment in which new risks emerge frequently. Accordingly, the
+Company cautions readers not to place undue reliance on any forward-looking statements, which speak only as of
+the dates on which they are made. The Company undertakes no obligation to update or revise any forward-looking
+statement to reflect events or circumstances arising after the date on which it is made, except as required by
+applicable law. Further information about the Company's businesses, including information about factors that could
+materially affect its results of operations and financial condition, is contained in the Company's filings with the SEC,
+including Item 1A,Risk Factors, in our most recently filed Annual Report on Form 10-K, as supplemented by Item
+1A,Risk Factors, in our most recently filed Quarterly Report on Form 10-Q. View original content to download
+multimedia:https://www.prnewswire.com/news-releases/sp-global-launches-generative-ai-search-on-the-sp-global-
+marketplace-302055190.htmlSOURCE S&P Global
 
 
-Load-Date: August 2, 2024
+Load-Date: February 6, 2024
 
 
   

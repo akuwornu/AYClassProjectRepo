@@ -1,73 +1,373 @@
 
 
-                                                                                                          Page 1 of 2
-                Nfina Technologies Releases the 4508T-AI, a High-Precision AI Computing Workstation
+                                                                               Page 1 of 7
+         SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                          KAMIKAWA TO THE 213TH SESSION OF THE DIET
 
 
 
 
-  Nfina Technologies Releases the 4508T-AI, a High-Precision AI Computing
-                                Workstation
-                                                           PR Newswire
-                                          August 7, 2024 Wednesday 8:37 AM EST
+    SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY
+    FOREIGN MINISTER KAMIKAWA TO THE 213TH SESSION OF THE DIET
+                                                  States News Service
+                                               January 30, 2024 Tuesday
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 States News Service
 
-Length: 616 words
-Dateline: MOBILE, Ala., Aug. 7, 2024
+Length: 3564 words
+Byline: States News Service
+Dateline: TOKYO, Japan
 
 Body
 
 
-PR NewswireMOBILE, Ala., Aug. 7, 2024 /PRNewswire/ -- Nfina announces the release of the4508T-AI
-Workstation. Powered by NVIDIA® GPUs, this eight-bay workstation offers software developers, data scientists,
-and academia a high-performance, cost-effective platform to develop cutting-edge AI models and run AI-based
-applications.Putting Artificial Intelligence (AI) to work at scale requires preprocessing, training, and deployment.
-There are different development toolchains, frameworks, and workloads, all of which create unique obstacles and
-require a different amount of computing power.
+The following information was released by the Ministry of Foreign Affairs of Japan:
 
-That's where Nfina's 4508T-AI Workstation comes in.Powered by 5th Generation Intel® Xeon® Scalable
-Processors, 5600MT/s speed memory, and NVIDIA RTX 6000 Ada GPUs, the 4508T-AI Workstation excels at
-dynamic calculations and high-precision computing workflows.The 5th Gen Intel Xeon processors, equipped with AI
-acceleration in every core, speed up training and deep-learning inference to handle demanding AI workloads and
-eliminate the need for additional discrete accelerators. According to Intel, these processors offer 42% faster
-inference performance and less than 100 millisecond latency on large language models (LLMs) with under 20 billion
-parameters compared to the previous generation.The NVIDIA RTX 6000 Ada GPU with 48GB/s memory boasts 2x
-the speed, throughput, and AI performance of previous generations. RTX 6000 provides next-generation rendering,
-AI graphics, and petaflop inferencing performance by combining 142 RT Cores, 668 Tensor Cores, and 18,176
-CUDA cores. The RTX 6000 supports CUDA™ API and NVIDIA RTX Virtual Workstation Software™.To effectively
-manage the extensive requirements of AI, the 4508T-AI Workstation supports up to 144TB of onboard storage,
-geo-redundant cloud storage, and Nfina JBOD expansion devices.For a powerful end-to-end AI solution, Nfina
-recommends NVIDIA AI Enterprise subscription and OS support. NVIDIA AI Enterprise not only includes an
-extensive library of NVIDIA frameworks and pre-trained models but alleviates the challenges of AI workloads by
-integrating different open-source data analytics, modeling, deep-learning frameworks, and deployment tools such
-as PyTorch™, TensorFlow™, scikit-learn™, and XGBoost™.President and CEO of Nfina, Warren Nicholson, states
-"Nfina recognizes the importance of reliability in demanding applications like AI, which is why our deep learning
-workstations undergo rigorous testing to ensure they can handle continuous heavy workloads without compromising
-stability or data integrity. With these state-of-the-art workstations at your disposal, artificial intelligence has never
-been easier or more accessible."The new Nfina system is available now throughNfina's partner network.All Nfina
-systems can be purchased outright or bundled with Nfina's managed services to fit business application needs and
-monthly budgets.About Nfina Technologies:Nfina is an IT infrastructure manufacturer and solutions provider
-supplying cyber resilience for business continuity. Our IT solutions and services includeHybrid
+Before delivering my remarks, I would like to pay tribute to the victims of the 2024 Noto Peninsula Earthquake and
+express my deepest condolences to their bereaved families as well as my sincere sympathy to all those injured and
+affected by the disaster. We have received numerous messages of sympathy and offers of support from overseas,
+and would like to express our gratitude to the countries, regions and international organizations concerned.
 
-                                                                                                     Page 2 of 2
-               Nfina Technologies Releases the 4508T-AI, a High-Precision AI Computing Workstation
+As we hold the 213th session of the Diet, allow me to outline Japan's foreign policy.
 
-Cloud,Hyperconverged,Storage,Servers,AI Workstations,Backup and Disaster Recovery, andCloud Hosting. IT
-departments have trusted Nfina Technologies to protect their computing and storage equipment from vulnerabilities
-and meet their growing technology needs since 2012. Nfina products carry a market-leading 5-year warranty and
-US-based tech support.nfina.comContact: Gene Everette
+Overview of the international situation
 
-251.243.0043
+The world is now at a turning point in history. I strongly feel this every day.
 
-nfina.com    View original content to download multimedia:https://www.prnewswire.com/news-releases/nfina-
-technologies-releases-the-4508t-ai-a-high-precision-ai-computing-workstation-302215758.htmlSOURCE  Nfina
-Technologies
+The free and open international order based on the Rule of Law is facing serious challenges due to Russia's
+ongoing aggression against Ukraine. In addition, while the diversification of the international community is
+progressing due to the growing presence of developing and emerging countries, the so-called "Global South, there
+are many issues which need to be addressed beyond borders and values.
+
+Taking into consideration the results of the G7 presidency last year which is highly appreciated from international
+community, Japan will maintain and strengthen its advocacy of a free and open international order based on the
+rule of law so that all people can enjoy peace and prosperity, and pursue diplomacy to realize a safe and secure
+world where "human dignity" is protected, based on the central premise of the Sustainable Development Goals
+(SDGs): "Leave no one behind.
+
+I will continue to conduct diplomacy based on the following basic policies: firmly protecting Japan's national
+interests, enhancing Japan's presence in the world, listening to the voices of the people, and conducting diplomacy
+that is understood and supported by the people.
+
+Foreign Visits at the Beginning of the Year, WPS Initiatives
+
+                                                                              Page 2 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+Earlier this year, I visited Europe, North America and Trkiye. I confirmed Japans cooperation with each country and
+the international courts concerned on such issues as maintaining and strengthening a free and open international
+order based on the Rule of Law, support for Ukraine, addressing the situation in the Middle East, the promotion of
+the Women, Peace and Security (WPS) initiative and the Arctic as well as the oceans.
+
+In particular, I have strongly promoted and emphasized the importance of the WPS as one of our major foreign
+policies. We have established a taskforce within the Ministry and will continue to promote WPS using all the tools at
+our disposal.
+
+Response to the situation in the Middle East
+
+The situation in the Middle East continues to be uncertain. We again unequivocally condemn the terror attacks by
+Hamas and others, and at the same time, we are seriously concerned about the humanitarian situation in the Gaza
+Strip. I have involved myself in responding to the situation in order to improve the humanitarian situation, calm it
+down as soon as possible, and prevent the conflict from spreading to neighboring areas.
+
+Last November, I visited the region prior to the G7 Foreign Ministers' Meeting and strived to issue the G7 Foreign
+Ministers' Statement. To enable the Security Council to fulfill its responsibilities, we worked vigorously for the
+adoption of the Security Council Resolution 2712 focusing on the protection of children in the Gaza Strip and the
+Security Council Resolution 2720 on scaling up and monitoring aid to the Gaza Strip.
+
+Japan will continue to work to improve the humanitarian situation in the Gaza Strip through means including
+assistance to international organizations.
+
+In addition, in order to prevent a recurrence of the tragedy we are witnessing, it is time that Japan actively
+contributes to the realization of a "two-state solution, which Japan has consistently supported, in cooperation with
+the United States and the other countries concerned.
+
+Promoting the Rule of Law
+
+The Rule of Law is the foundation of peace and prosperity. During my recent visit to the International Court of
+Justice, the International Criminal Court, and the International Tribunal for the Law of the Sea, I reiterated Japans
+support for the role they play. We will continue to comprehensively pursue a diplomacy for strengthening the rule of
+law in the international community based on dialogue and cooperation.
+
+Promotion of FOIP, cooperation with allies and like-minded countries
+
+The realization of a Free and Open Indo-Pacific (FOIP) is one of the top priorities of Japanese diplomacy. Based on
+this vision, we will work with our allies and like-minded countries to expand our cooperation.
+
+The stability and prosperity of ASEAN is extremely important for Japan and the entire Indo-Pacific region. We will
+steadily implement the new vision for cooperation and the broad range of concrete cooperation that was set forth at
+the Commemorative Summit for the 50th Year of ASEAN-Japan Friendship and Cooperation last December, and
+further strengthen our relations.
+
+As for Japan-Australia-India-U.S.(Quad), in chairing the Foreign Ministers' Meeting this year, we will further promote
+practical cooperation which truly benefits the countries of the region toward the realization of FOIP.
+
+Based on the outcome of the Japan-U.S.-ROK Summit at Camp David in August last year and other meetings, we
+will further promote cooperation among Japan, the United States and the Republic of Korea (ROK).
+
+Furthermore, since the security of the Euro-Atlantic and the Indo-Pacific are inseparable, we will also strengthen
+cooperation with European countries, the EU, and NATO.
+
+Response to Aggression against Ukraine
+
+                                                                              Page 3 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+Russia's aggression against Ukraine is an outrageous act that shakes the very foundations of the international
+order. This month, I visited Ukraine and saw with my own eyes the fresh scars of the aggression. I was once again
+convinced that unilateral change to the status quo by force cannot be accepted. Threats by Russia of nuclear
+weapon use, let alone use of nuclear weapons by Russia, are inadmissible.
+
+We will continue to strongly promote sanctions against Russia and support for Ukraine in cooperation with the
+international community to stop Russias aggression as soon as possible and to achieve a just and lasting peace in
+Ukraine.
+
+We will promote efforts for recovery and reconstruction of Ukraine in the unity of the public and private sectors.
+Based on the results of the visit of representatives of the Japanese business sector last November and other
+activities, we will accelerate coordination toward the Japan-Ukraine Conference for Promotion of Economic
+Reconstruction scheduled next month.
+
+Efforts to Protect Japan and the Region
+
+As Japan faces the most severe and complex security environment since the end of WWII, we will protect Japan's
+territory, territorial waters and airspace, as well as the lives and property of its citizens through diplomacy.
+
+Japan's own efforts
+
+The National Security Strategy identifies diplomatic capabilities as the prime element in forging Japan's overall
+national security. While linking diplomatic capabilities and defense capabilities, Japan will organically and effectively
+link its strong economy, advanced technological capabilities, and the various aspects of its soft power, such as rich
+culture, to pursue a comprehensive diplomatic and security policy.
+
+In addition, we will steadily carry out our Official Security Assistance (OSA) and actively work to promote
+cybersecurity and economic security.
+
+In response to international information warfare in the cognitive domain through information manipulation, including
+spread of disinformation, we will collect and analyze information from various perspectives and lead to a timely and
+appropriate dissemination, while building and strengthening our information security infrastructure.
+
+Further strengthening of the Japan-U.S. Alliance
+
+The Japan-U.S. Alliance is the cornerstone of Japan's diplomacy and security, and the foundation for peace and
+prosperity in the Indo-Pacific region.
+
+We will make efforts to further strengthen the deterrence and response capabilities of the Japan-U.S. Alliance, to
+sustain and strengthen the credibility and resilience of extended deterrence, and to further optimize the posture of
+U.S. forces in Japan.
+
+We will also make every effort to mitigate impacts on local communities through efforts such as the relocation of
+Marine Corps Air Station (MCAS) Futenma to Henoko as soon as possible while maintaining the stable presence of
+U.S. forces in Japan.
+
+We will also expand and deepen Japan-U.S. cooperation in the economic field from a strategic perspective,
+including based on the discussions at the second ministerial meeting of the Economic "2+2" last November.
+
+Exploring new frontiers of economic diplomacy
+
+In order to demonstrate Japans presence to the world with our strong and flexible economic power, we will develop
+new frontiers in economic diplomacy, emphasizing public-private partnerships and involving all stakeholders
+including startups.
+
+                                                                              Page 4 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+First of all, it is important to work toward the maintenance and expansion of a rules-based free and fair economic
+order.
+
+There are many issues to be addressed, including WTO reform to further strengthen the multilateral trading system,
+maintaining and strengthening the high standards of the CPTPP, ensuring transparent implementation of the RCEP
+agreement, achieving sustainable and inclusive economic growth in the region through IPEF, and international rule-
+making in the areas involving new challenges, including AI and Data Free Flow with Trust (DFFT).
+
+In particular, this year marks the 60th anniversary since Japan joined the OECD, and in chairing the Ministerial
+Meeting in May, we will show our strong leadership.
+
+Furthermore, economic security is also one of the important pillars of diplomacy in the new era. We will further
+strengthen our efforts on supply chain resilience and addressing economic coercion by further strengthening
+cooperation with our ally and like-minded countries, utilizing ODA, and cooperating closely between the public and
+private sectors.
+
+The Japanese economy must incorporate the growth of developing and emerging countries, the so-called "Global
+South". Japan will promote fine-tuned and strategic economic diplomacy, taking into account the challenges and
+characteristics of the various regions.
+
+In addition, we live in an era in which it is necessary to aim for linkage and integration between social and
+environmental sustainability and the economy. Japan will direct its efforts to realizing a virtuous circle: through the
+active promotion of SDGs by the corporate side, Japan will realize economic growth in a way that benefits society.
+
+To this end, under the Development Cooperation Charter, we will implement the Co-creation for Common Agenda
+Initiative and ODA that mobilizes private-sector funds to achieve high-quality growth in developing countries, which
+will at the same time lead to Japan's growth. In addition, in actively encouraging Japanese companies to expand
+their overseas operations, increase exports of Japanese food products, and promote direct investment in Japan,
+our diplomatic missions abroad will provide strong backup for Japanese companies, including improving the local
+investment environment, and will strongly promote investment in Japan. Furthermore, in order to expand the
+possibilities for corporate activities, we will promote cooperation between Japanese and foreign companies in third
+countries.
+
+We will work vigorously for the success of Expo 2025 Osaka, Kansai, Japan and the International Horticultural Expo
+2027.
+
+Regarding the safety of the discharge of ALPS treated water into the sea, we will maintain close coordination with
+the IAEA, and provide sincere explanation both domestically and internationally, based on scientific evidence in a
+highly transparent manner.
+
+Relations with neighboring countries, etc.
+
+In order to maintain peace and prosperity in Japan and the region, we will build stable relations with our neighboring
+countries, while dealing head-on with difficult issues.
+
+Following the Japan-China summit meeting last November, I also held a Japan-China foreign ministerial meeting
+with Foreign Minister Wang Yi.
+
+While there are various potentials for improved ties between Japan and China, there are also many challenges and
+concerns, such as Chinas unilateral attempts to change the status quo by force in the East and South China Seas,
+including the waters surrounding the Senkaku Islands, and a series of military activities around our country,
+including those coordinated with Russia. Peace and stability across the Taiwan Strait is also important. The
+Government of Japan also expresses serious concerns about the human rights situation in China and the situation
+in Hong Kong.
+
+                                                                              Page 5 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+At the same time, both Japan and China have a significant responsibility for the peace and prosperity of the region
+and the international community. While comprehensively promoting a "Mutually Beneficial Relationship Based on
+Common Strategic Interests", Japan will firmly maintain and assert our position and strongly request China to act
+responsibly, while at the same time continue to engage in dialogue including that on areas of concern and
+cooperate on matters of common interest. It is important that both Japan and China make efforts to build a
+"constructive and stable relationship.
+
+In this context, we will continue to call for the immediate lifting of import restrictions by China on Japanese food
+products.
+
+Japan will continue to communicate closely with the Republic of Korea (ROK), an important neighboring country, at
+various levels in order to broaden coordination and cooperation in a wider range of fields and to work together as
+partners to pave the way for a new era of the Japan-ROK bilateral relations.
+
+Given the severe security environment in the Indo-Pacific, close cooperation between the two countries is
+necessary now more than ever. As Japan-ROK relations get back on track and continue to improve, we will also
+further enhance coordination on global issues.
+
+Takeshima is an inherent territory of Japan in light of historical facts and based on international law. Japan will deal
+with the issue in a resolute manner based on this consistent position.
+
+From a broad perspective, Japan-China-ROK Trilateral Cooperation is important for regional and global peace and
+prosperity. Based on the discussions at the Foreign Ministers' Meeting last November, we will support the efforts of
+the Presidency to hold a Trilateral Summit at the earliest convenient time.
+
+With regard to Russia, we will respond in a manner that protects Japan's national interests. Japan-Russia relations
+remains to be in a difficult situation due to Russias aggression against Ukraine, but Japan will firmly maintain its
+policy of concluding a peace treaty through the resolution of the Northern Territories issue. At the same time, we will
+appropriately deal with issues that need to be addressed by Japan and Russia as neighbors, such as those related
+to fishing and other economic activities as well as maritime safety, from the perspective of what is in Japan's
+national interests in the overall diplomacy of our country.
+
+In addition, the resumption of the Four-Island exchange program and the others is one of the highest priorities in
+Japan-Russia relations. We will continue to strongly urge the resumption of such programs, with particular
+emphasis now on the Visits to the Graves.
+
+North Korea has made clear its intention to further intensify its nuclear and missile activities. The launch of ballistic
+missiles, which is also a violation of UN Security Council resolutions, and other provocative actions are totally
+unacceptable. We are also seriously concerned about the military cooperation that is being strengthened between
+Russia and North Korea. Japan will continue to closely coordinate with the international community, including
+between Japan and the U.S. as well as among Japan, the U.S., and the ROK in addressing these issues.
+
+Regarding North Korea, Japan seeks to normalize its relations with North Korea, in accordance with the Japan-
+DPRK Pyongyang Declaration, through comprehensively resolving the outstanding issues of concern, such as the
+abductions, nuclear and missile issues, as well as settlement of the unfortunate past.
+
+In particular, with the aging of the families of abductees, the abductions issue is a humanitarian and time sensitive
+issue with no time to spare. We will boldly take every possible action to realize the return of all abductees at the
+earliest possible date.
+
+Cooperation for Global Issues
+
+We are faced with a host of global issues, including climate change, the environment, food and energy, global
+health, population, refugees and the sustainable use of the oceans.
+
+                                                                              Page 6 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+It is becoming increasingly important for the United Nations to fulfill its primary role in addressing these challenges.
+We will lead the effort to strengthen the UN, including reform of the Security Council. In March, Japan will assume
+the presidency of the Security Council, and we would like to engage in active discussions with other countries on
+important issues facing the international community.
+
+In September, the UN Summit of the Future will take place. That will be an occasion to return to the starting point of
+"human dignity" and for participants to forge "human-centered international cooperation" based on the principle of
+human security. We will also actively contribute to international efforts to comprehensively achieve the SDGs by the
+year 2030. In addition, we will promote efforts to enable Japanese nationals to play even more active roles as staff
+members in international organizations.
+
+As this year marks the "70th anniversary of Japans International Cooperation, we would like to take this opportunity
+to actively communicate the significance of and prospects for ODA, one of our most important diplomatic tools, to
+deepen public understanding.
+
+At the same time, we will actively promote the realization of a world without nuclear weapons, our human rights
+diplomacy, peacebuilding, and measures against terrorism and transnational organized crime.
+
+In particular, with regard to nuclear disarmament and non-proliferation, we will continue and strengthen our realistic
+and practical efforts by implementing measures one by one under the "Hiroshima Action Plan.
+
+New Possibilities for Japanese Diplomacy
+
+In addition to these efforts, I would like to open up new possibilities for Japanese diplomacy.
+
+As we live in an era when cooperation between nations becomes challenging, we will promote initiatives involving
+various stakeholders including youth such as junior high and high school students, beyond national, regional,
+gender and other barriers. We will also strengthen our activities within Japan, where we will link our discussions
+with ambassadors based here to our overall diplomacy. We will continue to emphasize "outreach diplomacy" efforts
+such as these.
+
+Furthermore, we will actively utilize our soft power, such as the appeal of Japanese culture and our science and
+technology.
+
+We will further promote understanding and strategic communication concerning Japan, including through the
+"Partnership to Co-create a Future with the Next Generation: WA Project 2.0 announced at the Commemorative
+Summit for the 50th Year of ASEAN-Japan Friendship and Cooperation. We will continue to play a steadfast role
+towards the inscription of the " Sado Island Gold Mine on the World Heritage List, while engaging in in-depth
+discussions with the relevant countries.
+
+Furthermore, we will strengthen our ties with Nikkei communities around the world.
+
+The key to diplomacy is people, and in order to achieve steady results in the activities just mentioned, it is essential
+to strengthen our foreign policy implementation structure.
+
+We will take steps to improve the working environment and the livelihood of our overseas staff members,
+strengthen our personnel structure, improve our financial basis, promote digital transformation (DX) and workstyle
+reforms, and fundamentally enhance our diplomatic and consular implementation structure.
+
+In preparation for an emergency, we will promote the strengthening of diplomatic missions overseas and enhance
+their readiness to respond to crises, including the protection of Japanese nationals, in a timely and agile manner,
+including personnel structure.
+
+Conclusion
+
+                                                                              Page 7 of 7
+        SPEECHES BY THE FOREIGN MINISTER FOREIGN POLICY SPEECH BY FOREIGN MINISTER
+                         KAMIKAWA TO THE 213TH SESSION OF THE DIET
+
+This year, critical elections are scheduled to be held in various parts of the world, and the international situation will
+enter a critical phase. Against this backdrop, Japan will host important international meetings such as the 10th
+Pacific Islands Leaders Meeting and the TICAD Ministerial Meeting. We will also strengthen our ties with the Latin
+American and the Caribbean countries including Brazil hosting the G20 and Peru hosting APEC in 2024.
+
+I have come to realize that the trust and expectations from the international community toward Japan, which we
+have built as a peace-loving nation for nearly eighty years since the end of World War II, are extremely high.
+
+In order to live up to such trust and expectations, I will continue to challenge myself this year while listening to the
+voices of the people and gaining their understanding and support.
+
+I sincerely ask for the kind understanding and cooperation of all Diet members and the people of Japan.
 
 
-Load-Date: August 7, 2024
+Load-Date: January 31, 2024
 
 
   

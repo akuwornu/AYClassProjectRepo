@@ -1,72 +1,166 @@
 
 
-                                                                                                      Page 1 of 2
-                    Virginia Tech research team uses AI, satellite imagery to detail Debby's damage
+                                                                                  Page 1 of 3
+         NIST AND NSF AWARD NEARLY $7.1 MILLION TO 15 UNIVERSITIES TO SUPPORT DISASTER
+                                          RESILIENCE
 
 
 
 
-     Virginia Tech research team uses AI, satellite imagery to detail Debby's
-                                   damage
-                                                     Targeted News Service
-                                           August 19, 2024 Monday 6:47 PM EST
+    NIST AND NSF AWARD NEARLY $7.1 MILLION TO 15 UNIVERSITIES TO
+                   SUPPORT DISASTER RESILIENCE
+                                              States News Service
+                                           January 18, 2024 Thursday
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Length: 355 words
-Byline: Targeted News Service
-Dateline: BLACKSBURG, Virginia
+Length: 1151 words
+Byline: States News Service
+Dateline: GAITHERSBURG, Md.
 
 Body
 
 
-Virginia Tech issued the following news:
+The following information was released by the National Institute of Standards and Technology (NIST):
 
-On the morning of Aug. 5, Category 1 Hurricane Debby made landfall near Steinhatchee, Florida, then moved up
-the East Coast. The storm flooded nearly 2,200 square kilometers, or 850 square miles, between Florida and New
-York, according to new findings from Virginia Tech's Earth Observation and Innovation Lab.
+The U.S. Department of Commerce's National Institute of Standards and Technology (NIST) and the National
+Science Foundation (NSF) have awarded nearly $7.1 million in grants to fund research that will improve the ability
+of buildings, infrastructure and communities to withstand severe natural hazards. The projects are funded through
+the Disaster Resilience Research Grant (DRRG) program, which is jointly managed by NIST and NSF.
 
-By Aug. 9, more than 35 million people from South Carolina to Vermont were under flood alerts. Berkeley County,
-South Carolina, saw as much as 14 inches of rain with Charleston reaching 15 inches. Cities and counties along the
-U.S. Atlantic Coast are already vulnerable to flooding caused by land subsidence and sea level rise, a recent
-Virginia Tech study found.
+"These grants support science-based methods of improving resilience, including improved planning, policy,
+decisions, design, codes and standards," said Joannie Chin, NIST's Engineering Laboratory director. "They can
+also help educate the next generation of engineers and designers and ensure that a diversity of communities is
+considered and given the tools they need to protect their futures."
 
-Associate Professor Manoochehr Shirzaei and his team tracked Debby's impact by leveraging artificial
-intelligence (AI) and big radar satellite data acquired by Sentinel-1 satellites operated by European Space Agency.
+Applicants were asked to consider natural hazards such as hurricanes and tornadoes; sustained rain, coastal and
+inland flooding, and tsunamis; wildland-urban interface fires; and earthquakes and how communities could reduce
+their vulnerabilities to them and increase their resilience.
 
-Radar microwave signals penetrate clouds and capture detailed images of the Earth's surface, allowing for accurate
-detection of floodwaters. Radar can measure changes in water levels, track flood progression, and provide critical
-data for emergency response and disaster management.
+"NSF's investment aims to reduce the disastrous economic and societal impacts of natural hazards," said Susan
+Margulies, NSF's assistant director for engineering. "Our partnership with NIST accelerates the novel ideas and
+approaches we support into planning, building codes and decision-making strengthening our nation's resilience to
+natural hazards."
 
-Shrizaei's team found that nearly 2,200 square kilometers were flooded during and after Debby's landfall between
-Florida and New York with 1.5 percent of the land area in nine counties inundated. Seven counties experienced
-more than 35 square kilometers of inundation.
+The eight research projects funded by NIST are:
 
-Debby is the fourth hurricane since 2000 to hit Florida in early August. Its heavy rain and strong winds may be
-linked to a warming atmosphere and oceans, which can hold more moisture.
+University of Notre Dame ($400,000)
 
-                                                                                                      Page 2 of 2
-                    Virginia Tech research team uses AI, satellite imagery to detail Debby's damage
+To improve predictions of the impacts storm wave- or current-carried debris could have on elevated structures, to
+support the goals of the American Society of Civil Engineers' Flood Loads Subcommittee.
 
-"As extreme weather events like Debby become more common, it's crucial to rethink how we develop flood-prone
-areas along the U.S. East Coast," Shirzaei said. "Investing in resilient infrastructure and promoting public
-awareness are essential steps in preparing for and adapting to future floodings."
+University of Delaware ($399,988)
 
-***
+                                                                                 Page 2 of 3
+        NIST AND NSF AWARD NEARLY $7.1 MILLION TO 15 UNIVERSITIES TO SUPPORT DISASTER
+                                         RESILIENCE
 
-Original text here: https://news.vt.edu/articles/2024/08/science-ai-satellite-imagery-detail-debbys-damage.html
+To improve understanding of the risks to acute care access and flood impacts to improve service providers' and
+communities' disaster preparedness and help ensure continuity of care, reducing morbidity and mortality
+associated with missing treatment in future disasters.
 
-Copyright Targeted News Services
+University of Texas at San Antonio ($399,922)
 
-MSTRUCK-8781133 MSTRUCK
+To develop artificial intelligence-powered methods and tools to support adaptive restoration of regional
+transportation networks and other types of infrastructure, such as power and water, following earthquake, hurricane,
+flood or wildfire.
+
+State University of New York at Albany ($399,391)
+
+For the development of sociological and engineering methods, modeling and road maps to support the security and
+resiliency of electrical power infrastructure in coastal regions and islands when exposed to climate change-induced
+extreme weather.
+
+Oklahoma State University ($398,071)
+
+To develop a performance-based wildland-urban interface (WUI) fire resilience assessment model that can be used
+to create customized community emergency management plans for mitigation, preparedness, response and
+recovery, and which takes into account the unique built environment and human interactions with it.
+
+University of California San Diego ($397,820)
+
+To develop, validate and assess an efficient and practical design method that will integrate resilience and
+performance criteria in support of resilience-based design to reduce the cost and impact of disasters on the built
+environment.
+
+University of Notre Dame ($394,577)
+
+To address fundamental knowledge gaps in support of a design procedure for thunderstorm/downburst winds
+based on a web-enabled enhanced gust effects factor (EGEF) framework and ensuring the dissemination of data
+and knowledge with a focus on diversity, equity and inclusivity.
+
+Virginia Polytechnic Institute and State University ($388,419)
+
+To develop an open-source, computationally efficient model that can be used by the engineering community to
+assess the risk of infrastructure ignition due to ember, or firebrand, showers caused by fires in the wildland-urban
+interface where communities abut undeveloped land.
+
+The 10 research projects funded by NSF are:
+
+University of Washington ($400,000)
+
+To develop a fundamental understanding of the behavior of cast-in-place floor slabs, or "diaphragms," in reinforced
+concrete buildings and develop tools for their design and for probabilistically quantifying their expected performance
+during an earthquake.
+
+University of California, Los Angeles ($399,933)
+
+To use principles from artificial intelligence to develop near real-time infrastructure damage prediction models for
+use in the immediate post-event environment of a major hazard event (e.g., wildfire, earthquake and flood), thereby
+enhancing the emergency response and recovery planning phases that follow.
+
+University of Illinois Urbana-Champaign ($399,851)
+
+                                                                                 Page 3 of 3
+        NIST AND NSF AWARD NEARLY $7.1 MILLION TO 15 UNIVERSITIES TO SUPPORT DISASTER
+                                         RESILIENCE
+
+To examine how characteristics of thunderstorm winds, including design-level peak wind speeds, relate to the
+different generating mechanisms of such winds. The project will also investigate spatial variabilities and temporal
+intermittencies associated with these mechanisms.
+
+University of Mississippi ($399,475)
+
+To establish a standard monitoring approach for impoundments of mine tailings (massive geotechnical structures
+that store mining waste), thereby revolutionizing infrastructure monitoring and hazard management during extreme
+weather events.
+
+North Carolina State University ($398,891)
+
+To advance understanding of how local erosion events contribute to floods in neighboring communities; how these
+floods can be managed by allowing barrier sections to return to nature; and how such a transformation, when
+informed and deliberated on by community stakeholders, may affect community place meanings.
+
+George Mason University ($397,365)
+
+To incorporate equity into wildfire preparedness strategies and minimize the equity-of-access gap to resources
+between disadvantaged and advantaged communities.
+
+Johns Hopkins University ($391,951)
+
+To develop a novel system to provide rapid, scalable and joint assessments of cascading hazards (e.g., ground
+shaking, landslide and liquefaction) during seismic events by leveraging the causal dependencies among them.
+
+George Mason University ($385,353)
+
+To evaluate the effect of extreme heat on efficacy of disinfection in drinking water distribution systems and evaluate
+a novel engineering solution to increase resiliency to extreme heat disasters.
+
+Oklahoma State University ($367,706)
+
+To investigate the potential role of social networks and micromobility (lightweight vehicles such as bicycles or
+scooters) in enhancing the planning and operation of resilience hubs, an emerging infrastructural concept that has
+the potential to support more equitable disaster response and recovery efforts.
+
+Louisiana State University ($363,852)
+
+To model power grid resilience equity by considering the hardships faced by different communities and taking
+account of these hardships in the protection of power infrastructure against flood-induced hazards.
 
 
-Load-Date: August 20, 2024
+Load-Date: January 19, 2024
 
 
   

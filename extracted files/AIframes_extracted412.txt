@@ -1,60 +1,132 @@
 
 
-                                                                                                   Page 1 of 2
-               DEAC & DLC data centers strengthen position in Northern Europe with new brand Delska
+                                                                                                        Page 1 of 3
+                            Intermap Drives Infrastructure Advancements in Greece and Malawi
 
 
 
 
- DEAC & DLC data centers strengthen position in Northern Europe with new
-                              brand Delska
-                                                           PR Newswire
-                                           June 19, 2024 Wednesday 8:50 AM EST
+        Intermap Drives Infrastructure Advancements in Greece and Malawi
+                                                         GlobeNewswire
+                                                April 8, 2024 Monday 4:30 AM PT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 477 words
-Dateline: RIGA, Latvia, June 19, 2024
+
+
+
+Section: COMPANY ANNOUNCEMENT
+Length: 1334 words
 
 Body
 
 
-PR NewswireRIGA, Latvia, June 19, 2024 /PRNewswire/ --DEACand Data Logistics Center (DLC) celebrate 25
-years of data center and network expertise by merging into a joint brand, Delska. This strategic merger will
-benefit businesses, offering sophisticated solutions for reliable operations of IT infrastructure and
-networks across multiple locations. Both companies have been part of the Baltic Rezo group, owned by Swiss
-Quaero European Infrastructure Fund II and managed by Quaero Capital since 2020, accelerating development
-and infrastructure expansion. The legal entities will stay the same.Andris Gailitis, DEAC and DLC CEO, comments:
-"We are embarking on an exciting rebranding journey, which involves closer cooperation between companies and
-an expanded services portfolio to meet IT challenges of our customers from over 40 countries.
+3D precision elevation data enhances agriculture practices in Greece
 
-The heart of the new brand is customers and personal approach to their business. Our strength lies in custom
-solutions for specific business and industry needs."Delska's values are openness, flexibility, and reliability. Both
-companies still emphasize security, quality, and sustainability by using green energy and Neste MY diesel from
-HVO for backup power generators.AI boom, increased demand for large-scale data processing, edge and high-
-power computing have accelerated the construction of data centers. To keep up with the lack of power capacities in
-major European hubs, a new 10 MW data center in Latvia is under construction. It will be one of the region's most
-sustainable, with LEED and Tier III certifications, scheduled for launch in 2025. Flexible options of up to 100kW per
-rack and 1000 racks are available for pre-booking, and the construction project can be adapted by expanding up to
-50 MW.Delska's growth plans include building a new data center in Lithuania, and additional players joining the
-group soon to build a strong regional data center and network ecosystem. Several owned data centers in Riga and
-Vilnius and points of presence in Frankfurt, Amsterdam, and Stockholm ensure customers' business continuity with
-disaster recovery solutions.Delska offers a comprehensive range of IT services – cloud, dedicated servers,
-security, network solutions, and managed services. "In addition to currently available virtual machine deployment on
-our self-service platform, built for SMBs, developers, and startups, this year we will implement instant bare metal
-service to simplify IT people's lives even further," emphasis A. Gailitis.Learn more:www.delska.comPhoto -
-https://mma.prnewswire.com/media/2441990/DEAC_and_DLC.jpg
-Logo -https://mma.prnewswire.com/media/2158379/4766402/DEAC_and_DLC_Logo.jpg View original content to
-download      multimedia:https://www.prnewswire.com/news-releases/deac--dlc-data-centers-strengthen-position-in-
-northern-europe-with-new-brand-delska-302176837.htmlSOURCE DEAC & DLC
+Transforming water resources management and resilience in Malawi
 
-                                                                                                Page 2 of 2
-            DEAC & DLC data centers strengthen position in Northern Europe with new brand Delska
+Leveraging AI/ML for government applications
+
+DENVER, April 08, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF)
+(“Intermap” or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today
+announced two infrastructure projects in Greece and Malawi, providing applications that leverage recent
+advancements in AI/ML.
+
+Intermap has received a contract award alongside its partner, ALVO, to provide 3D precision elevation data to the
+Hellenic Republic Ministry of Rural Development and Food in Greece (“Greek Ministry of Agriculture”). Intermap’s
+high-resolution NEXTMap® 3D digital surface models (DSMs) and geospatial services are integrated with ALVO’s
+innovative products to provide the government with high-quality data and tools to address its agriculture needs. This
+strategic partnership combines both companies’ products and expertise into one solution, empowering the Greek
+Ministry of Agriculture to perform critical agriculture studies, offering valuable insights and enabling data-driven
+decisions for optimal crop management and resource allocation.
+
+“Intermap’s NEXTMap DSM is an excellent solution for our purpose,” said Dimitris Messinezis, Founder and CEO of
+ALVO in Greece. “Agriculture technologies continually evolve, and we focus on concrete cooperations with
+worldwide corporations that follow the developments in the same pace and manner. Intermap is a great partner for
+this national level agriculture project and all future projects since we admire their professionalism and dedication.”
+
+                                                                                                        Page 2 of 3
+                        Intermap Drives Infrastructure Advancements in Greece and Malawi
+
+“We are excited to be a part of this important government project for the Greek Ministry of Agriculture,” said Patrick
+A. Blott, Intermap Chairman and CEO. “Our expertise in 3D precision geospatial data makes us a valuable partner
+for ALVO in delivering advanced solutions for the agriculture industry in Greece. By extending our commercial
+services business model to government applications, we are empowering governments to leverage our AI/ML-
+driven application layers for enhanced value extraction that is tailored to specific geospatial infrastructure
+investments. We are committed to providing innovative solutions to our partners and distributors to enable clients to
+make informed decisions about geospatial problems.”
+
+In Africa, Intermap won a contract to supply its latest 3D digital terrain models (DTMs) to the government of Malawi
+for Watershed Services Improvement and Disaster Management Projects. The Company is supplying DTM data for
+the entire Shire River Basin, a critical area in Malawi for hydropower, agriculture, fisheries, transport, tourism and
+urban and rural water supplies. By leveraging AI/ML-driven data production technology, Intermap empowers
+Malawi’s unique hydrometeorological techniques and river basin management practices. Intermap’s 3D DTMs offer
+unparalleled insights into the current topography of the region, facilitating informed decision making and proactive
+measures to mitigate risks associated with natural disasters.
+
+“Intermap remains committed to supporting global initiatives aimed at disaster risk reduction and sustainable
+development,” said Mr. Blott. “Through the provision of cutting-edge geospatial intelligence solutions, we continue
+to empower nations like Malawi to build resilient infrastructure to support communities and thrive in the face of
+environmental changes.”
+
+Malawi faces significant challenges posed by various natural hazards, including floods, droughts, earthquakes and
+landslides. These hazards often lead to infrastructure damage, impacting the country’s economy and the livelihoods
+of its people. Recognizing the urgency of addressing these challenges, the Malawi Department of Water Resources
+is actively engaged in using the latest technology to implement innovative solutions, enhance disaster
+management and bolster watershed sustainability.
+
+Learn more about Intermap’s NEXTMap elevation data at intermap.com/nextmap.
+
+Intermap Reader AdvisoryCertain information provided in this news release, including reference to revenue growth
+and run-rate, constitutes forward-looking statements. The words "anticipate", "expect", "project", "estimate",
+"forecast", “will be”, “will consider”, “intends” and similar expressions are intended to identify such forward-looking
+statements. Although Intermap believes that these statements are based on information and assumptions which are
+current, reasonable and complete, these statements are necessarily subject to a variety of known and unknown
+risks and uncertainties. Intermap’s forward-looking statements are subject to risks and uncertainties pertaining to,
+among other things, cash available to fund operations, availability of capital, revenue fluctuations, nature of
+government contracts, economic conditions, loss of key customers, retention and availability of executive talent,
+competing technologies, common share price volatility, loss of proprietary information, software functionality,
+internet and system infrastructure functionality, information technology security, breakdown of strategic alliances,
+and international and political considerations, as well as those risks and uncertainties discussed Intermap’s Annual
+Information Form and other securities filings. While the Company makes these forward-looking statements in good
+faith, should one or more of these risks or uncertainties materialize, or should underlying assumptions prove
+incorrect, actual results may vary significantly from those expected. Accordingly, no assurances can be given that
+any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do so, what
+benefits that the Company will derive therefrom. All subsequent forward-looking statements, whether written or oral,
+attributable to Intermap or persons acting on its behalf are expressly qualified in their entirety by these cautionary
+statements. The forward-looking statements contained in this news release are made as at the date of this news
+release and the Company does not undertake any obligation to update publicly or to revise any of the forward-
+looking statements made herein, whether as a result of new information, future events or otherwise, except as may
+be required by applicable securities law.
+
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
+terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
+
+                                                                                                     Page 3 of 3
+                       Intermap Drives Infrastructure Advancements in Greece and Malawi
+
+patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
+datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
+elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
+and machine learning, providing customers with critical information to understand their terrain environment. By
+leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
+Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
+enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
+Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
+wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
+telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
+transportation.
+
+For more information, please visit www.intermap.com or contact:Jennifer BakkenExecutive Vice President and
+CFOCEO@intermap.com +1 (303) 708-0955
 
 
-Load-Date: June 19, 2024
+
+
+Load-Date: April 8, 2024
 
 
   

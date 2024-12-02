@@ -1,143 +1,114 @@
 
 
-                                                                                                  Page 1 of 3
-           Rand Issues Commentary: Building Flood Resilience - A Grand Challenge for U.S. Water Policy
+                                                                                                 Page 1 of 3
+   HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology Creates
+                          Industry’s first AI-led Development to Protect Any SaaS....
 
 
 
 
-  Rand Issues Commentary: Building Flood Resilience - A Grand Challenge
-                         for U.S. Water Policy
-                                                     Targeted News Service
-                                           August 10, 2024 Saturday 6:20 AM EST
+  HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through
+  Generative AI Technology; Creates Industry’s first AI-led Development to
+  Protect Any SaaS Application in Hours When No Protection Was Available
+                                   Prior
+                                                         GlobeNewswire
+                                             January 30, 2024 Tuesday 5:30 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 1267 words
-Byline: Targeted News Service
-Dateline: SANTA MONICA, California
+Section: COMPANY ANNOUNCEMENT; PRODUCT / SERVICES ANNOUNCEMENT; PRESS RELEASES
+Length: 864 words
 
 Body
 
+Boston, Massachusetts, Jan. 30, 2024 (GLOBE NEWSWIRE) -- HYCU, Inc., a leader in data protection as a
+service and one of the fastest growing companies in the industry, today announced the HYCU Generative AI
+Initiative. This project aims to seamlessly integrate generative AI technology, including Anthropics' AI assistant
+Claude with HYCU's R-Cloud data protection platform, redefining the development process of data protection
+integrations and creating an easy to use way to create SaaS integrations.
 
-(TNSres) -- Rand issued the following commentary on Aug. 9, 2024:
+"This development with Anthropic’s frontier generative AI model Claude is more than an integration; it's a leap
+forward in the future of data protection,” said Simon Taylor, Founder and CEO, HYCU, Inc. “By harnessing AI, we're
+not only accelerating our development processes but also reinforcing our commitment to security and operational
+efficiency. We're excited to take R-Cloud to the next level and pioneer this space and set new standards for the
+industry."
 
-***
+HYCU Generative AI Sets New Benchmark for SaaS Data Protection
 
-Building Flood Resilience: A Grand Challenge for U.S. Water Policy
+The HYCU Generative AI Initiative includes:
+    •     AI-Driven Development Process: Leveraging Anthropic’s Claude model with HYCU’s security-centric
+          design evolves the platform into an intelligent, responsive, and adaptable development environment.
+    •     Deep Understanding of Data Protection Complexities: The integration allows Claude to fully understand
+          the nuances of compliance, encryption, and recovery protocols, custom-tailored for HYCU’s platform.
 
-By Sara Hughes, Rebecca Tisherman, Linnea Warren May and Michelle E. Miro
+                                                                                                Page 2 of 3
+  HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology Creates
+                         Industry’s first AI-led Development to Protect Any SaaS....
 
-Earlier this month Hurricane Beryl caused extreme flooding across the country, from Texas to Vermont, in many
-cases impacting communities that were still recovering from catastrophic flooding in 2023. Flooding has become the
-most expensive and frequent disaster in the United States. Since 2000, flooding events occur almost daily
-(https://www.pewtrusts.org/en/research-and-analysis/articles/2022/12/15/flooding-is-nearly-a-daily-occurrence-
-throughout-the-
-us#:~:text=Since%202000%2C%20at%20least%20one,affected%20by%20flooding%20in%202021.) and the cost
-of inland flooding alone in 2023 was nearly $200 billion (https://www.climate.gov/news-features/blogs/beyond-
-data/2023-historic-year-us-billion-dollar-weather-and-climate-disasters). Flooding also has major implications for
-human health and well-being (https://nap.nationalacademies.org/catalog/27791/exploring-community-flood-impacts-
-vulnerabilities-and-adaptation-strategies-to-public-health-concerns) through degrading housing conditions, loss of
-mobility and economic opportunity, and impacted ecosystems and environmental conditions. Many of the
-households and businesses (https://www.theguardian.com/us-news/article/2024/jul/18/flooding-small-businesses-
-closing) most vulnerable to flood risk have the least resources available to prepare for and respond to a flood.
+    •   Dramatic Reduction in Development Time: The integration significantly cuts down the development time
+        for data protection integrations from weeks to hours.
+    •   Maintaining High Standards: All AI-driven integrations will adhere to HYCU’s stringent standards of
+        security and efficiency.
 
-Addressing flood risks and building flood resilience represents a grand challenge for U.S. water policy due to the
-scope of its impacts, along with the complex set of policies, regulation, science, and financing programs that
-underpin flood risk and require transformation for effective and equitable solutions.
+Strategic Impact of Generative AI Data Protection for HYCU R-Cloud
 
-                                                                                                 Page 2 of 3
-          Rand Issues Commentary: Building Flood Resilience - A Grand Challenge for U.S. Water Policy
+Today’s news marks three significant innovations to the HYCU R-Cloud award-winning platform.
+    •   Pioneering Infrastructure Software Protection and Recovery: This initiative places HYCU at the
+        forefront of integrating AI in data protection, marking a landmark moment in infrastructure software
+        innovation. It also builds on the introduction of R-Scout, an AI Powered assistant HYCU introduced earlier
+        to make it easy for customers and partners to learn about the breadth of HYCU offerings, educate them on
+        how to leverage each solution from on-prem to public cloud to SaaS, and provide best practice guidance.
+    •   Synergyzing Company Missions: The collaboration aligns the missions of HYCU and Anthropic,
+        emphasizing the creation of a safer world through advanced data protection and AI.
+    •   Setting New Benchmarks for SaaS and Cloud Services with AI: HYCU sets a new industry standard for
+        AI-driven data protection platforms, as this level of collaboration and execution is new. It also delivers a
+        new way for the thousands of HYCU customers to easily protect SaaS applications and cloud services
+        when protection was previously not available. In addition to protecting core cloud services, HYCU is also
+        focused on protecting the data and configuration in specialized AI services that are becoming critical for
+        customers. The initial AI infrastructure HYCU protects out of the box are PineCone and Redis – both used
+        as core Vector Databases critical for AI
 
-The reasons for the expanding risk and impact of flooding are varied. First, due to climate change, storms are
-increasing in severity and frequency, causing flooding on the coasts, along rivers, and in cities. Second, much of
-the infrastructure in place to mitigate flooding is undersized, outdated, and out of repair
-(https://theconversation.com/americas-aging-flood-control-infrastructure-is-failing-federal-funding-is-coming-but-too-
-often-new-construction-relies-on-old-data-
-204237#:~:text=Stormwater%20systems%20are%20also%20aging,built%20in%201925%2C%20to%20collapse.).
-Stormwater systems, coastal flood barriers, and inland dams and levees have often been designed to outdated
-performance standards, including to historical climate conditions that no longer hold, and have been poorly
-maintained over time. Much of the natural infrastructure that historically served as a barrier to flooding, like
-vegetated areas next to streams, has been impaired or destroyed.
+HYCU R-Cloud includes the world’s first low-code development platform for data protection that enables SaaS
+companies and service providers to deliver application-native backup and recovery efficiently and rapidly. HYCU R-
+Cloud has been recognized for setting the bar for SaaS data backup and protection for its ease of use of integration
+for both end users and SaaS providers.
 
-Third, housing policies, land use planning, and economic development processes have created incentives and
-opportunities for increased investment in areas at high risk of coastal or inland flooding, while at the same time
-increasing the amount of impervious surface area, exacerbating flood risk. The governance and financing
-(https://nap.nationalacademies.org/catalog/25381/framing-the-challenge-of-urban-flooding-in-the-united-states) of
-elements critical to flood risk and mitigation--land use, insurance (https://www.cbo.gov/publication/60042),
-stormwater permitting, hazard mitigation planning, infrastructure financing, environmental protection, housing
-policy--tend to be disjointed and fragmented, with little coordination between them.
+“Leveraging cutting-edge AI technology is a testament to HYCU's commitment to technological innovation and
+leadership in the data protection industry,” said Philippe Nicolas, Principal, Coldago Research. “It is another strong
+example of how HYCU continues to deliver unparalleled value to customers and reinforces HYCU's position as a
+market leader."
 
-Tackling this challenge therefore requires transformations in many systems fundamental to how and where people
-live, work, and build. New insights into the critical needs and possible opportunities for transforming these systems
-are emerging and can support better policy and decisionmaking, identify new solutions, and inform the evaluation of
-alternatives and tradeoffs. Specifically, we highlight three ways innovative, collaborative efforts can help build flood
-resilience in the U.S.
+For more information on HYCU R-Cloud, visit: https://www.hycu.com/r-cloud, follow us on X (formerly Twitter),
+connect with us on LinkedIn, Facebook, Instagram, and YouTube.
 
-1. Update the information environment: There is a lack of accurate and targeted information (e.g., climate change
-projections, floodplain maps, land use requirements, and data on previous flood exposure) readily available for
-communities and decisionmakers. Improving their availability, accessibility, and usability is an important step toward
-building flood resilience. Decision-ready information is needed to support planning on various timescales, from
-immediate flood response to long-term flood resilience. For example, the Harris County Flood Control District in
-Texas has made significant strides, integrating real-time data from rain gauges and bayou water levels to provide
-accurate flood risk information (https://www.harriscountyfws.org/) to residents and policymakers. This initiative has
-helped the city better prepare for and respond to flooding events.
+###
 
-2. Envision new futures with communities: Addressing flood risk and building flood resilience requires
-transformative approaches to designing infrastructure and investing in communities. Decisionmakers must partner
-with communities to develop shared visions of flood resilience using new tools and methods. For example,
-FloodGen uses AI to generate photorealistic images of potential flood scenarios, raising awareness and enhancing
-community preparedness. Community engagement involves not just consultation but active partnership to co-create
-solutions that reflect their unique needs and aspirations. The Milwaukee Metropolitan Sewerage District partners
-(https://www.mmsd.com/about-us/news/transforming-neighborhoods-partnerships-projects)        with   communities,
-government agencies, and non-government agencies to reduce the risk of flooding through infrastructure
-improvements. Innovative and equitable approaches to community collaboration can help decisionmakers pursue
-resilient futures.
+About HYCU HYCU is the fastest-growing leader in the multi-cloud and SaaS data protection as a service industry.
+By bringing true SaaS-based data backup and recovery to on-premises, cloud-native and SaaS environments, the
+company provides unparalleled data protection, migration, disaster recovery, and ransomware protection to
+thousands of companies worldwide. As an award-winning and recognized visionary in the industry, HYCU solutions
+eliminate complexity, risk, and the high cost of legacy-based solutions, providing data protection simplicity to make
+the world safer. With an industry leading NPS score of 91, customers experience frictionless, cost-effective data
+protection, anywhere, everywhere. HYCU has raised $140M in VC funding to date and is based in Boston, Mass.
+Learn more at www.hycu.com.
 
-3. Strengthen the governance and financing of flood resilience: Building flood resilience requires finding and
-leveraging points of intersection and collaboration among existing governing structures and financing mechanisms.
-For example, the state of Vermont has developed a comprehensive approach to flood resilience through its "Flood
-Ready Vermont" (https://floodready.vermont.gov/) initiative. This program integrates land use planning, hazard
-mitigation, and infrastructure investment to create a coordinated and effective response to flood risks. Building
-understanding of how and when current systems (e.g., insurance, financing, regulation, permitting, watershed
-management) impede resilience-building can help identify the most effective and feasible alternatives.
+   Attachment
+
+
+    •   HYCU R-Cloud Leverages Anthropic to Revolutionize Data Protection through Generative AI Technology
+Don Jennings HYCU, Inc. 617-791-1710 don.jennings@hycu.com
 
                                                                                                 Page 3 of 3
-         Rand Issues Commentary: Building Flood Resilience - A Grand Challenge for U.S. Water Policy
-
-Building flood resilience can save lives, reduce costs, and help address persistent inequities. The examples above
-highlight the innovative approaches already being taken across the U.S. Learning from, and scaling up, effective
-and justice-centered approaches is a needed next step.
-
-***
-
-More About This Commentary
-
-Sara Hughes is a senior policy researcher, Becky Tisherman is an associate physical scientist, Linnea Warren May
-is an associate policy researcher and Michelle Miro is a senior information scientist at RAND, a nonprofit,
-nonpartisan research institution.
-
-Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often
-on their peer-reviewed research and analysis.
-
-***
-
-Original text here: https://www.rand.org/pubs/commentary/2024/08/building-flood-resilience-a-grand-challenge-for-
-us.html
-
-[Category: ThinkTank]
-
-Copyright Targeted News Services
-
-MSTRUCK-8769142 MSTRUCK
+  HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology Creates
+                         Industry’s first AI-led Development to Protect Any SaaS....
 
 
-Load-Date: August 10, 2024
+Load-Date: January 30, 2024
 
 
   

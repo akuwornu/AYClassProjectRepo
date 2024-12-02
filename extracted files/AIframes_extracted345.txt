@@ -1,150 +1,103 @@
 
 
-                                                                                                  Page 1 of 3
-          WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+                                                                                                     Page 1 of 2
+                           EXPERTS EXPLAIN HOW AI IS SUPERCHARGING INNOVATION
 
 
 
 
-      WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for
-                         Improved Satellite Services
-                                                         GlobeNewswire
-                                               July 1, 2024 Monday 10:00 PM PT
+           EXPERTS EXPLAIN HOW AI IS SUPERCHARGING INNOVATION
+                                               States News Service
+                                              March 22, 2024 Friday
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 States News Service
 
-
-
-
-Section: COMPANY ANNOUNCEMENT
-Length: 1501 words
+Length: 866 words
+Byline: States News Service
+Dateline: BLACKSBURG, VA
 
 Body
 
 
-WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+The following information was released by the Virginia Tech:
 
-Will test the node operations from the new WISeSat Satellite to be launched with SpaceX at Vandenberg Space
-Force Base in October this year.
+Rapid moving advances in artificial intelligence have stirred controversy and debate, but they have all raised
+enticing prospects for supercharged technological innovation. Researchers at Virginia Tech who are exploring these
+frontiers can offer previews of the potential positive developments that could derive from AI.
 
-Geneva, Switzerland – July 2, 2024: WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ:
-WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, today announced
-its subsidiary WISeSat.Space’s (“Company”) innovative project to bring blockchain technology to space, aimed at
-improving various aspects of the satellite industry, including logistics, insurance, government regulations, and data
-security. The Company expects to test operations of the blockchain nodes from the new WISeSat Satellite to be
-launched with SpaceX later this year.
+Advancing autonomous systems to assist in their diagnostics, safety, and human training
 
-WISeSat.Space's project to operate blockchain nodes from space is set to transform the satellite value chain,
-bringing unprecedented levels of transparency, trust, and efficiency. From logistics and insurance to governmental
-functions and financial inclusion, the integration of blockchain and satellite technology holds immense potential. As
-this innovative approach continues to develop, it promises to unlock new opportunities and drive significant
-advancements across multiple industries, paving the way for a more connected and efficient world.
+Ella Atkins, Fred D. Durham professor and head of the Kevin T. Crofton Aerospace and Ocean Engineering
+Department at Virginia Tech, investigates aerospace information systems for advanced air mobility, uncrewed
+aircraft systems, and space robotics applications. Her research explores how emerging AI and machine learning
+techniques can assist in a range of tasks from safe autonomy and self-diagnostics to tutoring human pupils.
 
-By using blockchain technology, WISeSat.Space is set to make satellite operations more reliable and accessible.
-For example, one of the key uses of blockchain in satellite operations is smart contracts. These are self-executing
-agreements where the terms are written into code and help automate processes like launching and operating
-satellites, therefore reducing the need for middlemen and cutting down on human errors. This makes the entire
-process more efficient and cost-effective. Blockchain will also provide a clear and unchangeable record of
+"AI and machine learning can make an autonomous vehicle safer through self-monitoring diagnostics and
+prognostics and data-informed decision making.Maintenance and repair operations for aircraft have been
+revolutionized with this technology.For example, this technology can assist modern vehicles in avoiding or
+recovering from problems such as unexpectedly low battery energy reserves," Atkins said.
 
-                                                                                                 Page 2 of 3
-         WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
+"Large Language Models, or LLM, powered by deep neural network machine learning, enable a person to interact
+with a computer more naturally, more conversationally. This can help a person learn even difficult concepts
+because the first step isto get past anxiety with that concept, and LLM conversation interacts more like a teaching
+assistant than an encyclopedia or textbook," she said.
 
-transactions. This is expected to be especially useful for insurance companies, as it will ensure accurate and
-verifiable information to assess risks and process claims fairly and quickly.
+Deploying human-robot interactions
 
-Using blockchain nodes in space will also significantly improve cybersecurity. Space-based nodes will be harder to
-attack than those on Earth, making the blockchain network more secure. This extra layer of protection will ensure
-that sensitive information remains safe. Moreover, space-based nodes will help decentralize the blockchain
-network. Traditional networks often rely on nodes in specific locations, which can create vulnerabilities.
+"I am interested in assistive technology, such as wheelchair mounted robot arms," says Dylan Losey, an assistant
+professor of mechanical engineering with a specialization in robotics who directs the Collaborative Robotics
+Laboratory (Collab). "My lab is focused on the fundamentals of human-robot interaction. This includes how robots
+learn from humans, how robots collaborate with humans, and how humans understand the robots they are working
+with."
 
-By adding space-based nodes, WISeSat.Space will make the network more distributed and resilient, reducing the
-risk of failures. Operating blockchain nodes in space will also help reduce energy costs. Traditional data centers
-use a lot of electricity for computing and cooling. In space, the naturally cold environment reduces the need for
-cooling, which lowers energy consumption and makes the blockchain network more environmentally friendly.
+                                                                                                         Page 2 of 2
+                        EXPERTS EXPLAIN HOW AI IS SUPERCHARGING INNOVATION
 
-Blockchain's transparency and traceability are expected to be beneficial for government functions related to
-satellites. For instance, the licensing process for launching a satellite can be streamlined using blockchain, ensuring
-all necessary approvals are met efficiently. Blockchain can also be used to monitor space operations, providing a
-clear and tamper-proof record of activities, which is crucial for regulatory oversight. Integrating blockchain with
-satellites will turn them into "smart emancipated devices."
+"My main interest is developing robots that can learn from humans and communicating what the robot has learned
+back to the human operator. I see this mutual understanding between humans and robots key to avoiding the
+pitfalls of AI. I want AI that helps people do what they want, but is also clear and transparent to the human," Losey
+said.
 
-These satellites can operate independently using smart contracts to execute tasks without constant human
-intervention. This automation will make satellite operations more efficient and reduce the risk of human error.
-Satellites will also play a crucial role in distributing blockchain information. They will act as nodes in a decentralized
-blockchain network, ensuring data is distributed and synchronized globally. This is particularly important in remote
-areas where traditional internet infrastructure is lacking. By using satellite connectivity, blockchain networks can
-reach more people, promoting greater participation in the digital economy.
+Enabling self-sufficient communication systems
 
-One of the most significant benefits of combining blockchain and satellite technology is promoting financial inclusion
-in developing regions, such as Africa. Satellites can reach remote and underserved areas, providing connectivity
-where traditional infrastructure is lacking. By integrating blockchain with satellite communications, unbanked
-populations can gain access to financial services, enabling them to participate in the global economy. This can lead
-to improved economic opportunities and a reduction in poverty levels.
+Walid Saad, a professor of electrical and computer engineering and the Next-G wireless lead at the Virginia Tech
+Innovation Campus, enthuses about the next steps in the evolution of AI and how it could intersect with forthcoming
+6G wireless systems. "Current AI systems exhibit prowess in learning but struggle with reasoning," he said. "The
+central challenge for the upcoming years lies in equipping AI systems with common sense abilities, enabling these
+systems to think critically, reason logically, and plan proactively. This marks an initial stride toward the development
+of what's known as artificial general intelligence (AGI), aiming to approach intelligence levels seen in animals, if not
+eventually reaching human-level intelligence.
 
-With enhanced cybersecurity, true decentralization, and reduced energy costs, the future of blockchain in space
-looks exceptionally promising.
+"AI can help automate and augment existing functionalities within wireless systems like 6G," Saad said.
+"Nevertheless, as we peer into a more distant horizon, the notion of AI-native wireless systems presents limitations.
+AGI could potentially herald a revolutionary paradigm in wireless technology by enabling systems capable of
+human-like cognition that is, reasoning, planning, and the application of 'common sense' where contextually
+relevant.
 
-About WISeSat.Space
+"While we realized for a while that 6G needs AI and potentially AGI, it is also worth noting that creating AGI needs
+an understanding of the physical world that 6G system can potentially provide, hence we foresee these two
+technologies truly flowing together in the future," Saad said.
 
-WISeSat AG is pioneering a transformative approach to IoT connectivity and climate change monitoring through its
-innovative satellite constellation. By providing cost-effective, secure, and global IoT connectivity, WISeSat is
-enabling a wide range of applications that support environmental monitoring, disaster management, and
-sustainable practices. The integration of satellite data with advanced climate models holds great promise for
-enhancing our understanding of climate change and developing effective strategies to combat its impacts. As the
-world continues to grapple with the challenges of climate change, initiatives like WISeSat's IoT satellite constellation
-are essential for creating a more resilient and sustainable future.
+Revolutionizing the construction industry
 
-About WISeKEY:
+"AI can help designers and engineers to optimize their design for energy consumption, user comfort, evacuation
+and disaster plans, conformity with codes and regulations, environmental impact, and even more, at a level that
+was not possible before," says Ali Shojaei with Virginia Tech's Myers-Lawson School of Construction, who is
+working to revolutionize the construction industry through digital innovations.
 
-WISeKey International Holding Ltd (“WISeKey”, SIX: WIHN; Nasdaq: WKEY) is a global leader in cybersecurity,
-digital identity, and IoT solutions platform. It operates as a Swiss-based holding company through several
-operational subsidiaries, each dedicated to specific aspects of its technology portfolio. The subsidiaries include (i)
-SEALSQ Corp (Nasdaq: LAES), which focuses on semiconductors, PKI, and post-quantum technology products, (ii)
-WISeKey SA which specializes in RoT and PKI solutions for secure authentication and identification in IoT,
-Blockchain, and AI, (iii) WISeSat AG which focuses on space technology for secure satellite communication,
-specifically for IoT applications, and (iv) WISe.ART Corp which focuses on trusted blockchain NFTs and operates
-the WISe.ART marketplace for secure NFT transactions.
+"AI-driven automation and robotics can significantly speed up the construction process and also reduce human
+error," he said. "AI can optimize the supply chain in construction. From predicting the need for materials to tracking
+their delivery, AI can ensure that projects are not delayed due to material shortages or logistical errors.
 
-                                                                                                 Page 3 of 3
-         WISeKey Subsidiary WISeSat.Space to Bring Blockchain to Space for Improved Satellite Services
-
-Each subsidiary contributes to WISeKey’s mission of securing the internet while focusing on their respective areas
-of research and expertise. Their technologies seamlessly integrate into the comprehensive WISeKey platform.
-WISeKey secures digital identity ecosystems for individuals and objects using Blockchain, AI, and IoT technologies.
-With over 1.6 billion microchips deployed across various IoT sectors, WISeKey plays a vital role in securing the
-Internet of Everything. The company’s semiconductors generate valuable Big Data that, when analyzed with AI,
-enable predictive equipment failure prevention. Trusted by the OISTE/WISeKey cryptographic Root of Trust,
-WISeKey provides secure authentication and identification for IoT, Blockchain, and AI applications. The WISeKey
-Root of Trust ensures the integrity of online transactions between objects and people.
-
-For more information on WISeKey’s strategic direction and its subsidiary companies, please visit
-www.wisekey.com.
-
-Press and Investor Contacts:
-
-         WISeKey International Holding Ltd Company     WISeKey Investor Relations (US) The Equity Group Inc.Lena
-         Contact: Carlos MoreiraChairman &             CatiTel: +1 212 836-9611 / lcati@equityny.comKatie
-         CEOTel: +41 22 594 3000info@wisekey.com       MurphyTel: +1 212 836-9612 / kmurphy@equityny.com
+"In construction, AI-driven automation and robotics can significantly increase efficiency and precision, assisting in
+tasks like bricklaying, painting, or even complex tasks like installing electrical systems. And post-construction, AI
+can aid in the maintenance and lifecycle management of buildings, predicting when maintenance is needed and
+preventing costly repairs," Shojaei said.
 
 
-Disclaimer:This communication expressly or implicitly contains certain forward-looking statements concerning
-WISeKey International Holding Ltd and its business. Such statements involve certain known and unknown risks,
-uncertainties and other factors, which could cause the actual results, financial condition, performance or
-achievements of WISeKey International Holding Ltd to be materially different from any future results, performance
-or achievements expressed or implied by such forward-looking statements. WISeKey International Holding Ltd is
-providing this communication as of this date and does not undertake to update any forward-looking statements
-contained herein as a result of new information, future events or otherwise.
-
-This press release does not constitute an offer to sell, or a solicitation of an offer to buy, any securities, and it does
-not constitute an offering prospectus within the meaning of the Swiss Financial Services Act (“FinSA”), the FInSa's
-predecessor legislation or advertising within the meaning of the FinSA. Investors must rely on their own evaluation
-of WISeKey and its securities, including the merits and risks involved. Nothing contained herein is, or shall be relied
-on as, a promise or representation as to the future performance of WISeKey.
-
-
-Load-Date: July 2, 2024
+Load-Date: March 23, 2024
 
 
   

@@ -1,51 +1,61 @@
 
 
-                                                                                                       Page 1 of 1
-                     CONSTRUCTION BEGUN ON LEADERSHIP-CLASS COMPUTING FACILITY
+                                                                                                   Page 1 of 2
+      Systems and Methods to Enable Continual, Memory-Bounded Learning in Artificial Intelligence and Deep
+                       Learning Continuously Operating Applications Across Network....
 
 
 
 
-  CONSTRUCTION BEGUN ON LEADERSHIP-CLASS COMPUTING FACILITY
-                                               States News Service
-                                              July 11, 2024 Thursday
+  Systems and Methods to Enable Continual, Memory-Bounded Learning in
+      Artificial Intelligence and Deep Learning Continuously Operating
+                Applications Across Networked Compute Edges
+                                                     Targeted News Service
+                                            March 12, 2024 Tuesday 3:12 PM EST
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 272 words
-Byline: States News Service
-Dateline: PITTSBURGH, PA
+
+
+
+Length: 302 words
+Byline: Targeted News Service
+Dateline: Alexandria, Va.
 
 Body
 
 
-The following information was released by Carnegie Mellon University:
+ALEXANDRIA, Virginia, March 12 -- NEURALA, INC., Boston, Massachusetts has been assigned a patent (No. US
+11928602 B2, initially filed May 9, 2018) developed by six inventors Matthew Luciw, Boston, Massachusetts;
+Santiago Olivera, Brookline, Massachusetts; Anatoly Gorshechnikov, Newton, Massachusetts; Jeremy Wurbs,
+Worcester, Massachusetts; Heather Marie Ames, Milton, Massachusetts; and Massimiliano Versace, Milton,
+Massachusetts, for "Systems and methods to enable continual, memory-bounded learning in artificial intelligence
+and deep learning continuously operating applications across networked compute edges."
 
-$5 million in NSF funding will allow PSC to provide data-intensive computing and data mirroring to TACC-led,
-distributed system
+Lifelong Deep Neural Network (L-DNN) technology revolutionizes Deep Learning by enabling fast, post-deployment
+learning without extensive training, heavy computing resources, or massive data storage. It uses a representation-
+rich, DNN-based subsystem (Module A) with a fast-learning subsystem (Module B) to learn new features quickly
+without forgetting previously learned features. Compared to a conventional DNN, L-DNN uses much less data to
+build robust networks, dramatically shorter training time, and learning on-device instead of on servers. It can add
+new knowledge without re-training or storing data. As a result, an edge device with L-DNN can learn continuously
+after deployment, eliminating massive costs in data collection and annotation, memory and data storage, and
+compute power. This fast, local, on-device learning can be used for security, supply chain monitoring, disaster and
+emergency response, and drone-based inspection of infrastructure and properties, among other applications.
 
-Today the Texas Advanced Computing Center (TACC) announced it has begun construction of the Leadership-
-Class Computing Facility (LCCF), a mammoth supercomputing system that will open up new opportunities in
-computer simulation, artificial intelligence, and data analytics in transformational science and engineering
-research.
+For more information about Targeted News Service federal patent awards please contact: Myron Struck, Editor,
+Direct: 703/866-4708, Cell: 703/304-1897, Myron@targetednews.com
 
-The distributed computing facility, anchored by the new Horizon computer at TACC, will be the largest in the
-National Science Foundation's ecosystem. Thanks to $5 million in NSF funding the Pittsburgh Supercomputing
-Center (opens in new window), a joint center of Carnegie Mellon University and the University of Pittsburgh, is one
-of four Distributed Science Centers that will leverage expertise across the broader cyberinfrastructure ecosystem
-and provide critical edge computing services to the LCCF user community. PSC's role will be to provide data-
-intensive computing and data mirrors for published archives, a method for copying data in real time so that a perfect
-backup copy always exists for security and disaster-recovery purposes.
-
-"LCCF represents a pivotal step forward in our mission to support transformative research across all fields of
-science and engineering," said NSF Director Sethuraman Panchanathan. "This facility will provide the
-computational resources necessary to address some of the most pressing challenges of our time, enabling
-researchers to push the boundaries of what is possible."
-
-
-Load-Date: July 12, 2024
+T40-MgEditor-2013931
 
 
-  
+Load-Date: March 13, 2024
+
+                                                                                                Page 2 of 2
+   Systems and Methods to Enable Continual, Memory-Bounded Learning in Artificial Intelligence and Deep
+                    Learning Continuously Operating Applications Across Network....
+
+
+
+

@@ -1,139 +1,105 @@
 
 
-                                                                             Page 1 of 3
-      PURDUE TRUSTEES RATIFY FACULTY POSITIONS, APPROVE RESOLUTIONS OF APPRECIATION
+                                                                                                 Page 1 of 2
+   Komprise Elastic Replication Cuts Disaster Recovery Costs for Unstructured Data by 70% Komprise Intelligent
+                           Data Management Winter 2024 release introduces snaps....
 
 
 
 
-            PURDUE TRUSTEES RATIFY FACULTY POSITIONS, APPROVE
-                      RESOLUTIONS OF APPRECIATION
-                                                        US Fed News
-                                              August 2, 2024 Friday 12:31 PM EST
+Komprise Elastic Replication Cuts Disaster Recovery Costs for Unstructured
+ Data by 70%; Komprise Intelligent Data Management Winter 2024 release
+  introduces snapshot-based file-to-file and file-to-object replication at the
+                share level for affordable disaster recovery
+                                                         GlobeNewswire
+                                             February 6, 2024 Tuesday 5:00 AM PT
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 1512 words
+Section: PRODUCT / SERVICES ANNOUNCEMENT
+Length: 814 words
 
 Body
 
+CAMPBELL, Calif., Feb. 06, 2024 (GLOBE NEWSWIRE) -- Komprise, the leader in analytics-driven unstructured
+data management and mobility, today announced Komprise Intelligent Data Management Winter 2024, which
+introduces Komprise Elastic Replication to drastically cut the cost of replicating unstructured data. With more
+frequent and devastating natural disasters, cybersecurity and ransomware attacks, data protection and disaster
+recovery (DR) strategies are essential in the enterprise. IT outages are getting more and more costly. According to
+the New Relic 2023 Observability Forecast report, the median annual cost of an outage has now reached $7.75
+million.
 
-WEST LAFAYETTE, Ind., Aug. 2 -- Purdue University issued the following news release:
+Traditional approaches of network attached storage (NAS) mirroring work well for mission-critical file and object
+data, but in most organizations, it is too expensive for less critical unstructured data. This is because it requires
+identical infrastructure on the DR site and requires the replication of the entire physical volume. Additionally, NAS
+mirroring does not address ransomware due to its near instantaneous synchronization, which copies a ransomware
+infection immediately to the DR site before it can be detected. As of 2023, more than 72% of businesses worldwide
+were affected by ransomware attacks and the average cost of an attack was $1.85 million, according to Statista and
+GetAstra, respectively.
 
-WEST LAFAYETTE, Ind. - ThePurdue UniversityBoard of Trusteeson Friday (Aug. 2) ratified faculty appointments
-and approved resolutions of appreciation.
+A More Affordable and Secure DR Strategy for Unstructured Data
 
-The newly ratified faculty appointments are:
+Komprise Elastic Replication makes DR more affordable for growing volumes of unstructured data in the enterprise
+by right-sizing and right-placing DR copies and offering a more holistic approach to ransomware and data
+protection.
 
-Bahr came to Purdue in 2012 as a professor and head of the School of Materials Engineering. His research focuses
-on the micromechanical behavior of materials and how that impacts materials reliability. Bahr is a fellow of ASM
-International and the American Association for the Advancement of Science. He is also a member of The Minerals,
-Metals & Materials Society (TMS) and the Materials Research Society (MRS). He serves as the editor-in-chief of
-MRS Advances and is a member of the editorial board of International Materials Reviews. His honors and awards
-include a Presidential Early Career Award for Scientists and Engineers for his work with the Department of Energy
-on stockpile stewardship; ASM International's Bradley Stoughton Award; and, from TMS, the AIME Robert Lansing
-Hardy Award and the Alexander Scott Distinguished Service Award.
+                                                                                                 Page 2 of 2
+   Komprise Elastic Replication Cuts Disaster Recovery Costs for Unstructured Data by 70% Komprise Intelligent
+                           Data Management Winter 2024 release introduces snaps....
 
-Otto began his faculty career at Purdue in 2006, spending eight years at the university before joining the University
-of Florida. He returned to Purdue in 2024 as a professor and the Dane A. Miller Head of the Weldon School of
-Biomedical Engineering. His interests lie in engineering neural interfaces for both research purposes and treatment
-options in neurological injuries or disease. His research focuses on multichannel implantable microdevices in both
-the central and peripheral nervous systems. These interfaces are being investigated for many applications,
-including sensory replacement, cognitive functional therapy and neuromodulation for autonomic therapies. Otto is a
-fellow of the Biomedical Engineering Society and the American Institute for Medical and Biological Engineering and
-is a senior member of IEEE. He has also served on numerous editorial and advisory boards, such as ACS
-(American Chemical Society) Applied Materials & Interfaces, Advanced Biosystems, Biochemical Sciences and
-IEEE Transactions on Biomedical Engineering. His honors and awards include Purdue's Seed for Success Award;
-the University of Florida's Doctoral Dissertation Advisor/Mentoring Award, Biomedical Engineering Service Award
-and Biomedical Engineering Research Award; the Weldon School's Faculty Service Award; the Weldon School
-Graduate Student Association's Outstanding Faculty Award; and more.
+Key benefits include:
+    •    Right-sizing at the share-level: Choose which shares or even directories you want to replicate, without
+         having to replicate the entire physical volume. You can also set the snapshot schedule to achieve your
+         recovery point objective (RPO) for each data set.
+    •    Right-placing to less expensive cloud/object or file destination: Replicate to a significantly less expensive
+         cloud or object storage or to any file storage. Unlike NAS mirroring, Komprise does not require pre-
+         provisioned identical infrastructure on the replication site, so you can replicate to the cloud and spin up
+         resources as needed for cloud disaster recovery.
+    •    Enabling file recovery with fidelity even from object storage: Komprise maintains file attributes while
+         replicating data in native format to object or file storage destinations. This way, you can access the data
+         directly from the destination or restore as files without losing fidelity.
+    •    Improving cyber-resiliency against ransomware attacks: Komprise replicates asynchronously based on the
+         schedule you set and it supports replication to an immutable destination with versioning and object-lock
+         capabilities. This ability to asynchronously replicate to immutable storage enhances your defense against
+         ransomware.
+    •    Cutting DR costs: Komprise Elastic Replication right-sizes and right-places the replication saving 70%+
+         costs, as shown in this blog post.
 
-                                                                            Page 2 of 3
-     PURDUE TRUSTEES RATIFY FACULTY POSITIONS, APPROVE RESOLUTIONS OF APPRECIATION
+“Our customers are uneasy about not having disaster recovery plans for all unstructured data, but as unstructured
+data volumes continue to balloon, the one-size-fits-all mirroring approach is too expensive for most,” says Kumar
+Goswami, CEO of Komprise. “We are excited to help organizations customize disaster recovery so they can afford
+the protection they need for all of their data, within tight budgets.”
 
-Prior to joining Purdue's Elmore Family School of Electrical and Computer Engineering in 2010, Chen was a
-research staff member at the IBM Thomas J. Watson Research Center. In 2008, she assumed the role of manager
-for IBM's Carbon Technology Group, leading initiatives in the exploration and development of carbon-based
-technologies. At Purdue, Chen's research focuses on the design and fabrication of novel materials, devices and
-circuits for beyond-CMOS applications and novel computing schemes. Her leadership includes serving as the
-director of the Semiconductor Research Corp. (SRC) nCORE NEW LIMITS center, a collaborative, multiuniversity
-initiative funded by SRC and the National Institute of Standards and Technology, dedicated to 2D materials
-research. Since 2023, Chen has held the position of the Mary Jo and Robert L. Kirk Director of the Birck
-Nanotechnology Center. For the scientific community, she served as the technical program chair for the 2020
-Device Research Conference and as its general chair in 2021. She has also served as the program chair and later
-as the general chair for the International Interconnect Technology Conference since 2022. She is an IEEE Fellow
-for her contributions to the understanding and applications of low-dimensional nanomaterials.
+Komprise Expands Pure Storage Support, Adds More Reporting Features
 
-Dyke came to Purdue in 2009 with a joint appointment in the School of Mechanical Engineering and the Lyles
-School of Civil and Construction Engineering. Her research focuses on the development and implementation of
-"intelligent" structures, and her innovations encompass structural control technologies, structural health monitoring,
-real-time hybrid simulation, and machine learning and computer vision for structural damage assessment. Dyke is
-the director of the NASA-funded Resilient ExtraTerrestrial Habitat Institute (RETHi) and the director of Purdue's
-Intelligent Infrastructure Systems Lab at Bowen Lab. She previously served as editor-in-chief of Engineering
-Structures and has served or is serving on several other editorial boards, such as the Journal of Disaster
-Prevention Engineering, Smart Structures and Systems, and Earthquake Engineering and Resilience. Her awards
-and honors include the Presidential Early Career Award for Scientists and Engineers from the National Science
-Foundation, the George W. Housner Structural Control & Monitoring Medal from the American Society of Civil
-Engineers, the Structural Health Monitoring Person of the Year Award, the International Association on Structural
-Safety and Reliability Junior Research Award, the ANCRiSST Young Investigator Award, and more.
+As a modern SaaS platform, Komprise can innovate faster and be more responsive to enterprise customer needs.
+Additional innovations and updates included in the Winter 2024 Intelligent Data Management release include:
+    •    Customizable Report Templates: Komprise now allows users to save custom report configurations and
+         maintain multiple versions of any type of report. For example, a Showback Report can be created for each
+         department or business unit within an organization.
+    •    Pure Storage: Building on the transparent data tiering between FlashBlade//S and FlashBlade//E,
+         Komprise now supports FlashBlade object storage as an on-premises Plan Target. Read the white paper.
 
-Bertino came to Purdue in 2004 as a professor of computer science and the research director for the Center for
-Education and Research in Information Assurance and Security (CERIAS). Her research interests lie in computer
-and network security, with a focus on wireless network security and software security, and the use of AI for
-cybersecurity. Bertino serves or has served on the editorial boards of several journals, including ACM (Association
-for Computing Machinery) Transactions on Information and System Security, IEEE Security & Privacy and IEEE
-Transactions on Dependable and Secure Computing. She also served as the program chair of the 36th
-International Conference on Very Large Data Bases. Bertino is a fellow of IEEE and ACM. Her honors and awards
-include the IEEE Computer Society's Technical Achievement Award and Tsutomu Kanai Award; the Research
-Innovation Award from the IEEE Technical Committee on Services Computing; the ACM Athena Lecturer Award;
-the International Federation for Information Processing's Kristian Beckman Award; the IEEE Innovation in Societal
-Infrastructure Award; the Purdue College of Science's Faculty Research Award; and more. Bertino was also named
-to the GSMA Mobile Security Research Hall of Fame for her work on 4G and 5G cellular network security. She is
-currently serving as ACM's vice president.
+Availability
 
-McBride joined the faculty at Purdue in 2022 as the associate dean for research for the College of Health and
-Human Sciences and a professor in the Department of Human Development and Family Science. Her work focuses
-on early literacy and mathematics development across cultures, reading and writing development and impairment
-across cultures, and parenting for learning and psychosocial outcomes. She previously served as the president of
-the Society for the Scientific Study of Reading (SSSR) and was the founding president of the Association for
-Reading and Writing in Asia. McBride has served on the Scientific Advisory Board for the International Dyslexia
-Association and the Publications Committee for the Society for Research in Child Development. She is a member
-and fellow of several other professional societies, such as The Reading League, Association for Psychological
-Science (APS) and Society for Research in Child Development. She is the author of two books and more than 250
-peer-reviewed journal articles, as well as the editor of six books. McBride also currently serves as co-lead on a $1.5
-million grant from Lilly to improve teacher training in the area of literacy. She is a 2024 recipient of the APS
-Mentorship Award, the Khalifa International Award for Early Learning and the SSSR Distinguished Scientific
-Contributions Award.
+Komprise Elastic Replication is included in the Komprise Intelligent Data Management platform. To learn more
+about Komprise Elastic Replication visit www.komprise.com/whatsnew.
 
-                                                                            Page 3 of 3
-     PURDUE TRUSTEES RATIFY FACULTY POSITIONS, APPROVE RESOLUTIONS OF APPRECIATION
+About Komprise Komprise is a provider of unstructured data management and mobility software that frees
+enterprises to easily analyze, mobilize, and monetize file and object data across hybrid cloud data storage without
+shackling data to any one vendor. With�Komprise Intelligent Data Management, enterprise IT teams optimize
+enterprise storage, backup and cloud costs while making the right data available to analytics and AI
+tools. www.komprise.com
 
-In other action, trustees approved resolutions of appreciation for friends of the university who recently contributed
-$1 million or more to Purdue. Those are:
-
-About Purdue University
-
-Purdue University is a public research institution demonstrating excellence at scale. Ranked among top 10 public
-universities and with two colleges in the top four in the United States, Purdue discovers and disseminates
-knowledge with a quality and at a scale second to none. More than 105,000 students study at Purdue across
-modalities and locations, including nearly 50,000 in person on the West Lafayette campus. Committed to
-affordability and accessibility, Purdue's main campus has frozen tuition 13 years in a row. See how Purdue never
-stops in the persistent pursuit of the next giant leap - including its first comprehensive urban campus in Indianapolis,
-the Mitch Daniels School of Business, Purdue Computes and the One Health initiative - at
-https://www.purdue.edu/president/strategic-initiatives.
-
-Sources: Patrick Wolfe, provost and executive vice president for academic affairs and diversity
-
-April Headdy, executive director, President's Council For any query with respect to this article or any other content
-requirement, please contact Editor at contentservices@htdigital.in
+Contact:Kevin Wolfkevin@tgprllc.com
 
 
-Load-Date: August 3, 2024
+Load-Date: February 6, 2024
 
 
   

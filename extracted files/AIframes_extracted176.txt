@@ -1,158 +1,184 @@
 
 
-                                                                              Page 1 of 3
-        THE QUEST FOR CLEAN WATER: NATIONAL WATER QUALITY MONTH BUOYS VIRGINIA TECH
-                                         RESEARCH
+                                                                                                  Page 1 of 4
+                       Study: macOS and Linux use up, Windows use is down among SME devices
 
 
 
 
-    THE QUEST FOR CLEAN WATER: NATIONAL WATER QUALITY MONTH
-                  BUOYS VIRGINIA TECH RESEARCH
-                                                       US Fed News
-                                             July 30, 2024 Tuesday 12:32 PM EST
+Study: macOS and Linux use up, Windows use is down among SME devices
+                                                        Apple World Today
+                                         February 14, 2024 Wednesday 2:30 PM GMT
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 Apple World Today Provided by Syndigate Media Inc. All Rights Reserved
 
 
 
 
-Length: 1468 words
+Length: 1450 words
 
 Body
 
 
-BLACKSBURG, Va., July 30 -- Virginia Polytechnic Institute and State University issued the following news release:
+JumpCloud Inc. has announced the findings from its Q1 2024 small to medium-sized enterprise (SME) IT Trends
+Report, "State of IT 2024: The Rise of AI, Economic Uncertainty, and Evolving Security Threats." It finds, among
+other things, that macOS and Linux use is up, while Windows use is down on SME devices.
 
-Water is abundantly present in our lives - drinking fountains and showers, garden sprinklers, swimming pools,
-reservoirs and streams - that it can become invisible, always in sight but often out of mind. Yet, contamination risks
-can endanger that abundance. August is National Water Quality Month, a time to contemplate conserving natural
-water sources and consider what households and communities can do to ensure and preserve access to clean,
-safe water.
+Average SME [small and midsize enterprise] device breakdown is: 59.5% Windows, 22.4% macOS, and 21.7%
+Linux. In April of 2023, it was 64% Windows, 20% macOS, and 16% Linux.
 
-Many researchers at Virginia Tech pursue this goal, whether through teaching communities how to detect problems
-and protect their water sources, pioneering new approaches to removing pollutants, or even seeking new
-understanding of how water moves across the ocean floors. To schedule an interview with any of the researchers
-below, please contact mediarelations@vt.edu
+Organizational macOS use is the highest in India:
 
-Reducing forever chemicals and contaminants
+UK breakdown by device type: Windows 67.8%, Linux 16.3%, macOS 20.4%
 
-Leigh-Anne Krometis and Erin Ling lead projects examining private water supplies such as wells, concentrating on
-contaminants like bacteria, arsenic, and PFAS, or forever chemicals. Krometis, a professor and Turner Faculty
-Fellow of Biological Systems Engineering for the College of Agriculture and Life Sciences, and Ling, coordinator of
-the Virginia Household Water Quality Program, have also studied contaminating metals found in plumbing like lead
-and copper. Krometis has additional projects focused on bottled water reliance and other coping behaviors like
-reliance on roadside springs in rural Appalachia, as well as home water and sanitation access and wastewater
-surveillance in the rural United States.
+US: Windows 60.2%, macOS 22.8%, Linux 21.4%
 
-Managing water sources in new ways
+India: Windows 50.6%, macOS 23.9%, and Linux 26.9%
 
-Cities have long treated stormwater, wastewater, and drinking water as siloed entities, but the Occoquan
-Watershed Monitoring Laboratory, led by Stanley Grant, is on a mission to change that through a new concept
-called "One Water" that is gaining momentum among urban water practitioners. Implementing this novel approach
+IT preference for macOS is the highest in India:
 
-                                                                             Page 2 of 3
-       THE QUEST FOR CLEAN WATER: NATIONAL WATER QUALITY MONTH BUOYS VIRGINIA TECH
-                                        RESEARCH
+In UK, 14.2% of SME IT admins say they'd choose only macOS devices for their organization.
 
-could be essential to meeting new Environmental Protection Agency standards for the reduction of PFAS, or forever
-chemicals, in drinking water.
+In US, 18.1% of SME IT admins say they'd choose only macOS devices for their organization.
 
-"We are aiming to stop thinking of water as three separate things and start treating it all as a single resource," said
-Grant. "This will take innovative methods and technologies to tackle water quality challenges as a unified system."
+In India, 22.4% of SME IT admins say they'd choose only macOS devices for their organization.
 
-Grant and assistant professor Megan Rippy are also working to address freshwater salt pollution. Many human
-activities, such as applying salt to roads and sidewalks in the winter, worsen the pollution, which threatens safe
-drinking water and leads to declines in biodiversity and critical freshwater habitats. "If we don't figure out how to
-reverse this trend of salt pollution soon, it may become one of our nation's top environmental challenges," Grant
-said.
+India expects to see highest increase of macOS use over the next year:
 
-Advancing water management in rural settings
+In UK, 29.6% expect to see increased macOS use over the next year.
 
-Alasdair Cohenconducts research on drinking water - contamination, treatment,and supply - and health
-outcomes,especially inthe Central Appalachian region. Cohen, an assistant professorof environmental
-epidemiologyin the Department of Population Health Sciences andthePublic Health Programin the Virginia-
-Maryland College of Veterinary Medicine, explained that "our research group's overarching goal is to help advance
-programs and policies for improving drinking water, sanitation, and health in rural and lower-income settings."
+In US, 36.6% expect to see increased macOS use over the next year.
 
-Empowering communities through technology
+In India, 58% expect to see increased macOS use over the next year.
 
-Cholera afflicts millions annually, especially in regions with poor sanitation and water infrastructure. Working with a
-community in rural Bangladesh, Kevin Boyle from Virginia Tech, in collaboration with researchers from Moravian
-University, Penn State, and the University of Rhode Island, developed an Android-based smartphone app that
-delivers real-time cholera risk forecasts to households. By utilizing NASA satellite data, CholeraMap predicts
-cholera risks based on factors like rainfall, temperature, and historical incidence. The app creates a model that
-could assist in similar regions worldwide.
+                                                                                                       Page 2 of 4
+                     Study: macOS and Linux use up, Windows use is down among SME devices
 
-Training communities to protect water supplies
+However, JumpCloud says that Windows use is expected to increase the most, though macOS increase seeing a
+sharp rise: 55.5% anticipate increased Windows use (up from 46% in April 2023), followed by 31.3% who anticipate
+Linux use to increase (up from 26% in April 2023), and 41.5% who anticipate macOS increase (up from 26% in April
+2023).
 
-Anthropologist and associate professor of historyNick Copelandis part of a team of Virginia Tech researchers using
-water science to respond to the concerns of rural and Indigenous communities in Guatemala and empowering
-communities to conduct their own monitoring to protect their waterways. They have taught these communities how
-to use field testing kits in areas where residents fear that sugar cane, palm oil plantations, and extractive industries
-are contaminating waterways. The team also is exploring ways that Indigenous environmental justice movements
-can use water science to address industrial development.
+The JumpCloud report provides updated survey results and new findings to the company's biannual SME IT Trends
+Report, which was first released in June 2021. The latest edition of the report delves into the impact of artificial
+intelligence (AI) on identity management, security challenges, economic uncertainties, and the growing reliance on
+managed service providers (MSPs) in IT operations.
 
-Laying groundwork for pipe replacement
+JumpCloud commissioned this biannual survey of SME IT admins to gain unique insights into the day-to-day
+experiences of IT professionals who power and secure operations without enterprise-level budgets and staff. The
+most recent survey results, polled from admins in the U.S., U.K., and India, indicates how quickly AI has impacted
+identity management and highlights that IT professionals have both big hopes and big fears in their response to it.
 
-Marc Edwards' research looks at water contaminants such as lead and deadly microbes including Legionella.His
-team used citizen science to help expose the 2001-2004 D.C. lead crisis and the 2014-2016 Flint water disaster.
-His research exposed howantiquatedpipes, including those made of lead, are endangering public health, laying the
-groundwork for billions of dollars in federal funding for pipe replacement. "Our past failures threaten the health and
-welfare of every American," Edwards said, adding "if consumers can't trust the water coming out of the tap as
-provided by a government water utility, how can we hope to solve more complicated problems?"
+With a strong majority of respondents both planning or actively implementing within the next year and advocating
+for AI investment, IT leaders clearly see potential benefits from deploying AI in their workplaces. But IT admins
+report notable concerns around their organizations' current ability to secure against related threats—and personal
+concerns about AI's impact on their career.
 
-Reducing pollution from fracking
+"While AI is the buzzword that grabs headlines, it's security that remains a paramount concern for IT teams given
+the increasing sophistication of external threats and rising regulatory pressures," says JumpCloud CEO Rajat
+Bhargava. "And it's only getting worse. We found that 56% of admins agree that they're more concerned about their
+organization's security posture now than they were six months ago. To reduce this complexity and anxiety,
+organizations should look toward solutions that offer a unified, open identity and IT management approach. This
+can enhance security, mitigate operational disruptions, and alleviate admin burnout."
 
-A research team led by Wencai Zhang at Virginia Tech received a $1.9 million grant from the Department of Energy
-to recover high-demand metals, such as lithium and other rare earth elements, from naturally occurring water that
-comes out of the ground during hydraulic fracking. "High-demand metals and minerals, such as lithium, play an
-essential role in electric vehicle production and are present in virtually every battery worldwide," said Zhang. "Our
-goal is to contribute to the supply chain of these critical materials while also making a positive environmental
+The results of the JumpCloud Q1 2024 SME IT Trends Report are available in JumpCloud's eBook, "State of IT
+2024: The Rise of AI, Economic Uncertainty, and Evolving Security Threats," which can be downloaded for free
+here. Key findings of the report include:
 
-                                                                             Page 3 of 3
-       THE QUEST FOR CLEAN WATER: NATIONAL WATER QUALITY MONTH BUOYS VIRGINIA TECH
-                                        RESEARCH
+Organizations are actively planning for AI: Just 13% of organizations do not currently have any plans to implement
+AI initiatives and 76% agree their organization should be investing in AI.
 
-impact." The research aims to reduce the environmental consequences associated with water produced by
-fracking, removing pollutants and making it safer for affected communities.
+Admins optimistic about AI: 79% report that AI will be a net positive, versus just 6% who see it as a net negative.
+Most admins agree their organizations are approaching AI adoption at exactly the right speed (55%). Roughly equal
+amounts think they are moving too quickly (22%) or too slow (19%).
 
-Underwater robots bring new understandings
+IT teams are wary about AI's potential for organizational security and career: 62% agree that AI is outpacing their
+organization's ability to protect against threats overall and nearly half (45%) worry about AI's impact on their job.
 
-Dan Stilwell and his team develop autonomous underwater robots that can operate without human
-intervention.Recently, they have been deployed to rapidly search for hazards to navigation, search large areas of
-ocean for sources of methane that bubble up from the seafloor and characterize the flow of microplastics through
-Virginia's waterways. Because these robots can make intelligent decisions based on their real-time measurements
-of their surroundings, they can conduct investigations in the ocean that would be nearly impossible with a human
-onboard. This technology can help determine how concentrated microplastics have become in the ocean and how
-that could affect wildlife. The robots could also help to map the ocean floor, contributing to a more complete picture
-of the Earth's climate.
+Uncertainty for IT
 
-Artificial intelligence and water quality forecasts
+The start of 2024 finds SMEs continuing to wrestle with economic uncertainties and IT teams unsure about what
+that means for their organizations and their operations.
 
-Computer engineer Anuj Karpatne's research explores the potential for artificial intelligence to forecast water
-quality in lakes that supply drinking water. To develop this technology, he recently collaborated on a project
-intended to provide real-time forecasts of water quality for the Falling Creek Reservoir in Roanoke, Virginia. "This
-reservoir is a major source of drinking water for Roanoke residents, and we are interested in forecasting its
-temperature, chlorophyll content, and other water quality variables," Karpatne said. "We aim to generate better
-forecasts of water quality in lakes and reservoirs that can directly impact the people who depend on their water."
+Topline IT management findings include:
 
-Defending water supply cybersecurity
+Concerns about layoffs persist: 57% of organizations have experienced layoffs over the last year. Just over a
+quarter (27%) haven't experienced layoffs and don't expect any over the next six months.
 
-The research conducted by Feras Batarseh and his AI & Cyber for Water & Ag lab - ACWA for short, pronounced
-"aqua" - highlights a different way of protecting water resources. The team collects data in order to develop
-artificial intelligence algorithms that can help defend water systems from cyber-attacks and other threats.
-Batarseh is associated with the Commonwealth Cyber Initiative, Virginia's central hub for cybersecurity research.
-He also works with the Center for Advanced Innovation in Agriculture, an entity in the College of Agriculture and Life
-Sciences that focuses on cyberbiosecurity. "The ACWA lab provides a test bed for stakeholders such as water
-treatment plants and utilities all over the country to come to Virginia Tech and evaluate the security levels at their
-utilities, and how they can improve," Batarseh said. For any query with respect to this article or any other content
-requirement, please contact Editor at contentservices@htdigital.in
+Admins worried about the impact of budget cuts on security: 72% agree that any cuts to their security budget will
+increase organizational risk, and 56% are more concerned about their organizations' security posture than they
+were six months ago.
+
+                                                                                                       Page 3 of 4
+                    Study: macOS and Linux use up, Windows use is down among SME devices
+
+Licensing costs increase while compliance mandates expand: 88% report vendors have increased prices over the
+last six months, and 76% report increased compliance and regulations requirements in their region.
+
+Device environments require IT flexibility, with Windows use down and macOS and Linux use up year-over-year:
+The average device type breakdown in SMEs is Windows at 60% (down from 64% in April 2023), macOS at 22%
+(up from 20% in April 2023), and Linux at 22% (up from 16% in April 2023).
+
+IT admins want centralized IT: 75% of IT professionals would prefer a single tool to do their job over a number of
+point solutions. In practice, admins most commonly need five to 10 applications to manage worker lifecycle (37%),
+though nearly one-quarter (22%) need 11 or more, and nearly 1 in 10 (9%) require more than 15 applications to
+manage worker lifecycle.
+
+Security Challenges Persist as Admins Adjust Their Response
+
+IT teams continue to report that security concerns continue to dominate among the various challenges and
+responsibilities they manage. With the rise of AI and the evolving sophistication of cybersecurity threats, IT admins
+are adapting their responses and deploying additional layers of protection.
+
+Topline security findings include:
+
+IT admins' biggest challenge is security: 56% report security is the biggest IT challenge, followed by new services
+and application rollouts (45%), increased work burden (44%), followed by the cost of remote work solutions (42%).
+
+Biometrics adoption up, though password-based systems are stubborn: While 83% of organizations use password-
+based authentication for some IT resources, 83% also require multi-factor authentication (MFA) and over two-thirds
+require biometrics (66%)—even though 67% of IT professionals agree that adding additional security measures
+means a more cumbersome experience. The average employee has three to five passwords to log into their IT
+resources, though 15% of employees average 10 passwords or more.
+
+The biggest security threats remain the same: The three biggest security concerns now are the same ones from
+April 2023. IT admins reported network attacks were their biggest challenge (40%), followed by software
+vulnerability exploits (34%) and ransomware (29%).
+
+MSPs Play Major Role in IT Operations
+
+MSPs are increasingly crucial to SME IT operations as increasing numbers of SMEs are turning to them for IT
+management.
+
+Topline MSP findings include:
+
+MSPs taking over IT for SMEs: While 76% of SMEs rely on an MSP for some features, 42% of organizations use an
+MSP to completely manage their IT environment, a 56% increase from April 2023.
+
+Organizations relying on MSPs for variety of functions: System security is the most common area for why SMEs
+use MSPs (57%) followed by cloud storage (52%), system monitoring (51%), system management (47%), managed
+backup (40%), hardware procurement (34%), business continuity/disaster recovery (32%), help desk (35%), and
+change management (27%).
+
+MSPs are seen to offer a broad range of benefits: The top reasons SMEs report using an MSP are that they are up
+to date on the latest technologies (65%), they can provide a better user experience (60%), and they are cost-
+effective (57%).
+
+Survey Methodology:
+
+JumpCloud surveyed 1,213 SME IT decision-makers in the U.K., U.S., and India, including managers, directors,
+vice presidents, and executives. Each survey respondent represented an organization with 2,500 or fewer
+
+                                                                                                Page 4 of 4
+                    Study: macOS and Linux use up, Windows use is down among SME devices
+
+employees across a variety of industries. The online survey was conducted by Propeller Insights, from November
+14, 2023, to November 27, 2023.
 
 
-Load-Date: July 31, 2024
+Load-Date: February 14, 2024
 
 
   

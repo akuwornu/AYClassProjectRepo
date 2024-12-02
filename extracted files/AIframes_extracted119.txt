@@ -1,649 +1,121 @@
 
 
-                                                                                                     Page 1 of 12
-                                     TruBridge Announces Second Quarter 2024 Results
+                                                                                                   Page 1 of 3
+  Kioxia Joins Hewlett Packard Enterprise Servers on Space Launch Destined for the International Space Station
+                          HPE Spaceborne Computer-2, Features KIOXIA Value SA....
 
 
 
 
-                      TruBridge Announces Second Quarter 2024 Results
-                                                      Business Wire
-                                          August 8, 2024 Thursday 8:05 PM GMT
+Kioxia Joins Hewlett Packard Enterprise Servers on Space Launch Destined
+for the International Space Station; HPE Spaceborne Computer-2, Features
+  KIOXIA Value SAS, Enterprise SAS and NVMe SSDs, Enables Scientific
+           Experiments with Over 130 TB of Data Storage Capacity
+                                                  Business Wire
+                                     January 30, 2024 Tuesday 1:58 AM GMT
 
 
 
 Copyright 2024 Business Wire, Inc.
 
-Length: 4383 words
-Dateline: MOBILE, Ala.
+Length: 740 words
+Dateline: CAPE CANAVERAL, Fla.
 
 Body
 
-TruBridge, Inc. (NASDAQ: TBRG), a healthcare solutions company, today announced financial results for the
-second quarter ended June 30, 2024.
 
-Second Quarter 2024 Highlights
+Today, KIOXIA SSDs took flight with the launch of the NG-20 mission rocket, which is delivering an updated HPE
+Spaceborne Computer-2, based on HPE EdgeLine and ProLiant servers from Hewlett Packard Enterprise (HPE), to
+the International Space Station (ISS). KIOXIA SSDs provide robust flash storage in HPE Spaceborne Computer-2
+to conduct scientific experiments aboard the space station.
 
-All comparisons are to the quarter ended June 30, 2023, unless otherwise noted
-    •     Total bookings of $23.3 million compared to $21.0 million
-    •     Total revenue of $84.7 million compared to $84.6 million
-    •     Revenue Cycle Management (RCM) revenue of $54.1 million compared to $47.8 million
-         •     RCM revenue represented 63.9% of TruBridge's total revenue
-    •     GAAP (loss) earnings per diluted share of $(0.34) compared to $(0.20)
-    •     Non-GAAP earnings per diluted share of $0.16 compared to $0.40
-    •     Adjusted EBITDA of $12.6 million compared to $11.2 million
+This      press      release     features   multimedia.            View       the      full     release      here:
+https://www.businesswire.com/news/home/20240130946786/en/
 
-Chris Fowler, chief executive officer of TruBridge, Inc., stated, "We are pleased with our second quarter
-performance, both operationally and financially. The team continued to build on our bookings momentum and cross-
-selling efforts, while we further enhanced our financial operations. Our solid revenue performance and adjusted
-EBITDA margin expansion in the quarter was punctuated by a significant improvement in cash flow from operations.
+KIOXIA SSDs on Space Launch Destined for the International Space Station (Graphic: Business Wire)
 
-"Given the health of our pipeline and clear line of sight for the remainder of the year, we are reiterating guidance
-and are enthusiastic about our future outlook," concluded Fowler.
+HPE Spaceborne Computer-2, based on commercial off-the-shelf technology, provides edge computing and AI
+capabilities on board the research outpost as part of a greater mission to significantly advance computing power in
+space and reduce dependency on communications as space exploration continues to expand. Designed to perform
+various high-performance computing (HPC) workloads in space, including real-time image processing, deep
+learning, and scientific simulations, HPE Spaceborne Computer-2 can be used to compute a number of experiment
+types including healthcare, natural disaster recovery, 3D printing, 5G, AI, and more.
 
-Financial Guidance
+As the data storage provider for the HPE Spaceborne Computer-2, Kioxia has provided flash memory-based SSDs,
+including KIOXIA RM Series value SAS, PM Series enterprise SAS and XG Series NVMeTM SSDs, to enable these
+advancements. In addition to eight 1,024 gigabyte (GB) NVMe and four 960 GB value SAS SSDs, each of the four
+enterprise SAS SSDs provided by Kioxia have a capacity of 30.72 terabytes (TB) for a total of more than 130 TB -
+the most data storage to travel to the space station on a single mission. [1]
 
-For the third quarter of 2024, TruBridge expects to generate:
-    •     Total revenue between $82 million and $85 million
-    •     Adjusted EBITDA between $11.5 million and $13.5 million
+Flash memory-based SSDs are better-suited than traditional hard disk drive storage to withstand the power,
+performance and reliability requirements of outer space, as they have no moving parts and provide faster
+performance. SSD health will be monitored daily throughout the duration of the mission, with daily log files
 
-For the full year 2024, TruBridge reiterates prior outlook of:
+                                                                                                   Page 2 of 3
+  Kioxia Joins Hewlett Packard Enterprise Servers on Space Launch Destined for the International Space Station
+                          HPE Spaceborne Computer-2, Features KIOXIA Value SA....
 
-                                                                                                          Page 2 of 12
-                                 TruBridge Announces Second Quarter 2024 Results
+transmitted from the ISS. Kioxia will track and analyze this health data in order to better understand how flash
+memory storage operates in the harsh environment of space.
 
-    •    Total revenue between $330 million and $340 million
-    •    Adjusted EBITDA between $45 million and $50 million
+Kioxia has been collaborating with HPE to create best-in-class storage solutions for years, and the company's
+products enable a broad range of HPE solutions and services, from mobile to the cloud to the enterprise.
 
-Conference Call
+Related Link:
+KIOXIA SSD Lineup for Business Customers
 
-TruBridge will hold a conference call and live webcast to discuss second quarter 2024 results on Thursday, August
-8, 2024, at 3:30 p.m. Central time/4:30 p.m. Eastern time. To access this interactive teleconference, dial (800) 715-
-9871 and request connection to the TruBridge earnings conference call. A 30-day online replay will be available
-approximately one hour following the conclusion of the live webcast. To listen to the live webcast or access the
-replay, visit the Company's investor relations website, investors.trubridge.com.
+https://www.kioxia.com/en-jp/business/ssd.html
 
-About TruBridge
+Notes
+[1] As of January 31, 2024. Kioxia Corporation survey.
 
-We are a trusted partner to more than 1,500 healthcare organizations with a broad range of technology-first
-solutions that address the unique needs and challenges of diverse communities, promoting equitable access to
-quality care and fostering positive outcomes. TruBridge has over four decades of experience in connecting
-providers, patients and communities with innovative data-driven solutions that create real value by supporting both
-the financial and clinical side of healthcare delivery. Our industry leading HFMA Peer Reviewed® suite of revenue
-cycle management (RCM) offerings combine unparalleled visibility and transparency to enhance productivity and
-support the financial health of healthcare organizations across all care settings. We support efficient patient care
-with electronic health record (EHR) product offerings that successfully integrate data between care settings. Above
-all, we believe in the power of community and encourage collaboration, connection, and empowerment with our
-customers. We clear the way for care. For more information, please visit www.trubridge.com .
+*Definition of capacity: Kioxia Corporation defines a megabyte (MB) as 1,000,000 bytes, a gigabyte (GB) as
+1,000,000,000 bytes and a terabyte (TB) as 1,000,000,000,000 bytes. A computer operating system, however,
+reports storage capacity using powers of 2 for the definition of 1GB = 2^30 bytes = 1,073,741,824 bytes and 1TB =
+2^40 bytes = 1,099,511,627,776 bytes and therefore shows less storage capacity. Available storage capacity
+(including examples of various media files) will vary based on file size, formatting, settings, software and operating
+system, and/or pre-installed software applications, or media content. Actual formatted capacity may vary.
 
-Forward-Looking Statements
+*NVMe is a registered or unregistered mark of NVM Express, Inc. in the United States and other countries.
 
-This press release contains forward-looking statements within the meaning of the "safe harbor" provisions of the
-Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified generally by
-the use of forward-looking terminology and words such as "expects," "anticipates," "estimates," "believes,"
-"predicts," "intends," "plans," "potential," "may," "continue," "should," "will" and words of comparable meaning.
-Without limiting the generality of the preceding statement, all statements in this press release relating to the
-Company's future financial and operational results are forward-looking statements. We caution investors that any
-such forward-looking statements are only predictions and are not guarantees of future performance. Certain risks,
-uncertainties and other factors may cause actual results to differ materially from those projected in the
-forwardlooking statements. Such factors may include: saturation of our target market and hospital consolidations;
-unfavorable economic or market conditions that may cause a decline in spending for information technology and
-services; significant legislative and regulatory uncertainty in the healthcare industry; exposure to liability for failure
-to comply with regulatory requirements; pandemics and other public health crises and related economic disruptions;
-transition to a subscription-based recurring revenue model and modernization of our technology; competition with
-companies that have greater financial, technical and marketing resources than we have; potential future
-acquisitions that may be expensive, time consuming, and subject to other inherent risks; our ability to attract and
-retain qualified client service and support personnel; disruption from periodic restructuring of our sales force;
-potential delay in the development of markets for our RCM service offering; potential inability to properly manage
-growth in new markets we may enter; potential disruption of our business due to our ongoing implementation of a
-new enterprise resource planning software solution; exposure to numerous and often conflicting laws, regulations,
-policies, standards or other requirements through our international business activities; potential litigation against us;
-our reliance on an international workforce which exposes us to various business disruptions; our utilization of
-artificial intelligence, which could expose us to liability or adversely affect our business if we cannot compete
-effectively with others using artificial intelligence; potential failure to develop new products or enhance current
-products that keep pace with market demands; failure of our products to function properly resulting in claims for
-medical and other losses; breaches of security and viruses in our systems resulting in customer claims against us
-and harm to our reputation; failure to maintain customer satisfaction through new product releases free of
-undetected errors or problems; failure to convince customers to migrate to current or future releases of our
-products; failure to maintain our margins and service rates; increase in the percentage of total revenues
+*Other company names, product names and service names may be trademarks of third-party companies.
 
-                                                                                                          Page 3 of 12
-                                 TruBridge Announces Second Quarter 2024 Results
+About Kioxia
 
-represented by service revenues, which have lower gross margins; exposure to liability in the event we provide
-inaccurate claims data to payors; exposure to liability claims arising out of the licensing of our software and
-provision of services; dependence on licenses of rights, products and services from third parties; misappropriation
-of our intellectual property rights and potential intellectual property claims and litigation against us; interruptions in
-our power supply and/or telecommunications capabilities, including those caused by natural disaster; potential
-inability to secure additional financing on favorable terms to meet our future capital needs; our substantial
-indebtedness, and our ability to incur additional indebtedness in the future; pressures on cash flow to service our
-outstanding debt; restrictive terms of our credit agreement on our current and future operations; changes in and
-interpretations of financial accounting matters that govern the measurement of our performance; significant charges
-to earnings if our goodwill or intangible assets become impaired; fluctuations in quarterly financial performance due
-to, among other factors, timing of customer installations; volatility in our stock price; failure to maintain effective
-internal control over financial reporting; inherent limitations in our internal control over financial reporting;
-vulnerability to significant damage from natural disasters; market risks related to interest rate changes; potential
-material adverse effects due to macroeconomic conditions, including bank failures or changes in related regulation;
-and other risk factors described from time to time in our public releases and reports filed with the Securities and
-Exchange Commission, including, but not limited to, our most recent Annual Report on Form 10-K and our
-Quarterly Report on Form 10-Q for the quarter ended June 30, 2024. We also caution investors that the forward-
-looking information described herein represents our outlook only as of this date, and we undertake no obligation to
-update or revise any forward-looking statements to reflect events or developments after the date of this press
-release.
-        TruBridge, Inc.
-        Condensed Consolidated Statements of Income
-        (In '000s, except per share data)
-        (Unaudited)
+Kioxia is a world leader in memory solutions, dedicated to the development, production and sale of flash memory
+and solid-state drives (SSDs). In April 2017, its predecessor Toshiba Memory was spun off from Toshiba
+Corporation, the company that invented NAND flash memory in 1987. Kioxia is committed to uplifting the world with
+"memory" by offering products, services and systems that create choice for customers and memory-based value for
+society. Kioxia's innovative 3D flash memory technology, BiCS FLASH(TM), is shaping the future of storage in high-
+density applications, including advanced smartphones, PCs, SSDs, automotive and data centers.
 
-                                                                Three Months Ended        Six Months Ended June
-                                                                June 30,                  30,
-                                                                  20           20            20           20
-                                                                  24           23            24           23
-        Revenues
-        RCM                                                     $ 54,       $ 47,         $ 10          $ 96,
-                                                                  10          76            7,1           39
-                                                                  8           0             46            1
-        EHR                                                       30,         36,           60,           74,
-                                                                  62          86            83            46
-                                                                  2           2             1             4
-        Total revenues                                            84,         84,           16            17
-                                                                  73          62            7,9           0,8
-                                                                  0           2             77            55
+*Information in this document, including product prices and specifications, content of services and contact
+information, is correct on the date of the announcement but is subject to change without prior notice.
 
-        Expenses
-        Costs of revenue (exclusive of amortization and
-        depreciation)
-        RCM                                                       30,          27,          59,            54,
-                                                                  26           11           86             30
-                                                                  9            9            6              2
-        EHR                                                       13,          17,          25,            34,
-                                                                  07           01           23             00
-                                                                  3            4            7              8
-        Total costs of revenue (exclusive of amortization and     43,          44,          85,            88,
-        depreciation)                                             34           13           10             31
-                                                                  2            3            3              0
-        Product development                                       8,2          8,7          18,            17,
-                                                                  07           69           89             12
-                                                                                            4              1
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240130946786/en/
 
-                                                                                          Page 4 of 12
-                           TruBridge Announces Second Quarter 2024 Results
 
- Sales and marketing                                 7,8         8,1           14,         15,
-                                                     15          32            40          08
-                                                                               8           9
- General and administrative                          18,         19,           38,         33,
-                                                     87          05            27          51
-                                                     8           7             4           0
- Amortization                                        9,1         5,8           14,         11,
-                                                     07          58            97          34
-                                                                               5           1
- Depreciation                                        40          57            80          1,0
-                                                     0           9             0           95
- Total expenses                                      87,         86,           17          16
-                                                     74          52            2,4         6,4
-                                                     9           8             54          66
-
- Operating income (loss)                             (3,   )     (1,   )       (4,   )     4,3
-                                                     01          90            47          89
-                                                     9           6             7
-
- Other income (expense):
- Other income                                        91          78            1,5         34
-                                                                               14          6
- Interest expense                                    (4,   )     (2,   )       (8,   )     (5,   )
-                                                     24          66            31          33
-                                                     2           4             5           4
- Total other expense                                 (4,   )     (2,   )       (6,   )     (4,   )
-                                                     15          58            80          98
-                                                     1           6             1           8
-
- Loss before taxes                                   (7,   )     (4,   )       (11   )     (59   )
-                                                     17          49            ,27         9
-                                                     0           2             8
-
- Income tax benefit                                  (2,   )     (1,   )       (3,   )     (84   )
-                                                     12          65            71          6
-                                                     1           5             3
-
- Net income (loss)                                 $ (5,   )   $ (2,   )     $ (7,   )   $ 24
-                                                     04          83            56          7
-                                                     9           7             5
-
- Net income (loss) per common share-basic          $ (0.   )   $ (0.   )     $ (0.   )   $ 0.0
-                                                     34          20            51          2
- Net income (loss) per common share-diluted        $ (0.   )   $ (0.   )     $ (0.   )   $ 0.0
-                                                     34          20            51          2
-
- Weighted average shares outstanding used in per
- common share computations:
- Basic                                               14,         14,           14,         14,
-                                                     31          20            27          16
-                                                     3           0             3           8
- Diluted                                             14,         14,           14,         14,
-                                                     31          20            27          16
-                                                     3           0             3           8
-TruBridge, Inc.
-Condensed Consolidated Balance Sheets
-(In '000s, except per share data)
-
-                                                                                                     Page 5 of 12
-                             TruBridge Announces Second Quarter 2024 Results
-
-
-                                                                               June 30,          Dec. 31,
-                                                                               2024              2023
-                                                                               (Unaudited)
-Assets
-Current assets
-Cash and cash equivalents                                                      $ 7,709           $ 3,848
-Accounts receivable, net of allowance for expected credit losses of $3,315       59,603            59,723
-and $3,631, respectively
-Financing receivables, current portion (net of allowance for expected credit     4,137             3,997
-losses of $332 and $319, respectively)
-Inventories                                                                      793               475
-Prepaid income taxes                                                             2,307             1,628
-Prepaid expenses and other                                                       17,034            15,807
-Assets of held for sale disposal group                                           -                 25,977
-Total current assets                                                             91,583            111,45
-                                                                                                   5
-
-Property & equipment, net                                                        8,479             8,974
-Software development costs, net                                                  39,741            39,139
-Operating lease assets                                                           3,861             5,192
-Financing receivables, net of current portion (net of allowance for expected     607               1,226
-credit losses of $56 and $97, respectively)
-Other assets, net of current portion                                             8,337             7,314
-Intangible assets, net                                                           82,960            89,213
-Goodwill                                                                         172,57            171,90
-                                                                                 3                 9
-Deferred tax assets                                                              4,146             -
-Total assets                                                                   $ 412,28          $ 434,42
-                                                                                 7                 2
-
-Liabilities & Stockholders' Equity
-Current liabilities
-Accounts payable                                                               $ 15,854          $ 10,133
-Current portion of long-term debt                                                3,074             3,141
-Deferred revenue                                                                 9,842             8,677
-Accrued vacation                                                                 5,458             5,410
-Liabilities of held for sale disposal group                                      -                 977
-Other accrued liabilities                                                        17,481            19,892
-Total current liabilities                                                        51,709            48,230
-
-Long-term debt, net of current portion                                           176,96            195,27
-                                                                                 4                 0
-Operating lease liabilities, net of current portion                              2,512             3,074
-Deferred tax liabilities                                                         -                 1,230
-Total liabilities                                                                231,18            247,80
-                                                                                 5                 4
-
-Stockholders' Equity
-Common stock, $0.001 par value; 30,000 shares authorized; 15,561 and             15                15
-15,121 shares issued, respectively
-Treasury stock, 615 and 572 shares, respectively                                 (17,434     )     (17,075   )
-Accumulated other comprehensive gain                                             108               -
-
-                                                                                             Page 6 of 12
-                             TruBridge Announces Second Quarter 2024 Results
-
-Additional paid-in capital                                               197,84            195,54
-                                                                         6                 6
-Retained earnings                                                        567               8,132
-Total stockholders' equity                                               181,10            186,61
-                                                                         2                 8
-
-Total liabilities and stockholders' equity                             $ 412,28         $ 434,42
-                                                                         7                2
-
-TruBridge, Inc.
-Condensed Consolidated Statements of Cash Flows
-(In '000s)
-(Unaudited)
-
-                                                                       Six Months Ended June 30,
-                                                                          2024             2023
-Operating activities:
-Net income (loss)                                                      $ (7,565    )    $ 247
-Adjustments to net income (loss):
-Provision for credit losses                                              358               181
-Deferred taxes                                                           (5,224    )       (1,533    )
-Stock-based compensation                                                 2,300             1,124
-Depreciation                                                             800               1,095
-Gain on sale of business                                                 (1,250    )       -
-Amortization of acquisition-related intangibles                          6,253             8,029
-Amortization of software development costs                               8,722             3,312
-Amortization of deferred finance costs                                   213               180
-Non-cash operating lease costs                                           897               1,211
-Loss on disposal of property and equipment                               -                 117
-Changes in operating assets and liabilities:
-Accounts receivable                                                      654               (3,806    )
-Financing receivables                                                    506               940
-Inventories                                                              (318      )       (178      )
-Prepaid expenses and other                                               1,502             (2,017    )
-Accounts payable                                                         5,750             7,448
-Deferred revenue                                                         1,769             (1,705    )
-Operating lease liabilities                                              (583      )       (1,067    )
-Other liabilities                                                        (2,375    )       (2,278    )
-Prepaid income taxes                                                     (679      )       (1,110    )
-Net cash provided by operating activities                                11,730            10,190
-
-Investing activities:
-Purchase of business, net of cash acquired                               (664      )       -
-Sale of business, net of cash and cash equivalents sold                  21,410            -
-Investment in software development                                       (9,324    )       (12,143   )
-Purchases of property and equipment                                      (306      )       (72       )
-Net cash provided by (used in) investing activities                      11,116            (12,215   )
-
-Financing activities:
-Treasury stock purchases                                                 (358      )       (2,532    )
-Payments of long-term debt principal                                     (5,750    )       (1,750    )
-Proceeds from revolving line of credit                                   21,072            11,602
-
-                                                                                                                Page 7 of 12
-                            TruBridge Announces Second Quarter 2024 Results
-
-Payments of revolving line of credit                                                  (33,379    )         (5,000      )
-Debt issuance cots                                                                    (529       )         -
-Net cash provided by (used in) financing activities                                   (18,944    )         2,320
-
-Increase in cash and cash equivalents                                                 3,902                295
-
-Change in cash and cash equivalents included in assets sold                         (41          )
-Cash and cash equivalents, beginning of period                                      3,848                 6,951
-Cash and cash equivalents, end of period                                          $ 7,709               $ 7,246
-
-  TruBridge, Inc.
-  Consolidated Bookings
-  (In '000s)
-  (Unaudited) (Non-GAAP)
-
-                                      Three Months Ended June              Six Months Ended June 30,
-                                      30,
-         In '000s                     2024          2023 (3)               2024               2023 (3)
-         RCM(1)                       $ 13,458      $ 13,648               $ 27,849           $ 25,748
-         EHR(2)                          9,832         7,322                 19,010             15,069
-
-         Total                        $ 23,290         $ 20,970            $ 46,859           $ 40,817
-
-  (1)    Generally calculated as the total contract price (for non-recurring, project-related amounts) and
-         annualized contract value (for recurring amounts).
-  (2)    Generally calculated as the total contract price (for system sales) and annualized contract value (for
-         support) for perpetual license system sales and total contract price for SaaS sales.
-  (3)    Adjustment was made to the 2023 bookings, due to 3rd Party Software, and Forms and Supplies
-         being doubled accounted for in the total EHR bookings.
-
-  TruBridge, Inc.
-  Bookings Composition
-  (In '000s, except per share data)
-  (Unaudited) (Non-GAAP)
-
-                                                      Three Months Ended            Six Months Ended June 30,
-                                                      June 30,
-                                                      2024        2023 (3)          2024             2023 (3)
-        RCM
-        Net new(1)                                    $ 6,453      $ 3,395          $ 15,446         $ 9,749
-        Cross-sell(1)                                   7,004        10,253           12,402           15,999
-        EHR
-        Non-subscription sales(2)                       4,084         4,458            7,534           10,506
-        Subscription revenue(3)                         5,749         2,864            11,477          4,563
-
-        Total                                         $ 23,290     $ 20,970         $ 46,859         $ 40,817
-
-  (     "Net new" represents bookings from outside the Company's core EHR client base, and "Cross-sell"
-  1     represents bookings from existing EHR customers. In each case, such bookings are generally
-  )     comprised of recurring revenues to be recognized ratably over a one-year period and an average
-        timeframe for commencement of bookings-to-revenue conversion of four to six months following
-        contract execution.
-  (     Represents nonrecurring revenues that generally exhibit a timeframe for bookings-to-revenue
-  2     conversion of five to six months following contract execution.
-  )
-
-                                                                                                     Page 8 of 12
-                           TruBridge Announces Second Quarter 2024 Results
-
-(       Represents recurring revenues to be recognized on a monthly basis over a weighted-average contract
-3       period of five years, with a start date in the next 12 months and an average timeframe for
-)       commencement of bookings-to-revenue conversion of five to six months following contract execution.
-
-TruBridge, Inc.
-Adjusted EBITDA - by Segment
-(In '000s)
-(Unaudited) (Non-GAAP)
-
-                                 Three Months Ended June 30,           Six Months Ended June 30,
-In '000s                         2024            2023                  2024            2023
-RCM                              $ 7,804         $ 5,682               $ 14,202        $ 13,580
-EHR                                4,770           5,545                  7,826           12,289
-
-Total                            $ 12,574             $ 11,227         $ 22,028         $ 25,869
-
-    TruBridge, Inc.
-    Reconciliation of Non-GAAP Financial Measures
-    (In '000s)
-    (Unaudited)
-
-                                                        Three Months Ended        Six Months Ended June
-                                                        June 30,                  30,
-    Adjusted EBITDA:                                      20           20            20           20
-                                                          24           23            24           23
-    Net income (loss), as reported                      $ (5, )      $ (2,   )    $ (7, )      $ 24
-                                                          04           83            56           7
-                                                          9            7             5
-    Net Income Margin                                     (6. %        (3.   %       (4. %        0.1 %
-                                                          0      )     4     )       5    )
-
-    Depreciation expense                                  40           59            80            1,0
-                                                          0            7             0             95
-    Amortization of software development costs            5,9          1,8           8,7           3,3
-                                                          80           26            22            12
-    Amortization of acquisition-related intangibles       3,1          4,0           6,2           8,0
-                                                          26           14            53            29
-    Stock-based compensation                              1,5          (12   )       2,3           1,1
-                                                          01           3             00            24
-    Severance and other non-recurring charges             4,5          6,8           8,4           7,9
-                                                          86           19            30            20
-    Interest expense                                      4,1          2,5           8,0           4,9
-                                                          51           86            51            88
-    Gain on sale of AHT                                   -            -             (1,   )       -
-                                                                                     25
-                                                                                     0
-    Provision (benefit) for income taxes                  (2,    )     (1,   )       (3,   )       (84   )
-                                                          12           65            71            6
-                                                          1            5             3
-
-    Total Adjusted EBITDA                               $ 12,        $ 11,        $ 22,         $ 25,
-                                                          57           22           02            86
-                                                          4            7            8             9
-    Adjusted EBITDA Margin                                14.    %     13.   %      13.    %      15.    %
-                                                          8            3            1             1
-TruBridge, Inc.
-
-                                                                                                      Page 9 of 12
-                         TruBridge Announces Second Quarter 2024 Results
-
-Reconciliation of Non-GAAP Financial Measures
-(In '000s, except per share data)
-(Unaudited)
-
-                                                         Three Months Ended          Six Months Ended June
-                                                         June 30,                    30,
-Non-GAAP Net Income and Non-GAAP EPS:                      20           20              20           20
-                                                           24           23              24           23
-Net income (loss), as reported                           $ (5, )      $ (2,     )    $ (7, )      $ 24
-                                                           04           83              56           7
-                                                           9            7               5
-
-Pre-tax adjustments for Non-GAAP EPS:
-Amortization of acquisition-related intangible assets       3,1           4,0           6,2           8,0
-                                                            26            14            53            29
-Stock-based compensation                                    1,5           (12   )       2,3           1,1
-                                                            01            3             00            24
-Severance and other nonrecurring charges                    4,5           6,8           8,4           7,9
-                                                            86            19            30            20
-Non-cash interest expense                                   10            90            21            18
-                                                            7                           3             0
-After-tax adjustments for Non-GAAP EPS:
-Tax-effect of pre-tax adjustments, at 21%                   (1,   )       (2,   )       (3,   )       (3,    )
-                                                            95            26            61            62
-                                                            7             9             1             3
-Tax shortfall (windfall) from stock-based                   4             7             11            57
-compensation                                                                            3
-
-Non-GAAP net income                                      $ 2,3         $ 5,7         $ 6,1         $ 13,
-                                                           18            01            33            93
-                                                                                                     4
-
-Weighted average shares outstanding, diluted                14,           14,           14,           14,
-                                                            31            20            27            16
-                                                            3             0             3             8
-
-Non-GAAP EPS                                             $ 0.1         $ 0.4         $ 0.4         $ 0.9
-                                                           6             0             3             8
-TruBridge, Inc.
-Electronic Health Record (EHR) Revenue Composition
-(In '000s)
-(Unaudited)
-
-                                                        Three Months Ended          Six Months Ended June
-                                                        June 30,                    30,
-                                                        2024         2023           2024         2023
-Recurring revenues - EHR
-Acute Care EHR                                          $ 26,66       $ 30,01       $ 54,16       $ 59,353
-                                                          6             3             0
-Post-acute Care EHR                                       -             3,729         582           7,636
-Total recurring revenues - EHR                            26,66         33,74         54,74         66,989
-                                                          6             2             2
-
-Non-recurring revenues - EHR
-Acute Care EHR                                            3,956         2,775         6,008         6,750
-
-                                                                                                    Page 10 of 12
-                                TruBridge Announces Second Quarter 2024 Results
-
-        Post-acute Care EHR                               -             345           81           725
-        Total non-recurring revenues - EHR                3,956         3,120         6,089        7,475
-
-        Total EHR revenues                              $ 30,62      $ 36,86       $ 60,83       $ 74,464
-                                                          2            2             1
-
-Explanation of Non-GAAP Financial Measures
-
-We report our financial results in accordance with accounting principles generally accepted in the United States of
-America, or "GAAP." However, management believes that, in order to properly understand our short-term and long-
-term financial and operational trends, investors may wish to consider the impact of certain non-cash or non-
-recurring items, when used as a supplement to financial performance measures that are prepared in accordance
-with GAAP. These items result from facts and circumstances that vary in frequency and impact on continuing
-operations. Management uses these non-GAAP financial measures in order to evaluate the operating performance
-of the Company and compare it against past periods, make operating decisions, and serve as a basis for strategic
-planning. These non-GAAP financial measures provide management with additional means to understand and
-evaluate the operating results and trends in our ongoing business by eliminating certain non-cash expenses and
-other items that management believes might otherwise make comparisons of our ongoing business with prior
-periods more difficult, obscure trends in ongoing operations, or reduce management's ability to make useful
-forecasts. In addition, management understands that some investors and financial analysts find these non-GAAP
-financial measures helpful in analyzing our financial and operational performance and comparing this performance
-to our peers and competitors.
-
-As such, to supplement the GAAP information provided, we present in this press release and during the live
-webcast discussing our financial results the following non-GAAP- financial measures: Adjusted EBITDA, Adjusted
-EBITDA Margin, Non-GAAP net income, and Non-GAAP earnings per share ("EPS").
-
-We calculate each of these non-GAAP financial measures as follows:
-    •   Adjusted EBITDA - Adjusted EBITDA consists of GAAP net income as reported and adjusts for (i)
-        depreciation expense; (ii) amortization of software development costs; (iii) amortization of acquisition-
-        related intangibles; (iv) stock-based compensation; (v) severance and other nonrecurring charges; (vi)
-        interest expense; (vii) gain on sale of AHT; and (xiii) the provision (benefit) for income taxes.
-    •   Adjusted EBITDA Margin - Adjusted EBITDA Margin is calculated as Adjusted EBITDA, as defined above,
-        divided by total revenue.
-    •   Non-GAAP net income - Non-GAAP net income consists of GAAP net income as reported and adjusts for
-        (i) amortization of acquisition-related intangible assets; (ii) stock-based compensation; (iii) severance and
-        other non-recurring charges; (iv) non-cash interest expense; (v) gain on sale of AHT; and (vi) the total tax
-        effect of items (i) through (v).
-    •   Non-GAAP EPS - Non-GAAP EPS consists of Non-GAAP net income, as defined above, divided by
-        weighted average shares outstanding (diluted) in the applicable period.
-
-Certain of the items excluded or adjusted to arrive at these non-GAAP financial measures are described below:
-    •   Amortization of acquisition-related intangibles - Acquisition-related amortization expense is a non-cash
-        expense arising primarily from the acquisition of intangible assets in connection with acquisitions or
-        investments. We exclude acquisition-related amortization expense from non-GAAP financial measures
-        because we believe (i) the amount of such expenses in any specific period may not directly correlate to the
-        underlying performance of our business operations and (ii) such expenses can vary significantly between
-        periods as a result of new acquisitions and full amortization of previously acquired intangible assets.
-        Investors should note that the use of these intangible assets contributed to revenue in the periods
-        presented and will contribute to future revenue generation, and the related amortization expense will recur
-        in future periods.
-
-                                                                                                    Page 11 of 12
-                                TruBridge Announces Second Quarter 2024 Results
-
-    •   Stock-based compensation - Stock-based compensation expense is a non-cash expense arising from the
-        grant of stock-based awards. We exclude stock-based compensation expense from non-GAAP financial
-        measures because we believe (i) the amount of such expenses in any specific period may not directly
-        correlate to the underlying performance of our business operations and (ii) such expenses can vary
-        significantly between periods as a result of the timing and valuation of grants of new stock-based awards,
-        including grants in connection with acquisitions. Investors should note that stock-based compensation is a
-        key incentive offered to employees whose efforts contributed to the operating results in the periods
-        presented and are expected to contribute to operating results in future periods, and such expense will recur
-        in future periods.
-    •   Severance and other nonrecurring charges - Non-recurring charges relate to certain severance and other
-        charges incurred in connection with activities that are considered non-recurring. We exclude non-recurring
-        expenses (primarily related to costs associated with our recent business transformation initiative and
-        transaction-related costs) from non-GAAP financial measures because we believe (i) the amount of such
-        expenses in any specific period may not directly correlate to the underlying performance of our business
-        operations and (ii) such expenses can vary significantly between periods.
-    •   Non Cash Interest expense - Non-cash interest expense includes amortization of deferred debt issuance
-        costs. We exclude non-cash interest expense from non-GAAP financial measures because we believe
-        these non-cash amounts relate to specific transactions and, as such, may not directly correlate to the
-        underlying performance of our business operations.
-    •   Interest expense: Interest incurred on our term loan and revolving credit facility.
-    •   Gain on sale of AHT: Represents the excess of proceeds received over the net assets sold from our sale of
-        AHT, our previously wholly-owned post-acute business, in January 2024.
-    •   Tax shortfall (windfall) from stock-based compensation - ASU 2016-09, Improvements to Employee Share-
-        Based Payment Accounting, became effective for the Company during the third quarter of 2017 and
-        changes the treatment of tax shortfall and excess tax benefits arising from stock based compensation
-        arrangements. Prior to ASU 2016-09, these amounts were recorded as an increase (for excess benefits) or
-        decrease (for shortfalls) to additional paid-in capital. With the adoption of ASU 2016-09, these amounts are
-        now captured in the period's income tax expense. We exclude this component of income tax expense from
-        non-GAAP financial measures because we believe (i) the amount of such expenses or benefits in any
-        specific period may not directly correlate to the underlying performance of our business operations; and (ii)
-        such expenses or benefits can vary significantly between periods as a result of the valuation of grants of
-        new stock-based awards, the timing of vesting of awards, and periodic movements in the fair value of our
-        common stock.
-
-Management considers these non-GAAP financial measures to be important indicators of our operational strength
-and performance of our business and a good measure of our historical operating trends, in particular the extent to
-which ongoing operations impact our overall financial performance. In addition, management may use Adjusted
-EBITDA, Non-GAAP net income and/or Non-GAAP EPS to measure the achievement of performance objectives
-under the Company's stock and cash incentive programs. Note, however, that these non-GAAP financial measures
-are performance measures only, and they do not provide any measure of cash flow or liquidity. Non-GAAP financial
-measures are not alternatives for measures of financial performance prepared in accordance with GAAP and may
-be different from similarly titled non-GAAP measures presented by other companies, limiting their usefulness as
-comparative measures. Non-GAAP financial measures have limitations in that they do not reflect all of the amounts
-associated with our results of operations as determined in accordance with GAAP. Additionally, there is no certainty
-that we will not incur expenses in the future that are similar to those excluded in the calculations of the non-GAAP
-financial measures presented in this press release. Investors and potential investors are encouraged to review the
-"Unaudited Reconciliation of Non-GAAP Financial Measures" above.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240808342375/en/
-
-                                                                                Page 12 of 12
-                              TruBridge Announces Second Quarter 2024 Results
-
-CONTACT: Investor Relations Contact
-Asher Dewhurst, ICR Westwicke
-
-TBRGIR@westwicke.com Media Contact
-Tracey Schroeder
-Chief Marketing Officer
-
-Tracey.schroeder@trubridge.com
-(251) 639-8100
+CONTACT: Media Inquiries:
+Kioxia Corporation
+Sales Strategic Planning Division
+Koji Takahata
+Tel: +81-3-6478-2404
 
 
 http://www.businesswire.com
 
 
-Load-Date: August 8, 2024
+
+Graphic
+
+                                                                                                   Page 3 of 3
+  Kioxia Joins Hewlett Packard Enterprise Servers on Space Launch Destined for the International Space Station
+                          HPE Spaceborne Computer-2, Features KIOXIA Value SA....
+
+KIOXIA SSDs on Space Launch Destined for the International Space Station (Graphic: Business Wire)
+
+
+Load-Date: January 30, 2024
 
 
   

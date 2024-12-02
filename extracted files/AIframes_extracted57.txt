@@ -1,117 +1,60 @@
 
 
-                                                                                              Page 1 of 3
-  Veeam Ranked #1 in the 2024 Gartner ® Market Share Analysis for Enterprise Backup and Recovery Software
-                        Report Veeam jumps to lead position worldwide as the nee....
+                                                                                                        Page 1 of 2
+                  Tonaquint Upgrades Infrastructure of Recently Acquired Oklahoma City Data Center
 
 
 
 
-Veeam Ranked #1 in the 2024 Gartner® Market Share Analysis for Enterprise
-   Backup and Recovery Software Report; Veeam jumps to lead position
-          worldwide as the need for data resilience accelerates
-                                                   Business Wire
-                                     August 21, 2024 Wednesday 1:05 PM GMT
+Tonaquint Upgrades Infrastructure of Recently Acquired Oklahoma City Data
+                                  Center
+                                                           PR Newswire
+                                        January 17, 2024 Wednesday 10:00 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-Length: 818 words
-Dateline: SEATTLE
+Length: 462 words
+Dateline: ST. GEORGE, Utah, Jan. 17, 2024
 
 Body
 
 
-Veeam® Software , the leader in Data Resilience, today announced that Gartner has named Veeam #1 in market
-share in the Enterprise Backup and Recovery Software market for the first time. Veeam is the top vendor in the
-Gartner Market Share Analysis: Enterprise Backup and Recovery Software, Worldwide, 2023 report, based on a
-market share of 15.1%, revenues of $1.5 billion and 11.8% year-over-year growth in 2022-2023.
+PR NewswireClient orders are now being accepted for recently acquired facilityST. GEORGE, Utah, Jan. 17, 2024
+/PRNewswire/ --Tonaquint, the premier data center solutions provider serving emerging markets, announced it is
+upgrading the recently acquired EdgeX data center facility in Oklahoma City.
 
-"Today, every organization relies on the availability of data no matter what happens. When the worst happens -
-whether due to ransomware or a natural disaster or an inadvertent security update - data resilience is critical," said
-Anand Eswaran, CEO at Veeam. "At Veeam, we are powering data resilience from backup and recovery to end-to-
-end ransomware protection for over 550,000 organizations in 150+ countries around the world. Our responsibility is
-to ensure their data is available wherever and whenever they need it. We take that very seriously and it's why we
-continue to invest in innovation to ensure we keep businesses running."
-
-Veeam solutions are purpose-built to empower organizations with data resilience, offering comprehensive
-capabilities for data backup, data recovery, data freedom , data security, and data intelligence. Veeam Data
-Platform is a single solution which provides secure backup with instant recovery from cyberthreats, helping keep
-regulatory compliance goals, while reducing risk for all company data either on premises or in the cloud. With
-Veeam, IT and security leaders can trust that their applications and data will always be protected and available,
-regardless of the environment, including cloud , virtual , physical , SaaS , and Kubernetes .
-
-"We believe that Veeam has accelerated our #1 market leadership position in powering data resilience for our
-customers with cutting edge innovation, strong partnerships, and customer value focus. We recently added
-Coveware by Veeam, which as part of our Cyber Secure Program , delivers the industry's first true end-to-end
-ransomware protection and recovery. In addition to best-in-class Incident Response, Coveware has the largest and
-constantly evolving commercial database of ransomware threat signatures, and further strengthens Veeam Data
-Platform's AI-driven threat detection engine," Eswaran continued.
-
-The report provides an analysis of the Enterprise Backup & Recovery Software vendor market share, vendor
-performance, key trends affecting the market, and significant mergers and acquisitions for the calendar year.
-
-                                                                                              Page 2 of 3
-  Veeam Ranked #1 in the 2024 Gartner ® Market Share Analysis for Enterprise Backup and Recovery Software
-                        Report Veeam jumps to lead position worldwide as the nee....
-
-Gartner states that: "The enterprise backup and recovery software market grew at 5.1% in 2023, ending the year at
-nearly $10 billion in total revenue. Veeam returned to double-digit growth after experiencing revenue growth of
-9.4% in 2022. In 2023, it expanded its revenue by 11.8% and became No. 1 in revenue and market share in the
-backup and recovery software market."
-
-For more information, visit https://www.veeam.com .
-
-Gartner disclaimer
-
-Gartner, Market Share Analysis: Enterprise Backup and Recovery Software, Worldwide, 2023," Gartner (John
-Harrell), 08 August 2024
-
-GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and
-internationally and is used herein with permission. All rights reserved.
-
-GARTNER does not endorse any vendor, product or service depicted in its research publications, and does not
-advise technology users to select only those vendors with the highest ratings or other designation. Gartner research
-publications consist of the opinions of Gartner's research organization and should not be construed as statements
-of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any
-warranties of merchantability or fitness for a particular purpose.
-
-About Veeam Software
-
-Veeam®, the #1 global market leader in data resilience, believes every business should be able to bounce forward
-after a disruption with the confidence and control of all their data whenever and wherever they need it.? Veeam
-calls this radical resilience, and we're obsessed with creating innovative ways to help our customers achieve it.
-
-Veeam solutions are purpose-built for powering data resilience by providing data backup, data recovery, data
-freedom, data security, and data intelligence. ?With Veeam, IT and security leaders rest easy knowing that their
-apps and data are protected and always available across their cloud, virtual, physical, SaaS, and Kubernetes
-environments.
-
-Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers
-worldwide, including 74% of the Global 2000, that trust Veeam to keep their businesses running. ?Radical resilience
-starts with Veeam. Learn more at www.veeam.com or follow Veeam on LinkedIn @veeam-software and X @veeam
-.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240821675800/en/
+Tonaquint acquired the facility in late 2023 with plans to further enhance and expand it to build a market-leading
+facility.Tonaquint is recommissioning the former EdgeX facility from a single-client environment to a multi-client one,
+initially deploying a minimum of 2.5 MW of critical IT load. With an expansion capability of up to 12 MW, the facility
+holds significant future upside and can deliver chilled water cooling for high-density workloads. Additional
+enhancements include a refreshed client reception area and meeting rooms."This state-of-the-art facility will be
+well-prepared for the demands of new clients and the increasing capacity requirements of AI workloads," said Terry
+Morrison, COO and CTO of Tonaquint. "These enhancements further position this facility as one of the region's
+most future-forward and resilient data centers."Located near the Will Rogers World Airport on a highly secure four-
+acre campus, the purpose-built Tier III data center is 65,000 square feet, with two 10,000 square feet of data halls.
+The facility is positioned for 100% uptime and can withstand tornado-force winds up to 310 mph. The data center
+provides high-density capacity and geographic optionality for all client workload types. Tonaquint is taking client
+orders now, for delivery starting in April of this year.Tonaquint is a specialized data center provider offering cloud,
+colocation, backup, disaster recovery and network-as-a-service solutions to mid-market organizations through its
+facilities in the Mountain West and Southwest regions of the United States. The Oklahoma City acquisition is in
+addition to Tonaquint's existing platform in Boise, Idaho and St. George, Utah.For more information and to lease
+space in Tonaquint's facilities, visitwww.tonaquint.com.About TonaquintTonaquint was founded in 2008 in St.
+George, UT, and entered the Boise, ID, market in 2020 with the acquisition of Fiberpipe Data Centers, Inc.
+Tonaquint provides a comprehensive set of data center solutions to a diverse and growing client base in the
+technology, healthcare, financial services, and industrial sectors, in high growth and emerging markets. In
+December 2022, DIF Capital Partners acquired Tonaquint, to enable Tonaquint to continue its growth.To learn more
+and get connected, visittonaquint.com.                  View original content:https://www.prnewswire.com/news-
+releases/tonaquint-upgrades-infrastructure-of-recently-acquired-oklahoma-city-data-center-
+302037032.htmlSOURCE Tonaquint
 
 
-CONTACT: Heidi Monroe Kroft
-Veeam Software
-Global Corporate Communications / Public Relations
-(614) 339-8200
+Load-Date: January 17, 2024
 
-heidi.kroft@veeam.com
+                                                                                                Page 2 of 2
+             Tonaquint Upgrades Infrastructure of Recently Acquired Oklahoma City Data Center
 
-
-http://www.businesswire.com
-
-
-Load-Date: August 21, 2024
-
-                                                                                            Page 3 of 3
-Veeam Ranked #1 in the 2024 Gartner ® Market Share Analysis for Enterprise Backup and Recovery Software
-                      Report Veeam jumps to lead position worldwide as the nee....
 
 
 

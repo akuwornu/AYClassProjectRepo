@@ -1,74 +1,72 @@
 
 
-                                                                                                        Page 1 of 2
-                  Essential Guide to Cloud Computing for Municipalities Offers Strategies for Success
+                                                                                                    Page 1 of 2
+  US Patent Issued on Jan. 30 for "Method for ai and cloud network enhanced electric subscriber control of billing
+                               and system loads, with contingency backup" ( Co....
 
 
 
 
- Essential Guide to Cloud Computing for Municipalities Offers Strategies for
-                                Success
-                                                           PR Newswire
-                                          August 7, 2024 Wednesday 8:38 AM EST
+ US Patent Issued on Jan. 30 for "Method for ai and cloud network enhanced
+  electric subscriber control of billing and system loads, with contingency
+                       backup" (Connecticut Inventors)
+                                                   US Fed News
+ January 31, 2024 Wednesday GENERAL_EDIT_CORRECTION ERROR Document ID 144 Has error Validate old
+                   format failed - Input Date Invalid - 00:47: Unparseable date: "00:47" EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 722 words
-Dateline: HOBOKEN, N.J., Aug. 7, 2024
+
+
+
+Length: 531 words
+Dateline: ALEXANDRIA, Va.
 
 Body
 
 
-PR NewswireNYC area technology provider shares strategies for success in a new guide to cloud computing for
-municipalities—in a new article from eMazzanti TechnologiesHOBOKEN, N.J., Aug. 7, 2024 /PRNewswire-PRWeb/
--- NYC-areacloud solutions providereMazzanti Technologies has released a guide for municipalities outlining
-strategies for harnessing the benefits of the cloud while mitigating the difficulties it presents.Cloud computing for
-municipalities offers undeniable benefits to municipal leaders seeking innovative solutions to enhance efficiency,
-reduce costs, and improve services for citizens. But it also introduces potentially tricky challenges.The article first
-outlines key benefits that cloud computing presents to municipalities, ranging from improved disaster recovery to
-increased citizen engagement and informed decision making.The author then discusses the challenges presented
-by the cloud and offers best practices to safely leverage the cloud to transform municipal operations."Cloud
-computing for municipalities offers undeniable benefits to municipal leaders seeking innovative solutions to enhance
-efficiency, reduce costs, and improve services for citizens. But it also introduces potentially tricky challenges,"
-warned Jennifer Mazzanti, CEO, eMazzanti Technologies.Below are a few excerpts from the article, "Essential
-Guide to Cloud Computing for Municipalities."Cloud Delivers Clear Benefits"Cloud computing empowers
-municipalities with data analytics tools that facilitate informed decision making.
+ALEXANDRIA, Va., Jan. 31 -- United States Patent no. 11,887,171, issued on Jan. 30.
 
-Using these tools, cities can collect, store, and analyze vast amounts of data. These analytics help to optimize
-everything from traffic flow to energy consumption, leading to more effective resource allocation."Security,
-Compliance, and Cost Top List of Concerns"In the first place, local governments collect and store significant
-amounts of protected information, from personal resident data to confidential government records. Numerous
-regulations mandate that municipal leaders ensure the protection of this data against breaches and unauthorized
-access. And the cloud introduces newmunicipal security challenges."Strategies for Success in Cloud Computing for
-Municipalities"Begin by evaluating the municipality's needs, existing IT infrastructure, and readiness for cloud
-adoption. Then, rather than jumping into a mass migration, start with a small project to test the waters before fully
-migrating to the cloud.""Understand theshared responsibility model for cloud security. Additionally, take the time to
-strengthen authentication and access management, a critical component of security in the cloud. Patch
-management, email security, encryption, and other factors will also prove key."Municipal Technology Provider
-Delivers Customized Cloud SolutionsMunicipal leaders face significant challenges while balancing citizen needs,
-security concerns, aging systems, and tight budgets. Partnering with an experiencedmunicipal technology
-providerbrings a wealth of expertise to the table.Have you read?Impact of AI on Threat Detection Critical in Cyber
-Landscape - eMazzanti TechnologiesSafeguard Your Business With Disaster Recovery Planning - eMazzanti
+"Method for ai and cloud network enhanced electric subscriber control of billing and system loads, with contingency
+backup" was invented by Joseph J. Bango (New Haven, Conn.) and Michael E. Dziekan (Bethany, Conn.).
+According to the abstract* released by the U.S. Patent & Trademark Office: "A system for localized subscriber
+control of electric provider billing comprising: a digital assistant in communication with powerline sensors, the
+powerline sensors configured to detect weather, natural disaster, or other event that compromises the electric grid
+in a given predetermined region, a smart utility box in operational communication with a subscriber's utility
+connection and in communication with the digital assistant, wherein the smart utility box is configured to disconnect
+from a utility and stop incurring charges from the utility if the smart utility box determines that utility prices may
+exceed a threshold value. A system of reCAPTCHA comprising: a series of images showing ice on a powerline, or
+ice on a powerline, fire on or near a powerline, or other condition that can lead to failure of a powerline; and a
+screen to allow users to select the image showing ice on a powerline, or ice on a powerline, fire on or near a
+powerline, or other condition that can lead to failure of a powerline which will assist a power system AI deep
+learning.
 
-                                                                                                     Page 2 of 2
-               Essential Guide to Cloud Computing for Municipalities Offers Strategies for Success
+A power transmission line monitor comprising a non-transitory computer-readable medium, where the medium
+includes a set of instructions stored thereon that when accessed by a processor enable the processor to perform a
+method of geolocation awareness for a digital assistant, the method comprising: configuring the power transmission
+line monitor to be in communication with a network; configuring the power transmission line monitor to be in
+communication with a remote server via the network; configuring the power transmission line monitor to be in
+communication with a cloud computing system via the remote server; configuring the power transmission line
+monitor to be in communication with the internet such that the present cost of electricity for a given user defined
+geographical service area is obtained, and the current cost of electric service in the predefined geographical
 
-TechnologiesAbout eMazzanti TechnologieseMazzanti's team of trained, certified IT experts rapidly deliver
-increased revenue growth, data security and productivity for clients ranging from law firms to high-end global
-retailers, expertly providing advanced business cyber security, retail and payment technology, digital marketing
-services, AI, cloud and mobile solutions, multi-site implementations, 24×7 outsourced network management,
-remote monitoring, and support.eMazzanti's consistent growth landed them on the Inc. 5000 list 9X. Recognized as
-a 4X Microsoft Partner of the Year, the #1 ranked NYC area MSP, NJ Business of the Year, and 5X WatchGuard
-Partner of the Year, the company excels as a trusted outsourced IT partner! Contact: 1-866-362-9926,
-orhttp://www.emazzanti.netTwitter:    @emazzanti      Facebook:      Facebook.com/emazzantitechnologies.Media
-ContactJuliana Wallace, eMazzanti Technologies, 2178999111, ,https://www.emazzanti.net/ View original content
-to download multimedia:https://www.prweb.com/releases/essential-guide-to-cloud-computing-for-municipalities-
-offers-strategies-for-success-302216243.htmlSOURCE eMazzanti Technologies
+                                                                                                    Page 2 of 2
+  US Patent Issued on Jan. 30 for "Method for ai and cloud network enhanced electric subscriber control of billing
+                               and system loads, with contingency backup" ( Co....
+
+location reported, preferably using bluetooth, email, or a digital assistant located in a residence or a business via
+the cloud computing system; monitoring temperature, icing of the powerline, electric current in a power transmission
+line, and three-axis shock above a threshold level, transmitting the temperature, icing condition, electric current, and
+three-axis shock information to the remote server." The patent was filed on March 8, 2021, under Application No.
+17/195,100.       *For    further   information,    including   images,    charts     and    tables,    please      visit:
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=11887171&OS=11887171&RS=11887171 For any query with
+respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
 
-Load-Date: August 7, 2024
+Load-Date: January 31, 2024
 
 
   

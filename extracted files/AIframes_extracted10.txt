@@ -1,1692 +1,849 @@
 
 
-                                                                                                     Page 1 of 28
-                                   PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
+                                                                                                        Page 1 of 15
+                                     RPM Reports Record Fiscal 2024 Second-Quarter Results
 
 
 
 
-                     PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-                                                       US Fed News
-                                          September 3, 2024 Tuesday 12:34 PM EST
+                 RPM Reports Record Fiscal 2024 Second-Quarter Results
+                                                        Business Wire
+                                            January 4, 2024 Thursday 11:45 AM GMT
 
 
 
-Copyright 2024 HT Media Ltd. All Rights Reserved
+Copyright 2024 Business Wire, Inc.
 
-
-
-
-Length: 6085 words
+Length: 5607 words
+Dateline: MEDINA, Ohio
 
 Body
 
-
-WASHINGTON, Sept. 3 -- The U.S. Air Force issued the following press release:
-
-* Published Sept. 3, 2024
-
-*
-
-By Senior Master Sgt. DeAndre Curtiss
-
-* 374th Airlift Wing Public Affairs
-
-PORT MORESBY, Papua New Guinea (AFNS) --
-
-Royal Australian Air Force Cpl. Anthony Ross, Australian Defence Force Combat Survival Training School
-instructor, assists U.S. Air Force Staff Sgt. Shane Pentkowski, 31st Rescue Squadron pararescueman, in splitting
-wood to start a fire during Pacific Angel 24-1 at Port Moresby, Papua New Guinea, Aug. 27, 2024. Pacific Angel 24-
-1 is a bilateral operation with forces representing the U.S. Air Force, Royal Australian Air Force and the Papua New
-Guinea Defence Force. During the exercise, participants exchanged knowledge and information on various topics
-including survival, evasion, resistance and escape. (U.S. Air Force photo by Airman 1st Class Carson Jeney)
-
-Photo Details
-
-/
-
-Download Hi-Res
-
-$(document).ready(function () {
-
-let isDesktopInit = false;
-
-let detailSize = "full";
-
-let displayhgt = "95vh";
-
-                                                                                      Page 2 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
-
-buttons: ['share'],
-
-caption: function (instance, item) {
-
-var caption = '';
-
-if (item.type === 'image') {
-
-if (isMobile()) {
-
-caption += '' +
-
-'' +
-
-'
-
-'+
-
-$(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare() +
-
-'' +
-
-'' +
-
-'
-
-SHOW PHOTO DETAILS ';
-
-}
-
-else {
-
-caption += $(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare();
-
-}
-
-}
-
-return caption;
-
-},
-
-afterLoad: function (instance, current) {
-
-//initial desktop view
-
-                                                                                                       Page 3 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
-
-if (isMobile())
-
-$(".fancybox-caption__body").addClass("mobile");
-
-},
-
-afterShow: function (instance, current) {
-
-var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
-
-if (isMobile())
-
-$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
-
-},
-
-afterClose: function () {
-
-}
-
-}));
-
-let debounceTimer;
-
-$(window).on("resize", function (event) {
-
-if (isMobile())
-
-return;
-
-if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
-
-event.stopImmediatePropagation();
-
-$(".fancybox-caption__body").removeClass("half");
-
-isDesktopInit = false;
-
-captionToggle();
-
-debounceTimer = setTimeout(function () {
-
-clearTimeout(debounceTimer);
-
-debounceTimer = null;
-
-recalculateImageSize();
-
-}, 1000);
-
-}
-
-});
-
-function recalculateImageSize() {
-
-// Fancy box miscalculates because of race conditions with new layout
-
-                                                                                                     Page 4 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-var origImgWth = $(".fancybox-image").prop("naturalWidth");
-
-var origImgHgt = $(".fancybox-image").prop("naturalHeight");
-
-var winWth = $(window).innerWidth();
-
-var winHgt = $(window).innerHeight()
-
-var ratio = Math.min(winWth / origImgWth,
-
-winHgt / origImgHgt);
-
-var newImgWth = (origImgWth * ratio);
-
-var newImgHgt = (origImgHgt * ratio);
-
-var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
-
-var dstLeft = Math.floor((winWth - newImgWth)) / 2;
-
-$(".fancybox-content").removeAttr("style");
-
-$(".fancybox-content").css("width", newImgWth + "px");
-
-$(".fancybox-content").css("height", newImgHgt + "px");
-
-$(".fancybox-content").css("transform",
-
-"translate(" + dstLeft + "px, " + dstTop + "px)");
-
-}
-
-function captionToggle() {
-
-if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
-
-$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
-
-// Animation complete.
-
-closeDetails();
-
-});
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
-
-}
-
-else {
-
-$(".fancybox-caption__body").addClass("af3-caption-body");
-
-$(".af3-caption-body").addClass(detailSize);
-
-$(".af3-caption-body").animate({ height: displayhgt }, 800);
-
-$(".fancybox-caption").addClass("af3-caption-bg");
-
-$(".base-caption-info").addClass("full-height");
-
-                                                                                                     Page 5 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "none");
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
-
-$(".fancybox-caption__body").prepend(prependClosing());
-
-$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
-
-}
-
-}
-
-function getDetailsURL(fbObj) {
-
-return 'DETAILS';
-
-}
-
-function getDownloadURL(fbObj) {
-
-return 'DOWNLOAD';
-
-}
-
-function showFBShare() {
-
-return 'SHARE';
-
-}
-
-function closeDetails() {
-
-$(".af3-caption-body").removeClass(detailSize);
-
-$(".fancybox-caption__body").removeClass("af3-caption-body");
-
-$(".fancybox-caption").removeClass("af3-caption-bg");
-
-$(".base-caption-info").removeClass("full-height");
-
-$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "block");
-
-if (detailSize === "half") {
-
-detailSize = "full";
-
-displayhgt = "90vh";
-
-$(".fancybox-caption").removeClass("desktop-init");
-
-}
-
-}
-
-function prependClosing() {
-
-                                                                                                               Page 6 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-return ''
-
-}
-
-function isMobile() {
-
-var isMobile = false; //initiate as false
-
-// device detection
-
-if
-(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
-|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
-os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
-(ce|phone)|xda|xiino/i.test(navigator.userAgent)
-
-||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
-)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
-7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
-i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
-g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
-)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
-
-isMobile = true;
-
-}
-
-return isMobile;
-
-}
-
-});
-
-Personnel from the U.S. Air Force, Royal Australian Air Force, French Navy and Papua New Guinea Defence Force
-marked the successful completion of bilateral training and increased cooperation during Pacific Angel 24-1 closing
-ceremony at Port Moresby, Aug. 30.
-
-Pacific Angel 24-1 is a five-dayfield training exercise and subject matter expert exchange. During the exercise,
-PNGDF personnel received training and exchanged knowledge with U.S. Air Force, Royal Australian Air Force and
-French Navy subject matter experts on areas such as aircraft maintenance, adverse terrain survival and swift water
-personnel recovery.
-
-"This is the first time we had PNGDF participate with U.S. aircraft, which goes a long way to building the capability
-for them to fly more complex military operations like humanitarian assistance and disaster response," said U.S. Air
-Force Col. Todd Larson, Pacific Air Forces director of strategy and plans. "My biggest takeaway from this exercise
-
-                                                                                                     Page 7 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-is the variety of uniforms present, like that old saying goes . You don't want to be exchanging business cards when
-disaster strikes, so these connections are great and should stand the test of time."
-
-U.S. Air Force and Papua New Guinea Defence Force aeromedical evacuation personnel remove a simulated
-casualty from a PNGDF PAC-750 during Pacific Angel 24-1 at Lae, Papua New Guinea, Aug. 29, 2024. U.S. Air
-Force, Royal Australian Air Force and Papua New Guinea Defence Force personnel culminated three days of
-aeromedical evacuation training and subject matter expert exchanges with a field training exercise. Pacific Angel is
-a series of joint, combined and bilateral humanitarian response exercises that supports U.S. Indo-Pacific Command
-objectives, U.S. Pacific Air Forces strategy and respective U.S. Embassy Strategic Engagement objectives. (U.S.
-Air Force photo by Senior Master Sgt. DeAndre Curtiss)
-
-Photo Details
-
-/
-
-Download Hi-Res
-
-$(document).ready(function () {
-
-let isDesktopInit = false;
-
-let detailSize = "full";
-
-let displayhgt = "95vh";
-
-let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
-
-buttons: ['share'],
-
-caption: function (instance, item) {
-
-var caption = '';
-
-if (item.type === 'image') {
-
-if (isMobile()) {
-
-caption += '' +
-
-'' +
-
-'
-
-'+
-
-$(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare() +
-
-'' +
-
-'' +
-
-'
-
-                                                                                                       Page 8 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-SHOW PHOTO DETAILS ';
-
-}
-
-else {
-
-caption += $(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare();
-
-}
-
-}
-
-return caption;
-
-},
-
-afterLoad: function (instance, current) {
-
-//initial desktop view
-
-$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
-
-if (isMobile())
-
-$(".fancybox-caption__body").addClass("mobile");
-
-},
-
-afterShow: function (instance, current) {
-
-var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
-
-if (isMobile())
-
-$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
-
-},
-
-afterClose: function () {
-
-}
-
-}));
-
-let debounceTimer;
-
-$(window).on("resize", function (event) {
-
-if (isMobile())
-
-return;
-
-if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
-
-                                                                            Page 9 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-event.stopImmediatePropagation();
-
-$(".fancybox-caption__body").removeClass("half");
-
-isDesktopInit = false;
-
-captionToggle();
-
-debounceTimer = setTimeout(function () {
-
-clearTimeout(debounceTimer);
-
-debounceTimer = null;
-
-recalculateImageSize();
-
-}, 1000);
-
-}
-
-});
-
-function recalculateImageSize() {
-
-// Fancy box miscalculates because of race conditions with new layout
-
-var origImgWth = $(".fancybox-image").prop("naturalWidth");
-
-var origImgHgt = $(".fancybox-image").prop("naturalHeight");
-
-var winWth = $(window).innerWidth();
-
-var winHgt = $(window).innerHeight()
-
-var ratio = Math.min(winWth / origImgWth,
-
-winHgt / origImgHgt);
-
-var newImgWth = (origImgWth * ratio);
-
-var newImgHgt = (origImgHgt * ratio);
-
-var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
-
-var dstLeft = Math.floor((winWth - newImgWth)) / 2;
-
-$(".fancybox-content").removeAttr("style");
-
-$(".fancybox-content").css("width", newImgWth + "px");
-
-$(".fancybox-content").css("height", newImgHgt + "px");
-
-$(".fancybox-content").css("transform",
-
-"translate(" + dstLeft + "px, " + dstTop + "px)");
-
-}
-
-function captionToggle() {
-
-                                                                                                     Page 10 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
-
-$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
-
-// Animation complete.
-
-closeDetails();
-
-});
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
-
-}
-
-else {
-
-$(".fancybox-caption__body").addClass("af3-caption-body");
-
-$(".af3-caption-body").addClass(detailSize);
-
-$(".af3-caption-body").animate({ height: displayhgt }, 800);
-
-$(".fancybox-caption").addClass("af3-caption-bg");
-
-$(".base-caption-info").addClass("full-height");
-
-$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "none");
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
-
-$(".fancybox-caption__body").prepend(prependClosing());
-
-$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
-
-}
-
-}
-
-function getDetailsURL(fbObj) {
-
-return 'DETAILS';
-
-}
-
-function getDownloadURL(fbObj) {
-
-return 'DOWNLOAD';
-
-}
-
-function showFBShare() {
-
-return 'SHARE';
-
-}
-
-function closeDetails() {
-
-                                                                                                              Page 11 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-$(".af3-caption-body").removeClass(detailSize);
-
-$(".fancybox-caption__body").removeClass("af3-caption-body");
-
-$(".fancybox-caption").removeClass("af3-caption-bg");
-
-$(".base-caption-info").removeClass("full-height");
-
-$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "block");
-
-if (detailSize === "half") {
-
-detailSize = "full";
-
-displayhgt = "90vh";
-
-$(".fancybox-caption").removeClass("desktop-init");
-
-}
-
-}
-
-function prependClosing() {
-
-return ''
-
-}
-
-function isMobile() {
-
-var isMobile = false; //initiate as false
-
-// device detection
-
-if
-(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
-|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
-os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
-(ce|phone)|xda|xiino/i.test(navigator.userAgent)
-
-||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
-)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
-7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
-i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
-g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
-)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
-
-                                                                                                      Page 12 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
-
-isMobile = true;
-
-}
-
-return isMobile;
-
-}
-
-});
-
-Royal Australian Air Force and Papua New Guinea Defence Force medical personnel practice rendering first aid on
-a RAAF C-27J Spartan mid-flight during Pacific Angel 24-1 at Papua New Guinea, Aug. 29, 2024. Pacific Angel 24-
-1 focuses on exchanging and teaching tactics and techniques between the participating countries. (U.S. Air Force
-photo by Airman 1st Class Carson Jeney)
-
-Photo Details
-
-/
-
-Download Hi-Res
-
-$(document).ready(function () {
-
-let isDesktopInit = false;
-
-let detailSize = "full";
-
-let displayhgt = "95vh";
-
-let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
-
-buttons: ['share'],
-
-caption: function (instance, item) {
-
-var caption = '';
-
-if (item.type === 'image') {
-
-if (isMobile()) {
-
-caption += '' +
-
-'' +
-
-'
-
-'+
-
-$(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare() +
-
-                                                                                                     Page 13 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-'' +
-
-'' +
-
-'
-
-SHOW PHOTO DETAILS ';
-
-}
-
-else {
-
-caption += $(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare();
-
-}
-
-}
-
-return caption;
-
-},
-
-afterLoad: function (instance, current) {
-
-//initial desktop view
-
-$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
-
-if (isMobile())
-
-$(".fancybox-caption__body").addClass("mobile");
-
-},
-
-afterShow: function (instance, current) {
-
-var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
-
-if (isMobile())
-
-$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
-
-},
-
-afterClose: function () {
-
-}
-
-}));
-
-let debounceTimer;
-
-$(window).on("resize", function (event) {
-
-                                                                                                Page 14 of 28
-                               PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-if (isMobile())
-
-return;
-
-if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
-
-event.stopImmediatePropagation();
-
-$(".fancybox-caption__body").removeClass("half");
-
-isDesktopInit = false;
-
-captionToggle();
-
-debounceTimer = setTimeout(function () {
-
-clearTimeout(debounceTimer);
-
-debounceTimer = null;
-
-recalculateImageSize();
-
-}, 1000);
-
-}
-
-});
-
-function recalculateImageSize() {
-
-// Fancy box miscalculates because of race conditions with new layout
-
-var origImgWth = $(".fancybox-image").prop("naturalWidth");
-
-var origImgHgt = $(".fancybox-image").prop("naturalHeight");
-
-var winWth = $(window).innerWidth();
-
-var winHgt = $(window).innerHeight()
-
-var ratio = Math.min(winWth / origImgWth,
-
-winHgt / origImgHgt);
-
-var newImgWth = (origImgWth * ratio);
-
-var newImgHgt = (origImgHgt * ratio);
-
-var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
-
-var dstLeft = Math.floor((winWth - newImgWth)) / 2;
-
-$(".fancybox-content").removeAttr("style");
-
-$(".fancybox-content").css("width", newImgWth + "px");
-
-$(".fancybox-content").css("height", newImgHgt + "px");
-
-$(".fancybox-content").css("transform",
-
-                                                                                                     Page 15 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-"translate(" + dstLeft + "px, " + dstTop + "px)");
-
-}
-
-function captionToggle() {
-
-if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
-
-$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
-
-// Animation complete.
-
-closeDetails();
-
-});
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
-
-}
-
-else {
-
-$(".fancybox-caption__body").addClass("af3-caption-body");
-
-$(".af3-caption-body").addClass(detailSize);
-
-$(".af3-caption-body").animate({ height: displayhgt }, 800);
-
-$(".fancybox-caption").addClass("af3-caption-bg");
-
-$(".base-caption-info").addClass("full-height");
-
-$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "none");
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
-
-$(".fancybox-caption__body").prepend(prependClosing());
-
-$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
-
-}
-
-}
-
-function getDetailsURL(fbObj) {
-
-return 'DETAILS';
-
-}
-
-function getDownloadURL(fbObj) {
-
-return 'DOWNLOAD';
-
-}
-
-function showFBShare() {
-
-                                                                                                              Page 16 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-return 'SHARE';
-
-}
-
-function closeDetails() {
-
-$(".af3-caption-body").removeClass(detailSize);
-
-$(".fancybox-caption__body").removeClass("af3-caption-body");
-
-$(".fancybox-caption").removeClass("af3-caption-bg");
-
-$(".base-caption-info").removeClass("full-height");
-
-$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "block");
-
-if (detailSize === "half") {
-
-detailSize = "full";
-
-displayhgt = "90vh";
-
-$(".fancybox-caption").removeClass("desktop-init");
-
-}
-
-}
-
-function prependClosing() {
-
-return ''
-
-}
-
-function isMobile() {
-
-var isMobile = false; //initiate as false
-
-// device detection
-
-if
-(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
-|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
-os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
-(ce|phone)|xda|xiino/i.test(navigator.userAgent)
-
-||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
-)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
-7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
-i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
-g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
-
-                                                                                                       Page 17 of 28
-                               PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
-)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
-
-isMobile = true;
-
-}
-
-return isMobile;
-
-}
-
-});
-
-U.S. Air Force and Papua New Guinea Defence Force aeromedical evacuation personnel prepare a simulated
-casualty for transport during Pacific Angel 24-1 at Lae, Papua New Guinea, Aug. 29, 2024. U.S. Air Force, Royal
-Australian Air Force and Papua New Guinea Defence Force personnel culminated three days of aeromedical
-evacuation training and subject matter expert exchanges with a field training exercise. Pacific Angel is a series of
-joint, combined and bilateral humanitarian response exercises that supports U.S. Indo-Pacific Command objectives,
-U.S. Pacific Air Forces strategy and respective U.S. Embassy Strategic Engagement objectives. (U.S. Air Force
-photo by Senior Master Sgt. DeAndre Curtiss)
-
-Photo Details
-
-/
-
-Download Hi-Res
-
-$(document).ready(function () {
-
-let isDesktopInit = false;
-
-let detailSize = "full";
-
-let displayhgt = "95vh";
-
-let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
-
-buttons: ['share'],
-
-caption: function (instance, item) {
-
-var caption = '';
-
-if (item.type === 'image') {
-
-if (isMobile()) {
-
-caption += '' +
-
-'' +
-
-'
-
-                                                                                                     Page 18 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-'+
-
-$(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare() +
-
-'' +
-
-'' +
-
-'
-
-SHOW PHOTO DETAILS ';
-
-}
-
-else {
-
-caption += $(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare();
-
-}
-
-}
-
-return caption;
-
-},
-
-afterLoad: function (instance, current) {
-
-//initial desktop view
-
-$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
-
-if (isMobile())
-
-$(".fancybox-caption__body").addClass("mobile");
-
-},
-
-afterShow: function (instance, current) {
-
-var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
-
-if (isMobile())
-
-$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
-
-},
-
-                                                                                                Page 19 of 28
-                               PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-afterClose: function () {
-
-}
-
-}));
-
-let debounceTimer;
-
-$(window).on("resize", function (event) {
-
-if (isMobile())
-
-return;
-
-if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
-
-event.stopImmediatePropagation();
-
-$(".fancybox-caption__body").removeClass("half");
-
-isDesktopInit = false;
-
-captionToggle();
-
-debounceTimer = setTimeout(function () {
-
-clearTimeout(debounceTimer);
-
-debounceTimer = null;
-
-recalculateImageSize();
-
-}, 1000);
-
-}
-
-});
-
-function recalculateImageSize() {
-
-// Fancy box miscalculates because of race conditions with new layout
-
-var origImgWth = $(".fancybox-image").prop("naturalWidth");
-
-var origImgHgt = $(".fancybox-image").prop("naturalHeight");
-
-var winWth = $(window).innerWidth();
-
-var winHgt = $(window).innerHeight()
-
-var ratio = Math.min(winWth / origImgWth,
-
-winHgt / origImgHgt);
-
-var newImgWth = (origImgWth * ratio);
-
-var newImgHgt = (origImgHgt * ratio);
-
-var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
-
-                                                                                                     Page 20 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-var dstLeft = Math.floor((winWth - newImgWth)) / 2;
-
-$(".fancybox-content").removeAttr("style");
-
-$(".fancybox-content").css("width", newImgWth + "px");
-
-$(".fancybox-content").css("height", newImgHgt + "px");
-
-$(".fancybox-content").css("transform",
-
-"translate(" + dstLeft + "px, " + dstTop + "px)");
-
-}
-
-function captionToggle() {
-
-if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
-
-$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
-
-// Animation complete.
-
-closeDetails();
-
-});
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
-
-}
-
-else {
-
-$(".fancybox-caption__body").addClass("af3-caption-body");
-
-$(".af3-caption-body").addClass(detailSize);
-
-$(".af3-caption-body").animate({ height: displayhgt }, 800);
-
-$(".fancybox-caption").addClass("af3-caption-bg");
-
-$(".base-caption-info").addClass("full-height");
-
-$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "none");
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
-
-$(".fancybox-caption__body").prepend(prependClosing());
-
-$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
-
-}
-
-}
-
-function getDetailsURL(fbObj) {
-
-return 'DETAILS';
-
-                                                                                                   Page 21 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-}
-
-function getDownloadURL(fbObj) {
-
-return 'DOWNLOAD';
-
-}
-
-function showFBShare() {
-
-return 'SHARE';
-
-}
-
-function closeDetails() {
-
-$(".af3-caption-body").removeClass(detailSize);
-
-$(".fancybox-caption__body").removeClass("af3-caption-body");
-
-$(".fancybox-caption").removeClass("af3-caption-bg");
-
-$(".base-caption-info").removeClass("full-height");
-
-$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "block");
-
-if (detailSize === "half") {
-
-detailSize = "full";
-
-displayhgt = "90vh";
-
-$(".fancybox-caption").removeClass("desktop-init");
-
-}
-
-}
-
-function prependClosing() {
-
-return ''
-
-}
-
-function isMobile() {
-
-var isMobile = false; //initiate as false
-
-// device detection
-
-if
-(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
-|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
-os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
-(ce|phone)|xda|xiino/i.test(navigator.userAgent)
-
-                                                                                                              Page 22 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
-)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
-7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
-i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
-g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
-)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
-
-isMobile = true;
-
-}
-
-return isMobile;
-
-}
-
-});
-
-Primarily a search and rescue-centered exercise, Pacific Angel 24-1 focused on establishing the PNGDF
-aeromedical evacuation capability and provided an opportunity to improve combined readiness and interoperability
-between the U.S., RAAF and Papua New Guinea. It allowed for the exchange of techniques related to emergency
-response triage and care, casualty evacuation, infectious disease control, engineering programs, airfield operations
-and repairs.
-
-During the closing ceremony, PNGDF Col. Bruno Malau, PNGDF chief of staff to deputy commander, briefed on
-this year's exercise accomplishments and stated that the exercise demonstrated remarkable dedication to the
-nations' partnership.
-
-Royal Australian Air Force personnel present a gift to Papua New Guinea Defence Force Lt. Col. Douglas Vavar
-(middle), Air Wing commanding officer, at the closing ceremony for Pacific Angel 24-1 at Port Moresby, Papua New
-Guinea, Aug. 30, 2024. Pacific Angel 24-1 is a four-day search and rescue focused field training exercise and
-subject matter expert exchange. During the exercise Papua New Guinea Defence Force personnel received training
-and exchange knowledge with U.S. Air Force and Royal Australian Air Force experts on areas such as aircraft
-maintenance, adverse terrain survival and swift water personnel recovery. (U.S. Air Force photo by Airman 1st
-Class Carson Jeney)
-
-Photo Details
-
-/
-
-Download Hi-Res
-
-$(document).ready(function () {
-
-let isDesktopInit = false;
-
-                                                                                      Page 23 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-let detailSize = "full";
-
-let displayhgt = "95vh";
-
-let $this = $('[data-fancybox]').fancybox($.extend(true, {}, $.fancybox.defaults, {
-
-buttons: ['share'],
-
-caption: function (instance, item) {
-
-var caption = '';
-
-if (item.type === 'image') {
-
-if (isMobile()) {
-
-caption += '' +
-
-'' +
-
-'
-
-'+
-
-$(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare() +
-
-'' +
-
-'' +
-
-'
-
-SHOW PHOTO DETAILS ';
-
-}
-
-else {
-
-caption += $(this).find('figcaption').html() +
-
-getDetailsURL($(this).parent()) +
-
-getDownloadURL($(this).parent()) +
-
-showFBShare();
-
-}
-
-}
-
-return caption;
-
-},
-
-                                                                                                     Page 24 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-afterLoad: function (instance, current) {
-
-//initial desktop view
-
-$(".fancybox-caption__body").addClass("a2a_kit").addClass("a2a_default_style");
-
-if (isMobile())
-
-$(".fancybox-caption__body").addClass("mobile");
-
-},
-
-afterShow: function (instance, current) {
-
-var $currentSlide = $(".fancybox-slide.fancybox-slide-- current.fancybox-slide-- image").parent().parent();
-
-if (isMobile())
-
-$currentSlide.find(".fancy-detail-link").on("touchstart", function() { captionToggle(); });
-
-},
-
-afterClose: function () {
-
-}
-
-}));
-
-let debounceTimer;
-
-$(window).on("resize", function (event) {
-
-if (isMobile())
-
-return;
-
-if ($(".af3-caption-body").length > 0 && $(".af3-caption-body").css("height") != undefined) {
-
-event.stopImmediatePropagation();
-
-$(".fancybox-caption__body").removeClass("half");
-
-isDesktopInit = false;
-
-captionToggle();
-
-debounceTimer = setTimeout(function () {
-
-clearTimeout(debounceTimer);
-
-debounceTimer = null;
-
-recalculateImageSize();
-
-}, 1000);
-
-}
-
-});
-
-                                                                                                     Page 25 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-function recalculateImageSize() {
-
-// Fancy box miscalculates because of race conditions with new layout
-
-var origImgWth = $(".fancybox-image").prop("naturalWidth");
-
-var origImgHgt = $(".fancybox-image").prop("naturalHeight");
-
-var winWth = $(window).innerWidth();
-
-var winHgt = $(window).innerHeight()
-
-var ratio = Math.min(winWth / origImgWth,
-
-winHgt / origImgHgt);
-
-var newImgWth = (origImgWth * ratio);
-
-var newImgHgt = (origImgHgt * ratio);
-
-var dstTop = Math.floor((winHgt - newImgHgt)) / 2;
-
-var dstLeft = Math.floor((winWth - newImgWth)) / 2;
-
-$(".fancybox-content").removeAttr("style");
-
-$(".fancybox-content").css("width", newImgWth + "px");
-
-$(".fancybox-content").css("height", newImgHgt + "px");
-
-$(".fancybox-content").css("transform",
-
-"translate(" + dstLeft + "px, " + dstTop + "px)");
-
-}
-
-function captionToggle() {
-
-if ($(".fancybox-caption__body").hasClass("af3-caption-body")) {
-
-$(".af3-caption-body").stop(true, false).animate({ height: "0vh" }, 800, function () {
-
-// Animation complete.
-
-closeDetails();
-
-});
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("CLOSE", "SHOW"));
-
-}
-
-else {
-
-$(".fancybox-caption__body").addClass("af3-caption-body");
-
-$(".af3-caption-body").addClass(detailSize);
-
-$(".af3-caption-body").animate({ height: displayhgt }, 800);
-
-                                                                                                     Page 26 of 28
-                                PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-$(".fancybox-caption").addClass("af3-caption-bg");
-
-$(".base-caption-info").addClass("full-height");
-
-$(".fancy-photo-detail-link").addClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "none");
-
-$(".fancy-photo-detail-link").html($(".fancy-photo-detail-link").html().replace("SHOW", "CLOSE"));
-
-$(".fancybox-caption__body").prepend(prependClosing());
-
-$(".closing-box, .closingx").on("touchstart", function() { captionToggle(); });
-
-}
-
-}
-
-function getDetailsURL(fbObj) {
-
-return 'DETAILS';
-
-}
-
-function getDownloadURL(fbObj) {
-
-return 'DOWNLOAD';
-
-}
-
-function showFBShare() {
-
-return 'SHARE';
-
-}
-
-function closeDetails() {
-
-$(".af3-caption-body").removeClass(detailSize);
-
-$(".fancybox-caption__body").removeClass("af3-caption-body");
-
-$(".fancybox-caption").removeClass("af3-caption-bg");
-
-$(".base-caption-info").removeClass("full-height");
-
-$(".fancy-photo-detail-link").removeClass("photo-detail-gradient");
-
-$(".fancybox-button").css("display", "block");
-
-if (detailSize === "half") {
-
-detailSize = "full";
-
-displayhgt = "90vh";
-
-$(".fancybox-caption").removeClass("desktop-init");
-
-}
-
-                                                                                                              Page 27 of 28
-                                 PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-}
-
-function prependClosing() {
-
-return ''
-
-}
-
-function isMobile() {
-
-var isMobile = false; //initiate as false
-
-// device detection
-
-if
-(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)
-|ipad|iris|kindle|Android|Silk|lge                 |maemo|midp|mmp|netfront|opera                    m(ob|in)i|palm(
-os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows
-(ce|phone)|xda|xiino/i.test(navigator.userAgent)
-
-||                           /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a                             wa|abac|ac(er|oo|s\-
-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r                                         |s
-)|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-
-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-
-7]0|os|wa|ze)|fetc|fly(\-|_)|g1       u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp(
-i|ip)|hs\-c|ht(c(\-|                          |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac(                            |\-
-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg(
-g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-
-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|             |o|v)|zz)|mt(50|p1|v        )|mwbp|mywa|n10[0-2]|n20[2-
-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-
-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-
-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-
-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-
-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v
-)|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-
-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-
-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
-
-isMobile = true;
-
-}
-
-return isMobile;
-
-}
-
-});
-
-"I would like to congratulate you all on a successful exercise, this week we took a small but significant step in the
-right direction to improve the government's ability to provide effective search and rescue capabilities," Malau said.
-"This exercise ensured interoperability, Papua New Guinea's growing military partnership with the United States
-and Australia and strengthened our commitment to the promotion of peace and stability in the Indo-Pacific region."
-
-Total participation included more than 60 U.S. Air Force, 18 Royal Australian air force, nine French navy and 45
-PNGDF personnel, two HC-130J Combat King IIs from the 39th Rescue Squadron, one RAAF C-27J Sentry, one
-French navy Dassault Falcon 20G and one PNGDF PAC-750.
-
-                                                                                               Page 28 of 28
-                            PACIFIC ANGEL 24-1 SUCCESSFULLY COMPLETED
-
-The U.S. military continues to strengthen relationships with allies and partners in the Indo-Pacific through
-operations such as Pacific Angel to prepare for emergencies and ultimately to preserve peace and stability
-throughout the region.
-
-U.S. Air Force Logo For any query with respect to this article or any other content requirement, please contact
-Editor at contentservices@htdigital.in
-
-
-Load-Date: September 4, 2024
+RPM International Inc. (NYSE: RPM), a world leader in specialty coatings, sealants and building materials, today
+reported record financial results for its fiscal 2024 second quarter ended November 30, 2023.
+
+"For eight consecutive quarters, we have generated record sales and adjusted EBIT, and we are making good
+progress toward achieving our MAP 2025 profitability goals by becoming a more efficient and collaborative
+organization. At our investor day last year, we discussed two other key components of MAP 2025 - improving cash
+flow conversion and investing to accelerate organic growth. We have made great progress with cash flow, as our
+$767.8 million cash from operating activities through the first six months of fiscal 2024 has already exceeded our
+previous 12-month fiscal year record. Our organic growth investments are yielding successes, particularly in high-
+performance buildings and turnkey flooring systems, where we are gaining share," said Frank C. Sullivan, RPM
+chairman and CEO.
+
+"Our Construction Products Group and Performance Coatings Group, the segments focused on coatings and high-
+performance buildings, led growth in the second quarter. They benefited from their focus on maintenance and
+repair, as well as their positioning to sell highly engineered solutions into growing end markets. Demand in DIY and
+specialty OEM markets remained weak; however, we overcame these challenges by successfully executing MAP
+2025 initiatives to expand gross margins by 320 basis points and generate double-digit adjusted EBIT growth."
+
+Second-Quarter 2024 Consolidated Results
+
+Consolidated
+                                                                Three Months Ended
+          $ in 000s except per share data                       November      November
+                                                                30,           30,
+                                                                2023          2022           $         %
+                                                                                             Change    Chang
+                                                                                                       e
+          Net Sales                                             $ 1,792,2     $ 1,791,7      $ 567     0.0 %
+                                                                  75            08
+          Net Income Attributable to RPM Stockholders             145,50        131,34         14,16   10.   %
+                                                                  5             4              1       8
+          Diluted Earnings Per Share (EPS)                        1.13          1.02           0.11    10.   %
+                                                                                                       8
+          Income Before Income Taxes (IBT)                         195,82       175,13         20,68   11.   %
+
+                                                                                                                  Page 2 of 15
+                              RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+                                                                    4               5                9           8
+        Earnings Before Interest and Taxes (EBIT)                   220,88          196,20           24,68       12.   %
+                                                                    3               2                1           6
+        Adjusted EBIT(1)                                            236,89          214,67           22,22       10.   %
+                                                                    3               3                0           4
+        Adjusted Diluted EPS(1)                                     1.22            1.10             0.12        10.   %
+                                                                                                                 9
+
+        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See tables below titled
+        Supplemental Segment Information and Reconciliation of Reported to Adjusted Amounts for details.
+
+Fiscal 2024 sales were a second-quarter record and were in addition to strong growth in the prior-year period when
+sales increased 9.3%. Pricing was positive in all segments as they catch up with cost inflation. Volume growth was
+strongest in businesses that were positioned to serve solid demand for infrastructure, reshoring and high-
+performance building projects with engineered solutions, which was more than offset by lower DIY consumer
+takeaway at retail stores and weak demand from specialty OEM end markets.
+
+Geographically, sales growth was strongest in markets outside the U.S. A new management team and focused
+sales strategy in Europe contributed to 8.9% growth, and Africa/Middle East and Asia/Pacific benefited from
+improved coordination under PCG management that resulted in 13.0% and 6.4% sales growth, respectively.
+
+Sales included a 0.3% organic decline, a 0.2% decline from divestitures net of acquisitions, and 0.5% growth from
+foreign currency translation.
+
+Selling, general and administrative expenses increased due to incentives to sell higher-margin products and
+services; investments to generate long-term growth; and inflation in compensation, benefits and healthcare
+expenses. These increases were partially offset by expense reduction actions taken in the fourth quarter of fiscal
+2023.
+
+Fiscal 2024 second-quarter adjusted EBIT was a record and in addition to strong growth in the prior-year period
+when adjusted EBIT increased 36.4%. This growth was driven by gross margin expansion of 320 basis points,
+aided by MAP 2025 initiatives, including the commodity cycle, a positive mix from shifting toward higher margin
+products and services, and improved fixed-cost leverage at businesses with volume growth.
+
+Second-Quarter 2024 Segment Sales and Earnings
+
+Construction Products Group
+                                                        Three Months Ended
+        $ in 000s                                       November        November
+                                                        30,             30,
+                                                        2023            2022                 $ Change        % Change
+        Net Sales                                       $ 661,750       $ 612,443            $ 49,307        8.1 %
+        Income Before Income Taxes                         98,398          74,038               24,360       32. %
+                                                                                                             9
+        EBIT                                               98,953             77,834            21,119       27. %
+                                                                                                             1
+        Adjusted EBIT(1)                                   99,613             79,042            20,571       26. %
+                                                                                                             0
+
+        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+        Supplemental Segment Information for details.
+
+CPG achieved record second-quarter sales with strength in concrete admixtures and repair products as a result of
+increased demand for engineered solutions serving infrastructure and reshoring-related projects, as well as market
+share gains. Businesses serving high-performance building construction and renovation also performed well.
+
+                                                                                                                  Page 3 of 15
+                               RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+Demand in markets outside the U.S. was strong and was driven by infrastructure-related demand in Latin America
+and a more focused sales strategy in Europe.
+
+Sales included 6.1% organic growth, 0.6% growth from acquisitions, and 1.4% growth from foreign currency
+translation.
+
+Record second-quarter adjusted EBIT was driven by the positive impact of MAP 2025 initiatives, favorable mix, and
+improved fixed-cost leverage from volume growth. Variable compensation increased as a result of improved
+financial performance and was partially offset by expense reduction actions implemented at the end of fiscal 2023.
+
+Performance Coatings Group
+                                                         Three Months Ended
+         $ in 000s                                       November        November
+                                                         30,             30,
+                                                         2023            2022                 $ Change      % Change
+         Net Sales                                       $ 374,856       $ 356,822            $ 18,034      5.1 %
+         Income Before Income Taxes                         61,502          46,709               14,793     31. %
+                                                                                                            7
+         EBIT                                               60,077             46,377            13,700     29. %
+                                                                                                            5
+         Adjusted EBIT(1)                                   60,870             47,568            13,302     28. %
+                                                                                                            0
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+PCG generated record second-quarter sales, which were in addition to strong results in the prior-year period, driven
+by growth in engineered turnkey flooring systems serving reshoring capital projects and market share gains. Strong
+growth in Asia/Pacific and Africa/Middle East, which were all recently aligned under PCG, also contributed to the
+record sales.
+
+Sales included 5.6% organic growth, a 0.5% decline from divestitures net of acquisitions, and no impact from
+foreign currency translation.
+
+All-time record adjusted EBIT was driven by sales growth, favorable mix and improved fixed-cost leverage that was
+enhanced by MAP 2025 initiatives. The adjusted EBIT growth was achieved in addition to strong results in the prior-
+year period.
+
+Specialty Products Group
+                                                     Three Months Ended
+         $ in 000s                                   November      November
+                                                     30,           30,
+                                                     2023          2022                 $ Change      % Change
+         Net Sales                                   $ 176,98      $ 212,08             $ (35,102   ) (16.  %)
+                                                        2             4                               6
+         Income Before Income Taxes                     10,145        27,431              (17,286   ) (63.  %)
+                                                                                                      0
+         EBIT                                           10,041           27,438           (17,397   ) (63.  %)
+                                                                                                      4
+         Adjusted EBIT(1)                               16,920           29,953           (13,033   ) (43.  %)
+                                                                                                      5
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+                                                                                                                  Page 4 of 15
+                               RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+SPG's second-quarter sales decline was driven by weak demand in specialty OEM end markets, particularly those
+with exposure to residential housing. Sales were also negatively impacted by the divestiture of the non-core
+furniture warranty business in the third quarter of fiscal 2023 and challenging comparisons in the prior-year period
+when the disaster restoration business had strong results in response to Hurricane Ian. Higher selling prices
+partially offset this sales decline.
+
+Sales included a 14.6% organic decline, a 2.7% reduction from divestitures, and 0.7% growth from foreign currency
+translation.
+
+Adjusted EBIT was negatively impacted by the sales decline and unfavorable fixed-cost leverage. The divestiture of
+the non-core furniture warranty business also contributed to the adjusted EBIT decline. Investments in long-term
+growth initiatives weighed on adjusted EBIT margins and were partially offset by expense-reduction actions in the
+fourth quarter of fiscal 2023.
+
+Adjusted EBIT excluded a $4.0 million expense related to an adverse legal ruling for a divested business.
+
+Consumer Group
+                                                     Three Months Ended
+         $ in 000s                                   November        November
+                                                     30,             30,
+                                                     2023            2022                $ Change          % Change
+         Net Sales                                   $ 578,687       $ 610,359           $ (31,672       ) (5. %)
+                                                                                                           2
+         Income Before Income Taxes                     98,066            93,873            4,193          4.5 %
+         EBIT                                           97,197            93,872            3,325          3.5 %
+         Adjusted EBIT(1)                               96,395            94,214            2,181          2.3 %
+
+         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
+         Supplemental Segment Information for details.
+
+The Consumer Group's second-quarter sales decline was driven by reduced DIY takeaway at retail stores as
+housing turnover hit multi-year lows and consumers focused their spending on travel and entertainment, as well as
+certain retailers destocking inventories. These pressures were partially offset by market share gains, strength in
+international markets, and higher pricing to catch up with inflation. The Consumer Group faced challenging
+comparisons to the prior-year period when sales grew 15.3%.
+
+Sales included a 5.1% organic decline, no impact from acquisitions, and foreign currency translation headwinds of
+0.1%.
+
+Record second-quarter adjusted EBIT was driven by gross margin expansion enabled by MAP 2025 initiatives and
+strength in international markets. This growth was in addition to strong prior-year results when adjusted EBIT
+increased 180.3%.
+
+Cash Flow and Financial Position
+
+During the first six months of fiscal 2024:
+    •    Cash provided by operating activities was $767.8 million, which exceeded the previous 12-month fiscal
+         year record, compared to $190.9 million during the prior-year period, and included an all-time quarterly
+         record of $408.6 million during the second quarter of fiscal 2024. The increase was driven by increased
+         profitability and improved working capital management, including MAP 2025 initiatives.
+    •    Capital expenditures were $89.3 million compared to $113.5 million during the prior-year period, driven by
+         the timing of investments, including those related to MAP 2025 initiatives, which are expected to accelerate
+         in the second half of fiscal 2024.
+
+                                                                                                       Page 5 of 15
+                             RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+    •   The company returned $138.3 million to stockholders through cash dividends and share repurchases and
+        achieved its 50th consecutive year of dividend increases.
+
+As of November 30, 2023:
+    •   Total debt was $2.25 billion compared to $2.84 billion a year ago, with the $592.4 million reduction driven
+        by improved cash flow being used to repay debt.
+    •   Total liquidity, including cash and committed revolving credit facilities, was $1.51 billion, compared to
+        $880.0 million a year ago.
+
+Business Outlook
+
+"We expect business conditions in the third quarter to generally be similar to the second quarter, with strength in
+our CPG and PCG segments, international markets, and market share gains offsetting continued weakness in DIY
+and specialty OEM demand. Adjusted EBIT growth is expected to accelerate, driven by less challenging prior-year
+comparisons and MAP 2025 benefits, which should more than offset lower volumes in certain businesses and
+investments we are making to accelerate future growth and efficiencies," Sullivan added. "For the remainder of the
+year, we are leveraging our focus on repair and maintenance; our strong position serving demand for infrastructure,
+high performance buildings and reshoring projects; and MAP 2025 to deliver another year of record sales and
+adjusted EBIT."
+
+The company expects the following in the fiscal 2024 third quarter:
+    •   Consolidated sales to be flat compared to prior-year record results.
+    •   CPG sales to increase in the mid-single-digit percentage range compared to prior-year record results.
+    •   PCG sales to increase in the mid-single-digit percentage range compared to prior-year record results.
+    •   SPG sales to decrease in the mid-teen percentage range compared to prior-year record results.
+    •   Consumer Group sales to decrease in the low-single-digit percentage range compared to prior-year record
+        results.
+    •   Consolidated adjusted EBIT to increase 25% to 35% compared to prior-year record results.
+
+The company expects the following in the full-year fiscal 2024:
+    •   Consolidated sales to increase in the low-single-digit percentage range compared to prior-year record
+        results. The previous outlook was for mid-single-digit percentage growth.
+    •   Consolidated adjusted EBIT to increase in the low-double-digit to mid-teen percentage range compared to
+        prior-year record results. This outlook is unchanged from the prior outlook.
+
+Earnings Webcast and Conference Call Information
+
+Management will host a conference call to discuss these results beginning at 10:00 a.m. EST today. The call can be
+accessed via webcast at www.RPMinc.com/Investors/Presentations-Webcasts or by dialing 1-844-481-2915 or 1-
+412-317-0708 for international callers and asking to join the RPM International call. Participants are asked to call
+the assigned number approximately 10 minutes before the conference call begins. The call, which will last
+approximately one hour, will be open to the public, but only financial analysts will be permitted to ask questions. The
+media and all other participants will be in a listen-only mode.
+
+For those unable to listen to the live call, a replay will be available from January 4, 2024, until January 11, 2024.
+The replay can be accessed by dialing 1-877-344-7529 or 1-412-317-0088 for international callers. The access
+code is 4125009. The call also will be available for replay and as a written transcript via the RPM website at
+www.RPMinc.com .
+
+About RPM
+
+                                                                                                          Page 6 of 15
+                              RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+RPM International Inc. owns subsidiaries that are world leaders in specialty coatings, sealants, building materials
+and related services. The company operates across four reportable segments: consumer, construction products,
+performance coatings and specialty products. RPM has a diverse portfolio of market-leading brands, including Rust-
+Oleum , DAP , Zinsser , Varathane , DayGlo , Legend Brands , Stonhard , Carboline , Tremco and Dryvit . From
+homes and workplaces, to infrastructure and precious landmarks, RPM's brands are trusted by consumers and
+professionals alike to help build a better world . The company employs approximately 17,300 individuals worldwide.
+Visit www.RPMinc.com to learn more.
+
+For more information, contact Matt Schlarb, Senior Director of Investor Relations, at 330-220-6064 or
+mschlarb@rpminc.com .
+
+Use of Non-GAAP Financial Information
+
+To supplement the financial information presented in accordance with Generally Accepted Accounting Principles in
+the United States ("GAAP") in this earnings release, we use EBIT, adjusted EBIT and adjusted earnings per share,
+which are all non-GAAP financial measures. EBIT is defined as earnings (loss) before interest and taxes, with
+adjusted EBIT and adjusted earnings per share provided for the purpose of adjusting for one-off items impacting
+revenues and/or expenses that are not considered by management to be indicative of ongoing operations. We
+evaluate the profit performance of our segments based on income before income taxes, but also look to EBIT as a
+performance evaluation measure because interest income (expense), net is essentially related to corporate
+functions, as opposed to segment operations. For that reason, we believe EBIT is also useful to investors as a
+metric in their investment decisions. EBIT should not be considered an alternative to, or more meaningful than,
+income before income taxes as determined in accordance with GAAP, since EBIT omits the impact of interest and
+investment income or expense in determining operating performance, which represent items necessary to our
+continued operations, given our level of indebtedness. Nonetheless, EBIT is a key measure expected by and useful
+to our fixed income investors, rating agencies and the banking community all of whom believe, and we concur, that
+this measure is critical to the capital markets' analysis of our segments' core operating performance. We also
+evaluate EBIT because it is clear that movements in EBIT impact our ability to attract financing. Our underwriters
+and bankers consistently require inclusion of this measure in offering memoranda in conjunction with any debt
+underwriting or bank financing. EBIT may not be indicative of our historical operating results, nor is it meant to be
+predictive of potential future results. See the financial statement section of this earnings release for a reconciliation
+of EBIT and adjusted EBIT to income before income taxes, and adjusted earnings per share to earnings per share.
+We have not provided a reconciliation of our third-quarter fiscal 2024 or full-year fiscal 2024 adjusted EBIT
+guidance because material terms that impact such measure are not in our control and/or cannot be reasonably
+predicted, and therefore a reconciliation of such measure is not available without unreasonable effort.
+
+Forward-Looking Statements
+
+This press release contains "forward-looking statements" relating to our business. These forward-looking
+statements, or other statements made by us, are made based on our expectations and beliefs concerning future
+events impacting us and are subject to uncertainties and factors (including those specified below), which are difficult
+to predict and, in many instances, are beyond our control. As a result, our actual results could differ materially from
+those expressed in or implied by any such forward-looking statements. These uncertainties and factors include (a)
+global markets and general economic conditions, including uncertainties surrounding the volatility in financial
+markets, the availability of capital, and the viability of banks and other financial institutions; (b) the prices, supply
+and availability of raw materials, including assorted pigments, resins, solvents, and other natural gas- and oil-based
+materials; packaging, including plastic and metal containers; and transportation services, including fuel surcharges;
+(c) continued growth in demand for our products; (d) legal, environmental and litigation risks inherent in our
+businesses and risks related to the adequacy of our insurance coverage for such matters; (e) the effect of changes
+in interest rates; (f) the effect of fluctuations in currency exchange rates upon our foreign operations; (g) the effect
+of non-currency risks of investing in and conducting operations in foreign countries, including those relating to
+domestic and international political, social, economic and regulatory factors; (h) risks and uncertainties associated
+with our ongoing acquisition and divestiture activities; (i) the timing of and the realization of anticipated cost savings
+from restructuring initiatives and the ability to identify additional cost savings opportunities; (j) risks related to the
+
+                                                                                                          Page 7 of 15
+                              RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+adequacy of our contingent liability reserves; (k) risks relating to a public health crisis similar to the Covid pandemic;
+(l) risks related to acts of war similar to the Russian invasion of Ukraine; (m) risks related to the transition or
+physical impacts of climate change and other natural disasters or meeting sustainability-related voluntary goals or
+regulatory requirements; (n) risks related to our use of technology, artificial intelligence, data breaches and data
+privacy violations; and (o) other risks detailed in our filings with the Securities and Exchange Commission, including
+the risk factors set forth in our Form 10-K for the year ended May 31, 2023, as the same may be updated from time
+to time. We do not undertake any obligation to publicly update or revise any forward-looking statements to reflect
+future events, information or circumstances that arise after the filing date of this release.
+         CONSOLIDATED STATEMENTS OF
+         INCOME
+         IN THOUSANDS, EXCEPT PER SHARE
+         DATA
+         (Unaudited)
+
+                                                          Three Months Ended          Six Months Ended
+                                                          Novemb       Novemb         Novemb       November
+                                                          er 30,       er 30,         er 30,       30,
+                                                             20           20             20           20
+                                                             23           22             23           22
+
+         Net Sales                                        $ 1,7         $ 1,7         $ 3,8         $ 3,7
+                                                            92,           91,           04,           24,
+                                                            27            70            13            02
+                                                            5             8             2             8
+         Cost of Sales                                      1,0           1,1           2,2           2,2
+                                                            44,           01,           27,           89,
+                                                            04            31            28            16
+                                                            7             7             7             6
+         Gross Profit                                       74            69            1,5           1,4
+                                                            8,2           0,3           76,           34,
+                                                            28            91            84            86
+                                                                                        5             2
+         Selling, General & Administrative Expenses          52            49           1,0           97
+                                                             3,2           0,6          54,           5,8
+                                                             89            07           32            12
+                                                                                        1
+         Restructuring Expense                               1,2           1,2          7,7            2,6
+                                                             39            72           37             26
+         Interest Expense                                    30,           27,          62,            54,
+                                                             34            91           16             62
+                                                             8             8            6              9
+         Investment (Income), Net                            (5,   )       (6,   )      (17    )       (3,   )
+                                                             28            85           ,72            18
+                                                             9             1            8              7
+         Other Expense, Net                                  2,8           2,3          5,3            4,7
+                                                             17            10           71             26
+         Income Before Income Taxes                          19            17           46             40
+                                                             5,8           5,1          4,9            0,2
+                                                             24            35           78             56
+         Provision for Income Taxes                          50,           43,          11             99,
+                                                             00            59           7,8            43
+                                                             9             3            50             5
+         Net Income                                          14            13           34             30
+                                                             5,8           1,5          7,1            0,8
+                                                             15            42           28             21
+         Less: Net Income Attributable to                    31            19           54             46
+         Noncontrolling Interests                            0             8            1              4
+
+                                                                                             Page 8 of 15
+                      RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+Net Income Attributable to RPM International     $ 14         $ 13          $ 34         $ 30
+Inc. Stockholders                                  5,5          1,3           6,5          0,3
+                                                   05           44            87           57
+
+Earnings per share of common stock
+attributable to
+RPM International Inc. Stockholders:
+Basic                                            $ 1.1        $ 1.0         $ 2.7        $ 2.3
+                                                   3            2             0            4
+Diluted                                          $ 1.1        $ 1.0         $ 2.6        $ 2.3
+                                                   3            2             9            3
+
+Average shares of common stock                     12           12            12           12
+outstanding - basic                                7,7          7,5           7,8          7,6
+                                                   58           85            16           00
+Average shares of common stock                     12           12            12           12
+outstanding - diluted                              8,2          8,9           8,3          8,8
+                                                   49           11            12           87
+
+SUPPLEMENTAL SEGMENT
+INFORMATION
+IN THOUSANDS
+(Unaudited)
+
+                                               Three Months Ended           Six Months Ended
+                                               November      November       November      November
+                                               30,           30,            30,           30,
+                                                  202           202            202           202
+                                                  3             2              3             2
+Net Sales:
+CPG Segment                                    $ 661,        $ 612,         $ 1,44        $ 1,31
+                                                 750           443            4,53          8,85
+                                                                              9             6
+PCG Segment                                      374,          356,           753,          720,
+                                                 856           822            369           540
+SPG Segment                                      176,          212,           357,          414,
+                                                 982           084            933           781
+Consumer Segment                                 578,          610,           1,24          1,26
+                                                 687           359            8,29          9,85
+                                                                              1             1
+Total                                          $ 1,79        $ 1,79         $ 3,80        $ 3,72
+                                                 2,27          1,70           4,13          4,02
+                                                 5             8              2             8
+
+Income Before Income Taxes:
+CPG Segment
+Income Before Income Taxes (a)                 $ 98,3        $ 74,0         $ 238,        $ 180,
+                                                 98            38             850           793
+Interest (Expense), Net (b)                      (555    )     (3,7     )     (3,9   )      (4,5     )
+                                                               96             51            76
+EBIT (c)                                         98,9          77,8           242,          185,
+                                                 53            34             801           369
+MAP initiatives (d)                              660           1,20           1,40          2,38
+                                                               8              9             9
+Adjusted EBIT                                  $ 99,6        $ 79,0         $ 244,        $ 187,
+                                                 13            42             210           758
+PCG Segment
+
+                                                                                         Page 9 of 15
+                      RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+Income Before Income Taxes (a)             $ 61,5        $ 46,7       $ 106,       $ 96,1
+                                             02            09           323          10
+Interest Income, Net (b)                     1,42          332          2,54         526
+                                             5                          9
+EBIT (c)                                     60,0          46,3         103,         95,5
+                                             77            77           774          84
+MAP initiatives (d)                          793           1,19         16,1         2,29
+                                                           1            47           3
+Adjusted EBIT                              $ 60,8        $ 47,5       $ 119,       $ 97,8
+                                             70            68           921          77
+SPG Segment
+Income Before Income Taxes (a)             $ 10,1        $ 27,4       $ 26,5       $ 55,3
+                                             45            31           42           16
+Interest Income (Expense), Net (b)           104           (7     )     203          (5       )
+EBIT (c)                                     10,0          27,4         26,3         55,3
+                                             41            38           39           21
+MAP initiatives (d)                          2,92          2,51         5,64         4,28
+                                             6             5            5            1
+(Gain) on sale of a business (e)             -             -            (1,1   )     -
+                                                                        23
+Legal contingency adjustment on a            3,95          -            3,95         -
+divested business (g)                        3                          3
+Adjusted EBIT                              $ 16,9        $ 29,9       $ 34,8       $ 59,6
+                                             20            53           14           02
+Consumer Segment
+Income Before Income Taxes (a)             $ 98,0        $ 93,8       $ 229,       $ 210,
+                                             66            73           895          562
+Interest Income, Net (b)                     869           1            1,61         27
+                                                                        9
+EBIT (c)                                      97,1         93,8         228,         210,
+                                              97           72           276          535
+MAP initiatives (d)                           34           342          414          749
+Business interruption insurance recovery      (836   )     -            (11,   )     -
+(f)                                                                     128
+Adjusted EBIT                              $ 96,3        $ 94,2       $ 217,       $ 211,
+                                             95            14           562          284
+Corporate/Other
+(Loss) Before Income Taxes (a)             $ (72,    )   $ (66,   )   $ (136   )   $ (142     )
+                                             287           916          ,632         ,525
+Interest (Expense), Net (b)                  (26,    )     (17,   )     (44,   )     (47,     )
+                                             902           597          858          414
+EBIT (c)                                     (45,    )     (49,   )     (91,   )     (95,     )
+                                             385           319          774          111
+MAP initiatives (d)                          8,48          13,2         21,1         28,5
+                                             0             15           74           28
+Adjusted EBIT                              $ (36,    )   $ (36,   )   $ (70,   )   $ (66,     )
+                                             905           104          600          583
+TOTAL CONSOLIDATED
+Income Before Income Taxes (a)             $ 195,        $ 175,       $ 464,       $ 400,
+                                             824           135          978          256
+Interest (Expense)                           (30,    )     (27,   )     (62,   )     (54,     )
+                                             348           918          166          629
+Investment Income, Net                       5,28          6,85         17,7         3,18
+                                             9             1            28           7
+EBIT (c)                                     220,          196,         509,         451,
+                                             883           202          416          698
+
+                                                                                                             Page 10 of 15
+                           RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+     MAP initiatives (d)                                 12,8             18,4            44,7               38,2
+                                                         93               71              89                 40
+     (Gain) on sale of a business (e)                    -                -               (1,1     )         -
+                                                                                          23
+     Business interruption insurance recovery            (836    )        -               (11,     )         -
+     (f)                                                                                  128
+     Legal contingency adjustment on a                  3,95              -               3,95               -
+     divested business (g)                              3                                 3
+     Adjusted EBIT                                    $ 236,            $ 214,          $ 545,            $ 489,
+                                                        893               673             907               938
+
+
+(     The presentation includes a reconciliation of Income (Loss) Before Income Taxes, a measure defined by
+a     Generally Accepted Accounting Principles in the United States (GAAP), to EBIT and Adjusted EBIT.
+)
+(     Interest Income (Expense), Net includes the combination of Interest Income (Expense) and Investment
+b     Income (Expense), Net.
+)
+(     EBIT is defined as earnings (loss) before interest and taxes, with Adjusted EBIT provided for the purpose of
+c     adjusting for items impacting earnings that are not considered by management to be indicative of ongoing
+)     operations. We evaluate the profit performance of our segments based on income before income taxes, but
+      also look to EBIT, or adjusted EBIT, as a performance evaluation measure because Interest Income
+      (Expense), Net is essentially related to corporate functions, as opposed to segment operations. For that
+      reason, we believe EBIT is also useful to investors as a metric in their investment decisions. EBIT should not
+      be considered an alternative to, or more meaningful than, income before income taxes as determined in
+      accordance with GAAP, since EBIT omits the impact of interest and investment income or expense in
+      determining operating performance, which represent items necessary to our continued operations, given our
+      level of indebtedness. Nonetheless, EBIT is a key measure expected by and useful to our fixed income
+      investors, rating agencies and the banking community all of whom believe, and we concur, that this measure
+      is critical to the capital markets' analysis of our segments' core operating performance. We also evaluate EBIT
+      because it is clear that movements in EBIT impact our ability to attract financing. Our underwriters and
+      bankers consistently require inclusion of this measure in offering memoranda in conjunction with any debt
+      underwriting or bank financing. EBIT may not be indicative of our historical operating results, nor is it meant to
+      be predictive of potential future results.
+(     Reflects restructuring and other charges, which have been incurred in relation to our Margin Acceleration Plan
+d     ("MAP to Growth") and our Margin Achievement Plan ("MAP 2025"), together MAP initiatives, as follows:
+)     "Inventory-related charges," & "Accelerated expense - other," and inventory write-offs related to the
+      discontinuation of certain product lines ("Discontinued product lines") partially offset by the sale of inventory
+      that had previously been reserved for as a result of prior product line rationalization initiatives at PCG, which
+      have been recorded in Cost of Sales; "Headcount reductions, impairments, closures of facilities and related
+      costs as well as the loss on the divestiture of a non-core service business within our PCG segment," which
+      have been recorded in Restructuring Expense; "Accelerated expense - other," "Receivable write-offs," "ERP
+      consolidation plan," & "Professional fees," which have been recorded in Selling, General & Administrative
+      Expenses.
+(     Reflects the gain associated with post-closing adjustments for the sale of the furniture warranty business in
+e     the SPG segment which has been recorded in Selling, General & Administrative Expenses.
+)
+(f    Business interruption insurance recovery at our Consumer segment related to lost sales and incremental
+)     costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of a significant alkyd resin
+      supplier, which has been recorded in Selling, General & Administrative Expenses.
+(     Represents incremental expense related to an adverse legal ruling from a case associated with a business
+g     that was divested in the prior year. We strongly disagree with the legal ruling and have filed an appeal.
+)
+
+     SUPPLEMENTAL INFORMATION
+     RECONCILIATION OF "REPORTED" TO "ADJUSTED"
+     AMOUNTS
+     (Unaudited)
+
+                                                                     Three Months Ended         Six Months Ended
+
+                                                                                                        Page 11 of 15
+                      RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+                                                             Novem          Novem         Novem         Novem
+                                                             ber 30,        ber 30,       ber 30,       ber 30,
+                                                             2023           2022          2023          2022
+
+Reconciliation of Reported Earnings per Diluted
+Share to Adjusted Earnings per Diluted Share (All
+amounts presented after-tax):
+Reported Earnings per Diluted Share                          $ 1            $ 1           $ 2           $ 2
+                                                               .              .             .             .
+                                                               1              0             6             3
+                                                               3              2             9             3
+MAP initiatives (d)                                            0              0             0             0
+                                                               .              .             .             .
+                                                               0              1             2             2
+                                                               7              1             7             3
+(Gain) on sale of a business (e)                               -              -             (       )     -
+                                                                                            0
+                                                                                            .
+                                                                                            0
+                                                                                            1
+Business interruption insurance recovery (f)                     -             -            (       )      -
+                                                                                            0
+                                                                                            .
+                                                                                            0
+                                                                                            7
+Legal contingency adjustment on a divested                       0             -            0              -
+business (g)                                                     .                          .
+                                                                 0                          0
+                                                                 2                          2
+Investment returns (h)                                           -            (       )     (       )      0
+                                                                              0             0              .
+                                                                              .             .              0
+                                                                              0             0              2
+                                                                              3             4
+Adjusted Earnings per Diluted Share (i)                      $ 1            $ 1           $ 2           $ 2
+                                                               .              .             .             .
+                                                               2              1             8             5
+                                                               2              0             6             8
+
+
+ (    Reflects restructuring and other charges, which have been incurred in relation to our Margin
+ d    Acceleration Plan ("MAP to Growth") and our Margin Achievement Plan ("MAP 2025"), together
+ )    MAP initiatives, as follows: "Inventory-related charges," & "Accelerated expense - other," and
+      inventory write-offs related to the discontinuation of certain product lines ("Discontinued product
+      lines") partially offset by the sale of inventory that had previously been reserved for as a result of
+      prior product line rationalization initiatives at PCG, which have been recorded in Cost of Sales;
+      "Headcount reductions, impairments, closures of facilities and related costs as well as the loss
+      on the divestiture of a non-core service business within our PCG segment," which have been
+      recorded in Restructuring Expense; "Accelerated expense - other," "Receivable write-offs," "ERP
+      consolidation plan," & "Professional fees," which have been recorded in Selling, General &
+      Administrative Expenses.
+ (    Reflects the gain associated with post-closing adjustments for the sale of the furniture warranty
+ e    business in the SPG segment which has been recorded in Selling, General & Administrative
+ )    Expenses.
+ (f   Business interruption insurance recovery at our Consumer segment related to lost sales and
+ )    incremental costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of
+      a significant alkyd resin supplier, which has been recorded in Selling, General & Administrative
+      Expenses.
+ (    Represents incremental expense related to an adverse legal ruling from a case associated with
+ g    a business that was divested in the prior year. We strongly disagree with the legal ruling and
+
+                                                                                                    Page 12 of 15
+                       RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+    )    have filed an appeal.
+    (    Investment returns include realized net gains and losses on sales of investments and unrealized
+    h    net gains and losses on equity securities, which are adjusted due to their inherent volatility.
+    )    Management does not consider these gains and losses, which cannot be predicted with any
+         level of certainty, to be reflective of the Company's core business operations.
+    (i   Adjusted Diluted EPS is provided for the purpose of adjusting diluted earnings per share for
+    )    items impacting earnings that are not considered by management to be indicative of ongoing
+         operations.
+
+CONSOLIDATED BALANCE SHEETS
+IN THOUSANDS
+(Unaudited)
+
+                                                          November          November         May 31, 2023
+                                                          30, 2023          30, 2022
+Assets
+Current Assets
+Cash and cash equivalents                                 $ 262,7           $ 232,1          $ 215,7
+                                                            46                18               87
+Trade accounts receivable                                   1,290,            1,388,           1,552,
+                                                            788               168              522
+Allowance for doubtful accounts                             (57,4     )       (48,0    )       (49,4       )
+                                                            48                41               82
+Net trade accounts receivable                               1,233,            1,340,           1,503,
+                                                            340               127              040
+Inventories                                                 1,102,            1,389,           1,135,
+                                                            815               591              496
+Prepaid expenses and other current assets                   320,1             355,0            329,8
+                                                            06                24               45
+Total current assets                                        2,919,            3,316,           3,184,
+                                                            007               860              168
+Property, Plant and Equipment, at Cost                      2,407,            2,187,           2,332,
+                                                            579               570              916
+Allowance for depreciation                                  (1,15     )       (1,06    )       (1,09       )
+                                                            4,468             1,701            3,440
+Property, plant and equipment, net                          1,253,            1,125,           1,239,
+                                                            111               869              476
+Other Assets
+Goodwill                                                    1,311,            1,341,           1,293,
+                                                            653               580              588
+Other intangible assets, net of amortization                533,6             581,9            554,9
+                                                            59                09               91
+Operating lease right-of-use assets                         324,2             295,3            329,5
+                                                            72                84               82
+Deferred income taxes                                       25,20             16,20            15,47
+                                                            1                 1                0
+Other                                                       170,4             171,7            164,7
+                                                            74                10               29
+Total other assets                                          2,365,            2,406,           2,358,
+                                                            259               784              360
+Total Assets                                              $ 6,537,          $ 6,849,         $ 6,782,
+                                                            377               513              004
+Liabilities and Stockholders' Equity
+Current Liabilities
+Accounts payable                                          $ 650,7           $ 679,5          $ 680,9
+                                                            71                96               38
+Current portion of long-term debt                           5,548             3,713            178,5
+
+                                                                                             Page 13 of 15
+                            RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+                                                                                          88
+Accrued compensation and benefits                          204,9          197,2           257,3
+                                                           21             66              28
+Accrued losses                                             34,88          25,79           26,47
+                                                           1              5               0
+Other accrued liabilities                                  358,2          383,6           347,4
+                                                           34             64              77
+Total current liabilities                                  1,254,         1,290,          1,490,
+                                                           355            034             801
+Long-Term Liabilities
+Long-term debt, less current maturities                    2,246,         2,841,          2,505,
+                                                           834            066             221
+Operating lease liabilities                                278,0          254,2           285,5
+                                                           28             17              24
+Other long-term liabilities                                298,2          292,1           267,1
+                                                           57             01              11
+Deferred income taxes                                      97,34          80,01           90,34
+                                                           9              0               7
+Total long-term liabilities                                2,920,         3,467,          3,148,
+                                                           468            394             203
+Total liabilities                                          4,174,         4,757,          4,639,
+                                                           823            428             004
+Stockholders' Equity
+Preferred stock; none issued                               -              -               -
+Common stock (outstanding 128,872; 129,090;                1,289          1,291           1,288
+128,766)
+Paid-in capital                                            1,141,         1,113,          1,124,
+                                                           970            025             825
+Treasury stock, at cost                                    (830,    )     (756,     )     (784,    )
+                                                           402            872             463
+Accumulated other comprehensive (loss)                     (589,    )     (601,     )     (604,    )
+                                                           690            046             935
+Retained earnings                                          2,637,         2,334,          2,404,
+                                                           387            063             125
+Total RPM International Inc. stockholders' equity          2,360,         2,090,          2,140,
+                                                           554            461             840
+Noncontrolling interest                                    2,000          1,624           2,160
+Total equity                                               2,362,         2,092,          2,143,
+                                                           554            085             000
+Total Liabilities and Stockholders' Equity               $ 6,537,       $ 6,849,        $ 6,782,
+                                                           377            513             004
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+IN THOUSANDS
+(Unaudited)
+                                                                        Six Months Ended
+                                                                        November         November
+                                                                        30,              30,
+                                                                           2023             2022
+
+Cash Flows From Operating Activities:
+Net income                                                              $ 347,12          $ 300,82
+                                                                          8                 1
+Adjustments to reconcile net income to net
+cash provided by operating activities:
+Depreciation and amortization                                              84,177           76,750
+
+                                                                                              Page 14 of 15
+                              RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+      Deferred income taxes                                                  (5,574    )     (4,196    )
+      Stock-based compensation expense                                       17,147          16,877
+      Net (gain) loss on marketable securities                               (6,226    )     2,812
+      Net loss on sales of assets and businesses                             3,623           -
+      Other                                                                  4,007           (104      )
+      Changes in assets and liabilities, net of effect
+      from purchases and sales of businesses:
+      Decrease in receivables                                                272,26          72,931
+                                                                             2
+      Decrease (increase) in inventory                                       37,243          (189,48   )
+                                                                                             7
+      Decrease (increase) in prepaid expenses and other                      21,260          (23,025   )
+      current and long-term assets
+      (Decrease) in accounts payable                                         (11,806   )     (95,502   )
+      (Decrease) in accrued compensation and benefits                        (53,980   )     (62,724   )
+      Increase in accrued losses                                             8,332           1,465
+      Increase in other accrued liabilities                                  50,188          94,297
+      Cash Provided By Operating Activities                                  767,78          190,91
+                                                                             1               5
+      Cash Flows From Investing Activities:
+      Capital expenditures                                                   (89,300   )     (113,46   )
+                                                                                             3
+      Acquisition of businesses, net of cash acquired                        (15,404   )     (47,542   )
+      Purchase of marketable securities                                      (22,057   )     (10,309   )
+      Proceeds from sales of marketable securities                           13,796          7,071
+      Other                                                                  1,326           236
+      Cash (Used For) Investing Activities                                   (111,63   )     (164,00   )
+                                                                             9               7
+      Cash Flows From Financing Activities:
+      Additions to long-term and short-term debt                             -               517,78
+                                                                                             5
+      Reductions of long-term and short-term debt                            (449,48   )     (351,79   )
+                                                                             5               5
+      Cash dividends                                                         (113,32   )     (105,64   )
+                                                                             5               0
+      Repurchases of common stock                                            (25,000   )     (25,000   )
+      Shares of common stock returned for taxes                              (20,689   )     (14,825   )
+      Payments of acquisition-related contingent consideration               (1,082    )     (3,705    )
+      Other                                                                  (713      )     (2,627    )
+      Cash (Used For) Provided By Financing Activities                       (610,29   )     14,193
+                                                                             4
+
+      Effect of Exchange Rate Changes on Cash and
+      Cash Equivalents                                                       1,111           (10,655   )
+
+      Net Change in Cash and Cash Equivalents                                46,959          30,446
+
+      Cash and Cash Equivalents at Beginning of Period                       215,78          201,67
+                                                                             7               2
+
+      Cash and Cash Equivalents at End of Period                          $ 262,74         $ 232,11
+                                                                            6                8
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240104575029/en/
+
+                                                                                  Page 15 of 15
+                          RPM Reports Record Fiscal 2024 Second-Quarter Results
+
+
+
+CONTACT: Matt Schlarb, 330-220-6064
+Senior Director of Investor Relations
+
+mschlarb@rpminc.com
+
+
+http://www.businesswire.com
+
+
+Load-Date: January 4, 2024
 
 
   

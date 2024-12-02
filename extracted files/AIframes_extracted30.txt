@@ -1,66 +1,72 @@
 
 
-                                                                                                        Page 1 of 2
-                                   Netsurit Secures Debt Financing from Sunflower Bank
+                                                                             Page 1 of 2
+    STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY THROUGH CLOUD TECHNOLOGY
 
 
 
 
-                   Netsurit Secures Debt Financing from Sunflower Bank
-                                                           PR Newswire
-                                           August 27, 2024 Tuesday 10:48 AM EST
+        STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY
+                     THROUGH CLOUD TECHNOLOGY
+                                                      US Fed News
+                                         January 10, 2024 Wednesday 11:52 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 581 words
-Dateline: NEW YORK, Aug. 27, 2024
+
+
+
+Length: 522 words
 
 Body
 
 
-PR NewswireNEW YORK, Aug. 27, 2024 /PRNewswire/ --Netsurit, a leading managed service provider (MSP) in
-New York, has announced its recently closed debt financing transaction withSunflower Bank. This financing
-collaboration strengthens Netsurit's position to support its acquisitive growth strategy. Q Advisors, a leading global
-TMT investment banking boutique, acted as the exclusive financial advisor to Netsurit in this transaction.Netsurit
-has completed seven acquisitions since 2021, with each offering strong synergies, expansion into new US markets,
-and technical expertise. This newly completed debt package with Sunflower will allow Netsurit to explore additional
-acquisitions in the managed services space.Netsurit provides comprehensive IT solutions, including cloud
-migration, cybersecurity, backup and disaster recovery, and innovative digital transformation services. Netsurit has
-offices in the US and South Africa and has been recognized as one of the world's top-performing MSPs by Channel
-Futures and CRN.Sunflower Bank is a regional bank that offers a full range of financial products and services for
-personal, business, and commercial customers. The bank executes a national technology-focused sector strategy
-backed by a full-service suite of traditional banking and risk management products.
+JUNEAU, Alaska, Jan. 10 -- The Office of Alaska Governor has issued the following press release:
 
-About NetsuritWith headquarters in New York, Netsurit is a global leader in IT solutions, providing comprehensive
-managed services, cybersecurity, AI capabilities, and strategic insights for organizations of all sizes. For 27 years,
-Netsurit has helped more than 600 businesses navigate the complexities of the modern workplace by ensuring
-critical applications and infrastructure are always on, secure, and resilient.About Sunflower BankA regional bank
-with a commercial focus, Sunflower Bank delivers highly personalized financial services to businesses and
-entrepreneurs. With $8.0 billion in assets as of June 30, 2024, locations across five states, and headquarters in
-Dallas, TX, Sunflower Bank provides a full range of banking services including personal, small business,
-commercial, wealth management, credit cards, home loans, and more to the communities it serves. More
-information is available at SunflowerBank.com.The Netsurit client relationship is managed by the Sunflower Bank
-Technology, Media & Telecommunications lending group headquartered in Dallas, Texas. Sunflower Bank
-manages and executes on full banking relationships for national middle market technology, media and
-telecommunications companies. More information atwww.sunflowerbank.com.About Q AdvisorsQ Advisors was
-formed in 2001 as a leading global investment bank serving public and private companies, PE firms, entrepreneurs
-and large multinationals in the telecom, media, and technology (TMT) sectors. Our team of 30 professionals,
-located in Denver and Munich, possess an extensive global reach, while also providing the personalized service of
-a boutique advisory firm. We are uniquely suited as a long-term partner in navigating a path to dynamic financial
-and strategic growth as we work to bring our clients best-in-class, independent advice by combining a level of
+Alaska has emerged as a leader in state government technology by embracing cloud services. Over the past two
+years, the Department of Administration's Office of Information Technology (OIT) has taken significant steps to
+move State servers and software applications from local data centers to the cloud. This shift enhances the security
+of Alaskans' data, improves reliability, and updates Alaska's technical infrastructure, providing easier access to data
+and services that are safer and allow for growth and change quickly.
 
-                                                                                                 Page 2 of 2
-                             Netsurit Secures Debt Financing from Sunflower Bank
+"At the heart of this initiative is our commitment to modernize and secure Alaska's digital landscape. By transitioning
+to cloud technology, we are not only ensuring the safety of our citizens' data but also paving the way for a more
+efficient and flexible government," said Governor Mike Dunleavy. "We are striving to be at the forefront of digital
+innovation, and cloud migration is an important step."
 
-commitment, operational understanding, and industry knowledge that is unmatched in the investment banking
-industry. More information atwww.qllc.com.Media Contact:Jolandi Marais
- View original content:https://www.prnewswire.com/news-releases/netsurit-secures-debt-financing-from-sunflower-
-bank-302231789.htmlSOURCE Netsurit
+The first phase of this rapid cloud migration, completed in approximately nine months, successfully moved over 700
+applications to the cloud without disrupting services to Alaskans. In their new locations, these applications now
+benefit from world-class security features, modern information technology (IT) systems, and significantly improved
+resilience.
+
+Building on the success of the initial phase, the second phase of the migration project has begun and will continue
+over the next several months. For most systems, the State can increase storage and computing without buying new
+hardware, ensure dynamic disaster and ransomware recovery, and adjust capacity quickly based on actual needs.
+The flexibility inherent in the cloud means less time spent on expensive hardware replacement and more time
+focusing on providing services through platforms such as MyAlaska and MyADFG or online health, public safety,
+DMV service, and more.
+
+"Migrating State servers to the cloud isn't just a leap forward for State agencies; it is a leap forward for Alaskans.
+The resulting enhancements in security, reliability, access, and safety are an improvement for us all. Our data will
+be more secure and State services will be more reliable and accessible for Alaskans," said Department of
+
+                                                                            Page 2 of 2
+   STATE OF ALASKA BOOSTS DIGITAL SECURITY AND EFFICIENCY THROUGH CLOUD TECHNOLOGY
+
+Administration Commissioner, Paula Vrana. "Because of this initiative, Alaskans will be able to do business with the
+State more confidently and with greater convenience than ever before."
+
+The collaborative efforts of Alaska's dedicated IT professionals, working alongside industry-leading partners, is part
+of a broader endeavor to enhance security and bring many other benefits in terms of scale, performance, and
+innovation to the State's digital infrastructure. One of those is laying the foundation for the use of Artificial
+Intelligence (AI) tools, as the State's cloud platform provides a library of private AI tools which will allow State
+agencies to quickly develop AI applications for public service. For any query with respect to this article or any other
+content requirement, please contact Editor at contentservices@htlive.com
 
 
-Load-Date: August 27, 2024
+Load-Date: January 13, 2024
 
 
   

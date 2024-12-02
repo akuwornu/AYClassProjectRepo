@@ -1,132 +1,245 @@
 
 
-                                                                                                Page 1 of 3
-  FalconStor Enhances IBM Storage Ceph with Greater Application Connectivity, Advanced Data Protection, and
-                         Enterprise Data Mobility Strategic move expands custom....
+                                                                                Page 1 of 5
+       BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                                    APPROPRIATIONS BILL
 
 
 
 
-          FalconStor Enhances IBM Storage Ceph with Greater Application
-        Connectivity, Advanced Data Protection, and Enterprise Data Mobility;
-           Strategic move expands customer readiness for IBM watsonx
-                                                   Business Wire
-                                      July 24, 2024 Wednesday 7:00 PM GMT
+         BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED
+              AGENCIES FISCAL YEAR 2024 APPROPRIATIONS BILL
+                                                       US Fed News
+                                             March 3, 2024 Sunday 10:57 PM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 865 words
-Dateline: AUSTIN, Texas
+
+
+
+Length: 2893 words
 
 Body
 
-FalconStor Software today announces certification of both StorSafe and StorGuard with IBM Storage Ceph,
-accelerating customers' "Journey to AI" through improved data access, migration, and availability. FalconStor's
-flagship solutions, StorSafe and StorGuard, deliver a comprehensive suite of data and backup optimization,
-virtualization, and protection, from on-premises to hybrid and multi-cloud deployments. IBM Storage Ceph is a
-scale-out, software-defined unified storage solution designed to support data lakes for IBM watsonx.data and next-
-generation AI workloads. Together, these solutions provide enterprise application access, data migration,
-protection, and availability, enabling customers to harness their massive data stores to tackle previously unsolvable
-challenges using Generative AI.
 
-StorSafe is Now Certified with Storage Ceph
+WASHINGTON, March 3 -- The Senate Appropriations Committee issued the following news release:
 
-IBM has certified FalconStor StorSafe with Storage Ceph, IBM's on-premises AI data lake offering, ensuring
-compatibility and full support by IBM. StorSafe is the only IBM-certified, sold, and supported solution for backup
-optimization with IBM Power Virtual Server, available via the IBM Cloud Catalog. Now, with certification for IBM
-Storage Ceph, customers can leverage both for an enterprise-class backup solution.
+The Fiscal Year 2024 Commerce, Justice, Science, and Related Agencies (CJS) Appropriations Act provides a total
+of $68.537 billion in discretionary funding.
 
-StorSafe integrates with any leading backup software on IBM Power (IBM i/AIX/Linux) or mixed heterogeneous
-operating systems, utilizing advanced compression and patented block-level deduplication to optimize backup and
-recovery operations while simplifying workload and data migrations. IBM Storage Ceph object storage is now
-supported as the tape archive export target for StorSafe, offering customers low-cost storage to archive historical
-backup data.
+The bill invests in a wide range of critical programs that affect the lives of all Americans. The bill provides $37.52
+billion for the Department of Justice (DOJ) to keep Americans safe in their communities, uphold the rule of law, and
+invest in lifesaving DOJ grant programs. The Department of Commerce receives $10.8 billion to promote and
+support American businesses and exports, spur economic development nationwide, maintain current-generation
+and build next-generation weather satellites that let Americans know about severe weather, create cybersecurity
+standards, promote economic development nationwide, enable sustainable management of ocean resources,
+conduct periodic censuses, and more. To continue promoting American competitiveness through scientific
+discovery, the bill provides $9.06 billion for the National Science Foundation (NSF). The National Aeronautics and
+Space Administration (NASA) is funded at $24.875 billion to explore the solar system, understand climate change,
+promote innovation and sustainability in aeronautics, and protect our planet.
 
-StorGuard is Now Certified with Storage Ceph
+"The bipartisan fiscal year 2024 Commerce, Justice, Science, and Related Agencies (CJS) Appropriations bill will
+help keep our communities and nation secure, further United States leadership in science and innovation, and
+assist in the growth and prosperity of American businesses. As Chair of the CJS Subcommittee, I have worked to
+ensure this bill gives our communities the tools they need to build a safe and prosperous future," said Senator
+Jeanne Shaheen (D-NH), Chair of the Commerce, Justice, Science, and Related Agencies Subcommittee. "These
+resources focus on critically important needs like combatting violent crime and gun violence, supporting survivors of
+domestic and sexual violence, and tackling the nation's substance use disorder epidemic. In addition to physical
+security, the 2024 CJS Appropriations bill addresses economic security across our country. This bill makes critical
+investments that will directly foster economic growth, create good jobs, accelerate exports of American products,
+enhance safety through accurate weather prediction, and promote innovation throughout the economy. This
+legislation also prioritizes many other important policies necessary for America's future success, including
 
-FalconStor has certified StorGuard with Storage Ceph, ensuring seamless integration and full support by
-FalconStor. StorGuard offers storage virtualization, business continuity, high availability, system failover, and data
-migration. Key capabilities brought to Storage Ceph by StorGuard include:
-    •     Fibre Channel and iSCSI support enabling enterprise application connection to Storage Ceph
+                                                                               Page 2 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                                   APPROPRIATIONS BILL
 
-                                                                                                Page 2 of 3
-  FalconStor Enhances IBM Storage Ceph with Greater Application Connectivity, Advanced Data Protection, and
-                         Enterprise Data Mobility Strategic move expands custom....
+investments in climate resilience, environmental restoration, and space exploration. I look forward to this bill being
+signed into law."
 
-    •   Data mobility via migration from heterogeneous storage environments into Storage Ceph as well as into
-        the cloud
-    •   Data protection across hybrid and multi-cloud environments
-    •   Fast, easy deployment and simplified management
+"This bill protects key funding to keep America at the forefront of innovation and to keep our communities safe,"
+said Senator Patty Murray (D-WA), Chair of the Senate Appropriations Committee. "With the investments we
+deliver, Democrats can keep building on the historic progress we are making to connect communities everywhere in
+America to high-speed internet. This bill will strengthen our supply chains, and it will help us maintain our global
+leadership in science and innovation by protecting critical investments in research and development-from advanced
+manufacturing, AI, clean energy, and more. We continue to support important law enforcement agencies and
+initiatives to keep our families safe. Important to me, we strengthen efforts to prevent violence against women and
+support survivors-and, for the first time ever, provide dedicated funding for the Access to Sexual Assault Nurse
+Exams program I helped establish so that survivors can get the care they need. We protect critical investments to
+support salmon restoration and maintain our fisheries, and we rejected extreme far-right poison pill policies."
 
-IBM Storage Ceph provides an efficient way to build a data lakehouse for IBM watsonx.data and next-generation AI
-workloads. It is highly scalable, with no single point of failure, and can support petabytes of data and billions of
-objects. StorGuard enhances Storage Ceph's capabilities by expanding enterprise application support, facilitating
-data migration from non-Ceph storage, and ensuring full data protection and high availability.
+Key Points & Highlights
 
-"StorGuard has been a critical component of our enterprise data protection strategy for many years," said Stefan
-Teusch, Deputy Head of GWDG and UMG/G3-7 - Infrastructure Operations Division, GWDG. "Certification of Ceph
-is an exciting and valuable addition as we think about the future storage, management, and use of massive
-amounts of data."
+CHIPS and Science Act: The bill provides $10.6 billion for science and technology programs to implement the
+bipartisan CHIPS and Science Act to help drive U.S. economic competitiveness. The bill invests in scientific
+research to allow the United States to keep pace with the Chinese government and other competitors in fields that
+power our economy, like artificial intelligence, quantum computing, microelectronics, clean energy, and advanced
+communications.
 
-Journey to AI
+Climate Research: Despite House Republicans' attempts to eliminate climate research at the National Science
+Foundation and other agencies, the bill maintains investments to better understand the world around us. In
+particular, the bill provides $224 million for climate research at NOAA and $2.2 billion for NASA Earth Science, both
+amounts are equal to the fiscal year 2023 enacted level. The agreement also rejects a bevy of new, extreme anti-
+environmental riders proposed by House Republicans, including those related to environmental justice and offshore
+wind.
 
-FalconStor StorSafe and StorGuard deliver comprehensive enterprise-class solutions for IBM Storage Ceph
-environments, including optimized data protection, workload migration, hybrid cloud backup and disaster recovery,
-ransomware recovery, storage virtualization, high availability, and failover capability. Together, they provide
-customers with the essential building blocks for developing and deploying strategic AI solutions. By integrating
-these technologies, FalconStor and IBM empower enterprises to effectively manage their data and unlock the full
-potential of AI-driven insights and innovation.
+NOAA Weather Satellites: The bill includes $1.4 billion for construction of National Oceanic and Atmospheric
+Administration's (NOAA) weather satellites, which are critical to accurate weather prediction needed to protect life
+and property. This is $86 million above fiscal year 2023. The bill provides resources to maintain the current
+generation of weather and climate satellites and invests in next-generation satellites. One-third of U.S. GDP is
+affected by climate and weather-affecting farmers trying to protect livestock and crops, cities relying on energy from
+wind turbines and solar panels, and air travelers simply trying to get home safely and on time. In 2023, the United
+States incurred 28 weather and climate disaster events with losses exceeding $1 billion, far more than the previous
+record of 22 in 2020.
 
-About FalconStor Software
+Department of Commerce: The bill provides $10.8 billion for the Department of Commerce. This includes programs
+reauthorized or newly created by the CHIPS and Science Act, including: $41 million for the Economic Development
+Administration (EDA) Regional Technology and Innovation Hub Program; $175 million for the National Institute of
+Standards and Technology (NIST) Manufacturing Extension Program to improve the competitiveness of domestic
+manufacturers and strengthen domestic supply chains; and $37 million for the Manufacturing USA program. The bill
+also provides up to $10 million for NIST to establish a U.S. Artificial Intelligence Safety Institute. Additionally, the
+bill provides $25 million for EDA's Good Jobs Challenge initiative and $5 million for EDA's Assistance to Indigenous
+Communities Program-a new grant program focused exclusively on the economic development needs of Tribal
+governments and indigenous communities. The bill also includes a provision to allow the National
+Telecommunications and Information Administration (NTIA) to access additional funding to implement broadband
+programs under the Infrastructure Investment and Jobs Act, assisting grantees in all 50 states, the District of
+Columbia, Puerto Rico, and the territories. These programs are critical to connecting every American to high-speed,
+affordable broadband, and they include the Digital Equity Act Programs, the Middle Mile Program, and the Tribal
+Connectivity Program.
 
-FalconStor is the trusted data protection software leader modernizing disaster recovery and backup operations for
-the hybrid cloud world. The Company enables enterprise customers and managed service providers to secure,
-migrate, and protect their data while reducing data storage and long-term retention costs by up to 95%. More than
-1,000 organizations and managed service providers worldwide standardize on FalconStor as the foundation for
-their cloud first data protection future. Our products are offered through and supported by a worldwide network of
-leading managed service providers, system integrators, resellers, and original equipment manufacturers.
+                                                                               Page 3 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                                   APPROPRIATIONS BILL
 
-FalconStor and FalconStor Software are trademarks or registered trademarks of FalconStor Software, Inc., in the
-U.S. and other countries. All other company and product names contained herein may be trademarks of their
-respective holders.
+Addressing Violence Against Women: The bill contains $713 million, the highest funding level ever, for grants
+provided by the Office on Violence Against Women (OVW). This represents an increase of $13 million above fiscal
+year 2023 for these lifesaving programs. Funding is provided for multiple competitive and formula grant programs
+that support training for police officers and prosecutors, state domestic violence and sexual assault coalitions, rape
+prevention programs, lethality assessment and homicide reduction initiatives, domestic violence hotlines, women's
+shelters, transitional housing, and rural support services.
 
-Links to websites or pages controlled by parties other than FalconStor are provided for the reader's convenience
-and information only. FalconStor does not incorporate into this release the information found at those links nor does
-FalconStor represent or warrant that any information found at those links is complete or accurate. Use of
-information obtained by following these links is at the reader's own risk.
+Continued funding is provided for several OVW programs authorized in the Violence Against Women Act (VAWA)
+Reauthorization Act of 2022, including a restorative justice program and the Abby Honold Act. In addition, $10
+million is provided for a new grant program, established by Senator Murray, to increase access to sexual assault
+nurse exams, which will support grants for regional Sexual Assault Nurse Examiner (SANE) training, salaries for
+SANEs and Sexual Assault Forensic Examiners (SAFEs), and technical assistance and resources to increase
+access to SANEs and SAFEs. The bill also includes $10 million to incentivize states to adopt laws that protect the
+rights of sexual assault survivors.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240724805252/en/
+Additionally, the bill provides $51.5 million to support the Sexual Assault Kit Initiative, which is administered by the
+Bureau of Justice Assistance. This program supports multi-disciplinary community response teams tasked with
+developing and implementing comprehensive reform regarding sexual assault, including reducing the backlog of
+rape kits at law enforcement agencies.
+
+Supporting Crime Victims: The Crime Victims Fund (CVF) provides critical support through direct assistance and
+programs offered by victim service providers to survivors of domestic violence, sexual assault, child abuse, human
+trafficking, and other violent crimes. The bill releases $1.35 billion from the CVF, providing $153 million above the
+President's budget request. Of this amount, $67.65 million is designated for efforts to assist Tribal victims.
+
+Strengthening Police-Community Relations: The bill provides $214.5 million for State and Local Law Enforcement
+Assistance and Community Oriented Policing Services (COPS) Office grant programs related to police-community
+relations. Dedicated funding of $25 million is provided for the COPS Community Policing Development program, as
+well as $20 million for the newly authorized Law Enforcement Officer De-escalation Act. The bill also provides $10
+million to train law enforcement on appropriately responding to situations when individuals are mentally ill or
+disabled, and it provides $50 million for the Community Violence Intervention and Prevention Initiative.
+
+Supporting State, Local, Tribal, and Territorial Law Enforcement: The Byrne Justice Assistance Grants (JAG)
+program is funded at $924 million. $345 million is released from Byrne JAG core funding to states and territories.
+The COPS Hiring Program is funded at $256 million. This funding will place over 2,000 more police officers on the
+streets of our communities. Funding is also included for programs that support officer mental health and wellness
+($10 million), the purchase of body-worn cameras ($32 million) and bulletproof vests ($30 million), and rural law
+enforcement needs ($7 million).
+
+Responding to Substance Use Disorder in Our Communities: The bill provides our communities and first
+responders with a total of $579.5 million in dedicated grant program funding to respond to substance use disorder,
+including opioids, and to crack down on drug trafficking. The bulk of this funding is for Comprehensive Addiction
+and Recovery Act (CARA) grants, which receive $420 million to fund specialized court docket programs like drug,
+mental health, and veteran treatment courts and substance abuse treatment programs administered by state and
+local correctional facilities. The bill also funds the COPS anti-heroin task force program at $35 million and the
+COPS anti-methamphetamine task force program at $16 million.
+
+Federal Law Enforcement: The salaries and expenses accounts of the law enforcement and prosecutorial agencies
+of the DOJ's Federal Bureau of Investigation (FBI), U.S. Marshals Service (USMS), Drug Enforcement
+Administration (DEA), Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), and U.S. Attorneys total $19.1
+billion. The Federal Bureau of Prisons (BOP) is funded at $8.4 billion. Giving law enforcement the tools they need to
+focus on combatting violent crime and gun violence, enhancing cyber security, disrupting international narcotics
+
+                                                                               Page 4 of 5
+      BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                                   APPROPRIATIONS BILL
+
+trafficking networks, and administering a fair and equitable justice system is critical to keeping our communities safe
+and our nation secure.
+
+Economic Development: The bill provides $468 million for community economic development through the Economic
+Development Administration (EDA). This includes $100 million for Public Works grants, $25 million for the Good
+Jobs Challenge Program, $50 million for the Regional Innovation Program, and $79.5 million to support
+communities dealing with power plant closures. It also includes $41 million for the Regional Technology and
+Innovation Hub Program, which was authorized for the first time in the CHIPS and Science Act, and $5 million for a
+new Assistance to Indigenous Communities program to address the needs of indigenous communities that have
+historically suffered from a lack of investment in core economic development needs. EDA awards infrastructure and
+planning grants to all 50 States. The bill also provides $68.25 million for the Minority Business Development Agency
+to help minority-owned businesses grow and succeed and to implement the new programs authorized in the
+Minority Business Development Agency Act, which was passed as part of the Infrastructure Investment and Jobs
+Act.
+
+Trade: The bill provides $623 million for the International Trade Administration (ITA). Over the past three years, ITA
+has facilitated $174 billion in U.S. exports and foreign investment, supporting over 625,000 American jobs. It
+provides up to $3.5 million for ITA to implement the "Visit America Act," which was signed into law last year, to
+support the domestic travel and tourism industry. The bill also provides $191 million for the Bureau of Industry and
+Security (BIS), which will support the BIS's aggressive enforcement of Russian and Belarussian export controls and
+other BIS efforts to counter Russia's war of aggression against Ukraine. It will also support stringent export control
+measures on high-end technologies with end users in the People's Republic of China.
+
+National Institute of Standards and Technology: The bill invests a total of $1.46 billion for the National Institute of
+Standards and Technology (NIST). Funding for NIST measurement labs and research is $1.1 billion to spur
+research advances in cutting-edge fields like carbon dioxide removal, artificial intelligence, quantum information
+science, and cybersecurity. The bill also provides up to $10 million for NIST to establish a U.S. Artificial
+Intelligence Safety Institute and to implement NIST's responsibilities under the landmark Artificial Intelligence
+Executive Order released last year. NIST will develop standards, tools, and tests to help ensure AI systems operate
+safely. The bill also includes $175 million for the Manufacturing Extension Partnership (MEP) program that
+improves the competitiveness of domestic manufacturers and strengthens domestic supply chains. For every dollar
+of federal investment, MEP generates $26.20 in new sales growth for manufacturers and $34.50 in new investment.
+This translates into $4.9 billion in new sales annually.
+
+National Aeronautics and Space Administration (NASA): To continue American Leadership in space, the bill
+provides $24.9 billion for NASA. The bill includes significant resources to enable the goal of returning Americans to
+the Moon, providing $7.67 billion for Exploration, an increase of nearly $200 million above fiscal year 2023. The bill
+supports progress on the Artemis Campaign Development, including funding for NASA to meet all contractual
+obligations for both Human Landing Systems in fiscal year 2024.
+
+Within NASA Science, the Near-Earth Object Surveyor mission to find potentially dangerous asteroids and comets
+receives $210 million, consistent with the President's budget request and $120 million above fiscal year 2023. The
+bill also provides $1.53 billion for Astrophysics, a $20 million increase above fiscal year 2023 to fully support the
+James Webb Space Telescope. Further, the bill includes $805 million for Heliophysics, which is $54 million above
+the President's budget request level.
+
+Aeronautics is supported at $935 million to ensure continued U.S. leadership in aviation and to invest in sustainable
+aviation technologies. Key NASA Science, Technology, Engineering, and Mathematics (STEM) Engagement total
+$143 million. This includes Space Grant ($58 million), the Experimental Program to Stimulate Competitive
+Technology ($26 million), the Minority University Research and Education Project ($45.5 million).
+
+Legal Services Corporation (LSC): The bill provides $560 million for LSC-fully protecting funding provided in fiscal
+year 2023. The bill also includes a provision to permit LSC recipients to operate with boards of directors that have
+
+                                                                              Page 5 of 5
+     BILL SUMMARY: COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES FISCAL YEAR 2024
+                                  APPROPRIATIONS BILL
+
+as few as 33 percent attorneys without requiring appointment by bar associations, greatly improving recipients'
+ability to have fiscal experts and community representatives on their governing bodies. LSC is the largest funder of
+civil legal aid in the country, and its grantees serve millions of low-income Americans every year, helping them with
+family law, domestic violence, housing, fraud, and other legal problems.
+
+Defeating Poison Pill Riders: Democrats defeated more than 50 extreme partisan riders, which ranged from
+restricting women's access to reproductive health to impeding scientific climate crisis research to infringing on
+Americans' civil rights. For any query with respect to this article or any other content requirement, please contact
+Editor at contentservices@htlive.com
 
 
-CONTACT: Vincent Sita
-Chief Financial Officer
-FalconStor Software Inc.
-
-investorrelations@falconstor.com CONTACT US AROUND THE GLOBECorporate Headquarters
-111 Congress Avenue
-Suite 500
-Austin, Texas 78701
-
-                                                                                                Page 3 of 3
-  FalconStor Enhances IBM Storage Ceph with Greater Application Connectivity, Advanced Data Protection, and
-                         Enterprise Data Mobility Strategic move expands custom....
-
-Tel: +1.631.777.5188
-
-salesinfo@falconstor.com Europe Headquarters
-GERMANY
-Landsberger Straße 302
-80687 München, Germany
-
-salesemea@falconstor.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: July 24, 2024
+Load-Date: March 8, 2024
 
 
   

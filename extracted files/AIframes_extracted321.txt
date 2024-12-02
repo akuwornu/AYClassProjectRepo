@@ -1,99 +1,148 @@
 
 
-                                                                                               Page 1 of 2
-     UAH Researcher Publishes Study Tapping Social Media and AI to Speed Supply Chain Assistance During
-                                                Disasters
+                                                                                                     Page 1 of 3
+          What to stream this week: Shakira, Paul Simon, Jake Gyllenhaal, Kristen Wiig and Princess Peach
 
 
 
 
-    UAH Researcher Publishes Study Tapping Social Media and AI to Speed
-                Supply Chain Assistance During Disasters
-                                                     Targeted News Service
-                                             July 4, 2024 Thursday 9:20 AM EST
+    What to stream this week: Shakira, Paul Simon, Jake Gyllenhaal, Kristen
+                           Wiig and Princess Peach
+                                                 Associated Press Financial Wire
+                                             March 18, 2024 Monday 4:01 AM GMT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 Associated Press All Rights Reserved
 
-
-
-
-Length: 715 words
-Byline: Targeted News Service
-Dateline: HUNTSVILLE, Alabama
+Section: BUSINESS NEWS; LIFESTYLE; ENTERTAINMENT NEWS
+Length: 1419 words
+Byline: The Associated Press
 
 Body
 
 
-(TNSres) -- The University of Alabama issued the following news:
+Chef and restaurateur Jose Andrés inviting actors Jamie Lee Curtis, Bryan Cranston and O’Shea Jackson Jr. over
+for dinner in a new TV special and Jake Gyllenhaal starring in an update of the pulpy cult classic “Road House” are
+some of the new television, movies, music and games headed to a device near you.
 
-A doctoral candidate at The University of Alabama in Huntsville (UAH) is lead author of a new study in the
-International Journal of Production Research investigating the ways social media platforms can be leveraged with
-artificial intelligence (AI) to provide vital communication connecting victims of disaster to outside aid and support.
-Vishwa Vijay Kumar, a PhD student of Industrial & Systems Engineering and Engineering Management at UAH, a
-part of the University of Alabama System, teamed with fellow UAH co-researchers Dr. Avimanyu Sahoo and Dr.
-Sampson Gholston, as well as Kumar's mentor, Dr. Siva K. Balasubramanian of the Illinois Institute of Technology,
-to support the initiative.
+Also among the streaming offerings worth your time as selected by The Associated Press’ entertainment journalists:
+Shakira releases her first album in seven years, Paul Simon gets an expansive two-part documentary on MGM+
+and a Nintendo sweetheart takes center stage in the game Princess Peach: Showtime!
 
-For the project, the team used data from X, formerly known as Twitter, from two six-week time periods and two
-countries during the COVID-19 pandemic: March-April 2020 in the United States when the pandemic broke out, and
-in India during the surge of the delta variant in May-June 2021. Disruptions in health care supply chains during
-these periods were causing severe shortages of essential equipment ranging from face masks and medicines to
-ventilators for patients in intensive care.
+NEW MOVIES TO STREAM
 
-"I was born and raised in the countryside of India, in Sitamarhi, Bihar, near the Nepal border, where natural
-disasters such as floods from the Himalayan rivers are frequent," Kumar says to explain the initial spark driving his
-vision to help. "These floods can spread over miles, trapping thousands of people in their homes who need urgent
-help for healthcare and food, as well as rescue operations. From a young age, I was driven to develop a framework
-that would enable people in need to communicate their requirements to the world and relevant authorities so they
-coordinate to assist disaster victims on time."
+— Fresh off its Oscar success, Justine Triet’s “Anatomy of a Fall” — along with award season’s favorite pooch,
+Messi — are coming to Hulu on Friday, March 22. The French courtroom drama stars Sandra Hüller as a wife
+accused of murdering her husband (Samuel Theis) by pushing him out a high window in the French Alps chalet.
+The film effectively puts their marriage on trial while offering Hüller an engrossing platform for all her cunning as a
+performer. “Anatomy of a Fall” won the Palme d’Or at the Cannes Film Festival and best original screenplay at the
+Academy Awards. In her review, AP Film Writer Lindsey Bahr called it “a smartly constructed and wholly engaging
+whodunit, courtroom thriller, marriage drama and, at some points, satire.”
 
-The COVID-19 pandemic in 2020 presented a disaster of a different kind, affecting billions of people worldwide and
-exposing significant vulnerabilities in global healthcare supply chains. Critical shortages of essential supplies like
+— Doug Liman gives the 1989 cult classic “Road House” a pulpy modern spin with Jake Gyllenhaal as a former
+UFC fighter hired as security for a seedy Florida Keys bar. Jessica Williams plays the owner of a road house under
+siege from a crime syndicate that eventually brings in even more muscle, and a dose of mania, in a fearsome fixer
+played by mixed-martial-arts fighter Conor McGregor. Though Liman, the director of “Edge of Tomorrow” and
+“Swingers,” has pleaded for the film to be theatrically released, “Road House” debuts Thursday on Prime Video.
 
-                                                                                                Page 2 of 2
-      UAH Researcher Publishes Study Tapping Social Media and AI to Speed Supply Chain Assistance During
-                                                 Disasters
+– Paul Simon gets an expansive two-part documentary with “In Restless Dreams: The Music of Paul Simon,” from
+filmmaker Alex Gibney. After the first half premiered March 17 on MGM+, part two lands on Sunday, March 24. “In
+Restless Dreams,” which premiered last fall at the Toronto International Film Festival, surveys the varied chapters
 
-testing kits, oxygen cylinders and hospital beds highlighted the urgent need for efficient resource allocation and
-real-time information.
+                                                                                                   Page 2 of 3
+        What to stream this week: Shakira, Paul Simon, Jake Gyllenhaal, Kristen Wiig and Princess Peach
 
-"This situation reignited my early motivation to explore how social media and AI could be harnessed for faster
-disaster response and to mitigate health and supply challenges during crises," Kumar says. "I discussed this idea
-with Dr. Sahoo, my PhD academic advisor."
+of Simon’s career, including his many years as a duo with Art Garfunkel, the recording of his 1986 album
+“Graceland” and the still unfolding, and music-making, life of the 82-year-old songwriter.
 
-The research that followed presented a four-step process and developed algorithms to parse information from 3.9
-million tweets to identify imperative information using AI and machine learning. Keywords within Twitter posts were
-identified to indicate which tweets included information relevant to pandemic supply chain disruptions and
-processed them for content analysis and modeling. Tweets were categorized as "imperative," or actionable pleas
-for help, and "non-imperative," providing non-actionable information. The data analyzed also estimated the
-geographic location of imperative tweets lacking geo-tag information to facilitate coordination of aid operations.
+— AP Film Writer Jake Coyle
 
-Additionally, the researchers identified a number of healthcare supply chain challenges during disaster conditions
-that are the focus for future research. Topics included geo-location of people in need who posted their concerns on
-social media without identifying their location; forecasting COVID-19 vaccine supplies; forecasting the availability of
-health and food supplies; use of other social media (for example, Facebook, Instagram, etc.) and finding where
-these improvements would be applicable to other disaster events, such as hurricanes and earthquakes.
+NEW MUSIC TO STREAM
 
-"We also plan to develop a platform/tool that will scan the social media posts from the disaster events and
-generate real-time reports of demand and supply issues and people with their geo-locations requesting help,"
-Kumar concludes.
+— Shakira returns with her first new album in seven years, “Las Mujeres Ya No Lloran” (“Women don’t cry
+anymore” in English, a lyric lifted from her smash hit “Music Sessions Vol. 53” with Argentine producer Bizarrap).
+It’s also her first full-length release since her split from soccer star Gerard Piqué — a pop album transformed by
+pain. “While writing each song I was rebuilding myself,” the Colombian musician said in a statement. “While singing
+them, my tears transformed into diamonds, and my vulnerability into strength.” Seven of the album’s 16 tracks have
+been previously released — including “TQG” with Karol G (also featured on Karol G’s “Mañana Será Bonito” album,
+one of AP’s picks for the best of 2023 ), “Te Felicito” with reggaetonero Rauw Alejandro, “Copa Vacía” with Manuel
+Turizo and more. “Las Mujeres Ya No Lloran” is the sound of reclamation for Shakira — and an addictive listen.
 
-***
+— There are eras to Waxahatchee, the musical moniker of Katie Crutchfield. Her story begins in the D.I.Y. power
+pop-punk of her band P.S. Eliot, the nihilism of early Waxahatchee records like “American Weekend,” and then, the
+current moment: “Tigers Blood,” a hell of a lot more country than her earlier releases, with the wisdom that came
+with sobriety and a move to St. Louis (that’s heard on her last album, 2020’s “Saint Cloud” and certainly now).
+There’s a lot to love here, like the acoustic ballad “365” and the Americana-flavored “Bored.” There’s also MJ
+Lenderman of the Asheville, North Carolina, indie rock band Wednesday, a new collaborator. It’s hard not to cozy
+up to the warmth of their harmonies on “Right Back to It,” a song — like many on this album — that celebrates the
+privilege of certain romantic mundanities, like settling into a long-term relationship.
 
-Original text here: https://www.uah.edu/news/items/uah-researcher-publishes-study-tapping-social-media-and-ai-to-
-speed-supply-chain-assistance-during-disasters
+— A debut album is an introduction. A sophomore release can be a make-or-break moment: Who is this person as
+an artist, what do they have to say, and are we still listening? Enter Fletcher, the queer pop powerhouse signed to
+Capitol Records who first broke out with the 2019 viral hit “Undrunk.” On “In Search of the Antidote,” she builds off
+the success of her earlier singles — still concerned with love and failed relationships, now through a matured lens.
 
-Contact: Kristina Hendrix,         256/824-6341,     kristina.hendrix@uah.edu;      Julie   Jansen,     256/824-6926,
-julie.jansen@uah.edu
+— Gossip, the dance-punk band that gave the world Beth Ditto, is preparing to release their first new album in 12
+years — and their first since they broke up shortly thereafter. It’s a return to their powers, now funkier than ever. At
+least, that’s obvious on the disco-informed title track, “Real Power.” Another new single, “Crazy Again,” is all palm-
+muted power chords and reserved synths. Indie sleaze revivalists, it is time to break out the neon.
 
-Copyright Targeted News Services
+— AP Music Writer Maria Sherman
 
-MSTRUCK-8708097 MSTRUCK
+NEW SHOWS TO STREAM
+
+— In a new special, James Beard-winning chef and restaurateur Jose Andrés invites actors Jamie Lee Curtis,
+Bryan Cranston and O’Shea Jackson Jr. over for dinner — but first they have to help him cook. The goal of the
+night isn’t perfection but to have fun. “Dinner Party Diaries with Jose Andrés” drops Tuesday on Prime Video. In an
+interview with The Associated Press, Andrés says he hopes the special brings awareness and donations to his
+nonprofit, World Central Kitchen, which delivers meals to people in disaster areas.
+
+— A new Apple TV+ series called “Palm Royale” is bursting with big-name talent. Set in Palm Beach in 1969,
+Kristen Wiig plays Maxine, a woman desperate to be accepted into high society and a private club called the Palm
+Royale. At the beginning of the first episode, we see Maxine climb over a wall to get inside her coveted club. The
+cast includes Carol Burnett, Ricky Martin, Laura Dern, Allison Janney, Josh Lucas, Leslie Bibb, Kaia Gerber, Amber
+Chardae Robinson and Mindy Cohn. The show drops Wednesday.
+
+— “Law & Order” creator Dick Wolf is dipping into the true crime world with a new docuseries on Netflix. “Homicide:
+New York” debuts Wednesday and features detectives, police officers and prosecutors recalling some of their most
+memorable murder cases. “Homicide: Los Angeles” is already scheduled to air on the streamer later this year.
+
+                                                                                                   Page 3 of 3
+        What to stream this week: Shakira, Paul Simon, Jake Gyllenhaal, Kristen Wiig and Princess Peach
+
+— Diarra Kilpatrick created and stars in a mystery comedy for BET+ called “Diarra from Detroit.” It’s about a woman
+who has a great first date with a man she meets on Tinder. When she doesn’t hear from him again, Diarra
+concludes the only logical explanation is that he was kidnapped, so she launches an investigation. “Diarra from
+Detroit” premieres Thursday on BET+.
+
+— Alicia Rancilio
+
+NEW VIDEO GAMES TO PLAY
+
+— Princess Peach has been around for almost 40 years, but she’s usually stuck playing second fiddle to that bozo
+Mario. Princess Peach: Showtime! puts Nintendo’s sweetheart center stage, as she tries to save a struggling
+theater from a villain named Grape who’s way more into tragedy than comedy. Saving the show requires our
+heroine to make plenty of costume changes, so get ready for Cowgirl Peach, Detective Peach, Ninja Peach,
+Mermaid Peach and more. She’s not just playing dress-up — each outfit gives the princess different skills she’ll
+need to negotiate a constantly changing stage set. The curtain rises Friday, March 22, on Nintendo Switch.
+
+— Dragon’s Dogma got decent reviews when it came out in 2012, and it has developed a cult audience over the
+years. In the meantime, its genre — let’s say “high-fantasy hack-and-slash role-playing” — has exploded with
+monster hits like Elden Ring. So at long last, Capcom is delivering Dragon’s Dogma II. You create your character,
+the “Arisen,” from scratch, building on typical RPG species like humans, elves and “beastrens” and jobs like warrior,
+archer and sorcerer. As you explore two sprawling kingdoms, you can recruit AI-controlled “pawns” to help
+complete your mission, which is to ”slay the Dragon and claim the throne.” If this sounds irresistible (you know who
+you are), the quest begins Friday, March 22, on PlayStation 5, Xbox X/S or PC.
+
+— Lou Kesten
+
+___
+
+Catch up on AP’s entertainment coverage here: https://apnews.com/entertainment.
 
 
-Load-Date: July 4, 2024
+Load-Date: March 18, 2024
 
 
   

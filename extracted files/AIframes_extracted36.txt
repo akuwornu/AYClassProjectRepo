@@ -1,136 +1,254 @@
 
 
-                                                                                                  Page 1 of 3
-             Future-Ready Buildings: BubblyNet Cuts Carbon Emissions with Bluetooth® Mesh Innovation
+                                                                                                  Page 1 of 5
+   Senate Budget Committee Hearing "Investing in the Future: Safeguarding Municipal Bonds from Climate Risk."
+                              Testimony by Chris Hartshorn, Advisor, Zeus AI
 
 
 
 
-Future-Ready Buildings: BubblyNet Cuts Carbon Emissions with Bluetooth®
-                            Mesh Innovation
-                                                           PR Newswire
-                                            August 26, 2024 Monday 8:17 AM EST
+  Senate Budget Committee Hearing; "Investing in the Future: Safeguarding
+    Municipal Bonds from Climate Risk."; Testimony by Chris Hartshorn,
+                            Advisor, Zeus AI
+                                           Congressional Documents and Publications
+                                                             January 10, 2024
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-Length: 1601 words
-Dateline: CLEARWATER, Fla., Aug. 26, 2024
+Section: U.S. SENATE DOCUMENTS
+Length: 2566 words
 
 Body
 
 
-PR NewswireEnvironmental awareness is not new. However, the urgency to repair and reverse the harmful effects
-of decades of complacency has taken root. Energy-efficient buildings are emerging as a cornerstone of this
-movement, playing a significant role in the quest for a net-zero future. Fabio Zaniboni, Founder and Chief Vision
-Officer of BubblyNet, understands the challenges and believes that a practical approach toward sustainability can
-turn awareness into action.CLEARWATER, Fla., Aug. 26, 2024 /PRNewswire-PRWeb/ -- A 2023 Global Trends
-survey found that an average of 80% of people across 50 countries agree that without swift and substantial
-changes to human behavior, the world will be on the brink of an environmental disaster.
+Good morning, Chairman Whitehouse, Ranking Member Grassley, and Members of the Commitee. Thank you for
+inviting me to testify at this hearing to explore the implications of climate risk on the municipal bond market. It is an
+honor to do so, and to represent the hard work of many colleagues and collaborators.
 
-(1) With environmental concerns front and center, businesses worldwide are becoming laser-focused on
-sustainability and zero-emissions policies. Fabio Zaniboni, Founder and Chief Vision Officer ofBubblyNet, notes,
-"One area that's getting a lot of attention is the built environment, the surroundings and structures where people live
-and work, a major contributor to global carbon emissions. If we're serious about achieving a net-zero future, we
-must make energy-efficient buildings the norm.""To achieve a net-zero future, we must make energy-efficient
-buildings the norm," says Fabio Zaniboni, Founder and Chief Vision Officer of BubblyNet, emphasizing the
-importance of sustainability in the built environment as a major contributor to global carbon emissions.57 Million
-Square Feet Shortfall Ahead
-The World Green Building Council (WorldGBC) reports that buildings are responsible for 39% of global energy-
-related carbon emissions, with 28% coming from operational emissions (heating, cooling, and powering buildings)
-and 11% from the embodied carbon in materials and construction. The global building stock is expected to double
-by 2050. The "Advancing Net Zero" initiative by WorldGBC has developed a 'call to action' report focusing on
-energy-related carbon emissions that emphasizes a whole lifecycle approach, including the systemic changes
-necessary to achieve full decarbonization across the global buildings sector. By 2030, the initiative strives for all
-new buildings and renovations to achieve at least a 40% reduction in embodied carbon and to reach net-zero
-embodied carbon across the sector by 2050. (2)While the push towards energy-efficient buildings is gaining
-momentum, it's not without its challenges. Implementing advanced digital technologies in building management
-systems is a proven way to cut energy consumption and carbon emissions. However, the costs associated with
-these upgrades can be substantial, forcing building owners and developers to carefully weigh the benefits of
-sustainability against budget constraints.
+My name is Chris Hartshorn, and currently I serve as an advisor to numerous environmental data science-enabled
+starts-ups focusing on nature and biodiversity, carbon credits and markets, and a NASA spin-out focused on next
+generation weathering modeling and forecasting. I also advise a venture capital firm that has most recently closed a
+fund focused on decarbonization of hard to abate industries, wherein the limited partners are comprised of
+corpora.ons from those very industries, as well as a start-up developing a new carbon capture material.
 
-                                                                                                Page 2 of 3
-           Future-Ready Buildings: BubblyNet Cuts Carbon Emissions with Bluetooth® Mesh Innovation
+More relevant for this hearing were my many years fully dedicated to building two start-ups focused on climate risk
+to US fixed income debt instruments, risQ and Level 11 Analytics, both now acquired by Intercontinental Exchange.
+risQ, in particular, became the leading provider of physical climate risk data for the municipal bond market and a
+large number of its participants.
 
-A recent JLL report reveals that the demand for low-carbon office spaces is expected to outpace supply by 75%
-across major U.S. markets by 2030, resulting in a projected shortage of 57 million square feet. This imbalance is
-driven by corporate commitments to sustainability and stricter regulations, with cities like New York, Chicago, and
-Washington, D.C. facing considerable supply gaps. In New York alone, 72% of the top 100 occupiers' future office
-needs are linked to carbon reduction targets, yet the current pipeline will meet less than a third of this demand. As
-businesses increasingly prioritize energy-efficient and fossil fuel-free spaces, the market for low-carbon offices will
-likely see rising rents and intensified competition for available properties. (3)The Intelligent Building Automation
-Technologies market is booming, with projections indicating it will grow from $90.2 billion in 2023 to $152.4 billion
-by 2028, at a solid annual growth rate of 11.0%. The heightened focus on energy efficiency, sustainability, and
-indoor air quality management in commercial and residential buildings is fueling this increase. Central to this market
-expansion are technologies like advanced sensors, HVAC controls, and cloud-based systems, which offer tangible
-benefits such as reduced energy consumption, enhanced occupant comfort, and lower operational costs. (4) Smart
-buildings, which leverage technologies like the Internet of Things (IoT), artificial intelligence (AI), and data
-analytics, are transforming how buildings are designed and managed.Upgrade Legacy Buildings with Smart Tech:
-Cutting Installation Costs by 60%
-One of the biggest hurdles to adopting smart building technologies has been upgrading existing infrastructure,
-especially in older buildings. Zaniboni explains, "BubblyNet leverages the latest innovations in microchip
-manufacturing and wireless protocols, which were not available a decade ago, to make intelligent buildings both
-possible and affordable." By eliminating much of the traditional hardware BubblyNet reduces installation costs by as
-much as 60% by embedding lightweight microchips directly into devices.
-BubblyNet's system is adaptable and designed to be retrofitted into older buildings, allowing these structures to be
-updated with modern smart systems without extensive rewiring or infrastructure changes.
-The lightweight microchips of their system replace the need for control cabinets, hubs and copper wiring, profoundly
-reducing environmental impact; they connect electrical devices wirelessly using Bluetooth® mesh technology. This
-boosts energy efficiency and reduces the materials needed for smart building management, which aligns perfectly
-with the circular economy principles of reusing, recycling, waste reduction, and product redesign.BubblyNet's
-Paperclip-Sized Microchip Revolutionizes Building Management Efficiency
-The technology is incredibly versatile, allowing multiple building functions—lighting, shades, internal air quality and
-acoustics through sound masking—to be controlled through a single, lightweight chip. This flexibility not only
-enhances sustainability but also brings noticeable operational efficiencies. In large-scale projects, the ability to
-upgrade existing infrastructure without substantial physical changes can lead to a significantly smaller
-environmental footprint and considerable cost savings.
-BubblyNet'ssystem intelligence is decentralized, with data processing occurring locally on the devices rather than in
-a centralized cloud. This also reduces energy consumption and keeps sensitive data more secure, as it's processed
-on-site rather than sent to the cloud. The decentralized nature of the system adds a layer of resilience as well,
-making it less vulnerable to widespread failures.
-Zaniboni emphasizes, "Our technology enables appreciable operational efficiencies, contributing to cost savings
-and a lower environmental footprint, minimizing natural resource depletion and making sustainability more
-accessible and cost-effective. We are not just adding intelligence; we are doing so with the least possible material
-use, minimizing the depletion of natural resources."About BubblyNet
+I'd note at the outset how much of the discussion at this commitee's July 26th, 2023 hearing on The Fiscal
+Consequences of Climate Change on Infrastructure is pertinent here, given how much infrastructure is provided as
+a part of municipal services. The insights of that hearing don't need my regurgitation. It is important to note,
+however, that the municipals as de.ned by the municipal bond market, rather than "just" cities or the infrastructure
+discussed that day, is a vast diaspora of overlapping debt issuers covering states, counties, utilities, school districts,
+transit systems, airports, hospital systems, charter schools, retirement communities, cities and many more. The
+implications of climate-mitigative, -adaptive and -resilient actions to the population are even broader and starker
+under this financial market municipal definition.
 
-Fabio Zaniboni, a visionary armed with 15 years of expertise in lighting technology, has focused his career on
-developing environments created with personalized "bubbles" of comfort and wellness. His vision led to the creation
-of BubblyNet, a company dedicated to revolutionizing building wellness, one space at a time. Based in Clearwater,
-FL, BubblyNet specializes in smart buildings with smart controls built on Bluetooth® mesh for lighting, sound
-masking, and air quality control that uplift well-being and where individuals can enjoy their own preferences and
-ideal settings. From office buildings, airports, and healthcare facilities to hotels and airports, their technology is a
-valuable asset in enhancing workplace productivity, supporting hybrid work models, and improving employee well-
-being and trust. They are a software company that embeds technology and know-how into hardware, rather than
-hardware manufacturers that complement their products with software. BubblyNet's visionary technology has
+With respect to climate risk, it is easiest to conceptualize property-destroying, evacuation-invoking perils -
+hurricanes, wildfires, floods, and the like - as these "acute" events happen quickly, catalyze local and often federal
+emergency responses, have quantifiable economic consequences and replacement costs, and leave single name
+scars - Katrina, Sandy, Paradise - to name just three. The National Oceanic and Atmospheric Administra.on
 
-                                                                                               Page 3 of 3
-          Future-Ready Buildings: BubblyNet Cuts Carbon Emissions with Bluetooth® Mesh Innovation
+                                                                                                 Page 2 of 5
+  Senate Budget Committee Hearing "Investing in the Future: Safeguarding Municipal Bonds from Climate Risk."
+                             Testimony by Chris Hartshorn, Advisor, Zeus AI
 
-created a new category in the industry: human-centric smart building control solutions, now known as WELL
-controls. For more information visithttps://bubblynet.com/.References:
-1. 2024, 20 Jun, et al. "Global Surveys Show People's Growing Concern about Climate Change." Clean Energy
-Wire, 20 June 2024, cleanenergywire.org/factsheets/global-surveys-show-peoples-growing-concern-about-climate-
-change#:~:text=At%20an%20average%2080%20percent,we%20change%20our%20habits%20quickly.
-2. "Embodied Carbon." World Green Building Council, 28 Oct. 2022, worldgbc.org/advancing-net-zero/embodied-
-carbon/#:~:text=Buildings%20are%20currently%20responsible%20for,11%25%20from%20materials%20and%20co
-nstruction.
-3. "Soaring Demand for Low Carbon Offices Will Outstrip Supply." Commercial Real Estate, 25 Sept. 2023,
-us.jll.com/en/trends-and-insights/research/soaring-demand-for-low-carbon-offices-will-outstrip-supply.
-4. MarketsandMarkets. "Intelligent Building Automation Technologies Market Worth $152.4 Billion by 2028 -
-Exclusive Report by MarketsandMarketsTM." PR Newswire: Press Release Distribution, Targeting, Monitoring and
-Marketing, 31 Jan. 2024, prnewswire.com/news-releases/intelligent-building-automation-technologies-market-
-worth-152-4-billion-by-2028---exclusive-report-by-marketsandmarkets-302049170.html.Media Inquiries:
-Karla Jo Helms
-JOTO PR™
-727-777-4629
+(NOAA) documented 25 such acute events in the US each with at least $1 billion in costs in 2023 - a CPI-adjusted
+record for any year. n1
 
-jotopr.comMedia ContactKarla Jo Helms, JOTO PR™, 727-777-4629, , jotopr.com View original content to
-download       multimedia:https://www.prweb.com/releases/future-ready-buildings-bubblynet-cuts-carbon-emissions-
-with-bluetooth-mesh-innovation-302230096.htmlSOURCE BubblyNet
+Climate risks are clearly material to municipal .finance. Taking wildfires as one example, in the five years after a fire
+the net fiscal effect of wildfires on a municipality is a decline in excess revenues of $97 per capita - equivalent to
+10.7% the per capita budget size - and a 25% increase in the probability of a budget deficit. n2 For hurricanes, local
+governments experience significant declines in revenues, expenditures, and debt in the 10 years after a hurricane
+strike. These declines are initially offset by intergovernmental transfers in the immediate aftermath of a hurricane
+but ramp up significantly after 6-10 years post hurricane. n3 The impacts of past floods - inland and coastal - also
+liter the Official Statements of the bond issuing community. In our own analysis over multiple years of each week's
+bond ofgferings to the market and the Preliminary Official Statements from issuers that accompany them, we saw
+case after case where the financial remnants of floods and hurricanes could be seen, and where impacts on
+population size and property - two of the critical indicators for revenues for the bond issuers - where apparent.
+
+Across the key acute perils, rebuilding costs have been underpinned by FEMA DRF funding that has been on an
+admitedly bumpy but nonetheless upward trajectory over recent decades. n4 Another key constituent has been
+property insurers that help reestablish the property value; the taxes thereon are a key revenue stream from which
+debt servicing of municipal general obligation bonds occurs. It is noteworthy, therefore, that in many higher climate
+risk states - Florida, Louisiana, California - that major insurers are withdrawing from those markets, n5 and those
+that remain are ramping up policy premiums, an outcome that will inevitably lead to a decrease in coverage, and
+anecdotally already has. The diminishing of this historically critical pillar of past disaster recovery will only heighten
+the post-disaster financial pressure on the municipal (and federal) system. Relatedly, the impact of insurance
+coverage and costs flows through to mortgages and even further into the financial system via mortgage-backed
+securities (MBS). risQ and Level 11 Analytics were also providing climate risk data to the US fixed income investor
+community for agency and non-agency residential MBS debt instruments.
+
+Other perils must also be accounted for which the impacts are more "chronic" in nature: heat, drought and even sea
+level rise on water supply in many coastal areas. Heat is a good example to focus on given we just experienced the
+hotest year on record globally, with July 2023 the hotest month ever recorded, n6 and cities such as El Paso and
+Phoenix shatered records for consecutive days above 100 oF and 110 oF, respectively. n7
+
+This is a critical issue across much of the municipal US, for the health and safety of their served populations and
+the municipal workforce, and for municipal infrastructure. Mitigating the impacts of urban heat islanding is an active
+effort for many cities including my own hometown of Boston, and no doubt top of mind for the Chief Heat Officers in
+the likes of Phoenix, Los Angeles and Miami Dade county. Municipal sectors beyond just cities and counties also
+feel this heat. At extreme temperatures, not only are airport personnel at greater risk but aircraft aerodynamics can
+be negatively impacted. n8 At least one credit rating agency I am aware of has expressed interest in heat
+projections for airports over time.
+
+School districts' exposure to heat risk may be a greater systemic risk, noting that September, the start of the typical
+US school year, also set new records in 2023 according to the NOAA. n9 My former colleagues at risQ have
+published a comprehensive study focused on this very topic. n10 Temperature has been shown to have a direct
+impact on educational performance. n11 In schools without functioning air-conditioning, a 1 oF hoter school year
+reduces test scores by 1% of the expected learning gain for that year, and notably on a given day once daytime
+heat indexes exceed only 80 oF. By some estimates, around $40 billion of new air conditioning installation is
+required across US K-12 schools to address this. n12 As an example of the gap that exists, when the Department
+of Energy awarded the first tranche of grants through its Renew America's Schools program in 2023, over 1,000
+concept papers, totaling nearly $5.5 billion in requests were received. n13 Close to 90% of selected proposals
+included HVAC upgrades. In one such case, a $2 million grant to Natick School District augmented $627K of its
+own funding. n14
+
+As always, funding represents a botleneck and catalyst. Improved access to debt is one critical path to explore. As
+of January 1, 2024, K-12 public school districts represent around 15% of the total municipal bond market. n15
+
+                                                                                                 Page 3 of 5
+  Senate Budget Committee Hearing "Investing in the Future: Safeguarding Municipal Bonds from Climate Risk."
+                             Testimony by Chris Hartshorn, Advisor, Zeus AI
+
+Access to debt has been shown to improve K-12 educational outcomes in general, n11 but there is now potentially
+a climate-driven educational performance imperative to add to this funding vs outcome mix.
+
+There are already proven mechanisms for lowering the cost of such debt: school districts in states without credit
+enhancement programs could have saved between $383 million and $1 billion in debt service payments from 2009
+to 2019 if their states had enhancement programs. n16 It is noteworthy that states with such enhancement
+programs very rarely experience negative fiscal side-effects of doing so. Such credit enhancement mechanisms
+also have current precedent at the federal level for charter schools, another sector within the municipal bond issuer
+universe.
+
+In reality, any combination of a given climate peril and a given sector within the municipal universe can be explored
+for underlying materiality, but the themes of climate risk, trajectory of risk and cost implications would remain. More
+broadly, and critically, mitigation funding can save the nation $6 in future disaster costs, for every $1 spent on
+hazard mitigation. n17 That 6x multiple needs to be seen in the context the American Society of Civil Engineers
+(ASCE) estimate that the infrastructure deficit in the US is around $2.59 trillion over the next 10 years, or about
+$259 billion per year. n18 The question is how to maximize those upfront dollars for an adaptive and resilient
+municipal sector versus continuing to spend a multitude more on post-event recovery and where dollars for doing
+so are increasingly stretched.
+
+This, of course, sets aside a still broader question of how the different sectors and jurisdictions within the municipal
+bond issuing community - with all their regiospecific idiosyncrasies - prepare for and participate in a transition away
+from fossil fuels, the need for which was unanimously agreed to at COP28 in December 2023. n19 Commercial
+buildings are responsible for approximately 17% of the total energy consumed in the US. n20 Local government
+alone represents more than 10% of total commercial building ownership across the country, and state government
+adds a further 1/3 to this number. n21 These amounts exclude significant building occupying sectors also operating
+within the municipal bond issuing universe. Transporta.on represents 37% of the total energy consumed in the US,
+n22 a number in which municipal bond issuing influence is clear via mass transit availability and fleets, road
+infrastructure and investment, zoning decisions (that influence urban density vs sprawl), and broader issues of
+urban design and use. In this regard, high resolution geospatial data is now available to city planning and project
+siting decision makers to optimize any given decarbonization strategy. n23 There is also obvious interaction to be
+found between physical climate risk, carbon transition, housing affordability in decisions within municipal purview.
+n24 It is also important to remember that utilities themselves represent a non-trivial sector of debt issuance within
+the municipal bond market. n25 Finally, local governments also need to consider the potential impacts of any given
+carbon transition path on their own revenue streams and local economies, a topic we initially explored at risQ and
+put in the context of potential financial risk. n26
+
+This does not need to be a monolithic draw on the federal purse. The municipal bond market has held steady at
+$3.8-$4.1 trillion over the last 15 years, n27 but that apparent stasis is misleading. There is willing capital just siting
+on the sidelines. In the multitude of municipal bond conferences I - and colleagues - have atended, and
+conversations with many more clients also show, there is more demand for municipal bonds than there is supply.
+Prospective municipal debt issuers are often reluctant to take on more debt to address these infrastructure needs,
+often driven by the perception that they might get penalized by credit rating agencies for being over leveraged - but
+so many, almost all, large metros in good standing could still borrow money at a AAA interest rate and meet the
+investment grade requirements of a large swath of the municipal bond investor market. This is without the extra fuel
+of aforementioned enhancement programs or relevant support mechanisms such as the The Clean Water State
+Revolving Fund or the Building Resilient Infrastructure and Communities grant program.
+
+Again, thank you for the opportunity to address the critical issue of climate and municipals. I look forward to
+addressing any questions the commitee may have.
+
+n1 htps://www.ncei.noaa.gov/access/billions/time-series
+
+                                                                                                 Page 4 of 5
+  Senate Budget Committee Hearing "Investing in the Future: Safeguarding Municipal Bonds from Climate Risk."
+                             Testimony by Chris Hartshorn, Advisor, Zeus AI
+
+n2 Liao, Yanjun and Kousky, Carolyn, The Fiscal Impacts of Wild.res on California Municipali.es (September 24,
+2021). Liao, Y., and Kousky, C. (2022). The fiscal impacts of wildfires on california municipali.es. Journal of the
+Associa.on of Environmental and Resource Economists, 9(3), 455-493.
+
+n3 Rhiannon Jerch, Mathew E. Kahn, Gary C. Lin. (2023). "Local public finance dynamics and hurricane shocks",
+Journal of Urban Economics, 134
+
+n4
+htps://www.cbo.gov/publica.on/58840#:~:text=(In%20this%20sec.on%20of%20the,roughly%20%2412%20billion%2
+0a%20year.
+
+n5 htps://www.ny.mes.com/2023/11/01/climate/climate-insurance-disasters-senate.html
+
+n6 NOAA data
+
+n7 htps://abcnews.go.com/US/2023-year-record-heat-temperatures/story?id=105555594
+
+n8 htps://news.climate.columbia.edu/2017/07/13/surging-heat-may-limit-aircraft-takeo.s-globally/
+
+n9 htps://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record
+
+n10                                                               htps://www.ice.com/publicdocs/Insights-
+_The_link_between_access_to_U.S._municipal_debt_and_socioeconomic_outcomes.pdf
+
+n11 Park, R. Jisung, Joshua Goodman, Michael Hurwitz, and Jonathan Smith. 2020. "Heat and Learning."
+American Economic Journal: Economic Policy, 12 (2): 306-39.
+
+n12 htps://coolingcrisis.org/.ndings
+
+n13 htps://www.energy.gov/scep/renew-americas-schools-grant
+
+n14           htps://www.scien..camerican.com/ar.cle/extreme-heat-threatens-student-health-in-schools-without-air-
+conditioning/
+
+n15 ICE Data Services data
+
+n16 Yang, L. (2022). School District Borrowing and Capital Spending: The E.ec.veness of State Credit
+Enhancement. Annenberg Ins.tute at Brown University, EdWorkingPaper: 22-663.
+
+n17 Per the United Na.ons: htps://press.un.org/en/2019/sgsm19807.doc.htm
+
+n18       htps://www.asce.org/publica.ons-and-news/civil-engineering-source/society-news/ar.cle/2021/03/03/asces-
+infrastructure-report-card-gives-us-
+c#:~:text=Overall%2C%20the%20long%2Dterm%20infrastructure,of%20%24259%20billion%20per%20year
+
+n19 htps://www.un.org/sg/en/content/sg/statement/2023-12-13/secretary-generals-statement-the-closing-of-the-un-
+climate-change-conference-
+cop28?_gl=1*1htprug*_ga*MTM3MDEzOTE0NC4xNzA0Mzk4Nzcx*_ga_S5EKZKSB78*MTcwNDY0MTI4NC4xLjEu
+MTcwNDY0MTQ0OC42MC4wLjA.*_ga_TK9BQL5X7Z*MTcwNDY0MTI4NC4yLjAuMTcwNDY0MTI4NC4wLjAuMA..
+
+n20 Per the U.S. Energy Informa.on Administra.on in htps://www.eia.gov/tools/faqs/faq.php?id=86andt=1
+
+n21 Per the U.S. Energy Informa.on Administra.on in htps://www.eia.gov/todayinenergy/detail.php?id=27972
+
+                                                                                                 Page 5 of 5
+  Senate Budget Committee Hearing "Investing in the Future: Safeguarding Municipal Bonds from Climate Risk."
+                             Testimony by Chris Hartshorn, Advisor, Zeus AI
+
+n22          Per          the         U.S.           Energy         Informa.on            Administra.on           in
+htps://www.eia.gov/totalenergy/data/monthly/pdf/.ow/total_energy_2022.pdf
+
+n23 htps://www.crosswalk.io/use-cases
+
+n24   htps://risq-inc.medium.com/wildfires-housing-affordability-and-climate-change-virtuous-cycle-or-death-spiral-
+ca53758965c9
+
+n25 Per the American Public Power Associa.on in htps://www.publicpower.org/policy/municipal-bonds-and-public-
+power
+
+n26        htps://risq-inc.medium.com/us-carbon-transition-risk-the-highwire-act-of-municipal-credit-impairment-and-
+climate-jus.ce-c42717fa.2e
+
+n27 Per SIFMA: htps://www.sifma.org/resources/research/fixed-income-chart/
+
+Read this original document at: https://www.budget.senate.gov/download/dr-chris-hartshorn_-testimony---senate-
+budget-committeeanddownload=1
 
 
-Load-Date: August 26, 2024
+Load-Date: January 12, 2024
 
 
   

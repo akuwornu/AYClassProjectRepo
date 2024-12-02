@@ -1,103 +1,74 @@
 
 
-                                                                                                   Page 1 of 2
-               Nasuni Launches New Brand Identity, Marking Next Era for Hybrid Cloud Storage Leader
+                                                                                                       Page 1 of 2
+                            SCHOOL OF PUBLIC POLICY PROFESSOR TALKS TIKTOK BAN
 
 
 
 
-   Nasuni Launches New Brand Identity, Marking Next Era for Hybrid Cloud
-                            Storage Leader
-                                                           PR Newswire
-                                             June 4, 2024 Tuesday 8:00 AM EST
+           SCHOOL OF PUBLIC POLICY PROFESSOR TALKS TIKTOK BAN
+                                                        US Fed News
+                                             April 23, 2024 Tuesday 12:31 PM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 1169 words
-Dateline: BOSTON, June 4, 2024
+
+
+
+Length: 480 words
 
 Body
 
 
-PR NewswireAmbitious Growth Plan, State of the Market, and Continuous Product Innovation Drive Reimagined
-BrandingBOSTON, June 4, 2024 /PRNewswire/ --Nasuni, a leading enterprise data platform for hybrid cloud
-environments, announced the major repositioning of its entire brand identity, underpinned by the overall growth of
-the business and its continuous product innovation and versatility. New visuals, alongside refined messaging to
-align with its vision, will support Nasuni's high-growth journey as a best-in-class data platform for enterprises
-requiring scale in hybrid cloud environments, safeguards against cyberattacks, and data management for AI use-
-cases.Chief Marketing Officer Asim Zaheer at Nasuni, who led this branding initiative and has a portfolio of others
-including Hitachi Ventara, commented: "A brand identity is so much more than logos and colors – it's the foundation
-of everything that represents a company and embodies its key values. Nasuni's rebrand reflects a modern identity
-for a modern product, keeping pace with the company's technological innovation. Additionally, this initiative
-encompasses the insights provided from our customers, industry experts, and top analyst firms."Today's
-infrastructure teams are reckoning with an explosion of unstructured data, a market shift to hybrid environments,
-and an inability to get the most value out of their data.
+ATLANTA, April 23 -- Georgia Institute of Technology issued the following press release:
 
-According toGartner, an estimated 60% of enterprise data will be hybrid by 2027, up from 20% in 2023. This rapid
-rate of infrastructure change in the market demands a fluid and flexible approach, which was instrumental to the
-company's reimagined brand.Velocity Partners CEO Stan Woods, who collaborated with Nasuni on the new
-branding, commented: "A clear, compelling brand runs circles around a weak, unfocused brand every day of every
-week. Nasuni has combined a terrific brand story with its already strong tech advantage. The idea was to showcase
-new possibilities for infrastructure leaders, something so many Nasuni customers are already experiencing. It's
-been fun to work with such a knowledgeable and motivated team in putting this new brand together."Nasuni's new
-look and feel highlights an industry shift from rigid, hardware-based NAS solutions to more fluid, software-defined
-storage orchestrations in the hybrid cloud era. This notion builds on Nasuni's legacy and reflects on its values
-around innovation and trust, while also modernizing key elements to showcase users' current and future needs. In
-addition, the Nasuni File Data Platform has evolved a great deal in recent years, and the new branding highlights
-that level of evolution within the product. Nasuni's branding initiative includes a website redesign, brand messaging,
-visuals, and logo refresh. Details below:Logo: The new logo is a symbol of the Nasuni brand essence, crafted into a
-single, horizontal design. Nasuni held tight to the idea of 'three' to represent the company's preeminent product
-value pillars: effortless scalability, built-in security, and fast edge performance.Logomark: For use in very small
-contexts, Nasuni distills its stylized "N" from the logo as a representation of the company. This distinctive logomark
+Newly passed legislation requiring the sale or ban of TikTok has more to do with political fears over U.S.
+competitiveness with China than with national security, according to a School of Public Policy cybersecurity policy
+and internet governance expert..
 
-                                                                                                 Page 2 of 2
-             Nasuni Launches New Brand Identity, Marking Next Era for Hybrid Cloud Storage Leader
+"It amounts to a new Chinese Exclusion Act for the 21st century," said Professor Milton Mueller, director of the
+Internet Governance Project in Georgia Tech's School of Public Policy.
 
-enhances Nasuni's visibility across digital networks and reinforces its position as a confident, fresh, and authentic
-voice in the hybrid cloud market.Visual Language: Nasuni's distinctive visual language is a reflection of the fluid and
-flexible way to manage data and is defined by confidence, boldness, and instant recognizability. It communicates
-forward-thinking innovation, delivering a strategic advantage and attracting customers in a competitive
-landscape.Liquid Flow: Using a high-impact, fluid design, the splash of liquid represents data that should flow easily
-and be available securely anywhere and at any time. In addition, the green within the fluid element is a nod to
-Nasuni's legacy green color palette.Graphical: The hexagon serves as a visual metaphor for the strength,
-efficiency, and services Nasuni offers, providing a solid boundary for the ever-evolving 'fluid' data. Together, the two
-elements represent the balance between data management and the fluid nature of data itself. It's a testament to our
-approach: Stable, yet flexible. Grounded in reliability, but always flowing.David Grant, president at Nasuni, added:
-"Since our inception, Nasuni's differentiator and main focus has been its customers, employees, and products. As
-we enter our next stage as a high-growth company, our refreshed brand represents the fluid nature of data
-infrastructure for a rapidly evolving hybrid AI world. Our file data platform is the key to managing cost, delivering
-outstanding data performance, providing world-class data protection, and enabling AI innovation. Our new brand
-communicates this more simply and succinctly."This announcement follows another year of rapid growth for Nasuni,
-which added more than120+ new large enterprisecustomersacross all verticals. Nasuni's product innovation is
-helping drive its strong momentum, including the recent launch ofNasuni Edge for Amazon S3 to deliver high
-performance at the edgeandNasuni IQ to help enterprises unlock data silos for AI services. Nasuni has also made
-the following key leadership appointments in the past year:Michael Sotnickto Senior Vice President of Business and
-Corporate Development; Nick Burling to Senior Vice President of Product;Matthew Granthamto Head of Worldwide
-Partners;Jim Liddleto Chief Innovation Officer; Russ Kennedy to Chief Evangelist; and Asim Zaheer to Chief
-Marketing Officer.For more information about Nasuni's brand refresh, check out thenew website. You can also read
-an official statement authored by Nasuni Chief Marketing Officer Asim Zaheerhere.About Nasuni
+The TikTok provision is part of foreign aid legislation signed by President Joe Biden on Wednesday, a day after it
+easily cleared the U.S. Senate following bipartisan approval in the House. It requires that TikTok's Chinese owner,
+ByteDance, sell the service or face a U.S. ban.
 
-Nasuni is a fluid data platform for enterprises facing an explosion of unstructured data in an AI world. The Nasuni
-File Data Platform delivers effortless scale in hybrid cloud environments, enables control at the network edge, and
-meets the modern enterprise expectation for insight- and AI-ready data. It simplifies file data management while
-increasing storage access and performance. Its best-in-class file recovery protects customers against a range of
-cyber threats and eliminates the need for specialized backup and disaster recovery – all while cutting the cost of
-infrastructure by up to 65%.Organizations worldwide rely on Nasuni, spanning across the manufacturing,
-construction, energy, consumer goods, and public sectors. Nasuni's corporate headquarters is located in Boston,
-Massachusetts, and the company delivers services to over 70 countries. For more information,
-visitwww.nasuni.com.Media ContactsUS: Jessica Luhrman
-Waters Agency
-Phone: (210) 273 0914
-Email:UK/Europe: Maria Loupa
-Waters Agency
-Phone: +44 (0)7591 004 738
-Email: View original content to download multimedia:https://www.prnewswire.com/news-releases/nasuni-launches-
-new-brand-identity-marking-next-era-for-hybrid-cloud-storage-leader-302162526.htmlSOURCE Nasuni
+Advocates of such a ban say TikTok is a national security threat: a backdoor for the Chinese government to sow
+disinformation and maliciously leverage the private data of U.S. users.
+
+However, Mueller, whose research has been widely cited in the TikTok debate, has found no credible national
+security threat in TikTok - certainly nothing, he said, that isn't also an issue with any other social media service.
+
+"There are foreign influence campaigns going on right now on Facebook, X, and other platforms. There's nothing
+unique about TikTok in that regard," Mueller said.
+
+And while critics would argue that Chinese-owned TikTok is different than Facebook or X - both largely American
+companies - Mueller says that no matter who owns a social media platform, there's little national security value in
+the data of everyday Americans who post dances, silly animal videos, or even political commentary. Risk is inherent
+in any social media platform and focused on users closely connected to national security functions - risks the sale
+or closure of one social media platform won't solve, he said.
+
+Mueller's analysis of TikTok and the arguments swirling around it are published in a March 2023 report.
+
+                                                                                                         Page 2 of 2
+                        SCHOOL OF PUBLIC POLICY PROFESSOR TALKS TIKTOK BAN
+
+He said he doubts that a sale of TikTok is likely, at least in its current form. China's government has said it sees the
+artificial intelligence that powers TikTok's algorithm as Chinese intellectual property that can't be transferred to
+the U.S. So, whatever might be sold would be, essentially, a different service.
+
+Mueller echoed many legal experts who have argued that a ban would trigger an immediate court challenge on free
+speech grounds. However, if such legal challenges were to fail, it would be a blow to the free flow of ideas around
+the world, Mueller argues.
+
+"If the ban goes through and is upheld by the courts, this would be a disaster for the freedom of information and
+the ethos of the internet, that we can all be connected," Mueller said. For any query with respect to this article or
+any other content requirement, please contact Editor at contentservices@htdigital.in
 
 
-Load-Date: July 15, 2024
+Load-Date: April 30, 2024
 
 
   

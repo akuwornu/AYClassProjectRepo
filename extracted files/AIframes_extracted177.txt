@@ -1,86 +1,172 @@
 
 
-                                                                                                          Page 1 of 2
-                         MSU Takes on Leadership Role in $67M NSF Research Security Effort
+                                                                                             Page 1 of 4
+      JumpCloud 's Q1 2024 SME IT Trends Report Reveals AI Optimism Tempered by Security Concerns AI,
+                       Security Posture, and Layoff Worries Dominate IT Teams in 2024
 
 
 
 
-      MSU Takes on Leadership Role in $67M NSF Research Security Effort
-                                                     Targeted News Service
-                                             July 30, 2024 Tuesday 9:20 AM EST
+JumpCloud's Q1 2024 SME IT Trends Report Reveals AI Optimism Tempered
+by Security Concerns; AI, Security Posture, and Layoff Worries Dominate IT
+                              Teams in 2024
+                                                         GlobeNewswire
+                                          February 14, 2024 Wednesday 2:01 AM PT
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
 
 
 
-Length: 560 words
-Byline: Targeted News Service
-Dateline: STARKVILLE, Mississippi
+Section: MARKET RESEARCH REPORTS
+Length: 1577 words
 
 Body
 
+LOUISVILLE, Colo., Feb. 14, 2024 (GLOBE NEWSWIRE) -- JumpCloud Inc., today announced the findings from
+its Q1 2024 small to medium-sized enterprise (SME) IT Trends Report, “State of IT 2024: The Rise of AI, Economic
+Uncertainty, and Evolving Security Threats”. The report provides updated survey results and new findings to the
+company’s biannual SME IT Trends Report, which was first released in June 2021. The latest edition of the report
+delves into the impact of artificial intelligence (AI) on identity management, security challenges, economic
+uncertainties, and the growing reliance on managed service providers (MSPs) in IT operations.
 
-(TNSres) -- Mississippi State University issued the following news:
+JumpCloud commissioned this biannual survey of SME IT admins to gain unique insights into the day-to-day
+experiences of IT professionals who power and secure operations without enterprise-level budgets and staff. The
+most recent survey results, polled from admins in the U.S., U.K., and India, indicates how quickly AI has impacted
+identity management and highlights that IT professionals have both big hopes and big fears in their response to it.
+With a strong majority of respondents both planning or actively implementing within the next year and advocating
+for AI investment, IT leaders clearly see potential benefits from deploying AI in their workplaces. But IT admins
+report notable concerns around their organizations’ current ability to secure against related threats—and personal
+concerns about AI’s impact on their career.
 
-Mississippi State University is taking on a leadership role in a national effort to enhance U.S. research security.
+“While AI is the buzzword that grabs headlines, it’s security that remains a paramount concern for IT teams given
+the increasing sophistication of external threats and rising regulatory pressures,” said Rajat Bhargava, CEO,
+JumpCloud. “And it’s only getting worse. We found that 56% of admins agree that they’re more concerned about
+their organization’s security posture now than they were six months ago. To reduce this complexity and anxiety,
+organizations should look toward solutions that offer a unified, open identity and IT management approach. This
+can enhance security, mitigate operational disruptions, and alleviate admin burnout.”
 
-MSU is part of a National Science Foundation-funded and University of Washington-led coalition establishing the
-Safeguarding the Entire Community of the U.S. Research Ecosystem (SECURE) Center. The center, which is
-receiving $67 million from the NSF over five years, will enable a national platform for protecting U.S. research
-investments, especially research that has national security implications.
+                                                                                               Page 2 of 4
+        JumpCloud 's Q1 2024 SME IT Trends Report Reveals AI Optimism Tempered by Security Concerns AI,
+                         Security Posture, and Layoff Worries Dominate IT Teams in 2024
 
-Narcisa Pricope, MSU associate vice president for research, will serve as the principal investigator for the
-university's portion of the grant. MSU, along with the Hoover Institute and University of Michigan, is co-leading the
-Functional Expert Area, focused on a wide range of security concerns such as high-risk research areas, threat
-types, geopolitical analysis and international relations. MSU is one of nine institutions of higher education
-nationwide supporting the effort.
+The results of the JumpCloud Q1 2024 SME IT Trends Report are available in JumpCloud’s eBook, “State of IT
+2024: The Rise of AI, Economic Uncertainty, and Evolving Security Threats,” which can be downloaded for free
+here.
 
-"Every day, institutions like MSU are conducting research that is critical to our shared national security, while also
-forging international connections that broaden our expertise and enhance our capabilities," Pricope said. "As
-universities, we must adapt our practices to a constantly changing geopolitical environment so that we can both
-grow global connections and protect U.S. research investments. I am proud that MSU will play a key role in
-developing the solutions that will foster continued research security and integrity."
+Key findings include:
 
-The MSU team will closely examine several technology areas that have been identified as high risk by the NSF's
-Directorate for Technology, Innovation and Partnerships and their research security implications. Those areas
-include advanced manufacturing and materials, artificial intelligence and biotechnology, communications and
-cyberinfrastructure, disaster risk and resilience, energy technology, quantum information science and
-semiconductors/microelectronics.
+AI Adoption: Optimism and ConcernsA vast majority of admins see AI as a net positive for their organization and
+think their organization is approaching AI at the right pace—though this optimism is tempered by significant
+concerns about AI’s potential impact on security and individual careers.
 
-                                                                                                       Page 2 of 2
-                      MSU Takes on Leadership Role in $67M NSF Research Security Effort
+Topline AI findings include:
+    •     Organizations are actively planning for AI: Just 13% of organizations do not currently have any plans to
+          implement AI initiatives and 76% agree their organization should be investing in AI.
+    •     Admins optimistic about AI: 79% report that AI will be a net positive, versus just 6% who see it as a net
+          negative. Most admins agree their organizations are approaching AI adoption at exactly the right speed
+          (55%). Roughly equal amounts think they are moving too quickly (22%) or too slow (19%).
+    •     IT teams are wary about AI’s potential for organizational security and career: 62% agree that AI is
+          outpacing their organization’s ability to protect against threats overall and nearly half (45%) worry about
+          AI’s impact on their job.
 
-"NSF is committed to principled international collaboration. At the same time, we must address threats to the
-research enterprise," said NSF Director Sethuraman Panchanathan in announcing the funding. "The SECURE
-Center is how we bring the research community together to identify risks, share information and leverage national
-expertise on research security to develop solutions that protect essential research being done at institutions across
-the nation. This is a community-focused platform, and the research community will be the drivers of how SECURE
-Center tools and services are designed, used and improved upon."
+Uncertainty for ITThe start of 2024 finds SMEs continuing to wrestle with economic uncertainties and IT teams
+unsure about what that means for their organizations and their operations.
 
-In addition to Pricope, MSU Research Security Officer Chris Jenkins and Department of Geosciences Professor
-Andrew Mercer will support the new SECURE Center. MSU's funding from the project also will support a graduate
-student to help develop dashboards and visualizations for broader use by the national research community.
+Topline IT management findings include:
+    •     Concerns about layoffs persist: 57% of organizations have experienced layoffs over the last year. Just over
+          a quarter (27%) haven’t experienced layoffs and don’t expect any over the next six months.
+    •     Admins worried about the impact of budget cuts on security: 72% agree that any cuts to their security
+          budget will increase organizational risk, and 56% are more concerned about their organizations’ security
+          posture than they were six months ago.
+    •     Licensing costs increase while compliance mandates expand: 88% report vendors have increased prices
+          over the last six months, and 76% report increased compliance and regulations requirements in their
+          region.
+    •     Device environments require IT flexibility, with Windows use down and macOS and Linux use up year-
+          over-year: The average device type breakdown in SMEs is Windows at 60% (down from 64% in April
+          2023), macOS at 22% (up from 20% in April 2023), and Linux at 22% (up from 16% in April 2023).
+    •     IT admins want centralized IT: 75% of IT professionals would prefer a single tool to do their job over a
+          number of point solutions. In practice, admins most commonly need five to 10 applications to manage
+          worker lifecycle (37%), though nearly one-quarter (22%) need 11 or more, and nearly 1 in 10 (9%) require
+          more than 15 applications to manage worker lifecycle.
 
-For more information on the SECURE Center, visit https://new.nsf.gov/news/nsf-backed-secure-center-will-support-
-research.
+Security Challenges Persist as Admins Adjust Their Response IT teams continue to report that security concerns
+continue to dominate among the various challenges and responsibilities they manage. With the rise of AI and the
+evolving sophistication of cybersecurity threats, IT admins are adapting their responses and deploying additional
+layers of protection.
 
-***
+Topline security findings include:
+    •     IT admins’ biggest challenge is security: 56% report security is the biggest IT challenge, followed by new
+          services and application rollouts (45%), increased work burden (44%), followed by the cost of remote work
+          solutions (42%).
 
-Original text here: https://www.msstate.edu/newsroom/article/2024/07/msu-takes-leadership-role-67m-nsf-research-
-security-effort
+                                                                                              Page 3 of 4
+       JumpCloud 's Q1 2024 SME IT Trends Report Reveals AI Optimism Tempered by Security Concerns AI,
+                        Security Posture, and Layoff Worries Dominate IT Teams in 2024
 
-Contact: James Carskadon, jmc603@msstate.edu
+   •     Biometrics adoption up, though password-based systems are stubborn: While 83% of organizations use
+         password-based authentication for some IT resources, 83% also require multi-factor authentication (MFA)
+         and two-thirds require biometrics (66%)—even though 67% of IT professionals agree that adding additional
+         security measures means a more cumbersome experience. The average employee has three to five
+         passwords to log into their IT resources, though 15% of employees average 10 passwords or more.
+   •     The biggest security threats remain the same: The three biggest security concerns now are the same ones
+         from April 2023. IT admins reported network attacks were their biggest challenge (40%), followed by
+         software vulnerability exploits (34%) and ransomware (29%).
 
-Copyright Targeted News Services
+MSPs Play Major Role in IT OperationsMSPs are increasingly crucial to SME IT operations as increasing numbers
+of SMEs are turning to them for IT management.
 
-T40-MgEditor-8749613 T40-MgEditor
+Topline MSP findings include:
+   •     MSPs taking over IT for SMEs: While 76% of SMEs rely on an MSP for some features, 42% of
+         organizations use an MSP to completely manage their IT environment, a 56% increase from April 2023.
+   •     Organizations relying on MSPs for variety of functions: System security is the most common area for why
+         SMEs use MSPs (57%) followed by cloud storage (52%), system monitoring (51%), system management
+         (47%), managed backup (40%), hardware procurement (34%), business continuity/disaster recovery
+         (32%), help desk (35%), and change management (27%).
+   •     MSPs are seen to offer a broad range of benefits: The top reasons SMEs report using an MSP are that
+         they are up to date on the latest technologies (65%), they can provide a better user experience (60%), and
+         they are cost-effective (57%).
+
+Survey Methodology: JumpCloud surveyed 1,213 SME IT decision-makers in the U.K., U.S., and India, including
+managers, directors, vice presidents, and executives. Each survey respondent represented an organization with
+2,500 or fewer employees across a variety of industries. The online survey was conducted by Propeller Insights,
+from November 14, 2023 to November 27, 2023. The findings from the JumpCloud Q1 2024 SME IT Trends Report
+can be found in “State of IT 2024: The Rise of AI, Economic Uncertainty, and Evolving Security Threats,” here.
+
+Additional Resources for IT Admins:
+   •     Learn the different ways you can modernize AD and seamlessly support non-Microsoft resources and
+         hybrid work in the Modernizing Active Directory: Third Party Research Report from EMA.
+   •     Check out The MSP’s Guide to IT Centralization, an MSP’s guide on how to reduce IT costs and
+         complexity without sacrificing sales.
+   •     Download The IT Professional’s Complete Guide to Calculating TCO, a step-by-step guide to measuring—
+         and understanding—your IT costs.
+   •     Read JumpCloud blog, where admins can review technical articles, follow step-by-step how-to guides,
+         evaluate feature and product comparisons, and learn essential tips and tricks for IT admins.
+   •     Enroll in JumpCloud University, where admins can enroll in free courses for all skill levels and earn official
+         JumpCloud certification.
+   •     Attend The IT Hour, a weekly community program open to anyone, which focuses on everything in the life
+         of the IT admin.
+
+About JumpCloudJumpCloud® helps IT teams and managed service providers (MSPs) Make Work Happen® by
+centralizing management of user identities and devices, enabling small and medium-sized enterprises to adopt Zero
+Trust security models. JumpCloud has been used by more than 200,000 organizations, including GoFundMe, Grab,
+ClassPass, Beyond Finance, and Foursquare. JumpCloud has raised over $400M from world-class investors
+including Sapphire Ventures, General Atlantic, Sands Capital, Atlassian, and CrowdStrike.
+
+                                                                                            Page 4 of 4
+     JumpCloud 's Q1 2024 SME IT Trends Report Reveals AI Optimism Tempered by Security Concerns AI,
+                      Security Posture, and Layoff Worries Dominate IT Teams in 2024
+
+Learn more: https://www.jumpcloud.com/Follow us: Blog | Community | Twitter | LinkedIn | YouTube | Resources
+
+Click here to get started with JumpCloud
+Contact For JumpCloud Josie Judy press@jumpcloud.com
 
 
-Load-Date: July 30, 2024
+
+Load-Date: February 14, 2024
 
 
   

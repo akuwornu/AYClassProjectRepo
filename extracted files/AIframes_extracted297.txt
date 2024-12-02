@@ -1,141 +1,132 @@
 
 
-                                                                                                  Page 1 of 3
-    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
-                           private and hybrid clouds by tackling complexity, secu....
+                                                                               Page 1 of 3
+         ARMY SIGNALS COMMITMENT TO CULTIVATING TECH INNOVATION, EXPERTISE AT SXSW
 
 
 
 
-       Firms Invest in Management, Resilience for Hybrid Clouds; Platform
-      innovations help companies build better private and hybrid clouds by
-     tackling complexity, security threats, downtime, ISG Provider Lens(TM)
-                                    report says
-                                                    Business Wire
-                                       July 10, 2024 Wednesday 2:00 PM GMT
+     ARMY SIGNALS COMMITMENT TO CULTIVATING TECH INNOVATION,
+                       EXPERTISE AT SXSW
+                                                 States News Service
+                                             March 13, 2024 Wednesday
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 States News Service
 
-Length: 1104 words
-Dateline: STAMFORD, Conn.
+Length: 975 words
+Byline: States News Service
+Dateline: AUSTIN, Texas
 
 Body
 
 
-More enterprises are implementing hybrid cloud management platforms as they diversify their IT environments to
-overcome the limits of relying solely on public clouds, according to a new research report published today by
-Information Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm.
+The following information was released by the U.S. Army-Asia Pacific:
 
-The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report finds that
-organizations want the flexibility, scalability and agility of cloud computing while addressing their unique operational,
-regulatory and security challenges. In many cases, intelligently planned hybrid cloud platforms help them control
-expenses, data residency and compliance.
+By Army Futures CommandMarch 13, 2024
 
-"Companies that are worried about the economy want to get more out of their IT investments," said Anay Nawathe,
-ISG cloud delivery lead. "With strong management, private and hybrid cloud infrastructures can maximize
-operational efficiency and financial resilience."
+AUSTIN, Texas Army senior leaders are eager to increase understanding and integration of new technologies into
+the force and offered insights on how they are tackling the challenge during a March 9 panel at the 2024 South by
+Southwest Conference in Austin, Texas.
 
-Along with these benefits, hybrid clouds bring more complexity, especially with the need for resource coordination
-across platforms and smooth data flow between on-premises and cloud infrastructure, ISG says. This requires
-specialized tools and skills, so enterprises are implementing hybrid cloud management platforms that let them get
-the most out of each cloud environment and minimize performance bottlenecks.
+The panel, "Transforming Our Future: Innovation, Tech and the Army," featured the Hon. Christine E. Wormuth,
+Secretary of the Army and Gen. James E. Rainey, commanding general of Army Futures Command. Wormuth and
+Rainey kicked off the conversation with a discussion on how the Army has adapted to the shifting demands and
+possibilities presented by cutting-edge technologies.
 
-Organizations are also under pressure to make IT infrastructure more resilient, increasing the demand for backup
-and disaster recovery platforms, the report says. These create copies of critical data and systems so operations
-can quickly resume after a cyberattack or natural disaster. Scalable, secure and cost-effective resiliency solutions
-are becoming as crucial as primary on-premises and public cloud infrastructure.
+"When we look at today and look to the future, I think what it's going to be about for the United States Army is being
+prepared to fight high-tech adversaries or hybrid adversaries with a mix of high and low tech in urban
+environments," Wormuth said.
 
-AI and ML play growing roles in both cloud management and resilience platforms, ISG says. Companies are
-embracing AI and ML cloud management tools that use data from various sources to predict downtime and initiate
-self-healing tools, enhancing reliability. Such technologies are also being used to automate backup and recovery
-platforms, some of which use algorithms to identify and respond to anomalies or threats in real time.
+She added that the Army's focus extends beyond the land domain, which remains critical, to include multi-domain
+operations.
 
-                                                                                                  Page 2 of 3
-    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
-                           private and hybrid clouds by tackling complexity, secu....
+"It's the land, it's space, it's cyber, it's the information space the Army now has to be able to operate in all of those
+domains, and to do that effectively, we've got to be able to leverage technology," she said.
 
-"Faster response and recovery to a disruption minimizes any loss of revenue and productivity, while at the same
-time improving customer satisfaction," said Jan Erik Aase, partner and global leader, ISG Provider Lens Research.
-"Vendors are helping enterprises achieve these gains through AI and automation."
+Rainey and Wormuth explained how the Army plays an essential role in deterring future conflict while also tackling
+climate issues and aiding in disaster response.
 
-Companies are also tightening control over data in both cloud management and resilience platforms using privacy-
-enhancing features, the report says. These include access controls and encryption key management that allow
-them to define and enforce granular access policies.
+"We're not just about protecting our country; we're about, in many cases, trying to help others all around the world,"
+Wormuth said, adding that the Army is currently involved in U.S. Government efforts to build a pier offshore from
+Gaza that will be used in humanitarian relief activities.
 
-The report also explores other trends affecting private and hybrid cloud infrastructure, including the growing
-popularity of AI for IT operations (AIOps) for orchestration and FinOps for cost containment.
+                                                                              Page 2 of 3
+        ARMY SIGNALS COMMITMENT TO CULTIVATING TECH INNOVATION, EXPERTISE AT SXSW
 
-For more insights into the private and hybrid cloud challenges enterprises face, including the complexity of
-managing hybrid clouds and the rising incidence of cyberattacks and natural disasters, along with ISG's advice for
-addressing these issues, see the ISG Provider Lens(TM) Focal Points briefing here .
+"We do whatever the country needs us to do as an Army," Rainey added.
 
-The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report evaluates the
-capabilities of 38 providers across two quadrants: Hybrid Cloud Management Platforms and Resiliency Platforms.
+Dcode Founder and CEO Meagan Metzger, who moderated the session, asked Wormuth and Rainey to describe
+how they saw tech making a difference on the modern battlefield.
 
-The report names HPE (Zerto) and VMware as Leaders in both quadrants. It names BMC Software, Cohesity,
-Commvault, Dell Technologies, Flexera, HCL Software, Morpheus Data, Rubrik, ServiceNow, Veeam and Veritas
-as Leaders in one quadrant each.
+"It would be an understatement to say that we're in a disruptive period of time with technology," Rainey responded.
+"I think it's going to disrupt everything we do."
 
-In addition, CloudBolt Software is named as a Rising Star - a company with a "promising portfolio" and "high future
-potential" by ISG's definition - in one quadrant.
+"Using AI, space-based sensing, large language models to understand what is happening at an unprecedented
+capability is important to us," Rainey continued, underscoring the necessity of ensuring both speed and accuracy in
+ethical decision-making and the protection of civilians.
 
-In the area of customer experience, Green is named the global ISG CX Star Performer for 2024 among
-private/hybrid cloud service providers. Green earned the highest customer satisfaction scores in ISG's Voice of the
-Customer survey, part of the ISG Star of Excellence(TM) program , the premier quality recognition for the
-technology and business services industry.
+Metzger also inquired about how the Army will use artificial intelligence to strengthen its force.
 
-A customized version of the report is available from Morpheus .
+"Pursuing artificial intelligence capabilities ethically is a core part of the Department [of Defense's] policy,"
+Wormuth replied. The integration of human input remains a core principle, she explained, and maintaining a human
+focus amid the push to rapidly employ artificial intelligence systems will continue to be a primary objective.
 
-The 2024 ISG Provider Lens(TM) global Private/Hybrid Cloud - Data Center Solutions report is available to
-subscribers or for one-time purchase on this webpage .
+"Autonomous systems air and ground will never replace our humans," Rainey asserted. "The art is: how do you
+offload risk onto machines not to replace humans, but to optimize our humans to do the things that they're only
+going to do."
 
-About ISG Provider Lens(TM) Research
+Developing Human Machine Integrated Formations is part of the Army's answer to this question. Army scientists,
+researchers and leaders are prototyping and evaluating elements of these future formations through experiments
+like Project Convergence Capstone 4 and allied partner training and force sustainment scenarios.
 
-The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
-empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
-advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
-appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
-recommendations to ISG's enterprise clients. The research currently covers providers offering their services
-globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
-Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
-more information about ISG Provider Lens research, please visit this webpage .
+Additional activities geared toward accelerating Army transformation include adapting acquisition procedures and
+business operations, strategically scaling new technologies and balancing future Army needs with present-day
+concerns.
 
-About ISG
+"There's a lot of support [from Congress] for wanting to help not just the Army, but all of the services bring in
+technology more effectively and more quickly," Wormuth said.
 
-ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
-business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
-committed to helping corporations, public sector organizations, and service and technology providers achieve
-operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
-automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
-services; strategy and operations design; change management; market intelligence and technology research and
+She and Rainey further emphasized the importance of software and open architecture, private-sector partnerships
+and collaborative problem-solving in advancing force capabilities.
 
-                                                                                                  Page 3 of 3
-    Firms Invest in Management, Resilience for Hybrid Clouds Platform innovations help companies build better
-                           private and hybrid clouds by tackling complexity, secu....
+Wormuth added that the Army is evaluating and expanding how it engages with innovative companies, including
+through agile resources like the Army Applications Laboratory.
 
-analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,600 digital-ready
-professionals operating in more than 20 countries-a global team known for its innovative thinking, market influence,
-deep industry and technology expertise, and world-class research and analytical capabilities based on the
-industry's most comprehensive marketplace data. For more information, visit www.isg-one.com .
+"We are really trying to look at our business models and think about how we can be more flexible and how we can
+do more work with nontraditional businesses," Wormuth said.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240710037163/en/
+The Army is also seeking to recruit and train Soldiers who possess or would like to develop tech savvy, in addition
+to those who are interested in more traditional infantry and operations roles.
 
+"Now more than ever, I would say, data for the Army is as important as bullets or missiles," Wormuth said.
 
-CONTACT: Press Contacts:Will Thoretz, ISG
-+1 203 517 3119
+"We need people with technology skills," she stressed, adding "it's not just in uniform. We have hundreds of
+thousands of Department of the Army Civilians who often are working alongside our folks in uniform in these areas,
+and there are opportunities there as well."
 
-will.thoretz@isg-one.com Julianna Sheridan, Matter Communications for ISG
-+1 978-518-4520
+According to Wormuth, the need for tech proficiency extends to senior Army leaders and policymakers, as well as to
+Soldiers operating in the field.
 
-isg@matternow.com
+"More and more, we're going to want to push that kind of expertise out to the tactical edge."
+
+                                                                              Page 3 of 3
+        ARMY SIGNALS COMMITMENT TO CULTIVATING TECH INNOVATION, EXPERTISE AT SXSW
+
+Rainey highlighted how the business of improving the Army's technological prowess will also be informed by the
+individuals who decide to join the organization in the years to come.
+
+"The Army is your Army, it's America's Army, it's everybody. It's an all-volunteer force. It's one of the greatest things
+we have," he said.
+
+"We depend on young men and women to decide that they're going to do something with their life bigger than them.
+You can do it in uniform, out of uniform, you can do it full-time, you can do it part-time, and the next generations
+continuing to take some time to do something for their country and pay back all these privileges is really important
+to us."
 
 
-http://www.businesswire.com
-
-
-Load-Date: July 23, 2024
+Load-Date: March 15, 2024
 
 
   

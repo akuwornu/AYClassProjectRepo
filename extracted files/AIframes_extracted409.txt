@@ -1,14 +1,14 @@
 
 
-                                                                                                         Page 1 of 4
-                                     AI Copilots Set to Engage the Future of Air Combat
+                                                                                                   Page 1 of 7
+                                   Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
 
 
 
 
-                      AI Copilots Set to Engage the Future of Air Combat
+                     Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
                                                      Targeted News Service
-                                          June 19, 2024 Wednesday 5:17 PM EST
+                                             April 6, 2024 Saturday 1:17 PM EST
 
 
 
@@ -17,160 +17,384 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 1451 words
+Length: 3329 words
 Byline: Targeted News Service
-Dateline: LAUREL, Maryland
+Dateline: WASHINGTON
 
 Body
 
 
-(TNSres) -- The Johns Hopkins University Applied Physics Laboratory issued the following news release:
-
-The future of military conflict is inseparable from the development of artificial intelligence (AI). The battlefield of
-the future will be redefined by the fielding of intelligent autonomous systems operating at machine speed and with
-machine precision. As the National Security Commission on Artificial Intelligence stated bluntly in its 2021 final
-report: "Defending against AI-capable adversaries operating at machine speeds without employing AI is an
-invitation to disaster."
-
-"We need to keep human warfighters in control of the future battle, and that means investing in efforts to catalyze
-human decision-making with the advanced computing power of AI," said Tom Urban, who supervises the Intelligent
-Combat Platforms Group at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. "APL is
-involved in a number of efforts to do that by providing humans with intelligent virtual assistants."
-
-Building on more than a decade of pushing the boundaries of what AI can do in air combat, APL engineers and air
-combat specialists have made significant progress in creating a copilot that will grant the power, speed and
-precision of machine computation to human fighter pilots.
-
-A Software Wingman
-
-Most work in this domain, like the XQ-58A Valkyrie, the Air Force's experimental pilotless aircraft, is focused on
-creating advanced autonomous fighter aircraft. Researchers at APL, however, have their sights set on augmenting
-human decision-making with the computational power of AI. Rather than seeking to replace pilots, APL researchers
-aim to help them succeed by enhancing and complementing their abilities, intuition and experience with machine
-speed and precision.
-
-To that end, the team has created -- over three years of painstaking development -- an AI teammate dubbed VIPR.
-Short for Virtual Intelligent Peer-Reasoning agent, VIPR serves a pilot in three critical capacities: as a situationally
-aware peer, a performant wingman and a cognitive support assistant.
-
-                                                                                                          Page 2 of 4
-                                 AI Copilots Set to Engage the Future of Air Combat
-
-John Winder, a computer scientist in APL's Force Projection Sector who co-leads the project with Urban, likens
-VIPR to R2-D2, the pilot-assisting droid from "Star Wars."
-
-"It can hang back and provide support by maintaining situational awareness, tracking blind spots and alerting the
-pilot when needed, or it can step up and play the role of the pilot, flying the plane and taking actions to save the life
-of its human pilot," he said.
-
-Tracking Cognitive Blind Spots
-
-Another way to think about VIPR is as an extremely advanced GPS and navigation assistant, there to help the
-driver overcome blind spots. But where a driver's blind spots are visual, the fighter pilot's blind spots are primarily
-cognitive.
-
-"Fighter pilots are, by nature, very confident people," said Winder. "That's a professional necessity and an asset,
-but it can also lead to a kind of tunnel vision that might prevent them from taking on critical new information in the
-heat of combat."
-
-One of VIPR's most important functions, therefore, is to actively track the cognitive state of the pilot. It has to
-understand the pilot's intentions, know what the pilot knows and reason about what the pilot understands, so that it
-recognizes when the AI and the pilot are no longer on the same page.
-
-"Besides looking 'outward' to track and predict adversary threats, VIPR also has to look 'inward' to understand the
-human pilot's intentions, objectives and modes of behavior, all on a second-by-second basis," Winder said. "And
-when the pilot has missed something critical during combat, VIPR has to inform them of that in a timely, actionable
-manner to help them survive the engagement."
-
-The VIPR prototype is capable of doing all of this in an interactive real-time simulation, responding to the pilot's
-voice commands, switching roles between full pilot and copilot fluidly and seamlessly -- and if that weren't enough,
-it can also pilot multiple autonomous squad mates, or collaborative combat aircraft. In this mode, the human pilot
-can act like the quarterback on a football team, directing the objectives of a VIPR-controlled team.
-
-After three years of development, the APL team is preparing to more formally evaluate its AI prototype with human
-pilots. But anecdotally, at least, the initial response has been promising.
-
-"We have some former pilots on our team, and they've all walked away from engaging in the simulation with smiles
-on their faces," Winder said. "And as a non-pilot myself, when I engage in the simulation scenario unassisted, I
-survive for maybe eight seconds. With VIPR, I'm able to survive and win.
-
-"Obviously, we have much more rigorous testing to do before this can be fielded, but we're optimistic based on what
-we've seen so far."
-
-New Challenges, New Technology
-
-Developing VIPR has taken a concerted effort on the part of APL scientists and engineers, necessitating multiple
-major breakthroughs in AI and machine learning techniques.
-
-Three particularly significant advances are crucial to understanding what makes VIPR unique.
-
-The first was the creation of recurrent conditional variational autoencoders (RCVAEs) -- essentially, machine
-learning models capable of encoding the (often implicit) observations, beliefs and decisions of a human pilot.
-RCVAEs are multimodal and probabilistic, meaning they have to infer and incorporate multiple variables from a
-variety of data sources and make decisions based on intelligent approximations, all at lightning speed. This
-breakthrough is what enables VIPR to develop something like an "intuitive," structured understanding of the pilot's
-intentions and beliefs.
-
-                                                                                                       Page 3 of 4
-                                AI Copilots Set to Engage the Future of Air Combat
-
-The second was applying graph neural networks (GNNs) to the problem of modeling adversary behavior. GNNs are
-a type of neural network that can be directly applied to graphs to predict the future states of anything that can be
-depicted on a graph -- analogous to how a large language model can be used to predict and generate text. The
-application of GNNs is what allows VIPR to predict complex adversary behaviors and coordinated maneuvers with
-high fidelity in a 3D space.
-
-Notably, these first two breakthroughs have general applicability beyond the problem space of air combat, and are
-already being leveraged for other efforts at APL.
-
-The third critical enabler was the development of a novel, advanced neural network known as a State-Time
-Attention Network (STAN) for deep multi-agent reinforcement learning. Based on the same Transformer
-architecture used by ChatGPT -- GPT stands for "generative pretrained transformer" -- and many other generative
-AI tools, STAN enables VIPR to scale its "awareness" to a variable number of entities and to learn a wider variety of
-multi-task behaviors.
-
-"Neural networks generally assume a fixed-size input and can't handle a dynamically changing set of observed
-variables. With STAN, VIPR can rapidly adapt to new scenarios it has never seen before as well as switch smoothly
-among several tasks. STAN is a novel APL contribution, and one that's truly necessary to advance the state of the
-art in the space of AI decision-making," Winder said.
-
-A History of Pushing the Boundaries
-
-VIPR -- and the larger internally funded effort that produced it, known as Beyond Human Reasoning -- is the latest
-in a long line of APL innovations in AI for air combat, going back more than a decade. This history includes serving
-as technical lead and host of the AlphaDogfight Trials, in which AI agents went head-to-head with human F-16
-pilots; building the Colosseum, a virtual environment to support the Air Force Research Laboratory's Golden Horde
-program to create the next generation of autonomous weapons systems; and supporting the Defense Advanced
-Research Projects Agency's Air Combat Evolution program by developing infrastructure and autonomous solutions
-to enable AI agents to control a full-scale fighter jet.
-
-More broadly, APL is engaged in a number of efforts to promote seamless teaming and collaboration with AI-
-enabled systems at every level of the battle -- from individual soldiers to battlefield commanders and decision-
-makers.
-
-This work was made possible in part by APL's Innovation program, and in particular Project Catalyst, an initiative
-that allows staff members to compete for significant funding, sometimes over a period of years, to test critical
-assumptions, investigate phenomena and push the boundaries of our current knowledge.
+(TNSres) -- The U.S. Census Bureau issued the following tip sheet on April 5, 2024:
 
 ***
 
-REPORT: https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf
+Upcoming
+
+2024 Product Calendar
+
+The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
+scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
+updated as needed throughout the year.
+
+2030 Census Preparation
+
+Initial Strategies for 2030 Census Preparations
+
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in April.)
+
+2020 Census
+
+Census Bureau to Release Estimates of State and County Undercounts and Overcounts for Young Children in the
+2020 Census
+
+The U.S. Census Bureau is set to release the Demographic Analysis estimates of state and county net coverage
+error for children ages 0 to 4 in the 2020 Census. This is the first time the Census Bureau is releasing these
+
+                                                                                                      Page 2 of 7
+                               Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+experimental Demographic Analysis estimates designed to help gauge the accuracy of the 2020 Census count of
+the nation's youngest children. (Scheduled for release April 11.)
+
+American Community Survey
+
+2025 American Community Survey (ACS) and Puerto Rico Community Survey (PRCS) Federal Register Notice
+
+The Census Bureau is inviting a final round of public feedback on the proposed content for the 2025 American
+Community Survey (ACS) and Puerto Rico Community Survey (PRCS) through a Federal Register notice (FRN).
+The FRN gives the public 30 days to provide comments. The public may submit comments through [date]. Once
+comments are reviewed, the Census Bureau will submit the final content recommendations to the Office of
+Management and Budget. As explained in a Director's Blog released in February, the proposed 2025 ACS and
+PRCS content does not include any changes to the existing disability questions.
+
+New Report on the Nation's Foreign-Born Population
+
+The U.S. Census Bureau is scheduled to release new data products highlighting select demographic and
+socioeconomic characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report
+compares 2010 and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing
+composition of the foreign-born population in the United States. The Highlights of the Foreign-Born Population data
+visualization displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of
+geography, including national, state and county. (Scheduled for release April 9.)
+
+Demographic
+
+New 2022 Congressional Election Voting Report
+
+The U.S. Census Bureau will release a new report, Voting and Registration in the Election of November 2022,
+based on data from the 2022 Current Population Survey (CPS) Voting and Registration Supplement. The report
+highlights patterns in voter turnout over time among the citizen voting-age population (CVAP) and explores
+demographic groups over- and under-represented in the 2022 congressional elections compared to the CVAP as a
+whole. (Tentatively scheduled for release in April.)
+
+Parental Mortality Brief
+
+The U.S. Census Bureau will be releasing a new research brief on parental mortality based on the 2022 Survey of
+Income and Program Participation (SIPP). This report presents national level statistics for the percentage of people
+who lost a mother or father and how these estimates varied by age and race/ethnicity. (Tentatively scheduled for
+release in April.)
+
+Census Bureau Releases New U.S. Population Estimates by Age and Sex
+
+The U.S. Census Bureau is set to release a downloadable file containing estimates of the nation's resident
+population by sex and single year of age as of July 1, 2023. In the coming months, the Census Bureau will release
+additional population estimates for cities as well as population estimates by age, sex, race and Hispanic origin for
+the nation, states, metropolitan and micropolitan statistical areas, and counties. (Scheduled for release April 11.)
+
+Household Pulse Survey
+
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
+with data dissemination, including detailed data tables and public-use files, on a monthly basis. (Scheduled for
+release April 18.)
+
+                                                                                                      Page 3 of 7
+                               Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+Economic
+
+2022 Annual Capital Expenditures for Robotic Equipment
+
+The Census Bureau will release new Annual Capital Expenditures Survey (ACES) estimates. ACES estimates by
+business type add details to national-level estimates of investment in machinery and equipment. The estimates
+reflect data defined by 2017 North American Industry Classification System (NAICS) industries in which the robotic
+investment was made. (Scheduled for release April 10.)
+
+2024 American Association of Geographers (AAG) Annual Meeting
+
+Researchers from the U.S. Census Bureau will participate in the 2024 American Association of Geographers (AAG)
+Annual Meeting beginning April 16. The AAG is a scientific and educational society founded in 1904 to contribute to
+the advancement of geography. The annual meeting features presentations by geographers and those in related
+professions on theory, methods and practice of the discipline.
+
+"Mom and Pop Shops Lead Job Recovery from Economic Downturn after Covid-19"
+
+The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership, in collaboration with the Council
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute, welcomes Bryce
+Hill as he presents, "Mom and Pop Shops Lead Job Recovery from Economic Downturn after COVID-19." The
+Census Bureau's Quarterly Workforce Indicators (QWI) dataset indicates small businesses with fewer than 50
+employees created the majority of new jobs in the state of Illinois. Despite obstacles from the pandemic and
+government policies, Hill shares insights on how small businesses thrived in new jobs, employment and payroll.
+(Scheduled for release April 17.)
+
+Using Census Data: A Case Study & Data Tools Walk Through
+
+Join us for the Exploring Census Data webinar series on Using Census Data: A Case Study & Data Tools Walk
+Through. In this session, Census Bureau subject matter experts will dive into different ways to use and access
+Census data through case studies with real-world applications including examples of how Census data is used to
+make business decisions. The session includes a live demonstration on how to find key data and will offer
+resources connected to the statistics. There will be an opportunity to engage with our experts through live chat and
+the Q&A segment of the webinar. This webinar is part 1 of 6 in a series to help data users discover Census data
+related to people, places and the economy. (Scheduled for release April 18.)
+
+Census Business Builder Version 5.5
+
+The U.S. Census Bureau will release version 5.5 of the Census Business Builder (CBB) tool. This update will
+introduce a new supply chain view in the CBB dashboard, which will allow users to report on the economic impact
+of FEMA declared disasters areas by NAICS code at Ports of Entry to the U.S. Version 5.5 will also include a
+cartographic representation of supply chain data, as well as enhancements to reports and the latest data available.
+More information on Census Business Builder is available online. (Scheduled for release in April 19.)
+
+Census Bureau to Release Public Use File Microdata on Nation's Vehicle Inventory and Use
+
+The U.S. Census Bureau is scheduled release the Vehicle Inventory and Use Survey (VIUS) 2021 Public Use File
+on the Microdata Access Tool (MDAT) website. The VIUS is a joint partnership with the U.S. Department of
+Transportation, Bureau of Transportation Statistics and Federal Highway Administration; the U.S. Department of
+Energy; and the U.S. Census Bureau. (Scheduled for release April 23.)
+
+Annual Survey of School System Finances
+
+The U.S. Census Bureau will release new 2022 Annual Survey of School System Finances tables. The tables will
+provide new data on current spending per pupil as well as data on revenues, expenditures, debt and assets for
+
+                                                                                                        Page 4 of 7
+                               Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+public elementary-secondary education (pre-K through 12th grade) in all 50 states and the District of Columbia.
+(Scheduled for release April 25.)
+
+2022 Individual State Descriptions report
+
+The Census Bureau will release the 2022 Individual State Descriptions (ISD) report. The report summarizes legal
+organization of U.S. state and local governments for each state and the District of Columbia. Descriptions cover
+local government types according to the U.S. Census Bureau's classification structure, which are County,
+Municipal, Township, School District, and Special District governments.
+
+Related products include 2022 Census of Governments - Organization data (released in 2023) which provide official
+counts of in-scope U.S. governments by type, state, population-size groups, function, and school systems.
+(Scheduled for release April 30.)
+
+Business Trends and Outlook Survey
+
+The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
+experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+released on March 28, 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
+
+Monthly Business Formation Statistics
+
+Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
+business formations monthly. The data are available at the state, regional and national levels and by industry sector
+at the national level. The next monthly BFS will be released April 11 and will include March 2024 data. Business
+Formation Statistics - Release Schedule (census.gov).
+
+________________________________________
+
+Recently Released
+
+(Released since March 22, 2024)
+
+Census Bureau Statement on Updated Race and Ethnicity Standards -- March 28
+
+The U.S. Office of Management and Budget (OMB) published the results of their Statistical Policy Directive No. 15
+(SPD 15) review and issued updated standards for maintaining, collecting and presenting race and ethnicity data.
+Spanish
+
+Puerto Rico Enhancements to the Address Geocoding Tool -- March 25
+
+The U.S. Census Bureau released an upgraded Census Geocoder web application that allows users to include an
+urbanizacion when inputting an address. This will help geocoding of addresses in Puerto Rico that reference the
+urbanizaciones. This upgrade to functionality for Puerto Rico will enhance the user experience and increase
+geocoding rates in Puerto Rico. The Census Geocoder is an address lookup tool that allows businesses,
+governments and other data users the ability to match addresses to geographic locations and entities with those
+addresses efficiently and accurately. Initially released in 2013, this latest update continues to provide users with an
+intuitive, efficient and accurate application for geocoding addresses and location coordinates. Users may access
+the Census Geocoder at https://geocoding.geo.census.gov/.
+
+                                                                                                     Page 5 of 7
+                              Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+Demographic
+
+New 2020 Census Brief on Households and Families -- March 25
+
+The U.S. Census Bureau released a Households and Families: 2020 brief that provides relationship to the
+householder and household type data from the 2020 Census. The brief combines information from four previously
+released America Counts stories: Share of U.S. Coupled Households Declined in 2020; Married Couple
+Households Made Up Most of Family Households; Home Alone: More Than A Quarter of All Households Have One
+Person; and Several Generations Under One Roof. Data in the brief come from the 2020 Census Demographic and
+Housing Characteristics File.
+
+Economic
+
+Census Bureau Releases BTOS Data With Artificial Intelligence Survey -- March 28
+
+The U.S. Census Bureau released data from the Business Trends and Outlook Survey (BTOS) and a new
+supplement measuring artificial intelligence (AI). The BTOS measures business conditions and projections on an
+ongoing basis. The supplemental questions are designed to provide insight into how widespread AI use is by
+businesses, the specific types of AI that businesses are using, how that use is impacting their employment, and
+how AI is changing the organization of their business. Businesses were asked about both current and future use of
+AI. Content from the AI supplement is only available in this cycle. In addition, the Census Bureau today also
+released new research on this topic.
+
+Commodity Flow Survey Expanded Hazardous Materials Supplement -- April 5
+
+The U.S. Census Bureau released a new experimental data product, the Commodity Flow Survey Expanded
+Hazardous Materials (EHM) Supplement. The EHM is a supplemental set of questions about the packaging of
+hazardous materials that were added to the first and fourth quarters of the 2022 Commodity Flow Survey (CFS).
+Data were collected for the Pipeline and Hazardous Materials Safety Administration (PHMSA). The EHM includes
+annual data for 2021 and 2022.
+
+Facts for Features
+
+Asian-American and Pacific Islander Heritage Month: May 2024 -- March 26
+
+This month-long observance of Asian-Americans and Pacific Islanders started more than 25 years ago. We
+celebrate their growing contributions to our nation with a host of demographic and economic statistical information
+about the Asian and Native Hawaiian and Other Pacific Islander populations.
+
+Women's History Month: March 2024 -- March 6
+
+The roots of National Women's History Month go back to March 8, 1857, when women from various New York City
+factories staged a protest over poor working conditions. The first Women's Day celebration in the United States was
+in 1909, also in New York City, but Congress did not establish National Women's History Week until 1981 to be
+commemorated annually the second week of March. In 1987, Congress expanded the week to a month.
+
+Irish-American Heritage Month (March) and St. Patrick's Day (March 17) -- February 27
+
+You may not find a pot of gold at the end of this edition of Facts for Features, but you will find it useful and
+informative. It is filled with statistical information from the Census Bureau's demographic and economic subject
+areas on the nation's Irish-American population and other facets of this celebration of all things Irish.
+
+America Counts: Stories Behind the Numbers
+
+                                                                                                        Page 6 of 7
+                               Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
+such as families, housing, employment, business, education, the economy, emergency preparedness and the
+population. New stories include:
+
+* How Parents Coped with the Infant Formula Shortage (April 2)
+
+* Batter Up! America's Pastime Is Back (March 28)
+
+* The Share of Coupled Households in Your County and the Nation (March 26)
+
+* College Hoops Craze Captivates the Nation (March 22)
+
+Blogs
+
+Global Reach Blog: A Guide to Report Exporting Gold -- Written by Sabah Raheem, Survey Statistician,
+International Trade Indicator Micro Analysis Branch, U.S. Census Bureau -- April 2
+
+Data is essential in estimating the U.S. GDP, but what happens when it is corrupted or manipulated? The
+consequences could be disastrous, especially for something as valuable and influential as gold. Did you know that
+misclassifying gold can lead to an error in the Automated Export System (AES)? So, what's the right way to classify
+gold? The short answer: by its weight, shape, and purity level. In this blog, I will explain the existing primary gold
+classifications and common mistakes that exporters make when classifying gold.
+
+Resources
+
+Emergency Management/Disaster Resources -- When major disasters strike, visit our Emergency Management
+webpage for demographic and economic data on impacted areas. Each disaster will include data from our key
+emergency management tools: OnTheMap for Emergency Management, Community Resilience Estimates, Census
+Business Builder: Regional Analyst Edition, and other useful resources.
+
+Learn What Surveys Are Being Conducted in Your Community -- Discover which of the U.S. Census Bureau's 130-
+plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving from
+the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
+
+* Atlanta
+
+* Chicago
+
+* Denver
+
+* Los Angeles
+
+* New York
+
+* Philadelphia
+
+* All Surveys
+
+Data Tools
+
+Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage.
+
+EDA (Economic Development Administration)-Census Poverty Status Viewer -- This interactive tool measures high
+poverty areas and persistent poverty counties using data from the American Community Survey, SAIPE, and
+decennial census.
+
+                                                                                                      Page 7 of 7
+                               Census Bureau Issues Tip Sheet No. 7 - April 5, 2024
+
+International Database (IDB) -- Find demographic indicators, population pyramids, and source information for
+countries and areas of the world with a population of 5,000 or more.
+
+My Congressional District -- Access selected statistics about your Congressional district collected through the
+American Community Survey (ACS) and County Business Patterns (CBP).
+
+Training Opportunities
+
+Census Bureau Training Opportunities -- Webinars are available on a regular basis to help the public access and
+use Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level. Descriptions of upcoming sessions are available on our Census Academy webpage. Login details are
+provided at least one week before a webinar.
+
+* Credit Insurance as a Risk Mitigation Tool for International Trade (Wednesday, April 10, 3-4 p.m. EDT)
+
+* What are Public Use Microdata Areas (PUMAs)? (Thursday, April 11, 2-3 p.m. EDT)
+
+* Mom and Pop Shops Lead Job Recovery from Economic Downturn after Covid (Wednesday, April 17, 1:30-2:30
+p.m. EDT)
+
+* Using Census Data: A Case Study & Data Tools Walk Through (Thursday, April 18, 2-3 p.m. EDT)
+
+* Using CBP Non-Employer Statistics (NES) to Evaluate Change (Thursday, April 25, 2-3 p.m. EDT)
+
+* Using Census Data: A Case Study & Data Tools Walk Through (Thursday, April 18, 2-3 p.m. EDT)
+
+* Estimados y Proyecciones de la Poblacion de Puerto Rico (Tuesday, April 30, 11:30-12:30 p.m. EDT)
+
+Archived Training Resources -- Visit the Census Bureau's Educational Resource Library for previously recorded,
+free training available at your convenience. The library includes presentations, recorded webinars, tutorials and
+other helpful materials.
 
 ***
 
-Original text here: https://www.jhuapl.edu/news/news-releases/240618-ai-copilot-future-air-combat
-
-[Category: Science]
+Original text here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-07.html
 
 Copyright Targeted News Services
 
-MSTRUCK-8682720 MSTRUCK
+T40-MgEditor-8562907 T40-MgEditor
 
 
-Load-Date: June 19, 2024
-
-                                                                       Page 4 of 4
-                  AI Copilots Set to Engage the Future of Air Combat
+Load-Date: April 6, 2024
 
 
-
+  

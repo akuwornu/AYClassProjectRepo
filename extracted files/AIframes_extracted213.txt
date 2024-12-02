@@ -1,429 +1,158 @@
 
 
-                                                                             Page 1 of 8
-    SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                   SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
+                                                                                                   Page 1 of 3
+   Looq AI Launches AI -Enabled Digital Twin Platform at Distributech 2024; Secures $2.6M from Top VCs Novel
+                           Technology Enables True Asset Intelligence of Critical....
 
 
 
 
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR
-     2025 COMMERCE, JUSTICE, SCIENCE AND RELATED AGENCIES
-                      APPROPRIATIONS BILL
-                                               States News Service
-                                              July 25, 2024 Thursday
+   Looq AI Launches AI-Enabled Digital Twin Platform at Distributech 2024;
+     Secures $2.6M from Top VCs; Novel Technology Enables True Asset
+            Intelligence of Critical Utilities Infrastructure at Scale
+                                                     Business Wire
+                                      February 27, 2024 Tuesday 5:40 PM GMT
 
 
 
-Copyright 2024 States News Service
+Copyright 2024 Business Wire, Inc.
 
-Length: 2321 words
-Byline: States News Service
-Dateline: WASHINGTON
+Length: 1231 words
+Dateline: SAN FRANCISCO & SAN DIEGO & ORLANDO, Fla.
 
 Body
 
 
-The following information was released by New Hampshire Senator Jeanne Shaheen:
-
-**Shaheen secured more than $24 million for critical projects across New Hampshire**
-
-(Washington, DC) U.S. Senator Jeanne Shaheen, Chair of the U.S. Senate Commerce, Justice, Science and
-Related Agencies (CJS) Subcommittee and a senior member of the U.S. Senate Appropriations Committee,
-participated in a full committee markup of the Fiscal Year (FY) 2025 CJS Appropriations bill. In a 26-3 vote, the
-Committee approved the bipartisan legislation, which would provide $73.7 billion in discretionary funding, including
-more than $24 million for critical projects across the Granite State, helping invest in a wide range of programs
-benefitting New Hampshire and the country.
-
-"As Chair of the Commerce, Justice, Science and Related Agencies Subcommittee, I'm proud to deliver this
-bipartisan bill to invest in many of our top priorities to keep our communities safe, fuel a healthy economy, advance
-America's leadership in science and innovation and much more," said Senator Shaheen. "The resources we
-secured will help support survivors of sexual assault and domestic violence, combat sextortion for our youth,
-counter the opioid epidemic, build the workforce of tomorrow by investing in good jobs today, strengthen our global
-leadership in space exploration and innovation, take on Big Tech and ensure a resilient climate by bolstering
-research and conservation efforts. The CJS Subcommittee covers a lot of ground and I'm proud to have shaped this
-legislation in a way that benefits the Granite State and all of America."
-
-Summary of Shaheen priorities included in the Commerce, Justice, Science and Related Agencies Appropriations
-Act for Fiscal Year 2025:
-
-Secures Vital Funding for Economic Development, Trade and Manufacturing
-
-Senator Shaheen secured $100 million for Economic Development Administration's (EDA) Tech Hubs Program, a
-$59 million increase above the FY 2024 enacted level, to support additional Tech Hubs implementation grants like
-
-                                                                            Page 2 of 8
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                  SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
-
-the one Shaheen helped advocate for that went to ReGen Valley Tech Hub earlier this year. Shaheen also helped
-secure $25 million for EDA's Good Jobs Challenge, which invests in workforce development to accelerate local
-economic growth and rebuild regional economies to be resilient to future challenges, while providing job
-opportunities to American workers.
-
-Shaheen also secured continued funding for EDA's partnership with the Northern Border Regional Commission and
-its Assistance for Biomass Closure Communities programprograms that are particularly impactful in the North
-Country.
-
-The Committee-approved FY 2025 CJS Appropriations bill includes $206 million for the Bureau of Industry and
-Security, a $15 million increase above the FY 2024 enacted level and the highest funding level ever for the agency,
-which will support local businesses in understanding export requirements and prevent sensitive exports from falling
-into the wrong hands. The bill also includes $648 million for the International Trade Administration (ITA), a $25
-million increase above the FY 2024 enacted level, including Senator Shaheen's language directing ITA to fill client-
-facing vacancies at the agency so small- and medium-sized businesses can take advantage of the agency's export
-promotion assistance.
-
-The Senator also included $175 million for National Institute of Standards and Technology's Manufacturing
-Extension Program to encourage manufacturing growth and identify opportunities that accelerate local economies
-and fuel global competitiveness, as well as language directing the Department of Commerce to work with
-institutions of higher learning and underrepresented groups to expand workforce development for work in
-semiconductor manufacturing. Shaheen also secured $47.7 million for NIST's new U.S. Artificial Intelligence (AI)
-Safety Institute, which will develop standards, tools and tests to help ensure AI systems operate safely.
-
-The Committee-passed legislation includes resources to advance cutting-edge research and invest in American
-competitiveness, including $50 million for the National Institute of Standards and Technology's Manufacturing USA
-Program, a $13 million increase above the FY 2024 enacted level. The legislation also includes language directing
-NIST to study the feasibility of a Manufacturing Institute focused on the manufacturing of goods beyond Earth's
-atmosphere.
-
-Strengthens America's Leadership in Space Exploration and Innovation
+Looq AI announced the launch of its groundbreaking AI-enabled digital twin technology, the Looq platform, a one-
+stop solution for surveyors, engineers, contractors, and asset owners to digitally map the physical world
+infrastructure in minutes, with survey-grade accuracy, enabling them to build and uphold a safer, more sustainable,
+and electrified future. Powered by a novel and fundamental computer vision and AI technology, the Looq platform
+now enables the frequent, and large-scale digitization of critical infrastructure for true asset intelligence. Established
+in 2021, Looq AI is a hardware enabled AI company dedicated to advancing critical infrastructure digitization and
+diagnosis. Looq's founders and scientists have developed a new camera AI technology that makes survey-grade
+3D capture cost-effective at scale with AI-enabled workflows, simplifying the process of generating geometrically
+precise, geo-referenced, and intelligent digital twins.
+
+This      press      release     features   multimedia.                View       the       full      release       here:
+https://www.businesswire.com/news/home/20240227335776/en/
+
+Distribution pole capture with the Looq Q camera, the imaging component of the Looq platform. High data quality
+ensures that a single Looq survey can serve to update asset management databases, to complete complex
+engineering tasks such as pole-load analysis and phase tracing, and to create a trustworthy, survey-certifiable,
+record for as-built. Image courtesy of Looq AI.
+
+The utility sector faces unprecedented pressure to maintain, expand and improve the electric grid. Across
+inspection of existing assets, the development of new structures, and the repair of disaster struck areas,
+organizations have an urgent need for timely and accurate information to power key decision making and
+operations. These design, construction, and operation efforts constitute large and complex projects requiring careful
+multi-agency planning to ensure safe, timely, and budget friendly execution. A single mistake can lead to hazardous
+conditions and cost millions of dollars.
 
-To strengthen America's continued leadership in space, Shaheen helped secure $7.65 billion for NASA Exploration,
-$30 million more than the President's budget request, to keep making progress on the Artemis missions, and $812
-million within NASA Science for heliophysics research, a $7 million increase above the FY 2024 enacted level and
-$25 million above the President's budget request. This amount includes $39 million for the HelioSwarm mission led
-by University of New Hampshire. The Committee-passed bill includes $5 million for NASA's innovative nanomaterial
-research and $2.369 billion for Earth Science including full funding for UNH's Geosynchronous Littoral Imaging and
-Monitoring Radiometer (GLIMR) instrument.
+To resolve these challenges, organizations need intelligent, collaborative, and accurate digital twins; however, the
+broad adoption of digital twins and the ecosystem supporting them has been hampered by the high cost, and the
+time and resource burden needed to capture large-scale datasets on a time-frequency needed for effective decision
 
-Keeps Americans Safe and Secure, Protects Survivors of Sexual Assault and Domestic Violence
+                                                                                                  Page 2 of 3
+  Looq AI Launches AI -Enabled Digital Twin Platform at Distributech 2024; Secures $2.6M from Top VCs Novel
+                          Technology Enables True Asset Intelligence of Critical....
 
-Shaheen secured multiple provisions that build on her work protecting survivors of sexual assault, domestic
-violence and online crimes.
+making. "We have developed a fundamentally different way of creating these accurate digital twins leveraging
+cameras instead of lasers," said Dominique Meyer, PhD., CEO at Looq AI. "Our cameras offer over 100x higher
+spatial sampling rates compared to top-of-the-line laser systems, enabling our customers to capture the data they
+need within minutes, and at a scale that they previously could not do."
 
-Namely, Senator Shaheen secured $739.5 million, the highest funding level ever, for grants authorized by the
-Violence Against Women Act (VAWA). This includes $10 million for continued implementation of her Sexual Assault
-Survivors' Bill of Rights grant program, $56 million for legal assistance for victims, $54 million for transitional
-housing assistance and $750,000 for a National Institute of Justice study on online crimes against children. She
-also secured critical language to protect veterans' benefits, encourage the Department of Justice (DOJ) to continue
-investigating sextortion and updated language regarding implementation of her Sexual Assault Survivors' Bill of
-Rights legislation.
+"The use of this technology is a game-changer for us. It gives us the opportunity to capture a large amount of
+survey-grade data without drones or hours and hours of boots-on-the-ground labor," said Amanda Jones, PLS,
+Owner at AJS.
 
-                                                                            Page 3 of 8
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                  SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
+The Looq platform is a deep technology stack assembling an end-to-end solution for digitizing the built world.
+Looq's proprietary "Q" camera system allows data to be captured in the field within minutes, which gets processed
+with Looq's AI based image-to-model software in the cloud to create geo-referenced 3D digital twins and
+topographic maps with survey-grade accuracy and AI semantic information.
 
-The bill releases $1.9 billion from the Crime Victims Fund (CVF), providing $400 million above the President's
-budget request and restoring grants to FY 2023 enacted levels. The CVF provides critical support through direct
-assistance and programs offered by victim service providers to survivors of domestic violence, sexual assault, child
-abuse, human trafficking and other violent crimes.
+"I haven't been this excited about a new 3D capture technology in a long time," said Kevin Grover, Advanced
+Technology Leader, McElhanney Ltd. "The speed and quality of the survey data from Looq is paramount to other
+3D technology on the market today. Looq is going to be disrupting the industry, and we are excited to be an early
+partner of theirs at McElhanney in Canada."
 
-The bill provides necessary funding for our federal law enforcement personnel to keep Americans safe and
-supports state and local law enforcement with new resources to hire over 2,000 more officers nationwide. The bill
-funds Byrne-Justice Assistance Grants (JAG) programthe core of federal funding for state and local law
-enforcementat $720 million. Byrne-JAG core funding to states and territories is $473 million, which is $127 million
-more than the FY 2024 enacted level.
+Using the Looq platform, project teams can now interact with the digital twin models and AI generated information
+to complete a multitude of engineering, surveying, analysis, and coordination tasks. This gives them bottom-line
+operational savings and importantly, makes it feasible to get access to the complete information needed for critical
+decision making.
 
-The bill also provides critical funding for DOJ's Office of Juvenile Justice and Delinquency Prevention (OJJDP) to
-support America's youth. OJJDP is funded at $407 million, which is $32 million more than the FY 2024 enacted
-level. The bill includes increases for vital programs, including youth mentoring grants ($107 million), Victims of Child
-Abuse Act grants ($45 million) and Missing and Exploited Children Program grants ($107 million).
+"The Looq platform has become an indispensable engineering tool in our fielding tool kit. Their unique hardware
+and groundbreaking back-end processing has enabled our design teams to capture highly detailed and accurate
+field conditions in the absence of existing survey data," said Blake Darling, PE, PMP, Director of Engineering
+Underground Programs, Aquawolf. "During all phases of design, the platform has enabled us to fill holes in our
+existing survey basemaps quickly and reliably with rich data which keeps design moving forward while we wait for
+traditional land survey. Looq has been a key component of helping Aquawolf maintain its reputation for agility and
+high-quality engineering and design in the underground utility industry."
 
-The bill works to combat the opioid crisis impacting communities across the Granite State and the country with $610
-million in dedicated grant funding to be used in response to the substance use disorder crisis. Of this, $445 million
-is for Comprehensive Addiction and Recovery Act grants, which fund specialized court docket programs like drug,
-mental health and veteran treatment courts and substance use treatment programs administered by state and local
-correctional facilities. The bill also funds the Community Oriented Policing Services anti-heroin task force program
-at $36 million, an increase of $1 million compared to the FY 2024 enacted level.
+Fundraise
 
-To ensure communities can thrive for generations to come, the bill includes report language directing National
-Institute of Standards and Technology to report on the benefits to housing affordability that can be achieved through
-more resilient construction methods that protect homes and residents from natural disasters.
+Looq AI has successfully secured $2.6M in a preferred series seed funding led by BootstrapLabs, a venture capital
+firm focused on applied artificial intelligence, and with the participation of Longley Capital and Spatial Capital. In
+conjunction with its initial pre-seed round, Looq AI has raised a total of $3.75M to date.
 
-Promotes Competition and Enforces Antitrust Laws
+"We are grateful to be backed by some of the world's most forward-looking investors in the applied AI space,
+exactly where Looq is focused," said Meyer. "The addition of BootstrapLabs, Longley Capital and Spatial Capital, to
+our investor base will accelerate Looq AI to the next stage of growth."
 
-Senator Shaheen worked to ensure the bill promotes economic freedom and opportunity by guaranteeing at least
-$288 million in funding for DOJ's Antitrust Divisiona record level that is $55 million above the FY 2024 enacted
-level. The bill also includes language allowing the Antitrust Division to retain and use all of the pre-merger filing
-notification fees it collects in FY 2025, even if those collections exceed the $288 million appropriation for the
-agency.
+"Looq's product is remarkable, as it not only combines the latest advances in hardware, AI, and computing
+technologies, but it also accelerates the very digitalization of our world, generating troves of unique data upon which
+the company will build its AI moat," said Benjamin Levy, Co-Founder and General Partner of BootstrapLabs.
 
-Bolsters Support for Ocean Research and Conservation Efforts
+Image: Looq AI-Capture-Pole.JPG
 
-Senator Shaheen secured many key resources to invest in the National Oceanic and Atmospheric Administration
-(NOAA) and other initiatives to support our fisheries, ocean research and conservation efforts. Specifically, the
-Committee-passed legislation includes:
+Caption: Distribution pole capture with the Looq Q camera, the imaging component of the Looq platform. High data
+quality ensures that a single Looq survey can serve to update asset management databases, to complete complex
+engineering tasks such as pole-load analysis and phase tracing, and to create a trustworthy, survey-certifiable,
+record for as-built. Image courtesy of Looq AI .
 
-$10 million for the NOAA Center of Excellence for Operational Ocean and Great Lakes Mapping that builds on
-NOAA and UNH's existing partnership through the Joint Hydrographic Center/Center for Coastal and Ocean
-Mapping to support and grow the Nation's deep water, shallow water and coastal mapping capabilities and data
-holdings, in partnership with industry.
+About Looq AI
 
-$2 million increase and report language to ensure Northeast fisheries observer coverage (for a total of $13.5
-million) along with language to encourage the adoption of electronic monitoring.
+                                                                                                  Page 3 of 3
+  Looq AI Launches AI -Enabled Digital Twin Platform at Distributech 2024; Secures $2.6M from Top VCs Novel
+                          Technology Enables True Asset Intelligence of Critical....
 
-$1.5 million for new workforce training and research partnership between NOAA National Weather Service and the
-Mount Washington Observatory.
+Established in 2021, Looq AI is a survey technology platform company dedicated to advancing critical infrastructure
+digitization and analysis. The Looq platform enables the rapid and scalable 3D capture of survey-grade information
+across engineering and utility projects for decision making and operational efficiency. For more information, visit
+www.looq.ai .
 
-$5 million for the second year of a NOAA aquaculture cooperative institute.
+About BootstrapLabs
 
-$700,000 increase for the National Estuarine Research Reserve System (which supports Great Bay).
+Established in 2008, BootstrapLabs is a leading AI-focused Venture Capital firm based in San Francisco.
+BootstrapLabs was among the first U.S. venture capital firms to invest exclusively in AI-first startups 8+ years ago
+and has since made over 70 investments in 30+ portfolio companies solving some of the most valuable problems in
+verticals such as the Future of Work, Mobility, Health, Digital Infrastructure, Financial Infrastructure, Climate &
+Energy, and National Security, among others. For more information, visit www.bootstraplabs.com .
 
-                                                                            Page 4 of 8
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                  SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
+If you would like more information about this topic, please email prnews@looq.ai
 
-Increased or protected funding for other key NOAA programs, including:
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240227335776/en/
 
-$1 million increase for the Joint Hydrographic Center
 
-$2.5 million for disaster preparedness
+CONTACT: Christine Byrne - Looq AI
++1 888-209-4958
 
-$2.5 million for groundfish research
+prnews@looq.ai
 
-$500,000 to integrate observer data into fishery stock assessments
 
-$82 million for Sea Grant, including:
+http://www.businesswire.com
 
-$1 million for Young Fishermen's Development Act
 
-$2 million for American Lobster research
 
-$1 million for PFAS research in the marine environment
+Graphic
 
-$3 million for a new industry-led survey for New England groundfish to build confidence in NOAA surveys. Also
-includes:
 
-$8 million increase for NOAA surveys and assessments and $4 million for the fisheries survey contingency fund, as
-well as report language to ensure continuation of the Northeast Area Monitoring and Assessment Program trawl
-surveys. The report includes new language directing NOAA to incorporate the findings from cooperative and
-groundfish research into stock assessments.
+Distribution pole capture with the Looq Q camera, the imaging component of the Looq platform. High data quality
+ensures that a single Looq survey can serve to update asset management databases, to complete complex
+engineering tasks such as pole-load analysis and phase tracing, and to create a trustworthy, survey-certifiable,
+record for as-built. Image courtesy of Looq AI.
 
-$50 million for research and conservation efforts to protect the endangered North Atlantic right whale, of which $30
-million will help defray costs paid by the lobster fishing industry to protect right whales and to support State
-research and monitoring of whales.
 
-$224.6 million for NOAA climate research and $34 million for the National Oceans and Coastal Security Fund.
+Load-Date: February 27, 2024
 
-Senator Shaheen also included the following Congressionally Directed Spending projects for New Hampshire,
-totaling more than $24 million.
 
-Recipient
-
-Project
-
-Account
-
-Funding ($)
-
-Children's Law Center of New Hampshire
-
-Children's Law Center of New Hampshire Master of Social Work Funding Project
-
-Byrne
-
-$92,000
-
-City of Concord
-
-Concord Police Department Active Shooter Response Equipment and Training
-
-COPS
-
-$100,000
-
-                                                                            Page 5 of 8
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                  SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
-
-City of Portsmouth
-
-ICACCOPS and NH ICAC Enhanced Capacity Program
-
-COPS
-
-$1,000,000
-
-City of Rochester
-
-Rochester Police Department Virtual Reality Training Project
-
-Byrne
-
-$70,000
-
-Derry Police Department
-
-Derry, Londonderry, Windham Police RMS/CAD System
-
-COPS
-
-$1,750,000
-
-Southeast Land Trust of New Hampshire
-
-Squamscott Fields Salt Marsh Resiliency Project
-
-NOAA ORF
-
-$2,100,000
-
-Grafton County Sheriff's Department
-
-Grafton County Sheriff's Department Computer Forensic Unit
-
-COPS
-
-$90,000
-
-Hampton Police Department
-
-Hampton NH Police Law Enforcement Accountability Program Project
-
-Byrne
-
-$925,000
-
-Hillsborough Police Department
-
-Hillsborough Police Department Public Safety Radio Equipment Project
-
-COPS
-
-$950,000
-
-Manchester Police Department
-
-City of Manchester Radio Replacement Project
-
-                                                                            Page 6 of 8
-   SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                  SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
-
-COPS
-
-$4,000,000
-
-Nashua Police Department
-
-De-escalation Range Simulator
-
-Byrne
-
-$85,000
-
-New Hampshire Coalition Against Domestic and Sexual Violence
-
-Increasing Access to Legal Systems for Victims and Survivors
-
-Byrne
-
-$400,000
-
-New Hampshire Fish and Game Department/Great Bay National Estuarine Research Reserve
-
-Great Bay National Estuarine Research Reserve: Research Facility
-
-NIST Construction
-
-$5,000,000
-
-Newmarket Police Department
-
-Dispatch and Land Mobile Radio (LMR) Upgrade
-
-Byrne
-
-$353,000
-
-Newport Police Department
-
-Newport Police Department Records/Dispatch Software
-
-Byrne
-
-$132,000
-
-NH Dept. of Safety Division of State Police
-
-New Hampshire State Police Special Investigations Unit (SIU) Cybercrime Response Van
-
-COPS
-
-$360,000
-
-Northern Border Dispatch
-
-Northern Border Dispatch Border Security Communication
-
-COPS
-
-$225,000
-
-                                                                               Page 7 of 8
-      SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                     SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
-
-Plaistow Police Department
-
-Plaistow Regional Public Safety Communications Infrastructure Project
-
-COPS
-
-$1,000,000
-
-Seacoast Science Center
-
-Seacoast Science Center Public Presentation of the Principles of Ocean and Climate Literacy
-
-NOAA ORF
-
-$3,500,000
-
-Somersworth Police Department
-
-Somersworth Police Portable Radios
-
-COPS
-
-$123,000
-
-University of New Hampshire
-
-uSafeUS Expansion
-
-Byrne
-
-$840,000
-
-University of New Hampshire
-
-State-of-the-art systems control and automation for land-based aquaculture at UNH
-
-NOAA ORF
-
-$738,000
-
-University of New Hampshire
-
-Building Capacity for PFAS Analysis in NH
-
-NIST STRS
-
-$890,000
-
-TOTAL:
-
-$24.7 million
-
-###
-
-
-Load-Date: July 26, 2024
-
-                                                                          Page 8 of 8
- SHAHEEN HIGHLIGHTS KEY INVESTMENTS SECURED IN FISCAL YEAR 2025 COMMERCE, JUSTICE,
-                SCIENCE AND RELATED AGENCIES APPROPRIATIONS BILL
-
-
-
+  

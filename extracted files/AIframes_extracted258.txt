@@ -1,99 +1,358 @@
 
 
-                                                                                               Page 1 of 2
-  CloudCasa by Catalogic Announces Partnership with IONOS Cloud for Kubernetes Data Protection CloudCasa
-                         delivers enhanced cloud-native data protection, migration....
+                                                                                              Page 1 of 7
+   Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                        Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
 
 
 
 
-  CloudCasa by Catalogic Announces Partnership with IONOS Cloud for
-Kubernetes Data Protection; CloudCasa delivers enhanced cloud-native data
-  protection, migration, and disaster recovery solutions for IONOS Cloud
-                                                         GlobeNewswire
-                                               July 16, 2024 Tuesday 5:00 AM PT
+  Connolly Announces Inclusion of Community Project Funding Requests in
+    House-Passed FY24 Appropriations Package; Rep. Gerald E. "Gerry"
+                      Connolly (D-VA) News Release
+                                           Congressional Documents and Publications
+                                                             March 6, 2024
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 Federal Information and News Dispatch, Inc.
 
-
-
-
-Section: BUSINESS CONTRACTS; COMPANY ANNOUNCEMENT; OTHER NEWS; PARTNERSHIPS; PRESS
-RELEASES
-Length: 603 words
+Section: U.S. HOUSE OF REPRESENTATIVES DOCUMENTS
+Length: 3834 words
 
 Body
 
-Paramus, NJ, July 16, 2024 (GLOBE NEWSWIRE) -- CloudCasa by Catalogic, a leading provider of powerful,
-easy-to-use cloud-native backup, recovery and migration solutions, is excited to announce a strategic partnership
-with IONOS, a leading European digitalization partner for small and medium-sized businesses. This collaboration
-aims to deliver enhanced Kubernetes data protection, migration, and disaster recovery solutions for IONOS Cloud
-platform users, ensuring their cloud-native applications are safeguarded against data loss and cyber threats.
 
-Under this partnership, CloudCasa will integrate its state-of-the-art cloud data protection and migration service with
-the robust and scalable cloud infrastructure of IONOS. The partnership offers users seamless, automated backup,
-recovery, migration and replication for Kubernetes and cloud-native applications, providing an unmatched level of
-security and reliability.
+Today, Congressman Gerry Connolly (D-VA), the Ranking Member of the House Subcommittee on Cybersecurity,
+Information Technology, and Government Innovation, announced that the House adopted fourteen of his
+Community Project Funding (CPF) requests in the first of two FY24 appropriations packages. The funding package
+passed the House 339-85.
 
-"We are thrilled to partner with IONOS," said Ryan Kaw, VP of Sales for CloudCasa by Catalogic. "Our mission is to
-provide comprehensive and intuitive data protection solutions that address the unique needs of cloud-native
-environments. By joining forces with IONOS, we can offer their users unparalleled protection and peace of mind,
-knowing their critical data and applications are secure and recoverable."
+"I am proud to have secured more than $12 million for projects across Fairfax County," said Connolly. "This funding
+will go toward increased support for our most vulnerable neighbors through a new domestic violence shelter in
+Fairfax and modernization of the Capital Area Food Bank in Lorton, road and infrastructure improvements like a
+potential backup drinking water source for the DC region, and important public safety efforts. I look forward to
+seeing these federal dollars put to good use for the betterment of all of us who call Fairfax County home."
 
-This partnership will provide IONOS Cloud users with several key benefits:
-    •     Enhanced Data Protection and Disaster Recovery: Advanced backup and recovery options tailored for
-          Kubernetes environments, ensuring that data is safe from accidental deletion, corruption, and cyber
-          threats.
+The following Community Project Funding requests from Congressman Connolly, totaling $12,308,279, were
+included in the first FY24 appropriations package:
 
-                                                                                               Page 2 of 2
-  CloudCasa by Catalogic Announces Partnership with IONOS Cloud for Kubernetes Data Protection CloudCasa
-                         delivers enhanced cloud-native data protection, migration....
+Social Support:
 
-    •   Scalability and Flexibility: Seamless integration with IONOS Cloud's infrastructure, allowing users to
-        scale their data protection as their business grows.
-    •   Migration/Replication: Reliable data movement solutions that ensure smooth migration and replication
-        processes, enhancing Kubernetes flexibility and continuity.
-    •   Simplified Management: A user-friendly interface that simplifies the management of backup and recovery
-        tasks, reducing the administrative burden on IT teams.
-    •   Cost Efficiency: Cost-effective solutions that optimize storage usage and reduce overall data protection
-        costs.
+Project: Fairfax Family and Domestic Violence Shelter
 
-As organizations continue to migrate to cloud-native environments, the combined expertise of CloudCasa by
-Catalogic and IONOS will provide the required tools to safeguard their data, ensure business continuity, and
-enhance their cybersecurity posture.
+Recipient: Fairfax County Government
 
-For more information about the partnership and how it can benefit your organization, please visit CloudCasa by
-Catalogic and IONOS.
+Amount: $4,116,279
+
+Background: Currently, Fairfax County's family and domestic violence facilities are beyond their useful lives. In the
+case of the domestic violence shelter, the current physical location also presents unique security challenges for the
+residents and staff. Rather than construct entirely new facilities, the Fairfax County Redevelopment and Housing
+Authority (FCRHA) has identified an existing "extended stay" style hotel, which it intends to purchase and convert
+for use as a secure domestic violence shelter and a family shelter. This will entail combining rooms, creating service
+and office space, and other changes to the existing hotel setup. The project will help establish a modern, safe family
+and domestic violence shelter in an easy-to-reach, opportunity-rich area next to a police station that will give
+
+                                                                                             Page 2 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
+
+residents the ability to access transit, services, and employment as they and their families begin to rebuild their
+lives. This request is an important part of the overall project cost, as this project will have a huge impact on the
+approximately 50 families that will use the facility on a daily basis. This project represents an opportunity to deliver
+this essential, brand new facility years earlier than might otherwise be accomplished.
+
+Project: Capital Area Food Bank's Lorton, VA Facility Reconstruction
+
+Recipient: Capital Area Food Bank
+
+Amount: $1,000,000
+
+Background: The Capital Area Food Bank (CAFB) is critical to Northern Virginia's hunger relief infrastructure. The
+food bank's warehouse in Lorton, Virginia is the vital food distribution hub for a network of 165 nonprofit partners
+and 158,000 food insecure individuals. However, the warehouse desperately requires modernization to keep up
+with the demand of the region. Therefore, the food bank is engaging in a reconstruction of the facility. The current
+Lorton facility was built in 1982 by Frito Lay. At just 12,000 square feet, the warehouse was never retrofitted to meet
+the food bank's operational needs following acquisition in 1998, with severely inadequate pallet storage and truck
+bays. There is no volunteer space, and the building is not ADA accessible. Further, to meet the continued
+heightened community need, the food bank is renting a second temporary facility in Virginia. Given these
+inadequacies, the food bank is reconstructing a modernized facility. CAFB is demolishing the current facility in April
+2023, breaking ground in May 2023, and plan for project completion by late summer 2024. A feasibility study
+determined that demolishing and rebuilding on the current plot of land is the most cost-efficient and effective path
+forward as the food bank owns the land and it is within 10 miles of over 75 percent of our partner organizations.
+CAFB has obtained proper permitting for demolition and reconstruction, and operations out of the Lorton facility
+have fully shifted to the secondary, temporary Virginia facility as of April 2022. Service to the community will remain
+fully functional out of this temporary facility until completion of the reconstruction. The new facility will have 42,000
+square feet of warehouse space, in addition to 3,000 square feet of newly dedicated volunteer space. The new
+facility will have nearly eight times the amount of pallet racks (1,700), and four times the amount of truck bays (8)
+than the current facility. The facility will meet LEED Silver designation and ADA accessibility guidelines. This project
+will allow the food bank to deliver 300 percent more food to Northern Virginia partners and clients.
+
+Infrastructure:
+
+Project: Fox Mill Road and Pinecrest Road Intersection Improvements
+
+Recipient: Fairfax County Government
+
+Amount: $850,000
+
+Background: The purpose of this project is to improve traffic operations and pedestrian safety at the intersection of
+Fox Mill Road and Pinecrest Road. The Fox Mill Road and Pinecrest Road intersection is a four-way intersection
+with two-way stops on the Pinecrest Road eastbound and westbound approaches. The intersection currently
+experiences significant delays during peak periods of the day and is approached from the west over a significant
+hill. In addition, there are limited pedestrian facilities. These characteristics have resulted in unsafe conditions and
+many traffic incidents over the past several years. The Virginia Department of Transportation (VDOT) has
+conducted a signal warrant study, which determined that a signal is necessary at the intersection. As a result, a
+temporary traffic signal was installed in 2021. The project also includes pedestrian improvements at the
+intersection, including crosswalks on all four legs and accessible curb ramps. The project will improve safety at the
+intersection of Fox Mill Road and Pinecrest Road, mitigate congestion in the area of Fox Mill Road and Pinecrest
+Road, and improve pedestrian and bicycle facilities in the area, including by providing pedestrian and bicycle
+access to the nearby Reston South Park and Ride Lot.
+
+Project: Silverbrook Road and Lorton Road Intersection
+
+                                                                                             Page 3 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
+
+Recipient: Fairfax County Government
+
+Amount: $850,000
+
+Background: The intersection of Lorton Road with Silverbrook Road/Sanger Street supports significant turning
+volumes to and from the residential communities north of Lorton Road, the I-95 Interchange, and the Richmond
+Highway corridor. The significant turning volumes at Silverbrook Road, paired with the recurring congestion along
+the corridor, has resulted in operational challenges at the intersection. The intersection modifications will improve
+operations of right-turns from westbound Lorton Road onto northbound Silverbrook Road, and the left-turn from
+southbound Silverbrook Road onto eastbound Lorton Road. Lorton Road connects Route 123, I-95, and Richmond
+Highway (Route 1), three regionally significant north-south corridors. This project will help mitigate congestion at
+this intersection and its roadways, improving mobility in this corridor. The high volume of traffic traveling through the
+intersection contributes to an average of seven crashes per year, with nearly half of the crashes resulting from rear
+end collisions. These improvements will help increase safety at this intersection. The project will also include bicycle
+and pedestrian facilities, which will improve mobility and accessibility for those living in, and traveling through, this
+area.
+
+Project: Route 28, Route 29, and Stone Road Trail
+
+Recipient: Fairfax County Government
+
+Amount: $500,000
+
+Background: This project includes the construction of a trail from the I-66 interchange to an existing trail running
+along southbound Route 28, upgrading 800 feet of existing sidewalk to a shared use path (SUP) on the north side
+of westbound Route 29. It will also replace an existing sidewalk along the north side of Route 29. The I-66 corridor
+is an economically important area that is routinely congested. The Commonwealth of Virginia is currently
+undertaking the Transform 66 Outside the Beltway project, which will transform Northern Virginia's Interstate 66 into
+a multimodal corridor that moves more people, provides reliable trips, and offers new travel options. A component
+of this corridor in Fairfax County is this trail, which will provide more than 11 miles of connectivity from Gallows
+Road, Dunn Loring (just outside the Beltway) to Centreville. This project connects to some of the area's major
+regional trails, such as the WandOD Trail via Gallows Road, and provides improved mobility and travel choices.
+The project will enhance pedestrian and bicycle safety, accessibility, and connectivity in the local pedestrian
+network.
+
+Project: Fairfax County Trenchless Sewer Rehabilitation
+
+Recipient: Fairfax County Government
+
+Amount: $850,000
+
+Background: This project will support Fairfax County's trenchless sewer rehabilitation program of publicly owned
+sewer pipes and will allow for an additional 11 miles of aging infrastructure renewal. Fairfax County currently
+rehabilitates on average 20 miles annually out of 3,400 miles of total pipe. This funding will increase the rate at
+which aging sewer pipes can be rehabilitated by an additional 50 percent. Trenchless relining requires no digging
+and is completed for each pipe segment in one day. Trenchless relining reduces infiltration and inflow of water into
+the sewer, and reduces sewage from overflowing into the environment, protecting water quality and public health.
+Many of Fairfax County's sewer pipes were constructed between 1960 to 1990, in 50 miles sections. Many of the
+older sewer lines in the system are reaching the end of their life cycle and either need to be replaced or
+rehabilitated. Additional funding will accelerate the asset renewal rate for aging sanitary sewers. Rehabilitating
+sanitary sewer lines before they fail ensures uninterrupted service to the community and prevents sanitary sewer
+overflows, which would negatively impact the environment. Trenchless rehabilitation technology extends the life of
+assets by 50 years or longer. Lining sewer pipes is much less expensive than excavating and replacing failing
+
+                                                                                             Page 4 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
+
+pipes, and the rehabilitation of the system is achieved with minimal disturbance to the community and surrounding
+environment.
+
+Project: Town of Herndon, Virginia - Widen East Spring Street
+
+Recipient: The Town of Herndon, Virginia
+
+Amount: $1,000,000
+
+Background: This project is located within the Town of Herndon - Fairfax County, Virginia at the Spring
+Street/Herndon Parkway intersection and extends to the town limits at Fairfax County Parkway. The project scope
+is to widen and reconstruct Spring Street from four to six lanes between Herndon Parkway and Fairfax County
+Parkway; channel traffic with raised median, through lanes and dedicated turning lanes between Fairfax County
+Parkway and Herndon Parkway; add turning lanes on approaches to the intersection of Herndon Parkway and
+Spring Street; and include ADA sidewalk improvements and adds 2-way cycle track from WandOD Regional Trail to
+connect to Herndon Metrorail. The project is a multimodal design providing enhanced safety countermeasures,
+active transportation facilities and congestion relief near the town's transit-oriented development zone and the
+Herndon Metro Station. The project responds to significant annual crash data by closing the median along Spring
+Street and will include new traffic signalization and accessible audio pedestrian/bike signal controls. In addition, the
+eastern terminus of this project abuts the Fairfax County Parkway and will address multi-jurisdictional congestion
+concerns. The project will help reduce traffic congestion, facilitate vehicular access to and from the Fairfax County
+Parkway, and increase the efficiency of the intersection of Spring Street and Herndon Parkway.
+
+Project: WandOD Trail and Town of Vienna Initiative
+
+Recipient: Town of Vienna
+
+Amount: $1,000,000
+
+Background: This project is a collaboration with NOVA Parks to revise and improve assets along the WandOD Trail
+(within the Town's boundaries). The Town of Vienna is located at approximately the mid-point of the 45-mile
+WandOD Trail. This trail is one of the most popular rails-to-trails in the nation, with two to three million users per
+year. More specifically, this project would support the acquisition of property to build a welcome center, potentially
+expand the Town Green, and make improvements for the development of a safe dual trail network for bicyclists and
+pedestrians. The visitor center will provide restrooms, bike rentals, and food for trail users; serve as a platform for
+activities and events; and provide information about Vienna, other regional parks and more. The goal of creating a
+WandOD visitor center is part of the NOVA Parks 2023-2027 Strategic Plan. The project goal is to create a vibrant
+destination that supports the Town's economic development goals while providing a safe space for bicyclists and
+pedestrians to use the trail network which goes through the Town's commercial core and connects to other
+jurisdictions and commercial centers in the region.
+
+Project: Washington Region Secondary Water Source Feasibility Study
+
+Recipient: Metropolitan Washington Council of Governments
+
+Amount: $500,000
+
+Background: Pursuant to the Water Resources Development Act of 2022, which was signed into law on December
+23, 2022, this project would fund a feasibility study conducted by the United States Army Corps of Engineers on a
+secondary drinking water source and additional drinking water storage capability for the region. The Potomac River
+is the metropolitan Washington region's primary source for drinking water, the only major metropolitan area of the
+country to have no redundancy built into its water supply. If there were an accidental chemical spill upstream, a
+natural disaster, severe drought, or a deliberate attack on the region's water infrastructure, there is no backup
+source for water storage or supply. A total loss of Potomac River water supply would lead to all of D.C. and
+Arlington losing water within 24 hours and much of Fairfax, VA and suburban Maryland losing water within days.
+
+                                                                                             Page 5 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
+
+The full impact of a water supply shortage is not fully known, but the potential for a humanitarian and economic
+crisis should not be underestimated. Recognizing its critical importance, Congress entrusted provision of water to
+our nation's capital to the U.S. Army Corps of Engineers which owns and operates the Washington Aqueduct. Due
+to the impact to all the numerous federal agencies residing in and around the nation's capital, resiliency of the water
+supply for the region requires action from the federal government in collaboration with the regional water utilities, as
+well as state and local partners, by working together to address this potentially devastating, but avoidable water
+supply challenge.
+
+Public Safety:
+
+Project: Enhancing Safety and Security at Northern Virginia Airports and Associated Metro Stations
+
+Recipient: George Mason University
+
+Amount: $296,000
+
+Background: Through this project George Mason University's Center for Evidence-Based Crime Policy (CEBCP)
+will develop evidence-based prevention measures at Reagan and Dulles airport metro stations to increase safety at
+both those stations and their connected airports. The CEBCP will use its expertise to understand the nature of
+crime and disorder problems at entry points to the airport (like associated Metro stations) and how those points of
+entry can be best secured, while at the same time improving customer satisfaction, confidence, and security when
+using these transportation hubs. The safety of the airports and Metro system is a top priority for residents, visitors,
+customers, and employees of Northern Virginia. This collaboration would contribute to improving crime prevention
+and ridership confidence in the Metro and at the airports. Millions of domestic and international visitors use these
+transportation systems for civic, business, residential, and tourism activities that are central to Northern Virginia's
+communities. It is vital to the economic well-being of Northern Virginia that visitors, employees, and community
+members feel confident, safe, and satisfied when using Dulles International and Reagan National Airports. There
+remains little knowledge and evaluation of combined airport and public transit security measures to mitigate security
+risks at those locations. For these reasons, the Metropolitan Washington Airports Authority Police Department
+(MWAA PD) has entered into a cooperative agreement with the WMATA Metro Transit Police Department (MTPD)
+to apply prevention measures at airport Metro stations to increase safety at both those stations and their connected
+airports. The MWAA PD has asked the CEBCP to help evaluate, assess, and improve these security measures
+using evidence-based approaches and knowledge. The CEBCP's evaluation would provide a critical service to
+Metro riders and customers of Dulles and Reagan National and the Washington Metro system by providing an
+analysis for MWAA PD to understand and assess the impacts of their work on public safety and ridership
+confidence in Northern Virginia. An evidence-based approach can also sharpen the cost-benefits of police activity
+by optimizing resource utilization.
+
+Project: Enhancing Emergency Communications Resiliency and Effectiveness Through AI
+
+Recipient: George Mason University
+
+Amount: $961,000
+
+Background: This project will enable George Mason University to work with local first responders to improve
+emergency communications using artificial intelligence (AI). The potential benefits of this work will include: 1) 9-1-
+1 calls can be directed more effectively using AI-enabled apps, which should both reduce response times and
+lighten the workload on 9-1-1 call centers in ways that can scale and be available 24/7. Moreover, these
+approaches can be used to consolidate the information and categorize it to improve decision support for public
+safety officials and first responders. The calls can be tailored to the 11th District's major languages and anonymized
+as needed. 2) Public feedback can be gathered in near-real time by using these same approaches. This could help
+first responders see what's happening sooner (Like flagging multiple co-located reports of "My street is flooding!")
+and understand public sentiment while the disruption is occurring, rather than waiting for post-event surveys. 3) The
+project will work with local IT personnel and emergency managers to use AI to help them implement comprehensive
+
+                                                                                             Page 6 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
+
+guidance on cyber resiliency like that issued by the National Institute for Standards and Technology (NIST) and
+adapt the guidance to their circumstances. This could reduce the likelihood of IT disruptions in emergencies. The
+project will reduce response times in emergencies by enhancing situational awareness for public safety officials,
+lightening the load on 9-1-1 call center operators, improving stakeholder engagement, and reducing the likelihood of
+IT disruptions during emergencies. The project includes three parts: (1) coordinating available data to support
+decisions better during emergencies and disasters, (2) integrating public feedback in near-real-time, and (3)
+improving cyber resiliency. The project will result in significantly more effective emergency management and public
+safety functions, as well as the increased resiliency of the underlying IT infrastructure.
+
+Project: Night Vision Thermal Enhancement Technology Modernization
+
+Recipient: Fairfax County Government
+
+Amount: $250,000
+
+Background: The Fairfax County Police Department (FCPD) will use this funding to purchase new Night Vision
+Thermal Enhancement technology for the SWAT and Canine Sections of the Office of Special Operations Division
+(SOD). The FCPD SWAT team is the only Tier 1 level tactical team in the Northern Virginia region, as well as the
+only full-time standing unit in Northern Virginia. The Canine Section is made up of 15 pairs who are deployed 24/7
+and serve as field consultants for SOD when needed. This technology will enhance the ability of both the SWAT
+Team and Canine Section to apprehend violent, armed individuals. Utilizing Night Vision Thermal Enhancement
+Technology lessens the likelihood of needing to use force to apprehend a suspect, increasing safety for officers,
+suspects, and the surrounding community while ensuring public safety. It will also enhance safety in the field for
+officers working with large groups through "tagging" technology to locate other team members, providing a safer,
+more efficient response.
+
+Project: Cyber and Forensics Division Equipment Upgrades
+
+Recipient: Fairfax County Government
+
+Amount: $135,000
+
+Background: This project will update and replace equipment used by the Fairfax County Police Department (FCPD)
+in the investigation of crimes. This includes the upgrade of aging forensic equipment, the procurement of advanced
+technology to reduce time spent on the processing of crime scenes, and the replacement of non-functional
+computer equipment in a mobile surveillance vehicle. These items will increase efficiency and accuracy of
+investigations and allow investigators more time to focus on other aspects of a wide range of investigations,
+including opioid trafficking, sexual assaults, human trafficking, and threats of violence in the community.
+Specifically, the funding request is for the following: Advanced scanning technology to allow for increased efficiency
+and accuracy of crime scene documentation. These are laser systems used to make 3D maps of crime scenes.
+These newer handheld units can be deployed into smaller, more cluttered spaces, allowing for better modeling than
+the current tripod models. Replacement of a non-functional mobile surveillance platform, which has been rendered
+unusable due to the failure of the computers in the surveillance van. A replacement on-board server and new
+cameras will revitalize a very valuable tool in the fight against crime, furthering investigations into opioid and
+narcotics trafficking, terrorist plots, and other threats. Upgrades to evidence analysis equipment (fuming chambers).
+The current fuming chambers are still functional but are starting to require costly repairs to remain in service.
+Advances in technology have now made available higher quality, more efficient instruments that could improve
+officers' ability to process latent evidence. Replacement of old fuming chambers should improve both accuracy and
+the quality of analysis on recovered latent evidence. Updating the equipment used to preserve evidence, as the old
+equipment is near its end of life (drying cabinets). Upgrading and improving the drying area/equipment will allow for
+better preservation of biological evidence and latent DNA. This is especially important in investigations of violent
+crimes against persons.
+
+Read this original document at: https://connolly.house.gov/news/documentsingle.aspx?DocumentID=4947
+
+                                                                                             Page 7 of 7
+  Connolly Announces Inclusion of Community Project Funding Requests in House-Passed FY24 Appropriations
+                       Package Rep. Gerald E. "Gerry" Connolly (D- VA ) News Rel....
 
 
-
-###
-
-About CloudCasa by Catalogic
-
-CloudCasa by Catalogic is a leading provider of cloud-native backup, recovery and migration solutions. Designed to
-protect Kubernetes, cloud databases, and cloud-native applications, CloudCasa delivers powerful, easy-to-use data
-protection that ensures business continuity and compliance. Learn more at www.cloudcasa.io
-
-
-
-About IONOS
-
-IONOS is the leading European digitalization partner for small and medium-sized businesses, serving over six
-million customers and has a presence in 18 markets across North America and Europe, with its services being
-accessible worldwide. Its web presence and productivity portfolio caters to all digitalization needs, providing
-domains, web hosting, website builders with AI capabilities, as well as eCommerce and online marketing tools. The
-company also offers cloud solutions for businesses looking to move their operations to the cloud as they expand
-and develop.
-
-
-Joanne Hogue Smart Connections PR for CloudCasa     +1 (410) 658-8246   joanne@smartconnectionspr.com
-
-
-
-Load-Date: July 16, 2024
+Load-Date: March 7, 2024
 
 
   

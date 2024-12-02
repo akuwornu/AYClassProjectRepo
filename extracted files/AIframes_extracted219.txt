@@ -1,991 +1,956 @@
 
 
-                                                                                                     Page 1 of 17
-                          RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+                                                                                                    Page 1 of 17
+    Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                             continues to scale recurring revenue, advancing long....
 
 
 
 
-     RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-                                                        Business Wire
-                                            July 25, 2024 Thursday 10:45 AM GMT
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results;
+Exceeds profitability expectations and continues to scale recurring revenue,
+                        advancing long-term strategy
+                                                    Business Wire
+                                      February 29, 2024 Thursday 9:05 PM GMT
 
 
 
 Copyright 2024 Business Wire, Inc.
 
-Length: 6416 words
-Dateline: MEDINA, Ohio
+Length: 7598 words
+Dateline: HOUSTON
 
 Body
 
-RPM International Inc. (NYSE: RPM), a world leader in specialty coatings, sealants and building materials, today
-reported record financial results for its fiscal 2024 fourth quarter and full year ended May 31, 2024.
 
-"We achieved record adjusted EBIT for the 10th consecutive quarter due to our strategic balance and our ability to
-leverage MAP 2025 operating improvement initiatives to increase profitability," said Frank C. Sullivan, RPM
-chairman and CEO. "Construction Products Group captured growth opportunities with its differentiated turnkey
-roofing offerings and wall systems, while Consumer generated record adjusted EBIT, despite continued DIY
-softness, due to its MAP 2025 initiatives and ability to win market share. Although Performance Coatings Group and
-Specialty Products Group faced headwinds, we still generated positive organic sales growth on a consolidated
-basis."
+Hewlett Packard Enterprise (NYSE: HPE) today announced financial results for the first quarter ended January 31,
+2024.
 
-Sullivan continued, "For the full fiscal year, we achieved record sales, profitability and operating cash flow as a
-result of good execution on factors we could control, including structural margin and working capital improvements.
-Our adjusted EBIT finished in the guidance range we provided 12 months ago as our teams nimbly captured growth
-opportunities in markets that were more challenging than expected and focused on initiatives that resulted in
-improved profitability."
+This      press      release     features   multimedia.              View       the       full     release       here:
+https://www.businesswire.com/news/home/20240229327637/en/
 
-Fourth-Quarter 2024 Consolidated Results
-          Consolidated
-                                                             Three Months Ended
-          $ in 000s except per share data                    May 31,       May 31,
-                                                             2024          2023        $ Change     %
-                                                                                                    Change
-          Net Sales                                          $ 2,008,1     $ 2,016,2   $ (8,0     ) (0. %)
-                                                               63            10          47         4
-          Net Income Attributable to RPM Stockholders          180,61        151,36      29,2       19. %
-                                                               1             0           51         3
-          Diluted Earnings Per Share (EPS)                     1.40          1.18        0.22       18. %
-                                                                                                    6
-          Income Before Income Taxes (IBT)                     239,27        206,63      32,6       15. %
-                                                               8             9           39         8
-          Earnings Before Interest and Taxes (EBIT)            257,97        236,43      21,5       9.1 %
-                                                               3             1           42
+"HPE exceeded our profitability expectations and drove near-record year-over-year growth in our recurring revenue
+in the face of market headwinds, demonstrating the relevance of our strategy," said Antonio Neri, president and
+CEO of Hewlett Packard Enterprise. "Despite a mixed quarter, I remain very confident that our focus on customer-
+centric innovation and our track record of operational discipline will allow us to capitalize on the significant market
+opportunities in AI as well as across edge and hybrid cloud and to deliver value to our shareholders."
 
-                                                                                                                  Page 2 of 17
-                      RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+"HPE drove momentum in annualized revenue run-rate and gross margins in Q1 despite challenges brought by the
+softening of the networking market and GPU deal timing," said Marie Myers, executive vice president and CFO of
+Hewlett Packard Enterprise. "The fundamentals of our business are strong, we are controlling what we can control,
+and we are optimistic about delivering strong shareholder returns over the remainder of the fiscal year."
 
-        Adjusted EBIT(1)                                        285,55           267,78           17,7      6.6     %
-                                                                0                7                63
-        Adjusted Diluted EPS(1)                                 1.56             1.36             0.20      14.     %
-                                                                                                            7
+First Quarter Fiscal 2024 Financial Results
+    •     Revenue: $6.8 billion, down 14% from the prior-year period in actual dollars and in constant currency(1)
+    •     Annualized revenue run-rate ("ARR")(2): $1.4 billion, up 42% from the prior-year period and 41% in
+          constant currency(1)
+    •     Gross margins:
+         •     GAAP of 36.4%, up 240 basis points from the prior-year period and up 160 basis points sequentially
+         •     Non-GAAP(1) of 36.2%, up 200 basis points from the prior-year period and up 140 basis points
+               sequentially
+    •     Diluted net earnings per share ("EPS"):
 
-        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See tables below titled
-        Supplemental Segment Information and Reconciliation of Reported to Adjusted Amounts for details.
+                                                                                                   Page 2 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
 
-Positive organic growth, including slightly positive pricing, was more than offset by foreign currency translation
-headwinds and divestitures, resulting in an overall sales decline. Volume growth was strongest in businesses that
-were positioned to serve high-performance new building projects and renovations. Market share gains also
-contributed to volumes. This was offset by weakness in the disaster restoration business, unfavorable timing of
-project completions, and lower DIY consumer takeaway at retail stores.
+            •    GAAP of $0.29, down 24% from the prior-year period, and down 41% sequentially, above the midpoint
+                 of our guidance range of $0.24 to $0.32
+            •    Non-GAAP(1) of $0.48, down 24% from the prior-year period and down 8% sequentially, at the high
+                 end of our guidance range of $0.42 to $0.50
+    •       Cash flow from operations: $64 million, an increase of $893 million from the prior-year period
+    •       Free cash flow ("FCF")(1)(3): $(482) million, an increase of $844 million from the prior-year period
+    •       Capital returns to shareholders: $172 million in the form of dividends and share repurchases
 
-Geographically, sales increased slightly in North America, while emerging markets generally declined due to foreign
-currency translation headwinds and challenging comparisons. European sales also declined due to foreign currency
-translation headwinds, divestitures and initiatives to focus on higher-margin business.
+First Quarter Fiscal 2024 Segment Results
+    •       Server revenue was $3.4 billion, down 23% from the prior-year period in actual dollars and in constant
+            currency(1), with 11.4% operating profit margin, compared to 15.7% from the prior-year period. The Server
+            business segment combines the previously separately reported Compute and HPC & AI business
+            segments, with adjustments for certain product lines that are now reported in Hybrid Cloud. The merged
+            Server segment more accurately reflects HPE's position in the market as well as recent organizational and
+            leadership changes that were implemented in Q1 FY24.
+    •       Intelligent Edge revenue was $1.2 billion, up 3% from the prior-year period in actual dollars and 2% in
+            constant currency(1), with 29.4% operating profit margin, compared to 19.4% in the prior-year period.
+    •       Hybrid Cloud revenue was $1.2 billion, down 10% from the prior-year period in actual dollars and in
+            constant currency(1), with 3.8% operating profit margin, compared to 5.8% from the prior-year period.
+    •       Financial Services revenue was $873 million, flat from the prior-year period in actual dollars and down 2%
+            in constant currency(1), with 8.5% operating profit margin, compared to 7.2% from the prior-year period.
+            Net portfolio assets of $13.2 billion, up 0.3% from the prior-year period in actual dollars and up 0.7% in
+            constant currency(1). The business delivered return on equity of 15.4%, down 2.4 points from the prior-
+            year period.
 
-Sales included a 0.4% organic increase, a 0.1% decline from divestitures net of acquisitions, and a 0.7% decline
-from foreign currency translation.
+Dividend
 
-Selling, general and administrative expenses increased due to incentives to sell higher-margin products and
-services, investments to accelerate long-term growth, and inflation in compensation and benefits. Several MAP
-2025-enabled initiatives to streamline the selling, general and administrative expense structure were implemented
-during the fourth quarter of fiscal 2024.
+The HPE Board of Directors declared a regular cash dividend of $0.13 per share on the company's common stock,
+payable on April 12, 2024, to stockholders of record as of the close of business on March 15, 2024.
 
-Fiscal 2024 fourth-quarter adjusted EBIT was a record, driven by MAP 2025 initiatives, including the commodity
-cycle recovery, positive mix from shifting toward higher margin products and services, and improved fixed-cost
-leverage at businesses with volume growth. In Europe, although sales declined, a focused strategy to leverage
-MAP 2025 initiatives improved profitability in the region.
+Fiscal 2024 Second Quarter Outlook
 
-Fourth-Quarter 2024 Segment Sales and Earnings
-        Construction Products Group
-                                                        Three Months Ended
-        $ in 000s                                       May 31,         May 31,
-                                                        2024            2023                 $ Change      % Change
-        Net Sales                                       $ 762,174       $ 714,762            $ 47,412      6.6 %
-        Income Before Income Taxes                        131,429         113,291               18,138     16. %
-                                                                                                           0
-        EBIT                                               131,980            113,782           18,198     16. %
-                                                                                                           0
-        Adjusted EBIT(1)                                   138,506            120,962           17,544     14. %
-                                                                                                           5
+HPE estimates revenue to be in the range of $6.6 billion to $7.0 billion. HPE estimates GAAP diluted net EPS to be
+in the range of $0.20 to $0.25 and non-GAAP diluted net EPS(1) to be in the range of $0.36 to $0.41. Fiscal 2024
+second quarter non-GAAP diluted net EPS estimates exclude net after-tax adjustments of approximately $0.16 per
+diluted share, primarily related to stock-based compensation expense and amortization of intangible assets.
 
-        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
-        Supplemental Segment Information for details.
+Fiscal 2024 Outlook
 
-CPG fourth-quarter sales were a record with broad-based strength led by turnkey roofing systems, wall systems
-and products serving infrastructure-related projects, including those that lower the carbon footprint of projects.
-There was strength in both new construction projects and renovations.
+HPE estimates fiscal 2024 revenue growth to be flat to 2%, in constant currency(1)(5), and fiscal 2024 GAAP
+operating profit growth to be in the range of 7% to 11% and non-GAAP operating profit(1)(4) growth to be flat to 2%.
+HPE estimates GAAP diluted net EPS to be in the range of $1.81 and $1.91 and non-GAAP diluted net EPS(1) to
+be in the range of $1.82 and $1.92. Fiscal 2024 non-GAAP diluted net EPS estimates exclude net after-tax
+adjustments of approximately $0.01 per diluted share, primarily related to stock-based compensation expense,
+amortization of intangible assets, transformation costs, acquisition, disposition and other related charges, structural
+tax-rate adjustments, H3C income, and adjustments related to the sale of H3C. HPE estimates free cash
+flow(1)(3)(5) to be at least $1.9 billion.
+        1       A description of HPE's use of non-GAAP financial information is provided below under "Use of non-GAAP
+                financial information and key performance metrics."
 
-Sales included 6.6% organic growth, 0.5% growth from acquisitions, and a 0.5% decline from foreign currency
-translation.
+                                                                                                   Page 3 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
 
-Record fourth-quarter adjusted EBIT was driven by improved fixed-cost leverage from volume growth, MAP 2025
-benefits and favorable mix. Variable compensation increased as a result of improved financial performance.
+     2     Annualized Revenue Run-Rate ("ARR") is a financial metric used to assess the growth of the Consumption
+           Services offerings. ARR represents the annualized revenue of all net HPE GreenLake edge-to-cloud platform
+           services revenue, related financial services revenue (which includes rental income from operating leases and
+           interest income from finance leases), and software-as-a-Service, software consumption revenue, and other
+           as-a-Service offerings, recognized during a quarter and multiplied by four. We use ARR as a performance
+           metric. ARR should be viewed independently of net revenue and is not intended to be combined with it.
 
-                                                                                                                 Page 3 of 17
-                      RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+     3     FCF represents cash flow from operations, less net capital expenditures (investments in property, plant &
+           equipment ("PP&E") less proceeds from the sale of PP&E), and adjusted for the effect of exchange rate
+           fluctuations on cash, cash equivalents, and restricted cash.
 
-        Performance Coatings Group
-                                                    Three Months Ended
-        $ in 000s                                   May 31,       May 31,
-                                                    2024          2023               $ Change         % Change
-        Net Sales                                   $ 365,55      $ 391,64           $ (26,085      ) (6.7  %)
-                                                      5              0
-        Income Before Income Taxes                    46,589         53,417             (6,828      ) (12.       %)
-                                                                                                      8
-        EBIT                                           45,700           52,844          (7,144      ) (13.       %)
+     4     FY24 non-GAAP operating profit excludes costs of approximately $1.0 billion primarily related to stock-based
+           compensation expense, amortization of intangible assets, transformation costs, and acquisition, disposition
+           and other related charges.
+
+     5     Hewlett Packard Enterprise provides certain guidance on a non-GAAP basis. In reliance on the exception
+           provided by Item 10(e)(1)(i)(B) of Regulation S-K, Hewlett Packard Enterprise is unable to provide a
+           reconciliation to the most directly comparable GAAP financial measure without unreasonable efforts, as the
+           Company cannot predict some elements that are included in such directly comparable GAAP financial
+           measure. These elements could have a material impact on the Company's reported GAAP results for the
+           guidance period. Refer to the discussion of non-GAAP financial measures below for more information.
+
+About Hewlett Packard Enterprise
+
+Hewlett Packard Enterprise (NYSE: HPE) is the global edge-to-cloud company that helps organizations accelerate
+outcomes by unlocking value from all of their data, everywhere. Built on decades of reimagining the future and
+innovating to advance the way people live and work, HPE delivers unique, open and intelligent technology solutions
+as a service. With offerings spanning Cloud Services, Server, Intelligent Edge, Software, and Hybrid Cloud, HPE
+provides a consistent experience across all clouds and edges, helping customers develop new business models,
+engage in new ways, and increase operational performance. For more information, visit: www.hpe.com .
+
+Use of non-GAAP financial information and key performance metrics
+
+To supplement Hewlett Packard Enterprise's condensed consolidated financial statement information presented on
+a generally accepted accounting principles ("GAAP") basis, Hewlett Packard Enterprise provides financial
+measures, including revenue on a constant currency basis (including at the business segment level), non-GAAP
+gross profit, non-GAAP gross profit margin, non-GAAP operating profit (non-GAAP earnings from operations), non-
+GAAP operating profit margin (non-GAAP earnings from operations as a percentage of net revenue), non-GAAP
+income tax rate, non-GAAP net earnings, non-GAAP diluted net earnings per share and free cash flow ("FCF").
+Hewlett Packard Enterprise also provides forecasts of revenue growth on a constant currency basis, non-GAAP
+diluted net earnings per share, non-GAAP operating profit growth, and FCF. Reconciliations of each of these non-
+GAAP financial measures to their most directly comparable GAAP measures for this quarter and prior periods are
+included in the tables below or elsewhere in the materials accompanying this news release. In addition an
+explanation of the ways in which Hewlett Packard Enterprise's management uses these non-GAAP measures to
+evaluate its business, the substance behind Hewlett Packard Enterprise's decision to use these non-GAAP
+measures, the material limitations associated with the use of these non-GAAP measures, the manner in which
+Hewlett Packard Enterprise's management compensates for those limitations, and the substantive reasons why
+Hewlett Packard Enterprise's management believes that these non-GAAP measures provide supplemental useful
+information to investors is included further below. This additional non-GAAP financial information is not meant to be
+considered in isolation or as a substitute for revenue, gross profit, gross profit margin, operating profit (earnings
+from operations), operating profit margin (earnings from operations as a percentage of net revenue), net earnings,
+diluted net earnings per share, and cash flow from operations prepared in accordance with GAAP.
+
+In addition to the supplemental non-GAAP financial information, Hewlett Packard Enterprise also presents
+annualized revenue run-rate ("ARR") and as-a-Service ("AAS") orders as performance metrics. ARR is a financial
+
+                                                                                                    Page 4 of 17
+    Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                             continues to scale recurring revenue, advancing long....
+
+metric used to assess the growth of the Consumption Services offerings. ARR represents the annualized revenue
+of all net HPE GreenLake edge-to-cloud platform services revenue, related financial services revenue (which
+includes rental income for operating leases and interest income from finance leases), and software-as-a-service
+("SaaS"), software consumption revenue, and other as-a-service offerings, recognized during a quarter and
+multiplied by four. AAS orders are an overlay across all business segments contributing to HPE's consumption-
+based services (both recurring and non-recurring revenues), and includes hardware, as well as HPE GreenLake as-
+a-Service, Aruba SaaS, storage SaaS, and other software assets. ARR & AAS orders should be viewed
+independently of net revenue and deferred revenue and are not intended to be combined with any of these items.
+
+Forward-looking statements
+
+This press release contains forward-looking statements within the meaning of the safe harbor provisions of the
+Private Securities Litigation Reform Act of 1995. Such statements involve risks, uncertainties, and assumptions. If
+the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of Hewlett Packard
+Enterprise Company and its consolidated subsidiaries ("Hewlett Packard Enterprise") may differ materially from
+those expressed or implied by such forward-looking statements and assumptions. The words "believe", "expect",
+"anticipate", "optimistic", "intend", "guides", "will", "estimates", "may", "could", "should", and similar expressions are
+intended to identify such forward-looking statements. All statements other than statements of historical fact are
+statements that could be deemed forward-looking statements, including but not limited to any anticipated financial
+or operational benefits associated with the recent segment realignment; any projections, estimations, or
+expectations of addressable markets and their sizes, revenue (including annualized revenue run rate), margins,
+expenses (including stock-based compensation expenses), investments, effective tax rates, interest rates,
+investments, net earnings, net earnings per share, cash flows, liquidity and capital resources, inventory, order
+backlog, share repurchases, dividends, currency exchange rates, repayments of debts, amortization of intangible
+assets, or other financial items; any projections or estimations of future orders, including as-a-service orders; any
+statements of the plans, strategies, and objectives of management for future operations, as well as the execution
+and consummation of corporate transactions or contemplated acquisitions (including our proposed acquisition of
+Juniper Networks, Inc.) and dispositions (including disposition of our H3C shares and the receipt of proceeds
+therefrom), research and development expenditures, and any resulting benefit, cost savings, charges, or revenue or
+profitability improvements; any statements concerning the expected development, performance, market share, or
+competitive performance relating to products or services; any statements concerning technological and market
+trends, the pace of technological innovation, and adoption of new technologies, including artificial intelligence and
+other products and services offered by Hewlett Packard Enterprise; any statements regarding current or future
+macroeconomic trends or events and the impact of those trends and events on Hewlett Packard Enterprise and our
+financial performance, including but not limited to demand for our products and services; any statements of
+expectation or belief, including those relating to future guidance and the financial performance of Hewlett Packard
+Enterprise; and any statements of assumptions underlying any of the foregoing.
+
+Risks, uncertainties and assumptions include the need to address the many challenges facing Hewlett Packard
+Enterprise's businesses; the competitive pressures faced by Hewlett Packard Enterprise's businesses; risks
+associated with executing Hewlett Packard Enterprise's strategy; the impact of macroeconomic and geopolitical
+trends and events, including but not limited to supply chain constraints, the use and development of artificial
+intelligence, the inflationary environment, the ongoing conflicts between Russia and Ukraine and in the Middle
+East, and the relationship between China and the U.S.; the need to effectively manage third-party suppliers and
+distribute Hewlett Packard Enterprise's products and services; the protection of Hewlett Packard Enterprise's
+intellectual property assets, including intellectual property licensed from third parties and intellectual property
+shared with its former parent; risks associated with Hewlett Packard Enterprise's international operations (including
+public health crises, such as pandemics or epidemics, and geopolitical events, such as, but not limited to, those
+mentioned above); the development of and transition to new products and services and the enhancement of
+existing products and services to meet customer needs and respond to emerging technological trends (including the
+desirability of a unified hybrid cloud offering); the execution of Hewlett Packard Enterprise's ongoing transformation
+and mix shift of its portfolio of offerings; the execution and performance of contracts by Hewlett Packard Enterprise
+and its suppliers, customers, clients, and partners, including any impact thereon resulting from macroeconomic or
+
+                                                                                                   Page 5 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
+
+geopolitical events, such as, but not limited to, those mentioned above; the prospect of a shutdown of the U.S.
+federal government; the hiring and retention of key employees; the execution, integration, consummation, and other
+risks associated with business combination, disposition, and investment transactions, including but not limited to the
+risks associated with the completion of our proposed acquisition of Juniper Networks, Inc. and our ability to
+integrate and implement our plans, forecasts, and other expectations with respect to the consolidated business; the
+impact of changes to privacy, cybersecurity, environmental, global trade, and other governmental regulations;
+changes in our product, lease, intellectual property, or real estate portfolio; the payment or non-payment of a
+dividend for any period; the efficacy of using non-GAAP, rather than GAAP, financial measures in business
+projections and planning; the judgments required in connection with determining revenue recognition; impact of
+company policies and related compliance; utility of segment realignments; allowances for recovery of receivables
+and warranty obligations; provisions for, and resolution of, pending investigations, claims, and disputes; the impacts
+of tax law changes and related guidance or regulations; and other risks that are described herein, including but not
+limited to the risks described in Hewlett Packard Enterprise's Annual Report on Form 10-K for the fiscal year ended
+October 31, 2023, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and in other filings made by
+Hewlett Packard Enterprise from time to time with the Securities and Exchange Commission.
+
+As in prior periods, the financial information set forth in this press release, including tax-related items, reflects
+estimates based on information available at this time. While Hewlett Packard Enterprise believes these estimates to
+be reasonable, these amounts could differ materially from reported amounts in the filings made by Hewlett Packard
+Enterprise from time to time with the Securities and Exchange Commission. Hewlett Packard Enterprise assumes
+no obligation and does not intend to update these forward-looking statements, except as required by applicable law.
+       HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+       Condensed Consolidated Statements of Earnings
+       (Unaudited)
+
+                                                                      For the three months ended
+                                                                      January          October         January
+                                                                      31, 2024         31, 2023        31, 2023
+                                                                      In millions, except per share amounts
+       Net revenue                                                    $ 6,75           $ 7,35          $ 7,80
+                                                                         5                 1              9
+       Costs and Expenses:
+       Cost of sales                                                    4,29            4,79            5,15
+                                                                        8               2               1
+       Research and development                                         582             578             623
+       Selling, general and administrative                              1,21            1,33            1,25
+                                                                        6               2               7
+       Amortization of intangible assets                                71              72              73
+       Transformation costs                                             20              56              102
+       Disaster (recovery) charges                                      -               (4      )       1
+       Acquisition, disposition and other related charges               43              18              11
+       Total costs and expenses                                         6,23            6,84            7,21
+                                                                        0               4               8
+       Earnings from operations                                         525             507             591
+       Interest and other, net(1)                                       (88     )       (23     )       (26       )
+       Earnings from equity interests                                   46              65              58
+       Earnings before provision for taxes                              483             549             623
+       (Provision) benefit for taxes                                    (96     )       93              (122      )
+       Net earnings                                                   $ 387           $ 642           $ 501
+       Net Earnings Per Share:
+       Basic                                                          $ 0.30          $ 0.50          $ 0.39
+       Diluted                                                        $ 0.29          $ 0.49          $ 0.38
+
+                                                                                                Page 6 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+   Cash dividends declared per share                               $ 0.13               $ 0.12               $ 0.12
+   Weighted-average Shares Used to Compute Net Earnings
+   Per Share:
+   Basic                                                             1,30                 1,29                 1,29
+                                                                     1                    5                    8
+   Diluted                                                           1,31                 1,31                 1,31
+                                                                     6                    5                    5
+
+
+     HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+     Reconciliation of GAAP to Non-GAAP measures
+     (Unaudited)
+
+                                                          For the three months ended
+                                                          January           October                 January 31,
+                                                          31, 2024          31, 2023                2023
+                                                          Dollars in millions
+     GAAP net revenue                                     $ 6,75            $ 7,35                  $ 7,80
+                                                             5                 1                      9
+     GAAP cost of sales                                      4,29              4,79                   5,15
+                                                             8                 2                      1
+     GAAP gross profit                                       2,45              2,55                   2,65
+                                                             7                 9                      8
+     Non-GAAP Adjustments
+     Stock-based compensation expense                       16                9                       16
+     Disaster recovery                                      (25      )        (10         )           -
+     Non-GAAP gross profit                                $ 2,44            $ 2,55                  $ 2,67
+                                                            8                 8                       4
+
+     GAAP gross profit margin                               36.4     %           34.8     %           34.0     %
+     Non-GAAP adjustments                                   (0.2     )           -        %           0.2      %
+                                                                     %
+     Non-GAAP gross profit margin                           36.2     %           34.8     %           34.2     %
+
+
+                                                                         For the three months ended
+                                                                         January          Octobe    January
+                                                                         31, 2024         r 31,     31, 2023
+                                                                                          2023
+                                                                         Dollars in millions
+   GAAP earnings from operations                                         $ 52             $ 5       $ 59
+                                                                            5                0         1
+                                                                                             7
+   Non-GAAP Adjustments
+   Amortization of intangible assets                                        71                  7                 73
+                                                                                                2
+   Transformation costs                                                     20                  5                 10
+                                                                                                6                 2
+   Disaster (recovery) charges                                              (25    )            (     )           1
+                                                                                                1
+                                                                                                4
+   Stock-based compensation expense                                         14                  7                 14
+                                                                            1                   1                 0
+   Acquisition, disposition and other related charges                       43                  1                 11
+                                                                                                8
+   Non-GAAP earnings from operations                                     $ 77                 $ 7             $ 91
+
+                                                                                                Page 7 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+                                                                             5              1              8
+                                                                                            0
+
+   GAAP operating profit margin                                              7.8       %    6       %      7.6   %
+                                                                                            .
+                                                                                            9
+   Non-GAAP adjustments                                                      3.7       %    2       %      4.2   %
+                                                                                            .
+                                                                                            8
+   Non-GAAP operating profit margin                                          11.       %    9       %      11.   %
+                                                                             5              .              8
+                                                                                            7
+
+
+      HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+      Reconciliation of GAAP to Non-GAAP measures
+      (Unaudited)
+
+                                           For the three months ended
+                                           Janua       Dilute       Octob       Dilute     Janua        Dilute
+                                           ry 31,      d net        er 31,      d net      ry 31,       d net
+                                           2024        earni        2023        earni      2023         earni
+                                                       ngs                      ngs                     ngs
+                                                       per                      per                     per
+                                                       share                    share                   share
+                                           Dollars in millions, except per share amounts
+      GAAP net earnings                    $ 3         $ 0          $ 6         $ 0        $ 5          $ 0
+                                              8             .           4          .         0            .
+                                              7             2           2          4         1            3
+                                                            9                      9                      8
+      Non-GAAP Adjustments:
+      Amortization of intangible assets      7           0           7             0         7             0
+                                             1           .           2             .         3             .
+                                                         0                         0                       0
+                                                         5                         5                       6
+      Transformation costs                   2           0           5             0         1             0
+                                             0           .           6             .         0             .
+                                                         0                         0         2             0
+                                                         2                         5                       7
+      Disaster (recovery) charges            ( )         ( )         ( )           ( )       1             -
+                                             2           0           1             0
+                                             5           .           4             .
+                                                         0                         0
+                                                         2                         1
+      Stock-based compensation               1           0           7             0         1             0
+      expense                                4           .           1             .         4             .
+                                             1           1                         0         0             1
+                                                         1                         5                       1
+      Acquisition, disposition and other     4           0           1             0         1             0
+      related charges                        3           .           8             .         1             .
+                                                         0                         0                       0
+                                                         3                         1                       1
+      Earnings from equity interests(2)      ( )         ( )         2             -         1             0
+                                             4           0                                   2             .
+                                             6           .                                                 0
+                                                         0                                                 1
+                                                         3
+      Loss on equity investments, net        6           0           4             0         -             -
+
+                                                                                                Page 8 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+                                                 1         .       0           .
+                                                           0                   0
+                                                           5                   3
+       Adjustments for taxes                     ( )       ( )     ( )         ( )        ( )         ( )
+                                                 1         0       2           0          1           0
+                                                 6         .       0           .          3           .
+                                                           0       3           1                      0
+                                                           2                   5                      1
+       Other adjustments(3)                      2         -       ( )         -          1           -
+                                                                   4
+       Non-GAAP net earnings                  $ 6        $ 0     $ 6       $ 0         $ 8         $ 0
+                                                3          .       8         .           2           .
+                                                8          4       0         5           8           6
+                                                           8                 2                       3
+
+
+                                                                   For the three months ended
+                                                                   January        October        January
+                                                                   31, 2024       31, 2023       31, 2023
+                                                                   In millions
+   Net cash provided by (used in) operating activities             $ 64           $ 2,84         $ (829     )
+                                                                                     3
+   Investment in property, plant and equipment                        (65 )          (675 )         (794    )
+                                                                      6
+   Proceeds from sale of property, plant and equipment                96             255            159
+   Effect of exchange rate changes on cash, cash equivalents,         14             (102 )         138
+   and restricted cash
+   Free cash flow                                                  $ (48   )     $ 2,32          $ (1,3     )
+                                                                     2             1               26
+
+
+   HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+   Condensed Consolidated Balance Sheets
+
+                                                                               As of
+                                                                               January 31,        October 31,
+                                                                               2024               2023
+                                                                               (Unaudited)        (Audited)
+                                                                               In millions, except par value
+   ASSETS
+   Current Assets:
+   Cash and cash equivalents                                                   $ 3,758           $ 4,270
+   Accounts receivable, net of allowances                                        3,781             3,481
+   Financing receivables, net of allowances                                      3,629             3,543
+   Inventory                                                                     6,049             4,607
+   Other current assets                                                          3,027             3,047
+   Total current assets                                                          20,24             18,94
+                                                                                 4                 8
+   Property, plant and equipment, net                                            5,997             5,989
+   Long-term financing receivables and other assets                              11,54             11,37
+                                                                                 2                 7
+   Investments in equity interests                                               2,249             2,197
+   Goodwill and intangible assets                                                18,57             18,64
+                                                                                 0                 2
+   Total assets                                                                $ 58,60           $ 57,15
+                                                                                 2                 3
+
+                                                                                                Page 9 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+   LIABILITIES AND STOCKHOLDERS' EQUITY
+   Current Liabilities:
+   Notes payable and short-term borrowings                                   $ 4,957            $ 4,868
+   Accounts payable                                                            8,125              7,136
+   Employee compensation and benefits                                          1,027              1,724
+   Taxes on earnings                                                           182                155
+   Deferred revenue                                                            3,718              3,658
+   Accrued restructuring                                                       121                180
+   Other accrued liabilities                                                   4,505              4,161
+   Total current liabilities                                                   22,63              21,88
+                                                                               5                  2
+   Long-term debt                                                              7,840              7,487
+   Other non-current liabilities                                               6,659              6,546
+
+   Stockholders' Equity
+   Common stock, $0.01 par value (9,600 shares authorized; 1,300 and 1,283      13                13
+   shares issued and outstanding as of January 31, 2024 and October 31,
+   2023, respectively)
+   Additional paid-in capital                                                  28,23              28,19
+                                                                               9                  9
+   Accumulated deficit                                                         (3,72        )     (3,94         )
+                                                                               8                  6
+   Accumulated other comprehensive loss                                        (3,10        )     (3,08         )
+                                                                               8                  4
+   Total HPE stockholders' equity                                              21,41              21,18
+                                                                               6                  2
+   Non-controlling interests                                                   52                 56
+   Total stockholders' equity                                                  21,46              21,23
+                                                                               8                  8
+   Total liabilities and stockholders' equity                                $ 58,60            $ 57,15
+                                                                               2                  3
+
+
+   HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+   Condensed Consolidated Statements of Cash Flows
+   (Unaudited)
+
+                                                                             For the three months ended
+                                                                             January 31,      January 31,
+                                                                             2024             2023
+                                                                             In millions
+   Cash Flows from Operating Activities:
+   Net earnings                                                              $ 387              $ 501
+   Adjustments to Reconcile Net Earnings to Net Cash Provided by Operating
+   Activities:
+   Depreciation and amortization                                               657                656
+   Stock-based compensation expense                                            141                140
+   Provision for inventory and credit losses                                   32                 45
+   Restructuring charges                                                       7                  72
+   Deferred taxes on earnings                                                  (22      )         20
+   Earnings from equity interests                                              (46      )         (58       )
+   Other, net                                                                  72                 (60       )
+   Changes in Operating Assets and Liabilities, Net of Acquisitions:
+
+                                                                                               Page 10 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+   Accounts receivable                                                                (310     )      (112      )
+   Financing receivables                                                              (190     )      (523      )
+   Inventory                                                                          (1,46    )      495
+                                                                                      1
+   Accounts payable                                                                   1,041           (2,19     )
                                                                                                       5
-        Adjusted EBIT(1)                               48,529           55,250          (6,721      ) (12.       %)
-                                                                                                      2
+   Taxes on earnings                                                                  67              46
+   Restructuring                                                                      (78      )      (96       )
+   Other assets and liabilities                                                       (233     )      240
+   Net cash provided by (used in) operating activities                                64              (829      )
+   Cash Flows from Investing Activities:
+   Investment in property, plant and equipment                                        (656     )      (794      )
+   Proceeds from sale of property, plant and equipment                                96              159
+   Purchases of investments                                                           (16      )      -
+   Proceeds from maturities and sales of investments                                  4               4
+   Financial collateral posted                                                        (439     )      (682      )
+   Financial collateral received                                                      271             108
+   Payments made in connection with business acquisitions, net of cash                -               (32       )
+   acquired
+   Net cash used in investing activities                                              (740     )      (1,23     )
+                                                                                                      7
+   Cash Flows from Financing Activities:
+   Short-term borrowings with original maturities less than 90 days, net              (17      )      745
+   Proceeds from debt, net of issuance costs                                          859             261
+   Payment of debt                                                                    (515     )      (661      )
+   Net payments related to stock-based award activities                               (94      )      (107      )
+   Repurchase of common stock                                                         (3       )      (73       )
+   Cash dividends paid to non-controlling interests, net of contributions             (8       )      -
+   Cash dividends paid to shareholders                                                (169     )      (156      )
+   Net cash provided by financing activities                                          53              9
+   Effect of exchange rate changes on cash, cash equivalents, and restricted          14              138
+   cash
+   Decrease in cash, cash equivalents and restricted cash                             (609     )      (1,91     )
+                                                                                                      9
+   Cash, cash equivalents and restricted cash at beginning of period                 4,581            4,763
+   Cash, cash equivalents and restricted cash at end of period                     $ 3,972          $ 2,844
 
-        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
-        Supplemental Segment Information for details.
 
-PCG sales declined as a result of challenging comparisons in the prior-year period and the unfavorable timing of
-project completions, as well as pockets of weakness in Europe. Foreign currency translation and the prior
-divestiture of a non-core European service business also contributed to the sales decline. The flooring business
-generated positive growth in the U.S., despite a challenging comparison.
+   HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+   Segment Information
+   (Unaudited)
 
-Sales included a 4.0% organic decline, a 1.3% decline from divestitures, and a 1.4% decline from foreign currency
-translation.
+                                                                       For the three months ended
+                                                                       January         October       January
+                                                                       31, 2024        31, 2023      31, 2023
+                                                                       In millions
+   Net Revenue:
+   Server(4)                                                           $ 3,35         $ 3,57         $ 4,33
+                                                                         2              4              2
+   Hybrid Cloud(4)                                                       1,24           1,34           1,38
+                                                                         8              1              4
+   Intelligent Edge(4)                                                   1,20           1,41           1,16
+                                                                         1              0              9
 
-The fourth-quarter adjusted EBIT decline was driven by the lower sales and reduced fixed-cost leverage from lower
-volumes, partially offset by MAP 2025 benefits.
-        Specialty Products Group
-                                                    Three Months Ended
-        $ in 000s                                   May 31,       May 31,
-                                                    2024          2023               $ Change         % Change
-        Net Sales                                   $ 177,97      $ 193,42           $ (15,445      ) (8.0  %)
-                                                      5              0
-        Income Before Income Taxes                    7,439          8,481              (1,042      ) (12.       %)
+                                                                                               Page 11 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+   Financial Services                                                     873              876              873
+   Corporate Investments and other(4)                                     238              263              234
+   Total segment net revenue                                              6,91             7,46             7,99
+                                                                          2                4                2
+   Elimination of intersegment net revenue                                (157      )      (113   )         (183    )
+   Total consolidated net revenue                                       $ 6,75           $ 7,35           $ 7,80
+                                                                          5                1                9
+
+   Earnings Before Taxes(4):
+   Server                                                               $ 383            $ 360            $ 678
+   Hybrid Cloud                                                           47               51               80
+   Intelligent Edge                                                       353              382              227
+   Financial Services                                                     74               70               63
+   Corporate Investments and other                                        (10       )      (16    )         (22     )
+   Total segment earnings from operations                                 847              847              1,02
+                                                                                                            6
+
+   Unallocated corporate costs and eliminations                           (72       )      (137   )         (108    )
+   Stock-based compensation expense                                       (141      )      (71    )         (140    )
+   Amortization of intangible assets                                      (71       )      (72    )         (73     )
+   Transformation costs                                                   (20       )      (56    )         (102    )
+   Disaster recovery (charges)                                            25               14               (1      )
+   Acquisition, disposition and other related charges                     (43       )      (18    )         (11     )
+   Interest and other, net(1)                                             (88       )      (23    )         (26     )
+   Earnings from equity interests                                         46               65               58
+   Total pretax earnings                                                $ 483            $ 549            $ 623
+
+
+     HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+     Segment Information
+     (Unaudited)
+
+                                                        For the three months ended                    Change (%)
+                                                        January        October     January            Q     Y/Y
+                                                        31, 2024       31, 2023    31, 2023           /
+                                                                                                      Q
+                                                        Dollars in millions
+     Net Revenue:
+     Server(4)                                          $ 3,3           $ 3,5           $ 4,3         (      (23
+                                                          52              74              32          6      %)
+                                                                                                      %
+                                                                                                      )
+     Hybrid Cloud(4)                                       1,2                1,3         1,3         (      (10)
+                                                           48                 41          84          7
+                                                                                                      )
+     Intelligent Edge(4)                                   1,2                1,4         1,1         (      3
+                                                           01                 10          69          1
+                                                                                                      5
+                                                                                                      )
+     Financial Services                                    87                 87          87          -      -
+                                                           3                  6           3
+     Corporate Investments and other(4)                    23                 26          23          (      2
+                                                           8                  3           4           1
+                                                                                                      0
+
+                                                                                               Page 12 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+                                                                                                             )
+     Total segment net revenue                           6,9                7,4                 7,9          (         (14)
+                                                         12                 64                  92           7
+                                                                                                             )
+     Elimination of intersegment net revenue          (15         )     (11        )           (18       )   3         (14)
+                                                      7                 3                      3             9
+     Total consolidated net revenue                 $ 6,7             $ 7,3                  $ 7,8           (         (14
+                                                      55                51                     09            8         %)
+                                                                                                             %
+                                                                                                             )
+
+
+                                                         For the three months ended                   Change in
+                                                                                                      operating profit
+                                                                                                      margin (pts)
+                                                         Janua        Octob            Janua          Q/Q       Y/Y
+                                                         ry 31,       er 31,           ry 31,
+                                                         2024         2023             2023
+       Segment Operating Profit Margin(4):
+       Server                                            11.   %      10.     %        15.    %       1          (4.     )
+                                                         4            1                7              .          3
                                                                                                       3
-        EBIT                                           7,528            8,436           (908        ) (10.       %)
-                                                                                                      8
-        Adjusted EBIT(1)                               10,591           16,314          (5,723      ) (35.       %)
-                                                                                                      1
-
-        (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
-        Supplemental Segment Information for details.
-
-SPG's fourth-quarter sales decline was driven by challenging comparisons in the prior-year period for the disaster
-restoration business. Additionally, specialty residential OEM end markets remained soft during the quarter.
-
-Sales included an 8.1% organic decline and 0.1% growth from foreign currency translation.
-
-Adjusted EBIT was negatively impacted by the sales decline and under absorption from lower volumes.
-        Consumer Group
-                                                    Three Months Ended
-        $ in 000s                                   May 31,         May 31,
-                                                    2024            2023                $ Change          % Change
-        Net Sales                                   $ 702,459       $ 716,388           $ (13,929       ) (1. %)
-                                                                                                          9
-        Income Before Income Taxes                     113,146           99,449            13,697         13. %
-                                                                                                          8
-
-                                                                                                                     Page 4 of 17
-                        RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-         EBIT                                           113,204           102,866             10,338           10.    %
-                                                                                                               0
-         Adjusted EBIT(1)                               118,168           104,651             13,517           12.    %
-                                                                                                               9
-
-         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See table below titled
-         Supplemental Segment Information for details.
-
-The Consumer Group's fourth-quarter sales decline was driven by weaker DIY takeaway at retail stores and the
-rationalization of lower-margin products. Market share gains, aided by new products, and growth initiatives in
-international markets helped offset the overall sales decline.
-
-Sales included a 1.2% organic decline and a 0.7% decline from foreign currency translation.
-
-Record fourth-quarter adjusted EBIT was driven by MAP 2025 benefits and the rationalization of lower margin
-products, partially offset by unfavorable fixed-cost absorption from lower volumes, and compensation and benefits
-inflation.
-
-Fiscal Year 2024 Consolidated Results
-         Consolidated
-                                                                  Year Ended
-         $ in 000s except per share data                          May 31,         May 31,
-                                                                  2024            2023             $              %
-                                                                                                   Change         Chang
-                                                                                                                  e
-         Net Sales                                                $ 7,335,2       $ 7,256,4        $ 78,86        1.1 %
-                                                                    77              14               3
-         Net Income Attributable to RPM Stockholders                588,39          478,69           109,7        22.     %
-                                                                    7               1                06           9
-         Diluted Earnings Per Share (EPS)                           4.56            3.72             0.84         22.     %
-                                                                                                                  6
-         Income Before Income Taxes (IBT)                           787,83           649,38            138,4      21.     %
-                                                                    7                2                 55         3
-         Earnings Before Interest and Taxes (EBIT)                  860,83           758,64            102,1      13.     %
-                                                                    2                9                 83         5
-         Adjusted EBIT(1)                                           941,59           841,63            99,96      11.     %
-                                                                    7                2                 5          9
-         Adjusted Diluted EPS(1)                                    4.94             4.30              0.64       14.     %
-                                                                                                                  9
-
-         (1) Excludes certain items that are not indicative of RPM's ongoing operations. See tables below titled
-         Supplemental Segment Information and Reconciliation of Reported to Adjusted Amounts for details.
-
-Fiscal year 2024 sales were a record, driven by strength in CPG and PCG, which have positioned themselves to
-provide engineered solutions for infrastructure and high-performance building projects, including reshoring projects.
-Partially offsetting this growth was the Consumer Group, which experienced soft DIY demand and SPG, which
-faced weak demand, particularly in disaster restoration and specialty residential OEM markets.
-
-Record adjusted EBIT was driven by MAP 2025 benefits, including the commodity cycle, better mix and improved
-fixed-cost leverage at businesses that generated volume growth. The record adjusted EBIT was achieved despite
-an increase in selling, general and administrative expenses from incentives to sell higher-margin products and
-services; investments to accelerate long-term growth; and inflation in compensation and benefits.
-
-Cash Flow and Financial Position
-
-During fiscal 2024:
-
-                                                                                                       Page 5 of 17
-                      RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-    •   Cash provided by operating activities was $1.12 billion compared to $577.1 million in the prior year, with
-        the increase driven by improved profitability and working capital efficiency, both of which were enabled by
-        MAP 2025 initiatives.
-    •   Capital expenditures were $214.0 million compared to $254.4 million during the prior year.
-    •   The company returned $286.9 million to stockholders through cash dividends and share repurchases.
-
-As of May 31, 2024:
-    •   Total debt was $2.13 billion compared to $2.68 billion a year ago, with the $556.7 million reduction driven
-        by improved cash flow being used to repay higher-cost debt.
-    •   Total liquidity, including cash and committed revolving credit facilities, was $1.36 billion, compared to $1.03
-        billion a year ago.
-
-Business Outlook
-
-"As we enter fiscal year 2025, we remain focused on things we can control in a mixed economic environment.
-These include outgrowing our markets, improving operating cash flow, and leveraging the power of RPM through
-MAP 2025 initiatives. The structural improvements we are making through MAP 2025 are helping us navigate the
-current economic landscape, and their impact will be even more evident when end markets improve."
-
-The company expects the following in the fiscal 2025 first quarter:
-    •   Consolidated sales to be approximately flat compared to prior-year record results.
-    •   CPG sales to increase in the low-single-digit percentage range compared to prior-year record results.
-    •   PCG sales to be flat compared to prior-year record results.
-    •   SPG sales to decrease in the low-single-digit percentage range compared to prior-year results.
-    •   Consumer Group sales to decrease in the low-single-digit percentage range compared to prior-year record
-        results.
-    •   Consolidated adjusted EBIT to increase in the mid-single-digit percentage range compared to prior-year
-        record results.
-
-The company expects the following in the full-year fiscal 2025:
-    •   Consolidated sales to increase in the low-single-digit percentage range compared to prior-year record
-        results.
-    •   Consolidated adjusted EBIT to increase in the mid-single to low-double-digit percentage range compared
-        to prior-year record results.
-
-Earnings Webcast and Conference Call Information
-
-Management will host a conference call to discuss these results beginning at 10:00 a.m. ET today. The call can be
-accessed via webcast at www.RPMinc.com/Investors/Presentations-Webcasts or by dialing 1-844-481-2915 or 1-
-412-317-0708 for international callers and asking to join the RPM International call. Participants are asked to call
-the assigned number approximately 10 minutes before the conference call begins. The call, which will last
-approximately one hour, will be open to the public, but only financial analysts will be permitted to ask questions. The
-media and all other participants will be in a listen-only mode.
-
-For those unable to listen to the live call, a replay will be available from July 25, 2024, until August 1, 2024. The
-replay can be accessed by dialing 1-877-344-7529 or 1-412-317-0088 for international callers. The access code is
-6170685. The call also will be available for replay and as a written transcript via the RPM website at
-www.RPMinc.com .
-
-                                                                                                         Page 6 of 17
-                       RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-About RPM
-
-RPM International Inc. owns subsidiaries that are world leaders in specialty coatings, sealants, building materials
-and related services. The company operates across four reportable segments: consumer, construction products,
-performance coatings and specialty products. RPM has a diverse portfolio of market-leading brands, including Rust-
-Oleum , DAP , Zinsser , Varathane , DayGlo , Legend Brands , Stonhard , Carboline , Tremco and Dryvit . From
-homes and workplaces, to infrastructure and precious landmarks, RPM's brands are trusted by consumers and
-professionals alike to help build a better world . The company is ranked on the Fortune 500® and employs
-approximately 17,300 individuals worldwide. Visit www.RPMinc.com to learn more.
-
-For more information, contact Matt Schlarb, Vice President - Investor Relations & Sustainability, at 330-220-6064 or
-mschlarb@rpminc.com .
-
-From Fortune ©2024 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 500
-are registered trademarks of Fortune Media IP Limited and are used under license. Fortune and Fortune Media IP
-Limited are not affiliated with, and do not endorse the products or services of RPM International Inc.
-
-Use of Non-GAAP Financial Information
-
-To supplement the financial information presented in accordance with Generally Accepted Accounting Principles in
-the United States ("GAAP") in this earnings release, we use EBIT, adjusted EBIT and adjusted earnings per share,
-which are all non-GAAP financial measures. EBIT is defined as earnings (loss) before interest and taxes, with
-adjusted EBIT and adjusted earnings per share provided for the purpose of adjusting for one-off items impacting
-revenues and/or expenses that are not considered by management to be indicative of ongoing operations. We
-evaluate the profit performance of our segments based on income before income taxes, but also look to EBIT as a
-performance evaluation measure because interest income (expense), net is essentially related to corporate
-functions, as opposed to segment operations. For that reason, we believe EBIT is also useful to investors as a
-metric in their investment decisions. EBIT should not be considered an alternative to, or more meaningful than,
-income before income taxes as determined in accordance with GAAP, since EBIT omits the impact of interest and
-investment income or expense in determining operating performance, which represent items necessary to our
-continued operations, given our level of indebtedness. Nonetheless, EBIT is a key measure expected by and useful
-to our fixed income investors, rating agencies and the banking community all of whom believe, and we concur, that
-this measure is critical to the capital markets' analysis of our segments' core operating performance. We also
-evaluate EBIT because it is clear that movements in EBIT impact our ability to attract financing. Our underwriters
-and bankers consistently require inclusion of this measure in offering memoranda in conjunction with any debt
-underwriting or bank financing. EBIT may not be indicative of our historical operating results, nor is it meant to be
-predictive of potential future results. See the financial statement section of this earnings release for a reconciliation
-of EBIT and adjusted EBIT to income before income taxes, and adjusted earnings per share to earnings per share.
-We have not provided a reconciliation of our first-quarter fiscal 2025 or full-year fiscal 2025 adjusted EBIT guidance
-because material terms that impact such measure are not in our control and/or cannot be reasonably predicted, and
-therefore a reconciliation of such measure is not available without unreasonable effort.
-
-Forward-Looking Statements
-
-This press release contains "forward-looking statements" relating to our business. These forward-looking
-statements, or other statements made by us, are made based on our expectations and beliefs concerning future
-events impacting us and are subject to uncertainties and factors (including those specified below), which are difficult
-to predict and, in many instances, are beyond our control. As a result, our actual results could differ materially from
-those expressed in or implied by any such forward-looking statements. These uncertainties and factors include (a)
-global markets and general economic conditions, including uncertainties surrounding the volatility in financial
-markets, the availability of capital, and the viability of banks and other financial institutions; (b) the prices, supply
-and availability of raw materials, including assorted pigments, resins, solvents, and other natural gas- and oil-based
-materials; packaging, including plastic and metal containers; and transportation services, including fuel surcharges;
-(c) continued growth in demand for our products; (d) legal, environmental and litigation risks inherent in our
-
-                                                                                                          Page 7 of 17
-                         RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-businesses and risks related to the adequacy of our insurance coverage for such matters; (e) the effect of changes
-in interest rates; (f) the effect of fluctuations in currency exchange rates upon our foreign operations; (g) the effect
-of non-currency risks of investing in and conducting operations in foreign countries, including those relating to
-domestic and international political, social, economic and regulatory factors; (h) risks and uncertainties associated
-with our ongoing acquisition and divestiture activities; (i) the timing of and the realization of anticipated cost savings
-from restructuring initiatives and the ability to identify additional cost savings opportunities; (j) risks related to the
-adequacy of our contingent liability reserves; (k) risks relating to a public health crisis similar to the Covid pandemic;
-(l) risks related to acts of war similar to the Russian invasion of Ukraine; (m) risks related to the transition or
-physical impacts of climate change and other natural disasters or meeting sustainability-related voluntary goals or
-regulatory requirements; (n) risks related to our use of technology, artificial intelligence, data breaches and data
-privacy violations; and (o) other risks detailed in our filings with the Securities and Exchange Commission, including
-the risk factors set forth in our Form 10-K for the year ended May 31, 2023, as the same may be updated from time
-to time. We do not undertake any obligation to publicly update or revise any forward-looking statements to reflect
-future events, information or circumstances that arise after the filing date of this release.
-         CONSOLIDATED STATEMENTS OF
-         INCOME
-         IN THOUSANDS, EXCEPT PER SHARE
-         DATA
-         (Unaudited)
-
-                                                          Three Months Ended          Year Ended
-                                                          May 31,      May 31,        May 31,       May 31,
-                                                          2024         2023           2024          2023
-
-         Net Sales                                        $ 2,0         $ 2,0         $ 7,3         $ 7,2
-                                                            08,           16,           35,           56,
-                                                            16            21            27            41
-                                                            3             0             7             4
-         Cost of Sales                                      1,1           1,2           4,3           4,5
-                                                            77,           41,           20,           08,
-                                                            58            06            68            37
-                                                            3             2             8             0
-         Gross Profit                                       83            77            3,0           2,7
-                                                            0,5           5,1           14,           48,
-                                                            80            48            58            04
-                                                                                        9             4
-         Selling, General & Administrative Expenses          55            53           2,1           1,9
-                                                             4,5           0,0          13,           56,
-                                                             04            71           58            04
-                                                                                        5             0
-         Restructuring Expense                               15,           8,6          30,           15,
-                                                             91            85           00            46
-                                                             2                          8             5
-         Goodwill Impairment                                 -             -            -             36,
-                                                                                                      74
+       Hybrid Cloud                                      3.8   %      3.8     %        5.8    %       -          (2.     )
+                                                                                                                 0
+       Intelligent Edge                                  29.   %      27.     %        19.    %       2          10.
+                                                         4            1                4              .          0
+                                                                                                      3
+       Financial Services                                8.5   %      8.0     %        7.2    %       0          1.3
+                                                                                                      .
                                                                                                       5
-         Interest Expense                                    27,           33,           11           11
-                                                             27            63            7,9          9,0
-                                                             6             0             69           15
-         Investment (Income), Net                            (8,   )       (3,   )       (44   )      (9,     )
-                                                             58            83            ,97          74
-                                                             1             8             4            8
-         (Gain) on Sales of Assets and Business, Net         -             (2,   )       -            (28     )
-                                                                           75                         ,63
-                                                                           1                          2
-         Other Expense, Net                                  2,1           2,7           10,          9,7
-                                                             91            12            16           77
-
-                                                                                        Page 8 of 17
-              RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-                                                                         4
-Income Before Income Taxes                         23           20       78           64
-                                                   9,2          6,6      7,8          9,3
-                                                   78           39       37           82
-Provision for Income Taxes                         58,          54,      19           16
-                                                   44           96       8,3          9,6
-                                                   2            8        95           51
-Net Income                                         18           15       58           47
-                                                   0,8          1,6      9,4          9,7
-                                                   36           71       42           31
-Less: Net Income Attributable to                   22           31       1,0          1,0
-Noncontrolling Interests                           5            1        45           40
-Net Income Attributable to RPM International     $ 18         $ 15     $ 58         $ 47
-Inc. Stockholders                                  0,6          1,3      8,3          8,6
-                                                   11           60       97           91
-
-Earnings per share of common stock
-attributable to
-RPM International Inc. Stockholders:
-Basic                                            $ 1.4        $ 1.1    $ 4.5        $ 3.7
-                                                   1            8        8            4
-Diluted                                          $ 1.4        $ 1.1    $ 4.5        $ 3.7
-                                                   0            8        6            2
-
-Average shares of common stock                      12          12       12           12
-outstanding - basic                                 7,6         7,3      7,7          7,5
-                                                    66          45       67           07
-Average shares of common stock                      12          12       12           12
-outstanding - diluted                               8,3         8,7      8,3          8,8
-                                                    31          20       40           16
+       Corporate Investments and other                   (4.   %      (6.     %        (9.    %       1          5.2
+                                                         2     )      1       )        4      )       .
+                                                                                                      9
+       Total segment operating profit margin             12.   %      11.     %        12.    %       1          (0.     )
+                                                         3            3                8              .          5
+                                                                                                      0
 
 
+   HEWLETT PACKARD ENTERPRISE COMPANY AND SUBSIDIARIES
+   Calculation of Diluted Net Earnings Per Share
+   (Unaudited)
 
-SUPPLEMENTAL SEGMENT
-INFORMATION
-IN THOUSANDS
-(Unaudited)
+                                                                      For the three months ended
+                                                                      January          October         January
+                                                                      31, 2024         31, 2023        31, 2023
+                                                                      In millions, except per share amounts
+   Numerator:
+   GAAP net earnings                                                  $ 387                   $ 642              $ 501
+   Non-GAAP net earnings                                              $ 638                   $ 680              $ 828
 
-                                               Three Months Ended      Year Ended
-                                               May 31,       May 31,   May 31,       May 31,
-                                               2024          2023      2024          2023
-Net Sales:
-CPG Segment                                    $ 762,        $ 714,    $ 2,70        $ 2,50
-                                                 174           762       2,46          8,80
-                                                                         6             5
-PCG Segment                                      365,          391,      1,46          1,43
-                                                 555           640       2,46          3,63
-                                                                         0             4
-SPG Segment                                      177,          193,      712,          799,
-                                                 975           420       402           205
-Consumer Segment                                 702,          716,      2,45          2,51
-                                                 459           388       7,94          4,77
-                                                                         9             0
-Total                                          $ 2,00        $ 2,01    $ 7,33        $ 7,25
-                                                 8,16          6,21      5,27          6,41
-                                                 3             0         7             4
+   Denominator:
+   Weighted-average shares used to compute basic net                        1,30                  1,29             1,29
+   earnings per share                                                       1                     5                8
+   Dilutive effect of employee stock plans                                  15                    20               17
+   Weighted-average shares used to compute diluted net                      1,31                  1,31             1,31
+   earnings per share                                                       6                     5                5
 
-                                                                                       Page 9 of 17
-              RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-Income Before Income Taxes:
-CPG Segment
-Income Before Income Taxes (a)             $ 131,       $ 113,        $ 385,        $ 300,
-                                             429          291           339           971
-Interest (Expense), Net (b)                  (551   )     (491   )      (5,1   )      (8,5   )
-                                                                        70            80
-EBIT (c)                                     131,         113,          390,          309,
-                                             980          782           509           551
-MAP initiatives (d)                          6,52         7,18          12,6          11,2
-                                             6            0             94            36
-Adjusted EBIT                              $ 138,       $ 120,        $ 403,        $ 320,
-                                             506          962           203           787
-PCG Segment
-Income Before Income Taxes (a)             $ 46,5       $ 53,4        $ 199,        $ 142,
-                                             89           17            951           469
-Interest Income, Net (b)                     889          573           4,64          1,63
-                                                                        2             0
-EBIT (c)                                     45,7         52,8          195,          140,
-                                             00           44            309           839
-MAP initiatives (d)                          2,82         2,40          20,2          44,7
-                                             9            6             33            40
-Adjusted EBIT                              $ 48,5       $ 55,2        $ 215,        $ 185,
-                                             29           50            542           579
-SPG Segment
-Income Before Income Taxes (a)             $ 7,43       $ 8,48        $ 43,7        $ 103,
-                                             9            1             84            279
-Interest (Expense) Income, Net (b)           (89    )     45            204           68
-EBIT (c)                                     7,52         8,43          43,5          103,
-                                             8            6             80            211
-MAP initiatives (d)                          3,06         7,87          11,1          15,2
-                                             3            8             79            71
-(Gain) on sale of assets and a business,     -            -             (1,2   )      (25,   )
-net (e)                                                                 06            774
-Legal contingency adjustment on a            -            -             3,95          -
-divested business (g)                                                   3
-Adjusted EBIT                              $ 10,5       $ 16,3        $ 57,5        $ 92,7
-                                             91           14            06            08
-Consumer Segment
-Income Before Income Taxes (a)             $ 113,       $ 99,4        $ 408,        $ 378,
-                                             146          49            200           157
-Interest (Expense) Income, Net (b)           (58    )     (3,4   )      2,56          (3,3   )
-                                                          17            1             72
-EBIT (c)                                     113,         102,          405,          381,
-                                             204          866           639           529
-MAP initiatives (d)                          8,59         1,78          9,84          2,69
-                                             1            5             0             9
-(Gain) on sale of assets and a business,     (3,6   )     -             (3,6   )      -
-net (e)                                      27                         27
-Business interruption insurance recovery     -            -             (11,   )      (20,   )
-(f)                                                                     128           000
-Adjusted EBIT                              $ 118,       $ 104,        $ 400,        $ 364,
-                                             168          651           724           228
-Corporate/Other
-(Loss) Before Income Taxes (a)             $ (59,   )   $ (67,   )    $ (249   )    $ (275   )
-                                             325          999           ,437          ,494
-Interest (Expense), Net (b)                  (18,   )     (26,   )      (75,   )      (99,   )
-
-                                                                                                     Page 10 of 17
-              RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-                                                  886              502             232              013
-EBIT (c)                                          (40,     )       (41,    )       (174     )       (176    )
-                                                  439              497             ,205             ,481
-MAP initiatives (d)                               10,1             12,1            38,8             54,8
-                                                  95               07              27               11
-Adjusted EBIT                                   $ (30,     )     $ (29,    )     $ (135     )     $ (121    )
-                                                  244              390             ,378             ,670
-TOTAL CONSOLIDATED
-Income Before Income Taxes (a)                  $ 239,           $ 206,          $ 787,           $ 649,
-                                                  278              639             837              382
-Interest (Expense)                                (27,     )       (33,    )       (117     )       (119    )
-                                                  276              630             ,969             ,015
-Investment Income, Net                            8,58             3,83            44,9             9,74
-                                                  1                8               74               8
-EBIT (c)                                          257,             236,            860,             758,
-                                                  973              431             832              649
-MAP initiatives (d)                               31,2             31,3            92,7             128,
-                                                  04               56              73               757
-(Gain) on sale of assets and a business,          (3,6     )       -               (4,8     )       (25,    )
-net (e)                                           27                               33               774
-Business interruption insurance recovery          -                 -              (11,     )       (20,    )
-(f)                                                                                128              000
-Legal contingency adjustment on a                  -                -              3,95             -
-divested business (g)                                                              3
-Adjusted EBIT                                   $ 285,           $ 267,          $ 941,           $ 841,
-                                                  550              787             597              632
+                                                                                                  Page 13 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
 
 
-    (a)                  The presentation includes a reconciliation of Income (Loss) Before Income
-                         Taxes, a measure defined by Generally Accepted Accounting Principles in the
-                         United States (GAAP), to EBIT and Adjusted EBIT.
-    (b)                  Interest Income (Expense), Net includes the combination of Interest Income
-                         (Expense) and Investment Income (Expense), Net.
-    (c)                  EBIT is defined as earnings (loss) before interest and taxes, with Adjusted
-                         EBIT provided for the purpose of adjusting for items impacting earnings that
-                         are not considered by management to be indicative of ongoing operations. We
-                         evaluate the profit performance of our segments based on income before
-                         income taxes, but also look to EBIT, or adjusted EBIT, as a performance
-                         evaluation measure because Interest Income (Expense), Net is essentially
-                         related to corporate functions, as opposed to segment operations. For that
-                         reason, we believe EBIT is also useful to investors as a metric in their
-                         investment decisions. EBIT should not be considered an alternative to, or
-                         more meaningful than, income before income taxes as determined in
-                         accordance with GAAP, since EBIT omits the impact of interest and
-                         investment income or expense in determining operating performance, which
-                         represent items necessary to our continued operations, given our level of
-                         indebtedness. Nonetheless, EBIT is a key measure expected by and useful to
-                         our fixed income investors, rating agencies and the banking community all of
-                         whom believe, and we concur, that this measure is critical to the capital
-                         markets' analysis of our segments' core operating performance. We also
-                         evaluate EBIT because it is clear that movements in EBIT impact our ability to
-                         attract financing. Our underwriters and bankers consistently require inclusion
-                         of this measure in offering memoranda in conjunction with any debt
-                         underwriting or bank financing. EBIT may not be indicative of our historical
-                         operating results, nor is it meant to be predictive of potential future results.
+       GAAP Net Earnings Per Share
+       Basic                                                                $ 0.30           $ 0.50            $ 0.39
+       Diluted                                                              $ 0.29           $ 0.49            $ 0.38
 
-                                                                                                        Page 11 of 17
-             RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+       Non-GAAP Net Earnings Per Share
+       Basic                                                                $ 0.49           $ 0.53            $ 0.64
+       Diluted                                                              $ 0.48           $ 0.52            $ 0.63
 
-(d)                       Reflects restructuring and other charges, which have been incurred in relation
-                          to our Margin Acceleration Plan ("MAP to Growth") and our Margin
-                          Achievement Plan ("MAP 2025"), together MAP initiatives, as follows: -
-                          Restructuring and other related expense, net: Includes charges incurred
-                          related to headcount reductions, facility closures and asset impairments
-                          recorded in "Restructuring Expense" on the Consolidated Statements of
-                          Income. Restructuring Expense totaled $15.9 million and $8.7 million for the
-                          quarters ended May 31, 2024 and May 31, 2023 respectively, and $30.0
-                          million and $15.5 million for the year ended May 31, 2024 and May 31, 2023
-                          respectively. Other related expenses include inventory write-offs in connection
-                          with restructuring activities recorded in "Cost of Sales" and accelerated
-                          depreciation and amortization recorded within "Cost of Sales" or "Selling,
-                          General, & Administrative Expenses ("SG&A")" depending on the nature of the
-                          expense as well as the increase in our allowance for doubtful accounts as a
-                          result of the divestiture of the non-core Universal Sealant's Bridgecare service
-                          business within our PCG segment. The charges in fiscal 2023 were partially
-                          offset by the gain on the sale of one our closed facilities in SPG. - Exited
-                          product lines: Reflects the sale of inventory that had previously been reserved
-                          for as a result of prior product line rationalization initiatives at PCG partially
-                          offset by inventory write-offs related to the discontinuation of certain product
-                          lines within our SPG segment. In the prior year these adjustments reflect
-                          prepaid asset and inventory write-offs related to the discontinuation of certain
-                          product lines within our PCG and SPG segments. In both years, these
-                          amounts resulted from ongoing product line rationalization efforts in
-                          connection with our MAP initiatives and were recorded within "Cost of Sales".
-                          - ERP consolidation plan: Includes expenses incurred as a result of our stated
-                          goals to consolidate over 75 ERP systems across the organization to four ERP
-                          platforms, one per segment, as part of our overall MAP strategy as well as
-                          costs incurred for other decision support tools to facilitate our commercial
-                          initiatives related to MAP 2025 which have been incurred in our CPG, PCG,
-                          SPG and Corporate/Other segments and have been recorded within "SG&A".
-                          - Professional fees: Includes expenses incurred to consolidate accounting
-                          locations, costs incurred to implement technologies and processes to drive
-                          improved sales mix and salesforce effectiveness and cost incurred to
-                          implement new global manufacturing methodologies with the goal of improving
-                          operating efficiency incurred within our CPG, PCG, SPG, and Corporate/Other
-                          segments and recorded within "SG&A". All of this spend is in support of stated
-                          MAP goals with the most significant expense incurred within our
-                          Corporate/Other segment. - Goodwill impairment: Relates to an impairment
-                          charge at our Universal Sealants ("USL") reporting unit as a result of a
-                          decision to exit the services portion of that business which has been recorded
-                          in "Goodwill Impairment" in the third quarter of fiscal 2023. Included below is a
-                          reconciliation of the TOTAL CONSOLIDATED MAP initiatives.
+      ________________
+      (1)    Interest and other, net includes tax indemnification and other adjustments, non-service net periodic
+             benefit cost, and interest and other, net.
 
-                                                           Three Months             Year Ended
-                                                           Ended
-                                                           May       May            May 31,        May 31,
-                                                           31,       31,
-                                                           2024      2023           2024           2023
-      Restructuring and other related expense, net         $ 18,     $ 6,9          $ 45,          $ 15,573
-                                                              84        14            44
-                                                              5                       4
-      Exited product line                                     -         8,2           (24     )       8,217
-                                                                        17            8
-      ERP consolidation plan                                  2,6       2,5           11,             7,021
-                                                              95        36            42
-                                                                                      6
-      Professional fees                                       9,6         13,         36,             61,201
-                                                              64          68          15
-                                                                          9           1
-      Goodwill Impairment                                     -           -           -               36,745
+      (2)     For the three months ended January 31, 2024, includes the equity in earnings from H3C equity method
+              investment and all periods include the amortization of the basis difference in the Company's investment.
 
-                                                                                                        Page 12 of 17
-                RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+      (3)     Other adjustments includes non-service net periodic benefit cost and tax indemnification and other
+              adjustments.
 
-          MAP initiatives                                  $ 31,        $ 31,       $ 92,          $ 128,757
-                                                             20           35          77
-                                                             4            6           3
+      (4)     As previously disclosed, effective as of the beginning of the first quarter of fiscal 2024, in order to align
+              the segment financial reporting more closely with its business structure, the Company established two
+              new reportable segments, Hybrid Cloud and Server. Hybrid Cloud includes the historical Storage
+              segment, HPE GreenLake Flex Solutions (which provides flexible as-a-service IT infrastructure through
+              the HPE GreenLake edge-to-cloud platform and was previously reported under the Compute and the
+              High Performance Computing & Artificial Intelligence ("HPC & AI") segments), Private Cloud, and
+              Software (previously reported under the Corporate Investments and Other segment). The Server
+              segment combines the previously separately reported Compute and HPC & AI segments, with
+              adjustments for certain product lines that are now reported in Hybrid Cloud. Additionally, certain
+              products and services previously reported in the financial results for the HPC & AI segment were moved
+              to be reported in the Hybrid Cloud segment, and the Athonet business and certain components of the
+              Communications and Media Solutions business, both previously reported in the financial results for
+              Corporate Investments and Other, moved to be reported in the Intelligent Edge segment.
 
-(    The current year adjustment reflects the gain associated with post-closing adjustments for the sale of
-e    the furniture warranty business in the SPG segment as well as the sale of a property within our
-)    Consumer segment which have been recorded in "SG&A". The prior year balance reflects the gains
-     associated with the sale of the furniture warranty business and the sale and leaseback of a facility in the
-     SPG segment recorded within "Gain on Sales of Assets and Business, Net".
-(f   Business interruption insurance recovery at our Consumer segment related to lost sales and
-)    incremental costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of a
-     significant alkyd resin supplier, which has been recorded in "SG&A".
-(    Represents incremental expense related to an adverse legal ruling from a case associated with a
-g    business that was divested in the prior year. We strongly disagree with the legal ruling and have filed an
-)    appeal.
+              As a result, the Company's new organizational structure consists of the following segments: (i) Server;
+              (ii) Hybrid Cloud; (iii) Intelligent Edge; (iv) Financial Services; and (v) Corporate Investments and Other.
+              The Company is reporting under this re-aligned segment structure beginning with the results of the first
+              quarter of fiscal 2024.
 
-
-SUPPLEMENTAL INFORMATION
-RECONCILIATION OF "REPORTED" TO "ADJUSTED" AMOUNTS
-(Unaudited)
-
-                 Three Months Ended                        Year Ended
-                 May 31,           May 31,                 May 31,              May 31,
-                 2024              2023                    2024                 2023
-
-Reco
-nciliat
-ion of
-Repor
-ted
-Earni
-ngs
-per
-Dilute
-d
-Share
-to
-Adjus
-ted
-Earni
-ngs
-per
-Dilute
-d
-Share
-(All
-amou
-nts
-prese
-nted
-after-
-tax):
-Repor            $ 1.40              $ 1.18                $ 4.56               $ 3.72
-ted
-Earni
-ngs
-per
-Dilute
-d
-Share
-
-                                                                                                     Page 13 of 17
-               RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-MAP               0.19                 0.19                 0.56                 0.83
-initiati
-ves
-(d)
-(Gain             (0.02       )        -                    (0.03       )        (0.14        )
-) on
-sales
-of
-asset
-s and
-busin
-ess,
-net
-(e)
-Busin             -                    -                    (0.07       )        (0.12        )
-ess
-interr
-uption
-insura
-nce
-recov
-ery (f)
-Legal             -                    -                    0.02                 -
-contin
-gency
-adjust
-ment
-on a
-divest
-ed
-busin
-ess
-(g)
-Incom             -                    -                    0.02                 -
-e tax
-adjust
-ment
-(h)
-Invest            (0.01       )        (0.01       )        (0.12       )        0.01
-ment
-return
-s (I)
-Adjus          $ 1.56               $ 1.36               $ 4.94               $ 4.30
-ted
-Earni
-ngs
-per
-Dilute
-d
-Share
-(j)
-
-(d)    Reflects restructuring and other charges, which have been incurred in relation to our Margin
-       Acceleration Plan ("MAP to Growth") and our Margin Achievement Plan ("MAP 2025"), together MAP
-       initiatives, as follows: - Restructuring and other related expense, net: Includes charges incurred
-       related to headcount reductions, facility closures and asset impairments recorded in "Restructuring
-       Expense" on the Consolidated Statements of Income. Restructuring Expense totaled $15.9 million
-       and $8.7 million for the quarters ended May 31, 2024 and May 31, 2023 respectively, and $30.0
-       million and $15.5 million for the year ended May 31, 2024 and May 31, 2023 respectively. Other
-       related expenses include inventory write-offs in connection with restructuring activities recorded in
-       "Cost of Sales" and accelerated depreciation and amortization recorded within "Cost of Sales" or
-
-                                                                                                        Page 14 of 17
-               RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-       "Selling, General, & Administrative Expenses ("SG&A")" depending on the nature of the expense as
-       well as the increase in our allowance for doubtful accounts as a result of the divestiture of the non-
-       core Universal Sealant's Bridgecare service business within our PCG segment. The charges in fiscal
-       2023 were partially offset by the gain on the sale of one our closed facilities in SPG. - Exited product
-       lines: Reflects the sale of inventory that had previously been reserved for as a result of prior product
-       line rationalization initiatives at PCG partially offset by inventory write-offs related to the
-       discontinuation of certain product lines within our SPG segment. In the prior year these adjustments
-       reflect prepaid asset and inventory write-offs related to the discontinuation of certain product lines
-       within our PCG and SPG segments. In both years, these amounts resulted from ongoing product line
-       rationalization efforts in connection with our MAP initiatives and were recorded within "Cost of Sales".
-       - ERP consolidation plan: Includes expenses incurred as a result of our stated goals to consolidate
-       over 75 ERP systems across the organization to four ERP platforms, one per segment, as part of our
-       overall MAP strategy as well as costs incurred for other decision support tools to facilitate our
-       commercial initiatives related to MAP 2025 which have been incurred in our CPG, PCG, SPG and
-       Corporate/Other segments and have been recorded within "SG&A". - Professional fees: Includes
-       expenses incurred to consolidate accounting locations, costs incurred to implement technologies and
-       processes to drive improved sales mix and salesforce effectiveness and cost incurred to implement
-       new global manufacturing methodologies with the goal of improving operating efficiency incurred
-       within our CPG, PCG, SPG, and Corporate/Other segments and recorded within "SG&A". All of this
-       spend is in support of stated MAP goals with the most significant expense incurred within our
-       Corporate/Other segment. - Goodwill impairment: Relates to an impairment charge at our Universal
-       Sealants ("USL") reporting unit as a result of a decision to exit the services portion of that business
-       which has been recorded in "Goodwill Impairment" in the third quarter of fiscal 2023.
- (e)   The current year adjustment reflects the gain associated with post-closing adjustments for the sale of
-       the furniture warranty business in the SPG segment as well as the sale of a property within our
-       Consumer segment which have been recorded in "SG&A". The prior year balance reflects the gains
-       associated with the sale of the furniture warranty business and the sale and leaseback of a facility in
-       the SPG segment recorded within "Gain on Sales of Assets and Business, Net".
- (f)   Business interruption insurance recovery at our Consumer segment related to lost sales and
-       incremental costs incurred during fiscal 2021 and 2022 as a result of an explosion at the plant of a
-       significant alkyd resin supplier, which has been recorded in "SG&A".
- (g)   Represents incremental expense related to an adverse legal ruling from a case associated with a
-       business that was divested in the prior year. We strongly disagree with the legal ruling and have filed
-       an appeal.
- (h)   Adjustment to income taxes associated with the prior year sale of the furniture warranty business.
- (i)   Investment returns include realized net gains and losses on sales of investments and unrealized net
-       gains and losses on equity securities, which are adjusted due to their inherent volatility. Management
-       does not consider these gains and losses, which cannot be predicted with any level of certainty, to be
-       reflective of the Company's core business operations.
- (j)   Adjusted Diluted EPS is provided for the purpose of adjusting diluted earnings per share for items
-       impacting earnings that are not considered by management to be indicative of ongoing operations.
-
-
-CONSOLIDATED BALANCE SHEETS
-IN THOUSANDS
-(Unaudited)
-
-                                                                          May 31, 2024          May 31, 2023
-Assets
-Current Assets
-Cash and cash equivalents                                                 $ 237,379             $ 215,787
-Trade accounts receivable                                                   1,468,20              1,552,52
-                                                                            8                     2
-Allowance for doubtful accounts                                             (48,763       )       (49,482         )
-Net trade accounts receivable                                               1,419,44              1,503,04
-                                                                            5                     0
-Inventories                                                                 956,465               1,135,49
-                                                                                                  6
-Prepaid expenses and other current assets                                    282,059              329,845
-
-                                                                                             Page 15 of 17
-                    RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
-
-Total current assets                                                   2,895,34           3,184,16
-                                                                       8                  8
-Property, Plant and Equipment, at Cost                                 2,515,84           2,332,91
-                                                                       7                  6
-Allowance for depreciation                                             (1,184,7   )       (1,093,4   )
-                                                                       84                 40
-Property, plant and equipment, net                                     1,331,06           1,239,47
-                                                                       3                  6
-Other Assets
-Goodwill                                                              1,308,91          1,293,58
-                                                                      1                 8
-Other intangible assets, net of amortization                          512,972           554,991
-Operating lease right-of-use assets                                   331,555           329,582
-Deferred income taxes                                                 33,522            15,470
-Other                                                                 173,172           164,729
-Total other assets                                                    2,360,13          2,358,36
-                                                                      2                 0
-Total Assets                                                        $ 6,586,54        $ 6,782,00
-                                                                      3                 4
-Liabilities and Stockholders' Equity
-Current Liabilities
-Accounts payable                                                    $ 649,650         $ 680,938
-Current portion of long-term debt                                     136,213           178,588
-Accrued compensation and benefits                                     297,249           257,328
-Accrued losses                                                        32,518            26,470
-Other accrued liabilities                                             350,434           347,477
-Total current liabilities                                             1,466,06          1,490,80
-                                                                      4                 1
-Long-Term Liabilities
-Long-term debt, less current maturities                                1,990,93           2,505,22
-                                                                       5                  1
-Operating lease liabilities                                            281,281            285,524
-Other long-term liabilities                                            214,816            267,111
-Deferred income taxes                                                  121,222            90,347
-Total long-term liabilities                                            2,608,25           3,148,20
-                                                                       4                  3
-Total liabilities                                                      4,074,31           4,639,00
-                                                                       8                  4
-Stockholders' Equity
-Preferred stock; none issued                                          -                 -
-Common stock (outstanding 128,629; 128,766)                           1,286             1,288
-Paid-in capital                                                       1,150,75          1,124,82
-                                                                      1                 5
-Treasury stock, at cost                                               (864,502    )     (784,463     )
-Accumulated other comprehensive (loss)                                (537,290    )     (604,935     )
-Retained earnings                                                     2,760,63          2,404,12
-                                                                      9                 5
-Total RPM International Inc. stockholders' equity                     2,510,88          2,140,84
-                                                                      4                 0
-Noncontrolling interest                                               1,341             2,160
-Total equity                                                          2,512,22          2,143,00
-                                                                      5                 0
-Total Liabilities and Stockholders' Equity                          $ 6,586,54        $ 6,782,00
-                                                                      3                 4
-
-                                                                                          Page 16 of 17
-                 RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+              The Company has reflected these changes to its segment information retrospectively to the earliest
+              period presented, which primarily resulted in the realignment of net revenue and operating profit for
+              each of the segments as described above. These changes had no impact on Hewlett Packard
+              Enterprise's previously reported consolidated net revenue, net earnings, net earnings per share or total
+              assets.
 
 
 
-CONSOLIDATED STATEMENTS OF CASH FLOWS
-IN THOUSANDS
-(Unaudited)
-                                                                    Year Ended
-                                                                    May 31,            May 31,
-                                                                    2024               2023
+Use of non-GAAP financial measures
 
-Cash Flows From Operating Activities:
-Net income                                                          $ 589,442          $ 479,73
-                                                                                         1
-Adjustments to reconcile net income to net
-cash provided by operating activities:
-Depreciation and amortization                                         171,251            154,94
-                                                                                         9
-Goodwill Impairment                                                   -                  36,745
-Deferred income taxes                                                 (5,638     )       6,236
-Stock-based compensation expense                                      25,925             28,673
-Net (gain) loss on marketable securities                              (19,914    )       2,086
-Net (gain) on sales of assets and businesses                          (971       )       (28,632   )
-Other                                                                 2,226              1,683
-Changes in assets and liabilities, net of effect
-from purchases and sales of businesses:
-Decrease (increase) in receivables                                    82,895             (94,585   )
-Decrease in inventory                                                 179,843            66,805
-Decrease in prepaid expenses and other                                23,426             1,364
-current and long-term assets
-(Decrease) in accounts payable                                        (24,439    )       (116,05   )
-                                                                                         3
-Increase (decrease) in accrued compensation and benefits              39,891             (2,643    )
-Increase in accrued losses                                            5,958              2,231
-Increase in other accrued liabilities                                 52,410             38,515
-Cash Provided By Operating Activities                                 1,122,30           577,10
-                                                                      5                  5
-Cash Flows From Investing Activities:
-Capital expenditures                                                  (213,970   )       (254,43   )
-                                                                                         5
-Acquisition of businesses, net of cash acquired                       (15,549    )       (47,542   )
-Purchase of marketable securities                                     (32,981    )       (18,674   )
-Proceeds from sales of marketable securities                          46,689             12,731
-Proceeds from sales of assets and businesses                          6,921              58,288
-Other                                                                 2,450              (72       )
-Cash (Used For) Investing Activities                                  (206,440   )       (249,70   )
-                                                                                         4
-Cash Flows From Financing Activities:
-Additions to long-term and short-term debt                            -                  341,72
-                                                                                         0
-Reductions of long-term and short-term debt                           (575,408   )       (355,46   )
-                                                                                         3
-Cash dividends                                                        (231,883   )       (213,91   )
-                                                                                         2
-Repurchases of common stock                                           (54,978    )       (50,000   )
-Shares of common stock returned for taxes                             (24,548    )       (17,047   )
+To supplement Hewlett Packard Enterprise's condensed consolidated financial statement information presented on
+a GAAP basis, Hewlett Packard Enterprise provides non-GAAP financial measures including revenue on a constant
+currency basis (including at the business segment level), non-GAAP gross profit, non-GAAP gross profit margin,
+non-GAAP operating profit (non-GAAP earnings from operations), non-GAAP operating profit margin (non-GAAP
+earnings from operations as a percentage of net revenue), non-GAAP income tax rate, non-GAAP net earnings,
+non-GAAP diluted net earnings per share, and FCF. Hewlett Packard Enterprise also provides forecasts of revenue
+growth on a constant currency basis, non-GAAP diluted net earnings per share, non-GAAP operating profit growth,
+and FCF.
 
-                                                                                                            Page 17 of 17
-                      RPM Reports Record Fiscal 2024 Fourth-Quarter and Full-Year Results
+                                                                                                  Page 14 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
 
-       Payments of acquisition-related contingent consideration                     (1,142      )          (3,765    )
-       Other                                                                        (2,075      )          (2,689    )
-       Cash (Used For) Financing Activities                                         (890,034    )          (301,15   )
-                                                                                                           6
+These non-GAAP financial measures are not computed in accordance with, or as an alternative to, GAAP in the
+United States. The GAAP measure most directly comparable to net revenue on a constant currency basis is net
+revenue. The GAAP measure most directly comparable to non-GAAP gross profit is gross profit. The GAAP
+measure most directly comparable to non-GAAP gross profit margin is gross profit margin. The GAAP measure
+most directly comparable to non-GAAP operating profit (non-GAAP earnings from operations) is earnings from
+operations. The GAAP measure most directly comparable to non-GAAP operating profit margin (non-GAAP
+earnings from operations as a percentage of net revenue) is operating profit margin (earnings from operations as a
+percentage of net revenue). The GAAP measure most directly comparable to non-GAAP income tax rate is income
+tax rate. The GAAP measure most directly comparable to non-GAAP net earnings is net earnings. The GAAP
+measure most directly comparable to non-GAAP diluted net earnings per share is diluted net earnings per share.
+The GAAP measure most directly comparable to FCF is cash flow from operations. Reconciliations of each of these
+non-GAAP financial measures to their most directly comparable GAAP measures for this quarter and prior periods
+are included in the tables above or elsewhere in the materials accompanying this news release.
 
-       Effect of Exchange Rate Changes on Cash and
-       Cash Equivalents                                                             (4,239      )          (12,130   )
+Usefulness of non-GAAP financial measures to investors
 
-       Net Change in Cash and Cash Equivalents                                      21,592                 14,115
+Hewlett Packard Enterprise believes that providing the non-GAAP financial measures stated above, in addition to
+the related GAAP measures provides investors with greater transparency to the information used by Hewlett
+Packard Enterprise's management in its financial and operational decision making and allows investors to see
+Hewlett Packard Enterprise's results "through the eyes" of management. Hewlett Packard Enterprise further
+believes that providing this information provides Hewlett Packard Enterprise's investors with a supplemental view to
+understand the Company's historical and prospective operating performance and to evaluate the efficacy of the
+methodology and information used by Hewlett Packard Enterprise's management to evaluate and measure such
+performance. Disclosure of these non-GAAP financial measures also facilitates the comparisons of Hewlett Packard
+Enterprise's operating performance with the performance of other companies in the same industry that supplement
+their GAAP results with non-GAAP financial measures that may be calculated in a similar manner.
 
-       Cash and Cash Equivalents at Beginning of Period                             215,787                201,67
-                                                                                                           2
+Economic substance of and material limitations associated with non-GAAP financial measures used by Hewlett
+Packard Enterprise
 
-       Cash and Cash Equivalents at End of Period                                 $ 237,379              $ 215,78
-                                                                                                           7
+Net revenue on a constant currency basis assumes no change to the foreign exchange rate utilized in the
+comparable prior-year period. This measure assists investors with evaluating the Company's past and future
+performance, without the impact of foreign exchange rates, as more than half of our revenue is generated outside of
+the U.S. Non-GAAP gross profit and non-GAAP gross profit margin are defined to exclude charges relating to the
+stock-based compensation expense, and disaster (recovery) charges. Non-GAAP operating profit (non-GAAP
+earnings from operations) and non-GAAP operating profit margin (non-GAAP earnings from operations as a
+percentage of net revenue) consist of earnings from operations or earnings from operations as a percentage of net
+revenue excluding the items mentioned above and charges relating to the amortization of intangible assets,
+transformation costs, and acquisition, disposition and other related charges. Non-GAAP net earnings and non-
+GAAP diluted net earnings per share consist of net earnings or diluted net earnings per share excluding the
+charges previously stated, as well as earnings from equity interests, gain or loss on equity investments, other
+adjustments, and adjustments for taxes. The Adjustments for taxes line item includes certain income tax valuation
+allowances and separation taxes, the impact of tax reform, structural rate adjustment, excess tax benefit from stock-
+based compensation, and adjustments for additional taxes or tax benefits associated with each non-GAAP item.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240725594233/en/
+Hewlett Packard Enterprise believes that excluding the items mentioned above from the non-GAAP financial
+measures provides a supplemental view to management and investors of its consolidated financial performance
+and presents the financial results of the business without costs that Hewlett Packard Enterprise's management
+does not believe to be reflective of ongoing operating results. Exclusion of these items can have a material impact
+on the equivalent GAAP measure and cash flows thus limiting their use as analytical tools. These limitations are
+discussed below or elsewhere in the materials accompanying this news release. More specifically, Hewlett Packard
+Enterprise's management excludes each of those items mentioned above for the following reasons:
+
+                                                                                               Page 15 of 17
+Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                         continues to scale recurring revenue, advancing long....
+
+•   Hewlett Packard Enterprise incurs charges relating to the amortization of intangible assets and excludes
+    these charges for purposes of calculating these non-GAAP measures. Such charges are significantly
+    impacted by the timing and magnitude of Hewlett Packard Enterprise's acquisitions. Hewlett Packard
+    Enterprise excludes these charges for the purpose of calculating these non-GAAP measures, primarily
+    because they are non-cash expenses and the Company's internal benchmarking analyses evidence that
+    many industry participants and peers present non-GAAP financial measures excluding intangible asset
+    amortization. Although this does not directly affect Hewlett Packard Enterprise's cash position, the loss in
+    value of intangible assets over time can have a material impact on the equivalent GAAP earnings measure.
+•   Transformation costs represent net costs related to the (i) HPE Next Plan and (ii) Cost Optimization and
+    Prioritization Plan and include restructuring charges, program design and execution costs, costs incurred to
+    transform the Company's IT infrastructure, net gains from the sale of real estate and any impairment
+    charges on real estate identified as part of the initiatives. Hewlett Packard Enterprise excludes these costs
+    as they are discrete costs related to two specific transformation programs that were announced in 2017
+    and 2020, respectively, as multi-year programs necessary to transform the business and IT infrastructure
+    following material divestiture transactions in 2017 and in response to COVID-19 and an evolving product
+    portfolio in fiscal 2020. The HPE Next Plan and the Cost Optimization and Prioritization Plan are
+    substantially complete. The exclusion of the transformation program costs from the non-GAAP financial
+    measures, as stated above, is to provide a supplemental measure of the Company's operating results that
+    do not include material HPE Next Plan and the Cost Optimization and Prioritization Plan costs as the
+    Company's management does not believe such costs to be reflective of its ongoing operating cost
+    structure. Further, the transformation costs for these plans have materially fluctuated since 2017, have
+    been materially declining since 2021 and the Company does not expect these costs to be material. Hewlett
+    Packard Enterprise's management believes non-GAAP measures excluding these costs are useful to
+    management and investors for comparing operating performance across multiple periods.
+•   Disaster (recovery) charges are primarily related to the exit of the Company's businesses in Russia and
+    Belarus, and include credit losses of financing and trade receivables, employee severance and abandoned
+    assets. Disaster charges also include direct costs or recovery of these costs related to COVID-19 as a
+    result of Hewlett Packard Enterprise-hosted, co-hosted, or sponsored event cancellations and subsequent
+    shift to a virtual format. Hewlett Packard Enterprise excludes Disaster (recovery) charges from these non-
+    GAAP measures as the specific charges are non-recurring charges and not indicative of the operational
+    performance of the Company's business.
+•   Stock-based compensation expense consists of equity awards granted based on the estimated fair value of
+    those awards at grant date. Although stock-based compensation is a key incentive offered to employees,
+    Hewlett Packard Enterprise excludes these charges for the purpose of calculating these non-GAAP
+    measures, primarily because they are non-cash expenses, and the Company's internal benchmarking
+    analyses evidence that many industry participants and peers present non-GAAP financial measures
+    excluding stock-based compensation expense.
+•   Hewlett Packard Enterprise incurs costs related to its acquisition, disposition and other related charges.
+    The charges are direct expenses, such as professional fees and retention costs, most of which are treated
+    as non-cash or non-capitalized expenses. For the first quarter of 2024, these charges were driven by costs
+    associated with the pending acquisition of Juniper Networks, in addition to prior acquisitions of Axis and
+    Athonet. For the first quarter of 2023, these charges were driven by acquisitions of Zerto and Determined
+    AI. Charges may also include expenses associated with disposal activities including legal and arbitration
+    settlements in connection with certain dispositions. Hewlett Packard Enterprise's management considers
+    these acquisitions and divestitures to be discrete events. The Company excludes these costs as these
+    expenses are inconsistent in amount and frequency and are significantly impacted by the timing and nature
+    of its acquisitions and divestitures. In addition, the Company's internal benchmarking analyses evidence
+    that many industry participants and peers present non-GAAP financial measures excluding these charges.
+•   For the first fiscal quarter of 2024 and prospectively, the adjustment to earnings from equity interests
+    includes the equity in earnings from the H3C investment. In connection with the planned divestiture of the
+
+                                                                                                  Page 16 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
+
+        H3C investment, the Company stopped reporting H3C earnings in the non-GAAP results as the Company
+        no longer receives dividends from this investment due to the Put Share Purchase Agreement described in
+        Note 20 "Equity Method Investments" to the Consolidated Financial Statements in Item 8 of Part II of the
+        Company Annual Report on Form 10-K for the fiscal year ended October 31, 2023. All periods presented
+        include the amortization of the basis difference in this investment. For the first fiscal quarter of 2023, this
+        adjustment also included the Company's portion of intangible asset impairment charges from H3C. The
+        Company believes that eliminating these amounts for purposes of calculating non-GAAP financial
+        measures facilitates the evaluation of the current operating performance.
+    •   Hewlett Packard Enterprise excludes gains and losses (including impairments) on its non-marketable
+        equity investments because the Company does not believe they are reflective of normal continuing
+        business operations. These adjustments are reflected in Interest and other, net in the Condensed
+        Consolidated Statements of Earnings. The Company believes eliminating these adjustments for the
+        purposes of calculating non-GAAP measures facilitates the evaluation of its current operating performance.
+    •   Hewlett Packard Enterprise utilizes a structural long-term projected non-GAAP income tax rate in order to
+        provide consistency across the interim reporting periods and to eliminate the effects of items not directly
+        related to the Company's operating structure that can vary in size and frequency. When projecting this
+        long-term rate, Hewlett Packard Enterprise evaluated a three-year financial projection. The projected rate
+        assumes no incremental acquisitions in the three-year projection period and considers other factors
+        including Hewlett Packard Enterprise's expected tax structure, its tax positions in various jurisdictions and
+        current impacts from key legislation implemented in major jurisdictions where Hewlett Packard Enterprise
+        operates. For fiscal 2024, the Company will use a projected non-GAAP income tax rate of 15%, which
+        reflects currently available information as well as other factors and assumptions. The non-GAAP income
+        tax rate could be subject to change for a variety of reasons, including the rapidly evolving global tax
+        environment, significant changes in Hewlett Packard Enterprise's geographic earnings mix including due to
+        acquisition activity, or other changes to the Company's strategy or business operations. The Company will
+        re-evaluate its long-term rate as appropriate. For fiscal 2023, the Company had a non-GAAP tax rate of
+        14%. Hewlett Packard Enterprise's management believes that making these adjustments for purposes of
+        calculating non-GAAP measures, facilitates a supplemental evaluation of the Company's current operating
+        performance and comparisons to past operating results.
+    •   FCF is defined as cash flow from operations, less net capital expenditures (investments in property, plant &
+        equipment ("PP&E") less proceeds from the sale of PP&E), and adjusted for the effect of exchange rate
+        fluctuations on cash, cash equivalents, and restricted cash. FCF does not represent the total increase or
+        decrease in cash for the period. Hewlett Packard Enterprise's management and investors can use FCF for
+        the purpose of determining the amount of cash available for investment in the Company's businesses,
+        repurchasing stock and other purposes as well as evaluating its historical and prospective liquidity.
+
+Compensation for material limitations with use of non-GAAP financial measures
+
+These non-GAAP financial measures have limitations as analytical tools, and these measures should not be
+considered in isolation or as a substitute for analysis of Hewlett Packard Enterprise's results as reported under
+GAAP. Some of the limitations in relying on these non-GAAP financial measures are that they can have a material
+impact on the equivalent GAAP earnings measures and cash flows, they may be calculated differently by other
+companies (limiting the usefulness of those measures for comparative purposes) and may not reflect the full
+economic effect of the loss in value of certain assets. Hewlett Packard Enterprise compensates for these limitations
+on the use of non-GAAP financial measures by relying primarily on its GAAP results and using non-GAAP financial
+measures only as a supplement. Hewlett Packard Enterprise also provides a reconciliation of each non-GAAP
+financial measure to its most directly comparable GAAP financial measure for this quarter and prior periods within
+this news release and in other written materials that include these non-GAAP financial measures, and Hewlett
+Packard Enterprise encourages investors to review those reconciliations carefully.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240229327637/en/
+
+                                                                                                  Page 17 of 17
+   Hewlett Packard Enterprise Reports Fiscal 2024 First Quarter Results Exceeds profitability expectations and
+                            continues to scale recurring revenue, advancing long....
 
 
-CONTACT: Matt Schlarb,Vice           President    -   Investor    Relations   &   Sustainability,   at    330-220-6064      or
-mschlarb@rpminc.com .
+
+CONTACT: Media Contact:
+Laura Keller
+
+Laura.Keller@hpe.com
+
+
+Investor Contact:
+Jeff Kvaal
+
+investor.relations@hpe.com
 
 
 http://www.businesswire.com
 
 
-Load-Date: July 25, 2024
+Load-Date: March 7, 2024
 
 
   

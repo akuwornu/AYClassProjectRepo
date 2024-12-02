@@ -1,76 +1,134 @@
 
 
-                                                                                                        Page 1 of 2
-                        FEMA Awards ICF New $17 Million Cloud and Analytics Delivery Contract
+                                                                                                     Page 1 of 3
+      TeraWulf Reaffirms Business as Usual at the Nautilus Facility Amid Talen’s Sale of Data Center Campus
 
 
 
 
-   FEMA Awards ICF New $17 Million Cloud and Analytics Delivery Contract
-                                                           PR Newswire
-                                              July 22, 2024 Monday 4:05 PM EST
+ TeraWulf Reaffirms Business as Usual at the Nautilus Facility Amid Talen’s
+                       Sale of Data Center Campus
+                                                         GlobeNewswire
+                                              March 4, 2024 Monday 12:36 PM PT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 781 words
-Dateline: RESTON, Va., July 22, 2024
+
+
+
+Section: CALENDAR OF EVENTS
+Length: 1333 words
 
 Body
 
 
-PR NewswireICF to Build Data Exchange Platform to Improve Disaster Response EfficiencyRESTON, Va.,
-July 22, 2024 /PRNewswire/ -- The Federal Emergency Management Agency (FEMA) recently awarded global
-consulting and technology services provider ICF (NASDAQ:ICFI) a new $17 million data modernization contract to
-build a cloud-based data exchange platform to improve the efficiency and cost-effectiveness of their disaster
-response and recovery efforts. The contract, which was awarded by the Office of Policy and Program Analysis, has
-a term of three years, including a one-year base and two one-year option periods.
+Announces Exercise of Option to Expand at Nautilus
 
- ICF will leverage their industry-leading disaster management expertise along with cloud computing, generative
-AI/AI, DevSecOps, Agile and advanced analytics capabilities to fully operationalize FEMA's new Data Exchange
-(FEMADex) platform. The new platform will improve FEMA data sharing and data analytics and allow leaders to
-access, analyze and rapidly visualize data from multiple sources and stakeholders. This will better facilitate data-
-driven decision-making and collaboration across the emergency management community.ICF will implement
-FEMADex by delivering a modernized Azure Databricks-based solution from inception to execution."For over 25
-years, ICF has proudly supported FEMA's disaster response efforts, and we are excited to expand our partnership
-with our leading-edge technology and data management capabilities," said James Morgan ICF chief operating
-officer. "Improving data quality, timeliness and accessibility will give FEMA leaders access to critical insights that
-will enable stronger knowledge sharing and better support to local communities as they look to make quicker, more
-informed decisions to help impacted citizens and improve disaster response efficiency."A leader in data
-modernization solutions, ICF has managed and supported over 5,000 cloud instances for over 100 enterprise cloud
-projects across numerous federal agencies. With hundreds of technology certifications and accreditations, ICF has
-extensive experience implementing a full range of cloud capabilities from cloud operations, artificial intelligence
-(AI), machine learning (ML), cloud native development, cloud infrastructure, application modernization and
-migration, data sharing and more.For over 20 years, ICF has been on the ground for some of the most significant
-natural disasters in U.S. history—serving over 150 state and local communities across over 86 disasters and
-managing over $88 billion in federal disaster recovery and mitigation funds. The company supports communities
-across the disaster management lifecycle—from assessment to public engagement and planning through
-implementation.Read more about ICF'sdigital modernizationanddisaster managementservices andcloud
-solutions.About ICFICF is a global consulting and technology services company with approximately 9,000
-employees, but we are not your typical consultants. At ICF, business analysts and policy specialists work together
-with digital strategists, data scientists and creatives. We combine unmatched industry expertise with cutting-edge
-engagement capabilities to help organizations solve their most complex challenges. Since 1969, public and private
+Highlights Value of Over 300 MW of Available Digital Infrastructure Capacity at Lake Mariner Facility
 
-                                                                                                        Page 2 of 2
-                     FEMA Awards ICF New $17 Million Cloud and Analytics Delivery Contract
+EASTON, Md., March 04, 2024 (GLOBE NEWSWIRE) -- TeraWulf Inc. (Nasdaq: WULF) (“TeraWulf” or the
+“Company”), owners and operators of vertically integrated, domestic bitcoin mining facilities powered by more than
+95% zero-carbon energy, today issued the following statement regarding Talen’s sale of the Cumulus data center
+campus and disclosed the exercise of its option to increase its energy resources by an additional 50 MW at the
+Nautilus facility, bringing TeraWulf’s bitcoin mining capacity at the Pennsylvania site to 100 MW.
 
-sector clients have worked with ICF to navigate change and shape the future. Learn more aticf.com.Caution
-Concerning Forward-looking StatementsStatements that are not historical facts and involve known and unknown
-risks and uncertainties are "forward-looking statements" as defined in the Private Securities Litigation Reform Act of
-1995. Such statements may concern our current expectations about our future results, plans, operations and
-prospects and involve certain risks, including those related to the government contracting industry generally; our
-particular business, including our dependence on contracts with U.S. federal government agencies; our ability to
-acquire and successfully integrate businesses; and various risks and uncertainties related to health epidemics,
-pandemics, and similar outbreaks. These and other factors that could cause our actual results to differ from those
-indicated in forward-looking statements that are included in the "Risk Factors" section of our securities filings with
-the Securities and Exchange Commission. The forward-looking statements included herein are only made as of the
-date hereof, and we specifically disclaim any obligation to update these statements in the future.Contact: Lauren
-Dyke,, +1.571.373.5577 View original content to download multimedia:https://www.prnewswire.com/news-
-releases/fema-awards-icf-new-17-million-cloud-and-analytics-delivery-contract-302203002.htmlSOURCE ICF
+“I extend congratulations to our valued partner, Talen, on the sale of the Cumulus data center campus to Amazon
+Web Services,” said Paul Prager, Chief Executive Officer of TeraWulf. “This sale underscores the considerable
+value of scalable infrastructure with access to low-cost, sustainable power adaptable for high-performance
+computing or AI.”
+
+“Talen's recent announcement also highlights the significant value inherent within our wholly-owned Lake Mariner
+facility in Upstate NY, with over 300 MW of available capacity ideally situated to support data center infrastructure
+with access to an abundant supply of 93% zero-carbon power,” continued Prager.
+
+The Nautilus facility represents the first behind-the-meter Bitcoin mining facility of its kind, directly sourcing reliable,
+carbon-free, 24x7 baseload power from the 2.5 GW Susquehanna nuclear generation station in Pennsylvania. The
+Company began mining at the Nautilus facility, a joint venture with Cumulus Coin, LLC, in February 2023 and
+deployed its full share in phase one of the facility – 50 MW – in April 2023. TeraWulf’s additional 50 MW of capacity
+
+                                                                                                    Page 2 of 3
+     TeraWulf Reaffirms Business as Usual at the Nautilus Facility Amid Talen’s Sale of Data Center Campus
+
+at the Nautilus facility is expected to come online in 2025 and could accommodate up to 2.5 EH/s of operational
+mining capacity.
+
+TeraWulf’s current 50 MW of operational bitcoin mining at the Nautilus facility benefits from a direct supply of zero-
+carbon power contracted at a fixed rate of 2.0 cents per kilowatt-hour for a term of five years with two successive
+three-year renewal options.
+
+Nazar Khan, Chief Operating Officer of TeraWulf, stated, “We’re excited to announce our plans to double
+TeraWulf’s bitcoin mining capacity at the Nautilus facility in the next year. With the upcoming halving event in mind,
+this expansion brings significant benefits for TeraWulf as we expand our operations with the Nautilus site’s leading
+lowest cost of power at just two cents per kilowatt hour.”
+
+Khan continued, “Cost of power is arguably the most important metric when considering the success of a miner
+post-halving. Since this is the only metric directly impacted by the event, a bitcoin miner’s cost of power can
+determine whether or not they will emerge from this event successful. TeraWulf is positioned exceptionally
+favorably in this case, having one of the leading costs of power throughout the space, averaging around 3.5 cents
+across our two sites.”
+
+About TeraWulf
+
+TeraWulf owns and operates vertically integrated, environmentally clean bitcoin mining facilities in the United
+States. Led by an experienced group of energy entrepreneurs, the Company currently has two Bitcoin mining
+facilities: the wholly owned Lake Mariner facility in New York, and Nautilus Cryptomine facility in Pennsylvania, a
+joint venture with Cumulus Coin, LLC. TeraWulf generates domestically produced Bitcoin powered by 95% zero
+carbon energy resources including nuclear, hydro, and solar with a goal of utilizing 100% zero-carbon energy. With
+a core focus on ESG that ties directly to its business success, TeraWulf expects to provide industry leading mining
+economics at an industrial scale.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the “safe harbor” provisions of the
+Private Securities Litigation Reform Act of 1995, as amended. Such forward-looking statements include statements
+concerning anticipated future events and expectations that are not historical facts. All statements, other than
+statements of historical fact, are statements that could be deemed forward-looking statements. In addition, forward-
+looking statements are typically identified by words such as “plan,” “believe,” “goal,” “target,” “aim,” “expect,”
+“anticipate,” “intend,” “outlook,” “estimate,” “forecast,” “project,” “continue,” “could,” “may,” “might,” “possible,”
+“potential,” “predict,” “should,” “would” and other similar words and expressions, although the absence of these
+words or expressions does not mean that a statement is not forward-looking. Forward-looking statements are based
+on the current expectations and beliefs of TeraWulf’s management and are inherently subject to a number of
+factors, risks, uncertainties and assumptions and their potential effects. There can be no assurance that future
+developments will be those that have been anticipated. Actual results may vary materially from those expressed or
+implied by forward-looking statements based on a number of factors, risks, uncertainties and assumptions,
+including, among others: (1) conditions in the cryptocurrency mining industry, including fluctuation in the market
+pricing of bitcoin and other cryptocurrencies, and the economics of cryptocurrency mining, including as to variables
+or factors affecting the cost, efficiency and profitability of cryptocurrency mining; (2) competition among the various
+providers of cryptocurrency mining services; (3) changes in applicable laws, regulations and/or permits affecting
+TeraWulf’s operations or the industries in which it operates, including regulation regarding power generation,
+cryptocurrency usage and/or cryptocurrency mining, and/or regulation regarding safety, health, environmental and
+other matters, which could require significant expenditures; (4) the ability to implement certain business objectives
+and to timely and cost-effectively execute integrated projects; (5) failure to obtain adequate financing on a timely
+basis and/or on acceptable terms with regard to growth strategies or operations; (6) loss of public confidence in
+bitcoin or other cryptocurrencies and the potential for cryptocurrency market manipulation; (7) adverse geopolitical
+or economic conditions, including a high inflationary environment; (8) the potential of cybercrime, money-
+laundering, malware infections and phishing and/or loss and interference as a result of equipment malfunction or
+
+                                                                                                    Page 3 of 3
+     TeraWulf Reaffirms Business as Usual at the Nautilus Facility Amid Talen’s Sale of Data Center Campus
+
+break-down, physical disaster, data security breach, computer malfunction or sabotage (and the costs associated
+with any of the foregoing); (9) the availability, delivery schedule and cost of equipment necessary to maintain and
+grow the business and operations of TeraWulf, including mining equipment and infrastructure equipment meeting
+the technical or other specifications required to achieve its growth strategy; (10) employment workforce factors,
+including the loss of key employees; (11) litigation relating to TeraWulf, RM 101 f/k/a IKONICS Corporation and/or
+the business combination; and (12) other risks and uncertainties detailed from time to time in the Company’s filings
+with the Securities and Exchange Commission (“SEC”). Potential investors, stockholders and other readers are
+cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on
+which they were made. TeraWulf does not assume any obligation to publicly update any forward-looking statement
+after it was made, whether as a result of new information, future events or otherwise, except as required by law or
+regulation. Investors are referred to the full discussion of risks and uncertainties associated with forward-looking
+statements and the discussion of risk factors contained in the Company’s filings with the SEC, which are available
+at www.sec.gov.
+
+Company Contact:Jason AssadDirector of Corporate Communicationsassad@terawulf.com (678) 570-6791
 
 
-Load-Date: July 22, 2024
+
+
+Load-Date: March 4, 2024
 
 
   

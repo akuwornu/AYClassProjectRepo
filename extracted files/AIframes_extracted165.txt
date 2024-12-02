@@ -1,14 +1,14 @@
 
 
-                                                                                                        Page 1 of 2
-                           How Citizen Science is Helping Humanitarian Aid Workers in Sudan
+                                                                                                   Page 1 of 8
+                                Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
 
 
 
 
-        How Citizen Science is Helping Humanitarian Aid Workers in Sudan
+                Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
                                                      Targeted News Service
-                                           July 31, 2024 Wednesday 7:20 AM EST
+                                         February 10, 2024 Saturday 10:15 AM EST
 
 
 
@@ -17,80 +17,427 @@ Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
-Length: 708 words
+Length: 3422 words
 Byline: Targeted News Service
-Dateline: LANCASTER, England
+Dateline: WASHINGTON
 
 Body
 
 
-(TNSres) -- Lancaster University issued the following news:
-
-Scientists from Lancaster University are developing a project to help humanitarian aid workers in Sudan avoid
-flooded areas when delivering supplies.
-
-The project has grown out of the Zooniverse citizen science platform, where members of the public are able to
-identify patterns in datasets that are too big for experts to examine themselves and too complex for computer
-algorithms and AI to label reliably.
-
-Lancaster Astrophysicist Dr Brooke Simmons, who is Deputy PI of the Galaxy Zoo citizen science project, said:
-"Humans are very good at spotting things like complex spiral patterns in galaxies, or which of the changes between
-nightly images of the same part of the sky have a real exploding star in them, amidst any of the other things that
-can change, like a satellite passing overhead or a random cosmic ray hitting the detector."
-
-Dr Simmons has been leading the humanitarian and disaster relief efforts in the Zooniverse since 2014, after
-realising that the skills needed to identify a new supernova are the same as those needed to identify the features
-most important to responders and decision makers, such as road blockages and structural damage.
-
-"In crisis mapping you ignore changes like debris in a field that is nowhere near a building or road, and only mark
-the things responders need to know about. The details are different, but the fundamental task is the same as in our
-astrophysical citizen science projects, or Zooniverse projects in other research fields."
-
-Now those same skills are being used to help create a map of road and riverbed crossings in Sudan, where the
-network of roads is crossed by riverbeds which flood during the rainy season. It is currently very hard to confidently
-predict which riverbeds will be flooded on any given day during the rainy season. As a result, humanitarian workers
-too often have to abort a trip to deliver aid, wasting time and resources.
-
-                                                                                                       Page 2 of 2
-                        How Citizen Science is Helping Humanitarian Aid Workers in Sudan
-
-"That task by itself will be very valuable for aid workers. Once the rainy season gets going this year, we are hoping
-to use the road-riverbed map to identify areas where we can focus monitoring efforts. The plan is to continue the
-project by asking volunteers to regularly check new imagery that's available and see if we can rapidly identify new
-flooding in time to help aid workers on the ground plan their travel routes."
-
-For this project, the team, including Lancaster's Humanitarian Outreach Officer Alice Mead, are working with
-Logistics Cluster who are coordinating the humanitarian logistics efforts in Sudan under the auspices of the United
-Nations World Food Programme (WFP). "Through coordination cells in Nairobi, Port Sudan, and N'Djamena, the
-Logistics Cluster is providing vital logistics information management and coordination support to partner
-organisations. The cluster has plotted over 200 wadis on LogIE (Logistics Information Exchange) along key supply
-routes that are likely to be affected during the rainy season and has developed a regional map showing the
-estimated physical access constraints that will be faced in Sudan, Chad, and South Sudan during peak rainy
-season to support supply chain and access strategies.
-
-"We know where the roads are, but the wadi map is still incomplete, so we are asking volunteers to mark the
-crossings and to measure the lengths of roads that are crossed by the riverbeds. That will help partner
-organizations assess how severe future flooding might be, across the whole area they are trying to bring aid to, and
-for effective supply chain planning purposes".
-
-Alice Mead said: "We have worked closely with Logistics Cluster to identify the key need that the Zooniverse can
-help them meet, and we are excited to be partnering with them. This is a way of enabling the public to provide vital
-help even if they are far from Sudan and even if they can't, for example, make a financial donation."
-
-Dr Simmons presented on "Lessons Learned from Applying Astrophysical Methods to Disaster Relief, and Vice-
-Versa" at the Royal Astronomical Society national meeting in 2024.
+(TNSres) -- The U.S. Census Bureau issued the following tip sheet (No. 3) on Feb. 9, 2024:
 
 ***
 
-Original text here: https://www.lancaster.ac.uk/news/how-citizen-science-is-helping-humanitarian-aid-workers-in-
-sudan
+Upcoming
+
+2024 Product Calendar
+
+The U.S. Census Bureau has posted anticipated release dates for each regular and recurring statistical product
+scheduled for release in 2024. These products are listed in the Census Bureau's online product calendar, which is
+updated as needed throughout the year.
+
+2030 Preparation
+
+Initial Strategies for 2030 Census Preparations
+
+The Census Bureau plans to release five strategy documents outlining how it plans to carry out the next decennial
+census. The strategies cover the Census Bureau's approach for conducting a complete count, designing
+operations, developing the IT solution, sourcing contracts and engaging with stakeholders for the 2030 Census.
+(Tentatively scheduled for release in February.)
+
+2020 Census
+
+2020 Island Areas Censuses Detailed Cross-Tabulations Data
+
+The Census Bureau will release detailed cross-tabulation data for the U.S. Island Areas: American Samoa, the
+Commonwealth of the Northern Mariana Islands, Guam and the U.S. Virgin Islands. The release includes 95
+demographic, social, economic and housing characteristics tables. These characteristics are cross tabulated by
+race, age, sex, place of birth, educational attainment, labor force status, occupation, industry, and income and
+
+                                                                                                      Page 2 of 8
+                            Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+earnings. Housing characteristics are cross tabulated by age of householder, household income in 2019, household
+size, tenure, units in structure and year built. This final release of 2020 Island Areas Censuses data includes the
+Island Area and county levels of geography. More information is available on the 2020 Island Areas Censuses Data
+Products webpage. (Scheduled for release February 15.)
+
+American Community Survey
+
+New Brief on the Commuting Patterns in the United States and Puerto Rico
+
+The U.S. Census Bureau will release a brief highlighting the newest available statistics on commuting behavior from
+the American Community Survey (ACS). Commuting in the United States: 2022 will explore recent commuting
+trends in the United States and Puerto Rico using estimates from the 2022 ACS 1-year dataset, with comparisons
+to ACS data from 2019 and 2021. The brief highlights changes in the way people travel to work since the onset of
+the COVID-19 pandemic, variation in commute time by year and across different types of community, and shifts in
+the distribution of workers leaving for work at different times of day between 2019 and 2022. (Tentatively scheduled
+for release February 20.)
+
+New Report on the Nation's Foreign-Born Population
+
+The U.S. Census Bureau will release new data products highlighting select demographic and socioeconomic
+characteristics of the nation's foreign-born population. The Foreign-Born Population 2022 report compares 2010
+and 2022 American Community Survey (ACS) 1-year estimates to provide insight into the changing composition of
+the foreign-born population in the United States. The Highlights of the Foreign-Born Population data visualization
+displays 2018-2022 ACS 5-year estimates about the foreign-born population at various levels of geography,
+including national, state and county. (Tentatively scheduled for release February 21.)
+
+Demographic
+
+Census Bureau Releases 2022 Community Resilience Estimates Equity Supplement
+
+The U.S. Census Bureau will release the 2022 Community Resilience Estimates Equity Supplement, an update to
+the CRE for Equity Interactive Tool, for U.S. areas most socially vulnerable to disasters. The Community Resilience
+Estimates Equity Supplement shows a connection between income inequality and higher social vulnerability to the
+impact of disasters and includes new 2022 equity estimates with race-iterated variables that allow users to examine
+select topics related to social vulnerability by specific racial and Hispanic origin groups. (Scheduled for release
+February 20.)
+
+Household Pulse Survey
+
+The experimental Household Pulse Survey (HPS) is an effort by the Census Bureau and other federal statistical
+agencies to measure how emergent issues are impacting U.S. households from a social and economic perspective.
+Phase 4 topics include employment status, spending, food security, housing, health, mental health, natural
+disasters, inflation and spending, vaccine receipt, COVID-19 diagnosis and treatment, shortage of critical products,
+disability, income, social connection and child care arrangements. Data collection for phase 4.0 began January 9,
+with data dissemination, including detailed data tables and public-use files on a monthly basis. (Scheduled for
+release February 22, March 21, and April 18.)
+
+Economic
+
+Transitioning Multiple Annual Economic Surveys to the new Annual Integrated Economic Survey
+
+The U.S. Census Bureau will announce the launch of the Annual Integrated Economic Survey (AIES) beginning in
+March. This new program replaces seven annual economic surveys, streamlining reporting by consolidating all
+necessary questions into one convenient survey. The AIES will replace the Annual Capital Expenditures Survey
+(ACES), Annual Retail Trade Survey (ARTS), Annual Survey of Manufactures (ASM), Annual Wholesale Trade
+Survey (AWTS), Manufacturers' Unfilled Orders Survey (M3UFO), Report of Organization (COS), and the Service
+
+                                                                                                        Page 3 of 8
+                            Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+Annual Survey (SAS). Companies selected to participate in the AIES will receive a survey invitation in March of
+2024The statistics created from that data will provide key measures of economic activity, including the only
+comprehensive national and subnational data on business revenues, expenses and assets on an annual basis. For
+more information on the AIES, visit census.gov/aies.
+
+"Studying Workers' Travel Patterns to Employment Centers Using Census Data"
+
+The U.S. Census Bureau and the Local Employment Dynamics (LED) Partnership in collaboration with the Council
+for Community and Economic Research (C2ER) and the Labor Market Information (LMI) Institute presents,
+"Studying Workers' Travel Patterns to Employment Centers Using Census Data." This study explores workers
+historical travel patterns, utilizing the Longitudinal Employer-Household Dynamics (LEHD) Origin-Destination
+Employment Statistics (LODES) data to gain insight into the relationship between demographic characteristics and
+primary employment centers in the San Diego region. Results of this study will help local policy makers and key
+stakeholders to institute data driven programs and policies to improve regional transportation systems leading to
+reduced congestion and emissions. (Schedule for release February 21.)
+
+2022 Annual Capital Expenditures Survey
+
+The U.S. Census Bureau is set to release data from the 2022 Annual Capital Expenditures Survey (ACES)
+highlighting the industries with the largest total capital expenditures for structures and equipment for companies
+with employees in 2022. Data are based on the 2017 North American Industry Classification System (NAICS). The
+ACES provides the only comprehensive estimates of annual U.S. capital expenditures data covering all domestic
+nonfarm businesses and detailing investments by type and industry. (Tentatively scheduled for release February
+28.)
+
+2021 Nonemployer Statistics
+
+The Census Bureau is set to release the 2021 Nonemployer Statistics (NES). This annual series provides
+subnational economic data for businesses that have no paid employees or payroll, are subject to federal income tax
+and have receipts of $1,000 or more ($1 or more for the Construction sector). The data consist of the number of
+businesses and total receipts by industry and are available for approximately 470 industries at detailed geographic
+levels, including national, state, county, metropolitan/micropolitan statistical areas and combined statistical areas.
+(Scheduled for release March 14.)
+
+Business Trends and Outlook Survey
+
+The Business Trends and Outlook Survey (BTOS) measures business conditions on an ongoing basis. BTOS
+experimental data products are representative of all employer businesses in the U.S. economy, excluding farms.
+Data are available by additional employment size classes: 1-4 employees, 5-9 employees, 10-19 employees, 20-49
+employees, 50-99 employees, 100-249 employees and 250 or more employees. The data allow greater insight into
+the state of the economy by providing continuous, timely information for key economic measures. Data are released
+biweekly and are available by sector, state and the 25 most populous metropolitan statistical areas. Additional
+details on artificial intelligence use and types used will be added for one cycle starting December 4, 2023, and
+released in March 2024. Because of the change in sample composition, BTOS data from before September 11,
+2023, are not directly comparable with data after that date.
+
+Monthly Business Formation Statistics
+
+Business Formation Statistics (BFS) provide timely, high-frequency data on business applications and employer
+business formations monthly. The data are available at the state, regional and national levels and by industry sector
+at the national level. The next monthly BFS will be released February 14 and include January 2024 data. Business
+Formation Statistics - Release Schedule (census.gov).
+
+Stats for Stories
+
+                                                                                                         Page 4 of 8
+                             Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+Stats for Stories provides links to timely story ideas highlighting U.S. Census Bureau statistics that relate to current
+events, observances, holidays and anniversaries. The story ideas are intended to assist the media in story mining
+and producing content for their respective audiences.
+
+* Oregon 165th Anniversary of Statehood (1859): February 14, 2024
+
+* Singles Awareness Day: February 15, 2024
+
+* Presidents' Day: February 19, 2024
+
+* Employee Appreciation Day: March 1, 2024
+
+* Red Cross Month: March 2024
+
+* Frozen Food Month & Day: March & 6, 2024
+
+* International Women's Day: March 8, 2024
+
+* 95th Oscars(R)/Academy Awards: March 10, 2024
+
+* Sunshine Week & FOI Day: March 10-16 & 16, 2024
+
+* Equal Pay Day: March 12, 2024
+
+* Pi Day: March 14, 2024
+
+* Potato Chip Day: March 14, 2024
+
+* National Agriculture Day & Week: March 17-23 & 19, 2024
+
+* Certified Nurses Day: March 19, 2024
+
+* National Poultry Day: March 19, 2024
+
+* National Single Parent Day: March 21, 2024
+
+* World Water Day: March 22, 2024
+
+* MLB Opening Day: March 28, 2024
+
+* National Mom and Pop Business Owners Day: March 29, 2024
+
+* National Vietnam War Veterans Day: March 29, 2024
+
+* National Doctors Day: March 30, 2024
+
+***
+
+Recently Released
+
+(Released since January 26, 2024)
+
+Census Scientific Advisory Committee: Call for Nominations
+
+The U.S. Census Bureau is requesting nominations to the Census Scientific Advisory Committee (CSAC) through a
+Federal Register notice (FRN). CSAC provides recommendations on the design, operation and implementation of
+Census Bureau programs. New members will serve a 3-year term. Nominations must be submitted through the
+FRN by February 2, 2024.
+
+                                                                                                        Page 5 of 8
+                             Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+2020 Census
+
+Detailed DHC-B Proof of Concept
+
+January 29 -- The Census Bureau released a proof of concept and hosted a webinar and for the 2020 Census
+Detailed Demographic and Housing Characteristics File B (Detailed DHC-B) for public review and feedback. The
+Detailed DHC-B includes household type and tenure data for approximately 1,500 detailed racial and ethnic groups
+and American Indian and Alaska Native tribes and villages. This proof of concept illustrates the proposed 2020
+Census Detailed DHC-B data product design and disclosure avoidance settings using 2010 Census data. A 30-day
+public feedback period on the proof of concept concludes February 28. The final Detailed DHC-B based on 2020
+Census     data   will   be    released    in   September     2024.    Learn    more      from    the    webinar
+(https://www.census.gov/data/academy/webinars/2024/disclosure-avoidance-series/dhc-b-proof-of-concept.html) on
+January 29.
+
+American Community Survey
+
+2022 Community Resilience Estimates, New Winter Weather and Flooding Ranking Tables
+
+January 30 -- The U.S. Census Bureau released the 2022 Community Resilience Estimates (CRE) and new ranking
+tables of U.S. areas most socially vulnerable to winter weather and flooding. The CRE interactive tool and datasets
+pages are updated with the new 2022 CRE data. Community resilience is the capacity of individuals and
+households within a community to absorb the external stresses of a disaster. The CRE measures the social
+vulnerability of a community that inhibits community resilience based on 10 topics from the American Community
+Survey, including poverty status, disability status, age, broadband internet access and health insurance coverage.
+
+Economic
+
+2020 Nonemployer Statistics by Demographics Data
+
+February 8 -- The U.S. Census Bureau released the 2020 Nonemployer Statistics by Demographics (NES-D).
+Included in this release are demographic data by urban and rural classification, receipt size of firm and legal form of
+organization plus characteristics of nonemployer business owners. The NES-D is an annual statistical series that
+uses existing administrative records and census data to link demographic characteristics to the universe of
+nonemployer businesses.
+
+Census Business Builder Version 5.4
+
+February 1 -- The U.S. Census Bureau released version 5.4 of the Census Business Builder tool. This update
+features a new enhancement that allows users to evaluate declared disaster areas and their impacts. CBB v5.4
+also includes enhancements to existing functionality and the latest data available. More information on Census
+Business Builder is available online.
+
+2022 Annual Wholesale Trade Survey
+
+January 29 -- The U.S. Census Bureau released data tables from the 2022 Annual Wholesale Trade Survey
+(AWTS). This survey produces national estimates of total annual sales, e-commerce sales, end-of-year inventories,
+purchases, operating expenses, gross margins and commissions for wholesale businesses located in the United
+States. The AWTS provides statistics for merchant wholesalers of durable and nondurable goods; manufacturers'
+sales branches and offices; and wholesale electronic markets, agents and brokers.
+
+2022 Annual Retail Trade Survey
+
+January 29 -- The U.S. Census Bureau released data tables from the 2022 Annual Retail Trade Survey (ARTS).
+This survey produces national estimates of total annual sales, e-commerce sales, end-of-year inventories,
+purchases, total operating expenses and gross margins for retail businesses located in the United States. The data
+
+                                                                                                      Page 6 of 8
+                            Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+are published on a North American Industry Classification System (NAICS) basis and the estimates are used to
+benchmark the monthly retail sales and inventories estimates each spring.
+
+2022 Service Annual Survey
+
+January 30 -- The U.S. Census Bureau released new data tables from the 2022 Service Annual Survey (SAS). The
+SAS provides statistics on revenue, payroll, sources of revenue, expenses, exports, inventory, revenue from
+electronic sources and other selected industry-specific data for service industries. The data are accompanied by
+supporting materials, including a data visualization that provides revenue statistics for all sectors covered by the
+SAS.
+
+America Counts: Stories Behind the Numbers
+
+America Counts tells the stories behind the numbers in a new and inviting way. We feature stories on various topics
+such as families, housing, employment, business, education, the economy, emergency preparedness and the
+population. New stories include:
+
+* How the Real Estate Market Relies on Census Data (February 1)
+
+Stats for Stories
+
+Stats for Stories provides links to timely story ideas highlighting the Census Bureau's newsworthy statistics that
+relate to current events, observances, holidays and anniversaries. The story ideas are intended to assist the media
+in story mining and producing content for their respective audiences.
+
+* Valentine's Day: February 14, 2024
+
+* Mardi Gras: February 13, 2024
+
+* Inventors' Day: February 11, 2024
+
+* Super Bowl LVIII: February 11, 2024
+
+* Lunar New Year: February 10, 2024
+
+* National Weatherperson's Day: February 5, 2024
+
+* Grammy Awards: February 4, 2024
+
+* Mail Carrier Day: February 4, 2024
+
+* National Women Physicians Day: February 3, 2024
+
+* Groundhog Day: February 2, 2024
+
+* American Heart Month: February 2024
+
+Blogs
+
+Next Steps on the American Community Survey Disability Questions
+
+Written by: Robert L. Santos, Director, U.S. Census Bureau -- February 6 -- The American Community Survey
+(ACS) is the premier source for detailed population and housing information about our nation and the only source of
+local estimates for most of the 40-plus topics it covers. Adding a question or making a change to the ACS involves
+extensive testing, review and evaluation over a 5-year period. (The current ACS question revisions under
+consideration were first proposed in 2018.) Over 25 federal agencies participate in this process and make
+recommendations to the Interagency Council on Statistical Policy's Subcommittee on the ACS (ICSP-SACS), which
+is co-chaired by the chief statistician of the United States and the U.S. Census Bureau director.
+
+                                                                                                   Page 7 of 8
+                           Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+Resources
+
+Emergency Management/Disaster Resources -- When major disasters strike, visit our Emergency Management
+webpage for demographic and economic data on impacted areas. Each disaster will include data from our key
+emergency management tools: OnTheMap for Emergency Management, Community Resilience Estimates, Census
+Business Builder: Regional Analyst Edition, and other useful resources.
+
+Learn What Surveys Are Being Conducted in Your Community -- Discover which of the U.S. Census Bureau's 130-
+plus annual surveys are being conducted in your community. In a variety of surveys and censuses, evolving from
+the first census in 1790, the Census Bureau provides official information about America's people, businesses,
+industries and institutions. Learn more about surveys currently being conducted in each Census Bureau region:
+
+* Atlanta (https://www.census.gov/about/regions/atlanta/surveys-programs.html)
+
+* Chicago (https://www.census.gov/about/regions/chicago/surveys-programs.html)
+
+* Denver (https://www.census.gov/about/regions/denver/surveys-programs.html)
+
+* Los Angeles (https://www.census.gov/about/regions/los-angeles/surveys-programs.html)
+
+* New York (https://www.census.gov/about/regions/new-york/surveys-programs.html)
+
+* Philadelphia (https://www.census.gov/about/regions/philadelphia/surveys-programs.html)
+
+* All Surveys (https://www.census.gov/programs-surveys/surveyhelp/list-of-surveys.html)
+
+Data Tools
+
+Below are a few of the U.S. Census Bureau's interactive applications used to access statistics from our 130-plus
+annual surveys. A complete list can be accessed on the Census Bureau's Data Tools and Apps webpage
+(https://www.census.gov/data/data-tools.html).
+
+My Community Explorer for Puerto Rico -- Interactive map-based tool with demographic & socioeconomic data
+showing capacity of individuals & households to absorb stresses of the impacts of a disaster.
+
+My Congressional District -- Access selected statistics about your Congressional district collected through the
+American Community Survey (ACS) and County Business Patterns (CBP).
+
+QuickFacts -- QuickFacts provides frequently requested Census Bureau information at the national, state, county,
+and city level.
+
+Training Opportunities
+
+Census Bureau Training Opportunities -- Webinars are available on a regular basis to help the public access and
+use Census Bureau statistics. These free sessions, which are 60 to 90 minutes each, show users how to navigate
+Census Bureau databases and mapping tools and find demographic and economic statistics at the local or national
+level. Descriptions of upcoming sessions are available on our Census Academy webpage. Login details are
+provided at least one week before a webinar.
+
+* The Annual Business Survey and The Economic Census (Thursday, February 15, 2-3:30 p.m. EST)
+
+* Studying Workers' Travel Patterns to Employment Centers Using Census Data (Wednesday, February 21, 1:30-
+3:00 p.m. EST)
+
+* Diving into Island Areas Cross Tabulations on data.census.gov (Thursday, February 22, 2-3 p.m. EST)
+
+                                                                                                   Page 8 of 8
+                           Census Bureau Issues Tip Sheet No. 3 -- February 9, 2024
+
+* Exploring the Diversity and Growth of the Asian American Population (Thursday, February 22, 2-3 p.m. EST)
+
+* Comparing the American Community Survey to the Household Pulse Survey (Wednesday, February 28, 2-3 p.m.
+EST)
+
+* Community Resilience Estimates (Thursday, February 29, 2-3 p.m. EST)
+
+Visit the Census Bureau's Educational Resource Library (https://www.census.gov/data/academy/webinars.html) for
+previously recorded, free training available at your convenience. The library includes presentations, recorded
+webinars, tutorials and other helpful materials.
+
+***
+
+Original text here: https://www.census.gov/newsroom/tip-sheets/2024/tp24-03.html
 
 Copyright Targeted News Services
 
-MSTRUCK-8751984 MSTRUCK
+MSTRUCK-8483205 MSTRUCK
 
 
-Load-Date: July 31, 2024
+Load-Date: February 10, 2024
 
 
   

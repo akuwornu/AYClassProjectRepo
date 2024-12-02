@@ -1,83 +1,107 @@
 
 
-                                                                                                   Page 1 of 2
-   Tintri to Unveil New Disaster Recovery Feature for Lightning-Fast System Restoration at VMware Explore Las
-                                                   Vegas 2024
+                                                                                                    Page 1 of 2
+            Intermap Closes Private Placement Funds will be used to fund future government opportunities
 
 
 
 
-   Tintri to Unveil New Disaster Recovery Feature for Lightning-Fast System
-                 Restoration at VMware Explore Las Vegas 2024
-                                                           PR Newswire
-                                           August 22, 2024 Thursday 6:15 AM EST
+      Intermap Closes Private Placement; Funds will be used to fund future
+                           government opportunities
+                                                         GlobeNewswire
+                                             January 16, 2024 Tuesday 4:30 AM PT
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
 
-Length: 796 words
-Dateline: CHATSWORTH, Calif., Aug. 22, 2024
+
+
+
+Section: FINANCING AGREEMENTS
+Length: 1072 words
 
 Body
 
 
-PR NewswireTintri to Exhibit VM-Aware, AI-Powered Data Management Solutions, Demo Live Technology
-Sessions and Present Insights on Intelligent Data Management for Virtualized EnvironmentsCHATSWORTH, Calif.,
-Aug. 22, 2024 /PRNewswire/ --Tintri®, a DDN® subsidiary, and leading provider of the world's first VM-aware, AI-
-powered data management solutions, will be exhibiting at VMware Explore Las Vegas at booth #1518 from Aug.
-26-29, 2024 and will be unveiling GLAS-DP – a new suite of disaster recovery features now available for Tintri
-customers. Attendees can see demos and experience how GLAS-DP autonomously detects, alerts and enables
-rapid recovery from a ransomware event.GLAS-DP enables customers to employ extensive recovery capabilities
-via theTintri Global Center™ (TGC)-AI platform leveraging the real time I/O stream and metadata ofVMstore™
-devices. The new capabilities enable instantaneous alerts on potential threats to streamline lightning-fast recovery.
-GLAS-DP allows IT managers to quickly restore points, recover within milliseconds, and roll forward – allowing for
-an efficient workflow with minimal downtime in the event of a ransomware breach. For an additional level of
-security, two factor authentication is included with the suite.Tintri will also be showcasing its AI-powered data
-management solutions for virtualized workloads, including:
+DENVER, Jan. 16, 2024 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: ITMSF) (“Intermap”
+or the “Company”), a global leader in 3D geospatial products and intelligence solutions, today announced the
+closing of a private placement (the “Private Placement”) for aggregate proceeds of C$885,000.
 
-VMstore: Intelligent data management system, which was purpose-built for virtualized infrastructures – specifically
-virtual servers, VDI and SQL databases, and has been truly VM-aware since 2011.Tintri Cloud Platform™: Full
-turnkey offering that enables customers to experience the benefits of a Tintri VMstore-powered managed cloud.
-Seamlessly delivering infrastructure and host-in-cloud and process-in-cloud capabilities. Attendees will be able to
-sign up for a free, no obligation 30-day trial.Tintri Cloud Engine™: Container-driven platform that provides
-customers with the flexibility to deploy Tintri technologies outside of the private data center by decoupling Tintri's
-AI-powered software from the VMstore T7000 hardware platform.Additionally, Tintri will hostGeek Out! LIVE
-Technology Demo Sessionsthroughout the duration of the show in the Tintri booth. Topics will include VMstore
-intelligent data management system, Tintri Cloud Platform managed infrastructure, analytics, VDI, DevOps, SQL
-databases, and ransomware/data protection/disaster recovery.Tintri executives Phil Trickovic, SVP, and Brock
-Mowry, CTO, will also leadBreakout and Expo sessionson the following topics:Breakout Session: "Platform
-Entropy? Unlocking Autonomy's Potential" – Trickovic and Mowry, will provide insight on how to unleash the
-potential of autonomy in critical business operations. They will discuss how to overcome the hurdles that come with
-implementing intelligent data architecture and management platforms, and practical solutions and strategies to turn
-challenges into opportunities for growth and innovation. This session will take place on Tuesday, Aug. 27 from
+The Private Placement included two tranches, with the first tranche consisting of the issuance of 1,650,000 units
+(“Units”) and the second tranche consisting of the issuance of 120,000 units, of which 20,000 units were acquired
+by insiders. Each Unit consists of one Class A common share of the Company (a “Share”), issued at a price of
+C$0.50, and one common share purchase warrant (a “Warrant”). Each Warrant will entitle the holder to purchase
+one�additional Share at an exercise price equal to the United States Dollar (“USD”) equivalent of C$0.80 per
+Share, which is exercisable for two years from the date of issuance.
 
-                                                                                                   Page 2 of 2
-   Tintri to Unveil New Disaster Recovery Feature for Lightning-Fast System Restoration at VMware Explore Las
-                                                   Vegas 2024
+“We appreciate the support of long-term investors as we prepare to execute on upcoming opportunities,” said
+Patrick A. Blott, Intermap Chairman and CEO. “This funding will partially fund pursuit costs associated with
+upcoming government contracts in the United States and abroad.”
 
-10:30 – 11:15 a.m. PDT in the Marcello 4503 on level four.Expo Session: "Are VMs Considered Legacy
-Technology?" – Even with the advent of newer IT infrastructure technologies like containers which can offer
-resource efficiency, rapid deployment, and scalability, VMs continue to be widely used especially in enterprise
-environments. Mowry will explore the role of VMs in contemporary IT systems, including legacy systems and hybrid
-environments where VMs can potentially coexist with containers and other architectures. This session will take
-place on Tuesday, Aug. 27 from 12:30 – 12:50 p.m. PDT in The Expo Theater, Hall B on level
-two.AvailabilityGLAS-DP will be available for customers leveraging Tintri Global Center AI platform in September
-2024. For more information, contact a Tintri sales representative or visithttps://tintri.com/company/talk-to-an-
-expert/.About TintriTintri, a wholly owned subsidiary of DataDirect Networks (DDN), delivers purpose-built
-solutions to store and manage virtual workloads in enterprise data centers. Thousands of customers have saved
-countless administrative hours using Tintri's innovative technologies. Explore the Tintri portfolio of solutions
-athttps://www.tintri.com.Contact:Walt & Company, on behalf of Tintri
-Sharon Sumrit, 408.369.7200
+Under the Private Placement, Intermap also issued 81,000 warrants (“Finder Warrants”) to certain finders. Each
+Finder Warrant is exercisable for one Share for two years from the date of issuance to each finder at a price of
+$0.39607 per Share, being the USD equivalent of C$0.528. The exchange rate used to calculate the USD
+equivalent exercise price for each the Warrants and the Finder Warrants was the Bank of Canada’s latest published
+rate for the business day immediately prior to the issuance of same.
 
-©2024 All rights reserved. DDN, Tintri, Tintri Global Center, VMstore, Tintri Cloud Platform, and Tintri Cloud Engine
-are trademarks or registered trademarks owned by DataDirect Networks. All other trademarks are the property of
-their respective owners. View original content:https://www.prnewswire.com/news-releases/tintri-to-unveil-new-
-disaster-recovery-feature-for-lightning-fast-system-restoration-at-vmware-explore-las-vegas-2024-
-302228100.htmlSOURCE Tintri
+All securities issued in connection with the Private Placement are subject to a 4-month and 1 day hold period,
+during which time trading in the securities is restricted in accordance with applicable securities laws. The Toronto
+
+                                                                                                  Page 2 of 2
+          Intermap Closes Private Placement Funds will be used to fund future government opportunities
+
+Stock Exchange conditionally approved the Private Placement and the listing of the Shares issued thereunder and
+the Shares issuable upon exercise of the Warrants prior to closing the Private Placement.
+
+Unless otherwise indicated, all dollar or “$” references are expressed in United States Dollar.
+
+To learn more about Intermap, visit intermap.com/investors.
+
+Intermap Reader AdvisoryCertain information provided in this news release, including reference to pending
+government contracts and commercial opportunities, constitutes forward-looking statements. The words
+“anticipate”, "expect", “project”, “estimate”, “forecast”, “continue”, “focus”, “will”, “intends” and similar expressions
+are intended to identify such forward-looking statements. Although Intermap believes that these statements are
+based on information and assumptions which are current, reasonable and complete, these statements are
+necessarily subject to a variety of known and unknown risks and uncertainties. Forward-looking information or
+statements in this news release include the use of proceeds from the Private Placement and the impact of such
+proceeds on the business of Intermap. Intermap’s forward-looking statements are subject to risks and uncertainties
+pertaining to, among other things, cash available to fund operations, availability of capital, revenue fluctuations,
+nature of government contracts, economic conditions, loss of key customers, retention and availability of executive
+talent, competing technologies, common share price volatility, loss of proprietary information, software functionality,
+internet and system infrastructure functionality, information technology security, breakdown of strategic alliances,
+and international and political considerations, as well as those risks and uncertainties discussed Intermap’s Annual
+Information Form and other securities filings. While the Company makes these forward-looking statements in good
+faith, should one or more of these risks or uncertainties materialize, or should underlying assumptions prove
+incorrect, actual results may vary significantly from those expected. Accordingly, no assurances can be given that
+any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do so, what
+benefits that the Company will derive therefrom. All subsequent forward-looking statements, whether written or oral,
+attributable to Intermap or persons acting on its behalf are expressly qualified in their entirety by these cautionary
+statements. The forward-looking statements contained in this news release are made as at the date of this news
+release and the Company does not undertake any obligation to update publicly or to revise any of the forward-
+looking statements made herein, whether as a result of new information, future events or otherwise, except as may
+be required by applicable securities law.
+
+About Intermap TechnologiesFounded in 1997 and headquartered in Denver, Colorado, Intermap (TSX: IMP;
+OTCQB: ITMSF) is a global leader in geospatial intelligence solutions, focusing on the creation and analysis of 3D
+terrain data to produce high-resolution thematic models. Through scientific analysis of geospatial information and
+patented sensors and processing technology, the Company provisions diverse, complementary, multi-source
+datasets to enable customers to seamlessly integrate geospatial intelligence into their workflows. Intermap’s 3D
+elevation data and software analytic capabilities enable global geospatial analysis through artificial intelligence
+and machine learning, providing customers with critical information to understand their terrain environment. By
+leveraging its proprietary archive of the world’s largest collection of multi-sensor global elevation data, the
+Company’s collection and processing capabilities provide multi-source 3D datasets and analytics at mission speed,
+enabling governments and companies to build and integrate geospatial foundation data with actionable insights.
+Applications for Intermap’s products and solutions include defense, aviation and UAV flight planning, flood and
+wildfire insurance, disaster mitigation, base mapping, environmental and renewable energy planning,
+telecommunications, engineering, critical infrastructure monitoring, hydrology, land management, oil and gas and
+transportation.
+For more information, please visit www.intermap.com or contact: Jennifer Bakken Executive Vice President
+and CFO CFO@intermap.com +1 (303) 708-0955
 
 
-Load-Date: August 22, 2024
+
+Load-Date: January 16, 2024
 
 
   

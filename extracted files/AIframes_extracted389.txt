@@ -1,164 +1,96 @@
 
 
-                                                                                              Page 1 of 3
-       WISeKey subsidiary WISeSat.Space Announces Developments in Secure IoT Connectivity and Climate
-                      Monitoring with European Satellite Independence and Strategic Mil....
+                                                                                                Page 1 of 2
+           Media Tip Sheet: Crews Work to Open Temporary Channel Near Baltimore Key Bridge Collapse
 
 
 
 
-WISeKey subsidiary WISeSat.Space Announces Developments in Secure IoT
-Connectivity and Climate Monitoring with European Satellite Independence
-                   and Strategic Military Collaboration
-                                                         GlobeNewswire
-                                              June 25, 2024 Tuesday 10:00 PM PT
+  Media Tip Sheet: Crews Work to Open Temporary Channel Near Baltimore
+                          Key Bridge Collapse
+                                                     Targeted News Service
+                                              April 1, 2024 Monday 3:17 PM EST
 
 
 
-Copyright 2024 GlobeNewswire, Inc. All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
 
 
 
-Section: COMPANY ANNOUNCEMENT
-Length: 1635 words
+Length: 690 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-WISeKey subsidiary WISeSat.Space Announces Developments in Secure IoT Connectivity and Climate Monitoring
-with European Satellite Independence and Strategic Military Collaboration
+George Washington University issued the following news:
 
-Geneva, Switzerland – June 26, 2024: WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ:
-WKEY), a global leader in cybersecurity, digital identity, and Internet of Things (IoT) innovations, today announced
-that its subsidiary WISeSat.Space (“Company”) is at the forefront of utilizing low-orbit satellites for secure IoT
-connectivity and climate change monitoring with upcoming developments. Planned developments include the
-launch of a new generation of satellites, installation of a satellite antenna in Switzerland, development of a neutral
-satellite constellation from Europe, and collaboration with the Swiss Army.
+WASHINGTON (April 1, 2024) - The cleanup process is underway at the site of the collapsed Francis Scott Key
+Bridge collapse in Baltimore, where crews are working to open a temporary channel. Last week, a container ship
+lost power and steering and hit the bridge, causing its full collapse and killing six construction workers who were on
+the bridge at the time. Maryland leaders are pressing Congress to quickly advance more aid money to help fully
+reopen the channel.
 
-In Q4 2024, WISeSat.Space is set to launch a new generation of satellites from California. This launch will mark a
-significant milestone in the Company’s efforts to expand its satellite constellation, further enhancing its ability to
-provide global IoT connectivity and environmental monitoring. The new generation of satellites are expected to offer
-improved performance and capabilities, supporting a wide range of applications from climate change monitoring to
-disaster management and smart agriculture.
+Faculty experts at the George Washington University are available to offer insight, academic commentary and
+analysis on the collapse, rebuilding process, cleanup effort, and long-term impact on the port and the region. If you
+would like to speak with an expert, please contact GW Senior Media Relations Specialist Cate Douglass at [email
+protected].
 
-In the same quarter, WISeSat.Space plans to install a satellite antenna in Switzerland. This installation will enable
-the monitoring and management of its satellite constellation, ensuring optimal performance and reliability of its IoT
-connectivity solutions. This development underscores WISeSat.Space's commitment to maintaining robust and
-secure satellite operations.
+Sameh S. Badie is a professor of civil and environmental engineering. Badie conducts research on reinforced and
+prestressed concrete structures, with applications on buildings and highway bridges. His research includes
+theoretical and experimental investigation. Badie has a significant amount of experience developing innovative
+prestressed, precast, concrete deck panel systems for highway bridges. His experimental experience includes
+testing full-scale concrete components, such as deck panel systems and prestressed concrete girders.
 
-                                                                                             Page 2 of 3
-      WISeKey subsidiary WISeSat.Space Announces Developments in Secure IoT Connectivity and Climate
-                     Monitoring with European Satellite Independence and Strategic Mil....
+Badie can discuss the collapse and what rebuilding could look like down the road. He said in a recent AP article that
+rebuilding could take as little as 18 months to two years and the "cost could be between $500 million and $1 billion,
+with the largest variable being the design."
 
-The Company is also currently developing a constellation of 88 additional low-orbit satellites to optimize global
-coverage for IoT devices and an enhanced WISeSat satellite, planned for launch in Q3 2024. This upgraded
-satellite will incorporate SEALSQ Corp. (“SEALSQ”) (NASDAQ: LAES) semiconductor technology and WISeKey
-cryptographic keys, designed to boost performance in space and communication capabilities. To date, the
-Company has successfully launched 17 low-orbit satellites in cooperation with FOSSA Systems, primarily aboard
-SpaceX Transporter Rideshare missions.
+Kim Roddis is a professor emerita of civil and environmental engineering and a registered professional engineer
+who has experience in heavy industrial and general commercial building design, as well as in bridge design. As a
+structural engineer, her expertise and research interests include design, fabrication, and construction processes;
 
-An important aspect of WISeSat.Space’s initiative is the development of a dependent and neutral satellite
-constellation from Europe. Having a European-based satellite constellation is crucial for several reasons. Firstly, it
-ensures data sovereignty and reduces reliance on non-European entities for critical data and services. This
-autonomy is essential for maintaining control over data security and privacy. Secondly, a neutral European
-constellation can facilitate international cooperation and trust, as it is perceived as unbiased and not tied to any
-geopolitical agendas. Lastly, it promotes technological independence and innovation within Europe, driving
-economic growth and creating high-tech jobs. This European-centric approach aligns with broader strategic goals of
-enhancing the region's competitiveness and resilience in the global space sector.
+                                                                                               Page 2 of 2
+          Media Tip Sheet: Crews Work to Open Temporary Channel Near Baltimore Key Bridge Collapse
 
-WISeSat.Space has also established a partnership with the Swiss Army, which underscores the strategic
-importance of its satellite initiatives. This collaboration involves leveraging WISeSat.Space’s secure IoT connectivity
-solutions to enhance the Swiss Army's operational capabilities. By integrating satellite-based communication
-systems, the Swiss Army can improve its situational awareness, logistics, and disaster response efforts. This
-partnership not only strengthens national security but also exemplifies the critical role of space technology in
-modern defense strategies.
+structural applications of artificial intelligence and computer-aided design; web-enhanced teaching; fatigue and
+fracture in bridges; frame stability; and seismic steel connections. She is recognized nationally as an expert in
+distortion-induced fatigue of steel highway bridges and internationally as an expert on the application of artificial
+intelligence and advanced computing methods to civil engineering problem solving.
 
-Innovative and Critical Technology
+Joseph Barbera is an associate professor of engineering management and systems engineering. Through the GW
+Institute for Crisis, Disaster, and Risk Management, Barbera conducts research across a wide range of topics in
+emergency management, risk management, and business continuity. Current and recent research focuses upon
+large-scale incident (disaster) management, hazard risk assessments, public health hazard risk reduction,
+collapsed-structure search strategies, and confined space medical interventions. He also focuses on healthcare
+emergency management that is focused both on mass casualties and continuity of critical operations.
 
-WISeSat.Space employs picosatellites and low-power sensors to create a cost-effective and secure IoT
-connectivity solution. These picosatellites are smaller and cheaper to launch than traditional satellites, making IoT
-connectivity more accessible. The constellation of picosatellites ensures global coverage, providing a reliable
-network for data collection and transmission. The low-power sensors are designed to operate with minimal power
-consumption, making them ideal for environmental monitoring in remote and off-grid locations. WISeKey's expertise
-in cybersecurity ensures that data transmitted through its network is secure and protected from unauthorized
-access.
+Barbera can speak to how a complex incident like this is managed and the huge and long-lasting impact for the Port
+of Baltimore, the State of Maryland, and the east coast's North-South vehicle (commercial truck and passenger car)
+traffic as it pertains to reopening the channel and recovery. He can discuss the cleanup process, which he told USA
+Today was a very complex situation.
 
-WISeSat.Space's satellite constellation is crucial for continuous environmental monitoring, enabling real-time
-detection of changes and providing data for prompt action. These satellites play a significant role in disaster
-management by offering early warning systems for extreme weather events such as hurricanes and floods.
-Enhanced forecasting capabilities assist in planning and mitigating the impacts of climate change on vulnerable
-communities and ecosystems. Additionally, high-quality data generated from the satellite constellation supports
-informed decision-making and policy formulation aimed at addressing climate change.
+Sanjay Jain is an associate industry professor in the department of decision sciences. His research interests are in
+the development and application of decision science techniques to complex systems with current focus on smart
+manufacturing, supply chains and project management. Jain can discuss the national and international economic
+impact of the collapse and other implications related to supply chains, shipping, etc. around the closure of this major
+U.S. port.
 
-WISeSat.Space's initiatives leverage space technology for global IoT connectivity and environmental monitoring,
-addressing key challenges in climate change and disaster management, thus contributing to a more resilient and
-sustainable future. By developing a neutral satellite constellation from Europe, launching a new generation of
-satellites from California, and collaborating with the Swiss Army, along with the installation of a satellite antenna in
-Switzerland by November, WISeSat.Space further strengthens its commitment to data security, international
-cooperation, and technological advancement.
+-GW-
 
-About WISeSat.Space
+***
 
-WISeSat AG is pioneering a transformative approach to IoT connectivity and climate change monitoring through its
-innovative satellite constellation. By providing cost-effective, secure, and global IoT connectivity, WISeSat is
-enabling a wide range of applications that support environmental monitoring, disaster management, and
-sustainable practices. The integration of satellite data with advanced climate models holds great promise for
-enhancing our understanding of climate change and developing effective strategies to combat its impacts. As the
+Original text here: https://mediarelations.gwu.edu/media-tip-sheet-crews-work-open-temporary-channel-near-
+baltimore-key-bridge-collapse
 
-                                                                                             Page 3 of 3
-      WISeKey subsidiary WISeSat.Space Announces Developments in Secure IoT Connectivity and Climate
-                     Monitoring with European Satellite Independence and Strategic Mil....
+Copyright Targeted News Services
 
-world continues to grapple with the challenges of climate change, initiatives like WISeSat's IoT satellite constellation
-are essential for creating a more resilient and sustainable future.
-
-About WISeKEY:
-
-WISeKey International Holding Ltd (“WISeKey”, SIX: WIHN; Nasdaq: WKEY) is a global leader in cybersecurity,
-digital identity, and IoT solutions platform. It operates as a Swiss-based holding company through several
-operational subsidiaries, each dedicated to specific aspects of its technology portfolio. The subsidiaries include (i)
-SEALSQ Corp (Nasdaq: LAES), which focuses on semiconductors, PKI, and post-quantum technology products, (ii)
-WISeKey SA which specializes in RoT and PKI solutions for secure authentication and identification in IoT,
-Blockchain, and AI, (iii) WISeSat AG which focuses on space technology for secure satellite communication,
-specifically for IoT applications, and (iv) WISe.ART Corp which focuses on trusted blockchain NFTs and operates
-the WISe.ART marketplace for secure NFT transactions.
-
-Each subsidiary contributes to WISeKey’s mission of securing the internet while focusing on their respective areas
-of research and expertise. Their technologies seamlessly integrate into the comprehensive WISeKey platform.
-WISeKey secures digital identity ecosystems for individuals and objects using Blockchain, AI, and IoT technologies.
-With over 1.6 billion microchips deployed across various IoT sectors, WISeKey plays a vital role in securing the
-Internet of Everything. The company’s semiconductors generate valuable Big Data that, when analyzed with AI,
-enable predictive equipment failure prevention. Trusted by the OISTE/WISeKey cryptographic Root of Trust,
-WISeKey provides secure authentication and identification for IoT, Blockchain, and AI applications. The WISeKey
-Root of Trust ensures the integrity of online transactions between objects and people.
-
-For more information on WISeKey’s strategic direction and its subsidiary companies, please visit
-www.wisekey.com.
-
-Press and Investor Contacts:
-
-         WISeKey International Holding Ltd Company     WISeKey Investor Relations (US) The Equity Group Inc.Lena
-         Contact: Carlos MoreiraChairman &             CatiTel: +1 212 836-9611 / lcati@equityny.comKatie
-         CEOTel: +41 22 594 3000info@wisekey.com       MurphyTel: +1 212 836-9612 / kmurphy@equityny.com
+MSTRUCK-8554523 MSTRUCK
 
 
-Disclaimer:This communication expressly or implicitly contains certain forward-looking statements concerning
-WISeKey International Holding Ltd and its business. Such statements involve certain known and unknown risks,
-uncertainties and other factors, which could cause the actual results, financial condition, performance or
-achievements of WISeKey International Holding Ltd to be materially different from any future results, performance
-or achievements expressed or implied by such forward-looking statements. WISeKey International Holding Ltd is
-providing this communication as of this date and does not undertake to update any forward-looking statements
-contained herein as a result of new information, future events or otherwise.
-
-This press release does not constitute an offer to sell, or a solicitation of an offer to buy, any securities, and it does
-not constitute an offering prospectus within the meaning of the Swiss Financial Services Act (“FinSA”), the FInSa's
-predecessor legislation or advertising within the meaning of the FinSA. Investors must rely on their own evaluation
-of WISeKey and its securities, including the merits and risks involved. Nothing contained herein is, or shall be relied
-on as, a promise or representation as to the future performance of WISeKey.
-
-
-Load-Date: June 26, 2024
+Load-Date: April 1, 2024
 
 
   

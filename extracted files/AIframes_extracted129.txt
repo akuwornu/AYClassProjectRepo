@@ -1,104 +1,203 @@
 
 
-                                                                                                  Page 1 of 2
-            Oracle Strengthens Saudi Arabia 's AI Economy with Opening of Second Public Cloud Region
+                                                                                Page 1 of 4
+        MARKEY, HEINRICH, ESHOO, BEYER INTRODUCE LEGISLATION TO INVESTIGATE, MEASURE
+                      ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE
 
 
 
 
-    Oracle Strengthens Saudi Arabia's AI Economy with Opening of Second
-                            Public Cloud Region
-                                                           PR Newswire
-                                            August 6, 2024 Tuesday 8:00 AM EST
+      MARKEY, HEINRICH, ESHOO, BEYER INTRODUCE LEGISLATION TO
+     INVESTIGATE, MEASURE ENVIRONMENTAL IMPACTS OF ARTIFICIAL
+                           INTELLIGENCE
+                                               States News Service
+                                            February 1, 2024 Thursday
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 States News Service
 
-Length: 1267 words
-Dateline: AUSTIN, Texas and RIYADH, Kingdom of Saudi Arabia, Aug. 6, 2024
+Length: 2162 words
+Byline: States News Service
+Dateline: WASHINGTON
 
 Body
 
 
-PR NewswireNew public cloud region in Riyadh is Oracle's second cloud region in Saudi Arabia and part of
-Oracle's US $1.5 billion investment to boost the country's cloud capacity in line with Saudi Vision 2030Saudi
-organizations can take advantage of Oracle Cloud Infrastructure's high performance and built-in security, powerful
-data, distributed cloud, and disaster recovery capabilitiesto help accelerate AI innovation and enhance business
-resilienceOracle's footprint expands to eight cloud regions in the Middle East and North Africa – one of the fastest
-expansions by any hyperscaler in the regionAUSTIN, Texas and RIYADH, Kingdom of Saudi Arabia, Aug. 6, 2024
-/PRNewswire/ -- To meet the rapidly growing demand for its AI and cloud services, Oracle today announced the
-opening of its second public cloud region in Saudi Arabia. The new Riyadh cloud region will help public and private
-sector organizations migrate all types of workloads toOracle Cloud Infrastructure(OCI), giving them access to a
-wide range of cloud services to modernize their applications and innovate with data, analytics, and AI. Center3 is
-the host partner for the new Oracle Cloud Riyadh Region.
+The following information was released by the office of Virginia Rep. Don Beyer:
 
- Part of Oracle'sdistributed cloudstrategy and Oracle'sUS $1.5 billion investmentto expand cloud infrastructure
-capabilities in the Kingdom, the new region will help boost the Kingdom's AI economy, which is expected to
-reach$135.2 billion by 2030. The Oracle Cloud Riyadh Region joins the existing Oracle Cloud Jeddah Region and
-the planned Oracle Cloud Region in NEOM to extend Oracle's footprint in Saudi Arabia. Oracle is the only
-hyperscaler capable of delivering AI and a full suite of 100+ cloud services across dedicated, public, and hybrid
-cloud environments, anywhere in the world. This includesOracle Autonomous Database,HeatWave MySQL
-Database Service,Oracle Container Engine for Kubernetes,Oracle Cloud VMware Solution,OCI Generative AI
-service,OCI AI Infrastructure, andOCI Supercluster."The opening of Oracle's new cloud region in Riyadh reflects
-the Kingdom's continuous efforts in boosting the digital economy based on modern technologies and innovation,"
-said His Excellency Eng. Haytham Alohali, vice minister, the Ministry of Communications and Information
-Technology. "This step will significantly enable international and local companies to achieve innovation and
-promote the adoption of AI and cloud computing technologies in various sectors, which enhances Saudi Arabia's
-competitiveness at the regional and international level.""With the rapid expansion of our cloud footprint in Saudi
-Arabia, Oracle is committed to helping the country achieve its goal of developing one of the strongest digital
-economies in the world," said Richard Smith, executive vice president and general manager, EMEA Cloud
-Infrastructure, Oracle. "As part of our wider investment in cloud capabilities in Saudi Arabia, the Oracle Cloud
-Riyadh Region will help accelerate adoption of cloud and AI technologies to boost innovation across all sectors of
-the Saudi economy, while helping organizations addressing local data hosting requirements."OCI Provides
+Senator Edward J. Markey (D-Mass.), chair of the Senate Environment and Public Works Subcommittee on Clean
+Air, Climate, and Nuclear Safety, Senator Martin Heinrich (D-N.M.), founder and co-chair of the Senate AI Caucus
+and a member of the Senate Energy and Natural Resources Committee, Representative Anna Eshoo (CA-16), co-
+chair of the House AI Caucus, and Representative Don Beyer (VA-08), vice-chair of the House AI Caucus, today
+introduced the Artificial Intelligence Environmental Impacts Act of 2024. The legislation would direct the National
+Institute of Standards and Technology (NIST) to develop standards to measure and report the full range of artificial
+intelligence's (AI) environmental impacts, as well as create a voluntary framework for AI developers to report
+environmental impacts.
 
-                                                                                                 Page 2 of 2
-           Oracle Strengthens Saudi Arabia 's AI Economy with Opening of Second Public Cloud Region
+The legislation also requires an interagency study to investigate and measure both the positive and negative
+environmental impacts of AI. While researchers increasingly highlight that AI can help tackle environmental
+challenges, such as by accelerating clean energy innovation, providing better weather forecasts, and improving
+cooling efficiency, the rapid growth of AI also comes with environmental harms. For example, increasing AI use
+could contribute to data center electricity demand doubling by 2026, leading to more carbon emissions. Demand for
+water to cool data centers is already creating concerns about water supplies, and the chips needed to run AI
+software are contributing to a growing mountain of electronic waste.
 
-Customers and Partners with a Resilient and Scalable Cloud FoundationWith the Oracle Cloud Riyadh Region
-adding to the existing Oracle Cloud Jeddah Region, customers and partners can gain low-latency access to cloud
-services to help them derive better value from their data. Customers can also leverage high availability and backup
-and disaster recovery capabilities across the two regions in Saudi Arabia to enhance business continuity and help
-address local regulations and requirements for local data hosting. In addition, OCI's sovereign AI capabilities
-provide customers with increased control over where they locate their data and computing infrastructure and how
-they manage it. As a result, customers can make use of AI capabilities designed with the requirements of digital
-sovereignty frameworks in mind.OCI's unique cloud architecture enables Oracle to launch dedicated cloud regions
-with hyperscale cloud services inside customer data centers, and deploy more public cloud regions faster by
-starting with an optimal footprint and scaling as needed. This approach helps meet the needs of all countries and
-markets without compromising cloud capabilities, while also providing the consistent performance, SLAs, and global
-pricing for which OCI has become known.Partners and Analysts Welcome the New Public Cloud Region"We
-are thrilled to collaborate with Oracle as they expand their cloud infrastructure in Saudi Arabia with the new Riyadh
-cloud region," said Fahad Alhajeri, chief executive officer, center3. "This strategic initiative delivers on our shared
-vision of fostering technological innovation and advancing the digital economy of the Kingdom. Oracle's cloud
-regions in Saudi Arabia will play an important role in enhancing data sovereignty, driving digital transformation, and
-empowering businesses across the country to achieve greater agility and growth.""Oracle's continued expansion of
-its cloud footprint in Saudi Arabia is vital as companies increasingly leverage AI and GenAI capabilities," said Jyoti
-Lalchandani, regional managing director, Middle East, Türkiye, Africa & India, IDC. "Local cloud infrastructure helps
-organizations ensure faster data processing, enhanced security, and their compliance with national regulations,
-helping them innovate more efficiently and effectively. This strategic move not only supports the Kingdom's vision to
-leverage artificial intelligence to drive digital transformation, but also empowers companies to harness the full
-potential of AI, driving competitive advantage and creating local value and growth in the Kingdom."About Oracle
-Distributed CloudOracle's distributed cloud delivers the benefits of cloud with greater control and flexibility.
-Oracle's distributed cloud lineup includes:Public cloud: Hyperscale public cloud regions serve any size of
-organization, including those requiring strict EU sovereignty controls. See the full list of regions here.Dedicated
-cloud: Customers can run all OCI cloud services in their own data centers with OCI Dedicated Region, while
-partners can resell OCI cloud services and customize the experience using Oracle Alloy. Oracle also operates
-separate U.S., UK, and Australian Government Clouds, and Isolated Cloud Regions for U.S. national security
-purposes. Each of these products provide a full cloud and AI stack that customers can deploy as a Sovereign
-Cloud.Hybrid cloud: OCI delivers key cloud services on-premises via Oracle Exadata Cloud@Customer and
-Compute Cloud@Customer and is already managing deployments in over 60 countries.Multicloud: Options
-including Oracle Database@Azure, HeatWave MySQL on AWS and Microsoft Azure, Oracle Interconnect for
-Microsoft Azure, and Oracle Interconnect for Google Cloud allow customers to combine key capabilities from across
-clouds.Additional ResourcesLearn more about the Oracle Cloud RegionsLearn more about Oracle Cloud
-InfrastructureAbout OracleOracle offers integrated suites of applications plus secure, autonomous infrastructure in
-the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us
-atwww.oracle.com.TrademarksOracle, Java, MySQL and NetSuite are registered trademarks of Oracle
-Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. View original
-content to download multimedia:https://www.prnewswire.com/news-releases/oracle-strengthens-saudi-arabias-ai-
-economy-with-opening-of-second-public-cloud-region-302215035.htmlSOURCE Oracle
+"There is a Dickensian quality to the use of AI when it comes to our environment: It can make our planet better, and
+it can make our planet worse," said Senator Markey. "Our AI Environmental Impacts Act would set clear standards
+and voluntary reporting guidelines to measure AI's impact on our environment. The development of the next
+generation of AI tools cannot come at the expense of the health of our planet. I thank Senator Heinrich,
+Representative Eshoo, and Representative Beyer, for their partnership in making sure that AI contributes to a more
+livable future for generations to come."
+
+                                                                               Page 2 of 4
+       MARKEY, HEINRICH, ESHOO, BEYER INTRODUCE LEGISLATION TO INVESTIGATE, MEASURE
+                     ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE
+
+"AI offers incredible possibilities for our country, but that comes with high environmental costs," said Representative
+Eshoo. "The resources necessary to research and develop AI are intensive, and as AI systems grow in scale and
+become more widely used across various sectors of society, it's critical to understand the environmental impacts of
+AI development and use. I'm proud to introduce the Artificial Intelligence Environmental Impacts Act to conduct a
+comprehensive study on AI's environmental impacts, identify standards needed to measure those impacts, and
+create a system for AI developers to report the full range of their environmental impacts."
+
+"Understanding the environmental impacts of this quickly growing technology is critical so that we can begin to
+address those impacts," said Representative Beyer. "While recognizing the ways AI can help us decrease
+emissions in other sectors and develop innovative climate solutions, we need to ensure we are being responsible
+with the adverse impacts it may have on our environment now."
+
+A copy of the legislation can be found HERE.
+
+Cosponsors in the Senate include Senators Ron Wyden (D-Ore.), Peter Welch (D-Vt.), Alex Padilla (D-Calif.), and
+Cory Booker (D-N.J.).
+
+Specifically, the Artificial Intelligence Environmental Impacts Act would:
+
+Require a Study on the Environmental Impacts of AI: The Environmental Protection Agency (EPA) would conduct a
+comprehensive study on the environmental impact of AI within two years. The study would examine AI models and
+hardware's lifecycle, including energy consumption, pollution, and e-waste, as well as assess the positive and
+negative environmental impacts of AI's applications.
+
+Convene an AI Environmental Impacts Consortium: NIST would convene a consortium of stakeholders to identify
+measurement needs and standards for AI's environmental impacts.
+
+Create a Voluntary Reporting System: NIST would develop a system for entities developing or operating AI to
+voluntarily report the full range of AI's environmental impacts.
+
+Direct a Report to Congress: Within four years, the EPA, the Department of Energy, and NIST would submit a joint
+report to Congress, detailing the consortium's findings and describing the voluntary reporting system, as well as
+providing recommendations for further legislative and executive action.
+
+The legislation is endorsed by Hugging Face, Data and Society, Climate Change AI, Public Citizen, Sierra Club,
+Electronic Privacy Information Center, Greenpeace USA, Center for AI and Digital Policy, Friends of the Earth
+Action, Kairos Action, EkÅ, Accountable Tech, Encode Justice, Union of Concerned Scientists, Fidutam, Green
+Web Foundation, Sustainable Digital Infrastructure Alliance, and Access Now.
+
+"Recent advances in AI have great potential to help us tackle big societal challenges," said Emma Strubell,
+Assistant Professor at Carnegie Mellon University. "However, there is increasing evidence that the development
+and use of AI can have a negative impact on the environment due to unprecedented computational requirements.
+Our understanding of the true scale and scope of these impacts is still nascent, limited by access to the necessary
+data and standards for reporting. Senator Markey's AI Environmental Impacts Act provides a roadmap for
+elucidating the complex relationship between AI and the environment, which will be critical to ensuring that AI
+technology is developed and deployed so as to have a net positive impact on our environment and society."
+
+"The environmental impacts of AI technologies are undeniable - from the energy to power model training, and
+deployment, to the water needed to cool data centers and the rare earth metals to manufacture the hardware," said
+Dr. Sasha Luccioni, Climate Lead at Hugging Face. "This bill will help shed some much-needed light on the extent
+of these impacts and how they're evolving over time."
+
+"Senator Markey and Senator Heinrich's legislation will address a critical, yet underexplored aspect of AI its
+environmental footprint," said Dr. Roy Schwartz, Senior Lecturer at the Hebrew University of Jerusalem. "The bill
+will promote transparency regarding the environmental aspects of AI tools, allowing organizations to both report
+
+                                                                               Page 3 of 4
+       MARKEY, HEINRICH, ESHOO, BEYER INTRODUCE LEGISLATION TO INVESTIGATE, MEASURE
+                     ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE
+
+and, as a result, mitigate their negative environmental effects. This act could not have come at a better time, as
+these tools are becoming ubiquitous, requiring larger amounts of energy to build and deploy them, water for cooling
+their servers, and land to build data centers for them."
+
+"This legislation provides a crucial step towards aligning society's use of AI with climate change goals, by helping
+us measure the impacts of AI's inputs and applications, and therefore take more targeted action to shape those
+impacts," said Dr. Priya Donti, Co-founder and Chair of Climate Change AI.
+
+"As the use of AI rapidly increases, society needs to understand how this new technology impacts the
+environment," said Erik Kojola, Senior Climate Research Specialist at Greenpeace USA . "This means we need a
+rigorous system for tracking energy use and carbon emissions. The Artificial Intelligence Environmental Impacts
+Act of 2024 is a vital step in creating that system and studying how AI contributes to the climate crisis. This will
+bring much-needed transparency and accountability to the emerging AI industry."
+
+"The Center for AI and Digital Policy strongly supports the Artificial Intelligence Environmental Impacts Act," said
+Merve Hickok, President of the Center for AI and Digital Policy. "Senator Markey and Senator Heinrich's bold
+initiative addresses one of the greatest challenges in the AI sector - the possible acceleration of climate change.
+We need research and analysis to assess the environmental impact of AI systems. The AI Environments Impacts
+Act should be a top priority for Senate consideration."
+
+"Artificial Intelligence has become the latest tool in the Silicon Valley corporate race, with every company trying to
+put out AI-driven products in order to stay competitive," said Dom Leon-Davis, Deputy Director of Program and
+Strategy for Kairos Action. "If left unchecked, this rapid development pushed by tech executives can and will harm
+the planet we live on, particularly affecting poor, Black and Brown communities who already struggle to breathe
+clean air and drink clean water. From increased energy use to e-waste, and impacts that are unknown to us we
+need regulation like this now. We're glad to see this act take steps in the right direction of creating a world where
+tech works for all of us."
+
+"The public deserves to know the very basics about how AI tools affect our material world," said Caitriona
+Fitzgerald, Deputy Director at the Electronic Privacy Information Center.
+
+"By creating transparency around AI's impact on our environment, the Artificial Intelligence Environmental
+Impacts Act of 2024 will give the public and policymakers a tool for pressuring technology companies to develop
+their products in line with our collective health and safety."
+
+"As Lord Kelvin wisely stated, 'To measure is to know.' We enthusiastically welcome and are eager to collaborate
+on Senators Markey and Heinrich's initiative, as the United States takes a leading role in driving transparency and
+setting global standards," said Max Schulze, Director of the Sustainable Digital Infrastructure Alliance. "This
+initiative crucially creates visibility for the environmental costs of artificial intelligence, encompassing not just the
+models but their usage as well. We particularly endorse the holistic approach taken, going beyond mere energy
+consumption to consider all environmental impacts across the AI supply chain. This is vital for developing
+sustainable and responsible AI practices globally."
+
+"Right now, there is significant uncertainty about the impact of AI on the environment," said Peter Henderson,
+Assistant Professor at Princeton University. "On one hand, it could be used to improve infrastructure and systems
+for better efficiency, on the other hand it could harm the environment through increased demand for materials,
+manufacturing, and energy usage. The government has a large role to play in ensuring that AI is a net positive for
+the environment, by promoting transparency and innovation around AI's environmental impacts. I applaud Senator
+Markey and Senator Heinrich for introducing this Bill that will provide a roadmap toward positive outcomes."
+
+"One of the many unknowns about AI is its impact on the environment," said Kaili Lambe, Policy and Advocacy
+Director at Accountable Tech. "As rapid advances have led to increasingly widespread use of LLMs and other data-
+intensive AI systems, it's imperative that we understand and take steps to mitigate unintended harm, including the
+potential for environmental degradation. Too often transparency takes a backseat when it comes to Big Tech
+
+                                                                               Page 4 of 4
+       MARKEY, HEINRICH, ESHOO, BEYER INTRODUCE LEGISLATION TO INVESTIGATE, MEASURE
+                     ENVIRONMENTAL IMPACTS OF ARTIFICIAL INTELLIGENCE
+
+innovation. Senators Markey and Heinrich's legislation offers an opportunity to gain critical insight into the
+environmental impact of AI, and we are eager to see it pass."
+
+"AI technologies are spreading rapidly, with the potential for major impacts on society," said Jennifer Jones,
+Director of the Center for Science and Democracy at the Union of Concerned Scientists. "We must fully understand
+both the benefits and the risks, of these technologiesincluding intensive energy consumption and creation of
+environmental waste that harms people and nature. We have a responsibility to track the environmental impacts of
+AI, to ensure this information is publicly available and to help us plan to mitigate those harms. Importantly, the bill
+will allow stakeholders, including civil society, to examine and report on the full life cycle of artificial intelligence
+models, systems, and hardwarebringing the voices of the most impacted communities to the table."
+
+"Right now, we have only a limited understanding of the depth and scale of AI's environmental impactsbut what we
+do know is alarming," said Brian J. Chen, Policy Director at Data and Society. "AI's massive energy consumption
+and pollution effects are likely to exacerbate global warming and climate disaster. The AI Environmental Impacts
+Act lays an important research foundation for a better-grounded understanding of the technology's harms to people,
+communities, and habitats."
+
+"What gets measured gets managed," said Michelle Thorne, Director of Strategy and Partnerships at the Green
+Web Foundation. "We at the Green Web Foundation welcome this bill as an important step towards transparency of
+the environmental impacts of AI. To date, the lack of consistent and comparable data has been a blocker for
+technologists, researchers, policymakers and civil society. This bill will help enable more data-informed discussions
+about how resources are allocated to computing."
 
 
-Load-Date: August 6, 2024
+Load-Date: February 19, 2024
 
 
   

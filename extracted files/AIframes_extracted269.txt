@@ -1,96 +1,192 @@
 
 
-                                                                                                     Page 1 of 2
-     Unified Orchestration in AI era delivers faster, secure IT operations and S/4HANA migrations, Basis Cloud
-                                                        Solutions
+                                                                                                          Page 1 of 4
+                    Charles Sturt University : Surviving Global Pressures - Podcast Series Launched
 
 
 
 
-    Unified Orchestration in AI era delivers faster, secure IT operations and
-                 S/4HANA migrations, Basis Cloud Solutions
-                                                           PR Newswire
-                                              July 15, 2024 Monday 9:30 AM EST
+      Charles Sturt University: Surviving Global Pressures - Podcast Series
+                                    Launched
+                                                     Targeted News Service
+                                              March 8, 2024 Friday 9:30 AM EST
 
 
 
-Copyright 2024 PR Newswire Association LLC All Rights Reserved
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1057 words
-Dateline: MYRTLE BEACH, S.C., July 15, 2024
+
+
+
+Length: 1194 words
+Byline: Targeted News Service
+Dateline: BATHURST, Australia
 
 Body
 
 
-PR NewswireKey TakeawaysBCS's AI Driven Unified Orchestration platform, Symphony, with its OAT technology
-has managed the SAP systems of Heineken, Kellanova, Philips, AbInBev, Transport for NSW to name a few.
-Minimizes errors in cloud migrations and optimizes workforce efficiency, while also reducing downtime and
-maintenance costs. Integrates with other tech like ITSM, infrastructure-as-codeMYRTLE BEACH, S.C., July 15,
-2024 /PRNewswire/ -- In the move to cloud, organizations enter a new paradigm of always-on business that is
-accompanied by always-on routine tasks, operations and activities. And while important to the smooth running of
-your SAP environment, the staff time investment can be significant for "keeping the lights on" kind of activities.
+(TNSres) -- The Charles Sturt University issued the following news:
 
- Cloud orchestration can not only reduce errors and optimize workforce efficiency, but also decrease downtime by
-60 percent and maintenance costs by 40 percentCloud orchestration can not only reduce errors and optimize
-workforce efficiency, but also decrease downtime by 60 percent and maintenance costs by 40 percent Enter cloud
-orchestration that can not only reduce errors and optimize workforce efficiency, but also decrease downtime by 60
-percent and maintenance costs by 40 percent, according toPrakash Palani, the founder and chief technology officer
-ofBasis Cloud Solutions(BCS)."Migrating SAP systems, whether it is moving from on-prem to the cloud or between
-different cloud providers, involves a lot of moving parts like virtual machines (VMs), operating systems (OSs),
-databases, disaster recovery, among others, so there is huge benefit to organizations to simplify the process."In
-cloud migrations, organizations spend most of their time in handovers between teams," Palani said. "The cloud
-team has a task, then hand over to the OS team, who then hands over to the database team, and then once again
-to the SAP team. Thereby resulting in increasing the chance of human error, missing timelines and is an inefficient
-use of talent." A huge hindrance to seamless output at a holistic environment level.A unified cloud orchestration
-platform aims to addresses the mentioned pain point of handover time and combine automation scripts, managing
-tasks like system management, VM creation, database installations and upgrades and SAP Basis operations like
-migrations and refreshes."If you want to mimic SAP GUI transactions, Fiori actions, Salesforce actions, etc. as part
-of the functional validation process, cloud orchestration can be used," Palani added. Orchestration platforms use
-templates to manage specific use cases like high availability disaster recovery (HADR)."Templates enables every
-client to gain best practice every time whether that's following guidelines for an OS or for database and provides
-consistency to each client. Additionally, templates within the orchestration platform can also handle post-migration
-work like kernel upgrades, OS patches, system refreshes and many more."By integrating with IT service
-management (ITSM) platforms like Jira and ServiceNow, the BCS cloud orchestration platform enables true Zero-
+The latest Charles Sturt University podcast series - Global Pressures shines the spotlight on the growing pressures
+our world is under and how essential industries need to adapt to overcome these challenges.
 
-                                                                                                    Page 2 of 2
-    Unified Orchestration in AI era delivers faster, secure IT operations and S/4HANA migrations, Basis Cloud
-                                                       Solutions
+* The latest Charles Sturt University podcast series - 'Global Pressures' uncovers solutions to critical pressures
+being experienced by a variety of sectors
 
-Touch Operations, streamlining processes and reducing the need for manual interventions."For example, your agile
-teams or project teams or whoever is responsible for a particular function or action, can raise a ticket within the
-ITSM and it can instantly be actioned," Palani said."One such example is SSL certificate renewal, which must be
-done every 365 days to keep its validity. If the rumors of renewals shortening to 90 days are true, then you'd have
-to renew the certificate of your SAP systems and then immediately supply it to your partners or the integration
-systems every quarter. Cloud orchestration can automate and transform all of that."Part of the attraction of
-orchestration platforms is the protection of existing technology investments, particularly during costly migration
-projects. "Whatever investment, from existing infrastructure-as-code (IAC) tools like HashiCorp's Terraform and
-Ansible, won't be wasted with cloud orchestration. Customers can also minimize the time involved in the planning
-and architectural design phase of a migration, according to Palani."In cloud migrations, we spend a lot of time and
-human energy into understanding a customer's IT landscape before getting to the architecture design phase". He
-added that architecture design is always unique to each specific customer and environment, making it more time-
-consuming compared to the engineering work that follows the design phase.An orchestration platform would assist
-in the discovery process, finding out what a customer's IT environment looks like, what memory and CPU they
-have, their utilisation and how everything will be mapped to the cloud. The insights are all collected and would run
-an assessment to map out the migration process.With experience managing around 1500 SAP systems globally,
-the BCS' cloud orchestration platform, Symphony, has more than 400 built-in automation use cases. Palani calls it a
-full-stack cloud management platform, because Symphony can enable a single consultant to run end-to-end stack-
-related operations. "We have transformed SAP Basis administrators to FULL STACK CONSULTANTS to be able to
-perform any operations underneath Symphony," he said.BCS has worked with clients likeHeineken, Kellanova,
-Philips, ABInBev,Transport for New South Walesto manage their SAP systems with Symphony.About BCS
-(www.basiscloudsolutions.com)BCS is at the forefront of cloud technology, utilizing Full Stack Technology to
-advance IT and Cloud Automation. With the Symphony platform, BCS offers a unified AI Driven cloud orchestration
-solution that significantly improves operational efficiency and productivity for enterprises across the globe. BCS is
-dedicated to modernizing business infrastructures, providing accessible pathways to technological transformation.
-Symphony also works across cloud platforms, including hyperscalers Amazon Web Services, Microsoft Azure,
-Google Cloud Platform,IBMPower, as well as on-premise systems.Media ContactPriya S Arakkal
-843-252-4867
+* Each episode features experts and students who reveal the pressures these industries are facing and how the
+world can adapt and overcome key challenges associated
 
- View original content to download multimedia:https://www.prnewswire.com/news-releases/unified-orchestration-in-
-ai-era-delivers-faster-secure-it-operations-and-s4hana-migrations-basis-cloud-solutions-302196056.htmlSOURCE
-Basis Cloud Solutions
+* Episodes cover IT/artificial intelligence, agriculture, social work, law and justice and paramedicine
+
+The latest Charles Sturt University podcast series - Global Pressures shines the spotlight on the growing pressures
+our world is under and how essential industries need to adapt to overcome these challenges.
+
+There are five episodes within the Global Pressures Podcast Series. Each episode features experts across a range
+of fields who are at the cutting edge of advancement and innovation and are currently navigating and developing
+solutions to critical challenges in industries, such as:
+
+* IT and artificial intelligence
+
+* Agriculture
+
+* Social work
+
+* Law and justice and
+
+                                                                                                        Page 2 of 4
+                  Charles Sturt University : Surviving Global Pressures - Podcast Series Launched
+
+* Paramedicine.
+
+Course Director and Senior Lecturer in Computing in the Charles Sturt School of Computing, Mathematics and
+Engineering Dr Jason Howarth shared his knowledge on the emergence of lifechanging technologies during the IT
+and Artificial Intelligence episode.
+
+"The industry itself has changed astronomically in the last few decades and the technology we now have at our
+fingertips continues to advance faster than we could have ever imagined," he said.
+
+***
+
+"The ways artificial intelligence could, and likely will be used aren't all for the better. In my podcast episode, I'll
+share my predictions of what threats will arise and how we can overcome them, as well as how these new
+technologies can work in our favour."
+
+***
+
+Senior Lecturer in Social Work in the Charles Sturt School of Social Work and Arts Dr Bernadette Moorhead said
+the podcast series helped bring vital discussions around the wellbeing of society to the forefront.
+
+***
+
+"Social workers are critical in supporting people through roles such as counselling, disaster relief, foster care and
+even as you'll find out in the podcast - through funeral homes and end-of-life care," she said.
+
+***
+
+"We're currently experiencing an ongoing cost-of-living crisis, a housing crisis and have been battling a range of
+natural disasters, so my podcast will discuss how our essential workforce is finding new ways of operating, and new
+places to operate from, to continue to help those in need."
+
+The agricultural industry is another critical workforce finding new ways to keep the world's population fed and
+clothed.
+
+Senior Research Fellow in the Gulbali Institute of Agriculture, Water and Environment Dr Shawn McGrath said
+biosecurity was a key focus of the agricultural industry.
+
+"Being an island, we're fortunate in Australia to have a natural barrier helping to keep diseases out, but it's not a
+given, and biosecurity incursions can occur," he said.
+
+"In my episode, I'll discuss the ways we're using and advancing technologies in the livestock industry like RFID tags
+in sheep and cattle to be prepared for any biosecurity threats and also to make our overall processes on-farm more
+efficient."
+
+Paramedics are also facing a major shift in the way they can respond to emergencies and the types of incidents
+they attend.
+
+Lecturer in Paramedicine and Head of Discipline (Post Graduate Courses) in the Charles Sturt School of Nursing,
+Paramedicine and Healthcare Sciences Ms Tania Johnston said her episode of the podcast discussed these
+changes and what it means for those at the centre.
+
+"There's a much broader scope of practice for us now, meaning an increased demand for our services and the need
+to be 'ready for anything," she said.
+
+"While we pride ourselves on being just that, these demands can take a toll on a paramedic, so we're working really
+hard to look after our own mental health in order to be the best paramedics we can to help the public."
+
+                                                                                                      Page 3 of 4
+                  Charles Sturt University : Surviving Global Pressures - Podcast Series Launched
+
+Senior Lecturer and Discipline Lead for Law in the Charles Sturt Centre for Law and Justice Ms Haley McEwen said
+the inclusion of First Nations perspectives in lawmaking is not only a matter of human rights, it is the key to
+environmental sustainability that could make a major difference to our health and wellbeing.
+
+"First Nations people have such intimate knowledge of our natural world," she said.
+
+"We know climate change is a major threat worldwide, and we can learn so much from First Nations practices like
+cool burns to prevent catastrophic bushfires by engaging actively in law reform and policy development around
+environmental management which could benefit our rural communities and society."
+
+Listen to each of the five episodes within the Charles Sturt Global Pressures podcast series below:
+
+Episode 1. Artificial intelligence - Balancing risk and reward, featuring:
+
+* Course Director and Senior Lecturer in Computing in the Charles Sturt School of Computing, Mathematics and
+Engineering Dr Jason Howarth
+
+* Second-year Bachelor of Information Technology student at Charles Sturt University, Mr Mitchell Dederer
+
+Episode 2. Agriculture - Food, fibre and a fight against climate change, featuring:
+
+* Senior Lecturer in Precision Agriculture and Spatial Science in the Charles Sturt School of Agricultural,
+Environmental and Veterinary Sciences Dr Remy Dehaan
+
+* Senior Research Fellow in the Gulbali Institute of Agriculture, Water and Environment Dr Shawn McGrath
+
+Episode 3. Social Work - Disasters generate jobs in social work, featuring:
+
+* Senior Lecturer in Social Work in the Charles Sturt School of Social Work and Arts Dr Bernadette Moorhead
+
+* Second-year Master of Social Work student at Charles Sturt University, Ms Lauren Rose
+
+Episode 4. Paramedicine - A new age of emergencies, featuring:
+
+* Lecturer in Paramedicine and Head of Discipline (Post Graduate Courses) in the Charles Sturt School of Nursing,
+Paramedicine and Healthcare Sciences Ms Tania Johnston
+
+* Lecturer in Paramedicine in the Charles Sturt School of Nursing, Paramedicine and Healthcare Sciences Mr
+Robert Bear
+
+* Charles Sturt Bachelor of Paramedicine graduate Miss Sarah Byden
+
+Episode 5. Law - Informing law through First Nations culture, featuring:
+
+* Senior Lecturer and Discipline Lead for Law in the Charles Sturt Centre for Law and Justice Ms Haley McEwen
+
+* Lecturer in Law in the Charles Sturt Centre for Law and Justice and First Nations identified woman Ms Jennifer
+Hartley
+
+* Charles Sturt Bachelor of Laws graduate Mr Darryl Hahn
+
+The complete series is available here (https://soundcloud.com/user-83287832-705182774/sets/charles-sturt-
+podcast-series-global-pressures/s-
+vjxPUzwkTEE?si=d23c5dc9ff2343e5bd9f2ae8aa84181c&utm_source=clipboard&utm_medium=text&utm_campaig
+n=social_sharing).
+
+***
+
+                                                                                                      Page 4 of 4
+                    Charles Sturt University : Surviving Global Pressures - Podcast Series Launched
+
+Original text here: https://news.csu.edu.au/latest-news/surviving-global-pressures-podcast-series-launched
+
+Contact: Jessica McLaughlin, 0430 510 538, news@csu.edu.au
+
+Copyright Targeted News Services
+
+T40-MgEditor-8519612 T40-MgEditor
 
 
-Load-Date: July 15, 2024
+Load-Date: March 8, 2024
 
 
   

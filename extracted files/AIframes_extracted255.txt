@@ -1,146 +1,178 @@
 
 
-                                                                                                Page 1 of 3
-       U.S. Public Sector Seeks Partners for Complex Hybrid Clouds Managed services, managed hosting and
-                           colocation providers deliver skills and expertise as agencies ....
+                                                                                                        Page 1 of 4
+                         Reliability Theme Resonated Across the NARUC Winter Policy Summit
 
 
 
 
-   U.S. Public Sector Seeks Partners for Complex Hybrid Clouds; Managed
-    services, managed hosting and colocation providers deliver skills and
-  expertise as agencies quickly modernize IT, ISG Provider Lens(TM) report
-                                    says
-                                                  Business Wire
-                                     July 17, 2024 Wednesday 2:00 PM GMT
+     Reliability Theme Resonated Across the NARUC Winter Policy Summit
+                                                     Targeted News Service
+                                          March 6, 2024 Wednesday 8:00 AM EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 Targeted News Service LLC All Rights Reserved
 
-Length: 1114 words
-Dateline: STAMFORD, Conn.
+
+
+
+Length: 1638 words
+Byline: Targeted News Service
+Dateline: WASHINGTON
 
 Body
 
 
-Many public-sector organizations in the U.S. are turning to service providers for assistance in getting maximum
-value from hybrid cloud implementations, according to a new research report published today by Information
-Services Group ( ISG ) (Nasdaq: III ), a leading global technology research and advisory firm.
+The National Association of Regulatory Utility Commissioners issued the following news release:
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.S. Public Sector
-finds that the use of managed cloud services, managed hosting and colocation by U.S. state, local and educational
-(SLED) agencies has risen by as much as 30 percent since 2020. Demand has grown following digital
-transformations triggered by the COVID-19 pandemic, which forced agencies to better accommodate remote work
-and digital constituent services. It is expected to keep growing as agencies seek to cost-effectively manage, scale
-and secure complex IT infrastructure.
+At last week's National Association of Regulatory Utility Commissioners Policy Summit in Washington, D.C.,
+February 25-28, utility regulators and stakeholders converged in record numbers to explore pressing issues
+surrounding energy and utilities
 
-"Many public-sector organizations that have implemented new technologies and services are just beginning to
-understand what they have created," said Nathan Frey, partner and lead, ISG Public Sector, for the U.S. "Providers
-offer essential expertise and infrastructure."
+The summit, led by NARUC President and North Dakota Commissioner Julie Fedorchak, featured several
+prominent names across the energy spectrum and attracted nearly 1,900 registered attendees, breaking a previous
+record of nearly 1,700. Understanding state, regional and federal energy perspectives; joining workshops; and
+participating in networking are several reasons why many people are drawn to the event. The NARUC Board of
+directors also passed a substantive resolution encouraging the Environmental Protection Agency to consider
+reliability and affordability in its forthcoming greenhouse gas emissions rules.
 
-Agencies are adopting hybrid cloud models to enjoy the benefits of public and private clouds and colocation
-services for different types of workloads, the report says. They are taking on these complex environments despite a
-chronic IT labor shortage in the public sector, and managed service providers often provide the necessary
-coordination.
+"The changes occurring in the electric industry are unprecedented," said Fedorchak. "State regulators sit at the
+cross-section of all of them and play a fundamental role in ensuring reliability and affordability are maintained. This
+conference zeroed in on some of the greatest risks and challenges including federal rules and policies, wildfires and
+gas-electric coordination."
 
-ISG predicts U.S. SLED organizations' use of managed cloud services will increase by as much as 15 percent per
-year through at least 2027. Providers are tailoring services to meet requirements specific to the public sector. In
-addition to cloud management, scalability and security, providers often help agencies upgrade decades-old systems
-and move them to the cloud when modernization reveals the limitations of these technologies.
+Among those looking at how to ensure greater reliability for customers were Pacific Gas & Electric CEO Patricia
+Poppe and Wall Street Journal reporter and author Katherine Blunt, who wrote extensively about PG&E's role in the
+California wildfires. Observing what most know to be true, Blunt said that it often takes a disaster to reveal
+"significant, devastating problems" and that "the grid is old everywhere -- assets are nearing their useful lives."
 
-                                                                                               Page 2 of 3
-      U.S. Public Sector Seeks Partners for Complex Hybrid Clouds Managed services, managed hosting and
-                          colocation providers deliver skills and expertise as agencies ....
+In taking over the company, Poppe made "operational and cultural changes" with a perspective of "leading with
+love" that, she says, has permeated throughout the organization. PG&E is "essentially, a human business" and
+Poppe's desire is to "infuse a spirit of service" while keeping safety at the core.
 
-Many agencies that lack IT management and support expertise are using managed hosting, the report says. These
-services include server maintenance, security updates and troubleshooting for a fixed monthly fee, which makes
-budgeting easier.
+                                                                                                        Page 2 of 4
+                      Reliability Theme Resonated Across the NARUC Winter Policy Summit
 
-Colocation remains a popular element of public-sector IT modernization, ISG says. As they migrate to the cloud,
-most agencies discover some legacy applications that require such tight control that they cannot be moved to a
-cloud or managed hosting platform. Colocation services offer pay-per-use pricing for enhanced security and
-compliance, scalability and disaster recovery at geographically dispersed sites.
+Perhaps the most notable speaker among the keynote addresses was Senator Joe Manchin of West Virginia, who
+started his speech with his take on the harmful political divisiveness in the country. Not surprisingly, he said that
+"energy is what makes the country great" and that there is "an abundance of natural gas" available. He added that
+"energy moves the world" and dependable, reliable, affordable energy lifts us all." To achieve dispatchable 24-7
+reliability, he offered, can be achieved through innovation -- not elimination -- of fuel sources.
 
-"Colocation adoption is surging in the public sector," said Jan Erik Aase, partner and global leader, ISG Provider
-Lens Research. "It gives agencies a secure and reliable foundation for handling growing data and security
-concerns."
+Manchin described Federal Energy Regulatory Commission Chairman Willie Phillips, who later had a fireside chat
+with Fedorchak, as likely being "the best chairman" the agency has had. Phillips, a former chair of the DC Public
+Service Commission, opened his remarks by saying that, "It's good to be home." He also said that being a state
+regulator was the "best training ground" for his current role as a federal regulator and pointed out fellow FERC
+Commissioner Mark Christie's service as a Virginia state regulator.
 
-The report also explores other trends affecting public sector cloud use, including the effects of recent federal grants
-for SLED IT improvement and providers' increasing interest in the sector.
+As others remarked during the summit, Phillips mentioned reliability, affordability and sustainability as overarching
+priorities, as well as environmental justice. He is concerned with resource adequacy and said demand on the grid is
+growing due to data centers, artificial intelligence and quantum computing. Phillips and Fedorchak agreed that the
+increased collaboration between NARUC and FERC has been valuable; however, without going into detail, Phillips
+alluded to continuing FERC's ongoing dialogues with the states, moving from transmission reform to possibly
+another topic and/or discussion framework.
 
-For more insights into the cloud challenges of SLED organizations, including the obstacles created by fragmented
-cloud migration and the complexity of determining which data and applications can be moved, plus ISG's advice on
-these topics, see the ISG Provider Lens(TM) Focal Points briefing here .
+EPA Assistant Administrator Joseph Goffman highlighted the need for the agency's proposed new greenhouse gas
+and fossil fuels standards. Goffman did face questions and challenges from largely coal-producing states, such as
+West Virginia. He acknowledged the "bifurcation" of the EPA's role and the role of states; specifically noting the
+states' "prerogative to implement" the rule when it becomes final in the near future.
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.S. Public Sector
-evaluates the capabilities of 38 providers across three quadrants: Managed Services, Managed Hosting and
-Colocation Services.
+The Pathways to Decarbonization general session helped unpack the steps needed to achieve a net zero economy
+while serving customers affordably and reliably and the new technology investments needed to do so. The panel
+featured perspectives from the electric, gas and nuclear industries.
 
-The report names Rackspace Technology as a Leader in all three quadrants. It names Ensono, Kyndryl and Unisys
-as Leaders in two quadrants each. Accenture, CGI, Equinix, IBM, Infosys, Iron Mountain, NTT Global Data Centers,
-TCS, TierPoint and Wipro are named as Leaders in one quadrant each.
+Writer and podcaster Robert Bryce gave a provocative speech in which he questioned the rapid pace of the U.S.
+clean energy transition, which he said is ahead of the rest of the world, is going to be too costly especially for the
+most vulnerable communities and will not solve the climate problem because countries like China and India are
+increasing fossil fuel use. The conversation is consistent with Fedorchak's theme of State Regulators Leading the
+Way, which encourages consideration of difficult subjects through meetings, workshops and the organization's
+Power Readers book club.
 
-In addition, Zones is named as a Rising Star - a company with a "promising portfolio" and "high future potential" by
-ISG's definition - in one quadrant.
+NARUC has increased its focus on greater reliability between electricity and natural gas and convened a panel on
+reliability through a natural gas perspective. Panelists voiced the need to manage pipelines differently, along with a
+need for greater communication, congruence and coordination between gas and electric systems. Important
+takeaways included the need for more underground storage, as infrastructure expansion has not kept pace with
+production growth; understanding lessons learned from storms like Uri and Elliott; and continuous improvement for
+gas to be a reliable fuel source.
 
-In the area of customer experience, Green is named the global ISG CX Star Performer for 2024 among
-private/hybrid cloud service providers. Green earned the highest customer satisfaction scores in ISG's Voice of the
-Customer survey, part of the ISG Star of Excellence(TM) program , the premier quality recognition for the
-technology and business services industry.
+The final general session was related to the recent announcement of the new NARUC and Department of Energy
+cybersecurity baselines. Puesh Kumar, director of DOE's Office of Cybersecurity, Energy Security and Emergency
+Responses, began by reminding attendees of the "increasing cyber threats from nation-states." The new baselines
+provide more consistency, avoid a "patchwork" set of expectations and help keep up with new technologies entering
+and threatening the grid.
 
-A customized version of the report is available from Zones .
+He also praised the work between CESER and NARUC to produce a set of industrygovernment-state consensus-
+driven baselines. The moderator, North Dakota Commissioner
 
-The 2024 ISG Provider Lens(TM) Private/Hybrid Cloud - Data Center Services report for the U.S. Public Sector is
-available to subscribers or for one-time purchase on this webpage .
+Sheri Haugen-Hoffart, challenged her state colleagues with the question, "What are you going to do with the
+baselines?"
 
-About ISG Provider Lens(TM) Research
+New Resolutions
 
-The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine
-empirical, data-driven research and market analysis with the real-world experience and observations of ISG's global
-advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of
-appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make
-recommendations to ISG's enterprise clients. The research currently covers providers offering their services
-globally, across Europe, as well as in the U.S., Canada, Mexico, Brazil, the U.K., France, Benelux, Germany,
-Switzerland, the Nordics, Australia and Singapore/Malaysia, with additional markets to be added in the future. For
-more information about ISG Provider Lens research, please visit this webpage .
+                                                                                                            Page 3 of 4
+                       Reliability Theme Resonated Across the NARUC Winter Policy Summit
 
-About ISG
+Along with the committee meetings, general sessions and workshops, the NARUC board of directors passed a set
+of new resolutions focused on the electricity and telecommunications sectors. The needs-based transmission
+permitting authority resolution (sponsored by the Committee on Electricity) supports the primary role of states in
+siting, permitting and the exercise of eminent domain for transmission and will file amicus briefs in a related case
+demonstrating NARUC's advocacy as a supporter of states' rights.
 
-                                                                                              Page 3 of 3
-     U.S. Public Sector Seeks Partners for Complex Hybrid Clouds Managed services, managed hosting and
-                         colocation providers deliver skills and expertise as agencies ....
+The other electricity-related resolution on the EPA's regulation of greenhouse gas emissions from new and existing
+power plants (sponsored by the Committee on Electricity), urges the agency to "recognize the primacy of states"
+and rely on input from state utility and environmental regulators in developing carbon emission guidelines.
 
-ISG (Information Services Group) (Nasdaq: III ) is a leading global technology research and advisory firm. A trusted
-business partner to more than 900 clients, including more than 75 of the world's top 100 enterprises, ISG is
-committed to helping corporations, public sector organizations, and service and technology providers achieve
-operational excellence and faster growth. The firm specializes in digital transformation services, including AI and
-automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier
-services; strategy and operations design; change management; market intelligence and technology research and
-analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,600 digital-ready
-professionals operating in more than 20 countries-a global team known for its innovative thinking, market influence,
-deep industry and technology expertise, and world-class research and analytical capabilities based on the
-industry's most comprehensive marketplace data. For more information, visit www.isg-one.com .
+The Committee on Telecommunications resolution encourages the Federal Communications Commission to stop
+robocalling and improve efficiency through updated guidance to help states deal with cases of telephone number
+mismanagement using the Commission's audit process.
 
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240717333709/en/
+All of the substantive resolutions are available online at bit.ly/Winter24Resolutions. "The range of topics, speakers,
+sponsors, sessions and workshops that we provided at this year's Winter Policy Summit represented a Herculean
+effort worth the time and expense of everyone involved," said NARUC Executive Director Greg White. "We continue
+to serve our constituency with meaningful, thought-provoking content and educational resources for our members
+and their commission staff, as well for the broader regulatory community."
+
+Mary Kilmarx Award
+
+The NARUC Committee on Energy and the Environment presented its annual Mary Kilmarx Award, recognizing
+individuals who have gone above and beyond in the name of good governance, clean energy and the environment.
+Mary Kilmarx, who passed away in 2002, had been a commissioner and long-time staff member of the Rhode
+Island Public Utilities Commission and was a three-term representative in the Rhode Island legislature.
+
+The 2023 recipient, honored at this year's Winter Policy Summit, is Rhode Island Commissioner Abigail Anthony.
+According to comments in her nomination letter, "Her focus on performancebased ratemaking and on keeping track
+of carbon emission reduction credits have been particularly forward-thinking and insightful. She has worked
+tirelessly to engage the Committee at both in-person NARUC events and during regularly scheduled Committee
+meetings in a way that has given both experienced and new Commissioners reason to participate."
+
+***
+
+About NARUC NARUC is a non-profit organization founded in 1889 whose members include the governmental
+agencies that are engaged in the regulation of utilities and carriers in the fifty states, the District of Columbia, Puerto
+Rico and the Virgin Islands. NARUC's member agencies regulate telecommunications, energy, and water utilities.
+NARUC represents the interests of state public utility commissions before the three branches of the federal
+government.
+
+***
+
+Original         text            here:        https://pubs.naruc.org/pub/A173DD03-94D8-D35C-C007-
+36B64D0F2395?_gl=1*120tlg7*_ga*ODg5OTg3My4xNzA3OTEwNTM2*_ga_QLH1N3Q1NF*MTcwOTcyMjMzMi4z
+LjEuMTcwOTcyMjg1OS4wLjAuMA..
+
+[Category: Government/Public Administration]
+
+Contact: Regina L. Davis, 202/898-9382, rdavis@naruc.org
+
+Copyright Targeted News Services
+
+MSTRUCK-8515339 MSTRUCK
+
+                                                                                        Page 4 of 4
+                    Reliability Theme Resonated Across the NARUC Winter Policy Summit
 
 
-CONTACT: Press Contacts:Will Thoretz, ISG
-+1 203 517 3119
-
-will.thoretz@isg-one.com
-
-
-Julianna Sheridan, Matter Communications for ISG
-+1 978-518-4520
-
-isg@matternow.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: July 17, 2024
+Load-Date: March 6, 2024
 
 
   

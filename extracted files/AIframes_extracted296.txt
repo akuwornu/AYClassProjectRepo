@@ -1,153 +1,62 @@
 
 
-                                                                                                     Page 1 of 3
-        NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads New
-                       capabilities empower customers to run data-intensive workload....
+                                                                                                Page 1 of 2
+    US Patent Issued to Neurala on March 12 for "Systems and methods to enable continual, memory-bounded
+                           learning in artificial intelligence and deep learning conti....
 
 
 
 
-    NetApp Expands Intelligent Data Infrastructure Capabilities to Power
-  Strategic Cloud Workloads; New capabilities empower customers to run
- data-intensive workloads like GenAI and VMware environments more easily
-                                                   Business Wire
-                                     July 10, 2024 Wednesday 12:00 PM GMT
+    US Patent Issued to Neurala on March 12 for "Systems and methods to
+    enable continual, memory-bounded learning in artificial intelligence and
+     deep learning continuously operating applications across networked
+                 compute edges" (Massachusetts Inventors)
+                                                   US Fed News
+  March 13, 2024 Wednesday GENERAL_EDIT_CORRECTION ERROR Document ID 161 Has error Validate old
+                   format failed - Input Date Invalid - 00:41: Unparseable date: "00:41" EST
 
 
 
-Copyright 2024 Business Wire, Inc.
+Copyright 2024 HT Media Ltd. All Rights Reserved
 
-Length: 1406 words
-Dateline: SAN JOSE, Calif.
+
+
+
+Length: 343 words
+Dateline: ALEXANDRIA, Va.
 
 Body
 
-NetApp® (NASDAQ: NTAP), the intelligent data infrastructure company, today announced the introduction of new
-capabilities designed for strategic cloud workloads including GenAI and VMware. These enhancements to NetApp
-data and storage services reduce the resources and risks for customers to manage these strategic workloads
-across increasingly complex hybrid multicloud environments.
 
-"Strategic workloads, including GenAI and virtualized environments, are driving business innovation and have
-increasingly complex and resource-intensive infrastructure requirements that are pushing IT teams to the limit," said
-Pravjit Tiwana, Senior Vice President and General Manager, Cloud Storage at NetApp. "NetApp is helping
-customers take back control of their data with intelligent data infrastructure that leverages unified data storage,
-integrated data services, and automated cloud operations. Even when they are up against specific and nuanced
-technology requirements for modern workloads, NetApp gives them the tools they need to optimize and simplify
-their data operations in their environments across the hybrid multicloud."
+ALEXANDRIA, Va., March 13 -- United States Patent no. 11,928,602, issued on March 12, was assigned to
+Neurala Inc. (Boston).
 
-To advance intelligent data infrastructure deployments that better support strategic workloads like GenAI and
-VMware environments, NetApp is announcing new capabilities, including:
-    •     NetApp BlueXP Workload Factory - for AWS: This intelligent data infrastructure service uses defined
-          industry best-practices to automate the planning, provisioning, and management of cloud resources and
-          services for key workloads, including GenAI, VMware cloud environments, and enterprise databases.
-          Customers can use BlueXP workload factory to optimize deployment time, cost, performance, and
-          protection of resources for strategic workloads as well as their associated data. To simplify workload
-          migrations to the cloud, BlueXP workload factory allows users to profile infrastructure requirements for
-          target workloads and compare different resource options for cost and performance needs. Then, the
-          service can provision the selected resources, move any existing workload data to these newly provisioned
-          cloud deployments, and continually optimize the entire environment to ensure the required cost and
-          performance targets. AWS users can read guidance on how to deploy this capability on the AWS Solutions
-          Library .
-    •     NetApp GenAI Toolkit - Microsoft Azure NetApp Files Version: Customers can now include private
-          enterprise data stored in Azure NetApp Files in their retrieval-augmented generation (RAG) workflows in a
+"Systems and methods to enable continual, memory-bounded learning in artificial intelligence and deep learning
+continuously operating applications across networked compute edges" was invented by Matthew Luciw (Boston),
+Santiago Olivera (Brookline, Mass.), Anatoly Gorshechnikov (Newton, Mass.), Jeremy Wurbs (Worcester, Mass.),
+Heather Marie Ames (Milton, Mass.) and Massimiliano Versace (Milton, Mass.). According to the abstract* released
+by the U.S. Patent & Trademark Office: "Lifelong Deep Neural Network (L-DNN) technology revolutionizes Deep
+Learning by enabling fast, post-deployment learning without extensive training, heavy computing resources, or
+massive data storage. It uses a representation-rich, DNN-based subsystem (Module A) with a fast-learning
+subsystem (Module B) to learn new features quickly without forgetting previously learned features.
 
-                                                                                                     Page 2 of 3
-        NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads New
-                       capabilities empower customers to run data-intensive workload....
+Compared to a conventional DNN, L-DNN uses much less data to build robust networks, dramatically shorter
+training time, and learning on-device instead of on servers. It can add new knowledge without re-training or storing
+data. As a result, an edge device with L-DNN can learn continuously after deployment, eliminating massive costs in
+data collection and annotation, memory and data storage, and compute power. This fast, local, on-device learning
+can be used for security, supply chain monitoring, disaster and emergency response, and drone-based inspection
+of infrastructure and properties, among other applications." The patent was filed on May 9, 2018, under Application
+No. 15/975,280. *For further information, including images, charts and tables, please visit:
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=11928602&OS=11928602&RS=11928602 For any query with
+respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
 
-         secure, programmatic manner. The result is an enhanced ability to generate unique, high-quality, and ultra-
-         relevant results from GenAI projects by combining their proprietary data with pre-trained, foundational
-         models (FMs). The integration of the NetApp GenAI Toolkit with Azure NetApp Files represents a powerful
-         synergy that empowers customers to harness advanced language generation capabilities.
-    •    Amazon Bedrock with Amazon FSx for NetApp ONTAP Reference Architecture: Amazon Web Services,
-         Inc. (AWS) and NetApp have released a joint reference architecture which provides guidance for
-         customers on implementing RAG-enabled workflows that bring proprietary data stored on Amazon FSx for
-         NetApp ONTAP into their GenAI data pipelines. Amazon FSx makes it easy and cost effective to launch,
-         run, and scale feature-rich, high-performance file systems in the cloud. The reference architecture allows
-         developers to use APIs for Amazon Bedrock to connect with Amazon FSx for ONTAP data stores, enabling
-         the secure use of proprietary data with a choice of high-performing FMs that can be customized to unlock
-         new insights and capabilities.
-    •    Amazon FSx for NetApp ONTAP Enhancements: AWS announced the next-generation Amazon FSx for
-         ONTAP cloud storage service with enhanced capabilities to boost scalability and flexibility to provide up to
-         6 GB per second of throughput for a single highly-available (HA) pair from 512 TiB of SSD storage. Next-
-         gen file systems offer virtualized workloads more room to grow with a 300 percent increase in network
-         burst throughput and a 150 percent boost in disk burst throughput. For large-scale, high-performance
-         workloads like GenAI, second-generation Amazon FSx for ONTAP systems support dynamic scalability by
-         adding HA pairs as needed, up to 24 nodes. This delivers up to 72 GB per second of throughput from 1 PiB
-         of SSD storage, providing greater flexibility and performance for evolving business needs.
-    •    NetApp BlueXP Disaster Recovery Support for VMFS: The BlueXP disaster recovery service, which
-         provides guided workflows to design and execute automated disaster recovery plans for VMware
-         workloads across both on-premises and cloud environments, has been expanded to support VMFS
-         datastores for on-premises to on-premises disaster recovery.
-
-These updates build on NetApp's existing offerings that support storage and data operations for customers that
-need to implement and manage high-powered, strategic workloads such as GenAI and VMware environments. For
-example, NetApp recently announced that its unique BlueXP data classification capability , which automatically
-classifies and categorizes data for enhanced governance and secure ingest into GenAI and RAG data pipelines,
-has become a core control plane capability now available free of charge to all NetApp customers.
-
-"When it comes to GenAI, the prime focus for organizations is to adapt their data strategies to ensure they can
-balance data security, cost efficiency and innovation as they leverage pre-built LLMs to surface relevant, useful
-insights from their proprietary, business-relevant data," said Archana Venkatraman, Senior Research Director,
-Cloud Data Management at IDC. "NetApp's intelligent data infrastructure capabilities can help customers overcome
-the data challenges and offer specific guidance to automate workflows that can securely feed private data directly
-into public cloud providers' LLMs. In addition, NetApp's BlueXP data classification capability has the potential to
-mitigate the risks in data operations for AI because it allows users to discover and categorize data so that the right
-data is fed into the right model without exposing confidential, personal or restricted information."
-
-"Organizations are now facing different economic realities with regards to virtualized environments, and we all need
-to move quickly to address recent industry shifts," said Derek Elbert, Solutions Architect at WWT. "Optimizing the
-cost versus performance equation of VMware workloads has become a primary initiative for us, with the objective of
-continuing to provide scalability and performance while reducing unnecessary system and software resources.
-NetApp's offerings, such as the BlueXP disaster recovery service and the optimization metrics from Cloud Insights,
-help us better ensure the right levels of resource allocation and protection schemes for virtual environments,
-allowing us to focus on putting our infrastructure to work without killing the FinOps metrics."
-
-Additional Resources
-
-    •    When You Realize It's More About Data Than About Storage
-
-                                                                                                     Page 3 of 3
-        NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads New
-                       capabilities empower customers to run data-intensive workload....
-
-    •    Big News For All NetApp Customers: Classify Your Data with an Industry-Leading Solution at No Cost
-
-    •    Power Your Generative AI on AWS
-
-About NetApp
-
-NetApp is the intelligent data infrastructure company, combining unified data storage, integrated data services, and
-CloudOps solutions to turn a world of disruption into opportunity for every customer. NetApp creates silo-free
-infrastructure, harnessing observability and AI to enable the industry's best data management. As the only
-enterprise-grade storage service natively embedded in the world's biggest clouds, our data storage delivers
-seamless flexibility. In addition, our data services create a data advantage through superior cyber resilience,
-governance, and application agility. Our CloudOps solutions provide continuous optimization of performance and
-efficiency through observability and AI. No matter the data type, workload, or environment, with NetApp you can
-transform your data infrastructure to realize your business possibilities. Learn more at www.netapp.com or follow us
-on X , LinkedIn , Facebook , and Instagram .
-
-NETAPP, the NETAPP logo, and the marks listed at www.netapp.com/TM are trademarks of NetApp, Inc. Other
-company and product names may be trademarks of their respective owners.
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240710415938/en/
+                                                                                               Page 2 of 2
+   US Patent Issued to Neurala on March 12 for "Systems and methods to enable continual, memory-bounded
+                          learning in artificial intelligence and deep learning conti....
 
 
-CONTACT: Media Contact:
-Kenya Hayes
-NetApp
-
-kenya.hayes@netapp.com Investor Contact:
-Kris Newton
-NetApp
-
-kris.newton@netapp.com
-
-
-http://www.businesswire.com
-
-
-Load-Date: July 10, 2024
+Load-Date: March 12, 2024
 
 
   

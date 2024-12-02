@@ -1,146 +1,87 @@
 
 
-                                                                                               Page 1 of 3
-   ICMI and HDI Assist Organizations When Weaknesses and Gaps in Service Capabilities Are Exposed to Avoid
-                            Crisis Situations Offer Training, Consulting, Events, Re....
+                                                                                                Page 1 of 2
+      Fusion Risk Management Announces General Availability of Generative AI-Powered Assistant Resilience
+                         Copilot gives organizations a trusted advisor and technical ....
 
 
 
 
- ICMI and HDI Assist Organizations When Weaknesses and Gaps in Service
-    Capabilities Are Exposed to Avoid Crisis Situations; Offer Training,
-Consulting, Events, Resources and Community to Assist Contact Center and
-                         IT Support Communities
-                                                   Business Wire
-                                        July 25, 2024 Thursday 3:03 PM GMT
+Fusion Risk Management Announces General Availability of Generative AI-
+Powered Assistant; Resilience Copilot gives organizations a trusted advisor
+ and technical consultant at their fingertips that helps to strengthen critical
+          continuity, risk management, and resilience programs
+                                                    Business Wire
+                                     February 28, 2024 Wednesday 2:00 PM GMT
 
 
 
 Copyright 2024 Business Wire, Inc.
 
-Length: 1235 words
-Dateline: SAN FRANCISCO
+Length: 599 words
+Dateline: CHICAGO & LONDON
 
 Body
 
 
-ICMI , the leading global provider of comprehensive resources for customer management professionals, and HDI ,
-the leading organization dedicated to elevating service and support across the enterprise, understand business
-critical disruptions and the challenges they create. With over 35 years expertise, ICMI and HDI help organizations
-manage unexpected situations better.
+Fusion Risk Management, Inc. ("Fusion"), a leading provider of cloud-based operational resilience, business
+continuity, and risk management solutions, has announced general availability of its AI-powered assistant Fusion
+Resilience Copilot(TM) following a successful global beta program. Resilience Copilot(TM) is pre-configured to
+answer critical questions at the click of a button, providing insights and recommendations. Powered by industry best
+practices and 20 years of boots-on-the-ground resilience and continuity experience, Resilience Copilot enables
+practitioners to automate manual and time-consuming activities, unlock deeper insights into incidents, and quickly
+respond to disruptions.
 
-This      press      release     features   multimedia.             View        the      full     release      here:
-https://www.businesswire.com/news/home/20240725698812/en/
+Resilience Copilot is an extension of your team, acting as an advisor, analyst, and guide to turn data into immediate
+actionable insights. Contextual prompts in the Fusion platform allow practitioners to ask critical questions about
+their continuity, risk management, and resilience programs and receive fast, clear recommendations and situational
+summaries that help users accelerate time to value, increase productivity, and enhance their decision-making.
+Fusion customers can now significantly improve and expand critical activities, including business impact analyses
+(BIAs), continuity plans, incident management, issue management, and exercise and scenario testing.
 
-"Over the last few days, we have all watched as the IT disaster has shattered our connected world. In crisis
-situations like this one, weaknesses and gaps become apparent quickly," said Tara Gibb, Senior Director, ICMI and
-HDI. "Don't wait for the next crisis to upskill your team. We know how this can impact your teams and how
-exhausting it can be to handle the pressures and demands associated with a crisis situation. ICMI and HDI are
-known for providing customized insights that can be acted on immediately, drive measurable efficiencies and
-deliver positive fiscal impact. Our proven and highly rated training can help any organization build confidence and
-knowledge and increase retention."
+A transformative asset for business continuity and resilience programs, Resilience Copilot aids organizations by
+collecting more complete information and providing detailed insights and recommendations for continuous program
+improvement. Users can also reduce the time and effort required to fully understand the scope and status of an
+incident and quickly communicate critical insights to stakeholders through AI-generated summaries. Resilience
+Copilot gives risk teams greater visibility into incidents and allows them to answer critical questions across impacted
+assets, understand the impact of an incident on all services, and improve program effectiveness following an
+incident by identifying recovery strategy gaps and improvements - all at the click of a button.
 
-ICMI offers events, training, consulting, resources and community to assist the contact center community. Tap into
-their:
-    •     Training: From role-based courses such as customer service representative through leadership and topic-
-          based courses aligned with key critical contact center practices like AI, workforce management, quality and
-          metrics, customer experience, ICMI works with contact center professionals to fortify a team's skills and
-          competencies.
-    •     Consulting: ICMI consultants provide in-depth assessments and solutions resulting in sustainable
-          improvements to customer experiences and business outcomes. ICMI is results-driven and works to make
-          a significant impact on the way contact centers are delivering strategic value to the rest of their
-          organization. This is accomplished through a comprehensive assessment of a customers' contact center
+"Today's risk teams need a better way to leverage generative AI and automation to streamline manual processes
+and minimize the response time between impact and action when an incident occurs. Resilience Copilot was
+created to meet that demand, and we're grateful to Fusion's global customers who participated in our beta program
 
-                                                                                              Page 2 of 3
-  ICMI and HDI Assist Organizations When Weaknesses and Gaps in Service Capabilities Are Exposed to Avoid
-                           Crisis Situations Offer Training, Consulting, Events, Re....
+                                                                                               Page 2 of 2
+     Fusion Risk Management Announces General Availability of Generative AI-Powered Assistant Resilience
+                        Copilot gives organizations a trusted advisor and technical ....
 
-        operations management, people management, technology and customer access strategy that is aligned
-        with ICMI's contact center site certification standard.
-    •   ICMI's Contact Center Expo: The event takes place October 21-24 at the Loews Royal Pacific Resort in
-        Orlando, Florida and brings contact center leaders together to access a broad range of contact center and
-        customer experience insights and practical takeaways that can be implemented immediately upon return to
-        the office. Conference topics are centered around: AI, Culture and Hybrid Workforce, Operations, Strategy
-        and Leadership and Customer Experience.
-    •   Resources: From topic-based articles to research, ICMI's resources can provide you with guidance and
-        insights in any moment of need.
-    •   Community: Tap into ICMI's LinkedIn group to get real time answers and support from peers.
+to help us enhance this transformative AI asset," said Eric Jackson, Chief Product Officer, Fusion Risk
+Management. "Resilience Copilot gives Fusion customers a resilience power up by placing actionable insights and
+guidance right at their fingertips. Customers can now extend their continuity and resilience teams without hiring
+additional staff, reduce team stress and workloads, and free up critical resources to focus on other value-added
+activities. We're excited to continue working with our customers to innovate for the future as we transform
+Resilience Copilot beyond typical AI capabilities."
 
-HDI offers training, consulting, events, resources and community to assist the IT support community. Tap into their:
-    •   Training: From role-based certification courses such as analyst through director and service management
-        practice courses like incident management, problem management, ITIL, knowledge management and
-        service level management, HDI works with service management professionals to fortify a team's skills and
-        competencies.
-    •   Consulting: HDI consultants provide in-depth assessments and solutions resulting in sustainable
-        improvements to both customer experiences and business outcomes. HDI is results-driven and works to
-        make a significant impact on the way support centers are delivering strategic value to an entire
-        organization. This is accomplished through a comprehensive assessment of a customers' ITSM operations
-        management, people management, technology and customer access strategy that is aligned with HDI's
-        site certification standard.
-    •   Service Management World: The event takes place November 17-21, 2024 at the Loews Sapphire Falls
-        Resort in Orlando, Florida and brings IT leaders together to access a broad range of service management
-        and IT support insights and practical takeaways that can be implemented immediately upon return to the
-        office. Conference topics include AI and automation, service management practices and principles (i.e.:
-        problem management, knowledge management, change management, service level management),
-        experience management, hybrid workforce, digital transformation, support models and channel strategies,
-        operational and continual process improvement, metrics and analytics, leadership, culture and team
-        building and more.?
-    •   Resources: From topic-based articles to research, HDI's SupportWorld resources can provide IT support
-        professionals with guidance and insights in any moment of need.
-    •   Community: HDI is known for its tight knit, engaged and generous community of IT support professionals.
-        Tap into HDI Connect or HDI's LinkedIn group to get real time answers and support from peers.
+About Fusion Risk Management, Inc.
 
-To learn more about ICMI and HDI resources, contact Todd Piccuillo at todd.piccuillo@informa.com .
+Fusion is a leading industry provider of cloud-based operational resilience software, encompassing business
+continuity and disaster recovery, risk management, third-party risk management, crisis and incident management,
+and more. Its solutions empower organizations to make data-driven decisions with a holistic, agile approach and
+enable them to deliver on their brand promise through disruption.
 
-ABOUT ICMI
-
-The International Customer Management Institute (ICMI) is the leading global provider of comprehensive resources
-for customer management professionals -- from frontline agents to executives -- who wish to improve customer
-experiences and increase efficiencies at every level of the contact center. Since 1985, ICMI has helped more than
-50,000 organizations in 167 countries through training, events, consulting, and informationalresources. ICMI's
-experienced and dedicated team of industry insiders, trainers, and consultants are committed to helping you raise
-the strategic value of your contact center, optimize your operations and improve your customer service. ICMI is
-brought to you by Informa Tech.
-
-About HDI
-
-                                                                                              Page 3 of 3
-  ICMI and HDI Assist Organizations When Weaknesses and Gaps in Service Capabilities Are Exposed to Avoid
-                           Crisis Situations Offer Training, Consulting, Events, Re....
-
-For more than 35 years, HDI has partnered with thousands of professionals and their organizations to improve their
-performance by helping them to: drive change, harness knowledge, transform teams, make connections, and turn
-challenges into opportunities. HDI empowers the technical support and service management community to advance
-their strategy, operations and teams through optimized service delivery. From the employee to the enterprise, HDI
-transforms service and support through its comprehensive lineup of training and certification courses, industry-
-leading annual conferences, results-driven consulting services, community-based networking opportunities, and
-insightful research and informational resources. What does HDI stand for? HDI stands for smarter service resulting
-in better business outcomes. Learn more at https://www.thinkhdi.com . HDI is brought to you by Informa Tech.
-
-About Informa Tech
-
-Informa Tech is a leading provider of market insight and market access to the global business technology
-community. Through in-depth expertise and an engaged audience community, Informa Tech helps business
-professionals make better technology decisions and marketers reach the most powerful tech buyers and influencers
-in the world. Across its portfolio of over 100+ trusted brands, Informa Tech has over 1000 industry experts,
-including over 400 research analysts and consultants in global research group Omdia, and a monthly audience
-reach of over 125 million. Informa Tech is a division of FTSE 100 company Informa plc. Learn more about Informa
-Tech .
-
-View source version on businesswire.com: https://www.businesswire.com/news/home/20240725698812/en/
+View source version on businesswire.com: https://www.businesswire.com/news/home/20240228483821/en/
 
 
 CONTACT: Media
-Meryl Franzman
-ICMI and HDI
+Articulate Communications for Fusion Risk Management, Inc.
 
-Meryl.franzman@informa.com
+fusion@articulatecomms.com
 
 
 http://www.businesswire.com
 
 
-Load-Date: July 25, 2024
+Load-Date: February 28, 2024
 
 
   

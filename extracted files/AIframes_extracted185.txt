@@ -1,214 +1,280 @@
 
 
-                                                                                                        Page 1 of 4
-                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+                                                                              Page 1 of 5
+              DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY CONVENTION 2024
 
 
 
 
-                              JUL. 30TH, 2024 JULY DIGITAL MATTERS
-                                                States News Service
-                                               July 30, 2024 Tuesday
+         DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY
+                          CONVENTION 2024
+                                               States News Service
+                                           February 15, 2024 Thursday
 
 
 
 Copyright 2024 States News Service
 
-Length: 2197 words
+Length: 2209 words
 Byline: States News Service
-Dateline: WASHINGTON
+Dateline: SINGAPORE
 
 Body
 
 
-The following information was released by New America:
+The following information was released by the Prime Minister's Office Singapore:
 
-This month's Digital Mattersour monthly round-up of news, research, events, and notable uses of techexplores
-different tools governments are harnessing to build inclusive and accessible digital solutions and human-centered
-outcomes.
+Speech by Deputy Prime Minister and Coordinating Minister for Economic Policies Heng Swee Keat at Global
+Space and Technology Convention 2024 on 15 February 2024.
 
-In this issue, we dive into some of the innovative approaches, from local initiatives to large-scale government digital
-public infrastructure (DPI) projects, that are using inclusive design to strengthen trust in government solutions. We
-also open our aperture to take a closer look at what can be learned from other countries' digital transformation
-efforts. We wrap up with summaries from two notable panel events covering technology as a means to advance
-inclusive economic opportunity.
+Mr Jeremy Chan, Chairman, Singapore Space and Technology Limited,
 
-But first, three big things we have been tracking this month.
+Mr Peter Ho, Chairman, Office for Space Technology and Industry, Singapore,
 
-Switzerland now requires all government software to be open source. The country is leading the way for a "public
-money, public code" approach to government operations. A new lawFederal Law on the Use of Electronic Means
-for the Fulfillment of Government Tasks (EMBAG)stipulates that public bodies must disclose the source code of
-software developed by them, unless third-party rights or security concerns prevent it. This milestone represents the
-culmination of a long effort by Swiss authorities to promote FOSS (free and open source software). "Open by
-default" is a movement that has been gaining some traction in government tech circles, but there is a lot more work
-to be done.
+Excellencies,
 
-Earlier this month, The White House announced commitments from across the technological ecosystem, including
-nearly $100 million to advance public interest technology. The White House Office of Science and Technology
-Policy (OSTP) convened leaders to celebrate the important role of government technologists, and to highlight
-efforts to build a robust, inclusive technology landscape that works for everyone in America.
+Ladies and gentlemen,
 
-CrowdStrike and Microsoft outages created disruptions around the globe as a software update inadvertently created
-an IT meltdown on July 19. Much has been written about the incident and repercussions ranging from flight
-cancellations, to online banking interruptions, and halting noncritical surgeries at hospitals. Emergency services
-were also impacted in several states and 911 responses needed to be managed with analog solutionsin this
+Good morning. Let me first warmly welcome all of you, especially our guests from overseas who have travelled
+great distances, to the Global Space and Technology Convention 2024.
 
-                                                                                                           Page 2 of 4
-                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+Professor Stephen Hawking, the famous cosmologist, once said that To confine our attention to terrestrial matters
+would be to limit the human spirit.Space has, indeed, been a long-standing source of human fascination.
 
-instance, manual responses were completely doable. However, there is a larger issue at play. Critical infrastructure
-providers need to architect systems with a clear understanding of the necessary measures required during
-disruptions. Similarly, users of systems must have alternative plans in place in the event that services are impacted.
+Astronomy is one of the oldest natural sciences. Many civilisations across history drew inspiration from space to
+make sense of our place in the universe.
 
-How integral is inclusive design in the trust and use of digital solutions?
+From the launch of the first space-based observatory, the Orbiting Astronomical Observatory over 5 decades ago,
+to the James Webb Space Telescope, we have made remarkable progress in understanding space and the
+universe to lunar landings and the International Space Station (ISS).
 
-We start with how a local social network in Vermont is fostering civic engagement and why bringing
-underrepresented communities into the innovation landscape is crucial. We then take a look at how "cautious" steps
-leading to the IRS Direct File pilot, "boring" designs of government websites, and the implementation of Human-
-Centered Design created better, more user-friendly experiences when accessing public services.
+The development of space-based technologies has, in turn, made our lives here on Earth easier, more seamless
+and more connected.
 
-Podcast: How did Vermont's favorite civic social network turn into a climate disaster response network overnight?
-Michael Wood-Lewis Tells Us About His Local Good Web , Initiative for Digital Public Infrastructure at UMass
-Amherst (June 26, 2024)
+For example, the Global Positioning System or GPS uses satellites to provide real-time location information,
+enabling a wide range of mobile applications for transport, commerce, and healthcare.
 
-UMass Amherst's Initiative for Digital Public Infrastructure hosted a podcast with Michael Wood-Lewis, co-Founder
-of a Vermont-based online community bulletin called Front Porch Forum (FPF). Wood-Lewis started a precursor of
-FPF in 2000, which was based on email exchanges between neighbors, and eventually transformed it into a
-business in 2006. The network has been custom-made to meet the unique needs and experiences of Vermonters.
-Users can access the online social network to review local restaurants, ask for rides to the airport, share upcoming
-events, and more. Wood-Lewis emphasizes that everything FPF offers could work on big tech offerings like Yelp,
-Uber, or Facebook, but unlike large platforms, FPF focuses on hyperlocal interactions and encouraging inclusivity.
-Wood-Lewis hopes that FPF will ultimately allow Vermonters to enhance their social capital and help build
-community.
+                                                                            Page 2 of 5
+            DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY CONVENTION 2024
 
-You can find more about how Vermont residents are using Front Porch Forum here.
+Satellite communications have also helped to bridge the digital divide by connecting remote communities, thereby
+enhancing social and economic inclusion.
 
-Bringing Communities In, Achieving AI for All , by Shobita Parthasarathy and Jared Katzman, Issues in Science and
-Technology (Summer 2024)
+Remote sensing data has supported the development of damage proxy maps, ensuring timely and efficient
+humanitarian assistance and disaster relief efforts. The development of these was made possible by significant
+human, capital and scientific investment by governments, industry and academia, individually and collaboratively.
 
-Many novel tools, such as facial recognition technologies, have created real harm and magnified structural
-inequalities. Harmful deployments deepen distrust in the promises of science and government. The authors argue,
-in order to combat inequality resulting from technology and promote a more just society, better solutions lie in an
-inclusive innovation ecosystem. To this end, they find that researchers, universities, and the tech industry should
-actively seek out partnerships with struggling communities to carefully understand what they need from AI.
+The diverse constellation of participants at this years Convention provides an excellent platform for us to exchange
+ideas and explore deeper collaboration to make the best use of space and build a better future for the world.
 
-How the IRS's 'cautious' approach with Direct File prevented its 'failure' , by Matt Bracken, FedScoop (July 11,
-2024)
+Space is an exciting and promising frontier for human progress.
 
-The IRS is working hard to expand their Direct File pilot program to enable taxpayers across the US to file their
-taxes electronically, directly, and for free. Expanding the service to a broader audience has required careful,
-deliberate planning. The IRS team has taken a "cautious" approach to the roll out and focused on "executional
-certainty." How have they done this? The team set relatively simple goals in the beginning by only allowing a limited
-cohort of volunteers and government employees to test it. The team also recognized when to abandon parts of the
-process that weren't effective, which author Matt Bracken considers a win from a product development perspective.
+Today, the space sector is valued at over US$500 billion globally. By 2030, just 6 years from now, this is projected
+to more than double to exceed US$1 trillion.
 
-Merici Vinton, the first official user of the pilot, said that maintaining the trust of users "is what drove the decisions
-on how we proceeded." By keeping trust at the forefront, the IRS hopes to change how the agency's services are
-perceived and create a smoother process for frustrated taxpayers.
+Space has also become more accessible, as advances in technology have lowered the costs of launch significantly.
 
-Inside the US government's brilliantly boring websites , by Jon Keegan, MIT Technology Review (June 26, 2024)
+Here in Singapore, as in several other countries, we have seen an uptick in space sector activity over the past
+decade.
 
-Who knew there was a story behind the US government's official web design system and custom typeface? There
-are about 26,000 federal websites in the US. Before the standard that we see today, each of these sites had
-varying fonts, logos, and designs that often made it difficult for people to access government services. The less
-than smooth launch of Healthcare.gov in 2013 prompted President Obama to create two new teams to address this
+We launched our first locally built satellite in 2011. Twelve years later, in 2023 alone, we launched 9 satellites,
+bringing our national total to more than 30.
 
-                                                                                                        Page 3 of 4
-                                    JUL. 30TH, 2024 JULY DIGITAL MATTERS
+As interest and momentum in space grows, a key question is how do we harness space responsibly and
+purposefully to improve lives here on Earth?
 
-issue and help improve government tech18F housed in the General Services Administration and the US Digital
-Service. These teams aimed to fix technical problems, build products, and deliver better government services
-through technology and design. In 2015, they built a US Web Design System (USWDS) in order to improve
-accessibility and a consistent user experience across government websites. The USWDS included a style guide
-and collection of user interface components and design patterns.
+The theme for this years convention is Space for a sustainable, smart and secure world.
 
-When websites are buggy, not mobile-friendly, or confusing to navigate, people may not be able access services
-properly. This can, in turn, lead to a declining trust in the provision of these services and paint a negative
-impression on the government's use of resources. The creation of USWDS serves as an example of how consistent
-and user-friendly design can help rebuild public trust in government.
+For example, space technologies can be harnessed to address climate change.
 
-Can Human-Centered Design Help Rebuild Trust in Government? , by Adam Stone, Government Technology
-(July/August 2024 Issue)
+Weather satellites already provide vital forecast data that help us prepare for extreme weather events.
 
-Another tool that is helping to rebuild trust in government is human-centered design (HCD)a design framework that
-looks to understand people and their processes, to uncover root problems, and to develop iterative solutions. This
-article shares success stories of how different government agencies are practicing HCD and even features New
-America's Tara McGuinness, founder of New Practice Lab. "The stakes are very high, and using practices of
-human-centered design is one way to help governments walk in the shoes of those people they serve," she said. "It
-can be an effective way of helping governments get closer to the people they're serving, in order to improve their
-services." HCD empowers government to see issues through the eyes of constituents, leading to more responsive
-and effective solutions.
+Remote sensing technologies also monitor deforestation and changes in land use, helping to develop effective
+climate mitigation strategies.
 
-What lessons can be learned from bold transformation initiatives overseas?
+Precision agriculture, enabled by satellite imagery and data, improves crop monitoring, water management, and
+resource allocation. This optimises agricultural practices and ultimately enhances food security.
 
-There's a lot to learn from other countries in their efforts toward digital transformation. We explore the different
-approaches that countries are embracing with the next articles and events. For example, how UK's Policy Lab is
-using ethnography in policy design and how Pakistan's digital ID system is bolstering financial inclusion initiatives.
-Last, we conclude with notable events from this past month, with the Center for Strategic and International Studies'
-panel on DPI in the Global South and Brookings' discussion on technology for inclusive prosperity.
+Space technologies can also be harnessed to enhance efficiencies in global transportation and logistics.
 
-Launching a new film: 10 years of ethnography in government , by Kyna Gourley and Vanessa Lefton, UK Policy
-Lab (July 16, 2024)
+In aviation, for example, space-based technologies can help airlines optimise flight trajectories and plan fuel-
+efficient routes.
 
-UK's Policy Lab launched a mini-film to showcase how they have pioneered the use of ethnographic research in
-policymaking over the last 10 years. Policy Lab was established in 2014 and has managed more than 250
-innovation projects in the UK's most critical policy areas. Policy Lab's unconventional approach utilizes
-ethnography, a social research method that involves spending time with people and understanding their lived
-experiences. This type of research offers powerful and enriching insights into the impact of policy on everyday
-people, thereby bringing people to the heart of policy making.
+Likewise, maritime operations can also be enhanced through satellite-based systems that allow for precise tracking
+and coordination.
 
-Digital public infrastructure is transforming lives in Pakistan. Here's how , by Tariq Malik and Prerna Saxena, World
-Economic Forum (July 12, 2024)
+Satellite data, coupled with artificial intelligence, can enable intelligent ocean routing methods that reduce fuel
+consumption and lower emissions by up to 5%.
 
-Pakistan has shown an appetite for financial inclusion initiatives. The government established the National
-Database and Registration Authority (NADRA) to overhaul the identity system of a country with over 240 million
-citizens. The Computerized National Identity Card (CNIC) is now a standard feature in every adult Pakistani's life,
-allowing citizens to perform a number of tasks like opening a bank account, acquiring a driver's license, or filing for
-social protection.
+I have outlined some valuable use cases what we can harness space for. But how can we best achieve this? Let
+me suggest three ways.
 
-Pakistan's progress is rooted in recent challenges. Within days of initiating the lockdown for COVID-19, Pakistan's
-federal authorities announced that the government would issue unconditional cash transfer of 12,000 Pakistani
-rupeesenough to purchase approximately three months' worth of foodto 12 million vulnerable households. This
-initiative required cross-sector collaboration with private-sector banks and small businesses to establish more than
-18,000 cash distribution points at banks, shops, parks, and public buildings around the country. The digital ID
+First, we must identify purposeful niches to pursue research and innovation in space technology. In particular, we
+must focus on opportunities that advance space technology in an impactful, responsible and accessible manner.
 
-                                                                                                        Page 4 of 4
-                                     JUL. 30TH, 2024 JULY DIGITAL MATTERS
+As technology evolves rapidly in this domain, we must invest in safeguards to ensure the safe and secure use of
+space.
 
-infrastructure from NADRA facilitated the quick crisis response, serving as an example of how the government can
-leverage technology to enhance public service delivery.
+                                                                            Page 3 of 5
+            DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY CONVENTION 2024
 
-Event: Approaches to Digital Public Infrastructure in the Global South , Center for Strategic and International
-Studies (June 28, 2024)
+For example, Singapores Nanyang Technological University or NTU is undertaking research into developing an
+edge computing algorithm for space object detection.
 
-The Center for Strategic and International Studies (CSIS) hosted an online event late last month on the different
-approaches that countries in the Global South are taking to advance DPI. Speakers from Brazil, Ukraine, India, and
-Zambia illustrated the unique policy lenses that their countries have taken to develop digital IDs, payment systems,
-and applications that allow for ease of public service delivery. Notable examples included Ukraine's Diia platform,
-Brazil's Pix instant payment ecosystem, Zambia's ZamPortal data sharing registry, and India's DigiLocker document
-storage initiative.
+Such technologies allow in-space mapping of space objects and debris for space situational awareness, and will
+become more critical as space becomes more crowded.
 
-Event: Putting technology to work for inclusive prosperity - Challenges for public policy , Brookings Institution (July
-15, 2024)
+Supported by Singapores Office for Space Technology and Industry or OSTin, Singapore company Addvalue
+Technologies is also developing a next-generation Inter-Satellite Data Relay System, or IDRS.
 
-On July 15, 2024, Global Economy and Development at Brookings convened a panel of experts to discuss ideas
-and actions to manage digital transformation and the latest advancements in AI. The diverse panel spanned
-academia, the policymaking community, international organizations, and the tech industry, to share perspectives on
-the critical question of how to be more intentional about harnessing the potential of rapidly evolving technologies to
-support broader economic and social goals, rather than the narrow interests of a select few.
+Expected to be ready by 2026, this next-generation system will meet the growing demand for smaller, more
+powerful satellites in low Earth orbit.
 
-On the horizon
+This will enable wider use of applications like Earth observation, AI-based surveillance, and space situational
+awareness.
 
-Global DPI Summit 2024 (October 1-3, 2024)
+Successfully pursuing various niches in space technology will require diverse pools of talent. This brings me to my
+second point we must build talent across domains to uplift our overall space capabilities.
 
-Looking ahead, the Global DPI Summit is taking place in Cairo, Egypt on October 1-3, 2024. The Summit brings
-together DPI stakeholders from around the world. It will spotlight the progress countries are marking toward DPI as
-well as technologies, policy frameworks, and implementation models that are reshaping public infrastructure.
+To harness space and solve real-world problems, we need to bring together creative imagination, research
+expertise, patient and committed capital, and entrepreneurial acumen.
 
-Special thanks to Daniela Flores for pulling together the July edition of Digital Matters.
+Talent in the growing space sector must nurture T-shaped skills, combining deep expertise with cross-disciplinary
+competencies.
+
+One way to do this is to develop linkages and promote porosity across disciplines and sectors, to better nurture
+talent who can come up with cutting-edge solutions.
+
+Linkages between academia and industry will help yield new insights that can create real-world impact.
+
+I earlier mentioned the role of space in addressing climate change.
+
+At COP-28 in Dubai last December, ST Engineering Geo-Insights and the Centre for Nature-based Climate
+Solutions at the National University of Singapore, or NUS, unveiled the NUS Decision Theatre.
+
+This collaboration will use space-based data to inform decision-making on nature-based carbon projects, enhancing
+the efficiency of cross-border carbon trading and creating new economic opportunities.
+
+In addition, linkages within industry can also help startups and companies to pursue innovation at scale and push
+the frontiers of space technology.
+
+It is in this spirit that ST Engineering Satellite Systems is leading a consortium in Singapore demonstrating high-
+speed inter-satellite communications to serve applications such as humanitarian assistance and disaster relief, and
+deploying advanced technologies like new power modules.
+
+Importantly, just as watching the lunar landings over 50 years ago sparked an interest in space among an entire
+generation globally, we must also cultivate the next generation of space enthusiasts.
+
+To do so, we must not only pique the interest of our youth in space, science and technology. We also have to
+develop pathways for them to pursue these passions through their schooling years and into the workforce.
+
+So I am glad to hear that students from the NUS College of Design and Engineering, worked with researchers and
+industry partners to launch the Galassia-2 nanosatellite into space last year.
+
+Conceptualised, designed and built by an inter-disciplinary team of students and staff, the nanosatellite will conduct
+remote sensing, using on-board cameras, for agriculture and environmental change.
+
+                                                                            Page 4 of 5
+            DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY CONVENTION 2024
+
+If good teamwork within a university enabled us to launch a nanosatellite, imagine what more we can achieve
+through teamwork across countries! So my third point is that to optimise the use of space and its potential, we must
+forge closer cross-border collaborations and bring the best minds together to tackle shared challenges and pursue
+opportunities.
+
+Some of the greatest challenges that we face today and, in the future, such as climate change and the next
+pandemic, are not confined by borders. Neither should the solutions we use to respond to them.
+
+Collaboration is key to building a better future. Working together enables us to leverage each others strengths, and
+to advance technology in an inclusive, impactful and accessible way.
+
+We must therefore foster global and regional networks to share knowledge and resources in space technology and
+promote mission-oriented research collaborations that tackle shared challenges.
+
+It is in this spirit that Singapore has actively deepened our cooperation on space with partners around the world.
+
+In 2019, Singapore joined the United Nations Committee on the Peaceful Uses of Outer Space, an open and
+inclusive multilateral platform for international space discussions.
+
+This is reinforced by our bilateral collaborations with various partners like the US, Luxembourg, Thailand and the
+UK, which as Jeremy mentioned earlier is the Featured Country at this years Convention.
+
+In Southeast Asia, we also actively contribute to the ASEAN Sub-Committee on Space Technology and
+Applications, to advance regional cooperation on space technologies, and to promote greater sustainability and
+connectivity across the region.
+
+Our research ecosystem has also forged impactful collaborations with space agencies and research institutes
+globally.
+
+The Centre for Remote Imaging, Sensing and Processing (CRISP) at NUS has partnered with the French Space
+Agency and French research institute CESBIO.
+
+Together, they use satellite data to improve the estimation of changes in forest biomass, which can help to refine
+emissions data and forest carbon monitoring.
+
+Such cross-border collaborations not only foster stronger research outcomes but can also yield greater applied
+impact.
+
+One example is applications to support humanitarian assistance and disaster relief.
+
+When the Turkey-Syria earthquake struck in February 2023, the Earth Observatory Singapores Remote Sensing
+Lab at NTU partnered with space agencies from Japan, Europe and the US to provide damage proxy maps
+supporting disaster relief efforts, thereby helping to save precious lives.
+
+Let me conclude. Over the years, our efforts to better understand space have shown us that we can defy the odds.
+
+In scientific research today, we describe near-impossible goals as moonshots a name drawn from lunar missions of
+earlier decades.
+
+Going forward, pushing new frontiers in space technology will require us to do 3 things in tandem.
+
+First, to identify and pursue impactful niches in space technology. Second, to build a diverse talent base, including
+nurturing the next generation, to uplift the global space ecosystem over the long-term. And third, to build closer
+cross-border collaborations as we tap on space to solve pressing shared challenges.
+
+                                                                            Page 5 of 5
+            DPM HENG SWEE KEAT AT GLOBAL SPACE AND TECHNOLOGY CONVENTION 2024
+
+Since 2008, the Global Space and Technology Convention has grown into one of the premier gatherings for the
+space community in the Asia-Pacific, bringing together expert minds and diverse perspectives for a rich discussion
+on how to bring the sector forward.
+
+Singapores space ecosystem of more than 2,000 professionals and researchers provides a vibrant base from which
+to pursue innovation with impact.
+
+More than 60 local and international space companies are already based in Singapore, including leading satellite
+companies with regional headquarters in Singapore tapping the growth potential across Asia.
+
+Some of our homegrown companies are exhibiting their solutions at the Singapore Pavilion here, and I invite you to
+pay them a visit.
+
+The public sector, too, actively taps on space-based technologies to drive efforts towards building a smart, safe and
+sustainable city.
+
+Later this morning, you will hear from the Singapore Land Authority on how it uses real-time positioning information
+to enable intelligent construction practices, study vertical movement of land in response to rising sea levels, and
+monitor island-wide atmospheric moisture levels.
+
+Since 2021, Singapores Space Technology Development Programme or STDP has provided researchers,
+universities and companies with seed funding and resources for new and innovative space technology solutions.
+
+This includes the edge-computing algorithm for space object detection that NTU is currently developing, which I
+mentioned earlier.
+
+ST Engineering Geo-Insights has also tapped on the STDP to develop a crop health dashboard.
+
+This uses geospatial data and artificial intelligence to enable deeper understanding of crop health and earlier
+identification of crop disease leveraging data from space to strengthen our food security.
+
+As the space sector charts your course through 2024 and beyond, I encourage you to consider partnering
+companies, professionals and researchers based in Singapore to leverage this domain and build a better world and
+future.
+
+I wish you fruitful discussions over the next 2 days, and to our friends from overseas, a meaningful and memorable
+time in Singapore. Thank you.
 
 
-Load-Date: July 31, 2024
+Load-Date: February 15, 2024
 
 
   

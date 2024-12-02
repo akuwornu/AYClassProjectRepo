@@ -1,127 +1,115 @@
 
 
-                                                                                                     Page 1 of 3
-                    Drone Systems & Applications Issues Research Articles in January 2024 Edition
+                                                                                               Page 1 of 3
+  Jeonnam Province opens CES 2024 Jeonnam Pavilion, revealing future technologies and sustainable solutions
 
 
 
 
-   Drone Systems & Applications Issues Research Articles in January 2024
-                                  Edition
-                                                     Targeted News Service
-                                          September 3, 2024 Tuesday 9:10 AM EST
+     Jeonnam Province opens CES 2024 Jeonnam Pavilion, revealing future
+                   technologies and sustainable solutions
+                                                           PR Newswire
+                                           January 4, 2024 Thursday 6:00 AM EST
 
 
 
-Copyright 2024 Targeted News Service LLC All Rights Reserved
+Copyright 2024 PR Newswire Association LLC All Rights Reserved
 
-
-
-
-Length: 625 words
-Byline: Targeted News Service
-Dateline: OTTAWA, Ontario
+Length: 1433 words
+Dateline: LAS VEGAS, Jan. 4, 2024
 
 Body
 
 
-Drone Systems and Applications, a peer-reviewed journal that says it features unoccupied vehicle systems, such as
-remotely-controlled or autonomous mobile robots, known as drones, that operate in the air, on the ground, or on or
-below the water surface, published research articles on the following topics in its 2024 edition (Vol. 12):
+PR NewswireLAS VEGAS, Jan. 4, 2024 /PRNewswire/ -- Jeonnam-do is planning to participate in the Consumer
+Electronics Show (CES) 2024 from January 9th to 12th, 2024 in Las Vegas, USA, and will operate the CES
+Jeonnam Pavilion to showcase the convergence of cutting-edge technologies and innovative solutions.Under the
+theme "RE100, Net Zero, AI Agri-Tech Global Jeollanam-do", Jeonnam-do will showcase the technologies and
+solutions of representative companies in the region in areas such as AI and renewable energy, smart farms, digital
+health, zero carbon, and digital education.The CES Jeonnam pavilion, that are now planning for 20 booths for
+display, is located atWestgate Design & Source Hall, Booth 2313, and 11 companies that developed new industrial
+products using unique and cutting-edge technology will participate.BK Energy Co., Ltd. is a company that
+manufactures floating rotation solar power system. It's a rotating floating solar power generation system that is
+excellent in quality and durability and operates stably in any water environment. It has improved energy efficiency
+by more than 10% compared to stationary ones, dramatically reduced the failure rate by applying a different
+technology from the existing sensor method, and streamlined the management process.Nuri Flex Co., Ltd.
 
-Review
+has their own original technology in the field of solutions that measures the usage of household energy such as
+electricity, water, and gas based on AMI (Intelligent Metering Infrastructure) and remotely processes the storage,
+management, and analysis of collected data. With domestic and international certifications for communications and
+conformance, based on the of supplying their products to 49 partnering companies overseas, including the SORIA
+project in Norway, the company is expanding their global market to include Northern Europe, Africa, and Latin
+America.Low Carbon Co., Ltd. is a company capable of producing blue hydrogen using innovative CCUS
+technology. In addition, it has the technologies to capture carbon directly from the atmosphere, technologies to
+realize the virtuous cycle of materials through resource conversion, and permanent isolation technologies.
+Distributed DAC (direct capture of atmospheric carbon dioxide) facilities can be installed anywhere, such as
+downtown, parks, or bus stops without spatial constraints. Additionally, it can also be installed in industrial
+complexes and eco-friendly buildings. Centralized (base-type) DAC facilities can directly capture carbon dioxide
+from the atmosphere on a small to large scale through modularization, and therefore, can be applied as an ESG
+corporate management solution.Human IT Solutions Co., Ltd., a rapidly growing healthy pleasure digital content
+company, provides personalized exercise programs in the form of games consisting of the themes of adventure,
+fitness, and meditation, combining XR(extended reality) technology and artificial intelligence sensors. Through
+this, users can exercise more efficiently. It provides standardized health information metadata and training models
+using a 3D virtual space configuration so that users can exercise without wearing equipment such as sensors.
 
-* Multi-UAV networks for disaster monitoring: challenges and opportunities from a network perspective
+                                                                                               Page 2 of 3
+  Jeonnam Province opens CES 2024 Jeonnam Pavilion, revealing future technologies and sustainable solutions
 
-* Review of autonomous outdoor blimps and their applications
-
-* Malicious UAV detection using various modalities
-
-* UAV avionics safety, certification, accidents, redundancy, integrity, and reliability: a comprehensive review and
-future trends
-
-* A systematic review on metaheuristic approaches for autonomous path planning of unmanned aerial vehicles
-
-* A methodological approach to rock art survey and recording via drone. The application to the Rock Art of the
-Mediterranean Basin of the Iberian Peninsula assemblage
-
-Mini review
-
-* An analysis of trends in UAV swarm implementations in current research: simulation versus hardware
-
-Research Articles
-
-* Cooperative aerial search by an innovative optimized map-sharing algorithm
-
-                                                                                                       Page 2 of 3
-                  Drone Systems & Applications Issues Research Articles in January 2024 Edition
-
-* LidarBoX: a 3D-printed, open-source altimeter system to improve photogrammetric accuracy for off-the-shelf
-drones
-
-* Taiwan solar-powered UAV flight endurance record
-
-* Detecting cool-climate Riesling vineyard variation using unmanned aerial vehicles and proximal sensors
-
-* Assessing wind impact on semi-autonomous drone landings for in-contact power-line inspection
-
-* Czech society and drones: experience, norms, and concerns
-
-* Investigating archaeological remains at Stracciacappe, Rome: comparing traditional sources with UAV-based
-multispectral, thermal and microtopographic analysis
-
-* AI-based landing zone detection for vertical takeoff and land LiDAR localization and mapping pipelines
-
-* Cloud-based mathematical models for self-organizing swarms of UAVs: design and analysis
-
-* Seasonal Phragmites australis classification in Long Point National Wildlife Area wetlands using a remotely piloted
-aircraft system and random forest machine learning
-
-* An assessment of survey techniques using unmanned aerial vehicles to monitor Nile crocodiles (Crocodylus
-niloticus)
-
-* Optimising camera and flight settings for ultrafine resolution mapping of artificial night-time lights using an
-unoccupied aerial system
-
-* Terra-22: an aerial soil sampling in densely compacted agricultural fields
-
-* A critical theory of the drone in archaeology: on space, epistemology, and automation
-
-* Drone-based mixed reality: enhancing visualization for large-scale outdoor simulations with dynamic viewpoint
-adaptation using vision-based pose estimation methods
-
-* Network analysis of decentralized fault-tolerant UAV swarm coordination in critical missions
-
-* Precision pest control using purpose-built uncrewed aerial system (UAS) technology and a novel bait pod system
-
-* Towards drone-based magnetometer measurements for archaeological prospection in challenging terrain
-
-* Multi-sensor data fusion for autonomous flight of unmanned aerial vehicles in complex flight environments
-
-* Thermal-based gender recognition using drones: advancing biometric recognition in challenging outdoor
-environments
-
-* Modifying a mini drone for remote drug delivery for wildlife medicine
-
-* U-SMART: unified swarm management and resource tracking framework for unoccupied aerial vehicles
-
-* Smart data harvesting in cache-enabled MANETs: UAVs, future position prediction, and autonomous path
-planning
-
-The      January   2024    edition   of    Drone     Systems     and    Applications  can      be       viewed       at
-https://cdnsciencepub.com/toc/dsa/12. The journal is published by Canadian Science Publishing.
-
-[Category: Electronic Products]
-
-Copyright Targeted News Services
-
-                                                                                                    Page 3 of 3
-                    Drone Systems & Applications Issues Research Articles in January 2024 Edition
-
-null-8798587 T40-MgEditor
+Starting with the first unveiling at CES 2023, the company opened the first store - the Seoul Headquarters Center -
+in April this year to start commercializing the service.PARU Printed Electronics is a company specializing in eco-
+friendly, high-efficiency energy components for printed electronics that combines conductive ink manufacturing
+technology (Chemistry & Materials), roll-to-roll printing technology (Mechanical), and film heater circuit design
+technology (Electronics). Unlike existing hot wire heaters, there is no risk of electromagnetic waves or fire as it
+generates heat through surfaces rather than wires. In addition, it has high energy efficiency, reducing power
+consumption by more than 10% compared to existing hot-wire heaters, and also generates far-infrared rays, so it is
+used in a variety of heating fields suitable for flexible materials.TDL Co., Ltd. is an all-solid-state battery
+manufacturer and is building the entire manufacturing process from materials to component modules. This company
+produces its own model called DUMU-6070150, and succeeded in registering solid electrolyte and all-solid-state
+battery with the Public Procurement Service for the first time in Korea. All-solid-state lithium-ion secondary batteries
+are expected to lead market growth as it serves as a mega trend in next-generation batteries as they can meet
+various demands related to safety, capacity, and design freedom.SCI Korea Co., Ltd. is a company that
+manufactures the EDL Doctor AI non-invasive blood glucose meter, which breaks down the limitations of existing
+blood sugar and blood pressure measuring devices. By using biometric information for one minute, blood sugar
+(glycated hemoglobin) and blood pressure are measured, and predicted results and health management tips are
+provided through mobile phone, thereby helping to manage a patient's chronic disease by inducing changes in their
+own cognitive behavior.IT Convergence Co., Ltd. is an artificial intelligence-based crop image recognition,
+measurement, diagnosis, and pest diagnosis solution company, and has developed Korea's first artificial
+intelligence-based automatic crop growth measurement device applicable to smart farms. Data analysis for each
+crop is performed using growth analysis software. It provides a normal growth chart by comparing and analyzing the
+automatically measured growth and environmental data.IoT Plus Korea Co., Ltd. is a company that possesses
+microgrid power control-related technology developed through various R&D projects related for renewable energy.
+Looking at existing inverters, there are two types of input power: renewable energy and grid power. In the event of a
+local disaster, grid power is cut off, and if renewable energy generation is impossible due to bad weather, power
+generation will eventually be unavailable. However, the V2L-linked hybrid inverter, a core technology product of IoT
+Plus Co., Ltd., can provide emergency power even in such situations. Monitoring and controlling are possible using
+remote monitoring and control functions using electronic communication and the built-in HMI.Unlike existing video
+classes, Aisol Co., Ltd. enables online and offline blended classes. It's a video software that is exclusively for
+education. it increases student participation by checking whether students leave during class and is equipped with a
+function that can encourage students to concentration even more on class so as not to engage in other actions.
+Real-time two-way communication between teachers and students or between lecturers and students becomes
+possible, and writings and videos can be transmitted and shared in real time.The BIPV module produced by Kalsun
+Co., Ltd. has developed a building-integrated solar power generation system that simultaneously functions as a
+building material for the exterior wall of the building and as solar power generator. Thanks to this, it became the first
+in the BIPV industry to receive RoHS certification. The company plans to introduce explosion-proof aviation hazard
+lights installed in areas exposed to highly explosive gases or dust environments, and LED aviation obstruction lights
+that notify the presence of tall buildings and dangerous objects at night.The CES Jeonnam pavilion is more than
+just an exhibition space. It serves as a place for collaboration, networking, and business growth, and is also a
+platform for sustainable growth and collaboration. It will be a unique opportunity for visitors to interact with company
+representatives, explore potential partnerships, and gain insight into the latest technology trends and sustainable
+practices.Kim Young-rok, Governor of Jeollanam-do Province, said, "We are more than happy to showcase
+Jeollanam-do's best technology at CES 2024 and invite everyone to experience the future in advance. It will be a
+good opportunity to learn about global trends such as renewable energy, net zero, and smart farms.""We welcome
+everyone to visit the CES Jeonnam Pavilion," he added.Meanwhile, South Jeolla Province is committed to strike a
+balance between technological growth and ecological sustainability, with a focus on smart agriculture and
+renewable energy.              View original content to download multimedia:https://www.prnewswire.com/news-
+releases/jeonnam-province-opens-ces-2024-jeonnam-pavilion-revealing-future-technologies-and-sustainable-
+solutions-302025302.htmlSOURCE JEOLLANAMDO
 
 
-Load-Date: September 7, 2024
+Load-Date: January 4, 2024
+
+                                                                                             Page 3 of 3
+Jeonnam Province opens CES 2024 Jeonnam Pavilion, revealing future technologies and sustainable solutions
 
 
-  
+
