@@ -24,7 +24,7 @@ Data collected from Nexis Uni, especially focusing on the New Wires and press re
 
 #Objective of the Project: 
  
-Analyze how U.S. organizations frame AI in press releases concerning disaster response and management.
+Analyze how U.S. organizations frame AI in press releases concerning disaster response and management to draw out relevant themes and trends
 
 #Research Questions:
 
@@ -301,7 +301,7 @@ ggplot(top_20_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +
   theme(legend.position = "none") +
   coord_flip() +  
   labs(title = "Top Two-Word phrases in FramingAI articles",
-       caption = "n=500 articles. Graphic by Taufiq Ahmad. 11-24-2024",
+       caption = "n=500 articles. Graphic by AY Kuwornu. 11-30-2024",
        x = "Phrase",
        y = "Count of terms")
 ```
@@ -403,6 +403,193 @@ nrc_plot <- sentiments_all %>%
 print(nrc_plot)
 ```
 
+<<<<<<< HEAD
+
+#Check the words in some of the sentiments
+
+#Positive
+```{r}
+nrc_positive <- nrc_sentiments %>%
+  filter(sentiment == "positive")
+FramingAI_positive <- text_tokenized %>%
+  inner_join(nrc_positive) %>%
+  count(word, sort = TRUE)
+FramingAI_positive
+```
+
+#Trust
+```{r}
+#Trust
+nrc_trust <- nrc_sentiments %>%
+  filter(sentiment == "trust")
+FramingAI_trust <- text_tokenized %>%
+  inner_join(nrc_trust) %>%
+  count(word, sort = TRUE)
+FramingAI_trust
+```
+
+
+#Negative
+```{r}
+nrc_negative <- nrc_sentiments %>%
+  filter(sentiment == "negative")
+FramingAI_negative <- text_tokenized %>%
+  inner_join(nrc_negative) %>%
+  count(word, sort = TRUE)
+FramingAI_negative
+```
+
+
+#Fear
+```{r}
+nrc_fear <- nrc_sentiments %>%
+  filter(sentiment == "fear")
+FramingAI_fear <- text_tokenized %>%
+  inner_join(nrc_fear) %>%
+  count(word, sort = TRUE)
+FramingAI_fear
+```
+
+
+#Anticipation
+```{r}
+nrc_anticipation <- nrc_sentiments %>%
+  filter(sentiment == "anticipation")
+FramingAI_anticipation <- text_tokenized %>%
+  inner_join(nrc_anticipation) %>%
+  count(word, sort = TRUE)
+FramingAI_anticipation
+```
+
+#Anger
+```{r}
+nrc_anger <- nrc_sentiments %>%
+  filter(sentiment == "anger")
+FramingAI_anger <- text_tokenized %>%
+  inner_join(nrc_anger) %>%
+  count(word, sort = TRUE)
+FramingAI_anger
+```
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# Define sentiments to analyze
+sentiments <- c("positive", "trust", "negative", "fear", "anticipation", "anger")
+
+# Process each sentiment and combine results into a single table
+final_table <- lapply(sentiments, function(sentiment) {
+  nrc_sentiments %>%
+    filter(sentiment == !!sentiment) %>%
+    inner_join(text_tokenized, by = "word") %>%
+    count(word, sort = TRUE) %>%
+    mutate(sentiment = sentiment)
+}) %>%
+  bind_rows() %>%
+  pivot_wider(names_from = sentiment, values_from = n, values_fill = 0)
+
+# View final table
+print(final_table)
+
+```
+
+
+#In this part, i used the excel data downloaded from NexisUni to useful statistics
+
+#Create ggplot chart showing the distribution of the data over time
+
+#Import the excel file
+```{r}
+library(tidyverse)
+AI_disaster  <- rio::import("../AYClassProjectRepo/AY_framingAI.XLSX") %>%
+  janitor::clean_names()
+head(AI_disaster)
+```
+
+
+#I am presenting ggplot based on per week data. 
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+
+# Clean and preprocess the data
+AI_ggplot <- AI_disaster |> 
+  janitor::clean_names() |> 
+  mutate(published_date_bak = published_date) |> 
+  separate(published_date, into = c("date", "year_day"), sep = ", ", extra = "merge", fill = "right") |> 
+  mutate(date = as.Date(date, format = "%B %d")) |> # Convert to proper date format
+  mutate(week = floor_date(date, unit = "week", week_start = 1)) |> # Group by week (starting on Monday)
+  group_by(week) |> 
+  count(week)
+
+# Plotting the data
+ggplot(AI_ggplot, aes(x = week, y = n)) +
+  geom_line(color = "blue", size = 1) +
+  geom_point(color = "red", size = 2) +
+  scale_x_date(date_labels = "%b %d, %Y", date_breaks = "1 week") + # Show labels for every week
+  labs(
+    title = "Count of Press Releases Over Time (Weekly)",
+    caption = "Weekly data depiction.  Graphic by AY Kuwornu, Dec 1, 2024",
+    x = "Published Week",
+    y = "Number of Press Releases"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major = element_line(size = 0.5, color = "gray"),
+    panel.grid.minor = element_blank()
+  )
+
+
+```
+
+#Where most Press Release published 
+```{r}
+pr_published_by <- AI_disaster %>%
+  count(publication_4) %>%  
+  group_by(publication_4) %>%  
+  summarise(pr_published_by = sum(n)) %>%  
+  arrange(desc(pr_published_by)) %>% 
+ head(10)
+```
+
+
+#Visualize top 10
+```{r}
+# Assuming `pr_published_by` is already created as per your code
+library(ggplot2)
+library(ggthemes) # For additional themes
+
+# Create a better-looking bar chart
+ggplot(pr_published_by, aes(x = reorder(publication_4, -pr_published_by), y = pr_published_by, fill = pr_published_by)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  geom_text(aes(label = pr_published_by), vjust = -0.5, size = 4, color = "black") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue") +
+  theme_minimal(base_size = 12) +
+  labs(
+    title = "Top 10 Publications on AI and Disaster",
+    subtitle = "Number of press releases published by each publication",
+    caption = "location of most published press releases. Graphic by AY Kuwornu, Dec 1, 2024",
+    x = "Publication",
+    y = "Count of Published PRs"
+  ) +
+  theme(
+    plot.title = element_text(face = "bold", size = 15, hjust = 0.5),
+    plot.subtitle = element_text(size = 12, hjust = 0.5),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 9),
+    panel.grid.major = element_line(color = "grey80", linetype = "dashed")
+  )
+
+```
+
+
+
+=======
+>>>>>>> parent of 7ec0966 (updated)
 ##Using topic modeling, I examined the idea of topics reflected in our data. 
 
 ```{r}
@@ -588,3 +775,5 @@ vizDataFrame <- vizDataFrame %>%
   ))
 ```
 
+```
+```
