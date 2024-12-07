@@ -182,7 +182,7 @@ head(final_index)
 ```
 
 ## Text compiler
-```{r}
+```{r include=FALSE}
 
 # Define function to loop through each text file 
 
@@ -222,32 +222,13 @@ articles_df <- articles_df %>%
 write_csv(articles_df, "../AYClassProjectRepo/extracted files/articles_df.csv")
 ```
 
-
 ```{r}
+
 # Load required libraries
 library(dplyr)
 library(stringr)
 library(tidytext)
 
-
-bigrams <- articles_df %>% 
-  select(sentence) %>% 
-  mutate(
-    sentence = str_squish(sentence),                      # Remove extra spaces
-    sentence = tolower(sentence),
-    sentence = str_replace_all(sentence, c(
-    "copyright" = "",
-    "new york times"="",
-    "publication"="",
-    "www.alt"="",
-    "http"=""))) %>% 
-  unnest_tokens(bigram, sentence, token = "ngrams", n = 2) %>% 
-  separate(bigram, c("word1", "word2"), sep = " ") %>% 
-  filter(!word1 %in% stop_words$word) %>%                 # Filter out stop words
-  filter(!word2 %in% stop_words$word) %>% 
-  count(word1, word2, sort = TRUE) %>% 
-  filter(!is.na(word1) & !is.na(word2))   
-    
 # Ensure `stop_words` data is available
 data("stop_words")
 
@@ -255,9 +236,14 @@ data("stop_words")
 remove_pattern <- paste(
   "title|pages|publication date|publication subject|publication type|issn|language of publication: english|",
   "document url|copyright|last updated|database|startofarticle|proquest document id|",
-  "classification|https|--|people|alt|language|english|length|words|publication|type|morg|york|times|'new york times'|publication   info|illustration|date|caption|[0-9.]|","new york times","alexandria virgina","ms jean", "identifier/keyword|twitter\\.|rauchway|keynes's|_ftn|enwikipediaorg|","wwwnytimescom|wwwoenbat|wwwpresidencyucsbedu|wwwalt|wwwthemoneyillusioncom|","aaa|predated|a_woman_to_reckon_with_the_vision_and_legacy_of_fran|ab_se|",
-  "jcr:fec|ac|___________________|\\bwww\\b|[_]+",sep = ""
+  "classification|https|--|people|alt|language|english|length|words|publication|type|morg|york|times|'new york times'|",
+  "publication info|illustration|date|caption|[0-9.]|new york times|alexandria virgina|ms jean|rights reserved|indo pific|",
+  "identifier/keyword|twitter\\.|rauchway|keynes's|_ftn|enwikipediaorg|",
+  "wwwnytimescom|wwwoenbat|wwwpresidencyucsbedu|wwwalt|wwwthemoneyillusioncom|",
+  "aaa|predated|a_woman_to_reckon_with_the_vision_and_legacy_of_fran|ab_se|jcr:fec|ac|\\bwww\\b|[_]+",
+  sep = ""
 )
+
 
 # Process bigrams
 bigrams <- articles_df %>% 
@@ -273,8 +259,7 @@ bigrams <- articles_df %>%
   separate(bigram, c("word1", "word2"), sep = " ") %>% 
   filter(!word1 %in% stop_words$word) %>%                 # Filter out stop words
   filter(!word2 %in% stop_words$word) %>% 
-  filter(!word1 %in% remove_pattern) %>% 
-  count(word1, word2, sort = TRUE) %>% 
+  count(word1, word2, sort = TRUE) %>%                   # Count bigrams
   filter(!is.na(word1) & !is.na(word2))                   # Filter out NAs
 
 bigrams
@@ -496,7 +481,7 @@ print(final_table)
 ```
 
 
-#In this part, i used the excel data downloaded from NexisUni to useful statistics
+#In this part, i used the excel data downloaded from NexisUni to generate some useful statistics
 
 #Create ggplot chart showing the distribution of the data over time
 
@@ -777,3 +762,13 @@ vizDataFrame <- vizDataFrame %>%
 
 ```
 ```
+## 800 word analysis
+
+Following my goal to analyze how U.S. organizations frame AI in press releases concerning disaster response and management to draw out relevant themes and trends, I run codes to try to answer the initial research questions, which were:
+  1. How is AI framed in organizational press releases related to disaster management?
+  2. What themes and narratives dominate discussions of AI in the context of natural disasters and crises?
+  3. What potential risks and ethical concerns regarding AI usage are highlighted in these communications?
+For a better understanding of the data, I attempted to answer the questions with evidence from the data. In this section, I will highlight each research question and provide some insights into the answers as derived from the data.
+
+#How is AI framed in organizational press releases related to disaster management?
+Here, I conducted sentiment analysis to gauge the sentiments of the key words used in most of the data collected. Using the NRC dictionary, it appeared most organizational press releases studied framed AI in both positive and negative ways. A breakdown of the words showed the massive use of words such as U.S, security, data, ai, including, etc. suggesting majority of the press releases came from government agencies such as the national security, government departments, among others. This means most of the press releases analyzed were from government organizations mainly based on natural disasters like pandemics, hurricanes, etc. But the sentiment analysis of the bigrams from these press releases showed mostly positive sentiments for words like disaster, defence, security and ai. 
