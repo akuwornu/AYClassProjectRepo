@@ -480,7 +480,6 @@ print(final_table)
 
 ```
 
-
 #In this part, i used the excel data downloaded from NexisUni to generate some useful statistics
 
 #Create ggplot chart showing the distribution of the data over time
